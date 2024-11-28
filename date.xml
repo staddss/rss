@@ -2,15 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>日次フィード</title>
-    <link>https://www.google.co.jp</link>
-    <description>1日分の区切りとしてのフィード</description>
+    <link>https://github.com/staddss/rss</link>
+    <description>2024/12/27 (金)</description>
     <language>ja</language>
 
     <item>
-      <title>▼2024/11/27 (水)</title>
-      <link>https://www.google.co.jp</link>
+      <title>▼ 2024/11/28 (木)</title>
+      <link>https://github.com/staddss/rss</link>
       <description>日時</description>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>241128183831</guid>
     </item>
 
   </channel>
