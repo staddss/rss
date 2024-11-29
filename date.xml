@@ -3,15 +3,15 @@
   <channel>
     <title>日次フィード</title>
     <link>https://github.com/staddss/rss</link>
-    <description>2024/12/27 (金)</description>
+    <description></description>
     <language>ja</language>
 
     <item>
-      <title>▼ 2024/11/28 (木)</title>
+      <title>▼ 2024/11/29 (金)</title>
       <link>https://github.com/staddss/rss</link>
-      <description>日時</description>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>241128183831</guid>
+      <description></description>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>241129183831</guid>
     </item>
 
   </channel>
