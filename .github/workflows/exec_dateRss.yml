@@ -35,6 +35,8 @@ jobs:
         run: chmod +x ./script/dateRss.sh
       
       - name: Run a script
+        env:
+          TZ: 'Asia/Tokyo'
         run: ./script/dateRss.sh
 
       - name: Commit
