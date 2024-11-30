@@ -1,10 +1,12 @@
 #!/bin/bash
 
-OUTPUT_FILE="rss.xml"
-TODAY_DATE=$(date +"%Y/%m/%d")
-WEEK=$(LC_TIME=ja_JP.UTF-8 date '+%a')
-ITEM_TITLE="▼ ${TODAY_DATE} (${WEEK})"
+export LC_TIME=ja_JP.UTF-8
+
+OUTPUT_FILE="date.xml"
 GUID=$(date +"%y%m%d%H%M%S")
+TODAY_DATE=$(date +"%Y/%m/%d")
+WEEK=$(date '+%a')
+ITEM_TITLE="▼ ${TODAY_DATE} (${WEEK})"
 
 cat <<EOF > "$OUTPUT_FILE"
 <?xml version="1.0" encoding="UTF-8"?>
