@@ -1,11 +1,9 @@
 #!/bin/bash
 
-export LC_TIME=ja_JP.UTF-8
-
 OUTPUT_FILE="date.xml"
-GUID=$(date +"%y%m%d%H%M%S")
-TODAY_DATE=$(date +"%Y/%m/%d")
-WEEK=$(date '+%a')
+GUID=$(LC_TIME=ja_JP.UTF-8 date +"%y%m%d%H%M%S")
+TODAY_DATE=$(LC_TIME=ja_JP.UTF-8 date +"%Y/%m/%d")
+WEEK=$(LC_TIME=ja_JP.UTF-8 date '+%a')
 ITEM_TITLE="▼ ${TODAY_DATE} (${WEEK})"
 
 cat <<EOF > "$OUTPUT_FILE"
