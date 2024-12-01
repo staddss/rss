@@ -3,8 +3,10 @@
 OUTPUT_FILE="date.xml"
 GUID=$(date +"%y%m%d%H%M%S")
 TODAY_DATE=$(date +"%Y/%m/%d")
-WEEK=$(date '+%a')
-ITEM_TITLE="▼ ${TODAY_DATE} (${WEEK})"
+TODAY_WEEK=$(date "+%a")
+LIMIT_DATE=$(date -d "+30 days" "+%Y/%m/%d")
+LIMIT_WEEK=$(date -d "+30 days" "+%a")
+ITEM_TITLE="▼ ${TODAY_DATE} (${TODAY_WEEK}) → ${LIMIT_DATE} (${LIMIT_WEEK})"
 
 cat <<EOF > "$OUTPUT_FILE"
 <?xml version="1.0" encoding="UTF-8"?>
