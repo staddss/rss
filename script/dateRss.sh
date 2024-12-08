@@ -19,7 +19,7 @@ cat <<EOF > "$OUTPUT_FILE"
 
     <item>
       <title>${ITEM_TITLE}</title>
-      <link>https://www.google.co.jp/search?q#${GUID}</link>
+      <link>https://www.google.co.jp/search?q=${GUID}</link>
       <description></description>
       <pubDate></pubDate>
       <guid>${GUID}</guid>
