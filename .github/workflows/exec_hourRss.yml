@@ -1,0 +1,53 @@
+# This is a basic workflow to help you get started with Actions
+
+name: exec_hourRss
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+env:
+  LANG: "ja_JP.UTF-8"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .
+
+    permissions:
+      contents: write
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+      
+      - name: Update locale
+        run: |
+          sudo locale-gen ja_JP.UTF-8
+          sudo update-locale LANG=ja_JP.UTF-8
+      
+      - name: Make the script files executable
+        run: chmod +x ./script/hourRss.sh
+      
+      - name: Run a script
+        env:
+          TZ: 'Asia/Tokyo'
+        run: ./script/hourRss.sh
+
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update hour.xml"
+          git push
