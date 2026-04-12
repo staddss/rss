@@ -41,7 +41,7 @@ jobs:
           TZ: 'Asia/Tokyo'
         run: |
           cd realtime
-          python3 ./script/realtimeRss.py "'Chromebook'"
+          python3 ./script/realtimeRss.py '"Chromebook"'
 
       - name: Commit
         run: |
