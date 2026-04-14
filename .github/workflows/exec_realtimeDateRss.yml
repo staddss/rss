@@ -41,6 +41,8 @@ jobs:
           TZ: 'Asia/Tokyo'
         run: |
           cd realtime
+          python3 ./script/realtimeRss.py '"Aluminium OS"'
+          sleep 10
           python3 ./script/realtimeRss.py '"ChromeOS"'
           sleep 10
           python3 ./script/realtimeRss.py '"Chromebox"'
@@ -69,9 +71,9 @@ jobs:
           sleep 10
           python3 ./script/realtimeRss.py '"EupneaOS"'
           sleep 10
-          python3 ./script/realtimeRss.py '"Chromebook apk"'
+          python3 ./script/realtimeRss.py '"Chromebook" "apk"'
           sleep 10
-          python3 ./script/realtimeRss.py '"Chrome adb"'
+          python3 ./script/realtimeRss.py '"Chrome" "adb"'
           sleep 10
           python3 ./script/realtimeRss.py '"chrome://flags"'
           sleep 10
@@ -83,7 +85,7 @@ jobs:
           sleep 10
           python3 ./script/realtimeRss.py '"Gitpod"'
           sleep 10
-          python3 ./script/realtimeRss.py '"Backblaze -別統計データ"'
+          python3 ./script/realtimeRss.py '"Backblaze" -別統計データ'
           sleep 10
           python3 ./script/realtimeRss.py '"MINISFORUM B550"'
           sleep 10
@@ -109,7 +111,7 @@ jobs:
           sleep 10
           python3 ./script/realtimeRss.py '"i3wm"'
           sleep 10
-          python3 ./script/realtimeRss.py '"タイル型WM OR タイル型ウインドウ OR タイル型ウィンドウ"'
+          python3 ./script/realtimeRss.py '"タイル型WM" OR "タイル型ウインドウ" OR "タイル型ウィンドウ"'
           sleep 10
           python3 ./script/realtimeRss.py '"xremap"'
           sleep 10
