@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo!リアルタイム検索 - &quot;i3wm&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22i3wm%22</link>
+    <description>Latest search results for '&quot;i3wm&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>とはいえ、タイリングが欲しいから、Pop Shellエクステンションを入れて使ってる。 Sway/ i3wm ほどじゃないけど、これで満足。</title>
+      <link>https://x.com/yasny_jp/status/2043631082487353732</link>
+      <description>ヤズニー: とはいえ、タイリングが欲しいから、Pop Shellエクステンションを入れて使ってる。 Sway/ i3wm ほどじゃないけど、これで満足。</description>
+      <pubDate>Mon, 13 Apr 2026 10:03:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yasny_jp/status/2043631082487353732</guid>
+    </item>
+    <item>
+      <title>一日中androidタブレット弄ってubuntuの i3wm 環境を作ってた。動くものはできたから、あとは趣味の領域だなぁ。 linuxのコマンドエラーとにらめっこしてると時間が溶けて行くので、物欲とか湧く余裕がなくて節約になる。 screenfetchがubuntuの方じゃなくてandroidを参照したのが笑える。 https://t.co/v1O1ugbu3H</title>
+      <link>https://x.com/dwarfwalkaround/status/2037871799409782800</link>
+      <description>こびと旅にでる: 一日中androidタブレット弄ってubuntuの i3wm 環境を作ってた。動くものはできたから、あとは趣味の領域だなぁ。 linuxのコマンドエラーとにらめっこしてると時間が溶けて行くので、物欲とか湧く余裕がなくて節約になる。 screenfetchがubuntuの方じゃなくてandroidを参照したのが笑える。 https://t.co/v1O1ugbu3H</description>
+      <pubDate>Sat, 28 Mar 2026 12:37:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dwarfwalkaround/status/2037871799409782800</guid>
+    </item>
+    <item>
+      <title>仮想でkali動かして思ったけど i3wm にこだわってもしょうがない気がしてきた、自分初心者だし</title>
+      <link>https://x.com/8GvgTffenU93139/status/2036762428508389560</link>
+      <description>世田谷大和: 仮想でkali動かして思ったけど i3wm にこだわってもしょうがない気がしてきた、自分初心者だし</description>
+      <pubDate>Wed, 25 Mar 2026 11:09:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/8GvgTffenU93139/status/2036762428508389560</guid>
+    </item>
+    <item>
+      <title>ペンテスト勉強中。『7日間でハッキングをはじめる本』からはじめてます。学習ログ残していく。 環境：Arch Linux / i3wm</title>
+      <link>https://x.com/8GvgTffenU93139/status/2036557586548531459</link>
+      <description>世田谷大和: ペンテスト勉強中。『7日間でハッキングをはじめる本』からはじめてます。学習ログ残していく。 環境：Arch Linux / i3wm</description>
+      <pubDate>Tue, 24 Mar 2026 21:35:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/8GvgTffenU93139/status/2036557586548531459</guid>
+    </item>
+    <item>
+      <title>中古で1万くらいで買ったノートPCにUbuntuと i3wm 入れてネットができるポメラみたいな扱いで使ってたがこの度、SSDが破損し起動しなくなる。簡単に交換できるタイプだったがSSDって128GBで5000円するんだな。今の時代メモリSSDの交換は思わぬ出費だわ。</title>
+      <link>https://x.com/amazonbotcom/status/2035250641816506531</link>
+      <description>まそっぷ: 中古で1万くらいで買ったノートPCにUbuntuと i3wm 入れてネットができるポメラみたいな扱いで使ってたがこの度、SSDが破損し起動しなくなる。簡単に交換できるタイプだったがSSDって128GBで5000円するんだな。今の時代メモリSSDの交換は思わぬ出費だわ。</description>
+      <pubDate>Sat, 21 Mar 2026 07:02:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amazonbotcom/status/2035250641816506531</guid>
+    </item>
+    <item>
+      <title>Ghostty、使ってみた。機能が造形美的に纏まったTilixって感じだった。ただ i3wm では設定が開けない等はあった。xorg-waylandを入れてXfce4かGNOMEから使ったほうが良さそう</title>
+      <link>https://x.com/0x4b70e37f9/status/2035219059340402877</link>
+      <description>YA-ZR0: Ghostty、使ってみた。機能が造形美的に纏まったTilixって感じだった。ただ i3wm では設定が開けない等はあった。xorg-waylandを入れてXfce4かGNOMEから使ったほうが良さそう</description>
+      <pubDate>Sat, 21 Mar 2026 04:56:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0x4b70e37f9/status/2035219059340402877</guid>
+    </item>
+    <item>
+      <title>ubuntu serverのウインドウマネージャーに i3wm 使ってたけど、bspwmのほうが設定がわかりやすくていいな。i3は設定ファイルが肥大化して触る気失せるけど、bspwmならシンプルで全然ストレスにならない。操作感だけ i3wm に合わせればかなり理想形。</title>
+      <link>https://x.com/dwarfwalkaround/status/2034833213412319722</link>
+      <description>こびと旅にでる: ubuntu serverのウインドウマネージャーに i3wm 使ってたけど、bspwmのほうが設定がわかりやすくていいな。i3は設定ファイルが肥大化して触る気失せるけど、bspwmならシンプルで全然ストレスにならない。操作感だけ i3wm に合わせればかなり理想形。</description>
+      <pubDate>Fri, 20 Mar 2026 03:23:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dwarfwalkaround/status/2034833213412319722</guid>
+    </item>
+  </channel>
+</rss>

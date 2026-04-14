@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo!リアルタイム検索 - &quot;Crostini&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
+    <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>@mattn_jp おっと抜群に優れている Crostini を忘れてもらっては困るな ()。</title>
+      <link>https://x.com/monamour555/status/2043669368211689708</link>
+      <description>もなか: @mattn_jp おっと抜群に優れている Crostini を忘れてもらっては困るな ()。</description>
+      <pubDate>Mon, 13 Apr 2026 12:35:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/monamour555/status/2043669368211689708</guid>
+    </item>
+    <item>
+      <title>crostini からPDFをGalleryアプリで開きたいが方法がわからん。ブラウザでは開ける。</title>
+      <link>https://x.com/APX6SDB23p51157/status/2043242374076502191</link>
+      <description>たらふく: crostini からPDFをGalleryアプリで開きたいが方法がわからん。ブラウザでは開ける。</description>
+      <pubDate>Sun, 12 Apr 2026 08:18:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/APX6SDB23p51157/status/2043242374076502191</guid>
+    </item>
+    <item>
+      <title>Duet 11 で VSCode 使ても問題なかったので多分 arm系CPUでは問題なし intel系CPU + crostini 固有の問題っぽい</title>
+      <link>https://x.com/rai_suta/status/2042843113593671758</link>
+      <description>rai_suta: Duet 11 で VSCode 使ても問題なかったので多分 arm系CPUでは問題なし intel系CPU + crostini 固有の問題っぽい</description>
+      <pubDate>Sat, 11 Apr 2026 05:52:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rai_suta/status/2042843113593671758</guid>
+    </item>
+    <item>
+      <title>ChromeOS crostini 環境の VSCode で日本語入力できなくなってしまった。 Gemini と相談しながら原因調査すると「Wayland 実装と ChromeOS IME との相性問題」とのこと コマンドラインオプションに x11 を指定すると日本語入力可能になった ``` code --ozone-platform=x11 ```</title>
+      <link>https://x.com/rai_suta/status/2042841472601591829</link>
+      <description>rai_suta: ChromeOS crostini 環境の VSCode で日本語入力できなくなってしまった。 Gemini と相談しながら原因調査すると「Wayland 実装と ChromeOS IME との相性問題」とのこと コマンドラインオプションに x11 を指定すると日本語入力可能になった ``` code --ozone-platform=x11 ```</description>
+      <pubDate>Sat, 11 Apr 2026 05:45:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rai_suta/status/2042841472601591829</guid>
+    </item>
+    <item>
+      <title>@SOU_BTC ①WindowsのWSLだと辛いので全環境Linuxに移動したけど、Claude CoworkがWaylandのせいかLinuxおま環＆Mac先行で辛かった、って感じですね。Chromebook＋ Crostini でもここ解決しないので。 ②メモリ容量もそうですけど帯域ですかねー。</title>
+      <link>https://x.com/0xmamedai/status/2041118175811825822</link>
+      <description>まめだい / mamedai 🐼🏴: @SOU_BTC ①WindowsのWSLだと辛いので全環境Linuxに移動したけど、Claude CoworkがWaylandのせいかLinuxおま環＆Mac先行で辛かった、って感じですね。Chromebook＋ Crostini でもここ解決しないので。 ②メモリ容量もそうですけど帯域ですかねー。</description>
+      <pubDate>Mon, 06 Apr 2026 11:37:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0xmamedai/status/2041118175811825822</guid>
+    </item>
+    <item>
+      <title>ChromeOSのデフォルトのLinux開発環境が Crostini からBaguetteに替わるまでにはウィンドウの最小化・最大化のボタンは直っていてほしいな https://t.co/NF3V0D1h2T</title>
+      <link>https://x.com/llama17/status/2038552119972929962</link>
+      <description>らま: ChromeOSのデフォルトのLinux開発環境が Crostini からBaguetteに替わるまでにはウィンドウの最小化・最大化のボタンは直っていてほしいな https://t.co/NF3V0D1h2T</description>
+      <pubDate>Mon, 30 Mar 2026 09:41:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2038552119972929962</guid>
+    </item>
+    <item>
+      <title>ChromeOSのベータチャンネルにM147が降ってきた。 遂にフラグDefaultでもLinux開発環境がBaguetteで作成されるようになった。 こちらでも復活した「Androidアプリの開発」の有効化でapkインストール可能。 vmcのサブコマンドにset- crostini -vm-type追加、起動時エラー関係かと触ってみたけど効果なし。 https://t.co/PPLEsZjRu5</title>
+      <link>https://x.com/staddss/status/2037799862461411491</link>
+      <description>ハタナカ: ChromeOSのベータチャンネルにM147が降ってきた。 遂にフラグDefaultでもLinux開発環境がBaguetteで作成されるようになった。 こちらでも復活した「Androidアプリの開発」の有効化でapkインストール可能。 vmcのサブコマンドにset- crostini -vm-type追加、起動時エラー関係かと触ってみたけど効果なし。 https://t.co/PPLEsZjRu5</description>
+      <pubDate>Sat, 28 Mar 2026 07:52:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/staddss/status/2037799862461411491</guid>
+    </item>
+    <item>
+      <title>Androidのターミナルアプリ。 セッションの再起動等も解決されて、アプリのインストールもできるようだ。 デスクトップモードの可能性も広がりそうだなぁ。 まだ、設定できない事もあるが、 Crostini に近くなってきてる感じ。#terminal https://t.co/RKrtlSknar</title>
+      <link>https://x.com/datsu00111/status/2037792884368482401</link>
+      <description>datsuryoku: Androidのターミナルアプリ。 セッションの再起動等も解決されて、アプリのインストールもできるようだ。 デスクトップモードの可能性も広がりそうだなぁ。 まだ、設定できない事もあるが、 Crostini に近くなってきてる感じ。#terminal https://t.co/RKrtlSknar</description>
+      <pubDate>Sat, 28 Mar 2026 07:24:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/datsu00111/status/2037792884368482401</guid>
+    </item>
+    <item>
+      <title>Chromebook の「ディスク上にvm_typeがない既存の Crostini VMは起動に失敗する」という問題は修正済みになったが…ターミナルが起動しない問題はまだ完全に修正されたわけじゃないっぽいな https://t.co/5dw8Za0hxd #chromebook</title>
+      <link>https://x.com/Helen_Tech/status/2037008527940870293</link>
+      <description>おむらまさひで(HelenTech): Chromebook の「ディスク上にvm_typeがない既存の Crostini VMは起動に失敗する」という問題は修正済みになったが…ターミナルが起動しない問題はまだ完全に修正されたわけじゃないっぽいな https://t.co/5dw8Za0hxd #chromebook</description>
+      <pubDate>Thu, 26 Mar 2026 03:27:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2037008527940870293</guid>
+    </item>
+    <item>
+      <title>Gemini曰く# crostini -gpu-supportはBaguetteでも効果があるらしい</title>
+      <link>https://x.com/llama17/status/2036801853888016507</link>
+      <description>らま: Gemini曰く# crostini -gpu-supportはBaguetteでも効果があるらしい</description>
+      <pubDate>Wed, 25 Mar 2026 13:46:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2036801853888016507</guid>
+    </item>
+    <item>
+      <title>同じChromebook内の2つのアカウントで、片方は Crostini 、もう片方はBaguetteという使い分けを同時に行うことはできないのか。</title>
+      <link>https://x.com/llama17/status/2036284776618066074</link>
+      <description>らま: 同じChromebook内の2つのアカウントで、片方は Crostini 、もう片方はBaguetteという使い分けを同時に行うことはできないのか。</description>
+      <pubDate>Tue, 24 Mar 2026 03:31:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2036284776618066074</guid>
+    </item>
+    <item>
+      <title>@y_mikou 基本的にchromeOS上のIMEで日本語入力ができるのですが、wine上でサクラエディタとか使いたい場合は、 crostini にXで使うIMEをインストールしないと日本語入力ができません。自分はfcitx-mozcで使ってます。動けばibusでもなんでもいいです。 ご参考ください。</title>
+      <link>https://x.com/teteten/status/2036018289135276116</link>
+      <description>【bot】てててｎ ™: @y_mikou 基本的にchromeOS上のIMEで日本語入力ができるのですが、wine上でサクラエディタとか使いたい場合は、 crostini にXで使うIMEをインストールしないと日本語入力ができません。自分はfcitx-mozcで使ってます。動けばibusでもなんでもいいです。 ご参考ください。</description>
+      <pubDate>Mon, 23 Mar 2026 09:52:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teteten/status/2036018289135276116</guid>
+    </item>
+    <item>
+      <title>@y_mikou 続き） ・ crostini 環境下のwine上で動かすWindows版エディタ という選択肢になってしまいます。 Web版エディタだとTungstenが良かったように思います。 全角キャラの削除をするとカーソルが半分だけずれる問題がありますが Tungsten Text Editor PWA - Google Play のアプリ https://t.co/ZCWRqaKP8w https://t.co/AmekMopZl6</title>
+      <link>https://x.com/teteten/status/2036017588296413395</link>
+      <description>【bot】てててｎ ™: @y_mikou 続き） ・ crostini 環境下のwine上で動かすWindows版エディタ という選択肢になってしまいます。 Web版エディタだとTungstenが良かったように思います。 全角キャラの削除をするとカーソルが半分だけずれる問題がありますが Tungsten Text Editor PWA - Google Play のアプリ https://t.co/ZCWRqaKP8w https://t.co/AmekMopZl6</description>
+      <pubDate>Mon, 23 Mar 2026 09:49:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teteten/status/2036017588296413395</guid>
+    </item>
+    <item>
+      <title>@y_mikou こんにちは。フォロー外から失礼します。 chromeOS139あたりかな？原則chromeアプリが起動不可になってしまって、Text以外のエディタが使えなくなってしまったんですよね。 ・Webアプリのエディタ ・Androidアプリのエディタ ・ crostini 環境下のlinuxで動くエディタ 続く）</title>
+      <link>https://x.com/teteten/status/2036016164971921548</link>
+      <description>【bot】てててｎ ™: @y_mikou こんにちは。フォロー外から失礼します。 chromeOS139あたりかな？原則chromeアプリが起動不可になってしまって、Text以外のエディタが使えなくなってしまったんですよね。 ・Webアプリのエディタ ・Androidアプリのエディタ ・ crostini 環境下のlinuxで動くエディタ 続く）</description>
+      <pubDate>Mon, 23 Mar 2026 09:44:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teteten/status/2036016164971921548</guid>
+    </item>
+    <item>
+      <title>ChromeOS 145 で SSH経由で転送されたポートで非常に高いレイテンシが発生（ Crostini の VS Code） この問題について、ベータ版（146.0.7680.60）にアップデートしたところ、問題は改善されたようです https://t.co/lsxdHMK54S #Chromebook</title>
+      <link>https://x.com/Helen_Tech/status/2035905103211966776</link>
+      <description>おむらまさひで(HelenTech): ChromeOS 145 で SSH経由で転送されたポートで非常に高いレイテンシが発生（ Crostini の VS Code） この問題について、ベータ版（146.0.7680.60）にアップデートしたところ、問題は改善されたようです https://t.co/lsxdHMK54S #Chromebook</description>
+      <pubDate>Mon, 23 Mar 2026 02:22:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2035905103211966776</guid>
+    </item>
+    <item>
+      <title>ちょっと前に流行ったレトロPCのBASICでメキシカンハット描かせるやつ。 ChromeOSの crostini 上で動くDOSVAXJ上のQBASICです。 ソースはGemini生成。ちょっとだけパラメーターいじりました。 https://t.co/InzGnpwYL5</title>
+      <link>https://x.com/teteten/status/2033606069612904467</link>
+      <description>【bot】てててｎ ™: ちょっと前に流行ったレトロPCのBASICでメキシカンハット描かせるやつ。 ChromeOSの crostini 上で動くDOSVAXJ上のQBASICです。 ソースはGemini生成。ちょっとだけパラメーターいじりました。 https://t.co/InzGnpwYL5</description>
+      <pubDate>Mon, 16 Mar 2026 18:07:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teteten/status/2033606069612904467</guid>
+    </item>
+  </channel>
+</rss>

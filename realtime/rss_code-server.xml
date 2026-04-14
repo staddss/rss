@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo!リアルタイム検索 - &quot;code-server&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
+    <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>閉域でclaude-code + vs codeを快適に使えるようにするcontainer整備してる｡ code server モード､初めて使ってみてるけど結構まともに使えるな</title>
+      <link>https://x.com/u1/status/2042979329253216621</link>
+      <description>Yuichi Uemura: 閉域でclaude-code + vs codeを快適に使えるようにするcontainer整備してる｡ code server モード､初めて使ってみてるけど結構まともに使えるな</description>
+      <pubDate>Sat, 11 Apr 2026 14:53:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/u1/status/2042979329253216621</guid>
+    </item>
+    <item>
+      <title>code - server とTailscaleで出先からいつでもお仕事のつもりが車内のネットが貧弱で敗北… https://t.co/2mfZ3qji2i</title>
+      <link>https://x.com/inody_/status/2042899801948172734</link>
+      <description>inody: code - server とTailscaleで出先からいつでもお仕事のつもりが車内のネットが貧弱で敗北… https://t.co/2mfZ3qji2i</description>
+      <pubDate>Sat, 11 Apr 2026 09:37:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/inody_/status/2042899801948172734</guid>
+    </item>
+    <item>
+      <title>これで電車内でも開発ができる。 すまほだと小さかったけど、8.4inchもあるからかなりやりやすい code - server 立ってるから、リモート接続できるし</title>
+      <link>https://x.com/hb_locu/status/2040832372862783744</link>
+      <description>ロク🐈🐾︎🤍: これで電車内でも開発ができる。 すまほだと小さかったけど、8.4inchもあるからかなりやりやすい code - server 立ってるから、リモート接続できるし</description>
+      <pubDate>Sun, 05 Apr 2026 16:42:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hb_locu/status/2040832372862783744</guid>
+    </item>
+    <item>
+      <title>code - server だとdevcontainer出来ないが、Remote-SSHならdevcontainerできるのか</title>
+      <link>https://x.com/mushroom080/status/2039787218232099171</link>
+      <description>マッシュルーム: code - server だとdevcontainer出来ないが、Remote-SSHならdevcontainerできるのか</description>
+      <pubDate>Thu, 02 Apr 2026 19:29:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mushroom080/status/2039787218232099171</guid>
+    </item>
+    <item>
+      <title>caddy挟んでSSLでも code server のブラウザ部分でアウト、結局github code spacesにpyxel拡張入れて試すのが無難だった。 特に何か作るわけじゃないけどログインできればどこからでも再開できるって点は理想形か</title>
+      <link>https://x.com/rinedon/status/2039251378493899163</link>
+      <description>りね: caddy挟んでSSLでも code server のブラウザ部分でアウト、結局github code spacesにpyxel拡張入れて試すのが無難だった。 特に何か作るわけじゃないけどログインできればどこからでも再開できるって点は理想形か</description>
+      <pubDate>Wed, 01 Apr 2026 07:59:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rinedon/status/2039251378493899163</guid>
+    </item>
+    <item>
+      <title>Androidターミナルアプリで code - server とollamaを動かしてみた。 意外と早く動いて軽快！ ターミナルアプリの完成度が高くなってきてる。 #Pixel9a #Linux #Androidターミナル https://t.co/l8GbCOphlm</title>
+      <link>https://x.com/datsu00111/status/2038523808517362047</link>
+      <description>datsuryoku: Androidターミナルアプリで code - server とollamaを動かしてみた。 意外と早く動いて軽快！ ターミナルアプリの完成度が高くなってきてる。 #Pixel9a #Linux #Androidターミナル https://t.co/l8GbCOphlm</description>
+      <pubDate>Mon, 30 Mar 2026 07:48:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/datsu00111/status/2038523808517362047</guid>
+    </item>
+    <item>
+      <title>ssh+ code server 便利ね、めちゃ便利</title>
+      <link>https://x.com/Shade0123/status/2038101914131571154</link>
+      <description>Shade: ssh+ code server 便利ね、めちゃ便利</description>
+      <pubDate>Sun, 29 Mar 2026 03:52:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Shade0123/status/2038101914131571154</guid>
+    </item>
+    <item>
+      <title>コードを読むくらいでしか vscode 使わなくなったので, code - server 立てて cmux の in app browser でコード読むようにしたけどかなり快適。いよいよ coding agent によって editor の中のターミナルからターミナルの中の editor という形に構造が逆転した</title>
+      <link>https://x.com/Shinyaigeek/status/2037859299150741587</link>
+      <description>Shinyaigeek/Shinobu Hayashi: コードを読むくらいでしか vscode 使わなくなったので, code - server 立てて cmux の in app browser でコード読むようにしたけどかなり快適。いよいよ coding agent によって editor の中のターミナルからターミナルの中の editor という形に構造が逆転した</description>
+      <pubDate>Sat, 28 Mar 2026 11:48:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Shinyaigeek/status/2037859299150741587</guid>
+    </item>
+    <item>
+      <title>スマホでの開発環境構築を模索。コーディングはサーバでやればいいや、とサーバ（Ubuntu）に code - server をインストールしてWeb UIでスマホからVS Codeを、、と思ったが案の定、画面が小さすぎて無理だった。6.6インチでソフトウェアキーボード使用だとほぼコードが見えない。</title>
+      <link>https://x.com/rce212/status/2037048605656392108</link>
+      <description>rce2: スマホでの開発環境構築を模索。コーディングはサーバでやればいいや、とサーバ（Ubuntu）に code - server をインストールしてWeb UIでスマホからVS Codeを、、と思ったが案の定、画面が小さすぎて無理だった。6.6インチでソフトウェアキーボード使用だとほぼコードが見えない。</description>
+      <pubDate>Thu, 26 Mar 2026 06:06:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rce212/status/2037048605656392108</guid>
+    </item>
+    <item>
+      <title>NextCloud一応、手打ちとなりました。 まーーー、こんなもんでしょ。 本体バージョンアップ、 Collabora Online - Built-in CODE Server バージョンアップ成功、有効か成功、 でも、不具合のクセは取れず、・・・。 これで、一応今日はおしまい。 Claudeとのやり取りに興味がある方はご覧ください。</title>
+      <link>https://x.com/msweb652822/status/2036360830548320477</link>
+      <description>msweb: NextCloud一応、手打ちとなりました。 まーーー、こんなもんでしょ。 本体バージョンアップ、 Collabora Online - Built-in CODE Server バージョンアップ成功、有効か成功、 でも、不具合のクセは取れず、・・・。 これで、一応今日はおしまい。 Claudeとのやり取りに興味がある方はご覧ください。</description>
+      <pubDate>Tue, 24 Mar 2026 08:33:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/msweb652822/status/2036360830548320477</guid>
+    </item>
+    <item>
+      <title>古いノートPCにChromeOFlex入れて、メインマシンに code - server たちあげて、ノートPCからcodeserver経由で接続してるんだけど、結構便利かもしれん</title>
+      <link>https://x.com/Shade0123/status/2034785384711008594</link>
+      <description>Shade: 古いノートPCにChromeOFlex入れて、メインマシンに code - server たちあげて、ノートPCからcodeserver経由で接続してるんだけど、結構便利かもしれん</description>
+      <pubDate>Fri, 20 Mar 2026 00:13:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Shade0123/status/2034785384711008594</guid>
+    </item>
+    <item>
+      <title>claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude/gptを相互に便利に使っている環境になれ始めたところで、凄い虚無感ありビール飲んで寝る</title>
+      <link>https://x.com/pastel_orbit/status/2034306953443422678</link>
+      <description>Izu@ゲームプログラマが語る: claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude/gptを相互に便利に使っている環境になれ始めたところで、凄い虚無感ありビール飲んで寝る</description>
+      <pubDate>Wed, 18 Mar 2026 16:32:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pastel_orbit/status/2034306953443422678</guid>
+    </item>
+    <item>
+      <title>claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude70%/gpt30%の様な環境に慣れてしまうと、凄い虚無感あってビール飲んで寝る tailscale張って常時起動させはじめたお役御免予定だったｍac</title>
+      <link>https://x.com/pastel_orbit/status/2034306282715582465</link>
+      <description>Izu@ゲームプログラマが語る: claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude70%/gpt30%の様な環境に慣れてしまうと、凄い虚無感あってビール飲んで寝る tailscale張って常時起動させはじめたお役御免予定だったｍac</description>
+      <pubDate>Wed, 18 Mar 2026 16:29:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pastel_orbit/status/2034306282715582465</guid>
+    </item>
+    <item>
+      <title>メインの仕事に関係ないclaude code server ばっかり触ってた… しかしgpt-5.3-codex-spark鬼早すぎて人間の方が追いつかないレベル https://t.co/fqVIcyfMCc</title>
+      <link>https://x.com/mihocrsdrsr/status/2034263024941617183</link>
+      <description>miho♂ち: メインの仕事に関係ないclaude code server ばっかり触ってた… しかしgpt-5.3-codex-spark鬼早すぎて人間の方が追いつかないレベル https://t.co/fqVIcyfMCc</description>
+      <pubDate>Wed, 18 Mar 2026 13:37:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mihocrsdrsr/status/2034263024941617183</guid>
+    </item>
+  </channel>
+</rss>

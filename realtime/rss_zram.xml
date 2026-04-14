@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo!リアルタイム検索 - &quot;zram&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
+    <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>最近ずっと Amazon Linux から遠ざかってたから、更新情報も見てなかった😅 zram swap が使えるようになってたのね。 https://t.co/9ELBFG5qmH nanoサイズのEC2、もうちょい使い道増えるかな。可用性が大して重要ではないところで試しに使ってみるか〜。</title>
+      <link>https://x.com/t_motooka/status/2043372800573047173</link>
+      <description>T.MOTOOKA: 最近ずっと Amazon Linux から遠ざかってたから、更新情報も見てなかった😅 zram swap が使えるようになってたのね。 https://t.co/9ELBFG5qmH nanoサイズのEC2、もうちょい使い道増えるかな。可用性が大して重要ではないところで試しに使ってみるか〜。</description>
+      <pubDate>Sun, 12 Apr 2026 16:56:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_motooka/status/2043372800573047173</guid>
+    </item>
+    <item>
+      <title>@moonphase16 4GBだと zram チューニングで体感が変わりますよ。うちでもそのチューニング込みで販売しています。</title>
+      <link>https://x.com/penguin_comp/status/2042143718258757843</link>
+      <description>ペンギンコンピュータ: @moonphase16 4GBだと zram チューニングで体感が変わりますよ。うちでもそのチューニング込みで販売しています。</description>
+      <pubDate>Thu, 09 Apr 2026 07:32:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/penguin_comp/status/2042143718258757843</guid>
+    </item>
+    <item>
+      <title>ZRAM とswapfileが山盛りだからマルチタスクを欲張らなければOOMにはならないとはいえ、古い低電圧i7の2コアとRAM4GBでソフトウェアをビルドするのは堪える 待てば進むだけ何をやってもうまくいかないよりは楽だが……</title>
+      <link>https://x.com/hogehoge61/status/2041862699571933363</link>
+      <description>ほげ: ZRAM とswapfileが山盛りだからマルチタスクを欲張らなければOOMにはならないとはいえ、古い低電圧i7の2コアとRAM4GBでソフトウェアをビルドするのは堪える 待てば進むだけ何をやってもうまくいかないよりは楽だが……</description>
+      <pubDate>Wed, 08 Apr 2026 12:56:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hogehoge61/status/2041862699571933363</guid>
+    </item>
+    <item>
+      <title>なお、 zram が悪さしてるんじゃないか説では無かった😆 https://t.co/nRrUwGtHEH</title>
+      <link>https://x.com/TaroKichijo/status/2041511041147064683</link>
+      <description>Kichitaro (Kichi Shotaro): なお、 zram が悪さしてるんじゃないか説では無かった😆 https://t.co/nRrUwGtHEH</description>
+      <pubDate>Tue, 07 Apr 2026 13:38:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TaroKichijo/status/2041511041147064683</guid>
+    </item>
+    <item>
+      <title>Raspbian、いつのまにか zram が標準になってるのね。普通のSwapファイルに戻すには、/etc/rpi/swap.conf辺りをいじるとかなの、まあわかりやすいか。 https://t.co/pYk9XzUQsx</title>
+      <link>https://x.com/TaroKichijo/status/2041506116321091836</link>
+      <description>Kichitaro (Kichi Shotaro): Raspbian、いつのまにか zram が標準になってるのね。普通のSwapファイルに戻すには、/etc/rpi/swap.conf辺りをいじるとかなの、まあわかりやすいか。 https://t.co/pYk9XzUQsx</description>
+      <pubDate>Tue, 07 Apr 2026 13:19:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TaroKichijo/status/2041506116321091836</guid>
+    </item>
+    <item>
+      <title>メモリは4GBしかないのでカツカツだけど、 zram でなんとかなってる。（つまりここもmacOS風にした） Discord, Firefox, 端末 くらいなら同時に起動しても全然普通に使える。 https://t.co/87RvQbFyKu</title>
+      <link>https://x.com/0x71ff/status/2041139303766704578</link>
+      <description>0x71: メモリは4GBしかないのでカツカツだけど、 zram でなんとかなってる。（つまりここもmacOS風にした） Discord, Firefox, 端末 くらいなら同時に起動しても全然普通に使える。 https://t.co/87RvQbFyKu</description>
+      <pubDate>Mon, 06 Apr 2026 13:01:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0x71ff/status/2041139303766704578</guid>
+    </item>
+    <item>
+      <title>PulseAudioの異常と関係するかは分からんが zram へのswapが多めになってる気がするのでswappinessを60に戻す…</title>
+      <link>https://x.com/cxx/status/2040589806380732493</link>
+      <description>cxx: PulseAudioの異常と関係するかは分からんが zram へのswapが多めになってる気がするのでswappinessを60に戻す…</description>
+      <pubDate>Sun, 05 Apr 2026 00:38:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cxx/status/2040589806380732493</guid>
+    </item>
+    <item>
+      <title>zram の設定をどうしようかというのもある このあたり全然ノウハウがない</title>
+      <link>https://x.com/0x71ff/status/2040453927595126991</link>
+      <description>0x71: zram の設定をどうしようかというのもある このあたり全然ノウハウがない</description>
+      <pubDate>Sat, 04 Apr 2026 15:38:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0x71ff/status/2040453927595126991</guid>
+    </item>
+    <item>
+      <title>Zram でメモリ圧縮して無理やりLLM動かすかー。4GBのVMでどこまで動くか実験。</title>
+      <link>https://x.com/WhaleOnSand/status/2038535801534030101</link>
+      <description>うみの藻屑: Zram でメモリ圧縮して無理やりLLM動かすかー。4GBのVMでどこまで動くか実験。</description>
+      <pubDate>Mon, 30 Mar 2026 08:36:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/WhaleOnSand/status/2038535801534030101</guid>
+    </item>
+    <item>
+      <title>ZRAM 周りをQwenと確認しながら再設定していたら夜が明けた</title>
+      <link>https://x.com/hogehoge61/status/2038362761907106286</link>
+      <description>ほげ: ZRAM 周りをQwenと確認しながら再設定していたら夜が明けた</description>
+      <pubDate>Sun, 29 Mar 2026 21:08:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hogehoge61/status/2038362761907106286</guid>
+    </item>
+    <item>
+      <title>私のLinuxデスクトップでメモリ圧縮するなら、 zRAM が良いか、それともUbuntu デフォルトのzswapのままが良いか、AI同士で議論をさせた。Google Gemini対Grok。 Geminiは zRAM 推しでGrokはzswap推し。 USB外部SSDからの起動と分かるとGrokも zRAM 推しになった。理由はUSB回路でのエラーを減らすため。 https://t.co/RzIwvgY6zO</title>
+      <link>https://x.com/krillplankton/status/2038296353533780344</link>
+      <description>みじんこ先生🐰🥕: 私のLinuxデスクトップでメモリ圧縮するなら、 zRAM が良いか、それともUbuntu デフォルトのzswapのままが良いか、AI同士で議論をさせた。Google Gemini対Grok。 Geminiは zRAM 推しでGrokはzswap推し。 USB外部SSDからの起動と分かるとGrokも zRAM 推しになった。理由はUSB回路でのエラーを減らすため。 https://t.co/RzIwvgY6zO</description>
+      <pubDate>Sun, 29 Mar 2026 16:44:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/krillplankton/status/2038296353533780344</guid>
+    </item>
+    <item>
+      <title>GPU上で zram するのが多少でも意味があるのなら、GreeBoostと組み合わせると、メモリ階層が一段増えるやん？</title>
+      <link>https://x.com/masahiko_kimoto/status/2037377431687119033</link>
+      <description>Masahiko KIMOTO 木本雅彦: GPU上で zram するのが多少でも意味があるのなら、GreeBoostと組み合わせると、メモリ階層が一段増えるやん？</description>
+      <pubDate>Fri, 27 Mar 2026 03:53:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/masahiko_kimoto/status/2037377431687119033</guid>
+    </item>
+    <item>
+      <title>せんせー、しつもんです。GPU内部で zram みたいなことって、できない or できるけれどオーバーヘッドが高い or できるけれどデータセット的に非効率 のどれなんでしょうか？ https://t.co/kayxzNzdce</title>
+      <link>https://x.com/masahiko_kimoto/status/2037376408536941005</link>
+      <description>Masahiko KIMOTO 木本雅彦: せんせー、しつもんです。GPU内部で zram みたいなことって、できない or できるけれどオーバーヘッドが高い or できるけれどデータセット的に非効率 のどれなんでしょうか？ https://t.co/kayxzNzdce</description>
+      <pubDate>Fri, 27 Mar 2026 03:49:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/masahiko_kimoto/status/2037376408536941005</guid>
+    </item>
+    <item>
+      <title>@shirangCC @RainBuild_2024 内存扩展就是控制 Zram 的大小</title>
+      <link>https://x.com/Timfurry233/status/2037145209755361549</link>
+      <description>xiaohuangbo🔜绒爪兽聚FURPAW: @shirangCC @RainBuild_2024 内存扩展就是控制 Zram 的大小</description>
+      <pubDate>Thu, 26 Mar 2026 12:30:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Timfurry233/status/2037145209755361549</guid>
+    </item>
+    <item>
+      <title>https://t.co/lq825K5fDj Linuxの圧縮スワップ技術「zswap」と「 zram 」に関する一般的な誤解を解く記事。 ほとんどの用途ではzswapが推奨され、 zram は特定の組み込みシステムに限定すべきだと解説。 zswapはカーネルと密接に統合され効率的、 zram は設定が複雑で性能低下リスクがある点を詳述。</title>
+      <link>https://x.com/topickapp_com/status/2036821658850206193</link>
+      <description>topickapp (IT技術系ニュースサイト): https://t.co/lq825K5fDj Linuxの圧縮スワップ技術「zswap」と「 zram 」に関する一般的な誤解を解く記事。 ほとんどの用途ではzswapが推奨され、 zram は特定の組み込みシステムに限定すべきだと解説。 zswapはカーネルと密接に統合され効率的、 zram は設定が複雑で性能低下リスクがある点を詳述。</description>
+      <pubDate>Wed, 25 Mar 2026 15:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/topickapp_com/status/2036821658850206193</guid>
+    </item>
+    <item>
+      <title>zero系ラズパイは zram 必須かもな ram確保とmicroSD書き込み削減に 耐障害性を考えてupsや電断シグナルでアーカイブをプッシュするロジックは必要だけど</title>
+      <link>https://x.com/___Tokino/status/2036587897483366430</link>
+      <description>ときの: zero系ラズパイは zram 必須かもな ram確保とmicroSD書き込み削減に 耐障害性を考えてupsや電断シグナルでアーカイブをプッシュするロジックは必要だけど</description>
+      <pubDate>Tue, 24 Mar 2026 23:36:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/___Tokino/status/2036587897483366430</guid>
+    </item>
+    <item>
+      <title>Zswapと Zram に関する誤解を解く Debunking Zswap and Zram Myths https://t.co/FFE5z5la45 2026-03-25 05:00:13 +0900</title>
+      <link>https://x.com/hackernewsj/status/2036533563500404909</link>
+      <description>Hacker News 日本語翻訳: Zswapと Zram に関する誤解を解く Debunking Zswap and Zram Myths https://t.co/FFE5z5la45 2026-03-25 05:00:13 +0900</description>
+      <pubDate>Tue, 24 Mar 2026 20:00:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hackernewsj/status/2036533563500404909</guid>
+    </item>
+    <item>
+      <title>Linuxと同じ zram してるんだと思う 他のmacのメモリ消費は別にそんな変わらんし つまりね、Microsoftは何も努力してない。Appleは少量のRAMしか搭載できないスマホ用チップ流用のmacには、ちゃんとした仕組みを追加した。 企業努力が全然違うんだよ https://t.co/w9pQdyLVZ0</title>
+      <link>https://x.com/MCtech_Ringo/status/2036366391968956503</link>
+      <description>erialsan: Linuxと同じ zram してるんだと思う 他のmacのメモリ消費は別にそんな変わらんし つまりね、Microsoftは何も努力してない。Appleは少量のRAMしか搭載できないスマホ用チップ流用のmacには、ちゃんとした仕組みを追加した。 企業努力が全然違うんだよ https://t.co/w9pQdyLVZ0</description>
+      <pubDate>Tue, 24 Mar 2026 08:55:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MCtech_Ringo/status/2036366391968956503</guid>
+    </item>
+    <item>
+      <title>Zram は神 https://t.co/qx0IVCzNKv</title>
+      <link>https://x.com/MCtech_Ringo/status/2035945596176265557</link>
+      <description>erialsan: Zram は神 https://t.co/qx0IVCzNKv</description>
+      <pubDate>Mon, 23 Mar 2026 05:03:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MCtech_Ringo/status/2035945596176265557</guid>
+    </item>
+    <item>
+      <title>zram - Gentoo Wiki https://t.co/nT2VjwxK6n うお、なんか「Snippet」とかいう素敵なセクションが生えとる。素晴らしいぞ</title>
+      <link>https://x.com/lo48576/status/2034729478728163832</link>
+      <description>RJ百科通: zram - Gentoo Wiki https://t.co/nT2VjwxK6n うお、なんか「Snippet」とかいう素敵なセクションが生えとる。素晴らしいぞ</description>
+      <pubDate>Thu, 19 Mar 2026 20:31:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lo48576/status/2034729478728163832</guid>
+    </item>
+    <item>
+      <title>ChromeOSは数年前はなかった zram _writeback（ストレージへの書き出し）や、recomp algorithm（高速なlz4で圧縮→圧縮率の高いzstdで再圧縮）も実装されてる。 直近でもメンテナーのSergey Senozhatsky氏が、writeback時に発生するオーバーヘッド（一度解凍しないと書き出せない）の解消に着手してる。</title>
+      <link>https://x.com/katatumurisiroi/status/2034271971266150844</link>
+      <description>inuashihayasugiru: ChromeOSは数年前はなかった zram _writeback（ストレージへの書き出し）や、recomp algorithm（高速なlz4で圧縮→圧縮率の高いzstdで再圧縮）も実装されてる。 直近でもメンテナーのSergey Senozhatsky氏が、writeback時に発生するオーバーヘッド（一度解凍しないと書き出せない）の解消に着手してる。</description>
+      <pubDate>Wed, 18 Mar 2026 14:13:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/katatumurisiroi/status/2034271971266150844</guid>
+    </item>
+    <item>
+      <title>@moguno zram 高優先+SSD低優先だけではcoldページの自動移動はなく、 zram 満杯までSSD未使用です。 zswapなら可能です。圧縮RAMキャッシュとしてhotページを保持し、coldをSSD swapへevictするので、まさに「頻度高いページを高速、低いをSSD」に近い運用に最適。 設定: zswap.enabled=1 (GRUB/kernel</title>
+      <link>https://x.com/grok/status/2034041588263907674</link>
+      <description>Grok: @moguno zram 高優先+SSD低優先だけではcoldページの自動移動はなく、 zram 満杯までSSD未使用です。 zswapなら可能です。圧縮RAMキャッシュとしてhotページを保持し、coldをSSD swapへevictするので、まさに「頻度高いページを高速、低いをSSD」に近い運用に最適。 設定: zswap.enabled=1 (GRUB/kernel</description>
+      <pubDate>Tue, 17 Mar 2026 22:57:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2034041588263907674</guid>
+    </item>
+    <item>
+      <title>@moguno zram swapのほうが速いです。 RAM内で圧縮/伸長するのでアクセスがメモリ速度（数ns〜数十ns）で、SSD（NVMeでもμsオーダー）のI/Oよりレイテンシが圧倒的に低いです。 CPUオーバーヘッドはlz4/zstdで小さく、ベンチでも zram が有利。SSDスワップはI/O待ちで遅延しやすいので、 zram 推奨。</title>
+      <link>https://x.com/grok/status/2034039957384217036</link>
+      <description>Grok: @moguno zram swapのほうが速いです。 RAM内で圧縮/伸長するのでアクセスがメモリ速度（数ns〜数十ns）で、SSD（NVMeでもμsオーダー）のI/Oよりレイテンシが圧倒的に低いです。 CPUオーバーヘッドはlz4/zstdで小さく、ベンチでも zram が有利。SSDスワップはI/O待ちで遅延しやすいので、 zram 推奨。</description>
+      <pubDate>Tue, 17 Mar 2026 22:51:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2034039957384217036</guid>
+    </item>
+    <item>
+      <title>最近、 zram というものを知って、alpineには標準でないから導入しようかなって考えてる。</title>
+      <link>https://x.com/NatuyasaiN/status/2033840591180861466</link>
+      <description>Natuo Natuyasai: 最近、 zram というものを知って、alpineには標準でないから導入しようかなって考えてる。</description>
+      <pubDate>Tue, 17 Mar 2026 09:39:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NatuyasaiN/status/2033840591180861466</guid>
+    </item>
+    <item>
+      <title>RAMを圧縮したりしてswapを使うのを減らしているのがmacOS独自技術だと思いこんでいる( zRAM 相当の技術) 信者が本当にうざい</title>
+      <link>https://x.com/joukan_jakusha/status/2033173406003466512</link>
+      <description>情報弱者であると同時に、情感弱者: RAMを圧縮したりしてswapを使うのを減らしているのがmacOS独自技術だと思いこんでいる( zRAM 相当の技術) 信者が本当にうざい</description>
+      <pubDate>Sun, 15 Mar 2026 13:28:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joukan_jakusha/status/2033173406003466512</guid>
+    </item>
+    <item>
+      <title>午前のテック速報分析11件。チップが足りない世界で、何が崩れ始めたか。 ■ Linux / OSS ・GIMP 3.2が安定版に。非破壊編集とベクターレイヤー、20年越しの進化 ・メモリが買えないなら zram で圧縮。Linux流の生存戦略 ■ Apple ・MacBook https://t.co/IaPTHbxCxu</title>
+      <link>https://x.com/joho_no_todai/status/2032988690470011122</link>
+      <description>情報の灯台: 午前のテック速報分析11件。チップが足りない世界で、何が崩れ始めたか。 ■ Linux / OSS ・GIMP 3.2が安定版に。非破壊編集とベクターレイヤー、20年越しの進化 ・メモリが買えないなら zram で圧縮。Linux流の生存戦略 ■ Apple ・MacBook https://t.co/IaPTHbxCxu</description>
+      <pubDate>Sun, 15 Mar 2026 01:14:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2032988690470011122</guid>
+    </item>
+    <item>
+      <title>1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</title>
+      <link>https://x.com/joho_no_todai/status/2032968210996470196</link>
+      <description>情報の灯台: 1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</description>
+      <pubDate>Sat, 14 Mar 2026 23:52:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2032968210996470196</guid>
+    </item>
+    <item>
+      <title>Linuxの ZRAM 、LZ4辞書圧縮が50%以上速くなるパッチが登場。 変更はわずか57行。 毎回実行していた辞書の前処理を一度だけに変え、以降はその結果をコピーして使う。 見落とされ続けた無駄を、HONORのエンジニアがピンポイントで止めた。</title>
+      <link>https://x.com/joho_no_todai/status/2031649381590687781</link>
+      <description>情報の灯台: Linuxの ZRAM 、LZ4辞書圧縮が50%以上速くなるパッチが登場。 変更はわずか57行。 毎回実行していた辞書の前処理を一度だけに変え、以降はその結果をコピーして使う。 見落とされ続けた無駄を、HONORのエンジニアがピンポイントで止めた。</description>
+      <pubDate>Wed, 11 Mar 2026 08:32:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2031649381590687781</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo!リアルタイム検索 - &quot;Pipewire&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
+    <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>Linuxの音声周りの理解度が少し上がった PipeWire 素晴らしいな</title>
+      <link>https://x.com/MechaYutori/status/2042396713269522897</link>
+      <description>Yutori/ゆとりん: Linuxの音声周りの理解度が少し上がった PipeWire 素晴らしいな</description>
+      <pubDate>Fri, 10 Apr 2026 00:18:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MechaYutori/status/2042396713269522897</guid>
+    </item>
+    <item>
+      <title>gstreamerと pipewire の関係がよくわかりません https://t.co/t9X6pmrGsG</title>
+      <link>https://x.com/gardenpapa/status/2041989139118354905</link>
+      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: gstreamerと pipewire の関係がよくわかりません https://t.co/t9X6pmrGsG</description>
+      <pubDate>Wed, 08 Apr 2026 21:18:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gardenpapa/status/2041989139118354905</guid>
+    </item>
+    <item>
+      <title>PipeWire 使ってみたいな</title>
+      <link>https://x.com/taisan11_/status/2041353268459401266</link>
+      <description>taisan@@: PipeWire 使ってみたいな</description>
+      <pubDate>Tue, 07 Apr 2026 03:12:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taisan11_/status/2041353268459401266</guid>
+    </item>
+    <item>
+      <title>とりあえず Pipewire でcombine sinkを作って、 qpwgraphでゲーム音→combine sink→steamレコーディングって感じにケーブルを繋げる steamレコーディングサイドにモニターされてるデスクトップ音を消す という感じでどうにか形になった https://t.co/lXLCzqjyRi https://t.co/r5jSFtmWZR</title>
+      <link>https://x.com/goah_simulator/status/2040834522976252168</link>
+      <description>監獄島ごあごあーん / 監獄ごあごあ: とりあえず Pipewire でcombine sinkを作って、 qpwgraphでゲーム音→combine sink→steamレコーディングって感じにケーブルを繋げる steamレコーディングサイドにモニターされてるデスクトップ音を消す という感じでどうにか形になった https://t.co/lXLCzqjyRi https://t.co/r5jSFtmWZR</description>
+      <pubDate>Sun, 05 Apr 2026 16:50:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/goah_simulator/status/2040834522976252168</guid>
+    </item>
+    <item>
+      <title>PipeWire のPulseAudio互換がちゃんと鳴ったら良かったんだけどなぜかまともに動かんからなあ</title>
+      <link>https://x.com/cxx/status/2040804824221208590</link>
+      <description>cxx: PipeWire のPulseAudio互換がちゃんと鳴ったら良かったんだけどなぜかまともに動かんからなあ</description>
+      <pubDate>Sun, 05 Apr 2026 14:52:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cxx/status/2040804824221208590</guid>
+    </item>
+    <item>
+      <title>Linuxコロコロとか思い出しただけで吐き気する(Flatpak)( Pipewire )(バージョンちょっと上がるだけで消えるパッケージ) https://t.co/JPwoOkaPVr</title>
+      <link>https://x.com/OnslaughtktnP/status/2040676284481851818</link>
+      <description>猛攻型ことねP（ひうが） | リブランド中: Linuxコロコロとか思い出しただけで吐き気する(Flatpak)( Pipewire )(バージョンちょっと上がるだけで消えるパッケージ) https://t.co/JPwoOkaPVr</description>
+      <pubDate>Sun, 05 Apr 2026 06:21:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OnslaughtktnP/status/2040676284481851818</guid>
+    </item>
+    <item>
+      <title>まずは Pipewire 上で仮想デバイス作れるかから始まる</title>
+      <link>https://x.com/goah_simulator/status/2040344448211800164</link>
+      <description>監獄島ごあごあーん / 監獄ごあごあ: まずは Pipewire 上で仮想デバイス作れるかから始まる</description>
+      <pubDate>Sat, 04 Apr 2026 08:23:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/goah_simulator/status/2040344448211800164</guid>
+    </item>
+    <item>
+      <title>PipeWire でフレームレート不要なデバイスのキャプチャ問題を修正 PipeWire カメラのフレームレート表示が不正になる問題を修正 メディアソースで HDR 動画が暗くなる問題を修正 プロファイルや映像設定が変更できなくなる問題を修正 トランジションがロックされる問題を修正 以上</title>
+      <link>https://x.com/gyuneshi8686/status/2039923500673339892</link>
+      <description>ぎゅね氏: PipeWire でフレームレート不要なデバイスのキャプチャ問題を修正 PipeWire カメラのフレームレート表示が不正になる問題を修正 メディアソースで HDR 動画が暗くなる問題を修正 プロファイルや映像設定が変更できなくなる問題を修正 トランジションがロックされる問題を修正 以上</description>
+      <pubDate>Fri, 03 Apr 2026 04:30:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gyuneshi8686/status/2039923500673339892</guid>
+    </item>
+    <item>
+      <title>mpv pipewire で48kHzのときのほうが音すっきりしてたかもw ？？？ Topping D10 Balanced https://t.co/mRIoOzLVFB</title>
+      <link>https://x.com/gardenpapa/status/2039840400073212048</link>
+      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: mpv pipewire で48kHzのときのほうが音すっきりしてたかもw ？？？ Topping D10 Balanced https://t.co/mRIoOzLVFB</description>
+      <pubDate>Thu, 02 Apr 2026 23:00:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gardenpapa/status/2039840400073212048</guid>
+    </item>
+    <item>
+      <title>ArchLinux 2026.04.01続き Proxmoxで ArchLinux 2026.04.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2,3、Hyprland*3,4 ⭕️*5 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 解像度変更? *2 pipewire *3 縮小表示 *4 hyprland.conf変更 us→jp --skip-version-checkで(*5) OKか〜😅 https://t.co/CDNYO0nHT2</title>
+      <link>https://x.com/markun8633/status/2039429527420694955</link>
+      <description>まーくん: ArchLinux 2026.04.01続き Proxmoxで ArchLinux 2026.04.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2,3、Hyprland*3,4 ⭕️*5 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 解像度変更? *2 pipewire *3 縮小表示 *4 hyprland.conf変更 us→jp --skip-version-checkで(*5) OKか〜😅 https://t.co/CDNYO0nHT2</description>
+      <pubDate>Wed, 01 Apr 2026 19:47:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun8633/status/2039429527420694955</guid>
+    </item>
+    <item>
+      <title>DAWで別エンジン噛ませてお茶濁そうなんて、DAWで歌ったり作ったりして遊ぶ側からしたら障壁にしかならんのよ レイテンシーとか負荷とかさ 窓、林檎、ペンギンならそれぞれASIO,CoreAudio, Pipewire でいきたいわけ</title>
+      <link>https://x.com/OnslaughtktnP/status/2039192755981975969</link>
+      <description>猛攻型ことねP（ひうが） | リブランド中: DAWで別エンジン噛ませてお茶濁そうなんて、DAWで歌ったり作ったりして遊ぶ側からしたら障壁にしかならんのよ レイテンシーとか負荷とかさ 窓、林檎、ペンギンならそれぞれASIO,CoreAudio, Pipewire でいきたいわけ</description>
+      <pubDate>Wed, 01 Apr 2026 04:06:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OnslaughtktnP/status/2039192755981975969</guid>
+    </item>
+    <item>
+      <title>@i_t_nyan 動作確認できましたー！ ZorinOS 18をインストールして端末からapt updateして最新化した後以下のコマンドで必要なinstallをしました。 # sudo apt install gnupg2 hwinfo libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera wireplumber v4l-utils</title>
+      <link>https://x.com/wainohito/status/2038554602325655709</link>
+      <description>わーいのひと(和合之人): @i_t_nyan 動作確認できましたー！ ZorinOS 18をインストールして端末からapt updateして最新化した後以下のコマンドで必要なinstallをしました。 # sudo apt install gnupg2 hwinfo libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera wireplumber v4l-utils</description>
+      <pubDate>Mon, 30 Mar 2026 09:51:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wainohito/status/2038554602325655709</guid>
+    </item>
+    <item>
+      <title>@i_t_nyan インストールした順です。 1）curl gnupg2 wget 2）linux-image-surface linux-headers-surface libwacom-surface 3）hwinfo 4）libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera 5）wireplumber v4l-utils （続く</title>
+      <link>https://x.com/wainohito/status/2038411357243285923</link>
+      <description>わーいのひと(和合之人): @i_t_nyan インストールした順です。 1）curl gnupg2 wget 2）linux-image-surface linux-headers-surface libwacom-surface 3）hwinfo 4）libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera 5）wireplumber v4l-utils （続く</description>
+      <pubDate>Mon, 30 Mar 2026 00:21:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wainohito/status/2038411357243285923</guid>
+    </item>
+    <item>
+      <title>ストイックに音質追求するなら Ubuntu server+MPD+upmpdcli も良いけど、カジュアルに Ubuntu Desktop も良い。 PipeWire とチャンデバソフトを使って、MiniPC+AVアンプ+自作3wayスピーカーをBluetoothスピーカーとして使える。簡単にスマホから音楽を自作3wayスピーカーでマルチアンプ再生できる。</title>
+      <link>https://x.com/dangomushi_assi/status/2038230728866218274</link>
+      <description>assi@天の川オーディオ研究室: ストイックに音質追求するなら Ubuntu server+MPD+upmpdcli も良いけど、カジュアルに Ubuntu Desktop も良い。 PipeWire とチャンデバソフトを使って、MiniPC+AVアンプ+自作3wayスピーカーをBluetoothスピーカーとして使える。簡単にスマホから音楽を自作3wayスピーカーでマルチアンプ再生できる。</description>
+      <pubDate>Sun, 29 Mar 2026 12:24:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2038230728866218274</guid>
+    </item>
+    <item>
+      <title>alsaのloopbackから PipeWire に変えたり、バッファ調整したりして音質が改善した。 https://t.co/zwqnETLbAp</title>
+      <link>https://x.com/wave892/status/2037804833026236757</link>
+      <description>gx-one超ギブンじじい！: alsaのloopbackから PipeWire に変えたり、バッファ調整したりして音質が改善した。 https://t.co/zwqnETLbAp</description>
+      <pubDate>Sat, 28 Mar 2026 08:11:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wave892/status/2037804833026236757</guid>
+    </item>
+    <item>
+      <title>PipeWire のresampling、SOXRに比べるとやや品質が低そう。まあリアルタイム性を重視してるはずだから妥当か。カジュアル用途には十分。 https://t.co/qDgfCRPrZE</title>
+      <link>https://x.com/dangomushi_assi/status/2037699107339616690</link>
+      <description>assi@天の川オーディオ研究室: PipeWire のresampling、SOXRに比べるとやや品質が低そう。まあリアルタイム性を重視してるはずだから妥当か。カジュアル用途には十分。 https://t.co/qDgfCRPrZE</description>
+      <pubDate>Sat, 28 Mar 2026 01:11:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2037699107339616690</guid>
+    </item>
+    <item>
+      <title>もっとカジュアルにと考えて、UbuntuDesktopに自作チャンデバソフトを入れてYoutubeの音を自作3wayで鳴らせるようにした。 PipeWire にnamed pipeに出力するsinkを作りdefaultに設定。すべての音声がチャンデバソフトを通して自作スピーカーから出力される。</title>
+      <link>https://x.com/dangomushi_assi/status/2037690456981803151</link>
+      <description>assi@天の川オーディオ研究室: もっとカジュアルにと考えて、UbuntuDesktopに自作チャンデバソフトを入れてYoutubeの音を自作3wayで鳴らせるようにした。 PipeWire にnamed pipeに出力するsinkを作りdefaultに設定。すべての音声がチャンデバソフトを通して自作スピーカーから出力される。</description>
+      <pubDate>Sat, 28 Mar 2026 00:37:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2037690456981803151</guid>
+    </item>
+    <item>
+      <title>pipewire 化できた・・・ pulseaudioなし、 pipewire ありの状態で、 /etc/pulse/client.confの default-server = unix:/tmp/pulse-server を default-server = unix:/run/user/1000/pulse/native に書き換えて再起動したらpactlもpavucontrolも動作するようになった。 https://t.co/Pp3v6gR564</title>
+      <link>https://x.com/touhouPCpp/status/2037153467442356644</link>
+      <description>東&amp;方39++: pipewire 化できた・・・ pulseaudioなし、 pipewire ありの状態で、 /etc/pulse/client.confの default-server = unix:/tmp/pulse-server を default-server = unix:/run/user/1000/pulse/native に書き換えて再起動したらpactlもpavucontrolも動作するようになった。 https://t.co/Pp3v6gR564</description>
+      <pubDate>Thu, 26 Mar 2026 13:03:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/touhouPCpp/status/2037153467442356644</guid>
+    </item>
+    <item>
+      <title>pulseaudioから pipewire に置き換わったらしいが pipewire -pulse入ってるのにpactlとかpavucontrolとかが動かない・・・</title>
+      <link>https://x.com/touhouPCpp/status/2037132177985691749</link>
+      <description>東&amp;方39++: pulseaudioから pipewire に置き換わったらしいが pipewire -pulse入ってるのにpactlとかpavucontrolとかが動かない・・・</description>
+      <pubDate>Thu, 26 Mar 2026 11:38:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/touhouPCpp/status/2037132177985691749</guid>
+    </item>
+    <item>
+      <title>WindowsでやることなくなったからWineとDXVKとWaylandと PipeWire でLinuxでも動かせるようにした そろそろというか商用レベルになってきたのでLLM代金稼ぎに行く</title>
+      <link>https://x.com/ranx2p/status/2036748629713748302</link>
+      <description>めてお: WindowsでやることなくなったからWineとDXVKとWaylandと PipeWire でLinuxでも動かせるようにした そろそろというか商用レベルになってきたのでLLM代金稼ぎに行く</description>
+      <pubDate>Wed, 25 Mar 2026 10:14:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ranx2p/status/2036748629713748302</guid>
+    </item>
+    <item>
+      <title>xmmsのgtk4/gstreamer/ pipewire ポート。gtk2からの変換をOpusにやらせたらしい。 懐かしい。最近PCで音楽再生しないなぁ… https://t.co/7USXbkVMTq</title>
+      <link>https://x.com/sina_ht/status/2036234860348707102</link>
+      <description>しーな: xmmsのgtk4/gstreamer/ pipewire ポート。gtk2からの変換をOpusにやらせたらしい。 懐かしい。最近PCで音楽再生しないなぁ… https://t.co/7USXbkVMTq</description>
+      <pubDate>Tue, 24 Mar 2026 00:13:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sina_ht/status/2036234860348707102</guid>
+    </item>
+    <item>
+      <title>Raspberry Pi 500+ を使ってみる その５｜kzn @kazushinakamura https://t.co/X15JsQRkJZ #RaspberryPi PipeWire に注意！</title>
+      <link>https://x.com/kazushinakamura/status/2036217937879810529</link>
+      <description>kazushi nakamura: Raspberry Pi 500+ を使ってみる その５｜kzn @kazushinakamura https://t.co/X15JsQRkJZ #RaspberryPi PipeWire に注意！</description>
+      <pubDate>Mon, 23 Mar 2026 23:06:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kazushinakamura/status/2036217937879810529</guid>
+    </item>
+    <item>
+      <title>X11を置き換えるWaylandの17年を振り返る批評記事。セキュリティやパフォーマンスの改善は未達成で、画面録画やコピペの制限など実用上の退行が残る。同時期に開始した PipeWire が約8年で普及した対比が示唆的 / Wayland set the Linux Desktop back by 10 years https://t.co/i3d7CngEXf</title>
+      <link>https://x.com/__su888/status/2035115918427074989</link>
+      <description>su8 / denchu: X11を置き換えるWaylandの17年を振り返る批評記事。セキュリティやパフォーマンスの改善は未達成で、画面録画やコピペの制限など実用上の退行が残る。同時期に開始した PipeWire が約8年で普及した対比が示唆的 / Wayland set the Linux Desktop back by 10 years https://t.co/i3d7CngEXf</description>
+      <pubDate>Fri, 20 Mar 2026 22:07:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2035115918427074989</guid>
+    </item>
+    <item>
+      <title>Linuxでスクエニゲー等で音だけ出なかった時の対応メモ OS：Bazzite KDE デバイス：Multichannel FW： pipewire 1.protontricksを開く 2.対象ゲームを選択 3.default wineprefix実行 4.Change setting実行 5.sound＝alsa実行 6.qpwgraph等で出力ドライバに接続 カイケツ</title>
+      <link>https://x.com/onethorlb/status/2033865203834884384</link>
+      <description>さりんじゃりん: Linuxでスクエニゲー等で音だけ出なかった時の対応メモ OS：Bazzite KDE デバイス：Multichannel FW： pipewire 1.protontricksを開く 2.対象ゲームを選択 3.default wineprefix実行 4.Change setting実行 5.sound＝alsa実行 6.qpwgraph等で出力ドライバに接続 カイケツ</description>
+      <pubDate>Tue, 17 Mar 2026 11:17:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/onethorlb/status/2033865203834884384</guid>
+    </item>
+    <item>
+      <title>ダメだ！ antiX26にbluetoothのAACコーデックを入れようとしたけど無理！ pipewire がAACを使える様にビルドされてない…！</title>
+      <link>https://x.com/GA70H/status/2033171602943451324</link>
+      <description>銀狐: ダメだ！ antiX26にbluetoothのAACコーデックを入れようとしたけど無理！ pipewire がAACを使える様にビルドされてない…！</description>
+      <pubDate>Sun, 15 Mar 2026 13:20:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GA70H/status/2033171602943451324</guid>
+    </item>
+  </channel>
+</rss>
