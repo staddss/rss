@@ -1,0 +1,157 @@
+# This is a basic workflow to help you get started with Actions
+
+name: exec_realtimeDateRss
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: "10 6 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+env:
+  LANG: "ja_JP.UTF-8"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .
+
+    permissions:
+      contents: write
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+      
+      - name: Update locale
+        run: |
+          sudo locale-gen ja_JP.UTF-8
+          sudo update-locale LANG=ja_JP.UTF-8
+      
+      - name: Run a script
+        env:
+          TZ: 'Asia/Tokyo'
+        run: |
+          cd realtime
+          python3 ./script/realtimeRss.py '"ChromeOS"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Chromebox"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Chromebase"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Crostini"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Crouton"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Chromebrew"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"crosh"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"MrChromebox"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Pixelbook"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"SuzyQable"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"gesture_prop"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"CloudReady"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"GaliumOS"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"EupneaOS"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Chromebook apk"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Chrome adb"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"chrome://flags"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"F-Droid"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Codespaces"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"code-server"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Gitpod"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Backblaze -別統計データ"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"MINISFORUM B550"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Rokid Max"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Syncthing"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"NextDNS"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"SimpleLogin"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"System76"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Linuxbrew"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"X-plore"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"zram"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"rclone"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Pipewire"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"i3wm"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"タイル型WM OR タイル型ウインドウ OR タイル型ウィンドウ"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"xremap"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"input-remapper"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"RTX A2000"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Raindrop.io"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"スマート留守電"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Project IDX"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Firebase Studio"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Unihertz Jelly"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Steam Machine"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Steam Frame"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Steam Controller"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"V NEOBANK"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Keychron"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"GeForce NOW"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Cloud Gaming"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"staddss"'
+
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          # 差分がある場合のみコミット＆プッシュを実行
+          if ! git diff --staged --quiet; then
+            git commit -m "Update realtimeRss.xml"
+            git push
+          else
+            echo "No changes to commit"
+          fi
