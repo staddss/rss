@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;Chrome adb&quot;</title>
-    <link>https://search.yahoo.co.jp/realtime/search?p=%22Chrome%20adb%22</link>
-    <description>Latest search results for '&quot;Chrome adb&quot;' on Yahoo! Realtime Search</description>
+    <title>Yahoo!リアルタイム検索 - &quot;Chrome&quot; &quot;adb&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22Chrome%22%20%22adb%22</link>
+    <description>Latest search results for '&quot;Chrome&quot; &quot;adb&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>Day 4 で純増10,005行達成！リファクタリングして3000行近く消した上でこれはだいぶ安定してきた ・ adb / chrome remote debugをループで回す ・Terraform IaCの実環境ドリフトを消す ・awsコマンドをssoで通しておく このあたりがやっぱり強い</title>
+      <link>https://x.com/x10kLOC/status/2036898963643916586</link>
+      <description>毎週１万行実装するウサギ: Day 4 で純増10,005行達成！リファクタリングして3000行近く消した上でこれはだいぶ安定してきた ・ adb / chrome remote debugをループで回す ・Terraform IaCの実環境ドリフトを消す ・awsコマンドをssoで通しておく このあたりがやっぱり強い</description>
+      <pubDate>Wed, 25 Mar 2026 20:12:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/x10kLOC/status/2036898963643916586</guid>
+    </item>
+    <item>
+      <title>この三連休はよく頑張った。連休最終日は第18週の Day 1 だけど、1日で3000行以上書けた やっぱり adb と Chrome リモートデバッグが GPT-5.4 に直結できてるのが圧倒的に強いな。実装がそっち方面に入ると一発がデカい 明日から仕事だからこのペースは維持できないが、初日悪くない滑り出し</title>
+      <link>https://x.com/x10kLOC/status/2035832694832304402</link>
+      <description>毎週１万行実装するウサギ: この三連休はよく頑張った。連休最終日は第18週の Day 1 だけど、1日で3000行以上書けた やっぱり adb と Chrome リモートデバッグが GPT-5.4 に直結できてるのが圧倒的に強いな。実装がそっち方面に入ると一発がデカい 明日から仕事だからこのペースは維持できないが、初日悪くない滑り出し</description>
+      <pubDate>Sun, 22 Mar 2026 21:35:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/x10kLOC/status/2035832694832304402</guid>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;Chromebook apk&quot;</title>
-    <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%20apk%22</link>
-    <description>Latest search results for '&quot;Chromebook apk&quot;' on Yahoo! Realtime Search</description>
+    <title>Yahoo!リアルタイム検索 - &quot;Chromebook&quot; &quot;apk&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%22%20%22apk%22</link>
+    <description>Latest search results for '&quot;Chromebook&quot; &quot;apk&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>chromebook に apk 入れようとしたらこれ https://t.co/s9llWM2wHt</title>
+      <link>https://x.com/hinata012140/status/2043572015551205584</link>
+      <description>hina: chromebook に apk 入れようとしたらこれ https://t.co/s9llWM2wHt</description>
+      <pubDate>Mon, 13 Apr 2026 06:08:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hinata012140/status/2043572015551205584</guid>
+    </item>
+    <item>
+      <title>裏技使えばChromeOS flexの Chromebook 版を Chromebook じゃないPCに入れることも可能らしいんだが、まだ試してはいない。汎用flexの特徴は Chromebook と違ってAndroid用のアプリストアが使えないこと、手動で apk を入れられるのかはまだ試してないが、それが今度のAlminiumOSで解放されるんだろうか。</title>
+      <link>https://x.com/gonbe3/status/2033876516715868609</link>
+      <description>Detchi: 裏技使えばChromeOS flexの Chromebook 版を Chromebook じゃないPCに入れることも可能らしいんだが、まだ試してはいない。汎用flexの特徴は Chromebook と違ってAndroid用のアプリストアが使えないこと、手動で apk を入れられるのかはまだ試してないが、それが今度のAlminiumOSで解放されるんだろうか。</description>
+      <pubDate>Tue, 17 Mar 2026 12:02:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gonbe3/status/2033876516715868609</guid>
+    </item>
   </channel>
 </rss>

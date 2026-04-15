@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>RAM内を圧縮する zram 技術によって３倍くらいデータを格納することができた。wineを使えばwindowsのソフトを使えるし、何よりディスプレイのちらつきがなくなったのが大きい。そして、KDEプラズマが、かゆいところに手が届く感じで地味かもしれないけど使いやすい。</title>
+      <link>https://x.com/Rk46Editon/status/2044033606537077042</link>
+      <description>おいあいうー（🐈‍⬛): RAM内を圧縮する zram 技術によって３倍くらいデータを格納することができた。wineを使えばwindowsのソフトを使えるし、何よりディスプレイのちらつきがなくなったのが大きい。そして、KDEプラズマが、かゆいところに手が届く感じで地味かもしれないけど使いやすい。</description>
+      <pubDate>Tue, 14 Apr 2026 12:42:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Rk46Editon/status/2044033606537077042</guid>
+    </item>
+    <item>
       <title>最近ずっと Amazon Linux から遠ざかってたから、更新情報も見てなかった😅 zram swap が使えるようになってたのね。 https://t.co/9ELBFG5qmH nanoサイズのEC2、もうちょい使い道増えるかな。可用性が大して重要ではないところで試しに使ってみるか〜。</title>
       <link>https://x.com/t_motooka/status/2043372800573047173</link>
       <description>T.MOTOOKA: 最近ずっと Amazon Linux から遠ざかってたから、更新情報も見てなかった😅 zram swap が使えるようになってたのね。 https://t.co/9ELBFG5qmH nanoサイズのEC2、もうちょい使い道増えるかな。可用性が大して重要ではないところで試しに使ってみるか〜。</description>
@@ -173,32 +180,11 @@
       <guid isPermaLink="true">https://x.com/NatuyasaiN/status/2033840591180861466</guid>
     </item>
     <item>
-      <title>RAMを圧縮したりしてswapを使うのを減らしているのがmacOS独自技術だと思いこんでいる( zRAM 相当の技術) 信者が本当にうざい</title>
-      <link>https://x.com/joukan_jakusha/status/2033173406003466512</link>
-      <description>情報弱者であると同時に、情感弱者: RAMを圧縮したりしてswapを使うのを減らしているのがmacOS独自技術だと思いこんでいる( zRAM 相当の技術) 信者が本当にうざい</description>
-      <pubDate>Sun, 15 Mar 2026 13:28:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joukan_jakusha/status/2033173406003466512</guid>
-    </item>
-    <item>
-      <title>午前のテック速報分析11件。チップが足りない世界で、何が崩れ始めたか。 ■ Linux / OSS ・GIMP 3.2が安定版に。非破壊編集とベクターレイヤー、20年越しの進化 ・メモリが買えないなら zram で圧縮。Linux流の生存戦略 ■ Apple ・MacBook https://t.co/IaPTHbxCxu</title>
-      <link>https://x.com/joho_no_todai/status/2032988690470011122</link>
-      <description>情報の灯台: 午前のテック速報分析11件。チップが足りない世界で、何が崩れ始めたか。 ■ Linux / OSS ・GIMP 3.2が安定版に。非破壊編集とベクターレイヤー、20年越しの進化 ・メモリが買えないなら zram で圧縮。Linux流の生存戦略 ■ Apple ・MacBook https://t.co/IaPTHbxCxu</description>
-      <pubDate>Sun, 15 Mar 2026 01:14:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2032988690470011122</guid>
-    </item>
-    <item>
       <title>1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</title>
       <link>https://x.com/joho_no_todai/status/2032968210996470196</link>
       <description>情報の灯台: 1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</description>
       <pubDate>Sat, 14 Mar 2026 23:52:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/joho_no_todai/status/2032968210996470196</guid>
-    </item>
-    <item>
-      <title>Linuxの ZRAM 、LZ4辞書圧縮が50%以上速くなるパッチが登場。 変更はわずか57行。 毎回実行していた辞書の前処理を一度だけに変え、以降はその結果をコピーして使う。 見落とされ続けた無駄を、HONORのエンジニアがピンポイントで止めた。</title>
-      <link>https://x.com/joho_no_todai/status/2031649381590687781</link>
-      <description>情報の灯台: Linuxの ZRAM 、LZ4辞書圧縮が50%以上速くなるパッチが登場。 変更はわずか57行。 毎回実行していた辞書の前処理を一度だけに変え、以降はその結果をコピーして使う。 見落とされ続けた無駄を、HONORのエンジニアがピンポイントで止めた。</description>
-      <pubDate>Wed, 11 Mar 2026 08:32:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2031649381590687781</guid>
     </item>
   </channel>
 </rss>
