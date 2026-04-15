@@ -50,7 +50,7 @@ jobs:
           git add .
           # 差分がある場合のみコミット＆プッシュを実行
           if ! git diff --staged --quiet; then
-            git commit -m "Update realtimeRss.xml"
+            git commit -m "Update realtimeHourRss.xml"
             git push
           else
             echo "No changes to commit"
