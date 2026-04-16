@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chrome(147)の&quot;タブを検索&quot;はこれで消せると chrome :// flags / &quot;horizontal-tab-strip-combo-button&quot;を&quot;Enabled&quot; まだ存在する場合は右クリックしてタブを固定を解除 https://t.co/0BZkZDP49o</title>
+      <link>https://x.com/tm2524_virgin/status/2044640467674112050</link>
+      <description>toshiaki_virgin: chrome(147)の&quot;タブを検索&quot;はこれで消せると chrome :// flags / &quot;horizontal-tab-strip-combo-button&quot;を&quot;Enabled&quot; まだ存在する場合は右クリックしてタブを固定を解除 https://t.co/0BZkZDP49o</description>
+      <pubDate>Thu, 16 Apr 2026 04:54:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tm2524_virgin/status/2044640467674112050</guid>
+    </item>
+    <item>
       <title>Chromeに垂直タブ ( chrome : flags -&gt; Vertical Tabs) が追加されたので Zen Browser とはおさらばします</title>
       <link>https://x.com/Polythos/status/2044057060900577627</link>
       <description>ぽりとす: Chromeに垂直タブ ( chrome : flags -&gt; Vertical Tabs) が追加されたので Zen Browser とはおさらばします</description>
@@ -269,20 +276,6 @@
       <description>かまかま: ChromeのURLバーで何回HTTPアクセスしようとしてもHTTPSリダイレクトされる。 HSTSかと思ってシークレットに変えても履歴消してもダメ。 F12ツールで見るとResponse Code 307返してるように見えるが、実際にはアクセスしてない。 最終的に chrome :// flags /#https-upgrades Disableに変えたらなおった。</description>
       <pubDate>Sat, 28 Mar 2026 12:48:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/7732Shibuya/status/2037874349429199263</guid>
-    </item>
-    <item>
-      <title>記事を投稿しました！ ChromeOSバージョン145→147にて追加/削除された chrome :// flags [Chromebook] on #Qiita https://t.co/X6pD0CBUdD</title>
-      <link>https://x.com/staddss/status/2037824700974534714</link>
-      <description>ハタナカ: 記事を投稿しました！ ChromeOSバージョン145→147にて追加/削除された chrome :// flags [Chromebook] on #Qiita https://t.co/X6pD0CBUdD</description>
-      <pubDate>Sat, 28 Mar 2026 09:30:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/staddss/status/2037824700974534714</guid>
-    </item>
-    <item>
-      <title>メモ： chrome :// flags /#vertical-tabs</title>
-      <link>https://x.com/xenaemale/status/2037695364602679398</link>
-      <description>しえな: メモ： chrome :// flags /#vertical-tabs</description>
-      <pubDate>Sat, 28 Mar 2026 00:56:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/xenaemale/status/2037695364602679398</guid>
     </item>
   </channel>
 </rss>

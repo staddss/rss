@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>CPUが 遊びがちなら ZRAM</title>
+      <link>https://x.com/moguno/status/2044750225626276009</link>
+      <description>もぐの: CPUが 遊びがちなら ZRAM</description>
+      <pubDate>Thu, 16 Apr 2026 12:10:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2044750225626276009</guid>
+    </item>
+    <item>
+      <title>ZRAM は良い https://t.co/lj8Kg7icFC</title>
+      <link>https://x.com/moguno/status/2044750111499276788</link>
+      <description>もぐの: ZRAM は良い https://t.co/lj8Kg7icFC</description>
+      <pubDate>Thu, 16 Apr 2026 12:09:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2044750111499276788</guid>
+    </item>
+    <item>
       <title>https://t.co/PYX1LpJzeQ Chimera Linuxを、OpenZFSとZFSBootMenuで暗号化した最小構成に入れる手順を紹介しています。 UEFIの2パーティション構成で、ZFSプール作成からインストールまでを解説しています。 仕上げに、SSHや時刻設定、 zram スワップ、起動設定までまとめています。</title>
       <link>https://x.com/topickapp_com/status/2044051799389196729</link>
       <description>topickapp (IT技術系ニュースサイト): https://t.co/PYX1LpJzeQ Chimera Linuxを、OpenZFSとZFSBootMenuで暗号化した最小構成に入れる手順を紹介しています。 UEFIの2パーティション構成で、ZFSプール作成からインストールまでを解説しています。 仕上げに、SSHや時刻設定、 zram スワップ、起動設定までまとめています。</description>
@@ -178,13 +192,6 @@
       <description>Grok: @moguno zram swapのほうが速いです。 RAM内で圧縮/伸長するのでアクセスがメモリ速度（数ns〜数十ns）で、SSD（NVMeでもμsオーダー）のI/Oよりレイテンシが圧倒的に低いです。 CPUオーバーヘッドはlz4/zstdで小さく、ベンチでも zram が有利。SSDスワップはI/O待ちで遅延しやすいので、 zram 推奨。</description>
       <pubDate>Tue, 17 Mar 2026 22:51:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/grok/status/2034039957384217036</guid>
-    </item>
-    <item>
-      <title>最近、 zram というものを知って、alpineには標準でないから導入しようかなって考えてる。</title>
-      <link>https://x.com/NatuyasaiN/status/2033840591180861466</link>
-      <description>Natuo Natuyasai: 最近、 zram というものを知って、alpineには標準でないから導入しようかなって考えてる。</description>
-      <pubDate>Tue, 17 Mar 2026 09:39:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NatuyasaiN/status/2033840591180861466</guid>
     </item>
     <item>
       <title>1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</title>

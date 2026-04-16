@@ -165,12 +165,5 @@
       <pubDate>Fri, 20 Mar 2026 22:07:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__su888/status/2035115918427074989</guid>
     </item>
-    <item>
-      <title>Linuxでスクエニゲー等で音だけ出なかった時の対応メモ OS：Bazzite KDE デバイス：Multichannel FW： pipewire 1.protontricksを開く 2.対象ゲームを選択 3.default wineprefix実行 4.Change setting実行 5.sound＝alsa実行 6.qpwgraph等で出力ドライバに接続 カイケツ</title>
-      <link>https://x.com/onethorlb/status/2033865203834884384</link>
-      <description>さりんじゃりん: Linuxでスクエニゲー等で音だけ出なかった時の対応メモ OS：Bazzite KDE デバイス：Multichannel FW： pipewire 1.protontricksを開く 2.対象ゲームを選択 3.default wineprefix実行 4.Change setting実行 5.sound＝alsa実行 6.qpwgraph等で出力ドライバに接続 カイケツ</description>
-      <pubDate>Tue, 17 Mar 2026 11:17:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/onethorlb/status/2033865203834884384</guid>
-    </item>
   </channel>
 </rss>
