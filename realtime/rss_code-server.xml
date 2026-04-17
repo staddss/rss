@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>家のデスクトップのVS Code触るのだけが課題だった(chrome remoteとかいうレガシーリモートで力技してた) けど、普通にVS Code server で秒で繋がった... スマホブラウザでVS Code触れる...</title>
+      <link>https://x.com/morimoritoday/status/2044984183223906344</link>
+      <description>もり: 家のデスクトップのVS Code触るのだけが課題だった(chrome remoteとかいうレガシーリモートで力技してた) けど、普通にVS Code server で秒で繋がった... スマホブラウザでVS Code触れる...</description>
+      <pubDate>Fri, 17 Apr 2026 03:39:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/morimoritoday/status/2044984183223906344</guid>
+    </item>
+    <item>
+      <title>あぁ、VS Code Server 側で独自のsettings.jsonを持ってるのか。ターミナルの設定はこっちでやればいいんだな</title>
+      <link>https://x.com/veryhotcurry/status/2044923422514508104</link>
+      <description>カリーあげ正太: あぁ、VS Code Server 側で独自のsettings.jsonを持ってるのか。ターミナルの設定はこっちでやればいいんだな</description>
+      <pubDate>Thu, 16 Apr 2026 23:38:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/veryhotcurry/status/2044923422514508104</guid>
+    </item>
+    <item>
+      <title>Installing VS Code Server for Linux x64から動かなくて困った</title>
+      <link>https://x.com/terry_u16/status/2044744725178262009</link>
+      <description>TERRY: Installing VS Code Server for Linux x64から動かなくて困った</description>
+      <pubDate>Thu, 16 Apr 2026 11:48:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/terry_u16/status/2044744725178262009</guid>
+    </item>
+    <item>
       <title>@peanuts989 7分で環境構築完了は本当にすごいですね！！スマホでも動いて確認できたときの感動、想像するだけでテンション上がります！！ code - server で使えるようにする発想も面白い！！</title>
       <link>https://x.com/fairad_jp/status/2044347645255413798</link>
       <description>フェアード｜0から広告運用まで代行: @peanuts989 7分で環境構築完了は本当にすごいですね！！スマホでも動いて確認できたときの感動、想像するだけでテンション上がります！！ code - server で使えるようにする発想も面白い！！</description>
@@ -94,27 +115,6 @@
       <description>Shade: 古いノートPCにChromeOFlex入れて、メインマシンに code - server たちあげて、ノートPCからcodeserver経由で接続してるんだけど、結構便利かもしれん</description>
       <pubDate>Fri, 20 Mar 2026 00:13:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Shade0123/status/2034785384711008594</guid>
-    </item>
-    <item>
-      <title>claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude/gptを相互に便利に使っている環境になれ始めたところで、凄い虚無感ありビール飲んで寝る</title>
-      <link>https://x.com/pastel_orbit/status/2034306953443422678</link>
-      <description>Izu@ゲームプログラマが語る: claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude/gptを相互に便利に使っている環境になれ始めたところで、凄い虚無感ありビール飲んで寝る</description>
-      <pubDate>Wed, 18 Mar 2026 16:32:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pastel_orbit/status/2034306953443422678</guid>
-    </item>
-    <item>
-      <title>claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude70%/gpt30%の様な環境に慣れてしまうと、凄い虚無感あってビール飲んで寝る tailscale張って常時起動させはじめたお役御免予定だったｍac</title>
-      <link>https://x.com/pastel_orbit/status/2034306282715582465</link>
-      <description>Izu@ゲームプログラマが語る: claude code server overloaded errorが出ていて笑ってるｗ （月額幾らだと思ってんだよｗ）はともあれ、Xも重いし何が起きているんだろう claude70%/gpt30%の様な環境に慣れてしまうと、凄い虚無感あってビール飲んで寝る tailscale張って常時起動させはじめたお役御免予定だったｍac</description>
-      <pubDate>Wed, 18 Mar 2026 16:29:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pastel_orbit/status/2034306282715582465</guid>
-    </item>
-    <item>
-      <title>メインの仕事に関係ないclaude code server ばっかり触ってた… しかしgpt-5.3-codex-spark鬼早すぎて人間の方が追いつかないレベル https://t.co/fqVIcyfMCc</title>
-      <link>https://x.com/mihocrsdrsr/status/2034263024941617183</link>
-      <description>miho♂ち: メインの仕事に関係ないclaude code server ばっかり触ってた… しかしgpt-5.3-codex-spark鬼早すぎて人間の方が追いつかないレベル https://t.co/fqVIcyfMCc</description>
-      <pubDate>Wed, 18 Mar 2026 13:37:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mihocrsdrsr/status/2034263024941617183</guid>
     </item>
   </channel>
 </rss>

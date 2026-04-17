@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>nextdns は大規模フィッシングメールに使われたドメインを一時的に塞ぐことがある、まえcreemaでそうなった</title>
+      <link>https://x.com/cokeraita/status/2045069029216579727</link>
+      <description>mercysnow: nextdns は大規模フィッシングメールに使われたドメインを一時的に塞ぐことがある、まえcreemaでそうなった</description>
+      <pubDate>Fri, 17 Apr 2026 09:17:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cokeraita/status/2045069029216579727</guid>
+    </item>
+    <item>
+      <title>なんかヨドバシに繋がらないなと思ったら NextDNS が勝手にブロックしていた件 許可リストに追加して解決したけど何かもやるな</title>
+      <link>https://x.com/hayatedayon/status/2045025281426293140</link>
+      <description>疾風（はやて）: なんかヨドバシに繋がらないなと思ったら NextDNS が勝手にブロックしていた件 許可リストに追加して解決したけど何かもやるな</description>
+      <pubDate>Fri, 17 Apr 2026 06:23:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hayatedayon/status/2045025281426293140</guid>
+    </item>
+    <item>
+      <title>数日前からヨドバシカメラのサイトが一切開かない。そのうえネットで騒ぎになってない。変だなーと思って知人に聞くと、知人は普通に開くらしい。調査した結果、 NextDNS の誤爆だった。Microsoftの一部サイトも誤爆したままだし、契約見直そうか考えている。</title>
+      <link>https://x.com/m0880988270/status/2044667151756529935</link>
+      <description>tekitou: 数日前からヨドバシカメラのサイトが一切開かない。そのうえネットで騒ぎになってない。変だなーと思って知人に聞くと、知人は普通に開くらしい。調査した結果、 NextDNS の誤爆だった。Microsoftの一部サイトも誤爆したままだし、契約見直そうか考えている。</description>
+      <pubDate>Thu, 16 Apr 2026 06:40:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m0880988270/status/2044667151756529935</guid>
+    </item>
+    <item>
       <title>NextDNS ↑これ本当にいい 理由はDNSレベルでの広告ブロックができるから https://t.co/aqd1rNw5ex https://t.co/CP7jvqqwBW</title>
       <link>https://x.com/omoch1_archived/status/2044454216950026607</link>
       <description>あげ: NextDNS ↑これ本当にいい 理由はDNSレベルでの広告ブロックができるから https://t.co/aqd1rNw5ex https://t.co/CP7jvqqwBW</description>
@@ -164,13 +185,6 @@
       <description>だいずラボ: ブラウザのセキュリティでしたらuBlock Originがおすすめです。広告ブロッカーとして詐欺広告を非表示にするのはもちろん、偽サイトのブロックも行ってくれます。 また、DNSを NextDNS に切り替えることで、悪質なドメインへのアクセスを予防することもできます。 https://t.co/lamZKT79cW</description>
       <pubDate>Fri, 20 Mar 2026 08:18:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/daizu_lab/status/2034907385249374396</guid>
-    </item>
-    <item>
-      <title>子供の複数台の端末でYouTubeなどを制限したい時、複数台の端末 と アプリ・Webそれぞれを制限する必要があるのだけど、 NextDNS だと1設定で制限できてかなり便利かも</title>
-      <link>https://x.com/asobi_spec/status/2034247772824822000</link>
-      <description>遊びの仕様書: 子供の複数台の端末でYouTubeなどを制限したい時、複数台の端末 と アプリ・Webそれぞれを制限する必要があるのだけど、 NextDNS だと1設定で制限できてかなり便利かも</description>
-      <pubDate>Wed, 18 Mar 2026 12:37:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/asobi_spec/status/2034247772824822000</guid>
     </item>
     <item>
       <title>Netflix 共同創業者かつ元 CTO は NextDNS の開発者。https://t.co/CMETuNsEu2 https://t.co/jtFO7hwlPs</title>

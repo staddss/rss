@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>という事をRAMが4GBぽっちしかない現代では拷問仕様といえるASUS TAICHI21から書いてるのが一番ひどいかもしれない RAMよりマシとはいえCPUもSSDも現代とは比にならない貧弱仕様の上で ZRAM とswapfileがモリモリだ</title>
+      <link>https://x.com/hogehoge61/status/2044797322899665058</link>
+      <description>ほげ: という事をRAMが4GBぽっちしかない現代では拷問仕様といえるASUS TAICHI21から書いてるのが一番ひどいかもしれない RAMよりマシとはいえCPUもSSDも現代とは比にならない貧弱仕様の上で ZRAM とswapfileがモリモリだ</description>
+      <pubDate>Thu, 16 Apr 2026 15:17:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hogehoge61/status/2044797322899665058</guid>
+    </item>
+    <item>
       <title>CPUが 遊びがちなら ZRAM</title>
       <link>https://x.com/moguno/status/2044750225626276009</link>
       <description>もぐの: CPUが 遊びがちなら ZRAM</description>
@@ -171,27 +178,6 @@
       <description>RJ百科通: zram - Gentoo Wiki https://t.co/nT2VjwxK6n うお、なんか「Snippet」とかいう素敵なセクションが生えとる。素晴らしいぞ</description>
       <pubDate>Thu, 19 Mar 2026 20:31:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lo48576/status/2034729478728163832</guid>
-    </item>
-    <item>
-      <title>ChromeOSは数年前はなかった zram _writeback（ストレージへの書き出し）や、recomp algorithm（高速なlz4で圧縮→圧縮率の高いzstdで再圧縮）も実装されてる。 直近でもメンテナーのSergey Senozhatsky氏が、writeback時に発生するオーバーヘッド（一度解凍しないと書き出せない）の解消に着手してる。</title>
-      <link>https://x.com/katatumurisiroi/status/2034271971266150844</link>
-      <description>inuashihayasugiru: ChromeOSは数年前はなかった zram _writeback（ストレージへの書き出し）や、recomp algorithm（高速なlz4で圧縮→圧縮率の高いzstdで再圧縮）も実装されてる。 直近でもメンテナーのSergey Senozhatsky氏が、writeback時に発生するオーバーヘッド（一度解凍しないと書き出せない）の解消に着手してる。</description>
-      <pubDate>Wed, 18 Mar 2026 14:13:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/katatumurisiroi/status/2034271971266150844</guid>
-    </item>
-    <item>
-      <title>@moguno zram 高優先+SSD低優先だけではcoldページの自動移動はなく、 zram 満杯までSSD未使用です。 zswapなら可能です。圧縮RAMキャッシュとしてhotページを保持し、coldをSSD swapへevictするので、まさに「頻度高いページを高速、低いをSSD」に近い運用に最適。 設定: zswap.enabled=1 (GRUB/kernel</title>
-      <link>https://x.com/grok/status/2034041588263907674</link>
-      <description>Grok: @moguno zram 高優先+SSD低優先だけではcoldページの自動移動はなく、 zram 満杯までSSD未使用です。 zswapなら可能です。圧縮RAMキャッシュとしてhotページを保持し、coldをSSD swapへevictするので、まさに「頻度高いページを高速、低いをSSD」に近い運用に最適。 設定: zswap.enabled=1 (GRUB/kernel</description>
-      <pubDate>Tue, 17 Mar 2026 22:57:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2034041588263907674</guid>
-    </item>
-    <item>
-      <title>@moguno zram swapのほうが速いです。 RAM内で圧縮/伸長するのでアクセスがメモリ速度（数ns〜数十ns）で、SSD（NVMeでもμsオーダー）のI/Oよりレイテンシが圧倒的に低いです。 CPUオーバーヘッドはlz4/zstdで小さく、ベンチでも zram が有利。SSDスワップはI/O待ちで遅延しやすいので、 zram 推奨。</title>
-      <link>https://x.com/grok/status/2034039957384217036</link>
-      <description>Grok: @moguno zram swapのほうが速いです。 RAM内で圧縮/伸長するのでアクセスがメモリ速度（数ns〜数十ns）で、SSD（NVMeでもμsオーダー）のI/Oよりレイテンシが圧倒的に低いです。 CPUオーバーヘッドはlz4/zstdで小さく、ベンチでも zram が有利。SSDスワップはI/O待ちで遅延しやすいので、 zram 推奨。</description>
-      <pubDate>Tue, 17 Mar 2026 22:51:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2034039957384217036</guid>
     </item>
     <item>
       <title>1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</title>

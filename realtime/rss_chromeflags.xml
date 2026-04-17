@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ハードウェアアクセラレーションをオンにしたChromeでYoutube観てると黒い部分にオレンジのドットがチラチラ出てくるやつ chrome :// flags /に移動→Choose ANGLE graphics backendで検索してDefaultからD3D9に変更 でとりあえずは出なくなる GPUがぶっ壊れたかと思ったけどFirefox(HWAオン)だとならない</title>
+      <link>https://x.com/Po10H/status/2044714790199906344</link>
+      <description>PO10HIT: ハードウェアアクセラレーションをオンにしたChromeでYoutube観てると黒い部分にオレンジのドットがチラチラ出てくるやつ chrome :// flags /に移動→Choose ANGLE graphics backendで検索してDefaultからD3D9に変更 でとりあえずは出なくなる GPUがぶっ壊れたかと思ったけどFirefox(HWAオン)だとならない</description>
+      <pubDate>Thu, 16 Apr 2026 09:49:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Po10H/status/2044714790199906344</guid>
+    </item>
+    <item>
       <title>chrome(147)の&quot;タブを検索&quot;はこれで消せると chrome :// flags / &quot;horizontal-tab-strip-combo-button&quot;を&quot;Enabled&quot; まだ存在する場合は右クリックしてタブを固定を解除 https://t.co/0BZkZDP49o</title>
       <link>https://x.com/tm2524_virgin/status/2044640467674112050</link>
       <description>toshiaki_virgin: chrome(147)の&quot;タブを検索&quot;はこれで消せると chrome :// flags / &quot;horizontal-tab-strip-combo-button&quot;を&quot;Enabled&quot; まだ存在する場合は右クリックしてタブを固定を解除 https://t.co/0BZkZDP49o</description>
@@ -269,13 +276,6 @@
       <description>田中た͌͆̑̂̏̈́͐̎͛̈́̂̄͆̔͊͑̾̀̊̊́̒̀̏͒̽̆̎͒́̑̈́́̉̋̈̇͠͝͠͠͠か̑̊̔し: Chromebookのタッチパネルを無効化する方法 Chrome開いてアドレスバーに chrome :// flags 入れてエンター 検索ボックスに debugging keyboard shortcuts 入れて有効押して再起動 検索+Shift+Tでタッチパネル無効化</description>
       <pubDate>Sat, 28 Mar 2026 15:46:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wiiu1145/status/2037919228461043932</guid>
-    </item>
-    <item>
-      <title>ChromeのURLバーで何回HTTPアクセスしようとしてもHTTPSリダイレクトされる。 HSTSかと思ってシークレットに変えても履歴消してもダメ。 F12ツールで見るとResponse Code 307返してるように見えるが、実際にはアクセスしてない。 最終的に chrome :// flags /#https-upgrades Disableに変えたらなおった。</title>
-      <link>https://x.com/7732Shibuya/status/2037874349429199263</link>
-      <description>かまかま: ChromeのURLバーで何回HTTPアクセスしようとしてもHTTPSリダイレクトされる。 HSTSかと思ってシークレットに変えても履歴消してもダメ。 F12ツールで見るとResponse Code 307返してるように見えるが、実際にはアクセスしてない。 最終的に chrome :// flags /#https-upgrades Disableに変えたらなおった。</description>
-      <pubDate>Sat, 28 Mar 2026 12:48:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/7732Shibuya/status/2037874349429199263</guid>
     </item>
   </channel>
 </rss>
