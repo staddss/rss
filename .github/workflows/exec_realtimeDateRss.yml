@@ -143,6 +143,14 @@ jobs:
           sleep 10
           python3 ./script/realtimeRss.py '"Cloud Gaming"'
           sleep 10
+          python3 ./script/realtimeRss.py '"Winlator"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"GameNative"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"GameHub"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"BannerHub"'
+          sleep 10
           python3 ./script/realtimeRss.py '"staddss"'
 
       - name: Commit
