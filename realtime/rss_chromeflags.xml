@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>マイクの音が勝手に変わるやつの対処法見つけたぞ！redditに書いてあったんだけど、 chrome :// flags にアクセスして使用可能の中から 「Allow WebRTC to adjust the input volume.」を見つけてDisabledにしたらまったく下がったり上がったりしなくなった！排他モードとか通信を変えても治らなかったのに</title>
+      <link>https://x.com/tukikomakoto/status/2045354408066912663</link>
+      <description>月好誠(仮): マイクの音が勝手に変わるやつの対処法見つけたぞ！redditに書いてあったんだけど、 chrome :// flags にアクセスして使用可能の中から 「Allow WebRTC to adjust the input volume.」を見つけてDisabledにしたらまったく下がったり上がったりしなくなった！排他モードとか通信を変えても治らなかったのに</description>
+      <pubDate>Sat, 18 Apr 2026 04:11:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tukikomakoto/status/2045354408066912663</guid>
+    </item>
+    <item>
+      <title>@momoshiki こんにちは、いつも素敵な絵をありがとうございます。 https://t.co/4T2vLvRtFw chrome :// flags とURLバーに入力、enterして、検索するとどうでしょう？ ただ2年前の記事が出てくるので、フラグがなくなって、強制で無効化(遮断)されてしまったのかもしれません その場合は他ブラウザしかないですね</title>
+      <link>https://x.com/smbd/status/2045108156813254724</link>
+      <description>Mitsuru SHIMAMURA: @momoshiki こんにちは、いつも素敵な絵をありがとうございます。 https://t.co/4T2vLvRtFw chrome :// flags とURLバーに入力、enterして、検索するとどうでしょう？ ただ2年前の記事が出てくるので、フラグがなくなって、強制で無効化(遮断)されてしまったのかもしれません その場合は他ブラウザしかないですね</description>
+      <pubDate>Fri, 17 Apr 2026 11:52:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/smbd/status/2045108156813254724</guid>
+    </item>
+    <item>
       <title>ハードウェアアクセラレーションをオンにしたChromeでYoutube観てると黒い部分にオレンジのドットがチラチラ出てくるやつ chrome :// flags /に移動→Choose ANGLE graphics backendで検索してDefaultからD3D9に変更 でとりあえずは出なくなる GPUがぶっ壊れたかと思ったけどFirefox(HWAオン)だとならない</title>
       <link>https://x.com/Po10H/status/2044714790199906344</link>
       <description>PO10HIT: ハードウェアアクセラレーションをオンにしたChromeでYoutube観てると黒い部分にオレンジのドットがチラチラ出てくるやつ chrome :// flags /に移動→Choose ANGLE graphics backendで検索してDefaultからD3D9に変更 でとりあえずは出なくなる GPUがぶっ壊れたかと思ったけどFirefox(HWAオン)だとならない</description>
@@ -262,20 +276,6 @@
       <description>topickapp (IT技術系ニュースサイト): https://t.co/bmut3bAltj Chromeで垂直タブ機能が利用可能になりました。 アドレスバーに chrome :// flags /#vertical-tabsを入力し、設定をEnabledに変更して有効化します。 タブの縦表示は、多くのタブを開く際に横表示よりも見やすく、探しやすい利点があります。</description>
       <pubDate>Tue, 31 Mar 2026 11:18:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/topickapp_com/status/2038938858881204241</guid>
-    </item>
-    <item>
-      <title>Chromeユーザは確認しておこう！ 「縦タブ」 を望んでいたユーザは多いのではないでしょうか？ 自分もその一人です... メニューに設定できる項目がなかったけど「 chrome :// flags /#vertical-tabs」で無事設定できました！ この記事じゃなかったらもっと調査で時間がかかっていたかも... https://t.co/QJFmF8L04f</title>
-      <link>https://x.com/uslab1994/status/2038175668597649484</link>
-      <description>uslab | AI×Web開発: Chromeユーザは確認しておこう！ 「縦タブ」 を望んでいたユーザは多いのではないでしょうか？ 自分もその一人です... メニューに設定できる項目がなかったけど「 chrome :// flags /#vertical-tabs」で無事設定できました！ この記事じゃなかったらもっと調査で時間がかかっていたかも... https://t.co/QJFmF8L04f</description>
-      <pubDate>Sun, 29 Mar 2026 08:45:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/uslab1994/status/2038175668597649484</guid>
-    </item>
-    <item>
-      <title>Chromebookのタッチパネルを無効化する方法 Chrome開いてアドレスバーに chrome :// flags 入れてエンター 検索ボックスに debugging keyboard shortcuts 入れて有効押して再起動 検索+Shift+Tでタッチパネル無効化</title>
-      <link>https://x.com/wiiu1145/status/2037919228461043932</link>
-      <description>田中た͌͆̑̂̏̈́͐̎͛̈́̂̄͆̔͊͑̾̀̊̊́̒̀̏͒̽̆̎͒́̑̈́́̉̋̈̇͠͝͠͠͠か̑̊̔し: Chromebookのタッチパネルを無効化する方法 Chrome開いてアドレスバーに chrome :// flags 入れてエンター 検索ボックスに debugging keyboard shortcuts 入れて有効押して再起動 検索+Shift+Tでタッチパネル無効化</description>
-      <pubDate>Sat, 28 Mar 2026 15:46:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wiiu1145/status/2037919228461043932</guid>
     </item>
   </channel>
 </rss>
