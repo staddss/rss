@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone でGoogleドライブ連携しようとするとGUIベースのLinuxで terminalとwebブラウザが起動できないと認証できないとか そして我が家にはGUIが動かせるスペックのラズパイは存在しない… 振り出しに戻ったわorz</title>
+      <link>https://x.com/takemaegmail/status/2045432746747842958</link>
+      <description>たけ@潰瘍性大腸炎緩解期なぅ: rclone でGoogleドライブ連携しようとするとGUIベースのLinuxで terminalとwebブラウザが起動できないと認証できないとか そして我が家にはGUIが動かせるスペックのラズパイは存在しない… 振り出しに戻ったわorz</description>
+      <pubDate>Sat, 18 Apr 2026 09:22:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takemaegmail/status/2045432746747842958</guid>
+    </item>
+    <item>
       <title>rclone とやらでいけるのかヨシヨシ 会社でポンコツ同僚にイラッとした時にデグーのこんな姿が見られるといいんですよ 家族で共有するならGoogleドライブで済むし https://t.co/I4LgqPi4ym</title>
       <link>https://x.com/takemaegmail/status/2045318112959181168</link>
       <description>たけ@潰瘍性大腸炎緩解期なぅ: rclone とやらでいけるのかヨシヨシ 会社でポンコツ同僚にイラッとした時にデグーのこんな姿が見られるといいんですよ 家族で共有するならGoogleドライブで済むし https://t.co/I4LgqPi4ym</description>
@@ -269,13 +276,6 @@
       <description>ただまさゆき: でけた！ rclone とかgdriveとか色々あるらしいけど google謹製の非公式ツールgoogleworkspace/cliにした google drive APIをコマンドで実行する感じ gws drive files update で共有ドライブへアップロードしたら、自動で世代管理してくれるっぽい これで脳内の心配事が一つ消せて 開発に専念できる</description>
       <pubDate>Wed, 25 Mar 2026 10:14:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mB4fenpV8WVevd9/status/2036748537430688190</guid>
-    </item>
-    <item>
-      <title>卵が先か鶏が先かみたいなことをさせられていたら要注意。いつか全データを失うことになる。 経験からこのプラグインで進めるのは危険と判断。 別口で rclone でやるわ。</title>
-      <link>https://x.com/sivainusky/status/2036365143979028951</link>
-      <description>シヴァイヌスキー: 卵が先か鶏が先かみたいなことをさせられていたら要注意。いつか全データを失うことになる。 経験からこのプラグインで進めるのは危険と判断。 別口で rclone でやるわ。</description>
-      <pubDate>Tue, 24 Mar 2026 08:50:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sivainusky/status/2036365143979028951</guid>
     </item>
   </channel>
 </rss>

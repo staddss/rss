@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>#後で読む 用メモです→ GitHub Codespaces のスキャフォールディングツールを作ってみた https://t.co/5wBuHhJrs6</title>
+      <link>https://x.com/TommiyTw/status/2045497009407181055</link>
+      <description>トミー@メモ: #後で読む 用メモです→ GitHub Codespaces のスキャフォールディングツールを作ってみた https://t.co/5wBuHhJrs6</description>
+      <pubDate>Sat, 18 Apr 2026 13:37:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TommiyTw/status/2045497009407181055</guid>
+    </item>
+    <item>
+      <title>Codespaces でAIにいろいろお願いするだけで、Ollmaの使えるコンテナが用意できて、使うアプリも作れる…。</title>
+      <link>https://x.com/bgnori/status/2045099485819437187</link>
+      <description>Nori（情報ブロイラー）: Codespaces でAIにいろいろお願いするだけで、Ollmaの使えるコンテナが用意できて、使うアプリも作れる…。</description>
+      <pubDate>Fri, 17 Apr 2026 11:18:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bgnori/status/2045099485819437187</guid>
+    </item>
+    <item>
       <title>日本時間2026年4月17日(金) 03:22:24 障害情報【 監視継続中】 全サービス正常稼動中 - The degradation affecting Codespaces has been mitigated. We are monitoring to ensu... https://t.co/flWGwpQELv</title>
       <link>https://x.com/githubstatusjp/status/2044844196205588886</link>
       <description>GitHub障害情報: 日本時間2026年4月17日(金) 03:22:24 障害情報【 監視継続中】 全サービス正常稼動中 - The degradation affecting Codespaces has been mitigated. We are monitoring to ensu... https://t.co/flWGwpQELv</description>
@@ -262,20 +276,6 @@
       <description>うみれおん（Kaito Udagawa）: これをちゃんとエンタープライズレベルで使えるようにしたのが Codespaces やCloudShellです。すでにこなれたソリューションは存在しているので、我々はそれに適応するだけでいいのです。 https://t.co/Jf8nLWJStk</description>
       <pubDate>Tue, 31 Mar 2026 08:08:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/umireon/status/2038891221977080249</guid>
-    </item>
-    <item>
-      <title>3月完了、薄くても色々学べた1ヶ月目 環境 ✅VS Code ✅Markdown ✅Python ✅ラズパイ ✅Docker ✅GitHub Codespaces DevOps ✅リポジトリ ✅ブランチ操作 / PR ✅GtiHub CI/CD Azure ✅SWA/Functions/Blob ✅TypeScript AI ✅Google Apps Script ✅Google AI Studio ✅Claude Cowork/Code</title>
-      <link>https://x.com/old_ojisan/status/2038802640700837952</link>
-      <description>オールドおじさん: 3月完了、薄くても色々学べた1ヶ月目 環境 ✅VS Code ✅Markdown ✅Python ✅ラズパイ ✅Docker ✅GitHub Codespaces DevOps ✅リポジトリ ✅ブランチ操作 / PR ✅GtiHub CI/CD Azure ✅SWA/Functions/Blob ✅TypeScript AI ✅Google Apps Script ✅Google AI Studio ✅Claude Cowork/Code</description>
-      <pubDate>Tue, 31 Mar 2026 02:16:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_ojisan/status/2038802640700837952</guid>
-    </item>
-    <item>
-      <title>@k_koyanagi_null Github＋ codespaces が最も簡単だけど、最もコストがかかる こっそり土日も入ってたりすると、コスト集中管理してる部門から「この人の利用時間がおかしい」って本人そっちのけでteamsで議論が始まる</title>
-      <link>https://x.com/salty919/status/2038552282133123202</link>
-      <description>salty919: @k_koyanagi_null Github＋ codespaces が最も簡単だけど、最もコストがかかる こっそり土日も入ってたりすると、コスト集中管理してる部門から「この人の利用時間がおかしい」って本人そっちのけでteamsで議論が始まる</description>
-      <pubDate>Mon, 30 Mar 2026 09:41:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/salty919/status/2038552282133123202</guid>
     </item>
   </channel>
 </rss>
