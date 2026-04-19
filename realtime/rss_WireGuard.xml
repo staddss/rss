@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>windowsの wireguard クライアントのバージョンが1.0に上がってる</title>
+      <link>https://x.com/numanonu/status/2045901445632086245</link>
+      <description>ぬまのぬ: windowsの wireguard クライアントのバージョンが1.0に上がってる</description>
+      <pubDate>Sun, 19 Apr 2026 16:24:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/numanonu/status/2045901445632086245</guid>
+    </item>
+    <item>
+      <title>カフェのWi-Fiから自宅サーバ向けの WireGuard がうまく繋がらなかったので、バックアップ用のOpenVPNを久しぶりに今設定していたのだけれど、ポート間違えたり、UDPとTCP間違えたり、IPアドレス間違えたり、設定ファイル書き換えるのを忘れていたり、もうおじいちゃんだな。とりあえず設定完了した。</title>
+      <link>https://x.com/hal_biz/status/2045827784136884300</link>
+      <description>くろぬこ: カフェのWi-Fiから自宅サーバ向けの WireGuard がうまく繋がらなかったので、バックアップ用のOpenVPNを久しぶりに今設定していたのだけれど、ポート間違えたり、UDPとTCP間違えたり、IPアドレス間違えたり、設定ファイル書き換えるのを忘れていたり、もうおじいちゃんだな。とりあえず設定完了した。</description>
+      <pubDate>Sun, 19 Apr 2026 11:32:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hal_biz/status/2045827784136884300</guid>
+    </item>
+    <item>
+      <title>WireGuard for Windows が v1.0 になったそう。めでたい。 https://t.co/o6JALdQPdm</title>
+      <link>https://x.com/mimura1133/status/2045780612536274960</link>
+      <description>みむら: WireGuard for Windows が v1.0 になったそう。めでたい。 https://t.co/o6JALdQPdm</description>
+      <pubDate>Sun, 19 Apr 2026 08:24:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mimura1133/status/2045780612536274960</guid>
+    </item>
+    <item>
       <title>Unifi Gateway Ultraの WireGuard とSynology DS918+内のTailscaleとで切り替えながら使ってるけど、Tailscaleの方がレスポンスよくて速度いいな さすがにNASだからCPU性能とかも違うしな WireGuard はMTU詰めれば多少変わるけど超えられない壁ありそう</title>
       <link>https://x.com/shibukawa_pc/status/2045718287745712612</link>
       <description>渋川パソコンサポート: Unifi Gateway Ultraの WireGuard とSynology DS918+内のTailscaleとで切り替えながら使ってるけど、Tailscaleの方がレスポンスよくて速度いいな さすがにNASだからCPU性能とかも違うしな WireGuard はMTU詰めれば多少変わるけど超えられない壁ありそう</description>
@@ -255,27 +276,6 @@
       <description>羽鳥達郎(合同会社Pons): @kai0707 vpsに wireguard 入れるといいよって話をみて、結構快適です https://t.co/bGxIGXZx3Z</description>
       <pubDate>Sat, 11 Apr 2026 08:48:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ponsllc/status/2042887586675593358</guid>
-    </item>
-    <item>
-      <title>自宅のWindows PCに WireGuard クライアントの更新が来てたので更新したら警告も一切なく容赦なく強制的にOSがリブートになって、 こんな挙動するツールだった事を改めて実感させられました</title>
-      <link>https://x.com/hissaa/status/2042839755491283436</link>
-      <description>hissaa: 自宅のWindows PCに WireGuard クライアントの更新が来てたので更新したら警告も一切なく容赦なく強制的にOSがリブートになって、 こんな挙動するツールだった事を改めて実感させられました</description>
-      <pubDate>Sat, 11 Apr 2026 05:38:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hissaa/status/2042839755491283436</guid>
-    </item>
-    <item>
-      <title>パケットルー対策にヘッダーにパケットのTTLも入れている。 Headerは平文。TTL Flag etc.. 初期ベクトルであるIV（おそらくこれはSHA256あるある. Wireguard でもBlakes2bハッシュ化の初期値とかかかな）を使用して暗号化しているっぽいんか</title>
-      <link>https://x.com/shintaoku/status/2042835605504299147</link>
-      <description>gx14ac: パケットルー対策にヘッダーにパケットのTTLも入れている。 Headerは平文。TTL Flag etc.. 初期ベクトルであるIV（おそらくこれはSHA256あるある. Wireguard でもBlakes2bハッシュ化の初期値とかかかな）を使用して暗号化しているっぽいんか</description>
-      <pubDate>Sat, 11 Apr 2026 05:22:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shintaoku/status/2042835605504299147</guid>
-    </item>
-    <item>
-      <title>@soichi1208tenko なるほど、有効期限があったか.. ファイル出した垢がなるんだ 確かprotonテンプメール使えたからtorでテンプメールで垢作ってそこで wireguard 取り出しまくるのはいいのかな？ いやアカウント止まったらそのVPNすら使えないか... あれその前にIP取ってるとか聞くから普通に使用中のIP使えなくなるか..</title>
-      <link>https://x.com/L_port8000/status/2042813677548769288</link>
-      <description>一樹（いつき）: @soichi1208tenko なるほど、有効期限があったか.. ファイル出した垢がなるんだ 確かprotonテンプメール使えたからtorでテンプメールで垢作ってそこで wireguard 取り出しまくるのはいいのかな？ いやアカウント止まったらそのVPNすら使えないか... あれその前にIP取ってるとか聞くから普通に使用中のIP使えなくなるか..</description>
-      <pubDate>Sat, 11 Apr 2026 03:55:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2042813677548769288</guid>
     </item>
   </channel>
 </rss>

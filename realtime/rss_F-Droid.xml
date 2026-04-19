@@ -194,39 +194,11 @@
       <guid isPermaLink="true">https://x.com/Tomato_0809_/status/2035989510568489422</guid>
     </item>
     <item>
-      <title>共有PCでもAIとクラウドで F - Droid まで行けた。 「こんなやり方もあるんだ」って誰かに刺さったら嬉しいな。 フル記録はこちら！ https://t.co/3YxUsFOf9d Happy Hacking! 🦊</title>
-      <link>https://x.com/soraiyu/status/2035028354500530229</link>
-      <description>りつねぐ: 共有PCでもAIとクラウドで F - Droid まで行けた。 「こんなやり方もあるんだ」って誰かに刺さったら嬉しいな。 フル記録はこちら！ https://t.co/3YxUsFOf9d Happy Hacking! 🦊</description>
-      <pubDate>Fri, 20 Mar 2026 16:19:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soraiyu/status/2035028354500530229</guid>
-    </item>
-    <item>
-      <title>Actionsは便利だけど注意： シンプルアプリだからOKだったけど、大規模/重い依存だとビルド時間長くなったり無料枠超えたりするかも。万能じゃないよ。 F - Droid は質疑応答のみで約1週間程度でなんとか公開！</title>
-      <link>https://x.com/soraiyu/status/2035028351103246752</link>
-      <description>りつねぐ: Actionsは便利だけど注意： シンプルアプリだからOKだったけど、大規模/重い依存だとビルド時間長くなったり無料枠超えたりするかも。万能じゃないよ。 F - Droid は質疑応答のみで約1週間程度でなんとか公開！</description>
-      <pubDate>Fri, 20 Mar 2026 16:19:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soraiyu/status/2035028351103246752</guid>
-    </item>
-    <item>
-      <title>動機：家族にスマホを見せるときに通知がポップアップして見えてしまうのが気になって… → 通知内容一切保存せず「New notification」にマスクするだけ！ オフライン完全、プライバシー最優先FOSSアプリ。 GitHub: https://t.co/vdoOA0DwQf F - Droid : https://t.co/mW2sCcxi6w</title>
-      <link>https://x.com/soraiyu/status/2035028342177767886</link>
-      <description>りつねぐ: 動機：家族にスマホを見せるときに通知がポップアップして見えてしまうのが気になって… → 通知内容一切保存せず「New notification」にマスクするだけ！ オフライン完全、プライバシー最優先FOSSアプリ。 GitHub: https://t.co/vdoOA0DwQf F - Droid : https://t.co/mW2sCcxi6w</description>
-      <pubDate>Fri, 20 Mar 2026 16:19:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soraiyu/status/2035028342177767886</guid>
-    </item>
-    <item>
       <title>家族と共有のノートPCだけで、Android Studio入れずにKotlinアプリ作って F - Droid 公開まで行けた話公開したよ！ AI駆動 + GitHub Actionsで完結。 「PC汚したくない」から始まったKyuubiMaskの記録🦊 詳細→ https://t.co/3YxUsFOf9d #AndroidDev #Kotlin #FOSS #GitHubActions #AICoding https://t.co/zUI6y7XG90</title>
       <link>https://x.com/soraiyu/status/2035028338910347556</link>
       <description>りつねぐ: 家族と共有のノートPCだけで、Android Studio入れずにKotlinアプリ作って F - Droid 公開まで行けた話公開したよ！ AI駆動 + GitHub Actionsで完結。 「PC汚したくない」から始まったKyuubiMaskの記録🦊 詳細→ https://t.co/3YxUsFOf9d #AndroidDev #Kotlin #FOSS #GitHubActions #AICoding https://t.co/zUI6y7XG90</description>
       <pubDate>Fri, 20 Mar 2026 16:18:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/soraiyu/status/2035028338910347556</guid>
-    </item>
-    <item>
-      <title>早速S26のシャッター音を消しました！ ShizukuはSoftonicから (Playストアのやつは入らない) aShellは F - Droid から USBとワイヤレスデバックを有効にしてShizukuとWiFiペアリングしてaShellで以下のコマンドを打つだけ！ adb shell settings put system csc_pref_camera_forced_shuttersound_key 0 https://t.co/LKIa6A8RXR</title>
-      <link>https://x.com/Aobane_2409/status/2034941476782973233</link>
-      <description>蒼羽/あおばね🥝: 早速S26のシャッター音を消しました！ ShizukuはSoftonicから (Playストアのやつは入らない) aShellは F - Droid から USBとワイヤレスデバックを有効にしてShizukuとWiFiペアリングしてaShellで以下のコマンドを打つだけ！ adb shell settings put system csc_pref_camera_forced_shuttersound_key 0 https://t.co/LKIa6A8RXR</description>
-      <pubDate>Fri, 20 Mar 2026 10:33:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Aobane_2409/status/2034941476782973233</guid>
     </item>
   </channel>
 </rss>

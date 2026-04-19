@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone でマネージドして組むのが安全かなぁ～</title>
+      <link>https://x.com/mcite_macchi/status/2045842666869723427</link>
+      <description>mcite_macchi: rclone でマネージドして組むのが安全かなぁ～</description>
+      <pubDate>Sun, 19 Apr 2026 12:31:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mcite_macchi/status/2045842666869723427</guid>
+    </item>
+    <item>
+      <title>デグーの写真動画共有作戦 1.OSをフル機能版に https://t.co/GyXHva33z7にメモリ512スワップ512でX使うのはきついのでスワップを1024に 3.ブラウザMIDORIをインストしてデフォルト化 4. rclone からGoogleドライブ連携なんとか完了（凄く時間かかる） https://t.co/GLReoeViB3ドライブに写真転送成功！ https://t.co/QfOWJNOSID</title>
+      <link>https://x.com/takemaegmail/status/2045504793226166379</link>
+      <description>たけ@潰瘍性大腸炎緩解期なぅ: デグーの写真動画共有作戦 1.OSをフル機能版に https://t.co/GyXHva33z7にメモリ512スワップ512でX使うのはきついのでスワップを1024に 3.ブラウザMIDORIをインストしてデフォルト化 4. rclone からGoogleドライブ連携なんとか完了（凄く時間かかる） https://t.co/GLReoeViB3ドライブに写真転送成功！ https://t.co/QfOWJNOSID</description>
+      <pubDate>Sat, 18 Apr 2026 14:08:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takemaegmail/status/2045504793226166379</guid>
+    </item>
+    <item>
       <title>rclone でGoogleドライブ連携しようとするとGUIベースのLinuxで terminalとwebブラウザが起動できないと認証できないとか そして我が家にはGUIが動かせるスペックのラズパイは存在しない… 振り出しに戻ったわorz</title>
       <link>https://x.com/takemaegmail/status/2045432746747842958</link>
       <description>たけ@潰瘍性大腸炎緩解期なぅ: rclone でGoogleドライブ連携しようとするとGUIベースのLinuxで terminalとwebブラウザが起動できないと認証できないとか そして我が家にはGUIが動かせるスペックのラズパイは存在しない… 振り出しに戻ったわorz</description>
@@ -262,20 +276,6 @@
       <description>ゴリラ - 花粉に負けそう: rclone を使って~/.claude/projectsを同期させているけど、エラーになっちゃうなぁ なんでだろ</description>
       <pubDate>Wed, 25 Mar 2026 14:40:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gorilla0513/status/2036815446285128113</guid>
-    </item>
-    <item>
-      <title>@munetomoando Boxは学外への公開はできないようですので公開するもの(+overleaf連携)はGithubで，そうでないものはBoxにしました。ファイル数が多くなかったので手作業でしましたが rclone を使えばクラウド間で移動できるようです。フリー公開以外で外部の人とやりとりが多い場合はdropboxのままの方が良さげです。</title>
-      <link>https://x.com/tmytjk/status/2036787377688232056</link>
-      <description>Tomoya Tajika: @munetomoando Boxは学外への公開はできないようですので公開するもの(+overleaf連携)はGithubで，そうでないものはBoxにしました。ファイル数が多くなかったので手作業でしましたが rclone を使えばクラウド間で移動できるようです。フリー公開以外で外部の人とやりとりが多い場合はdropboxのままの方が良さげです。</description>
-      <pubDate>Wed, 25 Mar 2026 12:48:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tmytjk/status/2036787377688232056</guid>
-    </item>
-    <item>
-      <title>でけた！ rclone とかgdriveとか色々あるらしいけど google謹製の非公式ツールgoogleworkspace/cliにした google drive APIをコマンドで実行する感じ gws drive files update で共有ドライブへアップロードしたら、自動で世代管理してくれるっぽい これで脳内の心配事が一つ消せて 開発に専念できる</title>
-      <link>https://x.com/mB4fenpV8WVevd9/status/2036748537430688190</link>
-      <description>ただまさゆき: でけた！ rclone とかgdriveとか色々あるらしいけど google謹製の非公式ツールgoogleworkspace/cliにした google drive APIをコマンドで実行する感じ gws drive files update で共有ドライブへアップロードしたら、自動で世代管理してくれるっぽい これで脳内の心配事が一つ消せて 開発に専念できる</description>
-      <pubDate>Wed, 25 Mar 2026 10:14:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mB4fenpV8WVevd9/status/2036748537430688190</guid>
     </item>
   </channel>
 </rss>
