@@ -151,6 +151,8 @@ jobs:
           sleep 10
           python3 ./script/realtimeRss.py '"BannerHub"'
           sleep 10
+          python3 ./script/realtimeRss.py '"WireGuard"'
+          sleep 10
           python3 ./script/realtimeRss.py '"staddss"'
 
       - name: Commit
