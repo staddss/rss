@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Yahoo!リアルタイム検索 - &quot;WireGuard&quot;</title>
+    <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
+    <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
+    <item>
+      <title>Unifi Gateway Ultraの WireGuard とSynology DS918+内のTailscaleとで切り替えながら使ってるけど、Tailscaleの方がレスポンスよくて速度いいな さすがにNASだからCPU性能とかも違うしな WireGuard はMTU詰めれば多少変わるけど超えられない壁ありそう</title>
+      <link>https://x.com/shibukawa_pc/status/2045718287745712612</link>
+      <description>渋川パソコンサポート: Unifi Gateway Ultraの WireGuard とSynology DS918+内のTailscaleとで切り替えながら使ってるけど、Tailscaleの方がレスポンスよくて速度いいな さすがにNASだからCPU性能とかも違うしな WireGuard はMTU詰めれば多少変わるけど超えられない壁ありそう</description>
+      <pubDate>Sun, 19 Apr 2026 04:17:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2045718287745712612</guid>
+    </item>
+    <item>
+      <title>NetBirdって今も変わってないのならカーネルモードの WireGuard 使うんだっけ？ https://t.co/HlKRNa4t3i</title>
+      <link>https://x.com/glyzinienet/status/2045707296152731830</link>
+      <description>Wis (Glyzinie): NetBirdって今も変わってないのならカーネルモードの WireGuard 使うんだっけ？ https://t.co/HlKRNa4t3i</description>
+      <pubDate>Sun, 19 Apr 2026 03:33:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/glyzinienet/status/2045707296152731830</guid>
+    </item>
+    <item>
+      <title>Wireguard 経由の通信がうまくいかなくて直してたらこんな時間になってウケる</title>
+      <link>https://x.com/__23rdsf/status/2045575936582828119</link>
+      <description>muno: Wireguard 経由の通信がうまくいかなくて直してたらこんな時間になってウケる</description>
+      <pubDate>Sat, 18 Apr 2026 18:51:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__23rdsf/status/2045575936582828119</guid>
+    </item>
+    <item>
+      <title>自宅から実家 wireguard 鯖への接続の設定やるかー。 経路とMTUの計算メモ IPv6 header (Xpass) - 40 IPv4 header - 20 UDP header - 8 WireGuard header - 32 ということで合計100 [B]だね。 物理層のMTUが1500だからそこから引いて最終的なMTUは1400と分かる。</title>
+      <link>https://x.com/t3u_tsu/status/2045474144972902408</link>
+      <description>t3u👹UNIX devotee: 自宅から実家 wireguard 鯖への接続の設定やるかー。 経路とMTUの計算メモ IPv6 header (Xpass) - 40 IPv4 header - 20 UDP header - 8 WireGuard header - 32 ということで合計100 [B]だね。 物理層のMTUが1500だからそこから引いて最終的なMTUは1400と分かる。</description>
+      <pubDate>Sat, 18 Apr 2026 12:06:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2045474144972902408</guid>
+    </item>
+    <item>
+      <title>早くお家帰って WireGuard のチューニングしたい</title>
+      <link>https://x.com/Tukunero/status/2044734797285831099</link>
+      <description>SDGsつくネロ: 早くお家帰って WireGuard のチューニングしたい</description>
+      <pubDate>Thu, 16 Apr 2026 11:08:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tukunero/status/2044734797285831099</guid>
+    </item>
+    <item>
+      <title>WireGuard が急につながらないなら、設定ミスだけとは限りません。Dockerとのアドレス競合で詰まった実例を振り返った記事です # WireGuard https://t.co/OVXhloALK5</title>
+      <link>https://x.com/NanosizeGroup/status/2044573930455749031</link>
+      <description>なのさいず: WireGuard が急につながらないなら、設定ミスだけとは限りません。Dockerとのアドレス競合で詰まった実例を振り返った記事です # WireGuard https://t.co/OVXhloALK5</description>
+      <pubDate>Thu, 16 Apr 2026 00:29:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NanosizeGroup/status/2044573930455749031</guid>
+    </item>
+    <item>
+      <title>WAN のインターフェースが 1つだけだとアクセスできるのに VPN 用のインターフェースを追加するとインターフェースが複数あり、WAN だから WebUI を止められてしまう。 WireGuard のサーバーを WebUI で立てれるかな？と思ったが逆にめんどくさい。 Youtube 見てみるか https://t.co/vmMiv1oLO7 https://t.co/KDq9csGIyS</title>
+      <link>https://x.com/jp_yen/status/2044466782866706860</link>
+      <description>1円切手📭 (&amp;o63): WAN のインターフェースが 1つだけだとアクセスできるのに VPN 用のインターフェースを追加するとインターフェースが複数あり、WAN だから WebUI を止められてしまう。 WireGuard のサーバーを WebUI で立てれるかな？と思ったが逆にめんどくさい。 Youtube 見てみるか https://t.co/vmMiv1oLO7 https://t.co/KDq9csGIyS</description>
+      <pubDate>Wed, 15 Apr 2026 17:24:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jp_yen/status/2044466782866706860</guid>
+    </item>
+    <item>
+      <title>@darekasan_net 法人向けミニPCかNUCが買ったらProxmoxインストールしてVM・コンテナ鯖として使えると思います。 僕はWindows XP VMと WireGuard VPNコンテナがあって、外出してもフリーセルが遊べますｗ</title>
+      <link>https://x.com/xlfdll/status/2044465712929116535</link>
+      <description>かおる💾💽: @darekasan_net 法人向けミニPCかNUCが買ったらProxmoxインストールしてVM・コンテナ鯖として使えると思います。 僕はWindows XP VMと WireGuard VPNコンテナがあって、外出してもフリーセルが遊べますｗ</description>
+      <pubDate>Wed, 15 Apr 2026 17:19:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xlfdll/status/2044465712929116535</guid>
+    </item>
+    <item>
+      <title>@jarekceborski @CFchangelog @eastdakota WireGuard を選ぶこともできます</title>
+      <link>https://x.com/NT_Busters/status/2044285347866259576</link>
+      <description>フルネーム名札を廃止する会: @jarekceborski @CFchangelog @eastdakota WireGuard を選ぶこともできます</description>
+      <pubDate>Wed, 15 Apr 2026 05:23:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NT_Busters/status/2044285347866259576</guid>
+    </item>
+    <item>
+      <title>@shake_kirehashi 私はproton派です！ ・ノーログ ・アカウント必要(メアドのみ) ・程々に遅い時がある(運) ・普通のアプリ版だとサーバーが選べない ( wireguard の設定ファイルを場所を選んで書き出せるので、書き出して、 wireguard のアプリにインポートすればできる)</title>
+      <link>https://x.com/L_port8000/status/2044262645004632342</link>
+      <description>一樹（いつき）: @shake_kirehashi 私はproton派です！ ・ノーログ ・アカウント必要(メアドのみ) ・程々に遅い時がある(運) ・普通のアプリ版だとサーバーが選べない ( wireguard の設定ファイルを場所を選んで書き出せるので、書き出して、 wireguard のアプリにインポートすればできる)</description>
+      <pubDate>Wed, 15 Apr 2026 03:52:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2044262645004632342</guid>
+    </item>
+    <item>
+      <title>wireguard ではなくwarp/Tunnelみたいなもん？</title>
+      <link>https://x.com/mt03kkk18wu/status/2044095162549448940</link>
+      <description>もか: wireguard ではなくwarp/Tunnelみたいなもん？</description>
+      <pubDate>Tue, 14 Apr 2026 16:47:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mt03kkk18wu/status/2044095162549448940</guid>
+    </item>
+    <item>
+      <title>・Tailscaleハブ ・ WireGuard サーバ ・DDNSクライアント ・wol送信元 結局普通にIPv4でもDDNS使えてるっぽいんやけど、、、まぁいっか 拠点間VPNでもないのでMT5000に変えたところでVPNスループットもそこまで変わらんやろと言い聞かせる</title>
+      <link>https://x.com/vino_Tamon/status/2044002729832632389</link>
+      <description>vino: ・Tailscaleハブ ・ WireGuard サーバ ・DDNSクライアント ・wol送信元 結局普通にIPv4でもDDNS使えてるっぽいんやけど、、、まぁいっか 拠点間VPNでもないのでMT5000に変えたところでVPNスループットもそこまで変わらんやろと言い聞かせる</description>
+      <pubDate>Tue, 14 Apr 2026 10:40:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/vino_Tamon/status/2044002729832632389</guid>
+    </item>
+    <item>
+      <title>(´･ω･` )胃が痛むので気分転換。テスト環境に借りてたVPSに WireGuard 入れて職場LANとカスケード接続する環境を作ったりして遊ぶ。でも、コロナ禍過ぎてからリモートワークの対象って減ったよなぁ...。</title>
+      <link>https://x.com/mizukuragexxx/status/2043882773686169636</link>
+      <description>ミズクラゲ🐾🪼🫏: (´･ω･` )胃が痛むので気分転換。テスト環境に借りてたVPSに WireGuard 入れて職場LANとカスケード接続する環境を作ったりして遊ぶ。でも、コロナ禍過ぎてからリモートワークの対象って減ったよなぁ...。</description>
+      <pubDate>Tue, 14 Apr 2026 02:43:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mizukuragexxx/status/2043882773686169636</guid>
+    </item>
+    <item>
+      <title>宅内VXLAN over wireguard トンネル端、VM上に建ててたんだけど、SR-IOV使ったら最大速度が200Mbps→300Mbpsになった SR-IOVやっぱ強いな</title>
+      <link>https://x.com/hidori_vrc/status/2043882274639524154</link>
+      <description>氷鳳: 宅内VXLAN over wireguard トンネル端、VM上に建ててたんだけど、SR-IOV使ったら最大速度が200Mbps→300Mbpsになった SR-IOVやっぱ強いな</description>
+      <pubDate>Tue, 14 Apr 2026 02:41:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hidori_vrc/status/2043882274639524154</guid>
+    </item>
+    <item>
+      <title>ProtonVPNの WireGuard でカナダのサーバー（太平洋西海岸寄り？）を指定した方がオーバーヘッドもなく30Mbps以上出てよい。 OpenVPNだと5Mbpsくらいしか出ない。 https://t.co/wnVCdTcTB2</title>
+      <link>https://x.com/sakuacid/status/2043850720827543839</link>
+      <description>さく: ProtonVPNの WireGuard でカナダのサーバー（太平洋西海岸寄り？）を指定した方がオーバーヘッドもなく30Mbps以上出てよい。 OpenVPNだと5Mbpsくらいしか出ない。 https://t.co/wnVCdTcTB2</description>
+      <pubDate>Tue, 14 Apr 2026 00:35:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2043850720827543839</guid>
+    </item>
+    <item>
+      <title>@sss183245444776 VPS側 WireGuard ＋Shadowsocks併用してる感じ？グレート・ファイアウォールだよね？ それとも留学生に手伝ってもらう感じ?</title>
+      <link>https://x.com/setsu_gt/status/2043728233548616074</link>
+      <description>せつ✨: @sss183245444776 VPS側 WireGuard ＋Shadowsocks併用してる感じ？グレート・ファイアウォールだよね？ それとも留学生に手伝ってもらう感じ?</description>
+      <pubDate>Mon, 13 Apr 2026 16:29:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/setsu_gt/status/2043728233548616074</guid>
+    </item>
+    <item>
+      <title>#WiFiman速度テスト結果を確認してください！ wireguard でprotonvpnの無料カナダサーバー繋いでみたけど 割とええやん https://t.co/Ne3G9ZBmt6 https://t.co/QmAQHf6yzC</title>
+      <link>https://x.com/sakuacid/status/2043679045796377076</link>
+      <description>さく: #WiFiman速度テスト結果を確認してください！ wireguard でprotonvpnの無料カナダサーバー繋いでみたけど 割とええやん https://t.co/Ne3G9ZBmt6 https://t.co/QmAQHf6yzC</description>
+      <pubDate>Mon, 13 Apr 2026 13:13:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2043679045796377076</guid>
+    </item>
+    <item>
+      <title>機内モードにしてwifiを切っても先に進めないと思って、もしやと思い wireguard もOFFにしたら先に進めました</title>
+      <link>https://x.com/CypherLilium/status/2043664254877028566</link>
+      <description>リリア: 機内モードにしてwifiを切っても先に進めないと思って、もしやと思い wireguard もOFFにしたら先に進めました</description>
+      <pubDate>Mon, 13 Apr 2026 12:15:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CypherLilium/status/2043664254877028566</guid>
+    </item>
+    <item>
+      <title>» 【OpenWrt】 WireGuard で拠点間VPN接続、遠隔地へのデータバックアップもこれで万全！ | Wi-Fiマニュアル https://t.co/7rwJ6eiaWS</title>
+      <link>https://x.com/sakuacid/status/2043635043084775926</link>
+      <description>さく: » 【OpenWrt】 WireGuard で拠点間VPN接続、遠隔地へのデータバックアップもこれで万全！ | Wi-Fiマニュアル https://t.co/7rwJ6eiaWS</description>
+      <pubDate>Mon, 13 Apr 2026 10:18:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2043635043084775926</guid>
+    </item>
+    <item>
+      <title>OpenWrtで Wireguard を設定するゾ</title>
+      <link>https://x.com/sakuacid/status/2043634407521833372</link>
+      <description>さく: OpenWrtで Wireguard を設定するゾ</description>
+      <pubDate>Mon, 13 Apr 2026 10:16:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2043634407521833372</guid>
+    </item>
+    <item>
+      <title>ファイアウォールを超えて：TailVNCが WireGuard とVNCを融合して追跡不可能なアクセスを実現 https://t.co/yczUKqE1ty</title>
+      <link>https://x.com/TYOBlackHatNews/status/2043618375104950782</link>
+      <description>TokyoBlackHatNews: ファイアウォールを超えて：TailVNCが WireGuard とVNCを融合して追跡不可能なアクセスを実現 https://t.co/yczUKqE1ty</description>
+      <pubDate>Mon, 13 Apr 2026 09:12:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2043618375104950782</guid>
+    </item>
+    <item>
+      <title>あらら、 Wireguard まで不調そうなのでメンテナンスすっぺかな。</title>
+      <link>https://x.com/rs_pferd/status/2043593819988648129</link>
+      <description>rs＊К.Мася 🚲 / ゲーム系ではブタジルのもと 🎮: あらら、 Wireguard まで不調そうなのでメンテナンスすっぺかな。</description>
+      <pubDate>Mon, 13 Apr 2026 07:35:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rs_pferd/status/2043593819988648129</guid>
+    </item>
+    <item>
+      <title>@odpLn8yGmyH56c OpenVPNは思った以上に遅かったので WireGuard の方が速いのかな？と思ったところでまだチャレンジできておりません。（OpenWrt化したルーター上で設定しているので前準備に手間がかかってます）</title>
+      <link>https://x.com/sakuacid/status/2043587582735556869</link>
+      <description>さく: @odpLn8yGmyH56c OpenVPNは思った以上に遅かったので WireGuard の方が速いのかな？と思ったところでまだチャレンジできておりません。（OpenWrt化したルーター上で設定しているので前準備に手間がかかってます）</description>
+      <pubDate>Mon, 13 Apr 2026 07:10:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2043587582735556869</guid>
+    </item>
+    <item>
+      <title>@sakuacid ほぼすべての場合において上位互換であると思われる WireGuard が良いかなと思ってます #PTCGL https://t.co/lZSXTXvs0B</title>
+      <link>https://x.com/odpLn8yGmyH56c/status/2043585612578738223</link>
+      <description>ガチじゃない熊: @sakuacid ほぼすべての場合において上位互換であると思われる WireGuard が良いかなと思ってます #PTCGL https://t.co/lZSXTXvs0B</description>
+      <pubDate>Mon, 13 Apr 2026 07:02:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2043585612578738223</guid>
+    </item>
+    <item>
+      <title>@ureinohenjin ここ10年ずっとASUS、ただし世代が違うとMeshがうまく動作しないことがある為、Mesh同世代同機種推奨。以前はNEC使ってたけど、 Wireguard が使えないのがちょっと。高いけど。</title>
+      <link>https://x.com/minato_jetta/status/2043548666758361187</link>
+      <description>MI: @ureinohenjin ここ10年ずっとASUS、ただし世代が違うとMeshがうまく動作しないことがある為、Mesh同世代同機種推奨。以前はNEC使ってたけど、 Wireguard が使えないのがちょっと。高いけど。</description>
+      <pubDate>Mon, 13 Apr 2026 04:35:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/minato_jetta/status/2043548666758361187</guid>
+    </item>
+    <item>
+      <title>TOKYO FREE WI-FIで Wireguard ベースのVPNが全く使えないんですけど誰か何か知らないですか? 同じベースのCloudflare Zero Trustも使えなくて困っている。</title>
+      <link>https://x.com/manato787/status/2043508060866625680</link>
+      <description>d****-kun_SP5b: TOKYO FREE WI-FIで Wireguard ベースのVPNが全く使えないんですけど誰か何か知らないですか? 同じベースのCloudflare Zero Trustも使えなくて困っている。</description>
+      <pubDate>Mon, 13 Apr 2026 01:54:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/manato787/status/2043508060866625680</guid>
+    </item>
+    <item>
+      <title>5年前と違って wireguard で軽量かつ簡単にトンネル作れるようになったのが大きいかもしれん</title>
+      <link>https://x.com/shiramines/status/2043384418090516776</link>
+      <description>しらみね: 5年前と違って wireguard で軽量かつ簡単にトンネル作れるようになったのが大きいかもしれん</description>
+      <pubDate>Sun, 12 Apr 2026 17:43:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiramines/status/2043384418090516776</guid>
+    </item>
+    <item>
+      <title>Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/q156JrAVdL</title>
+      <link>https://x.com/HonorGryph/status/2043339374927249619</link>
+      <description>Faithful_Crusader_of_Spirit_and_Sacrifice🌌🔮✝️: Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/q156JrAVdL</description>
+      <pubDate>Sun, 12 Apr 2026 14:44:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HonorGryph/status/2043339374927249619</guid>
+    </item>
+    <item>
+      <title>WireGuard とVeraCryptの開発者が、Microsoftにアカウントを突然ロックされました。理由の説明なし、連絡なし。 「VPNとか暗号化とか関係ない」と思った方、ちょっと待って。仕事でMicrosoft 365使ってるなら他人事じゃないです。 #Microsoft #セキュリティ #VPN 👉 https://t.co/erX1B9CFqz</title>
+      <link>https://x.com/oshiete_suitman/status/2043226029528138236</link>
+      <description>スーツマン: WireGuard とVeraCryptの開発者が、Microsoftにアカウントを突然ロックされました。理由の説明なし、連絡なし。 「VPNとか暗号化とか関係ない」と思った方、ちょっと待って。仕事でMicrosoft 365使ってるなら他人事じゃないです。 #Microsoft #セキュリティ #VPN 👉 https://t.co/erX1B9CFqz</description>
+      <pubDate>Sun, 12 Apr 2026 07:13:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oshiete_suitman/status/2043226029528138236</guid>
+    </item>
+    <item>
+      <title>なんか色々調べたけど使ってるのが光クロスであるというのが影響してそうだな…光ネクストに下げた上でPPPoE生やしたら変わるかもだがそこまでしてGRE使いたいわけじゃないから WireGuard にしとこうかな。 https://t.co/s2CjXRm8Yp</title>
+      <link>https://x.com/shumaikun0716/status/2043175288461504638</link>
+      <description>shumaikun0716: なんか色々調べたけど使ってるのが光クロスであるというのが影響してそうだな…光ネクストに下げた上でPPPoE生やしたら変わるかもだがそこまでしてGRE使いたいわけじゃないから WireGuard にしとこうかな。 https://t.co/s2CjXRm8Yp</description>
+      <pubDate>Sun, 12 Apr 2026 03:52:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2043175288461504638</guid>
+    </item>
+    <item>
+      <title>なんかXG-100NEでもプロトコル47はパケットフィルタで制御可能なんだけどNGNにパケット入る時に弾かれてる感じがする。多分無理だな。 Wireguard の方が良さそうだ。 https://t.co/HPqCnGLWDy</title>
+      <link>https://x.com/shumaikun0716/status/2043170964750643517</link>
+      <description>shumaikun0716: なんかXG-100NEでもプロトコル47はパケットフィルタで制御可能なんだけどNGNにパケット入る時に弾かれてる感じがする。多分無理だな。 Wireguard の方が良さそうだ。 https://t.co/HPqCnGLWDy</description>
+      <pubDate>Sun, 12 Apr 2026 03:34:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2043170964750643517</guid>
+    </item>
+    <item>
+      <title>Metaquest3に WireGuard インストールできた。良きかな( ˘ω˘)</title>
+      <link>https://x.com/Tukunero/status/2043163914570269162</link>
+      <description>SDGsつくネロ: Metaquest3に WireGuard インストールできた。良きかな( ˘ω˘)</description>
+      <pubDate>Sun, 12 Apr 2026 03:06:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tukunero/status/2043163914570269162</guid>
+    </item>
+    <item>
+      <title>https://t.co/s1MgWLbMXA Microsoftが、 WireGuard やVeraCryptなどOSS開発者のアカウントを停止しました。 事前通知がなく、Windows向け更新や緊急パッチの配布ができなくなりました。 その後Microsoftは、確認手続き未完了による自動停止だと説明し、対応見直しを進めるとしています。</title>
+      <link>https://x.com/topickapp_com/status/2043056742607761870</link>
+      <description>topickapp (IT技術系ニュースサイト): https://t.co/s1MgWLbMXA Microsoftが、 WireGuard やVeraCryptなどOSS開発者のアカウントを停止しました。 事前通知がなく、Windows向け更新や緊急パッチの配布ができなくなりました。 その後Microsoftは、確認手続き未完了による自動停止だと説明し、対応見直しを進めるとしています。</description>
+      <pubDate>Sat, 11 Apr 2026 20:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/topickapp_com/status/2043056742607761870</guid>
+    </item>
+    <item>
+      <title>https://t.co/PMVFdlK1sq WireGuard for Windows v0.6 と WireGuardNT v0.11 が公開されました。 バグ修正・性能改善に加え、個別Allowed IP削除や低MTU対応が入っています。 更新は内蔵アップデータで案内されます。Microsoftの署名停止は解消済みです。</title>
+      <link>https://x.com/topickapp_com/status/2043036609780813882</link>
+      <description>topickapp (IT技術系ニュースサイト): https://t.co/PMVFdlK1sq WireGuard for Windows v0.6 と WireGuardNT v0.11 が公開されました。 バグ修正・性能改善に加え、個別Allowed IP削除や低MTU対応が入っています。 更新は内蔵アップデータで案内されます。Microsoftの署名停止は解消済みです。</description>
+      <pubDate>Sat, 11 Apr 2026 18:41:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/topickapp_com/status/2043036609780813882</guid>
+    </item>
+    <item>
+      <title>Paper WireTrust: A TrustZone-Based Non-bypassable VPN Tunnel [Nordsec25] https://t.co/YMUNXiG4JX Cortex-A TurstZoneを使って WireGuard を強化する。OSが侵害された場合でもトンネルを迂回しようとする試みをブロックする。 ソースコードがあるがNXP Nitrogen8Mボード用らしい。</title>
+      <link>https://x.com/KuniSuzaki/status/2042903630022611190</link>
+      <description>suzaki: Paper WireTrust: A TrustZone-Based Non-bypassable VPN Tunnel [Nordsec25] https://t.co/YMUNXiG4JX Cortex-A TurstZoneを使って WireGuard を強化する。OSが侵害された場合でもトンネルを迂回しようとする試みをブロックする。 ソースコードがあるがNXP Nitrogen8Mボード用らしい。</description>
+      <pubDate>Sat, 11 Apr 2026 09:52:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KuniSuzaki/status/2042903630022611190</guid>
+    </item>
+    <item>
+      <title>@kai0707 vpsに wireguard 入れるといいよって話をみて、結構快適です https://t.co/bGxIGXZx3Z</title>
+      <link>https://x.com/ponsllc/status/2042887586675593358</link>
+      <description>羽鳥達郎(合同会社Pons): @kai0707 vpsに wireguard 入れるといいよって話をみて、結構快適です https://t.co/bGxIGXZx3Z</description>
+      <pubDate>Sat, 11 Apr 2026 08:48:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ponsllc/status/2042887586675593358</guid>
+    </item>
+    <item>
+      <title>自宅のWindows PCに WireGuard クライアントの更新が来てたので更新したら警告も一切なく容赦なく強制的にOSがリブートになって、 こんな挙動するツールだった事を改めて実感させられました</title>
+      <link>https://x.com/hissaa/status/2042839755491283436</link>
+      <description>hissaa: 自宅のWindows PCに WireGuard クライアントの更新が来てたので更新したら警告も一切なく容赦なく強制的にOSがリブートになって、 こんな挙動するツールだった事を改めて実感させられました</description>
+      <pubDate>Sat, 11 Apr 2026 05:38:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hissaa/status/2042839755491283436</guid>
+    </item>
+    <item>
+      <title>パケットルー対策にヘッダーにパケットのTTLも入れている。 Headerは平文。TTL Flag etc.. 初期ベクトルであるIV（おそらくこれはSHA256あるある. Wireguard でもBlakes2bハッシュ化の初期値とかかかな）を使用して暗号化しているっぽいんか</title>
+      <link>https://x.com/shintaoku/status/2042835605504299147</link>
+      <description>gx14ac: パケットルー対策にヘッダーにパケットのTTLも入れている。 Headerは平文。TTL Flag etc.. 初期ベクトルであるIV（おそらくこれはSHA256あるある. Wireguard でもBlakes2bハッシュ化の初期値とかかかな）を使用して暗号化しているっぽいんか</description>
+      <pubDate>Sat, 11 Apr 2026 05:22:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shintaoku/status/2042835605504299147</guid>
+    </item>
+    <item>
+      <title>@soichi1208tenko なるほど、有効期限があったか.. ファイル出した垢がなるんだ 確かprotonテンプメール使えたからtorでテンプメールで垢作ってそこで wireguard 取り出しまくるのはいいのかな？ いやアカウント止まったらそのVPNすら使えないか... あれその前にIP取ってるとか聞くから普通に使用中のIP使えなくなるか..</title>
+      <link>https://x.com/L_port8000/status/2042813677548769288</link>
+      <description>一樹（いつき）: @soichi1208tenko なるほど、有効期限があったか.. ファイル出した垢がなるんだ 確かprotonテンプメール使えたからtorでテンプメールで垢作ってそこで wireguard 取り出しまくるのはいいのかな？ いやアカウント止まったらそのVPNすら使えないか... あれその前にIP取ってるとか聞くから普通に使用中のIP使えなくなるか..</description>
+      <pubDate>Sat, 11 Apr 2026 03:55:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2042813677548769288</guid>
+    </item>
+  </channel>
+</rss>
