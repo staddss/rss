@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>youtube閲覧中にタブが固まる問題（窓のサイズを何度か変えると治る） 「 chrome :// flags 「brave://flags」から ◯Media Foundation Camera Usage Monitoring→無効 ◯Use D3D12 video encoder→有効 で発生しなくなった</title>
+      <link>https://x.com/UsagiTencyo/status/2045702573265743981</link>
+      <description>うさぎ店長: youtube閲覧中にタブが固まる問題（窓のサイズを何度か変えると治る） 「 chrome :// flags 「brave://flags」から ◯Media Foundation Camera Usage Monitoring→無効 ◯Use D3D12 video encoder→有効 で発生しなくなった</description>
+      <pubDate>Sun, 19 Apr 2026 03:14:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UsagiTencyo/status/2045702573265743981</guid>
+    </item>
+    <item>
       <title>マイクの音が勝手に変わるやつの対処法見つけたぞ！redditに書いてあったんだけど、 chrome :// flags にアクセスして使用可能の中から 「Allow WebRTC to adjust the input volume.」を見つけてDisabledにしたらまったく下がったり上がったりしなくなった！排他モードとか通信を変えても治らなかったのに</title>
       <link>https://x.com/tukikomakoto/status/2045354408066912663</link>
       <description>月好誠(仮): マイクの音が勝手に変わるやつの対処法見つけたぞ！redditに書いてあったんだけど、 chrome :// flags にアクセスして使用可能の中から 「Allow WebRTC to adjust the input volume.」を見つけてDisabledにしたらまったく下がったり上がったりしなくなった！排他モードとか通信を変えても治らなかったのに</description>
@@ -269,13 +276,6 @@
       <description>Shin’u＠高校中国語教員: Chromeのタブを縦にする方法 ①アドレスバーに「 chrome :// flags /#vertical-tabs !」入力 ②「Vertical Tabs」を「Default」から「Enabled」に切替えてChrome再起動 ③Chromeを再起動したらアカウントアイコンの隣にある三点から「設定」→「デザイン」の「タブバーの位置」を「側面」に変更 https://t.co/kdFBE3o4Lc</description>
       <pubDate>Thu, 02 Apr 2026 05:17:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ShinuUeno/status/2039572946117906705</guid>
-    </item>
-    <item>
-      <title>@maru_malow Ironっていう別ブラウザで昔の話ですが、『 chrome :// flags 』を入力したあとに「Temporarily unexpire M129 flags」と「Temporarily unexpire M130 flags」を有効にしてCalculate window occlusion on Windowsをオフにしたらいけました</title>
-      <link>https://x.com/SlntyR/status/2038966408227557449</link>
-      <description>滝川: @maru_malow Ironっていう別ブラウザで昔の話ですが、『 chrome :// flags 』を入力したあとに「Temporarily unexpire M129 flags」と「Temporarily unexpire M130 flags」を有効にしてCalculate window occlusion on Windowsをオフにしたらいけました</description>
-      <pubDate>Tue, 31 Mar 2026 13:07:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SlntyR/status/2038966408227557449</guid>
     </item>
   </channel>
 </rss>

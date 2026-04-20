@@ -5,11 +5,46 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</title>
+      <link>https://x.com/Yamar50/status/2046242152532086922</link>
+      <description>Yamar50 in Tokyo JP: @kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</description>
+      <pubDate>Mon, 20 Apr 2026 14:58:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yamar50/status/2046242152532086922</guid>
+    </item>
+    <item>
+      <title>まぁせっかくだし、どうせ盆には墓参りとかで帰るだろうからそのときに現状のソフトイーサーから wireguard に置き換えるくらいの気持ちで諸々調べたり調達するかねぇ</title>
+      <link>https://x.com/Ckurai/status/2046089923879645269</link>
+      <description>倉井: まぁせっかくだし、どうせ盆には墓参りとかで帰るだろうからそのときに現状のソフトイーサーから wireguard に置き換えるくらいの気持ちで諸々調べたり調達するかねぇ</description>
+      <pubDate>Mon, 20 Apr 2026 04:53:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2046089923879645269</guid>
+    </item>
+    <item>
+      <title>WireGuard 、親玉のサブネットマスク勝手に書き替わってて到達不能になってた</title>
+      <link>https://x.com/Kanji1113_/status/2046044576713150597</link>
+      <description>Kanji1113: WireGuard 、親玉のサブネットマスク勝手に書き替わってて到達不能になってた</description>
+      <pubDate>Mon, 20 Apr 2026 01:53:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kanji1113_/status/2046044576713150597</guid>
+    </item>
+    <item>
+      <title>２Ｆに設置のサーバは自宅サーバとＶＰＮ接続しているのですが、電源ＯＮ，ＯＦＦで接続が切れたままでした。 wireguard のサービスを自動起動設定していなかったのが原因でした。これでリフォーム現地に行かなくて良い。</title>
+      <link>https://x.com/nae2sho/status/2046032261662060666</link>
+      <description>苗場翔 / Picolix Design: ２Ｆに設置のサーバは自宅サーバとＶＰＮ接続しているのですが、電源ＯＮ，ＯＦＦで接続が切れたままでした。 wireguard のサービスを自動起動設定していなかったのが原因でした。これでリフォーム現地に行かなくて良い。</description>
+      <pubDate>Mon, 20 Apr 2026 01:04:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nae2sho/status/2046032261662060666</guid>
+    </item>
+    <item>
       <title>windowsの wireguard クライアントのバージョンが1.0に上がってる</title>
       <link>https://x.com/numanonu/status/2045901445632086245</link>
       <description>ぬまのぬ: windowsの wireguard クライアントのバージョンが1.0に上がってる</description>
       <pubDate>Sun, 19 Apr 2026 16:24:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/numanonu/status/2045901445632086245</guid>
+    </item>
+    <item>
+      <title>WireGuard デフォルトで入っているのか。それはいいなぁ。</title>
+      <link>https://x.com/tendai22plus/status/2045874113508749429</link>
+      <description>Norihiro Kumagai (C107 水曜日 東テ-56b 『PIOつくし(Z80駆動編): WireGuard デフォルトで入っているのか。それはいいなぁ。</description>
+      <pubDate>Sun, 19 Apr 2026 14:36:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tendai22plus/status/2045874113508749429</guid>
     </item>
     <item>
       <title>カフェのWi-Fiから自宅サーバ向けの WireGuard がうまく繋がらなかったので、バックアップ用のOpenVPNを久しぶりに今設定していたのだけれど、ポート間違えたり、UDPとTCP間違えたり、IPアドレス間違えたり、設定ファイル書き換えるのを忘れていたり、もうおじいちゃんだな。とりあえず設定完了した。</title>
@@ -241,41 +276,6 @@
       <description>shumaikun0716: なんかXG-100NEでもプロトコル47はパケットフィルタで制御可能なんだけどNGNにパケット入る時に弾かれてる感じがする。多分無理だな。 Wireguard の方が良さそうだ。 https://t.co/HPqCnGLWDy</description>
       <pubDate>Sun, 12 Apr 2026 03:34:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shumaikun0716/status/2043170964750643517</guid>
-    </item>
-    <item>
-      <title>Metaquest3に WireGuard インストールできた。良きかな( ˘ω˘)</title>
-      <link>https://x.com/Tukunero/status/2043163914570269162</link>
-      <description>SDGsつくネロ: Metaquest3に WireGuard インストールできた。良きかな( ˘ω˘)</description>
-      <pubDate>Sun, 12 Apr 2026 03:06:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tukunero/status/2043163914570269162</guid>
-    </item>
-    <item>
-      <title>https://t.co/s1MgWLbMXA Microsoftが、 WireGuard やVeraCryptなどOSS開発者のアカウントを停止しました。 事前通知がなく、Windows向け更新や緊急パッチの配布ができなくなりました。 その後Microsoftは、確認手続き未完了による自動停止だと説明し、対応見直しを進めるとしています。</title>
-      <link>https://x.com/topickapp_com/status/2043056742607761870</link>
-      <description>topickapp (IT技術系ニュースサイト): https://t.co/s1MgWLbMXA Microsoftが、 WireGuard やVeraCryptなどOSS開発者のアカウントを停止しました。 事前通知がなく、Windows向け更新や緊急パッチの配布ができなくなりました。 その後Microsoftは、確認手続き未完了による自動停止だと説明し、対応見直しを進めるとしています。</description>
-      <pubDate>Sat, 11 Apr 2026 20:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/topickapp_com/status/2043056742607761870</guid>
-    </item>
-    <item>
-      <title>https://t.co/PMVFdlK1sq WireGuard for Windows v0.6 と WireGuardNT v0.11 が公開されました。 バグ修正・性能改善に加え、個別Allowed IP削除や低MTU対応が入っています。 更新は内蔵アップデータで案内されます。Microsoftの署名停止は解消済みです。</title>
-      <link>https://x.com/topickapp_com/status/2043036609780813882</link>
-      <description>topickapp (IT技術系ニュースサイト): https://t.co/PMVFdlK1sq WireGuard for Windows v0.6 と WireGuardNT v0.11 が公開されました。 バグ修正・性能改善に加え、個別Allowed IP削除や低MTU対応が入っています。 更新は内蔵アップデータで案内されます。Microsoftの署名停止は解消済みです。</description>
-      <pubDate>Sat, 11 Apr 2026 18:41:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/topickapp_com/status/2043036609780813882</guid>
-    </item>
-    <item>
-      <title>Paper WireTrust: A TrustZone-Based Non-bypassable VPN Tunnel [Nordsec25] https://t.co/YMUNXiG4JX Cortex-A TurstZoneを使って WireGuard を強化する。OSが侵害された場合でもトンネルを迂回しようとする試みをブロックする。 ソースコードがあるがNXP Nitrogen8Mボード用らしい。</title>
-      <link>https://x.com/KuniSuzaki/status/2042903630022611190</link>
-      <description>suzaki: Paper WireTrust: A TrustZone-Based Non-bypassable VPN Tunnel [Nordsec25] https://t.co/YMUNXiG4JX Cortex-A TurstZoneを使って WireGuard を強化する。OSが侵害された場合でもトンネルを迂回しようとする試みをブロックする。 ソースコードがあるがNXP Nitrogen8Mボード用らしい。</description>
-      <pubDate>Sat, 11 Apr 2026 09:52:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KuniSuzaki/status/2042903630022611190</guid>
-    </item>
-    <item>
-      <title>@kai0707 vpsに wireguard 入れるといいよって話をみて、結構快適です https://t.co/bGxIGXZx3Z</title>
-      <link>https://x.com/ponsllc/status/2042887586675593358</link>
-      <description>羽鳥達郎(合同会社Pons): @kai0707 vpsに wireguard 入れるといいよって話をみて、結構快適です https://t.co/bGxIGXZx3Z</description>
-      <pubDate>Sat, 11 Apr 2026 08:48:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ponsllc/status/2042887586675593358</guid>
     </item>
   </channel>
 </rss>

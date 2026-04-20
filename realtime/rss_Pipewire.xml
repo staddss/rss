@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pipewire 、めちゃくちゃ高機能で柔軟にどんなことでもできる。ただ設定が難しくて「できる」ことはわかるのだけど「どうすれば設定できるか」が分かり難い。AIに聞きながらやってるけど、もう少し簡単なガイドとか作れないかな。</title>
+      <link>https://x.com/dangomushi_assi/status/2045821566605549790</link>
+      <description>assi@天の川オーディオ研究室: Pipewire 、めちゃくちゃ高機能で柔軟にどんなことでもできる。ただ設定が難しくて「できる」ことはわかるのだけど「どうすれば設定できるか」が分かり難い。AIに聞きながらやってるけど、もう少し簡単なガイドとか作れないかな。</description>
+      <pubDate>Sun, 19 Apr 2026 11:07:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2045821566605549790</guid>
+    </item>
+    <item>
       <title>直した。平均発音遅延81msは遅いけど、Linux + Xrdp + Pipewire なんて環境のせいかもしれないので Windows/macOS 動作テストしてから深掘りする。この時点でCPU負荷15~20%なんで、P/EMU/SDL より高性能 https://t.co/r02Hfv2lyg</title>
       <link>https://x.com/autch/status/2045459141435723888</link>
       <description>あうっち: 直した。平均発音遅延81msは遅いけど、Linux + Xrdp + Pipewire なんて環境のせいかもしれないので Windows/macOS 動作テストしてから深掘りする。この時点でCPU負荷15~20%なんで、P/EMU/SDL より高性能 https://t.co/r02Hfv2lyg</description>
@@ -171,13 +178,6 @@
       <description>kazushi nakamura: Raspberry Pi 500+ を使ってみる その５｜kzn @kazushinakamura https://t.co/X15JsQRkJZ #RaspberryPi PipeWire に注意！</description>
       <pubDate>Mon, 23 Mar 2026 23:06:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kazushinakamura/status/2036217937879810529</guid>
-    </item>
-    <item>
-      <title>X11を置き換えるWaylandの17年を振り返る批評記事。セキュリティやパフォーマンスの改善は未達成で、画面録画やコピペの制限など実用上の退行が残る。同時期に開始した PipeWire が約8年で普及した対比が示唆的 / Wayland set the Linux Desktop back by 10 years https://t.co/i3d7CngEXf</title>
-      <link>https://x.com/__su888/status/2035115918427074989</link>
-      <description>su8 / denchu: X11を置き換えるWaylandの17年を振り返る批評記事。セキュリティやパフォーマンスの改善は未達成で、画面録画やコピペの制限など実用上の退行が残る。同時期に開始した PipeWire が約8年で普及した対比が示唆的 / Wayland set the Linux Desktop back by 10 years https://t.co/i3d7CngEXf</description>
-      <pubDate>Fri, 20 Mar 2026 22:07:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__su888/status/2035115918427074989</guid>
     </item>
   </channel>
 </rss>

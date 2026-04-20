@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</title>
+      <link>https://x.com/zeriyoshi/status/2046211839013564694</link>
+      <description>Go Kudo / ぜり: Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</description>
+      <pubDate>Mon, 20 Apr 2026 12:58:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zeriyoshi/status/2046211839013564694</guid>
+    </item>
+    <item>
+      <title>Githubの Codespaces secretsみたいなあれで汎用的なクレデンシャルマネージャを提供して欲しい</title>
+      <link>https://x.com/oubakiou/status/2046085631873610092</link>
+      <description>oubakiou: Githubの Codespaces secretsみたいなあれで汎用的なクレデンシャルマネージャを提供して欲しい</description>
+      <pubDate>Mon, 20 Apr 2026 04:36:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oubakiou/status/2046085631873610092</guid>
+    </item>
+    <item>
+      <title>@hondarer GitHub Codespaces みたいなのをAzureに立ててブラウザから使ってもらう感じ。 環境構築は、ちょい無理すぎるので。マルチプラットフォームとか特に</title>
+      <link>https://x.com/nuits_jp/status/2045708428874784985</link>
+      <description>NAKAMURA Atsushi: @hondarer GitHub Codespaces みたいなのをAzureに立ててブラウザから使ってもらう感じ。 環境構築は、ちょい無理すぎるので。マルチプラットフォームとか特に</description>
+      <pubDate>Sun, 19 Apr 2026 03:37:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nuits_jp/status/2045708428874784985</guid>
+    </item>
+    <item>
       <title>#後で読む 用メモです→ GitHub Codespaces のスキャフォールディングツールを作ってみた https://t.co/5wBuHhJrs6</title>
       <link>https://x.com/TommiyTw/status/2045497009407181055</link>
       <description>トミー@メモ: #後で読む 用メモです→ GitHub Codespaces のスキャフォールディングツールを作ってみた https://t.co/5wBuHhJrs6</description>
@@ -255,27 +276,6 @@
       <description>うみれおん（Kaito Udagawa）: @Cryptinflux Codespaces でSSH鍵による署名をしたいのですがやり方が不明で一生困っています。ここさえなんとかなれば常用可能なので頑張って道を切り開いていた最中なのですが本日突然何かが割り込んできて悲しくなりながらチャットエージェントと戯れていました。いろんな利用方法があってかなり改善しましたね。</description>
       <pubDate>Tue, 31 Mar 2026 14:36:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/umireon/status/2038988862488457506</guid>
-    </item>
-    <item>
-      <title>@umireon Codespaces + Copilot CLIの組み合わせいいですよね。自分もSecrets管理がローカルより安心で移行しました</title>
-      <link>https://x.com/Cryptinflux/status/2038987875396841908</link>
-      <description>Coding is in a FLUX | AIコーディング: @umireon Codespaces + Copilot CLIの組み合わせいいですよね。自分もSecrets管理がローカルより安心で移行しました</description>
-      <pubDate>Tue, 31 Mar 2026 14:32:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Cryptinflux/status/2038987875396841908</guid>
-    </item>
-    <item>
-      <title>Vibe Codingを安全にやる方法 GitHub Codespaces のVSCodeのUI使う Copilot CLIやClaudeのやつも対応してますよ Secretsとかも現代的に管理できます やろうと思えばSSH Agent Forwardingもできます イメージも事前構築できます 特に足りない機能がないです</title>
-      <link>https://x.com/umireon/status/2038986430593319016</link>
-      <description>うみれおん（Kaito Udagawa）: Vibe Codingを安全にやる方法 GitHub Codespaces のVSCodeのUI使う Copilot CLIやClaudeのやつも対応してますよ Secretsとかも現代的に管理できます やろうと思えばSSH Agent Forwardingもできます イメージも事前構築できます 特に足りない機能がないです</description>
-      <pubDate>Tue, 31 Mar 2026 14:27:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/umireon/status/2038986430593319016</guid>
-    </item>
-    <item>
-      <title>github codespaces でボットが反応しないんだがどういうこと？</title>
-      <link>https://x.com/bgnori/status/2038902284852289746</link>
-      <description>Nori（情報ブロイラー）: github codespaces でボットが反応しないんだがどういうこと？</description>
-      <pubDate>Tue, 31 Mar 2026 08:52:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bgnori/status/2038902284852289746</guid>
     </item>
   </channel>
 </rss>

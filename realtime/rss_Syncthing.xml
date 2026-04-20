@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing サーバーはありません https://t.co/6UmbjGZDk4</title>
+      <link>https://x.com/blenderzionad/status/2046301912061050992</link>
+      <description>zionad blenderzion: Syncthing サーバーはありません https://t.co/6UmbjGZDk4</description>
+      <pubDate>Mon, 20 Apr 2026 18:56:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/blenderzionad/status/2046301912061050992</guid>
+    </item>
+    <item>
+      <title>syncthing が切れるから完璧に再設定して常時稼働するようにしてたのに、切れてた。 私もキレそう。</title>
+      <link>https://x.com/AIfukugyoulog/status/2046195773143159003</link>
+      <description>AI副業検証ログ: syncthing が切れるから完璧に再設定して常時稼働するようにしてたのに、切れてた。 私もキレそう。</description>
+      <pubDate>Mon, 20 Apr 2026 11:54:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AIfukugyoulog/status/2046195773143159003</guid>
+    </item>
+    <item>
+      <title>製品紹介：安全でプライベートなファイル同期のための Syncthing https://t.co/O9kJbweFIv</title>
+      <link>https://x.com/TYOBlackHatNews/status/2046085492752392666</link>
+      <description>TokyoBlackHatNews: 製品紹介：安全でプライベートなファイル同期のための Syncthing https://t.co/O9kJbweFIv</description>
+      <pubDate>Mon, 20 Apr 2026 04:36:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2046085492752392666</guid>
+    </item>
+    <item>
+      <title>@murasametech 開発ワークスペース：Ubuntu 24.04 ・Caddy ・Forgejo ・n8n ・ Syncthing ・Portainer ・Joplin AI：Windows WSL2 Ubuntu ・Ollama ・OpenWebUI ・searxng ・Portainer-agent NAS：QNAP ・WebDAVサーバー ・バックアップ中継 ネットワーク：YAMAHA RTX1300(簡易DNSあり) + WLX AP</title>
+      <link>https://x.com/NonbiNon/status/2045763628360728871</link>
+      <description>ノンビ@暗号資産: @murasametech 開発ワークスペース：Ubuntu 24.04 ・Caddy ・Forgejo ・n8n ・ Syncthing ・Portainer ・Joplin AI：Windows WSL2 Ubuntu ・Ollama ・OpenWebUI ・searxng ・Portainer-agent NAS：QNAP ・WebDAVサーバー ・バックアップ中継 ネットワーク：YAMAHA RTX1300(簡易DNSあり) + WLX AP</description>
+      <pubDate>Sun, 19 Apr 2026 07:17:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NonbiNon/status/2045763628360728871</guid>
+    </item>
+    <item>
       <title>MX Linuxを3台動かしているんだが、 Syncthing が便利すぎる。 https://t.co/53P0TNYBmN</title>
       <link>https://x.com/tomoynet/status/2045538208998670737</link>
       <description>TOMOY／トモイ: MX Linuxを3台動かしているんだが、 Syncthing が便利すぎる。 https://t.co/53P0TNYBmN</description>
@@ -199,34 +227,6 @@
       <description>BLACKSUN-YouTube(フォロー返し不要。フォロバやチャンネル登録目的のフォローお断り): ラズパイ2上で OpenMediaVault WireGuard に syncthing を追加したいのだが うまく行かんのよね…(^_^;) なんかこうなると 1から構築し直そうかなぁってなる… そもそも構築開始時点から bookwormからTrixieにしたいしなぁ</description>
       <pubDate>Tue, 24 Mar 2026 03:29:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/YoutubeBlacksun/status/2036284182465507801</guid>
-    </item>
-    <item>
-      <title>Syncthing 、NAT越えれないときのフォールバックでRelayサーバ経由でファイル転送してるっぽい けど、普通にZeroTier越しで同じLANに居ることにしておけば、カプセル化のオーバーヘッドあってもそっちのほうが速い(同一のLANに居る場合はQUICで喋ってるっぽい)</title>
-      <link>https://x.com/rlysleepynick/status/2035436637703028945</link>
-      <description>ﾆｯｸ: Syncthing 、NAT越えれないときのフォールバックでRelayサーバ経由でファイル転送してるっぽい けど、普通にZeroTier越しで同じLANに居ることにしておけば、カプセル化のオーバーヘッドあってもそっちのほうが速い(同一のLANに居る場合はQUICで喋ってるっぽい)</description>
-      <pubDate>Sat, 21 Mar 2026 19:21:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rlysleepynick/status/2035436637703028945</guid>
-    </item>
-    <item>
-      <title>母艦：Windows 開発環境：WSL2 スマホ（メイン・サブ）：Android タブレット：iPad OS と、構成があまりにも散らかってるから Syncthing を使ってたけれど、Androidでなんかしらの資料を見ることは稀だしiCloudに絞ろうかな</title>
-      <link>https://x.com/Yoyogi_Pinball/status/2035263500826943921</link>
-      <description>YoyogiPinball: 母艦：Windows 開発環境：WSL2 スマホ（メイン・サブ）：Android タブレット：iPad OS と、構成があまりにも散らかってるから Syncthing を使ってたけれど、Androidでなんかしらの資料を見ることは稀だしiCloudに絞ろうかな</description>
-      <pubDate>Sat, 21 Mar 2026 07:53:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yoyogi_Pinball/status/2035263500826943921</guid>
-    </item>
-    <item>
-      <title>iOS(iPad OS)の制約があるので同期したいときは Syncthing クライアントアプリを起動しないといけないの不便だな</title>
-      <link>https://x.com/Yoyogi_Pinball/status/2035263185549447586</link>
-      <description>YoyogiPinball: iOS(iPad OS)の制約があるので同期したいときは Syncthing クライアントアプリを起動しないといけないの不便だな</description>
-      <pubDate>Sat, 21 Mar 2026 07:52:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yoyogi_Pinball/status/2035263185549447586</guid>
-    </item>
-    <item>
-      <title>Obsidian、pdfへの注釈が出来たら課金したいな 現状 SyncThing でWSL→iPadで注釈入れる→WSLに戻すってのが手間なので</title>
-      <link>https://x.com/Yoyogi_Pinball/status/2035168500323651756</link>
-      <description>YoyogiPinball: Obsidian、pdfへの注釈が出来たら課金したいな 現状 SyncThing でWSL→iPadで注釈入れる→WSLに戻すってのが手間なので</description>
-      <pubDate>Sat, 21 Mar 2026 01:35:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yoyogi_Pinball/status/2035168500323651756</guid>
     </item>
   </channel>
 </rss>
