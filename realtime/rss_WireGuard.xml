@@ -5,6 +5,83 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これはVPNの理解というより wireguard の理解に近い</title>
+      <link>https://x.com/kaska0511/status/2046595172541386760</link>
+      <description>Kaska: これはVPNの理解というより wireguard の理解に近い</description>
+      <pubDate>Tue, 21 Apr 2026 14:21:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kaska0511/status/2046595172541386760</guid>
+    </item>
+    <item>
+      <title>まあ、来るべき時は自宅に wireguard おけばいいだけなんやけどな。 https://t.co/9SGGUzYlpE</title>
+      <link>https://x.com/takuya_1st/status/2046562427291267474</link>
+      <description>takuya@osaka(令和最新版): まあ、来るべき時は自宅に wireguard おけばいいだけなんやけどな。 https://t.co/9SGGUzYlpE</description>
+      <pubDate>Tue, 21 Apr 2026 12:11:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takuya_1st/status/2046562427291267474</guid>
+    </item>
+    <item>
+      <title>リモートアクセスは Tailscale に移行した。一応 WireGuard も設定はしたけれど。</title>
+      <link>https://x.com/tshira/status/2046551063726346369</link>
+      <description>tshira: リモートアクセスは Tailscale に移行した。一応 WireGuard も設定はしたけれど。</description>
+      <pubDate>Tue, 21 Apr 2026 11:26:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tshira/status/2046551063726346369</guid>
+    </item>
+    <item>
+      <title>オレオレ wireguard からtailscaleを主運用にしたいけど時間取れなくてGWが望み</title>
+      <link>https://x.com/nesosuke/status/2046527118356730182</link>
+      <description>ねそてち🍆@節制㌠: オレオレ wireguard からtailscaleを主運用にしたいけど時間取れなくてGWが望み</description>
+      <pubDate>Tue, 21 Apr 2026 09:51:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nesosuke/status/2046527118356730182</guid>
+    </item>
+    <item>
+      <title>Wireguard の疎通性が悪いネットワークに遭遇する事があって、あるパラメーターを触ろうと設定を見直してたところ、サーバー側のピアにもMTU設定があることに気づいた。目が点になった。 今まで端末側ピアのMTUだけ見てたけど、もしかして………戻りパケットがデカくて破棄されてた可能性、ある……？</title>
+      <link>https://x.com/intinfinitycom/status/2046516001404239999</link>
+      <description>いんと∞: Wireguard の疎通性が悪いネットワークに遭遇する事があって、あるパラメーターを触ろうと設定を見直してたところ、サーバー側のピアにもMTU設定があることに気づいた。目が点になった。 今まで端末側ピアのMTUだけ見てたけど、もしかして………戻りパケットがデカくて破棄されてた可能性、ある……？</description>
+      <pubDate>Tue, 21 Apr 2026 09:06:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/intinfinitycom/status/2046516001404239999</guid>
+    </item>
+    <item>
+      <title>WireGuard はシンプルさと監査性で優れる一方、検閲環境ではDPIで検出可能であり、OpenVPNは設定の多様性が検出回避に有利だが、どちらも単独では検閲対策に不十分というのが2026年現在の技術的位置づけ。 https://t.co/95gGJRcvnJ #Censorship #InternetFreedo</title>
+      <link>https://x.com/saveclipvpn/status/2046514349616103656</link>
+      <description>SAVE-CLIP.COM: WireGuard はシンプルさと監査性で優れる一方、検閲環境ではDPIで検出可能であり、OpenVPNは設定の多様性が検出回避に有利だが、どちらも単独では検閲対策に不十分というのが2026年現在の技術的位置づけ。 https://t.co/95gGJRcvnJ #Censorship #InternetFreedo</description>
+      <pubDate>Tue, 21 Apr 2026 09:00:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/saveclipvpn/status/2046514349616103656</guid>
+    </item>
+    <item>
+      <title>実態としては WireGuard は偉大という話なんだよなあれ まぁ WireGuard が無料なのはなぜというのはそう...... https://t.co/HYa7WDUADz</title>
+      <link>https://x.com/nimdanaoto/status/2046514028131012671</link>
+      <description>Nimda: 実態としては WireGuard は偉大という話なんだよなあれ まぁ WireGuard が無料なのはなぜというのはそう...... https://t.co/HYa7WDUADz</description>
+      <pubDate>Tue, 21 Apr 2026 08:59:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nimdanaoto/status/2046514028131012671</guid>
+    </item>
+    <item>
+      <title>記事を投稿しました！ 🔒 リモートワーク時代のVPN入門【第二回】 WireGuard ・AWS VPC連携・VPNを狙った攻撃と対策 on #Qiita https://t.co/4ExRX6xquD</title>
+      <link>https://x.com/tomoWebStudio/status/2046427619261091842</link>
+      <description>tomo Web Studio: 記事を投稿しました！ 🔒 リモートワーク時代のVPN入門【第二回】 WireGuard ・AWS VPC連携・VPNを狙った攻撃と対策 on #Qiita https://t.co/4ExRX6xquD</description>
+      <pubDate>Tue, 21 Apr 2026 03:15:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomoWebStudio/status/2046427619261091842</guid>
+    </item>
+    <item>
+      <title>LAN内で WireGuard 経由の速度を測ったら900Mbpsも出てた。LAN直結の計測結果が940Mbpsだからかなり速いね。</title>
+      <link>https://x.com/bit287/status/2046420000341467147</link>
+      <description>bit287: LAN内で WireGuard 経由の速度を測ったら900Mbpsも出てた。LAN直結の計測結果が940Mbpsだからかなり速いね。</description>
+      <pubDate>Tue, 21 Apr 2026 02:45:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bit287/status/2046420000341467147</guid>
+    </item>
+    <item>
+      <title>24時間稼働しているNASに WireGuard 環境を作ってみた。RTX1210のL2TPより速いんじゃない？と思って。 結果。会社の回線速度がボトルネックになっていてどっちもMAX値がでなくてわろた。</title>
+      <link>https://x.com/bit287/status/2046413265723707822</link>
+      <description>bit287: 24時間稼働しているNASに WireGuard 環境を作ってみた。RTX1210のL2TPより速いんじゃない？と思って。 結果。会社の回線速度がボトルネックになっていてどっちもMAX値がでなくてわろた。</description>
+      <pubDate>Tue, 21 Apr 2026 02:18:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bit287/status/2046413265723707822</guid>
+    </item>
+    <item>
+      <title>wireguard 、食わず嫌いだったんだが理由が記事数個読んでもピンとこねぇ、なんで周囲で会話していてそんなに簡単に言うんだ？と思っていたが分からなくてもと手順にそって設定して驚いた。これだけで繋がってるのか</title>
+      <link>https://x.com/Ckurai/status/2046242591491182943</link>
+      <description>倉井: wireguard 、食わず嫌いだったんだが理由が記事数個読んでもピンとこねぇ、なんで周囲で会話していてそんなに簡単に言うんだ？と思っていたが分からなくてもと手順にそって設定して驚いた。これだけで繋がってるのか</description>
+      <pubDate>Mon, 20 Apr 2026 15:00:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2046242591491182943</guid>
+    </item>
+    <item>
       <title>@kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</title>
       <link>https://x.com/Yamar50/status/2046242152532086922</link>
       <description>Yamar50 in Tokyo JP: @kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</description>
@@ -73,13 +150,6 @@
       <description>Wis (Glyzinie): NetBirdって今も変わってないのならカーネルモードの WireGuard 使うんだっけ？ https://t.co/HlKRNa4t3i</description>
       <pubDate>Sun, 19 Apr 2026 03:33:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/glyzinienet/status/2045707296152731830</guid>
-    </item>
-    <item>
-      <title>Wireguard 経由の通信がうまくいかなくて直してたらこんな時間になってウケる</title>
-      <link>https://x.com/__23rdsf/status/2045575936582828119</link>
-      <description>muno: Wireguard 経由の通信がうまくいかなくて直してたらこんな時間になってウケる</description>
-      <pubDate>Sat, 18 Apr 2026 18:51:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__23rdsf/status/2045575936582828119</guid>
     </item>
     <item>
       <title>自宅から実家 wireguard 鯖への接続の設定やるかー。 経路とMTUの計算メモ IPv6 header (Xpass) - 40 IPv4 header - 20 UDP header - 8 WireGuard header - 32 ということで合計100 [B]だね。 物理層のMTUが1500だからそこから引いて最終的なMTUは1400と分かる。</title>
@@ -206,76 +276,6 @@
       <description>TokyoBlackHatNews: ファイアウォールを超えて：TailVNCが WireGuard とVNCを融合して追跡不可能なアクセスを実現 https://t.co/yczUKqE1ty</description>
       <pubDate>Mon, 13 Apr 2026 09:12:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2043618375104950782</guid>
-    </item>
-    <item>
-      <title>あらら、 Wireguard まで不調そうなのでメンテナンスすっぺかな。</title>
-      <link>https://x.com/rs_pferd/status/2043593819988648129</link>
-      <description>rs＊К.Мася 🚲 / ゲーム系ではブタジルのもと 🎮: あらら、 Wireguard まで不調そうなのでメンテナンスすっぺかな。</description>
-      <pubDate>Mon, 13 Apr 2026 07:35:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rs_pferd/status/2043593819988648129</guid>
-    </item>
-    <item>
-      <title>@odpLn8yGmyH56c OpenVPNは思った以上に遅かったので WireGuard の方が速いのかな？と思ったところでまだチャレンジできておりません。（OpenWrt化したルーター上で設定しているので前準備に手間がかかってます）</title>
-      <link>https://x.com/sakuacid/status/2043587582735556869</link>
-      <description>さく: @odpLn8yGmyH56c OpenVPNは思った以上に遅かったので WireGuard の方が速いのかな？と思ったところでまだチャレンジできておりません。（OpenWrt化したルーター上で設定しているので前準備に手間がかかってます）</description>
-      <pubDate>Mon, 13 Apr 2026 07:10:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2043587582735556869</guid>
-    </item>
-    <item>
-      <title>@sakuacid ほぼすべての場合において上位互換であると思われる WireGuard が良いかなと思ってます #PTCGL https://t.co/lZSXTXvs0B</title>
-      <link>https://x.com/odpLn8yGmyH56c/status/2043585612578738223</link>
-      <description>ガチじゃない熊: @sakuacid ほぼすべての場合において上位互換であると思われる WireGuard が良いかなと思ってます #PTCGL https://t.co/lZSXTXvs0B</description>
-      <pubDate>Mon, 13 Apr 2026 07:02:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2043585612578738223</guid>
-    </item>
-    <item>
-      <title>@ureinohenjin ここ10年ずっとASUS、ただし世代が違うとMeshがうまく動作しないことがある為、Mesh同世代同機種推奨。以前はNEC使ってたけど、 Wireguard が使えないのがちょっと。高いけど。</title>
-      <link>https://x.com/minato_jetta/status/2043548666758361187</link>
-      <description>MI: @ureinohenjin ここ10年ずっとASUS、ただし世代が違うとMeshがうまく動作しないことがある為、Mesh同世代同機種推奨。以前はNEC使ってたけど、 Wireguard が使えないのがちょっと。高いけど。</description>
-      <pubDate>Mon, 13 Apr 2026 04:35:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minato_jetta/status/2043548666758361187</guid>
-    </item>
-    <item>
-      <title>TOKYO FREE WI-FIで Wireguard ベースのVPNが全く使えないんですけど誰か何か知らないですか? 同じベースのCloudflare Zero Trustも使えなくて困っている。</title>
-      <link>https://x.com/manato787/status/2043508060866625680</link>
-      <description>d****-kun_SP5b: TOKYO FREE WI-FIで Wireguard ベースのVPNが全く使えないんですけど誰か何か知らないですか? 同じベースのCloudflare Zero Trustも使えなくて困っている。</description>
-      <pubDate>Mon, 13 Apr 2026 01:54:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/manato787/status/2043508060866625680</guid>
-    </item>
-    <item>
-      <title>5年前と違って wireguard で軽量かつ簡単にトンネル作れるようになったのが大きいかもしれん</title>
-      <link>https://x.com/shiramines/status/2043384418090516776</link>
-      <description>しらみね: 5年前と違って wireguard で軽量かつ簡単にトンネル作れるようになったのが大きいかもしれん</description>
-      <pubDate>Sun, 12 Apr 2026 17:43:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shiramines/status/2043384418090516776</guid>
-    </item>
-    <item>
-      <title>Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/q156JrAVdL</title>
-      <link>https://x.com/HonorGryph/status/2043339374927249619</link>
-      <description>Faithful_Crusader_of_Spirit_and_Sacrifice🌌🔮✝️: Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/q156JrAVdL</description>
-      <pubDate>Sun, 12 Apr 2026 14:44:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/HonorGryph/status/2043339374927249619</guid>
-    </item>
-    <item>
-      <title>WireGuard とVeraCryptの開発者が、Microsoftにアカウントを突然ロックされました。理由の説明なし、連絡なし。 「VPNとか暗号化とか関係ない」と思った方、ちょっと待って。仕事でMicrosoft 365使ってるなら他人事じゃないです。 #Microsoft #セキュリティ #VPN 👉 https://t.co/erX1B9CFqz</title>
-      <link>https://x.com/oshiete_suitman/status/2043226029528138236</link>
-      <description>スーツマン: WireGuard とVeraCryptの開発者が、Microsoftにアカウントを突然ロックされました。理由の説明なし、連絡なし。 「VPNとか暗号化とか関係ない」と思った方、ちょっと待って。仕事でMicrosoft 365使ってるなら他人事じゃないです。 #Microsoft #セキュリティ #VPN 👉 https://t.co/erX1B9CFqz</description>
-      <pubDate>Sun, 12 Apr 2026 07:13:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oshiete_suitman/status/2043226029528138236</guid>
-    </item>
-    <item>
-      <title>なんか色々調べたけど使ってるのが光クロスであるというのが影響してそうだな…光ネクストに下げた上でPPPoE生やしたら変わるかもだがそこまでしてGRE使いたいわけじゃないから WireGuard にしとこうかな。 https://t.co/s2CjXRm8Yp</title>
-      <link>https://x.com/shumaikun0716/status/2043175288461504638</link>
-      <description>shumaikun0716: なんか色々調べたけど使ってるのが光クロスであるというのが影響してそうだな…光ネクストに下げた上でPPPoE生やしたら変わるかもだがそこまでしてGRE使いたいわけじゃないから WireGuard にしとこうかな。 https://t.co/s2CjXRm8Yp</description>
-      <pubDate>Sun, 12 Apr 2026 03:52:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2043175288461504638</guid>
-    </item>
-    <item>
-      <title>なんかXG-100NEでもプロトコル47はパケットフィルタで制御可能なんだけどNGNにパケット入る時に弾かれてる感じがする。多分無理だな。 Wireguard の方が良さそうだ。 https://t.co/HPqCnGLWDy</title>
-      <link>https://x.com/shumaikun0716/status/2043170964750643517</link>
-      <description>shumaikun0716: なんかXG-100NEでもプロトコル47はパケットフィルタで制御可能なんだけどNGNにパケット入る時に弾かれてる感じがする。多分無理だな。 Wireguard の方が良さそうだ。 https://t.co/HPqCnGLWDy</description>
-      <pubDate>Sun, 12 Apr 2026 03:34:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2043170964750643517</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeの垂直タブ機能がロールアウトと聞いて楽しみに待ってたんだけどなかなか来ない。調べたところ「 chrome :// flags /#vertical-tabs」から有効にできた！ 一時期試していたZen Browserと似た感じになりました。 https://t.co/SgyP2AqrPr</title>
+      <link>https://x.com/ashikagacast/status/2046035315387941253</link>
+      <description>アシカガコウジ／コージ次長: Chromeの垂直タブ機能がロールアウトと聞いて楽しみに待ってたんだけどなかなか来ない。調べたところ「 chrome :// flags /#vertical-tabs」から有効にできた！ 一時期試していたZen Browserと似た感じになりました。 https://t.co/SgyP2AqrPr</description>
+      <pubDate>Mon, 20 Apr 2026 01:16:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ashikagacast/status/2046035315387941253</guid>
+    </item>
+    <item>
       <title>youtube閲覧中にタブが固まる問題（窓のサイズを何度か変えると治る） 「 chrome :// flags 「brave://flags」から ◯Media Foundation Camera Usage Monitoring→無効 ◯Use D3D12 video encoder→有効 で発生しなくなった</title>
       <link>https://x.com/UsagiTencyo/status/2045702573265743981</link>
       <description>うさぎ店長: youtube閲覧中にタブが固まる問題（窓のサイズを何度か変えると治る） 「 chrome :// flags 「brave://flags」から ◯Media Foundation Camera Usage Monitoring→無効 ◯Use D3D12 video encoder→有効 で発生しなくなった</description>
@@ -269,13 +276,6 @@
       <description>Chris: 横タブの散らかりにうんざりしてるけど、DiaやEdgeをインストールしたくない？ Chromeだけで縦タブが使えるようになったぞ！ 🔥 アドレスバーに chrome :// flags /#vertical-tabs と入力 → 有効にして再起動 chrome://settings/appearance → 「タブの位置」を 横 から 横（サイド）に変更</description>
       <pubDate>Thu, 02 Apr 2026 08:06:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/chrisdoesuiux/status/2039615505066234115</guid>
-    </item>
-    <item>
-      <title>Chromeのタブを縦にする方法 ①アドレスバーに「 chrome :// flags /#vertical-tabs !」入力 ②「Vertical Tabs」を「Default」から「Enabled」に切替えてChrome再起動 ③Chromeを再起動したらアカウントアイコンの隣にある三点から「設定」→「デザイン」の「タブバーの位置」を「側面」に変更 https://t.co/kdFBE3o4Lc</title>
-      <link>https://x.com/ShinuUeno/status/2039572946117906705</link>
-      <description>Shin’u＠高校中国語教員: Chromeのタブを縦にする方法 ①アドレスバーに「 chrome :// flags /#vertical-tabs !」入力 ②「Vertical Tabs」を「Default」から「Enabled」に切替えてChrome再起動 ③Chromeを再起動したらアカウントアイコンの隣にある三点から「設定」→「デザイン」の「タブバーの位置」を「側面」に変更 https://t.co/kdFBE3o4Lc</description>
-      <pubDate>Thu, 02 Apr 2026 05:17:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ShinuUeno/status/2039572946117906705</guid>
     </item>
   </channel>
 </rss>

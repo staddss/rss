@@ -5,11 +5,53 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>まず仕組みがシンプル。 ・ファイルはデバイス同士で直接転送 ・中央サーバーは一切なし ・ Syncthing のサーバーにも保存されない つまり「クラウドを経由しない同期」データは常に自分の手元だけにある。</title>
+      <link>https://x.com/7_eito_7/status/2046588478025355495</link>
+      <description>えいと: まず仕組みがシンプル。 ・ファイルはデバイス同士で直接転送 ・中央サーバーは一切なし ・ Syncthing のサーバーにも保存されない つまり「クラウドを経由しない同期」データは常に自分の手元だけにある。</description>
+      <pubDate>Tue, 21 Apr 2026 13:54:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7_eito_7/status/2046588478025355495</guid>
+    </item>
+    <item>
+      <title>例えば、「MacとWindowsとスマホの3台でファイルを自動同期したい」とき、 ① Syncthing をそれぞれのデバイスにインストールしてデバイスIDを交換 ② 同期したいフォルダを選んで相手デバイスと共有設定 ③ 以後リアルタイムで暗号化通信、自動同期 の3ステップだけ。</title>
+      <link>https://x.com/so_ainsight/status/2046514387662578003</link>
+      <description>そう｜Claude Codeで始めるAI自動化: 例えば、「MacとWindowsとスマホの3台でファイルを自動同期したい」とき、 ① Syncthing をそれぞれのデバイスにインストールしてデバイスIDを交換 ② 同期したいフォルダを選んで相手デバイスと共有設定 ③ 以後リアルタイムで暗号化通信、自動同期 の3ステップだけ。</description>
+      <pubDate>Tue, 21 Apr 2026 09:00:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/so_ainsight/status/2046514387662578003</guid>
+    </item>
+    <item>
+      <title>これ何がすごいかというと、「クラウド経由」じゃなく「デバイス間の直接通信」でファイルを同期できること。 DropboxもGoogleドライブもiCloudも、全部「あなたのファイルを一旦自分たちのサーバーに預かる」仕組みなんですよね。 でも Syncthing は違う。</title>
+      <link>https://x.com/so_ainsight/status/2046514364170346973</link>
+      <description>そう｜Claude Codeで始めるAI自動化: これ何がすごいかというと、「クラウド経由」じゃなく「デバイス間の直接通信」でファイルを同期できること。 DropboxもGoogleドライブもiCloudも、全部「あなたのファイルを一旦自分たちのサーバーに預かる」仕組みなんですよね。 でも Syncthing は違う。</description>
+      <pubDate>Tue, 21 Apr 2026 09:00:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/so_ainsight/status/2046514364170346973</guid>
+    </item>
+    <item>
+      <title>ガチで驚いた。 毎月クラウドに払ってる費用、全部ゼロにできるかもしれない。 Syncthing っていうツール、GitHubで81,900スター超え。 クラウドを一切使わず、デバイス間で直接ファイルを同期できる。 ・GoogleドライブやDropboxの完全代替 ・データはどのサーバーにも届かない。P2P暗号化 https://t.co/eDpbAsEhOu</title>
+      <link>https://x.com/so_ainsight/status/2046514352006816217</link>
+      <description>そう｜Claude Codeで始めるAI自動化: ガチで驚いた。 毎月クラウドに払ってる費用、全部ゼロにできるかもしれない。 Syncthing っていうツール、GitHubで81,900スター超え。 クラウドを一切使わず、デバイス間で直接ファイルを同期できる。 ・GoogleドライブやDropboxの完全代替 ・データはどのサーバーにも届かない。P2P暗号化 https://t.co/eDpbAsEhOu</description>
+      <pubDate>Tue, 21 Apr 2026 09:00:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/so_ainsight/status/2046514352006816217</guid>
+    </item>
+    <item>
+      <title>Mac studioをメインに使ってたけど、オーバースペックすぎるからユニファイドメモリ512Gのうち16Gだけシステムに割り当てて、他全部AIの推論用に割り当てた専用サーバーにした。 アプリのプロジェクトは Syncthing 使ってローカル上でMacBookAirと同期してAirをメインで使う。</title>
+      <link>https://x.com/prog_nao/status/2046408297558012232</link>
+      <description>Nao: Mac studioをメインに使ってたけど、オーバースペックすぎるからユニファイドメモリ512Gのうち16Gだけシステムに割り当てて、他全部AIの推論用に割り当てた専用サーバーにした。 アプリのプロジェクトは Syncthing 使ってローカル上でMacBookAirと同期してAirをメインで使う。</description>
+      <pubDate>Tue, 21 Apr 2026 01:58:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/prog_nao/status/2046408297558012232</guid>
+    </item>
+    <item>
       <title>Syncthing サーバーはありません https://t.co/6UmbjGZDk4</title>
       <link>https://x.com/blenderzionad/status/2046301912061050992</link>
       <description>zionad blenderzion: Syncthing サーバーはありません https://t.co/6UmbjGZDk4</description>
       <pubDate>Mon, 20 Apr 2026 18:56:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/blenderzionad/status/2046301912061050992</guid>
+    </item>
+    <item>
+      <title>P2Pのファイル同期システム「 syncthing 」 https://t.co/Q1KU4HicqH</title>
+      <link>https://x.com/Xroid_Lab/status/2046235391053996191</link>
+      <description>とーます｜AIコーチの開発＆共有プラットフォーム: P2Pのファイル同期システム「 syncthing 」 https://t.co/Q1KU4HicqH</description>
+      <pubDate>Mon, 20 Apr 2026 14:31:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Xroid_Lab/status/2046235391053996191</guid>
     </item>
     <item>
       <title>syncthing が切れるから完璧に再設定して常時稼働するようにしてたのに、切れてた。 私もキレそう。</title>

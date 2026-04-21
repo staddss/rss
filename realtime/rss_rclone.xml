@@ -54,13 +54,6 @@
       <guid isPermaLink="true">https://x.com/dworkinmtg/status/2043633667747336335</guid>
     </item>
     <item>
-      <title>リザルト手帳で出力したcsvを Rclone 経由でgoogle driveにアップロードすれば結構自動化出来るんじゃないかな 手動はやりたくなさすぎるしgoogle driveに限らずこの手のオンラインストレージのデスクトップ版導入は入れたくないし</title>
-      <link>https://x.com/QWERTY_KY/status/2043296220857450684</link>
-      <description>QWERTY: リザルト手帳で出力したcsvを Rclone 経由でgoogle driveにアップロードすれば結構自動化出来るんじゃないかな 手動はやりたくなさすぎるしgoogle driveに限らずこの手のオンラインストレージのデスクトップ版導入は入れたくないし</description>
-      <pubDate>Sun, 12 Apr 2026 11:52:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/QWERTY_KY/status/2043296220857450684</guid>
-    </item>
-    <item>
       <title>深夜とはいえ、またしても通信事業者には謎のバイナリにしか見えない rclone cryptされたNANDバックアップをpCloudに2GB近く投げつけるという楽天モバイル的には絶対に相手したくないであろうクソ客ムーブをかましながら寝る</title>
       <link>https://x.com/hogehoge61/status/2043014435481292830</link>
       <description>ほげ: 深夜とはいえ、またしても通信事業者には謎のバイナリにしか見えない rclone cryptされたNANDバックアップをpCloudに2GB近く投げつけるという楽天モバイル的には絶対に相手したくないであろうクソ客ムーブをかましながら寝る</description>
@@ -283,6 +276,13 @@
       <description>ゴリラ - 花粉に負けそう: rclone を使って~/.claude/projectsを同期させているけど、エラーになっちゃうなぁ なんでだろ</description>
       <pubDate>Wed, 25 Mar 2026 14:40:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gorilla0513/status/2036815446285128113</guid>
+    </item>
+    <item>
+      <title>@munetomoando Boxは学外への公開はできないようですので公開するもの(+overleaf連携)はGithubで，そうでないものはBoxにしました。ファイル数が多くなかったので手作業でしましたが rclone を使えばクラウド間で移動できるようです。フリー公開以外で外部の人とやりとりが多い場合はdropboxのままの方が良さげです。</title>
+      <link>https://x.com/tmytjk/status/2036787377688232056</link>
+      <description>Tomoya Tajika: @munetomoando Boxは学外への公開はできないようですので公開するもの(+overleaf連携)はGithubで，そうでないものはBoxにしました。ファイル数が多くなかったので手作業でしましたが rclone を使えばクラウド間で移動できるようです。フリー公開以外で外部の人とやりとりが多い場合はdropboxのままの方が良さげです。</description>
+      <pubDate>Wed, 25 Mar 2026 12:48:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tmytjk/status/2036787377688232056</guid>
     </item>
   </channel>
 </rss>
