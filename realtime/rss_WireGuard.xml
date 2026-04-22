@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>IPIP over WireGuard てMTUが削られすぎてHTTPが通過できなかった件、iptablesでClampingの設定をしたら円滑にHTTPも通るようになった。やったー</title>
+      <link>https://x.com/ma2_kz/status/2046942720250478832</link>
+      <description>まつ: IPIP over WireGuard てMTUが削られすぎてHTTPが通過できなかった件、iptablesでClampingの設定をしたら円滑にHTTPも通るようになった。やったー</description>
+      <pubDate>Wed, 22 Apr 2026 13:22:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ma2_kz/status/2046942720250478832</guid>
+    </item>
+    <item>
       <title>4つのセグメントと5個のルーター、3つの WireGuard 、OpenVPN。 ドメインは4つ。グローバルIPは2つ。 Let's Encryptで暗号化……。 普通の家じゃないな。</title>
       <link>https://x.com/menma_j/status/2046861258419552272</link>
       <description>めんま: 4つのセグメントと5個のルーター、3つの WireGuard 、OpenVPN。 ドメインは4つ。グローバルIPは2つ。 Let's Encryptで暗号化……。 普通の家じゃないな。</description>
       <pubDate>Wed, 22 Apr 2026 07:58:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/menma_j/status/2046861258419552272</guid>
+    </item>
+    <item>
+      <title>河合塾WiFi豆知識 去年の9月からiOS26リリースのタイミン グでTwitterが見れるようになった。 UDPが制限されてるのでWARP等のVPNは機能しないがOpenVPNを使うか、 Wireguard にTCPをカプセル化すると通常の443ポートからの通信であれば通り抜けられる。</title>
+      <link>https://x.com/mikangadget/status/2046808572592636273</link>
+      <description>新潟県産みかん: 河合塾WiFi豆知識 去年の9月からiOS26リリースのタイミン グでTwitterが見れるようになった。 UDPが制限されてるのでWARP等のVPNは機能しないがOpenVPNを使うか、 Wireguard にTCPをカプセル化すると通常の443ポートからの通信であれば通り抜けられる。</description>
+      <pubDate>Wed, 22 Apr 2026 04:29:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mikangadget/status/2046808572592636273</guid>
     </item>
     <item>
       <title>@jlxc2001 私は海外のVPSを契約して、さらにそのVPSから Cloudflare WARPに繋ぎます。 大陸→ WireGuard →大陸VPS→GRE→域外VPS→Cloudflare WARP→X</title>
@@ -262,20 +276,6 @@
       <description>さく: ProtonVPNの WireGuard でカナダのサーバー（太平洋西海岸寄り？）を指定した方がオーバーヘッドもなく30Mbps以上出てよい。 OpenVPNだと5Mbpsくらいしか出ない。 https://t.co/wnVCdTcTB2</description>
       <pubDate>Tue, 14 Apr 2026 00:35:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakuacid/status/2043850720827543839</guid>
-    </item>
-    <item>
-      <title>@sss183245444776 VPS側 WireGuard ＋Shadowsocks併用してる感じ？グレート・ファイアウォールだよね？ それとも留学生に手伝ってもらう感じ?</title>
-      <link>https://x.com/setsu_gt/status/2043728233548616074</link>
-      <description>せつ✨: @sss183245444776 VPS側 WireGuard ＋Shadowsocks併用してる感じ？グレート・ファイアウォールだよね？ それとも留学生に手伝ってもらう感じ?</description>
-      <pubDate>Mon, 13 Apr 2026 16:29:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/setsu_gt/status/2043728233548616074</guid>
-    </item>
-    <item>
-      <title>#WiFiman速度テスト結果を確認してください！ wireguard でprotonvpnの無料カナダサーバー繋いでみたけど 割とええやん https://t.co/Ne3G9ZBmt6 https://t.co/QmAQHf6yzC</title>
-      <link>https://x.com/sakuacid/status/2043679045796377076</link>
-      <description>さく: #WiFiman速度テスト結果を確認してください！ wireguard でprotonvpnの無料カナダサーバー繋いでみたけど 割とええやん https://t.co/Ne3G9ZBmt6 https://t.co/QmAQHf6yzC</description>
-      <pubDate>Mon, 13 Apr 2026 13:13:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2043679045796377076</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>プログラミングサークルで初学者に最初に使ってもらうエディタとして GitHub の Codespaces を設定するの面白いんじゃないかと思っている……どうだろう？ GDGoC Chuo は、とりあえず今年は VSCodeを使うけど</title>
+      <link>https://x.com/ln67v/status/2046548736642543751</link>
+      <description>wash: プログラミングサークルで初学者に最初に使ってもらうエディタとして GitHub の Codespaces を設定するの面白いんじゃないかと思っている……どうだろう？ GDGoC Chuo は、とりあえず今年は VSCodeを使うけど</description>
+      <pubDate>Tue, 21 Apr 2026 11:16:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ln67v/status/2046548736642543751</guid>
+    </item>
+    <item>
       <title>Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</title>
       <link>https://x.com/zeriyoshi/status/2046211839013564694</link>
       <description>Go Kudo / ぜり: Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</description>
@@ -269,13 +276,6 @@
       <description>intestine: GitHub Enterprise Cloud with data residency 環境で Codespaces を VS Code から使うときに必要な設定 https://t.co/o7db5Buuox https://t.co/kEW7Yz1lex</description>
       <pubDate>Thu, 02 Apr 2026 01:58:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/v_intestine/status/2039522942305095961</guid>
-    </item>
-    <item>
-      <title>Githubの Codespaces 内でもPlayerightを導入してローカルホスト内のwebアプリのスクショが撮れた🥳 Claude codeに聞いても「出来ないっ‼️」って言われたんだけど… これでわざわざスクショを撮って渡さなくても良くなった👍 手順は写真を参考に📷 # codespaces #claudecode #playwright https://t.co/MEc0EBAnvV</title>
-      <link>https://x.com/silWv9RvSoiZ5KJ/status/2039312069414334860</link>
-      <description>あぱさん 大家: Githubの Codespaces 内でもPlayerightを導入してローカルホスト内のwebアプリのスクショが撮れた🥳 Claude codeに聞いても「出来ないっ‼️」って言われたんだけど… これでわざわざスクショを撮って渡さなくても良くなった👍 手順は写真を参考に📷 # codespaces #claudecode #playwright https://t.co/MEc0EBAnvV</description>
-      <pubDate>Wed, 01 Apr 2026 12:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/silWv9RvSoiZ5KJ/status/2039312069414334860</guid>
     </item>
   </channel>
 </rss>

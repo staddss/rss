@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@jesseaddison そうでしたか！長い間ArcやZenを使っているので知りませんでした。 Chrome // flags で有効化する必要がありますね。 ありがとうございます！</title>
+      <link>https://x.com/kitsukitwitmond/status/2046863319047491924</link>
+      <description>キツキ🌙: @jesseaddison そうでしたか！長い間ArcやZenを使っているので知りませんでした。 Chrome // flags で有効化する必要がありますね。 ありがとうございます！</description>
+      <pubDate>Wed, 22 Apr 2026 08:06:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kitsukitwitmond/status/2046863319047491924</guid>
+    </item>
+    <item>
       <title>結論は XMODIFIERS= (a)im=fcitxだけセット KDEシステム設定で仮想キーボード→fcitx5を選択 GTK_IM_MODULE QT_IM_MODULE SDL_IM_MODULE はセットするな（重要） だった。 chrome :// flags でwaylandにょろにょろ～みたいなのは129らへんで消えたらしいのでほっといてok。 手元の環境ではこれで動いた</title>
       <link>https://x.com/MaKoTo54669805/status/2046576222529036769</link>
       <description>MaKoTo: 結論は XMODIFIERS= (a)im=fcitxだけセット KDEシステム設定で仮想キーボード→fcitx5を選択 GTK_IM_MODULE QT_IM_MODULE SDL_IM_MODULE はセットするな（重要） だった。 chrome :// flags でwaylandにょろにょろ～みたいなのは129らへんで消えたらしいのでほっといてok。 手元の環境ではこれで動いた</description>
@@ -269,13 +276,6 @@
       <description>七色ナミダ: ブラウザ、動画クルクル重い時にすると改善するかも。 アドレスバーに chrome :// flags と入力してエンター。 検索窓に ANGLE と入力。 [Choose ANGLE graphics backend] の項目を「Default」から [D3D11] または [OpenGL] に変更。 右下の [Relaunch] で再起動。 これで治ったわｗ</description>
       <pubDate>Fri, 03 Apr 2026 23:49:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nanairo__namida/status/2040215096434250009</guid>
-    </item>
-    <item>
-      <title>Chromeのアドレスバーに「 chrome :// flags 」と入力して開く 上部の検索バーで「dark」と検索 「Auto Dark Mode for Web Contents」というオプションのドロップダウンをタップし、「Enabled（有効）」に切り替える 「Relaunch（再起動）」ボタンをタップしてChromeを再起動する</title>
-      <link>https://x.com/mf3558/status/2040210170387792308</link>
-      <description>Sim: Chromeのアドレスバーに「 chrome :// flags 」と入力して開く 上部の検索バーで「dark」と検索 「Auto Dark Mode for Web Contents」というオプションのドロップダウンをタップし、「Enabled（有効）」に切り替える 「Relaunch（再起動）」ボタンをタップしてChromeを再起動する</description>
-      <pubDate>Fri, 03 Apr 2026 23:29:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mf3558/status/2040210170387792308</guid>
     </item>
   </channel>
 </rss>

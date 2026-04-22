@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>My manjaroくん、SSDなのでここまでSwapを設定してませんでしたが、メモリを超えると固まる…を3回ほど経験したら「やっぱSwap要るな」となりました。んでこれ [HowTo] zram -generator を使用して zram をインストールおよび設定します https://t.co/wJIr9VT9jN ※元は英語なので翻訳して読んで</title>
+      <link>https://x.com/4P5jcMwrCpc3Sbx/status/2047042027662229889</link>
+      <description>実況のために生まれた人、趣味の話題でPodcastを始める: My manjaroくん、SSDなのでここまでSwapを設定してませんでしたが、メモリを超えると固まる…を3回ほど経験したら「やっぱSwap要るな」となりました。んでこれ [HowTo] zram -generator を使用して zram をインストールおよび設定します https://t.co/wJIr9VT9jN ※元は英語なので翻訳して読んで</description>
+      <pubDate>Wed, 22 Apr 2026 19:57:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/4P5jcMwrCpc3Sbx/status/2047042027662229889</guid>
+    </item>
+    <item>
+      <title>3/24 に Chris Down 氏（Meta の Linux カーネル開発チームの方）が解説記事を出されていた： Debunking zswap and zram myths https://t.co/Pg1PK3w2Mu</title>
+      <link>https://x.com/na0x2c6/status/2046883213369593918</link>
+      <description>Nao: 3/24 に Chris Down 氏（Meta の Linux カーネル開発チームの方）が解説記事を出されていた： Debunking zswap and zram myths https://t.co/Pg1PK3w2Mu</description>
+      <pubDate>Wed, 22 Apr 2026 09:26:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/na0x2c6/status/2046883213369593918</guid>
+    </item>
+    <item>
       <title>kernel 7.0 のリリースに関連して知ったのだけれど、将来的に zram を廃止ないしは非推奨にして zswap によせる機運がある？ zswap も backing-store-less、つまり物理デバイスベースの swap を使わない形で利用できるように取り組みが進んでいるらしい</title>
       <link>https://x.com/na0x2c6/status/2046883212023255405</link>
       <description>Nao: kernel 7.0 のリリースに関連して知ったのだけれど、将来的に zram を廃止ないしは非推奨にして zswap によせる機運がある？ zswap も backing-store-less、つまり物理デバイスベースの swap を使わない形で利用できるように取り組みが進んでいるらしい</description>
