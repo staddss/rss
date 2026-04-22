@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>4つのセグメントと5個のルーター、3つの WireGuard 、OpenVPN。 ドメインは4つ。グローバルIPは2つ。 Let's Encryptで暗号化……。 普通の家じゃないな。</title>
+      <link>https://x.com/menma_j/status/2046861258419552272</link>
+      <description>めんま: 4つのセグメントと5個のルーター、3つの WireGuard 、OpenVPN。 ドメインは4つ。グローバルIPは2つ。 Let's Encryptで暗号化……。 普通の家じゃないな。</description>
+      <pubDate>Wed, 22 Apr 2026 07:58:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/menma_j/status/2046861258419552272</guid>
+    </item>
+    <item>
       <title>@jlxc2001 私は海外のVPSを契約して、さらにそのVPSから Cloudflare WARPに繋ぎます。 大陸→ WireGuard →大陸VPS→GRE→域外VPS→Cloudflare WARP→X</title>
       <link>https://x.com/NT_Busters/status/2046805484251066683</link>
       <description>フルネーム名札を廃止する会: @jlxc2001 私は海外のVPSを契約して、さらにそのVPSから Cloudflare WARPに繋ぎます。 大陸→ WireGuard →大陸VPS→GRE→域外VPS→Cloudflare WARP→X</description>
@@ -269,13 +276,6 @@
       <description>さく: #WiFiman速度テスト結果を確認してください！ wireguard でprotonvpnの無料カナダサーバー繋いでみたけど 割とええやん https://t.co/Ne3G9ZBmt6 https://t.co/QmAQHf6yzC</description>
       <pubDate>Mon, 13 Apr 2026 13:13:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakuacid/status/2043679045796377076</guid>
-    </item>
-    <item>
-      <title>機内モードにしてwifiを切っても先に進めないと思って、もしやと思い wireguard もOFFにしたら先に進めました</title>
-      <link>https://x.com/CypherLilium/status/2043664254877028566</link>
-      <description>リリア: 機内モードにしてwifiを切っても先に進めないと思って、もしやと思い wireguard もOFFにしたら先に進めました</description>
-      <pubDate>Mon, 13 Apr 2026 12:15:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CypherLilium/status/2043664254877028566</guid>
     </item>
   </channel>
 </rss>

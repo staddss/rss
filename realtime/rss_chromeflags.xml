@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>結論は XMODIFIERS= (a)im=fcitxだけセット KDEシステム設定で仮想キーボード→fcitx5を選択 GTK_IM_MODULE QT_IM_MODULE SDL_IM_MODULE はセットするな（重要） だった。 chrome :// flags でwaylandにょろにょろ～みたいなのは129らへんで消えたらしいのでほっといてok。 手元の環境ではこれで動いた</title>
+      <link>https://x.com/MaKoTo54669805/status/2046576222529036769</link>
+      <description>MaKoTo: 結論は XMODIFIERS= (a)im=fcitxだけセット KDEシステム設定で仮想キーボード→fcitx5を選択 GTK_IM_MODULE QT_IM_MODULE SDL_IM_MODULE はセットするな（重要） だった。 chrome :// flags でwaylandにょろにょろ～みたいなのは129らへんで消えたらしいのでほっといてok。 手元の環境ではこれで動いた</description>
+      <pubDate>Tue, 21 Apr 2026 13:06:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MaKoTo54669805/status/2046576222529036769</guid>
+    </item>
+    <item>
       <title>Chromeの垂直タブ機能がロールアウトと聞いて楽しみに待ってたんだけどなかなか来ない。調べたところ「 chrome :// flags /#vertical-tabs」から有効にできた！ 一時期試していたZen Browserと似た感じになりました。 https://t.co/SgyP2AqrPr</title>
       <link>https://x.com/ashikagacast/status/2046035315387941253</link>
       <description>アシカガコウジ／コージ次長: Chromeの垂直タブ機能がロールアウトと聞いて楽しみに待ってたんだけどなかなか来ない。調べたところ「 chrome :// flags /#vertical-tabs」から有効にできた！ 一時期試していたZen Browserと似た感じになりました。 https://t.co/SgyP2AqrPr</description>
@@ -269,13 +276,6 @@
       <description>Sim: Chromeのアドレスバーに「 chrome :// flags 」と入力して開く 上部の検索バーで「dark」と検索 「Auto Dark Mode for Web Contents」というオプションのドロップダウンをタップし、「Enabled（有効）」に切り替える 「Relaunch（再起動）」ボタンをタップしてChromeを再起動する</description>
       <pubDate>Fri, 03 Apr 2026 23:29:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mf3558/status/2040210170387792308</guid>
-    </item>
-    <item>
-      <title>横タブの散らかりにうんざりしてるけど、DiaやEdgeをインストールしたくない？ Chromeだけで縦タブが使えるようになったぞ！ 🔥 アドレスバーに chrome :// flags /#vertical-tabs と入力 → 有効にして再起動 chrome://settings/appearance → 「タブの位置」を 横 から 横（サイド）に変更</title>
-      <link>https://x.com/chrisdoesuiux/status/2039615505066234115</link>
-      <description>Chris: 横タブの散らかりにうんざりしてるけど、DiaやEdgeをインストールしたくない？ Chromeだけで縦タブが使えるようになったぞ！ 🔥 アドレスバーに chrome :// flags /#vertical-tabs と入力 → 有効にして再起動 chrome://settings/appearance → 「タブの位置」を 横 から 横（サイド）に変更</description>
-      <pubDate>Thu, 02 Apr 2026 08:06:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chrisdoesuiux/status/2039615505066234115</guid>
     </item>
   </channel>
 </rss>
