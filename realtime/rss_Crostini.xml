@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS 149 Canary、ChromeOS IME サポートが復活したか？ cros_im を使用すると、 Crostini 内で ChromeOS IME を使用できます。現在のサポートは GTK3、GTK4、および QT5 アプリケーションに限定されています。 #chromebook</title>
+      <link>https://x.com/Helen_Tech/status/2046411048799158464</link>
+      <description>おむらまさひで(HelenTech): ChromeOS 149 Canary、ChromeOS IME サポートが復活したか？ cros_im を使用すると、 Crostini 内で ChromeOS IME を使用できます。現在のサポートは GTK3、GTK4、および QT5 アプリケーションに限定されています。 #chromebook</description>
+      <pubDate>Tue, 21 Apr 2026 02:09:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2046411048799158464</guid>
+    </item>
+    <item>
       <title>@llama17 遅くなりました😓 目ざといですが何か？(￣ー￣)ﾆﾔﾘ crostini とbaguetteでも違ってて、それもアプリによって違うんですね…</title>
       <link>https://x.com/kamomeChaika4/status/2046166838598594608</link>
       <description>Yusuke: @llama17 遅くなりました😓 目ざといですが何か？(￣ー￣)ﾆﾔﾘ crostini とbaguetteでも違ってて、それもアプリによって違うんですね…</description>
@@ -164,13 +171,6 @@
       <description>【bot】てててｎ ™: @y_mikou こんにちは。フォロー外から失礼します。 chromeOS139あたりかな？原則chromeアプリが起動不可になってしまって、Text以外のエディタが使えなくなってしまったんですよね。 ・Webアプリのエディタ ・Androidアプリのエディタ ・ crostini 環境下のlinuxで動くエディタ 続く）</description>
       <pubDate>Mon, 23 Mar 2026 09:44:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/teteten/status/2036016164971921548</guid>
-    </item>
-    <item>
-      <title>ChromeOS 145 で SSH経由で転送されたポートで非常に高いレイテンシが発生（ Crostini の VS Code） この問題について、ベータ版（146.0.7680.60）にアップデートしたところ、問題は改善されたようです https://t.co/lsxdHMK54S #Chromebook</title>
-      <link>https://x.com/Helen_Tech/status/2035905103211966776</link>
-      <description>おむらまさひで(HelenTech): ChromeOS 145 で SSH経由で転送されたポートで非常に高いレイテンシが発生（ Crostini の VS Code） この問題について、ベータ版（146.0.7680.60）にアップデートしたところ、問題は改善されたようです https://t.co/lsxdHMK54S #Chromebook</description>
-      <pubDate>Mon, 23 Mar 2026 02:22:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2035905103211966776</guid>
     </item>
   </channel>
 </rss>

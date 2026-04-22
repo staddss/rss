@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ファイル同期ツール「 Syncthing 」の原理はAI P2Pということは容量に制限がないのか →実質的に容量制限はありません 同期なしのバックアップだけでも使えるか →真のバックアップが必要なら、 Syncthing + rsyncやBorg、Timeshiftなどと組み合わせるのが一般的 https://t.co/TvKSEI0Hq2</title>
+      <link>https://x.com/labyrinthos/status/2046825235463508322</link>
+      <description>空想ラビュリントス: ファイル同期ツール「 Syncthing 」の原理はAI P2Pということは容量に制限がないのか →実質的に容量制限はありません 同期なしのバックアップだけでも使えるか →真のバックアップが必要なら、 Syncthing + rsyncやBorg、Timeshiftなどと組み合わせるのが一般的 https://t.co/TvKSEI0Hq2</description>
+      <pubDate>Wed, 22 Apr 2026 05:35:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/labyrinthos/status/2046825235463508322</guid>
+    </item>
+    <item>
+      <title>データの置き場所、シンプルになりそう。 Syncthing 、P2Pで同期するから月額もかからないし、何より自分の手元だけで完結するのが安心感ある。 いいの見つけたな。早速いじってみよう。 https://t.co/hgcE1U5Rr0</title>
+      <link>https://x.com/pfc27254872693/status/2046735436887019763</link>
+      <description>ふひと: データの置き場所、シンプルになりそう。 Syncthing 、P2Pで同期するから月額もかからないし、何より自分の手元だけで完結するのが安心感ある。 いいの見つけたな。早速いじってみよう。 https://t.co/hgcE1U5Rr0</description>
+      <pubDate>Tue, 21 Apr 2026 23:38:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pfc27254872693/status/2046735436887019763</guid>
+    </item>
+    <item>
+      <title>検討したことある人は知ってると思うけど、課金するレベルのデータ量をクラウドに置いてる人は Syncthing だとスマホの容量が厳しいので無理なはず https://t.co/2wQSJaVL8u</title>
+      <link>https://x.com/diego_0x/status/2046735083516870749</link>
+      <description>DIΞGO (e/acc): 検討したことある人は知ってると思うけど、課金するレベルのデータ量をクラウドに置いてる人は Syncthing だとスマホの容量が厳しいので無理なはず https://t.co/2wQSJaVL8u</description>
+      <pubDate>Tue, 21 Apr 2026 23:37:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/diego_0x/status/2046735083516870749</guid>
+    </item>
+    <item>
       <title>まず仕組みがシンプル。 ・ファイルはデバイス同士で直接転送 ・中央サーバーは一切なし ・ Syncthing のサーバーにも保存されない つまり「クラウドを経由しない同期」データは常に自分の手元だけにある。</title>
       <link>https://x.com/7_eito_7/status/2046588478025355495</link>
       <description>えいと: まず仕組みがシンプル。 ・ファイルはデバイス同士で直接転送 ・中央サーバーは一切なし ・ Syncthing のサーバーにも保存されない つまり「クラウドを経由しない同期」データは常に自分の手元だけにある。</description>
@@ -255,20 +276,6 @@
       <description>むらさん(Murasan): PCとスマホのファイル、クラウド経由で同期していませんか？☁️ Syncthing なら、クラウドを一切経由せずにデバイス間でファイルが自動同期されます。 仕組みはシンプル： PC ←→ Raspberry Pi ←→ スマホ すべてのデータが自分のデバイス間だけで完結。第三者のサーバーを通りません。 💡 https://t.co/MPepASe7lK</description>
       <pubDate>Thu, 26 Mar 2026 03:00:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/murasametech/status/2037001603782500433</guid>
-    </item>
-    <item>
-      <title>使いこなせては全くないんだけどobsidian+ syncthing はマジで助かるし今後色んな場面でもっと助けてくれるはずだからこれからも維持し続けていきたひ</title>
-      <link>https://x.com/haya_umbobo/status/2036434658741903467</link>
-      <description>うんぼぼ: 使いこなせては全くないんだけどobsidian+ syncthing はマジで助かるし今後色んな場面でもっと助けてくれるはずだからこれからも維持し続けていきたひ</description>
-      <pubDate>Tue, 24 Mar 2026 13:27:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haya_umbobo/status/2036434658741903467</guid>
-    </item>
-    <item>
-      <title>ラズパイ2上で OpenMediaVault WireGuard に syncthing を追加したいのだが うまく行かんのよね…(^_^;) なんかこうなると 1から構築し直そうかなぁってなる… そもそも構築開始時点から bookwormからTrixieにしたいしなぁ</title>
-      <link>https://x.com/YoutubeBlacksun/status/2036284182465507801</link>
-      <description>BLACKSUN-YouTube(フォロー返し不要。フォロバやチャンネル登録目的のフォローお断り): ラズパイ2上で OpenMediaVault WireGuard に syncthing を追加したいのだが うまく行かんのよね…(^_^;) なんかこうなると 1から構築し直そうかなぁってなる… そもそも構築開始時点から bookwormからTrixieにしたいしなぁ</description>
-      <pubDate>Tue, 24 Mar 2026 03:29:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YoutubeBlacksun/status/2036284182465507801</guid>
     </item>
   </channel>
 </rss>
