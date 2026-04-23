@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ThanksuTrump @ganwen_nl 果然是ai做的， wireguard 是各种隧道最容易封的</title>
+      <link>https://x.com/XinleiWang220/status/2047329262433345984</link>
+      <description>Mathe: @ThanksuTrump @ganwen_nl 果然是ai做的， wireguard 是各种隧道最容易封的</description>
+      <pubDate>Thu, 23 Apr 2026 14:58:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/XinleiWang220/status/2047329262433345984</guid>
+    </item>
+    <item>
+      <title>悲報。Luciで Wireguard 設定できるやつ。ver.23以降ソースなくなってた。マジかぁ。</title>
+      <link>https://x.com/moguno/status/2047297310976303286</link>
+      <description>もぐの: 悲報。Luciで Wireguard 設定できるやつ。ver.23以降ソースなくなってた。マジかぁ。</description>
+      <pubDate>Thu, 23 Apr 2026 12:51:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2047297310976303286</guid>
+    </item>
+    <item>
+      <title>結局 WireGuard が楽という結論になった</title>
+      <link>https://x.com/tukushityann/status/2047296959057428801</link>
+      <description>結友: 結局 WireGuard が楽という結論になった</description>
+      <pubDate>Thu, 23 Apr 2026 12:50:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tukushityann/status/2047296959057428801</guid>
+    </item>
+    <item>
+      <title>wireguard -windowsでipv6な内部ネットワークに通らなくなってる。ipv4は通るのにping6のほうは来てないようだ。なんだろ？</title>
+      <link>https://x.com/cause_less/status/2047293883059695789</link>
+      <description>ko-zu: wireguard -windowsでipv6な内部ネットワークに通らなくなってる。ipv4は通るのにping6のほうは来てないようだ。なんだろ？</description>
+      <pubDate>Thu, 23 Apr 2026 12:37:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cause_less/status/2047293883059695789</guid>
+    </item>
+    <item>
+      <title>TP-Link、5Gモバイルルーター「M8550」を国内で発売 Wi-Fi 6E/GbE/ WireGuard 対応で約6万円 https://t.co/OYd4sw8ev6</title>
+      <link>https://x.com/24wireless_tw/status/2047275769857216875</link>
+      <description>24Wireless: TP-Link、5Gモバイルルーター「M8550」を国内で発売 Wi-Fi 6E/GbE/ WireGuard 対応で約6万円 https://t.co/OYd4sw8ev6</description>
+      <pubDate>Thu, 23 Apr 2026 11:25:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/24wireless_tw/status/2047275769857216875</guid>
+    </item>
+    <item>
+      <title>OpenVPNでいうところのvpnuxみたいな WireGuard の互換クライアントが出てくれないかな ガワをラッピングしてくれるだけでいいから 共有鍵とか丸出しのUIはちょっと企業導入に勧めにくいんすよね</title>
+      <link>https://x.com/shibukawa_pc/status/2047266856432726460</link>
+      <description>渋川パソコンサポート: OpenVPNでいうところのvpnuxみたいな WireGuard の互換クライアントが出てくれないかな ガワをラッピングしてくれるだけでいいから 共有鍵とか丸出しのUIはちょっと企業導入に勧めにくいんすよね</description>
+      <pubDate>Thu, 23 Apr 2026 10:50:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2047266856432726460</guid>
+    </item>
+    <item>
       <title>WireGuard 、普通に速いなーという感じ SE-VPNだと15Mbpsで頭打ちだったし https://t.co/FNxt8dUz6l</title>
       <link>https://x.com/SomeDen_JOTX/status/2047221377116352651</link>
       <description>そむでん: WireGuard 、普通に速いなーという感じ SE-VPNだと15Mbpsで頭打ちだったし https://t.co/FNxt8dUz6l</description>
@@ -234,48 +276,6 @@
       <description>1円切手📭 (&amp;o63): WAN のインターフェースが 1つだけだとアクセスできるのに VPN 用のインターフェースを追加するとインターフェースが複数あり、WAN だから WebUI を止められてしまう。 WireGuard のサーバーを WebUI で立てれるかな？と思ったが逆にめんどくさい。 Youtube 見てみるか https://t.co/vmMiv1oLO7 https://t.co/KDq9csGIyS</description>
       <pubDate>Wed, 15 Apr 2026 17:24:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/jp_yen/status/2044466782866706860</guid>
-    </item>
-    <item>
-      <title>@darekasan_net 法人向けミニPCかNUCが買ったらProxmoxインストールしてVM・コンテナ鯖として使えると思います。 僕はWindows XP VMと WireGuard VPNコンテナがあって、外出してもフリーセルが遊べますｗ</title>
-      <link>https://x.com/xlfdll/status/2044465712929116535</link>
-      <description>かおる💾💽: @darekasan_net 法人向けミニPCかNUCが買ったらProxmoxインストールしてVM・コンテナ鯖として使えると思います。 僕はWindows XP VMと WireGuard VPNコンテナがあって、外出してもフリーセルが遊べますｗ</description>
-      <pubDate>Wed, 15 Apr 2026 17:19:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/xlfdll/status/2044465712929116535</guid>
-    </item>
-    <item>
-      <title>@jarekceborski @CFchangelog @eastdakota WireGuard を選ぶこともできます</title>
-      <link>https://x.com/NT_Busters/status/2044285347866259576</link>
-      <description>フルネーム名札を廃止する会: @jarekceborski @CFchangelog @eastdakota WireGuard を選ぶこともできます</description>
-      <pubDate>Wed, 15 Apr 2026 05:23:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NT_Busters/status/2044285347866259576</guid>
-    </item>
-    <item>
-      <title>@shake_kirehashi 私はproton派です！ ・ノーログ ・アカウント必要(メアドのみ) ・程々に遅い時がある(運) ・普通のアプリ版だとサーバーが選べない ( wireguard の設定ファイルを場所を選んで書き出せるので、書き出して、 wireguard のアプリにインポートすればできる)</title>
-      <link>https://x.com/L_port8000/status/2044262645004632342</link>
-      <description>一樹（いつき）: @shake_kirehashi 私はproton派です！ ・ノーログ ・アカウント必要(メアドのみ) ・程々に遅い時がある(運) ・普通のアプリ版だとサーバーが選べない ( wireguard の設定ファイルを場所を選んで書き出せるので、書き出して、 wireguard のアプリにインポートすればできる)</description>
-      <pubDate>Wed, 15 Apr 2026 03:52:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2044262645004632342</guid>
-    </item>
-    <item>
-      <title>wireguard ではなくwarp/Tunnelみたいなもん？</title>
-      <link>https://x.com/mt03kkk18wu/status/2044095162549448940</link>
-      <description>もか: wireguard ではなくwarp/Tunnelみたいなもん？</description>
-      <pubDate>Tue, 14 Apr 2026 16:47:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mt03kkk18wu/status/2044095162549448940</guid>
-    </item>
-    <item>
-      <title>・Tailscaleハブ ・ WireGuard サーバ ・DDNSクライアント ・wol送信元 結局普通にIPv4でもDDNS使えてるっぽいんやけど、、、まぁいっか 拠点間VPNでもないのでMT5000に変えたところでVPNスループットもそこまで変わらんやろと言い聞かせる</title>
-      <link>https://x.com/vino_Tamon/status/2044002729832632389</link>
-      <description>vino: ・Tailscaleハブ ・ WireGuard サーバ ・DDNSクライアント ・wol送信元 結局普通にIPv4でもDDNS使えてるっぽいんやけど、、、まぁいっか 拠点間VPNでもないのでMT5000に変えたところでVPNスループットもそこまで変わらんやろと言い聞かせる</description>
-      <pubDate>Tue, 14 Apr 2026 10:40:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/vino_Tamon/status/2044002729832632389</guid>
-    </item>
-    <item>
-      <title>(´･ω･` )胃が痛むので気分転換。テスト環境に借りてたVPSに WireGuard 入れて職場LANとカスケード接続する環境を作ったりして遊ぶ。でも、コロナ禍過ぎてからリモートワークの対象って減ったよなぁ...。</title>
-      <link>https://x.com/mizukuragexxx/status/2043882773686169636</link>
-      <description>ミズクラゲ🐾🪼🫏: (´･ω･` )胃が痛むので気分転換。テスト環境に借りてたVPSに WireGuard 入れて職場LANとカスケード接続する環境を作ったりして遊ぶ。でも、コロナ禍過ぎてからリモートワークの対象って減ったよなぁ...。</description>
-      <pubDate>Tue, 14 Apr 2026 02:43:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mizukuragexxx/status/2043882773686169636</guid>
     </item>
   </channel>
 </rss>

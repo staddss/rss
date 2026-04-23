@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>因みにUbuntuは、 zram -configっていうもっと簡単な仕組みがあります 簡単すぎて笑います(各々調べて) manjaro同様 zram -generatorを設定することも可能ですが、その場合 zram -configは使わないで下さい 衝突します(ダメ、絶対)</title>
+      <link>https://x.com/4P5jcMwrCpc3Sbx/status/2047042031562944872</link>
+      <description>実況のために生まれた人、趣味の話題でPodcastを始める: 因みにUbuntuは、 zram -configっていうもっと簡単な仕組みがあります 簡単すぎて笑います(各々調べて) manjaro同様 zram -generatorを設定することも可能ですが、その場合 zram -configは使わないで下さい 衝突します(ダメ、絶対)</description>
+      <pubDate>Wed, 22 Apr 2026 19:57:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/4P5jcMwrCpc3Sbx/status/2047042031562944872</guid>
+    </item>
+    <item>
       <title>My manjaroくん、SSDなのでここまでSwapを設定してませんでしたが、メモリを超えると固まる…を3回ほど経験したら「やっぱSwap要るな」となりました。んでこれ [HowTo] zram -generator を使用して zram をインストールおよび設定します https://t.co/wJIr9VT9jN ※元は英語なので翻訳して読んで</title>
       <link>https://x.com/4P5jcMwrCpc3Sbx/status/2047042027662229889</link>
       <description>実況のために生まれた人、趣味の話題でPodcastを始める: My manjaroくん、SSDなのでここまでSwapを設定してませんでしたが、メモリを超えると固まる…を3回ほど経験したら「やっぱSwap要るな」となりました。んでこれ [HowTo] zram -generator を使用して zram をインストールおよび設定します https://t.co/wJIr9VT9jN ※元は英語なので翻訳して読んで</description>
@@ -178,13 +185,6 @@
       <description>ときの: zero系ラズパイは zram 必須かもな ram確保とmicroSD書き込み削減に 耐障害性を考えてupsや電断シグナルでアーカイブをプッシュするロジックは必要だけど</description>
       <pubDate>Tue, 24 Mar 2026 23:36:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/___Tokino/status/2036587897483366430</guid>
-    </item>
-    <item>
-      <title>Zswapと Zram に関する誤解を解く Debunking Zswap and Zram Myths https://t.co/FFE5z5la45 2026-03-25 05:00:13 +0900</title>
-      <link>https://x.com/hackernewsj/status/2036533563500404909</link>
-      <description>Hacker News 日本語翻訳: Zswapと Zram に関する誤解を解く Debunking Zswap and Zram Myths https://t.co/FFE5z5la45 2026-03-25 05:00:13 +0900</description>
-      <pubDate>Tue, 24 Mar 2026 20:00:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hackernewsj/status/2036533563500404909</guid>
     </item>
     <item>
       <title>1年前、DDR5の32GBキットは約1万3,000円で買えた。 今は10万円を超えている。 Linuxカーネルには、今あるメモリを圧縮して実質容量を増やす zram とzswapという仕組みがある。 その zram に、圧縮性能を50%以上改善するパッチが提案された。</title>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ちょっと前につぶやいたけど、Googleドライブの同期に失敗して約1年分の取り込んだ音楽データが消失した件、自分が以前同期していた別の音楽ディレクトリがあって、そこにもしかしたら残っているっぽく、 rclone なるものでダウンロードしてみてる これでサルベージできそう、できてくれ</title>
+      <link>https://x.com/yutaka_lv77/status/2047349228838780953</link>
+      <description>ユタカ🐎: ちょっと前につぶやいたけど、Googleドライブの同期に失敗して約1年分の取り込んだ音楽データが消失した件、自分が以前同期していた別の音楽ディレクトリがあって、そこにもしかしたら残っているっぽく、 rclone なるものでダウンロードしてみてる これでサルベージできそう、できてくれ</description>
+      <pubDate>Thu, 23 Apr 2026 16:17:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yutaka_lv77/status/2047349228838780953</guid>
+    </item>
+    <item>
+      <title>Rclone にCriticalな認証バイパス2件（CVE-2026-41176/41179）。未認証でバックエンド操作やコマンド実行が可能。OpenVPN auth-oauth2にも認証バイパス。Django関連は10件以上の修正が集中。本日のGHSA 588件↓ #セキュリティ #CVE #脆弱性 https://t.co/3lDsEZ1FpL</title>
+      <link>https://x.com/aisolostudio/status/2047104961725792502</link>
+      <description>AiSoloStudio: Rclone にCriticalな認証バイパス2件（CVE-2026-41176/41179）。未認証でバックエンド操作やコマンド実行が可能。OpenVPN auth-oauth2にも認証バイパス。Django関連は10件以上の修正が集中。本日のGHSA 588件↓ #セキュリティ #CVE #脆弱性 https://t.co/3lDsEZ1FpL</description>
+      <pubDate>Thu, 23 Apr 2026 00:07:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aisolostudio/status/2047104961725792502</guid>
+    </item>
+    <item>
       <title>悩んだ結果 rclone を使うことにした。cloude to cloudeでセキュアで安全にできるツールは継続して探っていく</title>
       <link>https://x.com/mcite_macchi/status/2045849367068995931</link>
       <description>mcite_macchi: 悩んだ結果 rclone を使うことにした。cloude to cloudeでセキュアで安全にできるツールは継続して探っていく</description>
@@ -262,20 +276,6 @@
       <description>シアラ: runpodのメモ兼独り言 runpodで環境作るときは大容量のファイルアップロードが難しいから、 rclone コマンドでGoogleDrive経由でファイルを落としてくる方が早い。 注意点 ①Googleコンソールから、GoogleDriveのフルアクセスのAPIを発行する。</description>
       <pubDate>Fri, 27 Mar 2026 09:24:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Natadec11606572/status/2037460666349674523</guid>
-    </item>
-    <item>
-      <title>runpodのメモ兼独り言 runpodで環境作るときは大容量のファイルアップロードが難しいから、 rclone コマンドでGoogleDrive経由でファイルを落としてくる方が早い。 注意点 ①Googleコンソールから、GoogleDriveのフルアクセスのAPIを発行する。</title>
-      <link>https://x.com/Natadec11606572/status/2037460438171181297</link>
-      <description>シアラ: runpodのメモ兼独り言 runpodで環境作るときは大容量のファイルアップロードが難しいから、 rclone コマンドでGoogleDrive経由でファイルを落としてくる方が早い。 注意点 ①Googleコンソールから、GoogleDriveのフルアクセスのAPIを発行する。</description>
-      <pubDate>Fri, 27 Mar 2026 09:23:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Natadec11606572/status/2037460438171181297</guid>
-    </item>
-    <item>
-      <title>rclone を使って~/.claude/projectsを同期させているけど、エラーになっちゃうなぁ なんでだろ</title>
-      <link>https://x.com/gorilla0513/status/2036815446285128113</link>
-      <description>ゴリラ - 花粉に負けそう: rclone を使って~/.claude/projectsを同期させているけど、エラーになっちゃうなぁ なんでだろ</description>
-      <pubDate>Wed, 25 Mar 2026 14:40:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gorilla0513/status/2036815446285128113</guid>
     </item>
   </channel>
 </rss>
