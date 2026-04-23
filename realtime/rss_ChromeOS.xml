@@ -5,11 +5,46 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS のタッチ UI は ChromeOS 145 以降で廃止されました。</title>
+      <link>https://x.com/Helen_Tech/status/2047232034284978481</link>
+      <description>おむらまさひで(HelenTech): ChromeOS のタッチ UI は ChromeOS 145 以降で廃止されました。</description>
+      <pubDate>Thu, 23 Apr 2026 08:32:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047232034284978481</guid>
+    </item>
+    <item>
+      <title>ChromeOS 147ではLinux開発環境がデフォルトでBaguetteになってた</title>
+      <link>https://x.com/llama17/status/2047230092108324936</link>
+      <description>らま: ChromeOS 147ではLinux開発環境がデフォルトでBaguetteになってた</description>
+      <pubDate>Thu, 23 Apr 2026 08:24:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2047230092108324936</guid>
+    </item>
+    <item>
+      <title>認定NPO法人イーパーツ 第109回リユースPC寄贈プログラム https://t.co/Nkt2TpKQxt 日本国内で活動する非営利組織対象の寄贈プログラムです。今回はリユースPC( chromeOS )、モニター、インクジェット複合機などが寄贈品に挙がっています。詳細はWEBサイトにてご確認ください。 締切：2026年05月18日</title>
+      <link>https://x.com/tsu_npo/status/2047224727316652187</link>
+      <description>津市ＮＰＯサポートセンター: 認定NPO法人イーパーツ 第109回リユースPC寄贈プログラム https://t.co/Nkt2TpKQxt 日本国内で活動する非営利組織対象の寄贈プログラムです。今回はリユースPC( chromeOS )、モニター、インクジェット複合機などが寄贈品に挙がっています。詳細はWEBサイトにてご確認ください。 締切：2026年05月18日</description>
+      <pubDate>Thu, 23 Apr 2026 08:03:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsu_npo/status/2047224727316652187</guid>
+    </item>
+    <item>
+      <title>いまのところ報告はありませんが、作ってきました。 ChromeOS 147 安定版の不具合とバグ報告および修正状況まとめ https://t.co/NYzgE0p7BL #chromebook</title>
+      <link>https://x.com/Helen_Tech/status/2047223719702270322</link>
+      <description>おむらまさひで(HelenTech): いまのところ報告はありませんが、作ってきました。 ChromeOS 147 安定版の不具合とバグ報告および修正状況まとめ https://t.co/NYzgE0p7BL #chromebook</description>
+      <pubDate>Thu, 23 Apr 2026 07:59:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047223719702270322</guid>
+    </item>
+    <item>
       <title>ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome://flags/ で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</title>
       <link>https://x.com/Helen_Tech/status/2047152093467902341</link>
       <description>おむらまさひで(HelenTech): ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome://flags/ で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</description>
       <pubDate>Thu, 23 Apr 2026 03:14:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047152093467902341</guid>
+    </item>
+    <item>
+      <title>Google、Chromebook 向け ChromeOS 147 安定版をリリース https://t.co/LtulgwLIOH #chromebook</title>
+      <link>https://x.com/Helen_Tech/status/2047150266814967954</link>
+      <description>おむらまさひで(HelenTech): Google、Chromebook 向け ChromeOS 147 安定版をリリース https://t.co/LtulgwLIOH #chromebook</description>
+      <pubDate>Thu, 23 Apr 2026 03:07:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047150266814967954</guid>
     </item>
     <item>
       <title>ChromeOS 147 になったら、Chrome ブラウザの分割画面表示のポップアップが表示されたw https://t.co/EsaakeVRp6</title>
@@ -241,41 +276,6 @@
       <description>Raisu: 重要告知 推奨環境がv2.1.0以降変更されます (今後の機能拡張に向けて) OS: macOS / Windows(10/11) / ChromeOS ブラウザ(各OSごとに): Safari / Edge / Chrome メモリ(同様, GB): 8 / 16 / 4 ストレージ(同様, GB): 256 / 256 / 64 チップ(同様): M1 / Intel core / Intel celeron*1 https://t.co/0ovGdqihkV</description>
       <pubDate>Mon, 20 Apr 2026 14:06:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Raisu314/status/2046229005045821831</guid>
-    </item>
-    <item>
-      <title>メールやドキュメントの確認、Slackなど業務ツールでのコミュニケーション程度の軽作業なら ChromeOS Flexに換装した旧いノートPCで充分。きょう使っているのはなんと10年以上昔のCore i7ノート。めっちゃキビキビ動作する。音声編集やドキュメント編集は、リモートデスクトップで母艦を遠隔操作。</title>
-      <link>https://x.com/Tak197011/status/2046210203264409689</link>
-      <description>Nui Armstrong@音声クリエイティブ: メールやドキュメントの確認、Slackなど業務ツールでのコミュニケーション程度の軽作業なら ChromeOS Flexに換装した旧いノートPCで充分。きょう使っているのはなんと10年以上昔のCore i7ノート。めっちゃキビキビ動作する。音声編集やドキュメント編集は、リモートデスクトップで母艦を遠隔操作。</description>
-      <pubDate>Mon, 20 Apr 2026 12:51:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tak197011/status/2046210203264409689</guid>
-    </item>
-    <item>
-      <title>4ヶ月ぐらいHeadWolf titan1使ってきたけど、アプリ起動したらすぐ落ちたり、今回の ChromeOS アプデかけたら夜間モードに勝手になってユーティリティタブが見えなくなったり（夜間モードオンオフ繰り返したらなんか治った）結構挙動がおかしい。 本を読むぐらいなのでまあ飲み込めるが…</title>
-      <link>https://x.com/ricremain/status/2046198226622218712</link>
-      <description>リクレマイン: 4ヶ月ぐらいHeadWolf titan1使ってきたけど、アプリ起動したらすぐ落ちたり、今回の ChromeOS アプデかけたら夜間モードに勝手になってユーティリティタブが見えなくなったり（夜間モードオンオフ繰り返したらなんか治った）結構挙動がおかしい。 本を読むぐらいなのでまあ飲み込めるが…</description>
-      <pubDate>Mon, 20 Apr 2026 12:04:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ricremain/status/2046198226622218712</guid>
-    </item>
-    <item>
-      <title>@tan0238 ChromeOS に拡張機能としてプロキシ強制してくるi-Filter@Cloud Agentとかいうやつはあんま効かなかった記憶 DNSハイジャックぐらいしか回避(疑似的だけど)する術がなかった気がする(あくまでも私の環境の話ですが)</title>
-      <link>https://x.com/si1ca/status/2046156748441203034</link>
-      <description>SiO₂: @tan0238 ChromeOS に拡張機能としてプロキシ強制してくるi-Filter@Cloud Agentとかいうやつはあんま効かなかった記憶 DNSハイジャックぐらいしか回避(疑似的だけど)する術がなかった気がする(あくまでも私の環境の話ですが)</description>
-      <pubDate>Mon, 20 Apr 2026 09:19:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/si1ca/status/2046156748441203034</guid>
-    </item>
-    <item>
-      <title>昨夜ついに意を決してWindows10が乗っている古いラップトップに ChromeOS Flexをインストールしたら、滅茶苦茶動作が速くなってしかも使い勝手もとても良い。Linux良いじゃん💕こんなことならもっと早くスイッチすれば良かったよ😇今度はZorinOS試してみようと思う。#ditchwindows # chromeOS #Linux</title>
-      <link>https://x.com/joenonaka/status/2046116220324417604</link>
-      <description>Jotaro A-key NONAKA: 昨夜ついに意を決してWindows10が乗っている古いラップトップに ChromeOS Flexをインストールしたら、滅茶苦茶動作が速くなってしかも使い勝手もとても良い。Linux良いじゃん💕こんなことならもっと早くスイッチすれば良かったよ😇今度はZorinOS試してみようと思う。#ditchwindows # chromeOS #Linux</description>
-      <pubDate>Mon, 20 Apr 2026 06:38:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joenonaka/status/2046116220324417604</guid>
-    </item>
-    <item>
-      <title>2012年製 acer Aspire5349 ChromeOS flexにして問題なく使えてる。 当時は windows7で販売価格3万円台だったのね・・・。</title>
-      <link>https://x.com/tabibito0307/status/2046105451058888748</link>
-      <description>流離の旅人: 2012年製 acer Aspire5349 ChromeOS flexにして問題なく使えてる。 当時は windows7で販売価格3万円台だったのね・・・。</description>
-      <pubDate>Mon, 20 Apr 2026 05:55:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tabibito0307/status/2046105451058888748</guid>
     </item>
   </channel>
 </rss>
