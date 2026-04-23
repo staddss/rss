@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なんで怒ってるんだろう 最近は pipewire でそこまで難しくないと思うのだが #マシュマロを投げ合おう https://t.co/efjOzNaWbS</title>
+      <link>https://x.com/ncaq/status/2046779793551819068</link>
+      <description>エヌユル: なんで怒ってるんだろう 最近は pipewire でそこまで難しくないと思うのだが #マシュマロを投げ合おう https://t.co/efjOzNaWbS</description>
+      <pubDate>Wed, 22 Apr 2026 02:35:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ncaq/status/2046779793551819068</guid>
+    </item>
+    <item>
       <title>Pipewire 、めちゃくちゃ高機能で柔軟にどんなことでもできる。ただ設定が難しくて「できる」ことはわかるのだけど「どうすれば設定できるか」が分かり難い。AIに聞きながらやってるけど、もう少し簡単なガイドとか作れないかな。</title>
       <link>https://x.com/dangomushi_assi/status/2045821566605549790</link>
       <description>assi@天の川オーディオ研究室: Pipewire 、めちゃくちゃ高機能で柔軟にどんなことでもできる。ただ設定が難しくて「できる」ことはわかるのだけど「どうすれば設定できるか」が分かり難い。AIに聞きながらやってるけど、もう少し簡単なガイドとか作れないかな。</description>
@@ -164,20 +171,6 @@
       <description>めてお: WindowsでやることなくなったからWineとDXVKとWaylandと PipeWire でLinuxでも動かせるようにした そろそろというか商用レベルになってきたのでLLM代金稼ぎに行く</description>
       <pubDate>Wed, 25 Mar 2026 10:14:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ranx2p/status/2036748629713748302</guid>
-    </item>
-    <item>
-      <title>xmmsのgtk4/gstreamer/ pipewire ポート。gtk2からの変換をOpusにやらせたらしい。 懐かしい。最近PCで音楽再生しないなぁ… https://t.co/7USXbkVMTq</title>
-      <link>https://x.com/sina_ht/status/2036234860348707102</link>
-      <description>しーな: xmmsのgtk4/gstreamer/ pipewire ポート。gtk2からの変換をOpusにやらせたらしい。 懐かしい。最近PCで音楽再生しないなぁ… https://t.co/7USXbkVMTq</description>
-      <pubDate>Tue, 24 Mar 2026 00:13:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sina_ht/status/2036234860348707102</guid>
-    </item>
-    <item>
-      <title>Raspberry Pi 500+ を使ってみる その５｜kzn @kazushinakamura https://t.co/X15JsQRkJZ #RaspberryPi PipeWire に注意！</title>
-      <link>https://x.com/kazushinakamura/status/2036217937879810529</link>
-      <description>kazushi nakamura: Raspberry Pi 500+ を使ってみる その５｜kzn @kazushinakamura https://t.co/X15JsQRkJZ #RaspberryPi PipeWire に注意！</description>
-      <pubDate>Mon, 23 Mar 2026 23:06:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazushinakamura/status/2036217937879810529</guid>
     </item>
   </channel>
 </rss>

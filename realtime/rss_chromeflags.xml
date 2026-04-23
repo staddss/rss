@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome :// flags / で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</title>
+      <link>https://x.com/Helen_Tech/status/2047152093467902341</link>
+      <description>おむらまさひで(HelenTech): ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome :// flags / で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</description>
+      <pubDate>Thu, 23 Apr 2026 03:14:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047152093467902341</guid>
+    </item>
+    <item>
+      <title>Chromeの垂直タブ( chrome :// flags /#vertical-tabs)を試してみた。 ウインドウ上側のドラッグ領域がなくなってウィンドウ移動が難しくなってしまい、断念。横タブに戻ってきた。</title>
+      <link>https://x.com/ginjih/status/2047137199125340401</link>
+      <description>ぎんじ🏂️: Chromeの垂直タブ( chrome :// flags /#vertical-tabs)を試してみた。 ウインドウ上側のドラッグ領域がなくなってウィンドウ移動が難しくなってしまい、断念。横タブに戻ってきた。</description>
+      <pubDate>Thu, 23 Apr 2026 02:15:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ginjih/status/2047137199125340401</guid>
+    </item>
+    <item>
       <title>@jesseaddison そうでしたか！長い間ArcやZenを使っているので知りませんでした。 Chrome // flags で有効化する必要がありますね。 ありがとうございます！</title>
       <link>https://x.com/kitsukitwitmond/status/2046863319047491924</link>
       <description>キツキ🌙: @jesseaddison そうでしたか！長い間ArcやZenを使っているので知りませんでした。 Chrome // flags で有効化する必要がありますね。 ありがとうございます！</description>
@@ -262,20 +276,6 @@
       <description>はるかのサブアカ: chrome :// flags 色々弄ってたらスマホのChromeが起動しなくなってちょっと焦った😅 設定から全てのデータを削除したら治った😙 ユーザデータはGoogleアカウント同期なので問題なし。</description>
       <pubDate>Sat, 04 Apr 2026 20:28:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/keiba_assistant/status/2040526861168689313</guid>
-    </item>
-    <item>
-      <title>ちなみに、使い方はこちら 1. URLに &quot; chrome :// flags /#vertical-tabs&quot; を入力して Enable する 2. Chrome を再起動する 3. タブの上段を右クリックして &quot;Move Tab To The Side&quot;</title>
-      <link>https://x.com/tanechan_fc/status/2040352219384705276</link>
-      <description>たねちゃん: ちなみに、使い方はこちら 1. URLに &quot; chrome :// flags /#vertical-tabs&quot; を入力して Enable する 2. Chrome を再起動する 3. タブの上段を右クリックして &quot;Move Tab To The Side&quot;</description>
-      <pubDate>Sat, 04 Apr 2026 08:54:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanechan_fc/status/2040352219384705276</guid>
-    </item>
-    <item>
-      <title>ブラウザ、動画クルクル重い時にすると改善するかも。 アドレスバーに chrome :// flags と入力してエンター。 検索窓に ANGLE と入力。 [Choose ANGLE graphics backend] の項目を「Default」から [D3D11] または [OpenGL] に変更。 右下の [Relaunch] で再起動。 これで治ったわｗ</title>
-      <link>https://x.com/nanairo__namida/status/2040215096434250009</link>
-      <description>七色ナミダ: ブラウザ、動画クルクル重い時にすると改善するかも。 アドレスバーに chrome :// flags と入力してエンター。 検索窓に ANGLE と入力。 [Choose ANGLE graphics backend] の項目を「Default」から [D3D11] または [OpenGL] に変更。 右下の [Relaunch] で再起動。 これで治ったわｗ</description>
-      <pubDate>Fri, 03 Apr 2026 23:49:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanairo__namida/status/2040215096434250009</guid>
     </item>
   </channel>
 </rss>
