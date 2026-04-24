@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>veracryptや wireguard などカーネルモードで動くプロダクトのアカウントが今月凍結騒ぎ起こってたが解消したらしい？が、もしかしてshadow stack対応を放置してたからとかじゃないよな……？</title>
+      <link>https://x.com/m_akihiro/status/2047490385271005242</link>
+      <description>まきひろ: veracryptや wireguard などカーネルモードで動くプロダクトのアカウントが今月凍結騒ぎ起こってたが解消したらしい？が、もしかしてshadow stack対応を放置してたからとかじゃないよな……？</description>
+      <pubDate>Fri, 24 Apr 2026 01:38:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_akihiro/status/2047490385271005242</guid>
+    </item>
+    <item>
+      <title>【Amazon】＜口コミ件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗂️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター 【PR】 https://t.co/3VzciwsTQC</title>
+      <link>https://x.com/8zonsma05/status/2047456483462308020</link>
+      <description>トラックボールやスキンシールの注目アイテム紹介: 【Amazon】＜口コミ件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗂️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター 【PR】 https://t.co/3VzciwsTQC</description>
+      <pubDate>Thu, 23 Apr 2026 23:24:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/8zonsma05/status/2047456483462308020</guid>
+    </item>
+    <item>
+      <title>VPNルータ全部消し飛ばして Wireguard になった（ Wireguard 喋れるトラベルOpenwrtルータは除く）。</title>
+      <link>https://x.com/shigure_alicey/status/2047370495046357400</link>
+      <description>アリシィ: VPNルータ全部消し飛ばして Wireguard になった（ Wireguard 喋れるトラベルOpenwrtルータは除く）。</description>
+      <pubDate>Thu, 23 Apr 2026 17:42:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigure_alicey/status/2047370495046357400</guid>
+    </item>
+    <item>
       <title>@ThanksuTrump @ganwen_nl 果然是ai做的， wireguard 是各种隧道最容易封的</title>
       <link>https://x.com/XinleiWang220/status/2047329262433345984</link>
       <description>Mathe: @ThanksuTrump @ganwen_nl 果然是ai做的， wireguard 是各种隧道最容易封的</description>
@@ -255,27 +276,6 @@
       <description>t3u👹UNIX devotee: 自宅から実家 wireguard 鯖への接続の設定やるかー。 経路とMTUの計算メモ IPv6 header (Xpass) - 40 IPv4 header - 20 UDP header - 8 WireGuard header - 32 ということで合計100 [B]だね。 物理層のMTUが1500だからそこから引いて最終的なMTUは1400と分かる。</description>
       <pubDate>Sat, 18 Apr 2026 12:06:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t3u_tsu/status/2045474144972902408</guid>
-    </item>
-    <item>
-      <title>早くお家帰って WireGuard のチューニングしたい</title>
-      <link>https://x.com/Tukunero/status/2044734797285831099</link>
-      <description>SDGsつくネロ: 早くお家帰って WireGuard のチューニングしたい</description>
-      <pubDate>Thu, 16 Apr 2026 11:08:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tukunero/status/2044734797285831099</guid>
-    </item>
-    <item>
-      <title>WireGuard が急につながらないなら、設定ミスだけとは限りません。Dockerとのアドレス競合で詰まった実例を振り返った記事です # WireGuard https://t.co/OVXhloALK5</title>
-      <link>https://x.com/NanosizeGroup/status/2044573930455749031</link>
-      <description>なのさいず: WireGuard が急につながらないなら、設定ミスだけとは限りません。Dockerとのアドレス競合で詰まった実例を振り返った記事です # WireGuard https://t.co/OVXhloALK5</description>
-      <pubDate>Thu, 16 Apr 2026 00:29:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NanosizeGroup/status/2044573930455749031</guid>
-    </item>
-    <item>
-      <title>WAN のインターフェースが 1つだけだとアクセスできるのに VPN 用のインターフェースを追加するとインターフェースが複数あり、WAN だから WebUI を止められてしまう。 WireGuard のサーバーを WebUI で立てれるかな？と思ったが逆にめんどくさい。 Youtube 見てみるか https://t.co/vmMiv1oLO7 https://t.co/KDq9csGIyS</title>
-      <link>https://x.com/jp_yen/status/2044466782866706860</link>
-      <description>1円切手📭 (&amp;o63): WAN のインターフェースが 1つだけだとアクセスできるのに VPN 用のインターフェースを追加するとインターフェースが複数あり、WAN だから WebUI を止められてしまう。 WireGuard のサーバーを WebUI で立てれるかな？と思ったが逆にめんどくさい。 Youtube 見てみるか https://t.co/vmMiv1oLO7 https://t.co/KDq9csGIyS</description>
-      <pubDate>Wed, 15 Apr 2026 17:24:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jp_yen/status/2044466782866706860</guid>
     </item>
   </channel>
 </rss>

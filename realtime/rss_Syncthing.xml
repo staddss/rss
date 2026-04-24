@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ryo14636405 やはり原点回帰。 keePassで自己管理だね。 玄人たちがなぜKeePassを使い続けるのか？その理由を垣間見た気がします。 ただクソめんどくせぇーってなるからbitwardenはマジ助かってたんよね。このめんどくせぇーを楽しめる人がホンモノだと思う。 Syncthing 使えば今は簡単に同期いけるか？</title>
+      <link>https://x.com/cE7sU3m3iwi2TfA/status/2047526258947633237</link>
+      <description>CHUCKYさんは死にました: @ryo14636405 やはり原点回帰。 keePassで自己管理だね。 玄人たちがなぜKeePassを使い続けるのか？その理由を垣間見た気がします。 ただクソめんどくせぇーってなるからbitwardenはマジ助かってたんよね。このめんどくせぇーを楽しめる人がホンモノだと思う。 Syncthing 使えば今は簡単に同期いけるか？</description>
+      <pubDate>Fri, 24 Apr 2026 04:01:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cE7sU3m3iwi2TfA/status/2047526258947633237</guid>
+    </item>
+    <item>
       <title>iCloudやめて Syncthing に乗り換えてもう数ヶ月経つけど、何も困ってない。ファイルの同期先も自分で決められるから、ObsidianのVaultをPCとスマホ間で共有するのがめちゃくちゃ楽になった。まだgoogleクラウドとかも使ってはいるけど、脱クラウドは意外とアリかも。 # Syncthing #脱クラウド #Obsidian</title>
       <link>https://x.com/syojiki_9/status/2047253148012867894</link>
       <description>ちゃつ: iCloudやめて Syncthing に乗り換えてもう数ヶ月経つけど、何も困ってない。ファイルの同期先も自分で決められるから、ObsidianのVaultをPCとスマホ間で共有するのがめちゃくちゃ楽になった。まだgoogleクラウドとかも使ってはいるけど、脱クラウドは意外とアリかも。 # Syncthing #脱クラウド #Obsidian</description>
@@ -38,6 +45,13 @@
       <description>えいと: まず仕組みがシンプル。 ・ファイルはデバイス同士で直接転送 ・中央サーバーは一切なし ・ Syncthing のサーバーにも保存されない つまり「クラウドを経由しない同期」データは常に自分の手元だけにある。</description>
       <pubDate>Tue, 21 Apr 2026 13:54:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/7_eito_7/status/2046588478025355495</guid>
+    </item>
+    <item>
+      <title>まだGoogle DriveやDropboxに課金してる人へ。 GitHub ⭐8.2万のオープンソース「 Syncthing 」が強すぎる。 ・デバイス間でファイルを自動同期 ・クラウド不要（サーバーなし） ・完全ピアツーピアで直接転送 つまり誰にもデータを預けずに同期できる。何がすごいのか解説します👇 https://t.co/GGY3C0UH6y</title>
+      <link>https://x.com/7_eito_7/status/2046588474833428743</link>
+      <description>えいと: まだGoogle DriveやDropboxに課金してる人へ。 GitHub ⭐8.2万のオープンソース「 Syncthing 」が強すぎる。 ・デバイス間でファイルを自動同期 ・クラウド不要（サーバーなし） ・完全ピアツーピアで直接転送 つまり誰にもデータを預けずに同期できる。何がすごいのか解説します👇 https://t.co/GGY3C0UH6y</description>
+      <pubDate>Tue, 21 Apr 2026 13:54:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7_eito_7/status/2046588474833428743</guid>
     </item>
     <item>
       <title>例えば、「MacとWindowsとスマホの3台でファイルを自動同期したい」とき、 ① Syncthing をそれぞれのデバイスにインストールしてデバイスIDを交換 ② 同期したいフォルダを選んで相手デバイスと共有設定 ③ 以後リアルタイムで暗号化通信、自動同期 の3ステップだけ。</title>
@@ -262,20 +276,6 @@
       <description>𝙋𝙤𝙧𝙩𝙤𝙣［ﾎﾟｫﾄﾝ］: Syncthing 、P2Pだから別にサーバー必須ではないのか。</description>
       <pubDate>Sat, 28 Mar 2026 08:31:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/todayporton/status/2037809859975102718</guid>
-    </item>
-    <item>
-      <title>開発環境の同期に Syncthing 導入するかなー。サーバーをメインのMac miniにするか、サーバー用のPC用意するか、どっちがいいだろうか。</title>
-      <link>https://x.com/todayporton/status/2037775084585394199</link>
-      <description>𝙋𝙤𝙧𝙩𝙤𝙣［ﾎﾟｫﾄﾝ］: 開発環境の同期に Syncthing 導入するかなー。サーバーをメインのMac miniにするか、サーバー用のPC用意するか、どっちがいいだろうか。</description>
-      <pubDate>Sat, 28 Mar 2026 06:13:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/todayporton/status/2037775084585394199</guid>
-    </item>
-    <item>
-      <title>mac←→Androidタブレット間のやりとりはやはり syncthing がよいです</title>
-      <link>https://x.com/usamimine/status/2037735929671246048</link>
-      <description>宇佐美みね: mac←→Androidタブレット間のやりとりはやはり syncthing がよいです</description>
-      <pubDate>Sat, 28 Mar 2026 03:37:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/usamimine/status/2037735929671246048</guid>
     </item>
   </channel>
 </rss>
