@@ -4,12 +4,5 @@
     <title>Yahoo!リアルタイム検索 - &quot;Chrome&quot; &quot;adb&quot;</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chrome%22%20%22adb%22</link>
     <description>Latest search results for '&quot;Chrome&quot; &quot;adb&quot;' on Yahoo! Realtime Search</description>
-    <item>
-      <title>Day 4 で純増10,005行達成！リファクタリングして3000行近く消した上でこれはだいぶ安定してきた ・ adb / chrome remote debugをループで回す ・Terraform IaCの実環境ドリフトを消す ・awsコマンドをssoで通しておく このあたりがやっぱり強い</title>
-      <link>https://x.com/x10kLOC/status/2036898963643916586</link>
-      <description>毎週１万行実装するウサギ: Day 4 で純増10,005行達成！リファクタリングして3000行近く消した上でこれはだいぶ安定してきた ・ adb / chrome remote debugをループで回す ・Terraform IaCの実環境ドリフトを消す ・awsコマンドをssoで通しておく このあたりがやっぱり強い</description>
-      <pubDate>Wed, 25 Mar 2026 20:12:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/x10kLOC/status/2036898963643916586</guid>
-    </item>
   </channel>
 </rss>

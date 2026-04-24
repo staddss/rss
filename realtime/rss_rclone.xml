@@ -5,11 +5,18 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</title>
-      <link>https://x.com/hata48915b/status/2047625291825385596</link>
-      <description>弁護士 秦 誠一郎（Seiichiro HATA）: Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</description>
-      <pubDate>Fri, 24 Apr 2026 10:34:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hata48915b/status/2047625291825385596</guid>
+      <title>@Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</title>
+      <link>https://x.com/yutaka_lv77/status/2047664931357720705</link>
+      <description>ユタカ🐎: @Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</description>
+      <pubDate>Fri, 24 Apr 2026 13:12:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yutaka_lv77/status/2047664931357720705</guid>
+    </item>
+    <item>
+      <title>Trigonaランサムウェアの最近の攻撃で、 Rclone やMegaSyncを避け、自前のコマンドライン型データ窃取ツールが使われていたと報告されています。ツール名は「uploader_client.exe」。2026年3月に観測された事例で、Symantecは運営主体を「Rhantus」と呼び、2022年末に登場したRaaS（Ransomware-as-a-Serv</title>
+      <link>https://x.com/MalwareBibleJP/status/2047622489279455425</link>
+      <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: Trigonaランサムウェアの最近の攻撃で、 Rclone やMegaSyncを避け、自前のコマンドライン型データ窃取ツールが使われていたと報告されています。ツール名は「uploader_client.exe」。2026年3月に観測された事例で、Symantecは運営主体を「Rhantus」と呼び、2022年末に登場したRaaS（Ransomware-as-a-Serv</description>
+      <pubDate>Fri, 24 Apr 2026 10:23:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2047622489279455425</guid>
     </item>
     <item>
       <title>@yutaka_lv77 rclone をサルベージに使うの初めて見ました… いつもクラウドにバックアップするのに使ってます</title>
@@ -269,13 +276,6 @@
       <description>AI Heartland｜AIツール速報: S3からGoogle Driveへのデータ移行が必要になって、 Rclone を試してみたら、コマンド1行で数GB単位のファイル転送が完了。その後も定期的な同期をcronで自動化できることに気づいた。</description>
       <pubDate>Sun, 29 Mar 2026 16:00:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/peaks2314/status/2038285097112392091</guid>
-    </item>
-    <item>
-      <title>うーん rclone serve webdab で接続先ストレージの容量以上のデータ投げて rclone 側でエラー吐いてるのに整合性チェックでOKになるな キャッシュ見てるのかな</title>
-      <link>https://x.com/_jun_ji__/status/2037939770555613517</link>
-      <description>じゅんじ: うーん rclone serve webdab で接続先ストレージの容量以上のデータ投げて rclone 側でエラー吐いてるのに整合性チェックでOKになるな キャッシュ見てるのかな</description>
-      <pubDate>Sat, 28 Mar 2026 17:07:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_jun_ji__/status/2037939770555613517</guid>
     </item>
   </channel>
 </rss>

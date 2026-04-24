@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>1.アドレスバーに chrome :// flags / と入力して開く 2.検索欄にAllow WebRTC to adjust the input volumeと入力 3.表示された項目をDisabledに変更 4.ブラウザを再起動 こんな感じ。音響勢は一回確認してみてもいいかも。 その代わり自動音量調節されなくなるからマイクのゲインはちゃんとチェック必要</title>
+      <link>https://x.com/Shaf_de_suman/status/2047399590517932542</link>
+      <description>Shaf: 1.アドレスバーに chrome :// flags / と入力して開く 2.検索欄にAllow WebRTC to adjust the input volumeと入力 3.表示された項目をDisabledに変更 4.ブラウザを再起動 こんな感じ。音響勢は一回確認してみてもいいかも。 その代わり自動音量調節されなくなるからマイクのゲインはちゃんとチェック必要</description>
+      <pubDate>Thu, 23 Apr 2026 19:37:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Shaf_de_suman/status/2047399590517932542</guid>
+    </item>
+    <item>
       <title>ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome :// flags / で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</title>
       <link>https://x.com/Helen_Tech/status/2047152093467902341</link>
       <description>おむらまさひで(HelenTech): ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome :// flags / で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</description>

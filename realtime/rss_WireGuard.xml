@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>[ Azure Update ] [公開] 一般提供: Azure Kubernetes Service (AKS) 向け WireGuard による転送中の暗号化 ------------ WireGuard によるAKSノード間の透過暗号化が一般提供開始 https://t.co/zljr6auL0W</title>
+      <link>https://x.com/jkudo/status/2047756167854666228</link>
+      <description>Jun Kudo: [ Azure Update ] [公開] 一般提供: Azure Kubernetes Service (AKS) 向け WireGuard による転送中の暗号化 ------------ WireGuard によるAKSノード間の透過暗号化が一般提供開始 https://t.co/zljr6auL0W</description>
+      <pubDate>Fri, 24 Apr 2026 19:14:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jkudo/status/2047756167854666228</guid>
+    </item>
+    <item>
+      <title>回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</title>
+      <link>https://x.com/shibukawa_pc/status/2047699964059619484</link>
+      <description>渋川パソコンサポート: 回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</description>
+      <pubDate>Fri, 24 Apr 2026 15:31:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2047699964059619484</guid>
+    </item>
+    <item>
       <title>veracryptや wireguard などカーネルモードで動くプロダクトのアカウントが今月凍結騒ぎ起こってたが解消したらしい？が、もしかしてshadow stack対応を放置してたからとかじゃないよな……？</title>
       <link>https://x.com/m_akihiro/status/2047490385271005242</link>
       <description>まきひろ: veracryptや wireguard などカーネルモードで動くプロダクトのアカウントが今月凍結騒ぎ起こってたが解消したらしい？が、もしかしてshadow stack対応を放置してたからとかじゃないよな……？</description>
       <pubDate>Fri, 24 Apr 2026 01:38:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/m_akihiro/status/2047490385271005242</guid>
+    </item>
+    <item>
+      <title>Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/RpOKZ0GcS3 @YouTubeより</title>
+      <link>https://x.com/decky_vrc/status/2047463694792282302</link>
+      <description>DECKY＠「VRChatの世界」(個人): Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/RpOKZ0GcS3 @YouTubeより</description>
+      <pubDate>Thu, 23 Apr 2026 23:52:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/decky_vrc/status/2047463694792282302</guid>
     </item>
     <item>
       <title>【Amazon】＜口コミ件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗂️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター 【PR】 https://t.co/3VzciwsTQC</title>
@@ -255,27 +276,6 @@
       <description>みむら: WireGuard for Windows が v1.0 になったそう。めでたい。 https://t.co/o6JALdQPdm</description>
       <pubDate>Sun, 19 Apr 2026 08:24:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mimura1133/status/2045780612536274960</guid>
-    </item>
-    <item>
-      <title>Unifi Gateway Ultraの WireGuard とSynology DS918+内のTailscaleとで切り替えながら使ってるけど、Tailscaleの方がレスポンスよくて速度いいな さすがにNASだからCPU性能とかも違うしな WireGuard はMTU詰めれば多少変わるけど超えられない壁ありそう</title>
-      <link>https://x.com/shibukawa_pc/status/2045718287745712612</link>
-      <description>渋川パソコンサポート: Unifi Gateway Ultraの WireGuard とSynology DS918+内のTailscaleとで切り替えながら使ってるけど、Tailscaleの方がレスポンスよくて速度いいな さすがにNASだからCPU性能とかも違うしな WireGuard はMTU詰めれば多少変わるけど超えられない壁ありそう</description>
-      <pubDate>Sun, 19 Apr 2026 04:17:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2045718287745712612</guid>
-    </item>
-    <item>
-      <title>NetBirdって今も変わってないのならカーネルモードの WireGuard 使うんだっけ？ https://t.co/HlKRNa4t3i</title>
-      <link>https://x.com/glyzinienet/status/2045707296152731830</link>
-      <description>Wis (Glyzinie): NetBirdって今も変わってないのならカーネルモードの WireGuard 使うんだっけ？ https://t.co/HlKRNa4t3i</description>
-      <pubDate>Sun, 19 Apr 2026 03:33:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/glyzinienet/status/2045707296152731830</guid>
-    </item>
-    <item>
-      <title>自宅から実家 wireguard 鯖への接続の設定やるかー。 経路とMTUの計算メモ IPv6 header (Xpass) - 40 IPv4 header - 20 UDP header - 8 WireGuard header - 32 ということで合計100 [B]だね。 物理層のMTUが1500だからそこから引いて最終的なMTUは1400と分かる。</title>
-      <link>https://x.com/t3u_tsu/status/2045474144972902408</link>
-      <description>t3u👹UNIX devotee: 自宅から実家 wireguard 鯖への接続の設定やるかー。 経路とMTUの計算メモ IPv6 header (Xpass) - 40 IPv4 header - 20 UDP header - 8 WireGuard header - 32 ということで合計100 [B]だね。 物理層のMTUが1500だからそこから引いて最終的なMTUは1400と分かる。</description>
-      <pubDate>Sat, 18 Apr 2026 12:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2045474144972902408</guid>
     </item>
   </channel>
 </rss>
