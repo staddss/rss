@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>おし。 /etc/ wireguard /wg0.confを書かず、systemctlも使わずに Wireguard 疎通に成功。 Oracle Linux【NetworkManager】 OpenWRT【luci-proto- wireguard 】 --- ちなみにUbuntuのnetplanでも上記の条件で wireguard 接続が可能。</title>
+      <link>https://x.com/moguno/status/2047832867192046027</link>
+      <description>もぐの: おし。 /etc/ wireguard /wg0.confを書かず、systemctlも使わずに Wireguard 疎通に成功。 Oracle Linux【NetworkManager】 OpenWRT【luci-proto- wireguard 】 --- ちなみにUbuntuのnetplanでも上記の条件で wireguard 接続が可能。</description>
+      <pubDate>Sat, 25 Apr 2026 00:19:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2047832867192046027</guid>
+    </item>
+    <item>
       <title>[ Azure Update ] [公開] 一般提供: Azure Kubernetes Service (AKS) 向け WireGuard による転送中の暗号化 ------------ WireGuard によるAKSノード間の透過暗号化が一般提供開始 https://t.co/zljr6auL0W</title>
       <link>https://x.com/jkudo/status/2047756167854666228</link>
       <description>Jun Kudo: [ Azure Update ] [公開] 一般提供: Azure Kubernetes Service (AKS) 向け WireGuard による転送中の暗号化 ------------ WireGuard によるAKSノード間の透過暗号化が一般提供開始 https://t.co/zljr6auL0W</description>
@@ -269,13 +276,6 @@
       <description>Norihiro Kumagai (C107 水曜日 東テ-56b 『PIOつくし(Z80駆動編): WireGuard デフォルトで入っているのか。それはいいなぁ。</description>
       <pubDate>Sun, 19 Apr 2026 14:36:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tendai22plus/status/2045874113508749429</guid>
-    </item>
-    <item>
-      <title>カフェのWi-Fiから自宅サーバ向けの WireGuard がうまく繋がらなかったので、バックアップ用のOpenVPNを久しぶりに今設定していたのだけれど、ポート間違えたり、UDPとTCP間違えたり、IPアドレス間違えたり、設定ファイル書き換えるのを忘れていたり、もうおじいちゃんだな。とりあえず設定完了した。</title>
-      <link>https://x.com/hal_biz/status/2045827784136884300</link>
-      <description>くろぬこ: カフェのWi-Fiから自宅サーバ向けの WireGuard がうまく繋がらなかったので、バックアップ用のOpenVPNを久しぶりに今設定していたのだけれど、ポート間違えたり、UDPとTCP間違えたり、IPアドレス間違えたり、設定ファイル書き換えるのを忘れていたり、もうおじいちゃんだな。とりあえず設定完了した。</description>
-      <pubDate>Sun, 19 Apr 2026 11:32:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hal_biz/status/2045827784136884300</guid>
     </item>
   </channel>
 </rss>
