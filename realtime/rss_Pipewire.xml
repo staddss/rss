@@ -193,19 +193,5 @@
       <pubDate>Sat, 28 Mar 2026 00:37:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2037690456981803151</guid>
     </item>
-    <item>
-      <title>pipewire 化できた・・・ pulseaudioなし、 pipewire ありの状態で、 /etc/pulse/client.confの default-server = unix:/tmp/pulse-server を default-server = unix:/run/user/1000/pulse/native に書き換えて再起動したらpactlもpavucontrolも動作するようになった。 https://t.co/Pp3v6gR564</title>
-      <link>https://x.com/touhouPCpp/status/2037153467442356644</link>
-      <description>東&amp;方39++: pipewire 化できた・・・ pulseaudioなし、 pipewire ありの状態で、 /etc/pulse/client.confの default-server = unix:/tmp/pulse-server を default-server = unix:/run/user/1000/pulse/native に書き換えて再起動したらpactlもpavucontrolも動作するようになった。 https://t.co/Pp3v6gR564</description>
-      <pubDate>Thu, 26 Mar 2026 13:03:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/touhouPCpp/status/2037153467442356644</guid>
-    </item>
-    <item>
-      <title>pulseaudioから pipewire に置き換わったらしいが pipewire -pulse入ってるのにpactlとかpavucontrolとかが動かない・・・</title>
-      <link>https://x.com/touhouPCpp/status/2037132177985691749</link>
-      <description>東&amp;方39++: pulseaudioから pipewire に置き換わったらしいが pipewire -pulse入ってるのにpactlとかpavucontrolとかが動かない・・・</description>
-      <pubDate>Thu, 26 Mar 2026 11:38:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/touhouPCpp/status/2037132177985691749</guid>
-    </item>
   </channel>
 </rss>

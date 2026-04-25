@@ -5,18 +5,18 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</title>
-      <link>https://x.com/aisolostudio/status/2047849006056046661</link>
-      <description>AiSoloStudio: 今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</description>
-      <pubDate>Sat, 25 Apr 2026 01:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aisolostudio/status/2047849006056046661</guid>
-    </item>
-    <item>
       <title>@Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</title>
       <link>https://x.com/yutaka_lv77/status/2047664931357720705</link>
       <description>ユタカ🐎: @Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</description>
       <pubDate>Fri, 24 Apr 2026 13:12:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yutaka_lv77/status/2047664931357720705</guid>
+    </item>
+    <item>
+      <title>Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</title>
+      <link>https://x.com/hata48915b/status/2047625291825385596</link>
+      <description>弁護士 秦 誠一郎（Seiichiro HATA）: Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</description>
+      <pubDate>Fri, 24 Apr 2026 10:34:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hata48915b/status/2047625291825385596</guid>
     </item>
     <item>
       <title>Trigonaランサムウェアの最近の攻撃で、 Rclone やMegaSyncを避け、自前のコマンドライン型データ窃取ツールが使われていたと報告されています。ツール名は「uploader_client.exe」。2026年3月に観測された事例で、Symantecは運営主体を「Rhantus」と呼び、2022年末に登場したRaaS（Ransomware-as-a-Serv</title>

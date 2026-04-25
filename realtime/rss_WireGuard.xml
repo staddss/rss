@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pixel 10aのデスクトップモードで wireguard からVPN内のwindows PCへのリモートデスクトップ成功。 数泊ぐらいに出張にノートPCを持って行かなくて良いようにしたい。</title>
+      <link>https://x.com/_takeuchi__/status/2048159453317615742</link>
+      <description>takeuchi: Pixel 10aのデスクトップモードで wireguard からVPN内のwindows PCへのリモートデスクトップ成功。 数泊ぐらいに出張にノートPCを持って行かなくて良いようにしたい。</description>
+      <pubDate>Sat, 25 Apr 2026 21:57:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2048159453317615742</guid>
+    </item>
+    <item>
+      <title>搬server大約用左十二個鐘 - setup個場 - rsync搬data同conf - dump and restore db - test under http - update A record - setup certbot and https conf - test under https - setup wireguard - test wireguard 中間有d waiting time做左少少resources tagging,準備之後起inventory 用</title>
+      <link>https://x.com/phil_kgy/status/2048127369941283191</link>
+      <description>Phil Lui: 搬server大約用左十二個鐘 - setup個場 - rsync搬data同conf - dump and restore db - test under http - update A record - setup certbot and https conf - test under https - setup wireguard - test wireguard 中間有d waiting time做左少少resources tagging,準備之後起inventory 用</description>
+      <pubDate>Sat, 25 Apr 2026 19:49:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/phil_kgy/status/2048127369941283191</guid>
+    </item>
+    <item>
+      <title>やっとVPNできたーーーーー でも Wireguard だから別サーバーでCAサーバー組もうと思って買ったミニPCが無駄になった・・・</title>
+      <link>https://x.com/aki_star02/status/2048080824378208311</link>
+      <description>aki: やっとVPNできたーーーーー でも Wireguard だから別サーバーでCAサーバー組もうと思って買ったミニPCが無駄になった・・・</description>
+      <pubDate>Sat, 25 Apr 2026 16:44:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aki_star02/status/2048080824378208311</guid>
+    </item>
+    <item>
+      <title>さくらVPSに wireguard サーバーの設置と、複数台のwindowsクライアントとの接続成功。結構苦戦。それでも wireguard は楽な方らしいけど。次の目標はGL-iNetの端末をクライアントとして繋いで、それに繋いだ機器が無設定で繋げられるか？かな。</title>
+      <link>https://x.com/_takeuchi__/status/2047979070416368032</link>
+      <description>takeuchi: さくらVPSに wireguard サーバーの設置と、複数台のwindowsクライアントとの接続成功。結構苦戦。それでも wireguard は楽な方らしいけど。次の目標はGL-iNetの端末をクライアントとして繋いで、それに繋いだ機器が無設定で繋げられるか？かな。</description>
+      <pubDate>Sat, 25 Apr 2026 10:00:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2047979070416368032</guid>
+    </item>
+    <item>
       <title>おし。 /etc/ wireguard /wg0.confを書かず、systemctlも使わずに Wireguard 疎通に成功。 Oracle Linux【NetworkManager】 OpenWRT【luci-proto- wireguard 】 --- ちなみにUbuntuのnetplanでも上記の条件で wireguard 接続が可能。</title>
       <link>https://x.com/moguno/status/2047832867192046027</link>
       <description>もぐの: おし。 /etc/ wireguard /wg0.confを書かず、systemctlも使わずに Wireguard 疎通に成功。 Oracle Linux【NetworkManager】 OpenWRT【luci-proto- wireguard 】 --- ちなみにUbuntuのnetplanでも上記の条件で wireguard 接続が可能。</description>
@@ -248,34 +276,6 @@
       <description>倉井: まぁせっかくだし、どうせ盆には墓参りとかで帰るだろうからそのときに現状のソフトイーサーから wireguard に置き換えるくらいの気持ちで諸々調べたり調達するかねぇ</description>
       <pubDate>Mon, 20 Apr 2026 04:53:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ckurai/status/2046089923879645269</guid>
-    </item>
-    <item>
-      <title>WireGuard 、親玉のサブネットマスク勝手に書き替わってて到達不能になってた</title>
-      <link>https://x.com/Kanji1113_/status/2046044576713150597</link>
-      <description>Kanji1113: WireGuard 、親玉のサブネットマスク勝手に書き替わってて到達不能になってた</description>
-      <pubDate>Mon, 20 Apr 2026 01:53:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kanji1113_/status/2046044576713150597</guid>
-    </item>
-    <item>
-      <title>２Ｆに設置のサーバは自宅サーバとＶＰＮ接続しているのですが、電源ＯＮ，ＯＦＦで接続が切れたままでした。 wireguard のサービスを自動起動設定していなかったのが原因でした。これでリフォーム現地に行かなくて良い。</title>
-      <link>https://x.com/nae2sho/status/2046032261662060666</link>
-      <description>苗場翔 / Picolix Design: ２Ｆに設置のサーバは自宅サーバとＶＰＮ接続しているのですが、電源ＯＮ，ＯＦＦで接続が切れたままでした。 wireguard のサービスを自動起動設定していなかったのが原因でした。これでリフォーム現地に行かなくて良い。</description>
-      <pubDate>Mon, 20 Apr 2026 01:04:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nae2sho/status/2046032261662060666</guid>
-    </item>
-    <item>
-      <title>windowsの wireguard クライアントのバージョンが1.0に上がってる</title>
-      <link>https://x.com/numanonu/status/2045901445632086245</link>
-      <description>ぬまのぬ: windowsの wireguard クライアントのバージョンが1.0に上がってる</description>
-      <pubDate>Sun, 19 Apr 2026 16:24:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/numanonu/status/2045901445632086245</guid>
-    </item>
-    <item>
-      <title>WireGuard デフォルトで入っているのか。それはいいなぁ。</title>
-      <link>https://x.com/tendai22plus/status/2045874113508749429</link>
-      <description>Norihiro Kumagai (C107 水曜日 東テ-56b 『PIOつくし(Z80駆動編): WireGuard デフォルトで入っているのか。それはいいなぁ。</description>
-      <pubDate>Sun, 19 Apr 2026 14:36:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tendai22plus/status/2045874113508749429</guid>
     </item>
   </channel>
 </rss>
