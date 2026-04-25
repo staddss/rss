@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</title>
+      <link>https://x.com/aisolostudio/status/2047849006056046661</link>
+      <description>AiSoloStudio: 今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</description>
+      <pubDate>Sat, 25 Apr 2026 01:23:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aisolostudio/status/2047849006056046661</guid>
+    </item>
+    <item>
       <title>@Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</title>
       <link>https://x.com/yutaka_lv77/status/2047664931357720705</link>
       <description>ユタカ🐎: @Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</description>
@@ -269,13 +276,6 @@
       <description>AI Heartland｜AIツール速報: ☁️ Rclone ：クラウドストレージ間のファイル同期・転送を一元管理するCLIツール ⭐ 56.3k Stars 50以上のクラウドストレージに対応し、S3・Google Drive・OneDriveなど異なるプラットフォーム間でファイルを効率的に同期・転送。複数のストレージ管理を統一インターフェースで実現する 📝</description>
       <pubDate>Sun, 29 Mar 2026 16:00:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/peaks2314/status/2038285109196144986</guid>
-    </item>
-    <item>
-      <title>S3からGoogle Driveへのデータ移行が必要になって、 Rclone を試してみたら、コマンド1行で数GB単位のファイル転送が完了。その後も定期的な同期をcronで自動化できることに気づいた。</title>
-      <link>https://x.com/peaks2314/status/2038285097112392091</link>
-      <description>AI Heartland｜AIツール速報: S3からGoogle Driveへのデータ移行が必要になって、 Rclone を試してみたら、コマンド1行で数GB単位のファイル転送が完了。その後も定期的な同期をcronで自動化できることに気づいた。</description>
-      <pubDate>Sun, 29 Mar 2026 16:00:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/peaks2314/status/2038285097112392091</guid>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/jkudo/status/2047756167854666228</guid>
     </item>
     <item>
+      <title>Tailscaleとは？ WireGuard ベースの次世代メッシュVPNの仕組み、セキュリティ、活用法を徹底解説｜エイじー @eiji04875825 https://t.co/a4X9TGWqKS</title>
+      <link>https://x.com/eiji04875825/status/2047747077535658242</link>
+      <description>エイじー: Tailscaleとは？ WireGuard ベースの次世代メッシュVPNの仕組み、セキュリティ、活用法を徹底解説｜エイじー @eiji04875825 https://t.co/a4X9TGWqKS</description>
+      <pubDate>Fri, 24 Apr 2026 18:38:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/eiji04875825/status/2047747077535658242</guid>
+    </item>
+    <item>
       <title>回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</title>
       <link>https://x.com/shibukawa_pc/status/2047699964059619484</link>
       <description>渋川パソコンサポート: 回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</description>
@@ -269,13 +276,6 @@
       <description>くろぬこ: カフェのWi-Fiから自宅サーバ向けの WireGuard がうまく繋がらなかったので、バックアップ用のOpenVPNを久しぶりに今設定していたのだけれど、ポート間違えたり、UDPとTCP間違えたり、IPアドレス間違えたり、設定ファイル書き換えるのを忘れていたり、もうおじいちゃんだな。とりあえず設定完了した。</description>
       <pubDate>Sun, 19 Apr 2026 11:32:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hal_biz/status/2045827784136884300</guid>
-    </item>
-    <item>
-      <title>WireGuard for Windows が v1.0 になったそう。めでたい。 https://t.co/o6JALdQPdm</title>
-      <link>https://x.com/mimura1133/status/2045780612536274960</link>
-      <description>みむら: WireGuard for Windows が v1.0 になったそう。めでたい。 https://t.co/o6JALdQPdm</description>
-      <pubDate>Sun, 19 Apr 2026 08:24:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mimura1133/status/2045780612536274960</guid>
     </item>
   </channel>
 </rss>

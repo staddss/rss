@@ -172,12 +172,5 @@
       <pubDate>Thu, 26 Mar 2026 12:30:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Timfurry233/status/2037145209755361549</guid>
     </item>
-    <item>
-      <title>https://t.co/lq825K5fDj Linuxの圧縮スワップ技術「zswap」と「 zram 」に関する一般的な誤解を解く記事。 ほとんどの用途ではzswapが推奨され、 zram は特定の組み込みシステムに限定すべきだと解説。 zswapはカーネルと密接に統合され効率的、 zram は設定が複雑で性能低下リスクがある点を詳述。</title>
-      <link>https://x.com/topickapp_com/status/2036821658850206193</link>
-      <description>topickapp (IT技術系ニュースサイト): https://t.co/lq825K5fDj Linuxの圧縮スワップ技術「zswap」と「 zram 」に関する一般的な誤解を解く記事。 ほとんどの用途ではzswapが推奨され、 zram は特定の組み込みシステムに限定すべきだと解説。 zswapはカーネルと密接に統合され効率的、 zram は設定が複雑で性能低下リスクがある点を詳述。</description>
-      <pubDate>Wed, 25 Mar 2026 15:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/topickapp_com/status/2036821658850206193</guid>
-    </item>
   </channel>
 </rss>
