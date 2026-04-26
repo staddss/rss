@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>えー、マジかよ…。 まぁ、ターミナルから確認してみたら、今までの「 Crostini 環境」が維持されてたけどさ。 ＞ChromeOS 147 で Linux 環境が刷新。新アーキテクチャ Baguette がデフォルトに https://t.co/G7A1SfKmmi</title>
+      <link>https://x.com/nidomari/status/2048487084923703519</link>
+      <description>にどまりいちろう (岡山県 倉敷市): えー、マジかよ…。 まぁ、ターミナルから確認してみたら、今までの「 Crostini 環境」が維持されてたけどさ。 ＞ChromeOS 147 で Linux 環境が刷新。新アーキテクチャ Baguette がデフォルトに https://t.co/G7A1SfKmmi</description>
+      <pubDate>Sun, 26 Apr 2026 19:39:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nidomari/status/2048487084923703519</guid>
+    </item>
+    <item>
+      <title>ChromeOSのLinux開発環境( Crostini )でアプリでファイルを扱う場合にはLinuxファイル(/home/ユーザー名/)フォルダ内で作業したほうが処理が早い。っていうのを全然知らんかった。</title>
+      <link>https://x.com/llama17/status/2048406822282039714</link>
+      <description>らま: ChromeOSのLinux開発環境( Crostini )でアプリでファイルを扱う場合にはLinuxファイル(/home/ユーザー名/)フォルダ内で作業したほうが処理が早い。っていうのを全然知らんかった。</description>
+      <pubDate>Sun, 26 Apr 2026 14:20:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2048406822282039714</guid>
+    </item>
+    <item>
+      <title>ChromeOSのBaguetteはLinuxアプリ間の相性が悪いのとか、古いアプリが特に正常に動作しないのが多いので Crostini に環境に戻した。問題は全部フィードバックしたからしばらく様子見するか。</title>
+      <link>https://x.com/llama17/status/2048391069994471869</link>
+      <description>らま: ChromeOSのBaguetteはLinuxアプリ間の相性が悪いのとか、古いアプリが特に正常に動作しないのが多いので Crostini に環境に戻した。問題は全部フィードバックしたからしばらく様子見するか。</description>
+      <pubDate>Sun, 26 Apr 2026 13:17:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2048391069994471869</guid>
+    </item>
+    <item>
+      <title>Baguette は ChromeOS 147 以降でデフォルトのインストールになりますが、chrome://flags の containerless- crostini フラグで制御できます。</title>
+      <link>https://x.com/Helen_Tech/status/2048215444419760278</link>
+      <description>おむらまさひで(HelenTech): Baguette は ChromeOS 147 以降でデフォルトのインストールになりますが、chrome://flags の containerless- crostini フラグで制御できます。</description>
+      <pubDate>Sun, 26 Apr 2026 01:39:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2048215444419760278</guid>
+    </item>
+    <item>
       <title>* インストールと起動の高速化 * lxc の古い依存関係を削除し、cgroups v2 のサポートなどを可能にします * Crostini から仮想化されたゲストへの直接アクセスを強化し、ホストでのスワップファイルのマウントなどを可能にします * 独自のコンテナ（Docker、Podman など）を実行できる</title>
       <link>https://x.com/Helen_Tech/status/2048215336642809940</link>
       <description>おむらまさひで(HelenTech): * インストールと起動の高速化 * lxc の古い依存関係を削除し、cgroups v2 のサポートなどを可能にします * Crostini から仮想化されたゲストへの直接アクセスを強化し、ホストでのスワップファイルのマウントなどを可能にします * 独自のコンテナ（Docker、Podman など）を実行できる</description>

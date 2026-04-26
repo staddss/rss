@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing の起動をデスクトップ環境下での自動起動でなく、本家のサンプルに従い、ユーザレベルのSystemd、システムによる自動起動に対応、これはこれでいいとして 某AI検索氏によると、22000番ポートをルータ側で開けてないから回避している、対応策は何パターンかあり、 みたいな話 https://t.co/ukEEde7MS2</title>
+      <link>https://x.com/dollplayer2501/status/2048239593313714547</link>
+      <description>Masahiquo, Naraya MORRY: Syncthing の起動をデスクトップ環境下での自動起動でなく、本家のサンプルに従い、ユーザレベルのSystemd、システムによる自動起動に対応、これはこれでいいとして 某AI検索氏によると、22000番ポートをルータ側で開けてないから回避している、対応策は何パターンかあり、 みたいな話 https://t.co/ukEEde7MS2</description>
+      <pubDate>Sun, 26 Apr 2026 03:15:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dollplayer2501/status/2048239593313714547</guid>
+    </item>
+    <item>
       <title>複数のPCで同期するフォルダ･･･ 当初はGoogleドライブを使っていたけど、無制限が使えなくなり移行。 その後はSynologyで3年ほど運用し、Synology Driveを使っていました。 そして今回、 自作サーバー＋複数のWindows端末の構成に切り替え、 Syncthing へ乗り換え。 https://t.co/0Vl6hWlsdc</title>
       <link>https://x.com/sekkaku_koushin/status/2048202909658370406</link>
       <description>かぴばら（コラム更新日記）: 複数のPCで同期するフォルダ･･･ 当初はGoogleドライブを使っていたけど、無制限が使えなくなり移行。 その後はSynologyで3年ほど運用し、Synology Driveを使っていました。 そして今回、 自作サーバー＋複数のWindows端末の構成に切り替え、 Syncthing へ乗り換え。 https://t.co/0Vl6hWlsdc</description>
@@ -269,13 +276,6 @@
       <description>k-dual(-24) Ph.D.🦍マイトレーヤ: ワークステーション側でpdfをmarkdownにして、それを syncthing でWindows側のobsidianディレクトリに同期させればよいのかもしれない。やってみよう。</description>
       <pubDate>Fri, 03 Apr 2026 17:02:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haruhikomegane/status/2040112744343671130</guid>
-    </item>
-    <item>
-      <title>obsidianをEインク端末と syncthing で同期しようとしたもののなぜか上手くいかず、remotely saveを使ったら一瞬でできたンゴ。</title>
-      <link>https://x.com/WaveSyndrome/status/2038839275224191425</link>
-      <description>Syndrome: obsidianをEインク端末と syncthing で同期しようとしたもののなぜか上手くいかず、remotely saveを使ったら一瞬でできたンゴ。</description>
-      <pubDate>Tue, 31 Mar 2026 04:42:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/WaveSyndrome/status/2038839275224191425</guid>
     </item>
   </channel>
 </rss>
