@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>スマホ/PC/タブレットに続いて 旅行用FireTVにVPNクライアントを入れる。 Wireguard はすぐ作業終了したけれど問題は openVPNconnect。とにかく地獄設計で１日がかりの作業になってしまった。 これで &quot;旅先最強のFireTV&quot; ができた。でも次買うとしたらXiaomi TV Stick 4Kだな。 https://t.co/lLTVugZuXC</title>
+      <link>https://x.com/yasutabi55/status/2048276934241800593</link>
+      <description>安旅: スマホ/PC/タブレットに続いて 旅行用FireTVにVPNクライアントを入れる。 Wireguard はすぐ作業終了したけれど問題は openVPNconnect。とにかく地獄設計で１日がかりの作業になってしまった。 これで &quot;旅先最強のFireTV&quot; ができた。でも次買うとしたらXiaomi TV Stick 4Kだな。 https://t.co/lLTVugZuXC</description>
+      <pubDate>Sun, 26 Apr 2026 05:44:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yasutabi55/status/2048276934241800593</guid>
+    </item>
+    <item>
+      <title>さくらVPSに設置した wireguard サーバーに、GL-inetのルーターを wireguard クライアントで接続。ルーターのLANに繋がったPCにDMZで全部の通信を行くようにセット。 このPCからサーバーや他のクライアントとのpingは通るんだが、リモートデスクトップが通らない。pythonのtcp通信は通るんだが。</title>
+      <link>https://x.com/_takeuchi__/status/2048227328619336162</link>
+      <description>takeuchi: さくらVPSに設置した wireguard サーバーに、GL-inetのルーターを wireguard クライアントで接続。ルーターのLANに繋がったPCにDMZで全部の通信を行くようにセット。 このPCからサーバーや他のクライアントとのpingは通るんだが、リモートデスクトップが通らない。pythonのtcp通信は通るんだが。</description>
+      <pubDate>Sun, 26 Apr 2026 02:27:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2048227328619336162</guid>
+    </item>
+    <item>
       <title>Pixel 10aのデスクトップモードで wireguard からVPN内のwindows PCへのリモートデスクトップ成功。 数泊ぐらいに出張にノートPCを持って行かなくて良いようにしたい。</title>
       <link>https://x.com/_takeuchi__/status/2048159453317615742</link>
       <description>takeuchi: Pixel 10aのデスクトップモードで wireguard からVPN内のwindows PCへのリモートデスクトップ成功。 数泊ぐらいに出張にノートPCを持って行かなくて良いようにしたい。</description>
@@ -262,20 +276,6 @@
       <description>倉井: wireguard 、食わず嫌いだったんだが理由が記事数個読んでもピンとこねぇ、なんで周囲で会話していてそんなに簡単に言うんだ？と思っていたが分からなくてもと手順にそって設定して驚いた。これだけで繋がってるのか</description>
       <pubDate>Mon, 20 Apr 2026 15:00:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ckurai/status/2046242591491182943</guid>
-    </item>
-    <item>
-      <title>@kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</title>
-      <link>https://x.com/Yamar50/status/2046242152532086922</link>
-      <description>Yamar50 in Tokyo JP: @kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</description>
-      <pubDate>Mon, 20 Apr 2026 14:58:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yamar50/status/2046242152532086922</guid>
-    </item>
-    <item>
-      <title>まぁせっかくだし、どうせ盆には墓参りとかで帰るだろうからそのときに現状のソフトイーサーから wireguard に置き換えるくらいの気持ちで諸々調べたり調達するかねぇ</title>
-      <link>https://x.com/Ckurai/status/2046089923879645269</link>
-      <description>倉井: まぁせっかくだし、どうせ盆には墓参りとかで帰るだろうからそのときに現状のソフトイーサーから wireguard に置き換えるくらいの気持ちで諸々調べたり調達するかねぇ</description>
-      <pubDate>Mon, 20 Apr 2026 04:53:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ckurai/status/2046089923879645269</guid>
     </item>
   </channel>
 </rss>

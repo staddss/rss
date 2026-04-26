@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>* インストールと起動の高速化 * lxc の古い依存関係を削除し、cgroups v2 のサポートなどを可能にします * Crostini から仮想化されたゲストへの直接アクセスを強化し、ホストでのスワップファイルのマウントなどを可能にします * 独自のコンテナ（Docker、Podman など）を実行できる</title>
+      <link>https://x.com/Helen_Tech/status/2048215336642809940</link>
+      <description>おむらまさひで(HelenTech): * インストールと起動の高速化 * lxc の古い依存関係を削除し、cgroups v2 のサポートなどを可能にします * Crostini から仮想化されたゲストへの直接アクセスを強化し、ホストでのスワップファイルのマウントなどを可能にします * 独自のコンテナ（Docker、Podman など）を実行できる</description>
+      <pubDate>Sun, 26 Apr 2026 01:39:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2048215336642809940</guid>
+    </item>
+    <item>
+      <title>ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。 https://t.co/T5KxfeqAKq</title>
+      <link>https://x.com/Helen_Tech/status/2048215148708716734</link>
+      <description>おむらまさひで(HelenTech): ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。 https://t.co/T5KxfeqAKq</description>
+      <pubDate>Sun, 26 Apr 2026 01:38:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2048215148708716734</guid>
+    </item>
+    <item>
       <title>サブのChromebookでBaguette少しだけ試したけど、最小化・最大化ボタンがウィンドウに無いのが不便ぐらいで他の問題は見つけられなかった。 Crostini 同様ファイルマネージャでのアイテムの更新が反映されないのはBaguetteでも改善されなかったな。</title>
       <link>https://x.com/llama17/status/2047260863598637136</link>
       <description>らま: サブのChromebookでBaguette少しだけ試したけど、最小化・最大化ボタンがウィンドウに無いのが不便ぐらいで他の問題は見つけられなかった。 Crostini 同様ファイルマネージャでのアイテムの更新が反映されないのはBaguetteでも改善されなかったな。</description>

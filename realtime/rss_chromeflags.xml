@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メモ。Chromeの拡張機能なしで強制ダークモードにする裏技。 ①URLに chrome :// flags ②Auto Dark Mode for Web Contents を検索 ③Enabledにして再起動 全サイトが黒背景になって超快適やん！ #Chrome</title>
+      <link>https://x.com/yurix_xo/status/2047880068186484931</link>
+      <description>悠利: メモ。Chromeの拡張機能なしで強制ダークモードにする裏技。 ①URLに chrome :// flags ②Auto Dark Mode for Web Contents を検索 ③Enabledにして再起動 全サイトが黒背景になって超快適やん！ #Chrome</description>
+      <pubDate>Sat, 25 Apr 2026 03:27:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yurix_xo/status/2047880068186484931</guid>
+    </item>
+    <item>
       <title>1.アドレスバーに chrome :// flags / と入力して開く 2.検索欄にAllow WebRTC to adjust the input volumeと入力 3.表示された項目をDisabledに変更 4.ブラウザを再起動 こんな感じ。音響勢は一回確認してみてもいいかも。 その代わり自動音量調節されなくなるからマイクのゲインはちゃんとチェック必要</title>
       <link>https://x.com/Shaf_de_suman/status/2047399590517932542</link>
       <description>Shaf: 1.アドレスバーに chrome :// flags / と入力して開く 2.検索欄にAllow WebRTC to adjust the input volumeと入力 3.表示された項目をDisabledに変更 4.ブラウザを再起動 こんな感じ。音響勢は一回確認してみてもいいかも。 その代わり自動音量調節されなくなるからマイクのゲインはちゃんとチェック必要</description>
@@ -269,13 +276,6 @@
       <description>カナリシゲキ / 税理士(福岡): chrome の縦タブ！ 変更できない時は↓ Chromeのアップデート: 「設定」＞「Chromeについて」でバージョンが 147 以上になっているか確認 試験運用機能（Flags）で強制有効: 1. chrome :// flags で検索 2. Vertical Tabs と入力 3. 該当する項目の設定を「Default」から「Enabled」にし再起動 https://t.co/hFvdRqdeW9</description>
       <pubDate>Wed, 08 Apr 2026 00:07:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ShigekiKanari/status/2041669196816556396</guid>
-    </item>
-    <item>
-      <title>現時点ではフラグの変更↓がまだ必要みたい？最新版にアプデしたらフラグなしでも使えるか検証してみます chrome :// flags /#vertical-tabs https://t.co/wAr6YCkSvv</title>
-      <link>https://x.com/nukonuko/status/2041572980799734131</link>
-      <description>ぬこぬこ / NUKO 🇯🇵: 現時点ではフラグの変更↓がまだ必要みたい？最新版にアプデしたらフラグなしでも使えるか検証してみます chrome :// flags /#vertical-tabs https://t.co/wAr6YCkSvv</description>
-      <pubDate>Tue, 07 Apr 2026 17:45:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nukonuko/status/2041572980799734131</guid>
     </item>
   </channel>
 </rss>

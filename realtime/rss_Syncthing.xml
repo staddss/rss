@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>複数のPCで同期するフォルダ･･･ 当初はGoogleドライブを使っていたけど、無制限が使えなくなり移行。 その後はSynologyで3年ほど運用し、Synology Driveを使っていました。 そして今回、 自作サーバー＋複数のWindows端末の構成に切り替え、 Syncthing へ乗り換え。 https://t.co/0Vl6hWlsdc</title>
+      <link>https://x.com/sekkaku_koushin/status/2048202909658370406</link>
+      <description>かぴばら（コラム更新日記）: 複数のPCで同期するフォルダ･･･ 当初はGoogleドライブを使っていたけど、無制限が使えなくなり移行。 その後はSynologyで3年ほど運用し、Synology Driveを使っていました。 そして今回、 自作サーバー＋複数のWindows端末の構成に切り替え、 Syncthing へ乗り換え。 https://t.co/0Vl6hWlsdc</description>
+      <pubDate>Sun, 26 Apr 2026 00:50:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sekkaku_koushin/status/2048202909658370406</guid>
+    </item>
+    <item>
+      <title>Syncthing でとりあえず私のメインデバイス間で org フォルダを共有するようにしたのでこれを使ってみましょうか</title>
+      <link>https://x.com/dark_thiele/status/2047823558265745412</link>
+      <description>矢澪チール: Syncthing でとりあえず私のメインデバイス間で org フォルダを共有するようにしたのでこれを使ってみましょうか</description>
+      <pubDate>Fri, 24 Apr 2026 23:42:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dark_thiele/status/2047823558265745412</guid>
+    </item>
+    <item>
       <title>@cE7sU3m3iwi2TfA &gt; このめんどくせぇーを楽しめる人がホンモノ これはガチ🤣 間違いなくホンモノですね笑 僕も KeePass + Syncthing が最適解のように思います（セルフホストサーバーの環境がない場合）</title>
       <link>https://x.com/ryo14636405/status/2047531711161106537</link>
       <description>Ryo: @cE7sU3m3iwi2TfA &gt; このめんどくせぇーを楽しめる人がホンモノ これはガチ🤣 間違いなくホンモノですね笑 僕も KeePass + Syncthing が最適解のように思います（セルフホストサーバーの環境がない場合）</description>
@@ -262,20 +276,6 @@
       <description>Syndrome: obsidianをEインク端末と syncthing で同期しようとしたもののなぜか上手くいかず、remotely saveを使ったら一瞬でできたンゴ。</description>
       <pubDate>Tue, 31 Mar 2026 04:42:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/WaveSyndrome/status/2038839275224191425</guid>
-    </item>
-    <item>
-      <title>Syncthing -fork https://t.co/NImMveejs7 GrayJay https://t.co/5xuJXKCoiN Ruler 以外は基本OSSプロジェクトになります. F-droidアプリまたは他のクライアントを使ってください. Github等からのアプリはObtaniumを使うと便利です. https://t.co/8hEGBK5xFm</title>
-      <link>https://x.com/TRX9800_/status/2038486742282781008</link>
-      <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: Syncthing -fork https://t.co/NImMveejs7 GrayJay https://t.co/5xuJXKCoiN Ruler 以外は基本OSSプロジェクトになります. F-droidアプリまたは他のクライアントを使ってください. Github等からのアプリはObtaniumを使うと便利です. https://t.co/8hEGBK5xFm</description>
-      <pubDate>Mon, 30 Mar 2026 05:21:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TRX9800_/status/2038486742282781008</guid>
-    </item>
-    <item>
-      <title>これはわしの「タチコマフォルダ」と呼んでるものなんだけど、AIになんか仕事をさせたらそこで得た知見を書き出させるようにしてる。 Syncthing で同期してるので1箇所で得られた知見は常に別の環境にも引き継がれるってわけ。 https://t.co/uNlELZSubo</title>
-      <link>https://x.com/shimarin/status/2037836655441424848</link>
-      <description>嶋田大貴: これはわしの「タチコマフォルダ」と呼んでるものなんだけど、AIになんか仕事をさせたらそこで得た知見を書き出させるようにしてる。 Syncthing で同期してるので1箇所で得られた知見は常に別の環境にも引き継がれるってわけ。 https://t.co/uNlELZSubo</description>
-      <pubDate>Sat, 28 Mar 2026 10:18:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shimarin/status/2037836655441424848</guid>
     </item>
   </channel>
 </rss>

@@ -151,19 +151,5 @@
       <pubDate>Sun, 29 Mar 2026 16:44:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/krillplankton/status/2038296353533780344</guid>
     </item>
-    <item>
-      <title>GPU上で zram するのが多少でも意味があるのなら、GreeBoostと組み合わせると、メモリ階層が一段増えるやん？</title>
-      <link>https://x.com/masahiko_kimoto/status/2037377431687119033</link>
-      <description>Masahiko KIMOTO 木本雅彦: GPU上で zram するのが多少でも意味があるのなら、GreeBoostと組み合わせると、メモリ階層が一段増えるやん？</description>
-      <pubDate>Fri, 27 Mar 2026 03:53:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/masahiko_kimoto/status/2037377431687119033</guid>
-    </item>
-    <item>
-      <title>せんせー、しつもんです。GPU内部で zram みたいなことって、できない or できるけれどオーバーヘッドが高い or できるけれどデータセット的に非効率 のどれなんでしょうか？ https://t.co/kayxzNzdce</title>
-      <link>https://x.com/masahiko_kimoto/status/2037376408536941005</link>
-      <description>Masahiko KIMOTO 木本雅彦: せんせー、しつもんです。GPU内部で zram みたいなことって、できない or できるけれどオーバーヘッドが高い or できるけれどデータセット的に非効率 のどれなんでしょうか？ https://t.co/kayxzNzdce</description>
-      <pubDate>Fri, 27 Mar 2026 03:49:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/masahiko_kimoto/status/2037376408536941005</guid>
-    </item>
   </channel>
 </rss>
