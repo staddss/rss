@@ -180,13 +180,6 @@
       <guid isPermaLink="true">https://x.com/mikangadget/status/2046808572592636273</guid>
     </item>
     <item>
-      <title>@jlxc2001 私は海外のVPSを契約して、さらにそのVPSから Cloudflare WARPに繋ぎます。 大陸→ WireGuard →大陸VPS→GRE→域外VPS→Cloudflare WARP→X</title>
-      <link>https://x.com/NT_Busters/status/2046805484251066683</link>
-      <description>フルネーム名札を廃止する会: @jlxc2001 私は海外のVPSを契約して、さらにそのVPSから Cloudflare WARPに繋ぎます。 大陸→ WireGuard →大陸VPS→GRE→域外VPS→Cloudflare WARP→X</description>
-      <pubDate>Wed, 22 Apr 2026 04:17:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NT_Busters/status/2046805484251066683</guid>
-    </item>
-    <item>
       <title>WireGuard VPN開発者アカウント停止：インフラストラクチャ制御とセキュリティの含意 https://t.co/8Ckindo3Y5 #セキュリティ脆弱性 #プラットフォーム規制 #オープンソース #ソフトウェア配布</title>
       <link>https://x.com/necologicadm/status/2046768018714231037</link>
       <description>necologicadm: WireGuard VPN開発者アカウント停止：インフラストラクチャ制御とセキュリティの含意 https://t.co/8Ckindo3Y5 #セキュリティ脆弱性 #プラットフォーム規制 #オープンソース #ソフトウェア配布</description>
@@ -276,6 +269,13 @@
       <description>倉井: wireguard 、食わず嫌いだったんだが理由が記事数個読んでもピンとこねぇ、なんで周囲で会話していてそんなに簡単に言うんだ？と思っていたが分からなくてもと手順にそって設定して驚いた。これだけで繋がってるのか</description>
       <pubDate>Mon, 20 Apr 2026 15:00:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ckurai/status/2046242591491182943</guid>
+    </item>
+    <item>
+      <title>@kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</title>
+      <link>https://x.com/Yamar50/status/2046242152532086922</link>
+      <description>Yamar50 in Tokyo JP: @kiyosan_life 学校のネットワークでAppStoreへのトラフィックがブロックされてる→ギガ減らしたくない→学校のネットワークから外部のVPNに接続だー…という可能性が微レ存？？ (子供達の学校のWi-Fiでは WireGuard が使えなくて悲しかった)</description>
+      <pubDate>Mon, 20 Apr 2026 14:58:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yamar50/status/2046242152532086922</guid>
     </item>
   </channel>
 </rss>
