@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</title>
+      <link>https://x.com/Furisan_org/status/2048693886370074899</link>
+      <description>GUI_Furisan: @ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</description>
+      <pubDate>Mon, 27 Apr 2026 09:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Furisan_org/status/2048693886370074899</guid>
+    </item>
+    <item>
+      <title>まさにWARP Connectorが WireGuard だから、まさにこの設定だわ。 ExecStart=/usr/sbin/tc qdisc replace dev eth0 root fq_codel 投入も、warp-svc改造用のdaemonのおしごとの一つ。 https://t.co/ihUnHX8vxV</title>
+      <link>https://x.com/shibanyan_1/status/2048672993233240320</link>
+      <description>しばにゃん: まさにWARP Connectorが WireGuard だから、まさにこの設定だわ。 ExecStart=/usr/sbin/tc qdisc replace dev eth0 root fq_codel 投入も、warp-svc改造用のdaemonのおしごとの一つ。 https://t.co/ihUnHX8vxV</description>
+      <pubDate>Mon, 27 Apr 2026 07:57:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2048672993233240320</guid>
+    </item>
+    <item>
+      <title>NowBrowsing: WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/rD2hlnKwKh</title>
+      <link>https://x.com/SomeDen_JOTX/status/2048671672853749768</link>
+      <description>そむでん: NowBrowsing: WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/rD2hlnKwKh</description>
+      <pubDate>Mon, 27 Apr 2026 07:52:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SomeDen_JOTX/status/2048671672853749768</guid>
+    </item>
+    <item>
       <title>VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</title>
       <link>https://x.com/kawataso/status/2048611033162580227</link>
       <description>kawataso: VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</description>
@@ -255,27 +276,6 @@
       <description>ねそてち🍆@節制㌠: オレオレ wireguard からtailscaleを主運用にしたいけど時間取れなくてGWが望み</description>
       <pubDate>Tue, 21 Apr 2026 09:51:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nesosuke/status/2046527118356730182</guid>
-    </item>
-    <item>
-      <title>Wireguard の疎通性が悪いネットワークに遭遇する事があって、あるパラメーターを触ろうと設定を見直してたところ、サーバー側のピアにもMTU設定があることに気づいた。目が点になった。 今まで端末側ピアのMTUだけ見てたけど、もしかして………戻りパケットがデカくて破棄されてた可能性、ある……？</title>
-      <link>https://x.com/intinfinitycom/status/2046516001404239999</link>
-      <description>いんと∞: Wireguard の疎通性が悪いネットワークに遭遇する事があって、あるパラメーターを触ろうと設定を見直してたところ、サーバー側のピアにもMTU設定があることに気づいた。目が点になった。 今まで端末側ピアのMTUだけ見てたけど、もしかして………戻りパケットがデカくて破棄されてた可能性、ある……？</description>
-      <pubDate>Tue, 21 Apr 2026 09:06:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/intinfinitycom/status/2046516001404239999</guid>
-    </item>
-    <item>
-      <title>WireGuard はシンプルさと監査性で優れる一方、検閲環境ではDPIで検出可能であり、OpenVPNは設定の多様性が検出回避に有利だが、どちらも単独では検閲対策に不十分というのが2026年現在の技術的位置づけ。 https://t.co/95gGJRcvnJ #Censorship #InternetFreedo</title>
-      <link>https://x.com/saveclipvpn/status/2046514349616103656</link>
-      <description>SAVE-CLIP.COM: WireGuard はシンプルさと監査性で優れる一方、検閲環境ではDPIで検出可能であり、OpenVPNは設定の多様性が検出回避に有利だが、どちらも単独では検閲対策に不十分というのが2026年現在の技術的位置づけ。 https://t.co/95gGJRcvnJ #Censorship #InternetFreedo</description>
-      <pubDate>Tue, 21 Apr 2026 09:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/saveclipvpn/status/2046514349616103656</guid>
-    </item>
-    <item>
-      <title>実態としては WireGuard は偉大という話なんだよなあれ まぁ WireGuard が無料なのはなぜというのはそう...... https://t.co/HYa7WDUADz</title>
-      <link>https://x.com/nimdanaoto/status/2046514028131012671</link>
-      <description>Nimda: 実態としては WireGuard は偉大という話なんだよなあれ まぁ WireGuard が無料なのはなぜというのはそう...... https://t.co/HYa7WDUADz</description>
-      <pubDate>Tue, 21 Apr 2026 08:59:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nimdanaoto/status/2046514028131012671</guid>
     </item>
   </channel>
 </rss>

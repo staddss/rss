@@ -165,19 +165,5 @@
       <pubDate>Mon, 30 Mar 2026 09:41:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/llama17/status/2038552119972929962</guid>
     </item>
-    <item>
-      <title>ChromeOSのベータチャンネルにM147が降ってきた。 遂にフラグDefaultでもLinux開発環境がBaguetteで作成されるようになった。 こちらでも復活した「Androidアプリの開発」の有効化でapkインストール可能。 vmcのサブコマンドにset- crostini -vm-type追加、起動時エラー関係かと触ってみたけど効果なし。 https://t.co/PPLEsZjRu5</title>
-      <link>https://x.com/staddss/status/2037799862461411491</link>
-      <description>ハタナカ: ChromeOSのベータチャンネルにM147が降ってきた。 遂にフラグDefaultでもLinux開発環境がBaguetteで作成されるようになった。 こちらでも復活した「Androidアプリの開発」の有効化でapkインストール可能。 vmcのサブコマンドにset- crostini -vm-type追加、起動時エラー関係かと触ってみたけど効果なし。 https://t.co/PPLEsZjRu5</description>
-      <pubDate>Sat, 28 Mar 2026 07:52:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/staddss/status/2037799862461411491</guid>
-    </item>
-    <item>
-      <title>Androidのターミナルアプリ。 セッションの再起動等も解決されて、アプリのインストールもできるようだ。 デスクトップモードの可能性も広がりそうだなぁ。 まだ、設定できない事もあるが、 Crostini に近くなってきてる感じ。#terminal https://t.co/RKrtlSknar</title>
-      <link>https://x.com/datsu00111/status/2037792884368482401</link>
-      <description>datsuryoku: Androidのターミナルアプリ。 セッションの再起動等も解決されて、アプリのインストールもできるようだ。 デスクトップモードの可能性も広がりそうだなぁ。 まだ、設定できない事もあるが、 Crostini に近くなってきてる感じ。#terminal https://t.co/RKrtlSknar</description>
-      <pubDate>Sat, 28 Mar 2026 07:24:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/datsu00111/status/2037792884368482401</guid>
-    </item>
   </channel>
 </rss>
