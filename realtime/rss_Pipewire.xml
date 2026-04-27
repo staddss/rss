@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ubuntu 26.04 Desktop で音楽再生を試してる。オーディオマニア以外は、もうこれで良いじゃん。FirefoxからQobuzが普通にハイレゾで再生できる。自作チャンデバソフトを使うのにはひと手間いるけど( PipeWire が理解できない)。使ったことないけど camilladsp なんてのもあるし。</title>
+      <link>https://x.com/dangomushi_assi/status/2048393445837091197</link>
+      <description>assi@天の川オーディオ研究室: Ubuntu 26.04 Desktop で音楽再生を試してる。オーディオマニア以外は、もうこれで良いじゃん。FirefoxからQobuzが普通にハイレゾで再生できる。自作チャンデバソフトを使うのにはひと手間いるけど( PipeWire が理解できない)。使ったことないけど camilladsp なんてのもあるし。</description>
+      <pubDate>Sun, 26 Apr 2026 13:27:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2048393445837091197</guid>
+    </item>
+    <item>
       <title>@cobocobo PipeWire がデフォルトになっています https://t.co/VE0IeaKwbK</title>
       <link>https://x.com/Masahiko_PhD/status/2047799828001046796</link>
       <description>志澤雅彦（志沢雅彦）Masahiko Shizawa【工学博士 PhD（東京大学 U.Tokyo）】: @cobocobo PipeWire がデフォルトになっています https://t.co/VE0IeaKwbK</description>
@@ -185,20 +192,6 @@
       <description>gx-one超ギブンじじい！: alsaのloopbackから PipeWire に変えたり、バッファ調整したりして音質が改善した。 https://t.co/zwqnETLbAp</description>
       <pubDate>Sat, 28 Mar 2026 08:11:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wave892/status/2037804833026236757</guid>
-    </item>
-    <item>
-      <title>PipeWire のresampling、SOXRに比べるとやや品質が低そう。まあリアルタイム性を重視してるはずだから妥当か。カジュアル用途には十分。 https://t.co/qDgfCRPrZE</title>
-      <link>https://x.com/dangomushi_assi/status/2037699107339616690</link>
-      <description>assi@天の川オーディオ研究室: PipeWire のresampling、SOXRに比べるとやや品質が低そう。まあリアルタイム性を重視してるはずだから妥当か。カジュアル用途には十分。 https://t.co/qDgfCRPrZE</description>
-      <pubDate>Sat, 28 Mar 2026 01:11:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2037699107339616690</guid>
-    </item>
-    <item>
-      <title>もっとカジュアルにと考えて、UbuntuDesktopに自作チャンデバソフトを入れてYoutubeの音を自作3wayで鳴らせるようにした。 PipeWire にnamed pipeに出力するsinkを作りdefaultに設定。すべての音声がチャンデバソフトを通して自作スピーカーから出力される。</title>
-      <link>https://x.com/dangomushi_assi/status/2037690456981803151</link>
-      <description>assi@天の川オーディオ研究室: もっとカジュアルにと考えて、UbuntuDesktopに自作チャンデバソフトを入れてYoutubeの音を自作3wayで鳴らせるようにした。 PipeWire にnamed pipeに出力するsinkを作りdefaultに設定。すべての音声がチャンデバソフトを通して自作スピーカーから出力される。</description>
-      <pubDate>Sat, 28 Mar 2026 00:37:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2037690456981803151</guid>
     </item>
   </channel>
 </rss>

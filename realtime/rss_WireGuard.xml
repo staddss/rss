@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</title>
+      <link>https://x.com/kawataso/status/2048611033162580227</link>
+      <description>kawataso: VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</description>
+      <pubDate>Mon, 27 Apr 2026 03:51:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawataso/status/2048611033162580227</guid>
+    </item>
+    <item>
+      <title>WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/u3eF4wCMNq #zenn</title>
+      <link>https://x.com/Tukunero/status/2048605093285785882</link>
+      <description>SDGsつくネロ: WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/u3eF4wCMNq #zenn</description>
+      <pubDate>Mon, 27 Apr 2026 03:28:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tukunero/status/2048605093285785882</guid>
+    </item>
+    <item>
+      <title>qdisc pfifo_fastがデフォルトっていつのdistroだよ。そして今はsch_fqじゃなくてfq_codelでもBBRは動くしそちらの方がいい。 WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/NuOlKON0OU</title>
+      <link>https://x.com/shibanyan_1/status/2048589693038809136</link>
+      <description>しばにゃん: qdisc pfifo_fastがデフォルトっていつのdistroだよ。そして今はsch_fqじゃなくてfq_codelでもBBRは動くしそちらの方がいい。 WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/NuOlKON0OU</description>
+      <pubDate>Mon, 27 Apr 2026 02:26:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2048589693038809136</guid>
+    </item>
+    <item>
       <title>wireguard ,完璧に理解した！！笑</title>
       <link>https://x.com/pankazuda/status/2048391711437840617</link>
       <description>熊(kazu)猫💉💉💉: wireguard ,完璧に理解した！！笑</description>
@@ -45,6 +66,13 @@
       <description>aki: やっとVPNできたーーーーー でも Wireguard だから別サーバーでCAサーバー組もうと思って買ったミニPCが無駄になった・・・</description>
       <pubDate>Sat, 25 Apr 2026 16:44:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aki_star02/status/2048080824378208311</guid>
+    </item>
+    <item>
+      <title>高価で遅い専用コントローラがなくても、Linux箱などに収容できて、VPNで有線部分を保護できます。OpenRoaming / Cityroamの展開でほしい機能なので、他社もオープンなVPNをサポートしてほしいです。 (国内メーカーさんは？) Edgecore EAP111の WireGuard VPN機能を試す https://t.co/Z0YliBIL0B</title>
+      <link>https://x.com/hgot07/status/2048013800243433866</link>
+      <description>Hideaki_npc: 高価で遅い専用コントローラがなくても、Linux箱などに収容できて、VPNで有線部分を保護できます。OpenRoaming / Cityroamの展開でほしい機能なので、他社もオープンなVPNをサポートしてほしいです。 (国内メーカーさんは？) Edgecore EAP111の WireGuard VPN機能を試す https://t.co/Z0YliBIL0B</description>
+      <pubDate>Sat, 25 Apr 2026 12:18:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hgot07/status/2048013800243433866</guid>
     </item>
     <item>
       <title>さくらVPSに wireguard サーバーの設置と、複数台のwindowsクライアントとの接続成功。結構苦戦。それでも wireguard は楽な方らしいけど。次の目標はGL-iNetの端末をクライアントとして繋いで、それに繋いだ機器が無設定で繋げられるか？かな。</title>
@@ -248,34 +276,6 @@
       <description>Nimda: 実態としては WireGuard は偉大という話なんだよなあれ まぁ WireGuard が無料なのはなぜというのはそう...... https://t.co/HYa7WDUADz</description>
       <pubDate>Tue, 21 Apr 2026 08:59:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nimdanaoto/status/2046514028131012671</guid>
-    </item>
-    <item>
-      <title>記事を投稿しました！ 🔒 リモートワーク時代のVPN入門【第二回】 WireGuard ・AWS VPC連携・VPNを狙った攻撃と対策 on #Qiita https://t.co/4ExRX6xquD</title>
-      <link>https://x.com/tomoWebStudio/status/2046427619261091842</link>
-      <description>tomo Web Studio: 記事を投稿しました！ 🔒 リモートワーク時代のVPN入門【第二回】 WireGuard ・AWS VPC連携・VPNを狙った攻撃と対策 on #Qiita https://t.co/4ExRX6xquD</description>
-      <pubDate>Tue, 21 Apr 2026 03:15:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomoWebStudio/status/2046427619261091842</guid>
-    </item>
-    <item>
-      <title>LAN内で WireGuard 経由の速度を測ったら900Mbpsも出てた。LAN直結の計測結果が940Mbpsだからかなり速いね。</title>
-      <link>https://x.com/bit287/status/2046420000341467147</link>
-      <description>bit287: LAN内で WireGuard 経由の速度を測ったら900Mbpsも出てた。LAN直結の計測結果が940Mbpsだからかなり速いね。</description>
-      <pubDate>Tue, 21 Apr 2026 02:45:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bit287/status/2046420000341467147</guid>
-    </item>
-    <item>
-      <title>24時間稼働しているNASに WireGuard 環境を作ってみた。RTX1210のL2TPより速いんじゃない？と思って。 結果。会社の回線速度がボトルネックになっていてどっちもMAX値がでなくてわろた。</title>
-      <link>https://x.com/bit287/status/2046413265723707822</link>
-      <description>bit287: 24時間稼働しているNASに WireGuard 環境を作ってみた。RTX1210のL2TPより速いんじゃない？と思って。 結果。会社の回線速度がボトルネックになっていてどっちもMAX値がでなくてわろた。</description>
-      <pubDate>Tue, 21 Apr 2026 02:18:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bit287/status/2046413265723707822</guid>
-    </item>
-    <item>
-      <title>wireguard 、食わず嫌いだったんだが理由が記事数個読んでもピンとこねぇ、なんで周囲で会話していてそんなに簡単に言うんだ？と思っていたが分からなくてもと手順にそって設定して驚いた。これだけで繋がってるのか</title>
-      <link>https://x.com/Ckurai/status/2046242591491182943</link>
-      <description>倉井: wireguard 、食わず嫌いだったんだが理由が記事数個読んでもピンとこねぇ、なんで周囲で会話していてそんなに簡単に言うんだ？と思っていたが分からなくてもと手順にそって設定して驚いた。これだけで繋がってるのか</description>
-      <pubDate>Mon, 20 Apr 2026 15:00:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ckurai/status/2046242591491182943</guid>
     </item>
   </channel>
 </rss>
