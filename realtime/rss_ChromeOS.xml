@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS FlexはLinx仮想マシン入れなくても外向けSSHは出来るから、実はGUIさえ起動してIME動く程度のレスポンスあれば何かしらの仕事はできるのでは？ なら、メモリ1GBの7インチの元Windowsタブレットでもssh端末として実は最低限使えるのでは？</title>
+      <link>https://x.com/mymemoxxxx/status/2048798225629614155</link>
+      <description>息抜記: ChromeOS FlexはLinx仮想マシン入れなくても外向けSSHは出来るから、実はGUIさえ起動してIME動く程度のレスポンスあれば何かしらの仕事はできるのでは？ なら、メモリ1GBの7インチの元Windowsタブレットでもssh端末として実は最低限使えるのでは？</description>
+      <pubDate>Mon, 27 Apr 2026 16:15:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mymemoxxxx/status/2048798225629614155</guid>
+    </item>
+    <item>
+      <title>Q555はHDMI出力死んでるのがマジで使いにくいんだよなぁ。やっぱUbuntu24機を移設する？ 今の役割だとUbuntu24LTS機は現状用途の9割がEmacsだから、メモリ1GBのスティックPCに無理矢理 ChromeOS Flex入れたやつでも仮想Linux立ててギリ代替ホストとして使い物になるか......？</title>
+      <link>https://x.com/mymemoxxxx/status/2048779650370076772</link>
+      <description>息抜記: Q555はHDMI出力死んでるのがマジで使いにくいんだよなぁ。やっぱUbuntu24機を移設する？ 今の役割だとUbuntu24LTS機は現状用途の9割がEmacsだから、メモリ1GBのスティックPCに無理矢理 ChromeOS Flex入れたやつでも仮想Linux立ててギリ代替ホストとして使い物になるか......？</description>
+      <pubDate>Mon, 27 Apr 2026 15:01:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mymemoxxxx/status/2048779650370076772</guid>
+    </item>
+    <item>
+      <title>別室に設置しっぱなし端末どうしようかな。 Ubuntu24LTS入ったN3350のミニPCを持って行くか。 HDMI出力死んでるArrowsQ555に軽量Linuxか ChromeOS Flex入れて設置するか。性能面ではミニPCか。この糞レスポンスで性能的優位なのか。うーん.......。</title>
+      <link>https://x.com/mymemoxxxx/status/2048776975968530825</link>
+      <description>息抜記: 別室に設置しっぱなし端末どうしようかな。 Ubuntu24LTS入ったN3350のミニPCを持って行くか。 HDMI出力死んでるArrowsQ555に軽量Linuxか ChromeOS Flex入れて設置するか。性能面ではミニPCか。この糞レスポンスで性能的優位なのか。うーん.......。</description>
+      <pubDate>Mon, 27 Apr 2026 14:51:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mymemoxxxx/status/2048776975968530825</guid>
+    </item>
+    <item>
+      <title>https://t.co/eNp1M5OXJa ChromeOS のあたらしいLinuxのBaguette、「IMEのサポート終了」って意味不明すぎるがどうなってしまうんだろう</title>
+      <link>https://x.com/s2terminal_tech/status/2048759724406083630</link>
+      <description>suzuki.sh | s2terminal: https://t.co/eNp1M5OXJa ChromeOS のあたらしいLinuxのBaguette、「IMEのサポート終了」って意味不明すぎるがどうなってしまうんだろう</description>
+      <pubDate>Mon, 27 Apr 2026 13:42:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/s2terminal_tech/status/2048759724406083630</guid>
+    </item>
+    <item>
       <title>5〜10万円のノーパソ買おうと思ってるのだが ChromeOS も海外ブランドも使ったことなくてどれ買えばいいか悩みすぎてる。</title>
       <link>https://x.com/404_S2vv/status/2048688945350000728</link>
       <description>103ɹoɹɹƎ: 5〜10万円のノーパソ買おうと思ってるのだが ChromeOS も海外ブランドも使ったことなくてどれ買えばいいか悩みすぎてる。</description>
@@ -17,6 +45,13 @@
       <description>竹谷正明: #Chromebook の #Obisidian で ChromeOS 本体の日本語入力が使えなくなってたの、こういうことか〜 使えるようにしてほしいなあ。 なかなか戻らないなら、Chromebook はあきらめて中古のノート PC に Ubuntu 入れて使うようにしようかな。 https://t.co/TofI0GOOlx</description>
       <pubDate>Mon, 27 Apr 2026 09:00:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/takeya_masaaki/status/2048688820640751845</guid>
+    </item>
+    <item>
+      <title>余っていたミニPCに ChromeOS を入れたんだけど、クライアントにはなれるけどサーバーにはなれないんだね。 こりゃ盲点だったわ。 Chromebookあるからクライアントは事足りてる。 winOSも消しちゃったし、どうにかして有効活用したい。</title>
+      <link>https://x.com/sorisengo/status/2048684956613026220</link>
+      <description>反千伍: 余っていたミニPCに ChromeOS を入れたんだけど、クライアントにはなれるけどサーバーにはなれないんだね。 こりゃ盲点だったわ。 Chromebookあるからクライアントは事足りてる。 winOSも消しちゃったし、どうにかして有効活用したい。</description>
+      <pubDate>Mon, 27 Apr 2026 08:45:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sorisengo/status/2048684956613026220</guid>
     </item>
     <item>
       <title>ChromeOS のChromeだけハブられてる？</title>
@@ -138,20 +173,6 @@
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2048250540824629510</guid>
     </item>
     <item>
-      <title>しかし、 ChromeOS Flexの使い心地は最高である。Googleには感謝である。</title>
-      <link>https://x.com/Shionokawa/status/2048248235685523764</link>
-      <description>汐ノ川: しかし、 ChromeOS Flexの使い心地は最高である。Googleには感謝である。</description>
-      <pubDate>Sun, 26 Apr 2026 03:50:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Shionokawa/status/2048248235685523764</guid>
-    </item>
-    <item>
-      <title>２０２６年２月１日の自動更新ポリシーにはChromebook CX1405CTAZの情報はなかった。「 ChromeOS デバイスの自動更新期限は 10 年です」というのは嘘なのか？詐欺なのか？添付画像は２０２６年２月１日の自動更新ポリシーのスクショ。 https://t.co/iHJuQtCwYO</title>
-      <link>https://x.com/Shionokawa/status/2048245433781408041</link>
-      <description>汐ノ川: ２０２６年２月１日の自動更新ポリシーにはChromebook CX1405CTAZの情報はなかった。「 ChromeOS デバイスの自動更新期限は 10 年です」というのは嘘なのか？詐欺なのか？添付画像は２０２６年２月１日の自動更新ポリシーのスクショ。 https://t.co/iHJuQtCwYO</description>
-      <pubDate>Sun, 26 Apr 2026 03:39:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Shionokawa/status/2048245433781408041</guid>
-    </item>
-    <item>
       <title>@Anubis_369 アカウントだけたくさんあればさらに使えます。ブラウザで使えるクラウド版と ChromeOS 版に期待しましょう。 非課税税の入門に。</title>
       <link>https://x.com/platypus2000jp/status/2048243858291716154</link>
       <description>platypus2000jp: @Anubis_369 アカウントだけたくさんあればさらに使えます。ブラウザで使えるクラウド版と ChromeOS 版に期待しましょう。 非課税税の入門に。</description>
@@ -250,32 +271,11 @@
       <guid isPermaLink="true">https://x.com/mas_chinamimi/status/2047949210805563607</guid>
     </item>
     <item>
-      <title>余ってwindows10がサービス終了したsurfaceに chromeos flex入れようとしたらacアダプタが無いのだ</title>
-      <link>https://x.com/lonly_arai/status/2047947894637154619</link>
-      <description>ネットでもボッチなボライさん: 余ってwindows10がサービス終了したsurfaceに chromeos flex入れようとしたらacアダプタが無いのだ</description>
-      <pubDate>Sat, 25 Apr 2026 07:56:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lonly_arai/status/2047947894637154619</guid>
-    </item>
-    <item>
       <title>なんとなく…ではあるけれど、 AI競争の最終局面は Google vs Microsoft の一騎打ちになる構造が見えてきている。 理由はシンプルで、 AIの本当の勝敗は「モデルの性能」ではなく、 OS・クラウド・デバイスという“土台”を誰が握るか で決まるから。 Googleは Android / ChromeOS / Web を押さえ、</title>
       <link>https://x.com/AIDEPROJECT0523/status/2047924025507143956</link>
       <description>KEIICHI SHIRAISHI: なんとなく…ではあるけれど、 AI競争の最終局面は Google vs Microsoft の一騎打ちになる構造が見えてきている。 理由はシンプルで、 AIの本当の勝敗は「モデルの性能」ではなく、 OS・クラウド・デバイスという“土台”を誰が握るか で決まるから。 Googleは Android / ChromeOS / Web を押さえ、</description>
       <pubDate>Sat, 25 Apr 2026 06:21:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AIDEPROJECT0523/status/2047924025507143956</guid>
-    </item>
-    <item>
-      <title>GCPがazureより優位になるのってどういう案件？官公庁というか教育系？ ChromeOS だからGCPはわかるけどWindowsでわざわざGCPにする理由がわからん。</title>
-      <link>https://x.com/sei_kei_hist/status/2047921270608822275</link>
-      <description>日の本さくら: GCPがazureより優位になるのってどういう案件？官公庁というか教育系？ ChromeOS だからGCPはわかるけどWindowsでわざわざGCPにする理由がわからん。</description>
-      <pubDate>Sat, 25 Apr 2026 06:10:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sei_kei_hist/status/2047921270608822275</guid>
-    </item>
-    <item>
-      <title>修正された脆弱性が公開されたため、記事に追記しました。 Google、Chromebook 向け ChromeOS 147 安定版をリリース。「Critical」を含む71件の脆弱性を修正 https://t.co/LtulgwLIOH #chromebook</title>
-      <link>https://x.com/Helen_Tech/status/2047894974453428725</link>
-      <description>おむらまさひで(HelenTech): 修正された脆弱性が公開されたため、記事に追記しました。 Google、Chromebook 向け ChromeOS 147 安定版をリリース。「Critical」を含む71件の脆弱性を修正 https://t.co/LtulgwLIOH #chromebook</description>
-      <pubDate>Sat, 25 Apr 2026 04:26:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047894974453428725</guid>
     </item>
   </channel>
 </rss>

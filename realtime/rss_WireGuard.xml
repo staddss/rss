@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>先人の教えとコピペで wireguard のif立ててnat（pf使ってます）も仕込めた。導通テストは未。</title>
+      <link>https://x.com/Bxp3EyWSsk76071/status/2048804670718779754</link>
+      <description>ゆ: 先人の教えとコピペで wireguard のif立ててnat（pf使ってます）も仕込めた。導通テストは未。</description>
+      <pubDate>Mon, 27 Apr 2026 16:41:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Bxp3EyWSsk76071/status/2048804670718779754</guid>
+    </item>
+    <item>
+      <title>自宅だからあんまり意味ないけど、SORACOM ArcのバーチャルSIM（ WireGuard ）を載せてNapter経由で操作している。 HTMLは面倒だったのでClaude Codeに作らせて、画像もロボット操作もM5Atom側のREST API経由なので理屈上はRemote CommandとかFlux経由でも動かせる。</title>
+      <link>https://x.com/Plemling138/status/2048754636895707635</link>
+      <description>Hisaya: 自宅だからあんまり意味ないけど、SORACOM ArcのバーチャルSIM（ WireGuard ）を載せてNapter経由で操作している。 HTMLは面倒だったのでClaude Codeに作らせて、画像もロボット操作もM5Atom側のREST API経由なので理屈上はRemote CommandとかFlux経由でも動かせる。</description>
+      <pubDate>Mon, 27 Apr 2026 13:22:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Plemling138/status/2048754636895707635</guid>
+    </item>
+    <item>
       <title>@ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</title>
       <link>https://x.com/Furisan_org/status/2048693886370074899</link>
       <description>GUI_Furisan: @ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</description>
@@ -262,20 +276,6 @@
       <description>takuya@osaka(令和最新版): まあ、来るべき時は自宅に wireguard おけばいいだけなんやけどな。 https://t.co/9SGGUzYlpE</description>
       <pubDate>Tue, 21 Apr 2026 12:11:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/takuya_1st/status/2046562427291267474</guid>
-    </item>
-    <item>
-      <title>リモートアクセスは Tailscale に移行した。一応 WireGuard も設定はしたけれど。</title>
-      <link>https://x.com/tshira/status/2046551063726346369</link>
-      <description>tshira: リモートアクセスは Tailscale に移行した。一応 WireGuard も設定はしたけれど。</description>
-      <pubDate>Tue, 21 Apr 2026 11:26:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tshira/status/2046551063726346369</guid>
-    </item>
-    <item>
-      <title>オレオレ wireguard からtailscaleを主運用にしたいけど時間取れなくてGWが望み</title>
-      <link>https://x.com/nesosuke/status/2046527118356730182</link>
-      <description>ねそてち🍆@節制㌠: オレオレ wireguard からtailscaleを主運用にしたいけど時間取れなくてGWが望み</description>
-      <pubDate>Tue, 21 Apr 2026 09:51:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nesosuke/status/2046527118356730182</guid>
     </item>
   </channel>
 </rss>

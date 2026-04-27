@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>obsidian、外出先で同期する必要もないので syncthing を試してみる remotely syncはなんだかいつの間にかうまく動かなくなってた</title>
+      <link>https://x.com/martian_tomato/status/2048713182664175962</link>
+      <description>lupa: obsidian、外出先で同期する必要もないので syncthing を試してみる remotely syncはなんだかいつの間にかうまく動かなくなってた</description>
+      <pubDate>Mon, 27 Apr 2026 10:37:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/martian_tomato/status/2048713182664175962</guid>
+    </item>
+    <item>
       <title>Syncthing というものを使ってWindowsとMacでUnityの重いモデルデータを共有するなどしている。 LFSとかあるけど普通にソロで開発してるし、アセット自体はバージョン管理とかいらないからこれで共有できて良き！</title>
       <link>https://x.com/oboroge9/status/2048377466256028110</link>
       <description>おぼろげ🗺AIが生きる世界を創る: Syncthing というものを使ってWindowsとMacでUnityの重いモデルデータを共有するなどしている。 LFSとかあるけど普通にソロで開発してるし、アセット自体はバージョン管理とかいらないからこれで共有できて良き！</description>
@@ -269,13 +276,6 @@
       <description>このめ@気まぐれ浮上: Notionの移行先のメモアプリ、JoplinをやめてObsidian＋ Syncthing の合わせ技に落ち着いた。どっちもDropboxで同期しようとすると、PCとスマホでそれぞれ同じ名前の別のフォルダが生成されてしまってすれ違いが😇なんでObsidianにしたかというと、コードブロックの中身をドラッグ選択できるから。</description>
       <pubDate>Mon, 06 Apr 2026 03:34:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hsm_konome/status/2040996516954001659</guid>
-    </item>
-    <item>
-      <title>これまでメモ類は大幅に分散してしまっていて ・ Syncthing で同期してるTiddlyWiki ・SBCで運用してるMediaWiki ・スマホで運用してるSimplenote ・iOSとmacOSだけで同期してるメモ帳 これらを大統一できる可能性を秘めてるというだけでObsidianは銀の弾丸たりうる。最初からちゃんとしろという話である</title>
-      <link>https://x.com/joukan_jakusha/status/2040287560967360850</link>
-      <description>情報弱者であると同時に、情感弱者: これまでメモ類は大幅に分散してしまっていて ・ Syncthing で同期してるTiddlyWiki ・SBCで運用してるMediaWiki ・スマホで運用してるSimplenote ・iOSとmacOSだけで同期してるメモ帳 これらを大統一できる可能性を秘めてるというだけでObsidianは銀の弾丸たりうる。最初からちゃんとしろという話である</description>
-      <pubDate>Sat, 04 Apr 2026 04:37:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joukan_jakusha/status/2040287560967360850</guid>
     </item>
   </channel>
 </rss>

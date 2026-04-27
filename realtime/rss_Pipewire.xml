@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pipewire はUbuntuより先だったか覚えてないけど、WaylandはFedoraのがひとつ前からXorg無くしてた。KDEはもう一つまえぐらいから無効化してた。そもそもUbuntuがWaylandやめたんじゃなくてGNOMEが Wayland一本化させたの。 https://t.co/PBBbjNGh8Z</title>
+      <link>https://x.com/fedoraupdown/status/2048884376239591748</link>
+      <description>けんけん: Pipewire はUbuntuより先だったか覚えてないけど、WaylandはFedoraのがひとつ前からXorg無くしてた。KDEはもう一つまえぐらいから無効化してた。そもそもUbuntuがWaylandやめたんじゃなくてGNOMEが Wayland一本化させたの。 https://t.co/PBBbjNGh8Z</description>
+      <pubDate>Mon, 27 Apr 2026 21:57:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2048884376239591748</guid>
+    </item>
+    <item>
+      <title>そしてflatpakで導入するもいまだにオーディオサーバというかオーディオバックエンド各種alsaとかjackとか pipewire とかわからんちんなので実際にpurrdataから音が出るのはまだ先のお話。になったけど、linuxにも今こんなパッチベイアプリあるのね…ってなって未来感あった。 https://t.co/mO0zqj19DL</title>
+      <link>https://x.com/tksg8086/status/2048835425293516979</link>
+      <description>たかさご: そしてflatpakで導入するもいまだにオーディオサーバというかオーディオバックエンド各種alsaとかjackとか pipewire とかわからんちんなので実際にpurrdataから音が出るのはまだ先のお話。になったけど、linuxにも今こんなパッチベイアプリあるのね…ってなって未来感あった。 https://t.co/mO0zqj19DL</description>
+      <pubDate>Mon, 27 Apr 2026 18:43:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tksg8086/status/2048835425293516979</guid>
+    </item>
+    <item>
       <title>Ubuntu 26.04 Desktop で音楽再生を試してる。オーディオマニア以外は、もうこれで良いじゃん。FirefoxからQobuzが普通にハイレゾで再生できる。自作チャンデバソフトを使うのにはひと手間いるけど( PipeWire が理解できない)。使ったことないけど camilladsp なんてのもあるし。</title>
       <link>https://x.com/dangomushi_assi/status/2048393445837091197</link>
       <description>assi@天の川オーディオ研究室: Ubuntu 26.04 Desktop で音楽再生を試してる。オーディオマニア以外は、もうこれで良いじゃん。FirefoxからQobuzが普通にハイレゾで再生できる。自作チャンデバソフトを使うのにはひと手間いるけど( PipeWire が理解できない)。使ったことないけど camilladsp なんてのもあるし。</description>
