@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard +sambaで家の外からつながったの便利・・・ openvpnじゃなくてもいいんだね。</title>
+      <link>https://x.com/aki_star02/status/2049087157118378074</link>
+      <description>aki: wireguard +sambaで家の外からつながったの便利・・・ openvpnじゃなくてもいいんだね。</description>
+      <pubDate>Tue, 28 Apr 2026 11:23:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aki_star02/status/2049087157118378074</guid>
+    </item>
+    <item>
       <title>先人の教えとコピペで wireguard のif立ててnat（pf使ってます）も仕込めた。導通テストは未。</title>
       <link>https://x.com/Bxp3EyWSsk76071/status/2048804670718779754</link>
       <description>ゆ: 先人の教えとコピペで wireguard のif立ててnat（pf使ってます）も仕込めた。導通テストは未。</description>
@@ -59,6 +66,13 @@
       <description>しばにゃん: qdisc pfifo_fastがデフォルトっていつのdistroだよ。そして今はsch_fqじゃなくてfq_codelでもBBRは動くしそちらの方がいい。 WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/NuOlKON0OU</description>
       <pubDate>Mon, 27 Apr 2026 02:26:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shibanyan_1/status/2048589693038809136</guid>
+    </item>
+    <item>
+      <title>ほうほう、参考になる。 WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/hrNRNxHTiR</title>
+      <link>https://x.com/hgot07/status/2048575627532579096</link>
+      <description>Hideaki_npc: ほうほう、参考になる。 WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/hrNRNxHTiR</description>
+      <pubDate>Mon, 27 Apr 2026 01:31:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hgot07/status/2048575627532579096</guid>
     </item>
     <item>
       <title>wireguard ,完璧に理解した！！笑</title>
@@ -262,20 +276,6 @@
       <description>へき: TailscaleってVPNサービスが流行ってるっぽい？ WireGuard で自前でVPN構築しちゃって、もう少し早く知りたかった</description>
       <pubDate>Tue, 21 Apr 2026 16:47:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/heki7c/status/2046631914740883513</guid>
-    </item>
-    <item>
-      <title>これはVPNの理解というより wireguard の理解に近い</title>
-      <link>https://x.com/kaska0511/status/2046595172541386760</link>
-      <description>Kaska: これはVPNの理解というより wireguard の理解に近い</description>
-      <pubDate>Tue, 21 Apr 2026 14:21:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kaska0511/status/2046595172541386760</guid>
-    </item>
-    <item>
-      <title>まあ、来るべき時は自宅に wireguard おけばいいだけなんやけどな。 https://t.co/9SGGUzYlpE</title>
-      <link>https://x.com/takuya_1st/status/2046562427291267474</link>
-      <description>takuya@osaka(令和最新版): まあ、来るべき時は自宅に wireguard おけばいいだけなんやけどな。 https://t.co/9SGGUzYlpE</description>
-      <pubDate>Tue, 21 Apr 2026 12:11:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takuya_1st/status/2046562427291267474</guid>
     </item>
   </channel>
 </rss>

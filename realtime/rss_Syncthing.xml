@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</title>
+      <link>https://x.com/uni9k/status/2048752903956176902</link>
+      <description>おりばー: ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</description>
+      <pubDate>Mon, 27 Apr 2026 13:15:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/uni9k/status/2048752903956176902</guid>
+    </item>
+    <item>
       <title>obsidian、外出先で同期する必要もないので syncthing を試してみる remotely syncはなんだかいつの間にかうまく動かなくなってた</title>
       <link>https://x.com/martian_tomato/status/2048713182664175962</link>
       <description>lupa: obsidian、外出先で同期する必要もないので syncthing を試してみる remotely syncはなんだかいつの間にかうまく動かなくなってた</description>
@@ -269,13 +276,6 @@
       <description>yoyo: 60GBくらい空いてるのに syncthing が同期しないなー何でだろと思ったけど、ストレージ10TBだから60GB空いてても0.6%で基準の1%下回ってたわ…</description>
       <pubDate>Tue, 07 Apr 2026 20:08:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yoyo_real/status/2041609165710524469</guid>
-    </item>
-    <item>
-      <title>Notionの移行先のメモアプリ、JoplinをやめてObsidian＋ Syncthing の合わせ技に落ち着いた。どっちもDropboxで同期しようとすると、PCとスマホでそれぞれ同じ名前の別のフォルダが生成されてしまってすれ違いが😇なんでObsidianにしたかというと、コードブロックの中身をドラッグ選択できるから。</title>
-      <link>https://x.com/hsm_konome/status/2040996516954001659</link>
-      <description>このめ@気まぐれ浮上: Notionの移行先のメモアプリ、JoplinをやめてObsidian＋ Syncthing の合わせ技に落ち着いた。どっちもDropboxで同期しようとすると、PCとスマホでそれぞれ同じ名前の別のフォルダが生成されてしまってすれ違いが😇なんでObsidianにしたかというと、コードブロックの中身をドラッグ選択できるから。</description>
-      <pubDate>Mon, 06 Apr 2026 03:34:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hsm_konome/status/2040996516954001659</guid>
     </item>
   </channel>
 </rss>

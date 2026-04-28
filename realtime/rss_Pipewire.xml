@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なんやかんやあり、 pipewire .socketを再起動したら直った気がする</title>
+      <link>https://x.com/blackenedgold/status/2049132991239332086</link>
+      <description>κeen: なんやかんやあり、 pipewire .socketを再起動したら直った気がする</description>
+      <pubDate>Tue, 28 Apr 2026 14:25:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/blackenedgold/status/2049132991239332086</guid>
+    </item>
+    <item>
+      <title>pipewire そのものより割り込み処理にCPUクッソ使ってるやん。そういうこともあるんやな。</title>
+      <link>https://x.com/utamok/status/2049122657455816870</link>
+      <description>丸: pipewire そのものより割り込み処理にCPUクッソ使ってるやん。そういうこともあるんやな。</description>
+      <pubDate>Tue, 28 Apr 2026 13:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/utamok/status/2049122657455816870</guid>
+    </item>
+    <item>
       <title>切断したあと Pipewire がお亡くなりになってた。いたしかたなし</title>
       <link>https://x.com/1hira_c/status/2048888312107270626</link>
       <description>一片(ひとひら): 切断したあと Pipewire がお亡くなりになってた。いたしかたなし</description>
@@ -199,13 +213,6 @@
       <description>わーいのひと(和合之人): @i_t_nyan インストールした順です。 1）curl gnupg2 wget 2）linux-image-surface linux-headers-surface libwacom-surface 3）hwinfo 4）libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera 5）wireplumber v4l-utils （続く</description>
       <pubDate>Mon, 30 Mar 2026 00:21:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wainohito/status/2038411357243285923</guid>
-    </item>
-    <item>
-      <title>ストイックに音質追求するなら Ubuntu server+MPD+upmpdcli も良いけど、カジュアルに Ubuntu Desktop も良い。 PipeWire とチャンデバソフトを使って、MiniPC+AVアンプ+自作3wayスピーカーをBluetoothスピーカーとして使える。簡単にスマホから音楽を自作3wayスピーカーでマルチアンプ再生できる。</title>
-      <link>https://x.com/dangomushi_assi/status/2038230728866218274</link>
-      <description>assi@天の川オーディオ研究室: ストイックに音質追求するなら Ubuntu server+MPD+upmpdcli も良いけど、カジュアルに Ubuntu Desktop も良い。 PipeWire とチャンデバソフトを使って、MiniPC+AVアンプ+自作3wayスピーカーをBluetoothスピーカーとして使える。簡単にスマホから音楽を自作3wayスピーカーでマルチアンプ再生できる。</description>
-      <pubDate>Sun, 29 Mar 2026 12:24:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dangomushi_assi/status/2038230728866218274</guid>
     </item>
   </channel>
 </rss>
