@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>iPadでgithub codespaces 使うのっでどれくらい現実的なんだろう</title>
+      <link>https://x.com/Sck_Day/status/2049534294276845708</link>
+      <description>詩哭(しこく)🫪🫪: iPadでgithub codespaces 使うのっでどれくらい現実的なんだろう</description>
+      <pubDate>Wed, 29 Apr 2026 17:00:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sck_Day/status/2049534294276845708</guid>
+    </item>
+    <item>
+      <title>それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</title>
+      <link>https://x.com/kalaming3104/status/2049515503715270757</link>
+      <description>カムチョ: それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</description>
+      <pubDate>Wed, 29 Apr 2026 15:45:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kalaming3104/status/2049515503715270757</guid>
+    </item>
+    <item>
+      <title>GitHubはジョブ実行基盤としてのActionsと開発環境としての Codespaces がメインの価値だと思っていて、これをOSSでやろうとするとそこそこ大変なんだよなあ 世の中便利なものはあるので作れはするけど、開発者体験とセキュリティのバランスとりつつ運用し続けるのは相当覚悟がいる</title>
+      <link>https://x.com/mo124121/status/2049452357550018862</link>
+      <description>藻: GitHubはジョブ実行基盤としてのActionsと開発環境としての Codespaces がメインの価値だと思っていて、これをOSSでやろうとするとそこそこ大変なんだよなあ 世の中便利なものはあるので作れはするけど、開発者体験とセキュリティのバランスとりつつ運用し続けるのは相当覚悟がいる</description>
+      <pubDate>Wed, 29 Apr 2026 11:34:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mo124121/status/2049452357550018862</guid>
+    </item>
+    <item>
+      <title>Codespaces の中で Codex 使うのか なるほど #すごい広島</title>
+      <link>https://x.com/24motz/status/2049446507997536519</link>
+      <description>にしもつ: Codespaces の中で Codex 使うのか なるほど #すごい広島</description>
+      <pubDate>Wed, 29 Apr 2026 11:11:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/24motz/status/2049446507997536519</guid>
+    </item>
+    <item>
       <title>設定が全部完了した！ これでGitHub Codespaces の30分の時間制限も止め忘れも気にせずに使える！ わーい！</title>
       <link>https://x.com/txt365/status/2049421704313884932</link>
       <description>txt365.org: 設定が全部完了した！ これでGitHub Codespaces の30分の時間制限も止め忘れも気にせずに使える！ わーい！</description>
@@ -248,34 +276,6 @@
       <description>きまき: 「GitHub Codespaces を利用した開発環境の構築」タスクをクリアしました！ https://t.co/z3HPkinVdw #ProgatePath #Progate</description>
       <pubDate>Sat, 11 Apr 2026 11:23:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/trmm_2442m/status/2042926547074736198</guid>
-    </item>
-    <item>
-      <title>💡開発時のプチアドバイス Claudeデスクトップ版は手軽ですが、使用制限の消費が早く、セキュリティ面（ローカル環境への影響）を考慮すると、VS Codeや Codespaces 上で動かすのがおすすめ🛡️ どの環境で作っても完成するアプリの性能は同じなので、より安全で快適な方法で💻</title>
-      <link>https://x.com/timeismoney55/status/2042852547019632818</link>
-      <description>ちょくｌAI×株式投資（新NISAも活用）の情報を発信: 💡開発時のプチアドバイス Claudeデスクトップ版は手軽ですが、使用制限の消費が早く、セキュリティ面（ローカル環境への影響）を考慮すると、VS Codeや Codespaces 上で動かすのがおすすめ🛡️ どの環境で作っても完成するアプリの性能は同じなので、より安全で快適な方法で💻</description>
-      <pubDate>Sat, 11 Apr 2026 06:29:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/timeismoney55/status/2042852547019632818</guid>
-    </item>
-    <item>
-      <title>／ GitHub Enterprise Cloud データ レジデンシー対応！ 「GitHub Codespaces 」の一般提供開始🎉 ＼ 厳格なデータ レジデンシー要件を満たしつつ、すぐに使える安全なクラウド開発環境を実現できます！ https://t.co/EHpDzfG9zO</title>
-      <link>https://x.com/msdevjp/status/2042226022720930141</link>
-      <description>Microsoft Tech: ／ GitHub Enterprise Cloud データ レジデンシー対応！ 「GitHub Codespaces 」の一般提供開始🎉 ＼ 厳格なデータ レジデンシー要件を満たしつつ、すぐに使える安全なクラウド開発環境を実現できます！ https://t.co/EHpDzfG9zO</description>
-      <pubDate>Thu, 09 Apr 2026 13:00:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/msdevjp/status/2042226022720930141</guid>
-    </item>
-    <item>
-      <title>iPadだけでClaude Code叩きたくて…、 試したらGitHubの Codespaces 経由で 意外といけた …！ わたしの学生時代にこの環境があれば、 お金なくて参考書を買えないとかいう苦労をしなかったのに…🫠 せめてどうか、今の時代の子にはAIを触らさせてあげてクレメンス… https://t.co/oTO8s7hkxb</title>
-      <link>https://x.com/negitoro375/status/2042074876211818921</link>
-      <description>ネギトロ: iPadだけでClaude Code叩きたくて…、 試したらGitHubの Codespaces 経由で 意外といけた …！ わたしの学生時代にこの環境があれば、 お金なくて参考書を買えないとかいう苦労をしなかったのに…🫠 せめてどうか、今の時代の子にはAIを触らさせてあげてクレメンス… https://t.co/oTO8s7hkxb</description>
-      <pubDate>Thu, 09 Apr 2026 02:59:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/negitoro375/status/2042074876211818921</guid>
-    </item>
-    <item>
-      <title>Cursorがリモート実行に対応した。スマホからエージェントを起動して、自宅のdevboxでコードを書かせられる。「それ、SSH + Codespaces で前からできるじゃん」と思うかもしれないけど、本質的に違う点がある。 https://t.co/OtxOIYw8jY</title>
-      <link>https://x.com/kokiaioutput/status/2042033182556516729</link>
-      <description>こうき｜20代役員のAI活用: Cursorがリモート実行に対応した。スマホからエージェントを起動して、自宅のdevboxでコードを書かせられる。「それ、SSH + Codespaces で前からできるじゃん」と思うかもしれないけど、本質的に違う点がある。 https://t.co/OtxOIYw8jY</description>
-      <pubDate>Thu, 09 Apr 2026 00:13:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kokiaioutput/status/2042033182556516729</guid>
     </item>
   </channel>
 </rss>

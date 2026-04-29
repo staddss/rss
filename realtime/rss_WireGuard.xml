@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</title>
+      <link>https://x.com/SogoogleK51859/status/2049495929309560900</link>
+      <description>nico: エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</description>
+      <pubDate>Wed, 29 Apr 2026 14:28:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SogoogleK51859/status/2049495929309560900</guid>
+    </item>
+    <item>
+      <title>最も安価に海外の wireguard サーバーを利用する方法</title>
+      <link>https://x.com/sakuacid/status/2049415883714625636</link>
+      <description>さく: 最も安価に海外の wireguard サーバーを利用する方法</description>
+      <pubDate>Wed, 29 Apr 2026 09:09:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2049415883714625636</guid>
+    </item>
+    <item>
       <title>WireGuard の設定してたらじかんがとけた(:3_ヽ)_</title>
       <link>https://x.com/Tukunero/status/2049374360268591330</link>
       <description>SDGsつくネロ: WireGuard の設定してたらじかんがとけた(:3_ヽ)_</description>
@@ -262,20 +276,6 @@
       <description>そむでん: めんどいのでとりあえず WireGuard でいいやの気持ちに ポート指定できるからMAP-Eで配られたとこを開けりゃいい話だし</description>
       <pubDate>Wed, 22 Apr 2026 17:51:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SomeDen_JOTX/status/2047010506658238627</guid>
-    </item>
-    <item>
-      <title>IPIP over WireGuard てMTUが削られすぎてHTTPが通過できなかった件、iptablesでClampingの設定をしたら円滑にHTTPも通るようになった。やったー</title>
-      <link>https://x.com/ma2_kz/status/2046942720250478832</link>
-      <description>まつ: IPIP over WireGuard てMTUが削られすぎてHTTPが通過できなかった件、iptablesでClampingの設定をしたら円滑にHTTPも通るようになった。やったー</description>
-      <pubDate>Wed, 22 Apr 2026 13:22:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ma2_kz/status/2046942720250478832</guid>
-    </item>
-    <item>
-      <title>4つのセグメントと5個のルーター、3つの WireGuard 、OpenVPN。 ドメインは4つ。グローバルIPは2つ。 Let's Encryptで暗号化……。 普通の家じゃないな。</title>
-      <link>https://x.com/menma_j/status/2046861258419552272</link>
-      <description>めんま: 4つのセグメントと5個のルーター、3つの WireGuard 、OpenVPN。 ドメインは4つ。グローバルIPは2つ。 Let's Encryptで暗号化……。 普通の家じゃないな。</description>
-      <pubDate>Wed, 22 Apr 2026 07:58:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/menma_j/status/2046861258419552272</guid>
     </item>
   </channel>
 </rss>

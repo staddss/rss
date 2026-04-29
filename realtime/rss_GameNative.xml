@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GameNative 0.9.0(https://t.co/5ZNTC1SOZH)をベースにしてGameHub lite5.1.4のRTScontrol(https://t.co/hW0fRetQVV)をムチャ移植するのをClaudeにやらせています。 良い感じです。テストは明日やります https://t.co/VDtiN5YZE9</title>
+      <link>https://x.com/T_decoy/status/2049165951422415301</link>
+      <description>でくのぼう: GameNative 0.9.0(https://t.co/5ZNTC1SOZH)をベースにしてGameHub lite5.1.4のRTScontrol(https://t.co/hW0fRetQVV)をムチャ移植するのをClaudeにやらせています。 良い感じです。テストは明日やります https://t.co/VDtiN5YZE9</description>
+      <pubDate>Tue, 28 Apr 2026 16:36:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/T_decoy/status/2049165951422415301</guid>
+    </item>
+    <item>
       <title>色々試したけど現状PC2台ないとセルフブラザー無理そ～。 Gamenative から起動はできてたけどSteamの情報にアクセスしてくれないからかダメだった。Gamehubはそもそも起動までいってくれない</title>
       <link>https://x.com/blue_headphone/status/2048406629415346682</link>
       <description>蒼音: 色々試したけど現状PC2台ないとセルフブラザー無理そ～。 Gamenative から起動はできてたけどSteamの情報にアクセスしてくれないからかダメだった。Gamehubはそもそも起動までいってくれない</description>
@@ -227,13 +234,6 @@
       <description>アーゴット大好きクラブ: gamesirだし怪しくは無いと思うけど、あそこのアプデ品質が信用出来ないのと翻訳漏れやたら多いイメージあるから gamenative でええ感ある https://t.co/6bY1PV7bk1</description>
       <pubDate>Tue, 31 Mar 2026 02:39:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/i_love_urgot_2/status/2038808438063734785</guid>
-    </item>
-    <item>
-      <title>@seiryux68 実はその手のWineを使ったAndroidアプリは GameNative やWinlatorとか色々あってGameHub以外にWindowsアプリを動かす方法ありますよ！SoCの相性とかあるしインストールしてポンと動くような代物ではないので根気が必要ですけどｗ</title>
-      <link>https://x.com/gokou_ex/status/2038614366191485262</link>
-      <description>後光: @seiryux68 実はその手のWineを使ったAndroidアプリは GameNative やWinlatorとか色々あってGameHub以外にWindowsアプリを動かす方法ありますよ！SoCの相性とかあるしインストールしてポンと動くような代物ではないので根気が必要ですけどｗ</description>
-      <pubDate>Mon, 30 Mar 2026 13:48:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gokou_ex/status/2038614366191485262</guid>
     </item>
     <item>
       <title>@pc_watch GameSirが嫌な人は、コミュニティによって最小限まで機能を削ったGameHub Liteがあるよ あと最近は GameNative という同様の仕組みのOSSもある 徹底検証の割には設定に言及されてないけど、GPUドライバ(Turnip)が対応してるSoC(スナドラのメイン帯)じゃないと厳しいのは注意 8sみたいな廉価帯もアウト</title>

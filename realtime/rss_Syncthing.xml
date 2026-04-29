@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</title>
+      <link>https://x.com/AIfukugyoulog/status/2049472478259691608</link>
+      <description>AI副業検証ログ: obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</description>
+      <pubDate>Wed, 29 Apr 2026 12:54:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AIfukugyoulog/status/2049472478259691608</guid>
+    </item>
+    <item>
       <title>ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</title>
       <link>https://x.com/uni9k/status/2048752903956176902</link>
       <description>おりばー: ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</description>
@@ -269,13 +276,6 @@
       <description>Gyroid: TM3000に付属してるWindows7機に Syncthing が入ってしまったので、撮影した画像がシームレスにMacに同期されるので、重い処理はMac側で行うこともできる。</description>
       <pubDate>Thu, 09 Apr 2026 15:42:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shutoito/status/2042267021904372093</guid>
-    </item>
-    <item>
-      <title>60GBくらい空いてるのに syncthing が同期しないなー何でだろと思ったけど、ストレージ10TBだから60GB空いてても0.6%で基準の1%下回ってたわ…</title>
-      <link>https://x.com/yoyo_real/status/2041609165710524469</link>
-      <description>yoyo: 60GBくらい空いてるのに syncthing が同期しないなー何でだろと思ったけど、ストレージ10TBだから60GB空いてても0.6%で基準の1%下回ってたわ…</description>
-      <pubDate>Tue, 07 Apr 2026 20:08:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yoyo_real/status/2041609165710524469</guid>
     </item>
   </channel>
 </rss>
