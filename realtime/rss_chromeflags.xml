@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>facebookの勝手にスクロールをようやく止られました。Chromeだとアドレスバーに chrome :// flags と入力→下にある スムーズなスクロール (Smooth Scrolling) を探す→デフォルトから無効に変更→Chrome再起動 FB利用者減（個人の感想）はこれが原因の一つかも。私も最近FBにあまりアクセスせず</title>
+      <link>https://x.com/ootahara/status/2049344043633828122</link>
+      <description>ootahara: facebookの勝手にスクロールをようやく止られました。Chromeだとアドレスバーに chrome :// flags と入力→下にある スムーズなスクロール (Smooth Scrolling) を探す→デフォルトから無効に変更→Chrome再起動 FB利用者減（個人の感想）はこれが原因の一つかも。私も最近FBにあまりアクセスせず</description>
+      <pubDate>Wed, 29 Apr 2026 04:24:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ootahara/status/2049344043633828122</guid>
+    </item>
+    <item>
       <title>試す手順は3ステップだけ。Chrome Canaryをインストール→アドレスバーに「 chrome :// flags 」と入力→「Prompt API」を検索して有効化。その後`https://t.co/3bg3TaFu5M`オブジェクトが使えるかどうかをコンソールで確認すれば、環境が整ったかどうかが30秒で分かる。</title>
       <link>https://x.com/minervacosmetic/status/2048792997903671466</link>
       <description>テラ｜AIチーム経営×美容業界: 試す手順は3ステップだけ。Chrome Canaryをインストール→アドレスバーに「 chrome :// flags 」と入力→「Prompt API」を検索して有効化。その後`https://t.co/3bg3TaFu5M`オブジェクトが使えるかどうかをコンソールで確認すれば、環境が整ったかどうかが30秒で分かる。</description>
@@ -269,13 +276,6 @@
       <description>長井大輔 / DROBE COO: ついに公式から！ chrome :// flags /#vertical-tabs で on(enable) にすると使える https://t.co/q2LPv4cYjl</description>
       <pubDate>Wed, 08 Apr 2026 04:21:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/daisukenagai/status/2041733162355843371</guid>
-    </item>
-    <item>
-      <title>chrome :// flags / で変更された項目は内部的に起動オプションとして展開されて使われています。 chrome://version/ をみるとコマンドラインとして --flag-switches-begin と --flag-switches-end の間に現れますのでそれを起動オプションとして使っています（flagsは元に戻す）</title>
-      <link>https://x.com/PseudoTwDk/status/2041708419745509427</link>
-      <description>PseudoTwDk: chrome :// flags / で変更された項目は内部的に起動オプションとして展開されて使われています。 chrome://version/ をみるとコマンドラインとして --flag-switches-begin と --flag-switches-end の間に現れますのでそれを起動オプションとして使っています（flagsは元に戻す）</description>
-      <pubDate>Wed, 08 Apr 2026 02:43:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PseudoTwDk/status/2041708419745509427</guid>
     </item>
   </channel>
 </rss>

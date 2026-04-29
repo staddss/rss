@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>設定が全部完了した！ これでGitHub Codespaces の30分の時間制限も止め忘れも気にせずに使える！ わーい！</title>
+      <link>https://x.com/txt365/status/2049421704313884932</link>
+      <description>txt365.org: 設定が全部完了した！ これでGitHub Codespaces の30分の時間制限も止め忘れも気にせずに使える！ わーい！</description>
+      <pubDate>Wed, 29 Apr 2026 09:33:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/txt365/status/2049421704313884932</guid>
+    </item>
+    <item>
+      <title>今までDockerから逃げていて、GitHub Codespaces で開発してたけど、コスト削減のために重い腰を上げてDockerのセットアップをしている。 AIに教えてもらいつつ設定してるけど、これが自力だけでできちゃうエンジニアはやっぱりすごいな。尊敬です。 MacとWindowsで動くようにするのに四苦八苦。</title>
+      <link>https://x.com/txt365/status/2049411798496157808</link>
+      <description>txt365.org: 今までDockerから逃げていて、GitHub Codespaces で開発してたけど、コスト削減のために重い腰を上げてDockerのセットアップをしている。 AIに教えてもらいつつ設定してるけど、これが自力だけでできちゃうエンジニアはやっぱりすごいな。尊敬です。 MacとWindowsで動くようにするのに四苦八苦。</description>
+      <pubDate>Wed, 29 Apr 2026 08:53:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/txt365/status/2049411798496157808</guid>
+    </item>
+    <item>
+      <title>自分の Claude Code 環境を外出先でスマホから使うには Codespaces + Termux の構成が良い感じ。 https://t.co/skuLFJnFSh</title>
+      <link>https://x.com/kanagen_jp/status/2049273121686073378</link>
+      <description>かなげん: 自分の Claude Code 環境を外出先でスマホから使うには Codespaces + Termux の構成が良い感じ。 https://t.co/skuLFJnFSh</description>
+      <pubDate>Tue, 28 Apr 2026 23:42:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kanagen_jp/status/2049273121686073378</guid>
+    </item>
+    <item>
       <title>Githubの codespaces あまりにも便利すぎる これまで重い腰を上げきれなかったプログラムの改良が一瞬でサクサク進んでいくの気持ちがいい</title>
       <link>https://x.com/Ozakinico/status/2049194619838280039</link>
       <description>おざきにこ🎻🥌: Githubの codespaces あまりにも便利すぎる これまで重い腰を上げきれなかったプログラムの改良が一瞬でサクサク進んでいくの気持ちがいい</description>
@@ -255,27 +276,6 @@
       <description>こうき｜20代役員のAI活用: Cursorがリモート実行に対応した。スマホからエージェントを起動して、自宅のdevboxでコードを書かせられる。「それ、SSH + Codespaces で前からできるじゃん」と思うかもしれないけど、本質的に違う点がある。 https://t.co/OtxOIYw8jY</description>
       <pubDate>Thu, 09 Apr 2026 00:13:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kokiaioutput/status/2042033182556516729</guid>
-    </item>
-    <item>
-      <title>コーディングもペライチだけやし GitHubの Codespaces 使ってちゃっちゃとやれとは思うのよな 絶対すぐではないことって延び延びになるな…… 今は整骨院の待ち時間〜 https://t.co/df8WHeWvU6</title>
-      <link>https://x.com/lion_healthcare/status/2041694076744167815</link>
-      <description>Ellie-chi⚡Panther-Bolt: コーディングもペライチだけやし GitHubの Codespaces 使ってちゃっちゃとやれとは思うのよな 絶対すぐではないことって延び延びになるな…… 今は整骨院の待ち時間〜 https://t.co/df8WHeWvU6</description>
-      <pubDate>Wed, 08 Apr 2026 01:46:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lion_healthcare/status/2041694076744167815</guid>
-    </item>
-    <item>
-      <title>いま専門学校の授業を作ってて Gemini CLIを GitHub Codespaces で 個人Googleアカウントだけで完全クラウド完結の環境で試してみてる 想像以上に体験が良くってビックリ🐼！</title>
-      <link>https://x.com/hy_11/status/2041524250331480161</link>
-      <description>ヤスス(本田康志)🐼介護×ICT: いま専門学校の授業を作ってて Gemini CLIを GitHub Codespaces で 個人Googleアカウントだけで完全クラウド完結の環境で試してみてる 想像以上に体験が良くってビックリ🐼！</description>
-      <pubDate>Tue, 07 Apr 2026 14:31:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hy_11/status/2041524250331480161</guid>
-    </item>
-    <item>
-      <title>📢GitHub Codespaces がGitHub Enterprise Cloudデータレジデンシー対応で一般提供開始！ 安全で即時利用可能なクラウド開発環境を構築できます。 オーストラリア、EU、日本、米国で対応🎉 詳しくは👇 https://t.co/Npy14EMHs7</title>
-      <link>https://x.com/GitHubJapan/status/2041434665538781382</link>
-      <description>GitHub Japan: 📢GitHub Codespaces がGitHub Enterprise Cloudデータレジデンシー対応で一般提供開始！ 安全で即時利用可能なクラウド開発環境を構築できます。 オーストラリア、EU、日本、米国で対応🎉 詳しくは👇 https://t.co/Npy14EMHs7</description>
-      <pubDate>Tue, 07 Apr 2026 08:35:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GitHubJapan/status/2041434665538781382</guid>
     </item>
   </channel>
 </rss>

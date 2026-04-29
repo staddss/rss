@@ -207,12 +207,5 @@
       <pubDate>Wed, 01 Apr 2026 04:06:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OnslaughtktnP/status/2039192755981975969</guid>
     </item>
-    <item>
-      <title>@i_t_nyan 動作確認できましたー！ ZorinOS 18をインストールして端末からapt updateして最新化した後以下のコマンドで必要なinstallをしました。 # sudo apt install gnupg2 hwinfo libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera wireplumber v4l-utils</title>
-      <link>https://x.com/wainohito/status/2038554602325655709</link>
-      <description>わーいのひと(和合之人): @i_t_nyan 動作確認できましたー！ ZorinOS 18をインストールして端末からapt updateして最新化した後以下のコマンドで必要なinstallをしました。 # sudo apt install gnupg2 hwinfo libcamera-tools libcamera-ipa gstreamer1.0-libcamera pipewire -libcamera libspa-0.2-libcamera wireplumber v4l-utils</description>
-      <pubDate>Mon, 30 Mar 2026 09:51:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wainohito/status/2038554602325655709</guid>
-    </item>
   </channel>
 </rss>
