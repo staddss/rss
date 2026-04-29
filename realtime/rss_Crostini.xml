@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOSのLinux環境が進化するらしい 環境が Crostini からBaguetteに変更されてコンテナ使用の仕組みからゲスト上で直接実行するコンテナレスになる ChromeOSでLinuxを使うと安定性がもう一歩だったので改善を期待できそう とはいえWindowsでWSLを使うより10倍は良いけどね https://t.co/VVHAG0vXJW</title>
+      <link>https://x.com/IT30004047/status/2049250853908074733</link>
+      <description>お気楽IT: ChromeOSのLinux環境が進化するらしい 環境が Crostini からBaguetteに変更されてコンテナ使用の仕組みからゲスト上で直接実行するコンテナレスになる ChromeOSでLinuxを使うと安定性がもう一歩だったので改善を期待できそう とはいえWindowsでWSLを使うより10倍は良いけどね https://t.co/VVHAG0vXJW</description>
+      <pubDate>Tue, 28 Apr 2026 22:14:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/IT30004047/status/2049250853908074733</guid>
+    </item>
+    <item>
       <title>サーバレスな Cloud Run Instances よさげ。ChromeOS の Crostini の代替や組み合わせにも。検証環境としてももってこい。 #GoogleCloudNext ❏【Google Cloud Next ’26】Cloud Run Instancesが登場！AIエージェントを長期稼働させる新リソース | https://t.co/i5CnkpVBQK https://t.co/LP8mKZ2rQV</title>
       <link>https://x.com/masaosaito/status/2049179675323253153</link>
       <description>まさお: サーバレスな Cloud Run Instances よさげ。ChromeOS の Crostini の代替や組み合わせにも。検証環境としてももってこい。 #GoogleCloudNext ❏【Google Cloud Next ’26】Cloud Run Instancesが登場！AIエージェントを長期稼働させる新リソース | https://t.co/i5CnkpVBQK https://t.co/LP8mKZ2rQV</description>
       <pubDate>Tue, 28 Apr 2026 17:31:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/masaosaito/status/2049179675323253153</guid>
+    </item>
+    <item>
+      <title>chromeOSの標準コンテナ機能「 crostini 」に近いのかな？と勝手に思っている。 macOSのネイティブ仮想技術を利用しLinuxコンテナを作成/実行できるAppleのコマンドラインツールcontainerをGUIで実行できるMacアプリ「Orchard」がAppleの公証を取得。 | AAPL Ch. https://t.co/xmSLuB2fnh</title>
+      <link>https://x.com/teteten/status/2049108949438464074</link>
+      <description>【bot】てててｎ ™: chromeOSの標準コンテナ機能「 crostini 」に近いのかな？と勝手に思っている。 macOSのネイティブ仮想技術を利用しLinuxコンテナを作成/実行できるAppleのコマンドラインツールcontainerをGUIで実行できるMacアプリ「Orchard」がAppleの公証を取得。 | AAPL Ch. https://t.co/xmSLuB2fnh</description>
+      <pubDate>Tue, 28 Apr 2026 12:50:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teteten/status/2049108949438464074</guid>
     </item>
     <item>
       <title>ZorinOSとDebian on ChromeOS( crostini )を使ってます。 https://t.co/PiHufbPbkt</title>
