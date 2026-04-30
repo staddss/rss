@@ -12,13 +12,6 @@
       <guid isPermaLink="true">https://x.com/Sck_Day/status/2049534294276845708</guid>
     </item>
     <item>
-      <title>それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</title>
-      <link>https://x.com/kalaming3104/status/2049515503715270757</link>
-      <description>カムチョ: それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</description>
-      <pubDate>Wed, 29 Apr 2026 15:45:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kalaming3104/status/2049515503715270757</guid>
-    </item>
-    <item>
       <title>GitHubはジョブ実行基盤としてのActionsと開発環境としての Codespaces がメインの価値だと思っていて、これをOSSでやろうとするとそこそこ大変なんだよなあ 世の中便利なものはあるので作れはするけど、開発者体験とセキュリティのバランスとりつつ運用し続けるのは相当覚悟がいる</title>
       <link>https://x.com/mo124121/status/2049452357550018862</link>
       <description>藻: GitHubはジョブ実行基盤としてのActionsと開発環境としての Codespaces がメインの価値だと思っていて、これをOSSでやろうとするとそこそこ大変なんだよなあ 世の中便利なものはあるので作れはするけど、開発者体験とセキュリティのバランスとりつつ運用し続けるのは相当覚悟がいる</description>
@@ -45,6 +38,13 @@
       <description>txt365.org: 今までDockerから逃げていて、GitHub Codespaces で開発してたけど、コスト削減のために重い腰を上げてDockerのセットアップをしている。 AIに教えてもらいつつ設定してるけど、これが自力だけでできちゃうエンジニアはやっぱりすごいな。尊敬です。 MacとWindowsで動くようにするのに四苦八苦。</description>
       <pubDate>Wed, 29 Apr 2026 08:53:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/txt365/status/2049411798496157808</guid>
+    </item>
+    <item>
+      <title>github studentアカウントを取って、https://t.co/V5pFFYG145 + github copilot + github codespaces 使えたらかなり良さげだけど学生アカウント対象が13歳以上だった。 早生まれって成長うんぬんよりこういうとこでツラい。 https://t.co/CQwTiUg8Nt</title>
+      <link>https://x.com/AirpocketRobot/status/2049394444705935461</link>
+      <description>airpocket: github studentアカウントを取って、https://t.co/V5pFFYG145 + github copilot + github codespaces 使えたらかなり良さげだけど学生アカウント対象が13歳以上だった。 早生まれって成長うんぬんよりこういうとこでツラい。 https://t.co/CQwTiUg8Nt</description>
+      <pubDate>Wed, 29 Apr 2026 07:44:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AirpocketRobot/status/2049394444705935461</guid>
     </item>
     <item>
       <title>自分の Claude Code 環境を外出先でスマホから使うには Codespaces + Termux の構成が良い感じ。 https://t.co/skuLFJnFSh</title>

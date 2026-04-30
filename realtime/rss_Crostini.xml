@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ようやく fontconfig で初期フォントを設定するようにした。それから今のところ Baguette ではホスト (ChromeOS) のフォントディレクトリを見に行かないようなので fontconfig で設定してみた。ln コマンドでリンクを貼るほうが→ 私家版 Crostini 手動初期設定手順書 https://t.co/kb6pKf5wuS</title>
+      <link>https://x.com/ttatsuoki/status/2049494606010806550</link>
+      <description>龍興 尚幸 (TATSUOKI Takayuki): ようやく fontconfig で初期フォントを設定するようにした。それから今のところ Baguette ではホスト (ChromeOS) のフォントディレクトリを見に行かないようなので fontconfig で設定してみた。ln コマンドでリンクを貼るほうが→ 私家版 Crostini 手動初期設定手順書 https://t.co/kb6pKf5wuS</description>
+      <pubDate>Wed, 29 Apr 2026 14:22:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2049494606010806550</guid>
+    </item>
+    <item>
       <title>cros-guest-toolsっていうの知らなかった “Trixie issues. : r/ Crostini ” https://t.co/F3Bz8nh7kH https://t.co/11iEbZTlNP</title>
       <link>https://x.com/llama17/status/2049354345590972853</link>
       <description>らま: cros-guest-toolsっていうの知らなかった “Trixie issues. : r/ Crostini ” https://t.co/F3Bz8nh7kH https://t.co/11iEbZTlNP</description>
