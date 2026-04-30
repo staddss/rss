@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</title>
-      <link>https://x.com/AIfukugyoulog/status/2049472478259691608</link>
-      <description>AI副業検証ログ: obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</description>
-      <pubDate>Wed, 29 Apr 2026 12:54:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AIfukugyoulog/status/2049472478259691608</guid>
+      <title>収集用/作業用/事務用のための仮想マシンを複数パソコンにまたがって作成して、共有するファイルがここにはない、みたいな収集つかなくなってたので調べたら Syncthing が良かった。これはクラウドストレージでなくてPC間で同期する。ファイルの場所は元のままでいいのが便利 https://t.co/rwbi3IFsSM</title>
+      <link>https://x.com/cheenanet/status/2049231996975743306</link>
+      <description>Cheena: 収集用/作業用/事務用のための仮想マシンを複数パソコンにまたがって作成して、共有するファイルがここにはない、みたいな収集つかなくなってたので調べたら Syncthing が良かった。これはクラウドストレージでなくてPC間で同期する。ファイルの場所は元のままでいいのが便利 https://t.co/rwbi3IFsSM</description>
+      <pubDate>Tue, 28 Apr 2026 20:59:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cheenanet/status/2049231996975743306</guid>
     </item>
     <item>
       <title>ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</title>

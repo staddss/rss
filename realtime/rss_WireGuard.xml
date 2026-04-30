@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@geckorex_smoke @asuhareya WireGuard とはTailScaleとか、UDPポート１つで開通するようなのが嬉しいんですよね。</title>
+      <link>https://x.com/tryandhappy99/status/2049731769986056538</link>
+      <description>てる: @geckorex_smoke @asuhareya WireGuard とはTailScaleとか、UDPポート１つで開通するようなのが嬉しいんですよね。</description>
+      <pubDate>Thu, 30 Apr 2026 06:05:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tryandhappy99/status/2049731769986056538</guid>
+    </item>
+    <item>
+      <title>Wireguard 。これだけでVPNが張れるのだからいい時代である。 #さっき閉局しました https://t.co/BgLaLQaONu</title>
+      <link>https://x.com/moguno/status/2049670479016079564</link>
+      <description>もぐの: Wireguard 。これだけでVPNが張れるのだからいい時代である。 #さっき閉局しました https://t.co/BgLaLQaONu</description>
+      <pubDate>Thu, 30 Apr 2026 02:01:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2049670479016079564</guid>
+    </item>
+    <item>
+      <title>@jolestar 我是用 wireguard 自己搞的</title>
+      <link>https://x.com/m3dusa21/status/2049632709383974943</link>
+      <description>美杜萨M3dusa: @jolestar 我是用 wireguard 自己搞的</description>
+      <pubDate>Wed, 29 Apr 2026 23:31:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m3dusa21/status/2049632709383974943</guid>
+    </item>
+    <item>
       <title>エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</title>
       <link>https://x.com/SogoogleK51859/status/2049495929309560900</link>
       <description>nico: エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</description>
@@ -255,27 +276,6 @@
       <description>24Wireless: TP-Link、5Gモバイルルーター「M8550」を国内で発売 Wi-Fi 6E/GbE/ WireGuard 対応で約6万円 https://t.co/OYd4sw8ev6</description>
       <pubDate>Thu, 23 Apr 2026 11:25:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/24wireless_tw/status/2047275769857216875</guid>
-    </item>
-    <item>
-      <title>OpenVPNでいうところのvpnuxみたいな WireGuard の互換クライアントが出てくれないかな ガワをラッピングしてくれるだけでいいから 共有鍵とか丸出しのUIはちょっと企業導入に勧めにくいんすよね</title>
-      <link>https://x.com/shibukawa_pc/status/2047266856432726460</link>
-      <description>渋川パソコンサポート: OpenVPNでいうところのvpnuxみたいな WireGuard の互換クライアントが出てくれないかな ガワをラッピングしてくれるだけでいいから 共有鍵とか丸出しのUIはちょっと企業導入に勧めにくいんすよね</description>
-      <pubDate>Thu, 23 Apr 2026 10:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2047266856432726460</guid>
-    </item>
-    <item>
-      <title>WireGuard 、普通に速いなーという感じ SE-VPNだと15Mbpsで頭打ちだったし https://t.co/FNxt8dUz6l</title>
-      <link>https://x.com/SomeDen_JOTX/status/2047221377116352651</link>
-      <description>そむでん: WireGuard 、普通に速いなーという感じ SE-VPNだと15Mbpsで頭打ちだったし https://t.co/FNxt8dUz6l</description>
-      <pubDate>Thu, 23 Apr 2026 07:49:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SomeDen_JOTX/status/2047221377116352651</guid>
-    </item>
-    <item>
-      <title>めんどいのでとりあえず WireGuard でいいやの気持ちに ポート指定できるからMAP-Eで配られたとこを開けりゃいい話だし</title>
-      <link>https://x.com/SomeDen_JOTX/status/2047010506658238627</link>
-      <description>そむでん: めんどいのでとりあえず WireGuard でいいやの気持ちに ポート指定できるからMAP-Eで配られたとこを開けりゃいい話だし</description>
-      <pubDate>Wed, 22 Apr 2026 17:51:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SomeDen_JOTX/status/2047010506658238627</guid>
     </item>
   </channel>
 </rss>

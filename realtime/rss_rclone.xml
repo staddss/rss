@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscale+WebDAVで rclone でマウントすると、Sambaだと1MB/sくらいだったのが10MB/sくらいでて嬉しいな 最初の方は30MB/sくらい出たんだけど、なんか変だ</title>
+      <link>https://x.com/GeniusJunP/status/2049531963426615324</link>
+      <description>じゅんぴー: Tailscale+WebDAVで rclone でマウントすると、Sambaだと1MB/sくらいだったのが10MB/sくらいでて嬉しいな 最初の方は30MB/sくらい出たんだけど、なんか変だ</description>
+      <pubDate>Wed, 29 Apr 2026 16:51:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GeniusJunP/status/2049531963426615324</guid>
+    </item>
+    <item>
       <title>claude codeのMCPでgoogle driveに接続できると聞きました。 MCPでの接続とlinux mint rclone でのGoogle Driveへの接続では速度や自由度、何が違うのか、どうメリットがあるのか簡潔に対比表などで教えて by ChatGPT https://t.co/3mopNh85r7</title>
       <link>https://x.com/AnalyseTf/status/2048934592770703821</link>
       <description>tf: claude codeのMCPでgoogle driveに接続できると聞きました。 MCPでの接続とlinux mint rclone でのGoogle Driveへの接続では速度や自由度、何が違うのか、どうメリットがあるのか簡潔に対比表などで教えて by ChatGPT https://t.co/3mopNh85r7</description>
@@ -269,13 +276,6 @@
       <description>Yoshihiro OKUMURA: minio が逝ったので rustfs を試してるのだけど rclone sync したら rustfs 側でブラウザから見るバケット内のオブジェクト数が違うのはなぜだろう。 rclone size でみるとあってるっぽい。謎。</description>
       <pubDate>Wed, 01 Apr 2026 02:45:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/orrisroot/status/2039172294623604845</guid>
-    </item>
-    <item>
-      <title>rclone でいいかなってなってしまう（？） https://t.co/51rbO2lEWd</title>
-      <link>https://x.com/GeniusJunP/status/2039155840113086849</link>
-      <description>じゅんぴー: rclone でいいかなってなってしまう（？） https://t.co/51rbO2lEWd</description>
-      <pubDate>Wed, 01 Apr 2026 01:40:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GeniusJunP/status/2039155840113086849</guid>
     </item>
   </channel>
 </rss>
