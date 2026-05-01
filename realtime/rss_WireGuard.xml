@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@nekoruri もしかしたら wireguard , tailscale などが巻き添えになるかもしれない？ まあ、さっさと再起動できるならアップデートしたほうがいいですね</title>
+      <link>https://x.com/hasegaw/status/2050165590669873343</link>
+      <description>もつなべおじさん: @nekoruri もしかしたら wireguard , tailscale などが巻き添えになるかもしれない？ まあ、さっさと再起動できるならアップデートしたほうがいいですね</description>
+      <pubDate>Fri, 01 May 2026 10:49:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hasegaw/status/2050165590669873343</guid>
+    </item>
+    <item>
+      <title>モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにVPN先から行くのはダメということなんだろうか。VPN先への送信はokみたいなんだが。</title>
+      <link>https://x.com/_takeuchi__/status/2050160129363116408</link>
+      <description>takeuchi: モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにVPN先から行くのはダメということなんだろうか。VPN先への送信はokみたいなんだが。</description>
+      <pubDate>Fri, 01 May 2026 10:27:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2050160129363116408</guid>
+    </item>
+    <item>
       <title>モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにポート転送すればPLCとかもVPNに入れるのかと思ったらダメなのか。</title>
       <link>https://x.com/_takeuchi__/status/2050077750304841811</link>
       <description>takeuchi: モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにポート転送すればPLCとかもVPNに入れるのかと思ったらダメなのか。</description>
@@ -262,20 +276,6 @@
       <description>渋川パソコンサポート: 回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</description>
       <pubDate>Fri, 24 Apr 2026 15:31:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2047699964059619484</guid>
-    </item>
-    <item>
-      <title>veracryptや wireguard などカーネルモードで動くプロダクトのアカウントが今月凍結騒ぎ起こってたが解消したらしい？が、もしかしてshadow stack対応を放置してたからとかじゃないよな……？</title>
-      <link>https://x.com/m_akihiro/status/2047490385271005242</link>
-      <description>まきひろ: veracryptや wireguard などカーネルモードで動くプロダクトのアカウントが今月凍結騒ぎ起こってたが解消したらしい？が、もしかしてshadow stack対応を放置してたからとかじゃないよな……？</description>
-      <pubDate>Fri, 24 Apr 2026 01:38:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_akihiro/status/2047490385271005242</guid>
-    </item>
-    <item>
-      <title>Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/RpOKZ0GcS3 @YouTubeより</title>
-      <link>https://x.com/decky_vrc/status/2047463694792282302</link>
-      <description>DECKY＠「VRChatの世界」(個人): Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/RpOKZ0GcS3 @YouTubeより</description>
-      <pubDate>Thu, 23 Apr 2026 23:52:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/decky_vrc/status/2047463694792282302</guid>
     </item>
   </channel>
 </rss>

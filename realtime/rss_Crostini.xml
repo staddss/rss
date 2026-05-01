@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOSのLinux環境が147から変わる。 lxcの crostini からcgroup v2に移行。 早速やってみたよ。 なんか心なしキビキビしてる気がするぞ。 細かいところは触ってみてかな。 https://t.co/hEWtVltyT4</title>
+      <link>https://x.com/papalagiorg/status/2049761776192066025</link>
+      <description>papalagi.org: ChromeOSのLinux環境が147から変わる。 lxcの crostini からcgroup v2に移行。 早速やってみたよ。 なんか心なしキビキビしてる気がするぞ。 細かいところは触ってみてかな。 https://t.co/hEWtVltyT4</description>
+      <pubDate>Thu, 30 Apr 2026 08:04:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/papalagiorg/status/2049761776192066025</guid>
+    </item>
+    <item>
       <title>ようやく fontconfig で初期フォントを設定するようにした。それから今のところ Baguette ではホスト (ChromeOS) のフォントディレクトリを見に行かないようなので fontconfig で設定してみた。ln コマンドでリンクを貼るほうが→ 私家版 Crostini 手動初期設定手順書 https://t.co/kb6pKf5wuS</title>
       <link>https://x.com/ttatsuoki/status/2049494606010806550</link>
       <description>龍興 尚幸 (TATSUOKI Takayuki): ようやく fontconfig で初期フォントを設定するようにした。それから今のところ Baguette ではホスト (ChromeOS) のフォントディレクトリを見に行かないようなので fontconfig で設定してみた。ln コマンドでリンクを貼るほうが→ 私家版 Crostini 手動初期設定手順書 https://t.co/kb6pKf5wuS</description>

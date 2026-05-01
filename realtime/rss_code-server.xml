@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/doseisan_ons/status/2049992266509660173</guid>
     </item>
     <item>
+      <title>code - server リポジトリ https://t.co/UKNnBnPsyB #kanjava</title>
+      <link>https://x.com/takesection/status/2049810401962152367</link>
+      <description>Shigeki Shoji: code - server リポジトリ https://t.co/UKNnBnPsyB #kanjava</description>
+      <pubDate>Thu, 30 Apr 2026 11:17:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takesection/status/2049810401962152367</guid>
+    </item>
+    <item>
       <title>Code Server とかでモバイルから開発してる人どれくらいいるんだろう</title>
       <link>https://x.com/tech_tsunacan/status/2048280996009959783</link>
       <description>Pythonを学び始めたヴォルデモート卿🧬: Code Server とかでモバイルから開発してる人どれくらいいるんだろう</description>
@@ -143,13 +150,6 @@
       <description>マッシュルーム: code - server だとdevcontainer出来ないが、Remote-SSHならdevcontainerできるのか</description>
       <pubDate>Thu, 02 Apr 2026 19:29:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mushroom080/status/2039787218232099171</guid>
-    </item>
-    <item>
-      <title>caddy挟んでSSLでも code server のブラウザ部分でアウト、結局github code spacesにpyxel拡張入れて試すのが無難だった。 特に何か作るわけじゃないけどログインできればどこからでも再開できるって点は理想形か</title>
-      <link>https://x.com/rinedon/status/2039251378493899163</link>
-      <description>りね: caddy挟んでSSLでも code server のブラウザ部分でアウト、結局github code spacesにpyxel拡張入れて試すのが無難だった。 特に何か作るわけじゃないけどログインできればどこからでも再開できるって点は理想形か</description>
-      <pubDate>Wed, 01 Apr 2026 07:59:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rinedon/status/2039251378493899163</guid>
     </item>
   </channel>
 </rss>
