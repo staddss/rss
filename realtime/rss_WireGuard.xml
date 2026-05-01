@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AIエージェントがログを解析して1時間毎のクラッシュパターンを瞬時に発見したというのは、従来の手動デバッグとの差を感じますね。 WireGuard の並行性バグとMTU不一致という2層の問題が連鎖していて、分散システムの複雑さを改めて実感します。 AIエージェントがKubernetesの隠れた障害を発見 — https://t.co/p1YzKq3um8</title>
+      <link>https://x.com/techfeedapp/status/2050319314092229054</link>
+      <description>TechFeed公式: AIエージェントがログを解析して1時間毎のクラッシュパターンを瞬時に発見したというのは、従来の手動デバッグとの差を感じますね。 WireGuard の並行性バグとMTU不一致という2層の問題が連鎖していて、分散システムの複雑さを改めて実感します。 AIエージェントがKubernetesの隠れた障害を発見 — https://t.co/p1YzKq3um8</description>
+      <pubDate>Fri, 01 May 2026 20:59:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techfeedapp/status/2050319314092229054</guid>
+    </item>
+    <item>
+      <title>まぁよく分かってねぇのはRTX1210とかだとIPv6のFW状態やらせるときにWAN側にONUから降ってきてる/64の範囲でお尻の64bit好きなアドレスつけた状態で、LAN側にRAとか出来てばらまけるんだが、OpenSenseだとそれがよくわからん。 wireguard とかで諸々固定でIPv6アドレス設定しておきたいんだが</title>
+      <link>https://x.com/Ckurai/status/2050250832395014387</link>
+      <description>倉井: まぁよく分かってねぇのはRTX1210とかだとIPv6のFW状態やらせるときにWAN側にONUから降ってきてる/64の範囲でお尻の64bit好きなアドレスつけた状態で、LAN側にRAとか出来てばらまけるんだが、OpenSenseだとそれがよくわからん。 wireguard とかで諸々固定でIPv6アドレス設定しておきたいんだが</description>
+      <pubDate>Fri, 01 May 2026 16:27:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2050250832395014387</guid>
+    </item>
+    <item>
+      <title>最終的にはAWSの wireguard なサーバーを中央として拠点Aのopensenseと拠点BのopensenseからIPv6で拠点間VPNしたいところ、まだ検証が終わった程度なのでさてこれからどうしてやろうかな</title>
+      <link>https://x.com/Ckurai/status/2050247893026742516</link>
+      <description>倉井: 最終的にはAWSの wireguard なサーバーを中央として拠点Aのopensenseと拠点BのopensenseからIPv6で拠点間VPNしたいところ、まだ検証が終わった程度なのでさてこれからどうしてやろうかな</description>
+      <pubDate>Fri, 01 May 2026 16:16:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2050247893026742516</guid>
+    </item>
+    <item>
+      <title>ようやく手元の「OpenSenseの Wireguard 」と「awsのubuntu で wireguard 」してるもんが拠点間VPNはれったぽいと思う</title>
+      <link>https://x.com/Ckurai/status/2050247483453051271</link>
+      <description>倉井: ようやく手元の「OpenSenseの Wireguard 」と「awsのubuntu で wireguard 」してるもんが拠点間VPNはれったぽいと思う</description>
+      <pubDate>Fri, 01 May 2026 16:14:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2050247483453051271</guid>
+    </item>
+    <item>
+      <title>WireGuard からTailScaleに切り替えた。 楽ちん過ぎるだろこれ✨ https://t.co/OsK3dJYuT4</title>
+      <link>https://x.com/code_bond_agent/status/2050237316745368019</link>
+      <description>Code Bond（Claude Code専門AIエージェント構築）: WireGuard からTailScaleに切り替えた。 楽ちん過ぎるだろこれ✨ https://t.co/OsK3dJYuT4</description>
+      <pubDate>Fri, 01 May 2026 15:34:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/code_bond_agent/status/2050237316745368019</guid>
+    </item>
+    <item>
+      <title>WireGuard が使えなくなってしまったけど仕方ない。</title>
+      <link>https://x.com/7shisandesu/status/2050188831153094741</link>
+      <description>7shi: WireGuard が使えなくなってしまったけど仕方ない。</description>
+      <pubDate>Fri, 01 May 2026 12:21:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7shisandesu/status/2050188831153094741</guid>
+    </item>
+    <item>
       <title>@nekoruri もしかしたら wireguard , tailscale などが巻き添えになるかもしれない？ まあ、さっさと再起動できるならアップデートしたほうがいいですね</title>
       <link>https://x.com/hasegaw/status/2050165590669873343</link>
       <description>もつなべおじさん: @nekoruri もしかしたら wireguard , tailscale などが巻き添えになるかもしれない？ まあ、さっさと再起動できるならアップデートしたほうがいいですね</description>
@@ -234,48 +276,6 @@
       <description>aki: やっとVPNできたーーーーー でも Wireguard だから別サーバーでCAサーバー組もうと思って買ったミニPCが無駄になった・・・</description>
       <pubDate>Sat, 25 Apr 2026 16:44:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aki_star02/status/2048080824378208311</guid>
-    </item>
-    <item>
-      <title>高価で遅い専用コントローラがなくても、Linux箱などに収容できて、VPNで有線部分を保護できます。OpenRoaming / Cityroamの展開でほしい機能なので、他社もオープンなVPNをサポートしてほしいです。 (国内メーカーさんは？) Edgecore EAP111の WireGuard VPN機能を試す https://t.co/Z0YliBIL0B</title>
-      <link>https://x.com/hgot07/status/2048013800243433866</link>
-      <description>Hideaki_npc: 高価で遅い専用コントローラがなくても、Linux箱などに収容できて、VPNで有線部分を保護できます。OpenRoaming / Cityroamの展開でほしい機能なので、他社もオープンなVPNをサポートしてほしいです。 (国内メーカーさんは？) Edgecore EAP111の WireGuard VPN機能を試す https://t.co/Z0YliBIL0B</description>
-      <pubDate>Sat, 25 Apr 2026 12:18:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hgot07/status/2048013800243433866</guid>
-    </item>
-    <item>
-      <title>さくらVPSに wireguard サーバーの設置と、複数台のwindowsクライアントとの接続成功。結構苦戦。それでも wireguard は楽な方らしいけど。次の目標はGL-iNetの端末をクライアントとして繋いで、それに繋いだ機器が無設定で繋げられるか？かな。</title>
-      <link>https://x.com/_takeuchi__/status/2047979070416368032</link>
-      <description>takeuchi: さくらVPSに wireguard サーバーの設置と、複数台のwindowsクライアントとの接続成功。結構苦戦。それでも wireguard は楽な方らしいけど。次の目標はGL-iNetの端末をクライアントとして繋いで、それに繋いだ機器が無設定で繋げられるか？かな。</description>
-      <pubDate>Sat, 25 Apr 2026 10:00:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2047979070416368032</guid>
-    </item>
-    <item>
-      <title>おし。 /etc/ wireguard /wg0.confを書かず、systemctlも使わずに Wireguard 疎通に成功。 Oracle Linux【NetworkManager】 OpenWRT【luci-proto- wireguard 】 --- ちなみにUbuntuのnetplanでも上記の条件で wireguard 接続が可能。</title>
-      <link>https://x.com/moguno/status/2047832867192046027</link>
-      <description>もぐの: おし。 /etc/ wireguard /wg0.confを書かず、systemctlも使わずに Wireguard 疎通に成功。 Oracle Linux【NetworkManager】 OpenWRT【luci-proto- wireguard 】 --- ちなみにUbuntuのnetplanでも上記の条件で wireguard 接続が可能。</description>
-      <pubDate>Sat, 25 Apr 2026 00:19:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2047832867192046027</guid>
-    </item>
-    <item>
-      <title>[ Azure Update ] [公開] 一般提供: Azure Kubernetes Service (AKS) 向け WireGuard による転送中の暗号化 ------------ WireGuard によるAKSノード間の透過暗号化が一般提供開始 https://t.co/zljr6auL0W</title>
-      <link>https://x.com/jkudo/status/2047756167854666228</link>
-      <description>Jun Kudo: [ Azure Update ] [公開] 一般提供: Azure Kubernetes Service (AKS) 向け WireGuard による転送中の暗号化 ------------ WireGuard によるAKSノード間の透過暗号化が一般提供開始 https://t.co/zljr6auL0W</description>
-      <pubDate>Fri, 24 Apr 2026 19:14:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jkudo/status/2047756167854666228</guid>
-    </item>
-    <item>
-      <title>Tailscaleとは？ WireGuard ベースの次世代メッシュVPNの仕組み、セキュリティ、活用法を徹底解説｜エイじー @eiji04875825 https://t.co/a4X9TGWqKS</title>
-      <link>https://x.com/eiji04875825/status/2047747077535658242</link>
-      <description>エイじー: Tailscaleとは？ WireGuard ベースの次世代メッシュVPNの仕組み、セキュリティ、活用法を徹底解説｜エイじー @eiji04875825 https://t.co/a4X9TGWqKS</description>
-      <pubDate>Fri, 24 Apr 2026 18:38:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/eiji04875825/status/2047747077535658242</guid>
-    </item>
-    <item>
-      <title>回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</title>
-      <link>https://x.com/shibukawa_pc/status/2047699964059619484</link>
-      <description>渋川パソコンサポート: 回線に合わせて最適なMTU/MSS値を算出してくれるツールがあると便利だなと思ったのですが、無いようだったのでCodex+ChatGPT5.5で作成中です VPNにも対応させているので WireGuard やTailscaleクライントの最適値も算出できるようになるはずです https://t.co/VtvOkQoyjt</description>
-      <pubDate>Fri, 24 Apr 2026 15:31:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2047699964059619484</guid>
     </item>
   </channel>
 </rss>

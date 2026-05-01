@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ArchLinux 2026.05.01続き Proxmoxで ArchLinux 2026.05.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで ま、OKか〜😅 https://t.co/5lsejKzOiZ</title>
+      <link>https://x.com/markun8633/status/2050207465774743663</link>
+      <description>まーくん: ArchLinux 2026.05.01続き Proxmoxで ArchLinux 2026.05.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで ま、OKか〜😅 https://t.co/5lsejKzOiZ</description>
+      <pubDate>Fri, 01 May 2026 13:35:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun8633/status/2050207465774743663</guid>
+    </item>
+    <item>
       <title>Linux環境でマイクと別の音声混ぜる設定が組めたのでイントロクイズとかDJもどきとかができるようになった 設定ファイルいじらないといけないけど、慣れれば無限に仮想音声デバイスを召喚できるからWindowsより自由だ pipewire を再起動すると裏で起動してたVRCが落ちたから一応注意</title>
       <link>https://x.com/camegone/status/2049751436645527985</link>
       <description>かめごん: Linux環境でマイクと別の音声混ぜる設定が組めたのでイントロクイズとかDJもどきとかができるようになった 設定ファイルいじらないといけないけど、慣れれば無限に仮想音声デバイスを召喚できるからWindowsより自由だ pipewire を再起動すると裏で起動してたVRCが落ちたから一応注意</description>
@@ -17,6 +24,13 @@
       <description>アガベ晋三: linemoデータ余ってるからpi用ubuntu2604落としてるけど、さて、使うのかどうかわかんないなぁ・・chuckやスパコと pipewire との相性あたりを調べるかね。純正piosで十分なんだよなw</description>
       <pubDate>Thu, 30 Apr 2026 01:39:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/i0akaten/status/2049664821331980293</guid>
+    </item>
+    <item>
+      <title>最近のLinux、 Pipewire が入っててスマホとBluetooth接続するだけでスマホの音声をパソコンで聞けるのめっちゃ便利</title>
+      <link>https://x.com/camegone/status/2049458684179460224</link>
+      <description>かめごん: 最近のLinux、 Pipewire が入っててスマホとBluetooth接続するだけでスマホの音声をパソコンで聞けるのめっちゃ便利</description>
+      <pubDate>Wed, 29 Apr 2026 12:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/camegone/status/2049458684179460224</guid>
     </item>
     <item>
       <title>pipewire あっけなくspdif https://t.co/sgUqghiB1L</title>
@@ -213,13 +227,6 @@
       <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: mpv pipewire で48kHzのときのほうが音すっきりしてたかもw ？？？ Topping D10 Balanced https://t.co/mRIoOzLVFB</description>
       <pubDate>Thu, 02 Apr 2026 23:00:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gardenpapa/status/2039840400073212048</guid>
-    </item>
-    <item>
-      <title>ArchLinux 2026.04.01続き Proxmoxで ArchLinux 2026.04.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2,3、Hyprland*3,4 ⭕️*5 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 解像度変更? *2 pipewire *3 縮小表示 *4 hyprland.conf変更 us→jp --skip-version-checkで(*5) OKか〜😅 https://t.co/CDNYO0nHT2</title>
-      <link>https://x.com/markun8633/status/2039429527420694955</link>
-      <description>まーくん: ArchLinux 2026.04.01続き Proxmoxで ArchLinux 2026.04.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2,3、Hyprland*3,4 ⭕️*5 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 解像度変更? *2 pipewire *3 縮小表示 *4 hyprland.conf変更 us→jp --skip-version-checkで(*5) OKか〜😅 https://t.co/CDNYO0nHT2</description>
-      <pubDate>Wed, 01 Apr 2026 19:47:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/markun8633/status/2039429527420694955</guid>
     </item>
   </channel>
 </rss>
