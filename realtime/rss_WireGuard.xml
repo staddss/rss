@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにポート転送すればPLCとかもVPNに入れるのかと思ったらダメなのか。</title>
+      <link>https://x.com/_takeuchi__/status/2050077750304841811</link>
+      <description>takeuchi: モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにポート転送すればPLCとかもVPNに入れるのかと思ったらダメなのか。</description>
+      <pubDate>Fri, 01 May 2026 04:59:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2050077750304841811</guid>
+    </item>
+    <item>
+      <title>VPSとsite2site接続するの wireguard 入れたら十分なんでは</title>
+      <link>https://x.com/sakuacid/status/2050051912385671643</link>
+      <description>さく: VPSとsite2site接続するの wireguard 入れたら十分なんでは</description>
+      <pubDate>Fri, 01 May 2026 03:17:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2050051912385671643</guid>
+    </item>
+    <item>
       <title>Wireguard 設定簡単でアプリも欲しい機能があるのは良いけどクライアントのトンネルの割り当てIPを自動で払い出ししてくれないから管理しないと駄目なのめんどくさいな</title>
       <link>https://x.com/yukps/status/2049841685686022612</link>
       <description>昇天した干し梅: Wireguard 設定簡単でアプリも欲しい機能があるのは良いけどクライアントのトンネルの割り当てIPを自動で払い出ししてくれないから管理しないと駄目なのめんどくさいな</description>
@@ -262,20 +276,6 @@
       <description>DECKY＠「VRChatの世界」(個人): Microsoftが暗号化ソフト開発者を予告なく追放、理由は誰も知らない /VeraCrypt・ WireGuard ・署名失効・ボット応答・サポート不在 https://t.co/RpOKZ0GcS3 @YouTubeより</description>
       <pubDate>Thu, 23 Apr 2026 23:52:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/decky_vrc/status/2047463694792282302</guid>
-    </item>
-    <item>
-      <title>【Amazon】＜口コミ件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗂️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター 【PR】 https://t.co/3VzciwsTQC</title>
-      <link>https://x.com/8zonsma05/status/2047456483462308020</link>
-      <description>トラックボールやスキンシールの注目アイテム紹介: 【Amazon】＜口コミ件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗂️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター 【PR】 https://t.co/3VzciwsTQC</description>
-      <pubDate>Thu, 23 Apr 2026 23:24:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8zonsma05/status/2047456483462308020</guid>
-    </item>
-    <item>
-      <title>VPNルータ全部消し飛ばして Wireguard になった（ Wireguard 喋れるトラベルOpenwrtルータは除く）。</title>
-      <link>https://x.com/shigure_alicey/status/2047370495046357400</link>
-      <description>アリシィ: VPNルータ全部消し飛ばして Wireguard になった（ Wireguard 喋れるトラベルOpenwrtルータは除く）。</description>
-      <pubDate>Thu, 23 Apr 2026 17:42:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shigure_alicey/status/2047370495046357400</guid>
     </item>
   </channel>
 </rss>

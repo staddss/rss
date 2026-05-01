@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>好評です。貴方も学びませんか？AIでCLIを身近に。 rclone ユーザー養成講座｜platypus2000jp @platypus2000jp https://t.co/N8nKBIogg5</title>
+      <link>https://x.com/platypus2000jp/status/2049685018088505733</link>
+      <description>platypus2000jp: 好評です。貴方も学びませんか？AIでCLIを身近に。 rclone ユーザー養成講座｜platypus2000jp @platypus2000jp https://t.co/N8nKBIogg5</description>
+      <pubDate>Thu, 30 Apr 2026 02:59:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/platypus2000jp/status/2049685018088505733</guid>
+    </item>
+    <item>
       <title>Tailscale+WebDAVで rclone でマウントすると、Sambaだと1MB/sくらいだったのが10MB/sくらいでて嬉しいな 最初の方は30MB/sくらい出たんだけど、なんか変だ</title>
       <link>https://x.com/GeniusJunP/status/2049531963426615324</link>
       <description>じゅんぴー: Tailscale+WebDAVで rclone でマウントすると、Sambaだと1MB/sくらいだったのが10MB/sくらいでて嬉しいな 最初の方は30MB/sくらい出たんだけど、なんか変だ</description>
@@ -269,13 +276,6 @@
       <description>マスター楽一: rclone で仕事場から0.5TBくらいのファイルを転送しようとしているがどのオプションつかってもすぐ捕まる。うちのFW優秀なんかな。</description>
       <pubDate>Fri, 03 Apr 2026 09:21:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/harmoniamonda/status/2039996785746391313</guid>
-    </item>
-    <item>
-      <title>minio が逝ったので rustfs を試してるのだけど rclone sync したら rustfs 側でブラウザから見るバケット内のオブジェクト数が違うのはなぜだろう。 rclone size でみるとあってるっぽい。謎。</title>
-      <link>https://x.com/orrisroot/status/2039172294623604845</link>
-      <description>Yoshihiro OKUMURA: minio が逝ったので rustfs を試してるのだけど rclone sync したら rustfs 側でブラウザから見るバケット内のオブジェクト数が違うのはなぜだろう。 rclone size でみるとあってるっぽい。謎。</description>
-      <pubDate>Wed, 01 Apr 2026 02:45:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/orrisroot/status/2039172294623604845</guid>
     </item>
   </channel>
 </rss>

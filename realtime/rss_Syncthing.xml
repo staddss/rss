@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>雑記、スマホのスクショで自動日報。 「10分ごとにスクショ → syncthing でPC同期 → LLMで画像認識 → まとめ」の手順。だいたいのことが記録できて便利。 苦手 * スマホ外のこと(買い物や散歩) * 目的や意図が残らない https://t.co/bW7gZ8D1Na</title>
+      <link>https://x.com/akkagi0416/status/2050016129767313618</link>
+      <description>あっかぎ: 雑記、スマホのスクショで自動日報。 「10分ごとにスクショ → syncthing でPC同期 → LLMで画像認識 → まとめ」の手順。だいたいのことが記録できて便利。 苦手 * スマホ外のこと(買い物や散歩) * 目的や意図が残らない https://t.co/bW7gZ8D1Na</description>
+      <pubDate>Fri, 01 May 2026 00:55:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akkagi0416/status/2050016129767313618</guid>
+    </item>
+    <item>
+      <title>自宅の環境😀 左上がSMBや Syncthing でファイル共有・バックアップに使ってる4TB SSDの10GbE NAS 右上がimmichやFreshRSSとかが入ったDockerホスト 左下がNVIDIA GPU3枚でVRAM合計28GBのLLMサーバー 右下がUbuntu DesktopやObsidianやFirefoxが入ったちょっとしたサブPC ちな、ベアメタルUbuntu https://t.co/beH0gbNP0h</title>
+      <link>https://x.com/shigetoroku1010/status/2049791597928415518</link>
+      <description>重藤 六🐸月2.5万PVガジェットブロガー: 自宅の環境😀 左上がSMBや Syncthing でファイル共有・バックアップに使ってる4TB SSDの10GbE NAS 右上がimmichやFreshRSSとかが入ったDockerホスト 左下がNVIDIA GPU3枚でVRAM合計28GBのLLMサーバー 右下がUbuntu DesktopやObsidianやFirefoxが入ったちょっとしたサブPC ちな、ベアメタルUbuntu https://t.co/beH0gbNP0h</description>
+      <pubDate>Thu, 30 Apr 2026 10:02:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2049791597928415518</guid>
+    </item>
+    <item>
       <title>obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</title>
       <link>https://x.com/AIfukugyoulog/status/2049472478259691608</link>
       <description>AI副業検証ログ: obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</description>
@@ -262,20 +276,6 @@
       <description>おがつき: KeePassと SyncThing 使って何ヶ月 入れて良かった。やっぱ最強 2025年のbest buyじゃないけど、一番良かった</description>
       <pubDate>Thu, 09 Apr 2026 22:53:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oga5tsu/status/2042375365193273745</guid>
-    </item>
-    <item>
-      <title>@piyorinko25 ぴよこさん、おはようございます。 めっちゃ難しい話てすね😅 自分の場合は syncthing でローカルフォルダと連携させてます。</title>
-      <link>https://x.com/yu_biz_manga/status/2042366492898140646</link>
-      <description>ゆう@文系アラフィフのAI活用チャレンジなのに手描きマンガ!?: @piyorinko25 ぴよこさん、おはようございます。 めっちゃ難しい話てすね😅 自分の場合は syncthing でローカルフォルダと連携させてます。</description>
-      <pubDate>Thu, 09 Apr 2026 22:18:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yu_biz_manga/status/2042366492898140646</guid>
-    </item>
-    <item>
-      <title>Androidゲーム機が2台になったんで Syncthing 使い始めたがこりゃいいな。 https://t.co/67U0V7AWcs</title>
-      <link>https://x.com/notohiro/status/2042314299088293891</link>
-      <description>notohiro: Androidゲーム機が2台になったんで Syncthing 使い始めたがこりゃいいな。 https://t.co/67U0V7AWcs</description>
-      <pubDate>Thu, 09 Apr 2026 18:50:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/notohiro/status/2042314299088293891</guid>
     </item>
   </channel>
 </rss>
