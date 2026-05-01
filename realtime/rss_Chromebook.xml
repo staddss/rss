@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%22</link>
     <description>Latest search results for '&quot;Chromebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>initcall_blacklistってどこかで見覚えあるなと思ったら、化石PCで Chromebook Flex動かそうとしたときに無線LANアダプタのモジュール読み込みをブロックする方法として見たやつだ。 ブートパラメーターに書くのとmodprobe.confに書くのって違うんだ・・・全然分かってなかった。 https://t.co/ZtpO4yEebz</title>
+      <link>https://x.com/galzakato/status/2050256509947597135</link>
+      <description>galzakato: initcall_blacklistってどこかで見覚えあるなと思ったら、化石PCで Chromebook Flex動かそうとしたときに無線LANアダプタのモジュール読み込みをブロックする方法として見たやつだ。 ブートパラメーターに書くのとmodprobe.confに書くのって違うんだ・・・全然分かってなかった。 https://t.co/ZtpO4yEebz</description>
+      <pubDate>Fri, 01 May 2026 16:50:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/galzakato/status/2050256509947597135</guid>
+    </item>
+    <item>
+      <title>ビックカメラ有楽町店限定 69800円→39800円 在庫限り aiwaの Chromebook CPUがIntel N100、メモリ8GBでブラウジングならサクサク動く。 Chromebook デビュー、サブのネットパソコンとしてオススメです。 https://t.co/x7fyXFgThT</title>
+      <link>https://x.com/pcefancom/status/2050245123674640731</link>
+      <description>タケイマコト: ビックカメラ有楽町店限定 69800円→39800円 在庫限り aiwaの Chromebook CPUがIntel N100、メモリ8GBでブラウジングならサクサク動く。 Chromebook デビュー、サブのネットパソコンとしてオススメです。 https://t.co/x7fyXFgThT</description>
+      <pubDate>Fri, 01 May 2026 16:05:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pcefancom/status/2050245123674640731</guid>
+    </item>
+    <item>
       <title>子供達が学校で使い慣れてる Chromebook を購入した お母ちゃんChromeとはなんぞやって感じだからついていけず子供達からレクチャー受ける ノートパソコンよりChromeにして正解ではあった</title>
       <link>https://x.com/madooooka0000/status/2050240924568215916</link>
       <description>⭕️🟣か: 子供達が学校で使い慣れてる Chromebook を購入した お母ちゃんChromeとはなんぞやって感じだからついていけず子供達からレクチャー受ける ノートパソコンよりChromeにして正解ではあった</description>
@@ -262,20 +276,6 @@
       <description>YB (足臭父ちゃん🤣): @fumiko320 やはり劣化はさせられませんね😅 また娘が学校で与えられている Chromebook との相性もちょっと良くないのか 立ち上げ時に変にされちゃうんですよね😅 セキュリティ的に大丈夫なのかなと不安になります😓</description>
       <pubDate>Fri, 01 May 2026 07:52:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/KITAMI_YB/status/2050121123585749087</guid>
-    </item>
-    <item>
-      <title>友達がLenovo Chromebook 500e gen4sお茶で水没させてて笑えない</title>
-      <link>https://x.com/_Tikuwa1/status/2050118478401778059</link>
-      <description>ちくわ練り物: 友達がLenovo Chromebook 500e gen4sお茶で水没させてて笑えない</description>
-      <pubDate>Fri, 01 May 2026 07:41:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Tikuwa1/status/2050118478401778059</guid>
-    </item>
-    <item>
-      <title>JTCに行けばいくらでもWindowsを強要される。 学生のうちに、MacとLinux、 Chromebook で快適なパソコンライフを送ってほしい。 https://t.co/fsH653sxI6</title>
-      <link>https://x.com/pcefancom/status/2050114651770454105</link>
-      <description>タケイマコト: JTCに行けばいくらでもWindowsを強要される。 学生のうちに、MacとLinux、 Chromebook で快適なパソコンライフを送ってほしい。 https://t.co/fsH653sxI6</description>
-      <pubDate>Fri, 01 May 2026 07:26:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pcefancom/status/2050114651770454105</guid>
     </item>
   </channel>
 </rss>
