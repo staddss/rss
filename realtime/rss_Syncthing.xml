@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>syncthing 便利だぞ〜</title>
+      <link>https://x.com/asahi_ganbaru1/status/2050599053453623708</link>
+      <description>あさひ: syncthing 便利だぞ〜</description>
+      <pubDate>Sat, 02 May 2026 15:31:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/asahi_ganbaru1/status/2050599053453623708</guid>
+    </item>
+    <item>
+      <title>@ihtesham2005 新しい同期ツールが登場し、Dropbox、iCloud、OneDriveの代わりになるかもしれません。 Syncthing はサーバーをスキップして、デバイス同士で直接接続します。自分のファイルを自分でコントロールできる便利なツールですね。</title>
+      <link>https://x.com/kanukagi/status/2050515749689754099</link>
+      <description>sandybrige: @ihtesham2005 新しい同期ツールが登場し、Dropbox、iCloud、OneDriveの代わりになるかもしれません。 Syncthing はサーバーをスキップして、デバイス同士で直接接続します。自分のファイルを自分でコントロールできる便利なツールですね。</description>
+      <pubDate>Sat, 02 May 2026 10:00:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kanukagi/status/2050515749689754099</guid>
+    </item>
+    <item>
       <title>@honahuku Obsidian、デバイス間のデータ共有をうまく出来るようにすればかなり便利で良いです（僕は Syncthing で同期しています）</title>
       <link>https://x.com/watasuke1024/status/2050406569612079329</link>
       <description>わたすけ: @honahuku Obsidian、デバイス間のデータ共有をうまく出来るようにすればかなり便利で良いです（僕は Syncthing で同期しています）</description>
@@ -262,20 +276,6 @@
       <description>Takafumi Miyanaga: arqでPDFをget→ syncthing でMac Studioに転送→TranslateGemmaをつかってPDFMathTranslateで邦訳→ syncthing でMacbookに戻すということしてみたが結構よい https://t.co/Br9nLX3m7O</description>
       <pubDate>Tue, 14 Apr 2026 13:50:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/orangekame3/status/2044050642327744610</guid>
-    </item>
-    <item>
-      <title>@murasametech 現在組んであるハードはこんな感じです OpenMediaVault cockpit Portainer Immich SyncThing Homepageまではインストール済み FrigateをHailo8で防犯カメラ2台の人物検知のAI解析でつまずき中です 普通のNASを買った方が安いと思いますが、ラズパイのフットプリントと低電力稼働が魅力で作ってます https://t.co/UprlwtGVte</title>
-      <link>https://x.com/Rakushakou/status/2043730803482628332</link>
-      <description>彡๏楽車行๏乡: @murasametech 現在組んであるハードはこんな感じです OpenMediaVault cockpit Portainer Immich SyncThing Homepageまではインストール済み FrigateをHailo8で防犯カメラ2台の人物検知のAI解析でつまずき中です 普通のNASを買った方が安いと思いますが、ラズパイのフットプリントと低電力稼働が魅力で作ってます https://t.co/UprlwtGVte</description>
-      <pubDate>Mon, 13 Apr 2026 16:39:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rakushakou/status/2043730803482628332</guid>
-    </item>
-    <item>
-      <title>ObsidianのMacbookとiPhoneの同期を RemotelySave+OneDriveから Syncthing +MöbiusSyncに 変更したら、めっちゃ安定した。 ランニング費用ゼロで、オススメ。</title>
-      <link>https://x.com/dyna440/status/2043590014312034317</link>
-      <description>だいな: ObsidianのMacbookとiPhoneの同期を RemotelySave+OneDriveから Syncthing +MöbiusSyncに 変更したら、めっちゃ安定した。 ランニング費用ゼロで、オススメ。</description>
-      <pubDate>Mon, 13 Apr 2026 07:20:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dyna440/status/2043590014312034317</guid>
     </item>
   </channel>
 </rss>
