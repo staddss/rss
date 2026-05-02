@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>内部的には windows の VS Code が WSL 内部の VS Code Server （これは、初めてVSCodeをWSLで開いたときに自動でインストールされる）に通信して動作してるはず https://t.co/Qy6rNBWoxE</title>
+      <link>https://x.com/aqyuki21s/status/2050473556212092963</link>
+      <description>しろね⿻: 内部的には windows の VS Code が WSL 内部の VS Code Server （これは、初めてVSCodeをWSLで開いたときに自動でインストールされる）に通信して動作してるはず https://t.co/Qy6rNBWoxE</description>
+      <pubDate>Sat, 02 May 2026 07:12:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aqyuki21s/status/2050473556212092963</guid>
+    </item>
+    <item>
+      <title>code server をプライベートサブネットに配置して使えそう</title>
+      <link>https://x.com/takesection/status/2050379474987090018</link>
+      <description>Shigeki Shoji: code server をプライベートサブネットに配置して使えそう</description>
+      <pubDate>Sat, 02 May 2026 00:58:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takesection/status/2050379474987090018</guid>
+    </item>
+    <item>
       <title>少し前の停電の時に論理不整合起きてて、それがこの間の code - server 構築作業あたりで顕在化して死んだ模様</title>
       <link>https://x.com/mikansensei/status/2050157819190772085</link>
       <description>みかんちゃん: 少し前の停電の時に論理不整合起きてて、それがこの間の code - server 構築作業あたりで顕在化して死んだ模様</description>

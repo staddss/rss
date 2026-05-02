@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@honahuku Obsidian、デバイス間のデータ共有をうまく出来るようにすればかなり便利で良いです（僕は Syncthing で同期しています）</title>
+      <link>https://x.com/watasuke1024/status/2050406569612079329</link>
+      <description>わたすけ: @honahuku Obsidian、デバイス間のデータ共有をうまく出来るようにすればかなり便利で良いです（僕は Syncthing で同期しています）</description>
+      <pubDate>Sat, 02 May 2026 02:46:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/watasuke1024/status/2050406569612079329</guid>
+    </item>
+    <item>
       <title>Syncthing 便利すぎる～～</title>
       <link>https://x.com/rararararauuuuu/status/2050349300744630284</link>
       <description>らららうう: Syncthing 便利すぎる～～</description>
@@ -269,13 +276,6 @@
       <description>だいな: ObsidianのMacbookとiPhoneの同期を RemotelySave+OneDriveから Syncthing +MöbiusSyncに 変更したら、めっちゃ安定した。 ランニング費用ゼロで、オススメ。</description>
       <pubDate>Mon, 13 Apr 2026 07:20:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dyna440/status/2043590014312034317</guid>
-    </item>
-    <item>
-      <title>ラズパイにUSB外付け3.5インチのHDDをつけて syncthing 運用してるの、しばらく安定してたんだけどUSB-HDDケースの故障に伴い不安定な感じに・・・ やっぱりラズパイはmicroSDかSSD一台運用だよねってことで、3.5インチHDDのためにRyzenなミニPCに交代を検討する</title>
-      <link>https://x.com/rhosoi/status/2043550545470980472</link>
-      <description>ほそいりょすけ: ラズパイにUSB外付け3.5インチのHDDをつけて syncthing 運用してるの、しばらく安定してたんだけどUSB-HDDケースの故障に伴い不安定な感じに・・・ やっぱりラズパイはmicroSDかSSD一台運用だよねってことで、3.5インチHDDのためにRyzenなミニPCに交代を検討する</description>
-      <pubDate>Mon, 13 Apr 2026 04:43:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rhosoi/status/2043550545470980472</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ラズパイへのSSH接続、 皆さん何で繋いでますか？🔌 ・ ローカルIP直打ち（192.168.x.x） ・ .local（mDNS） ・ Tailscale / WireGuard ・ Cloudflare Tunnel ・ その他 外出先からも触りたいので 最近は Tailscale 派です。 ぜひ教えてください👇 #RaspberryPi</title>
+      <link>https://x.com/murasametech/status/2050455000682561923</link>
+      <description>むらさん(Murasan): ラズパイへのSSH接続、 皆さん何で繋いでますか？🔌 ・ ローカルIP直打ち（192.168.x.x） ・ .local（mDNS） ・ Tailscale / WireGuard ・ Cloudflare Tunnel ・ その他 外出先からも触りたいので 最近は Tailscale 派です。 ぜひ教えてください👇 #RaspberryPi</description>
+      <pubDate>Sat, 02 May 2026 05:59:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2050455000682561923</guid>
+    </item>
+    <item>
+      <title>OpenWrt + Starlink 環境での自宅IPv6アドレスでの WireGuard サーバ - SOULMINIGRIG - https://t.co/aTDxG6nhS9</title>
+      <link>https://x.com/haturatutaro/status/2050383861503390007</link>
+      <description>ハツラツ太郎: OpenWrt + Starlink 環境での自宅IPv6アドレスでの WireGuard サーバ - SOULMINIGRIG - https://t.co/aTDxG6nhS9</description>
+      <pubDate>Sat, 02 May 2026 01:16:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2050383861503390007</guid>
+    </item>
+    <item>
       <title>AIエージェントがログを解析して1時間毎のクラッシュパターンを瞬時に発見したというのは、従来の手動デバッグとの差を感じますね。 WireGuard の並行性バグとMTU不一致という2層の問題が連鎖していて、分散システムの複雑さを改めて実感します。 AIエージェントがKubernetesの隠れた障害を発見 — https://t.co/p1YzKq3um8</title>
       <link>https://x.com/techfeedapp/status/2050319314092229054</link>
       <description>TechFeed公式: AIエージェントがログを解析して1時間毎のクラッシュパターンを瞬時に発見したというのは、従来の手動デバッグとの差を感じますね。 WireGuard の並行性バグとMTU不一致という2層の問題が連鎖していて、分散システムの複雑さを改めて実感します。 AIエージェントがKubernetesの隠れた障害を発見 — https://t.co/p1YzKq3um8</description>
@@ -262,20 +276,6 @@
       <description>takeuchi: Pixel 10aのデスクトップモードで wireguard からVPN内のwindows PCへのリモートデスクトップ成功。 数泊ぐらいに出張にノートPCを持って行かなくて良いようにしたい。</description>
       <pubDate>Sat, 25 Apr 2026 21:57:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_takeuchi__/status/2048159453317615742</guid>
-    </item>
-    <item>
-      <title>搬server大約用左十二個鐘 - setup個場 - rsync搬data同conf - dump and restore db - test under http - update A record - setup certbot and https conf - test under https - setup wireguard - test wireguard 中間有d waiting time做左少少resources tagging,準備之後起inventory 用</title>
-      <link>https://x.com/phil_kgy/status/2048127369941283191</link>
-      <description>Phil Lui: 搬server大約用左十二個鐘 - setup個場 - rsync搬data同conf - dump and restore db - test under http - update A record - setup certbot and https conf - test under https - setup wireguard - test wireguard 中間有d waiting time做左少少resources tagging,準備之後起inventory 用</description>
-      <pubDate>Sat, 25 Apr 2026 19:49:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/phil_kgy/status/2048127369941283191</guid>
-    </item>
-    <item>
-      <title>やっとVPNできたーーーーー でも Wireguard だから別サーバーでCAサーバー組もうと思って買ったミニPCが無駄になった・・・</title>
-      <link>https://x.com/aki_star02/status/2048080824378208311</link>
-      <description>aki: やっとVPNできたーーーーー でも Wireguard だから別サーバーでCAサーバー組もうと思って買ったミニPCが無駄になった・・・</description>
-      <pubDate>Sat, 25 Apr 2026 16:44:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aki_star02/status/2048080824378208311</guid>
     </item>
   </channel>
 </rss>
