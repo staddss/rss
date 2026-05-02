@@ -131,6 +131,13 @@
       <guid isPermaLink="true">https://x.com/m3dusa21/status/2049632709383974943</guid>
     </item>
     <item>
+      <title>ESP32-S3でUSBシリアルをリモート制御するファームウェア、 WireGuard /tailscale対応入りました。あとChromeからファーム書き込みするのも作っときました。 ATOM S3 Liteがあれば遊べるはず。 #M5Stack https://t.co/dtpN5hbZoZ https://t.co/q3IrGqOIQO</title>
+      <link>https://x.com/ciniml/status/2049601896420389116</link>
+      <description>Kenta IDA: ESP32-S3でUSBシリアルをリモート制御するファームウェア、 WireGuard /tailscale対応入りました。あとChromeからファーム書き込みするのも作っときました。 ATOM S3 Liteがあれば遊べるはず。 #M5Stack https://t.co/dtpN5hbZoZ https://t.co/q3IrGqOIQO</description>
+      <pubDate>Wed, 29 Apr 2026 21:29:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ciniml/status/2049601896420389116</guid>
+    </item>
+    <item>
       <title>エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</title>
       <link>https://x.com/SogoogleK51859/status/2049495929309560900</link>
       <description>nico: エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</description>
@@ -199,13 +206,6 @@
       <description>しばにゃん: まさにWARP Connectorが WireGuard だから、まさにこの設定だわ。 ExecStart=/usr/sbin/tc qdisc replace dev eth0 root fq_codel 投入も、warp-svc改造用のdaemonのおしごとの一つ。 https://t.co/ihUnHX8vxV</description>
       <pubDate>Mon, 27 Apr 2026 07:57:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shibanyan_1/status/2048672993233240320</guid>
-    </item>
-    <item>
-      <title>NowBrowsing: WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/rD2hlnKwKh</title>
-      <link>https://x.com/SomeDen_JOTX/status/2048671672853749768</link>
-      <description>そむでん: NowBrowsing: WireGuard が遅い時に効いた設定と効かなかった設定 https://t.co/rD2hlnKwKh</description>
-      <pubDate>Mon, 27 Apr 2026 07:52:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SomeDen_JOTX/status/2048671672853749768</guid>
     </item>
     <item>
       <title>VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</title>

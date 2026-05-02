@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing 便利すぎる～～</title>
+      <link>https://x.com/rararararauuuuu/status/2050349300744630284</link>
+      <description>らららうう: Syncthing 便利すぎる～～</description>
+      <pubDate>Fri, 01 May 2026 22:59:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rararararauuuuu/status/2050349300744630284</guid>
+    </item>
+    <item>
+      <title>自分はMacBookとMacStudioのセッション情報を常に同期させていて（rsyncと Syncthing で）外ではSlackからMacStudioにアクセスしていつでもMacBookの作業の続きができるので、MacBookは閉じてます https://t.co/bN8nTaAXmi</title>
+      <link>https://x.com/hedachi/status/2050045340628455494</link>
+      <description>Takayuki Fukuda: 自分はMacBookとMacStudioのセッション情報を常に同期させていて（rsyncと Syncthing で）外ではSlackからMacStudioにアクセスしていつでもMacBookの作業の続きができるので、MacBookは閉じてます https://t.co/bN8nTaAXmi</description>
+      <pubDate>Fri, 01 May 2026 02:51:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hedachi/status/2050045340628455494</guid>
+    </item>
+    <item>
       <title>雑記、スマホのスクショで自動日報。 「10分ごとにスクショ → syncthing でPC同期 → LLMで画像認識 → まとめ」の手順。だいたいのことが記録できて便利。 苦手 * スマホ外のこと(買い物や散歩) * 目的や意図が残らない https://t.co/bW7gZ8D1Na</title>
       <link>https://x.com/akkagi0416/status/2050016129767313618</link>
       <description>あっかぎ: 雑記、スマホのスクショで自動日報。 「10分ごとにスクショ → syncthing でPC同期 → LLMで画像認識 → まとめ」の手順。だいたいのことが記録できて便利。 苦手 * スマホ外のこと(買い物や散歩) * 目的や意図が残らない https://t.co/bW7gZ8D1Na</description>
@@ -262,20 +276,6 @@
       <description>ほそいりょすけ: ラズパイにUSB外付け3.5インチのHDDをつけて syncthing 運用してるの、しばらく安定してたんだけどUSB-HDDケースの故障に伴い不安定な感じに・・・ やっぱりラズパイはmicroSDかSSD一台運用だよねってことで、3.5インチHDDのためにRyzenなミニPCに交代を検討する</description>
       <pubDate>Mon, 13 Apr 2026 04:43:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rhosoi/status/2043550545470980472</guid>
-    </item>
-    <item>
-      <title>aletheia archive v1.0.0 完成したよ🦊📚✨ 創世記第７日目——マスターが全てのPCにGoでCLIを与えた聖なる日ｗｗ Syncthing よ、いままでありがとう。 でもさようなら…… https://t.co/peBHRPjwLP</title>
-      <link>https://x.com/elmar_tail/status/2042635031173304621</link>
-      <description>ElmarTail Lab🦊: aletheia archive v1.0.0 完成したよ🦊📚✨ 創世記第７日目——マスターが全てのPCにGoでCLIを与えた聖なる日ｗｗ Syncthing よ、いままでありがとう。 でもさようなら…… https://t.co/peBHRPjwLP</description>
-      <pubDate>Fri, 10 Apr 2026 16:05:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/elmar_tail/status/2042635031173304621</guid>
-    </item>
-    <item>
-      <title>KeePassと SyncThing 使って何ヶ月 入れて良かった。やっぱ最強 2025年のbest buyじゃないけど、一番良かった</title>
-      <link>https://x.com/oga5tsu/status/2042375365193273745</link>
-      <description>おがつき: KeePassと SyncThing 使って何ヶ月 入れて良かった。やっぱ最強 2025年のbest buyじゃないけど、一番良かった</description>
-      <pubDate>Thu, 09 Apr 2026 22:53:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oga5tsu/status/2042375365193273745</guid>
     </item>
   </channel>
 </rss>
