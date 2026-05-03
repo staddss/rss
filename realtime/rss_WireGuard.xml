@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscaleはホストサーバーが外部サービスとして提供されているためサービスの継続性やセキュリティ面に懸念があります。そこで、ホストサーバー自体もセルフホスティングが可能で無料で利用できる「NetBird」が公開。 / “ WireGuard ベースのオーバーレイネットワークとゼロ…” https://t.co/SGiPix5u2i</title>
+      <link>https://x.com/yuumediatown/status/2050738954639654986</link>
+      <description>封神龍（新型コロナワクチン5回目接種仕様）: Tailscaleはホストサーバーが外部サービスとして提供されているためサービスの継続性やセキュリティ面に懸念があります。そこで、ホストサーバー自体もセルフホスティングが可能で無料で利用できる「NetBird」が公開。 / “ WireGuard ベースのオーバーレイネットワークとゼロ…” https://t.co/SGiPix5u2i</description>
+      <pubDate>Sun, 03 May 2026 00:47:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuumediatown/status/2050738954639654986</guid>
+    </item>
+    <item>
+      <title>@morizo41 ローミングとかVPNとか関係なしに↑使えんのか… でも Wireguard ならワンチャン</title>
+      <link>https://x.com/rioshirazumi/status/2050733479827312919</link>
+      <description>りお: @morizo41 ローミングとかVPNとか関係なしに↑使えんのか… でも Wireguard ならワンチャン</description>
+      <pubDate>Sun, 03 May 2026 00:25:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rioshirazumi/status/2050733479827312919</guid>
+    </item>
+    <item>
       <title>WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能について、ちょっと整理してみる ポイントだけ押さえておけば十分👇 ━━━━━━━━━━━━━━ 💡 何が起きてるか</title>
       <link>https://x.com/yoshioZ356/status/2050696848252518684</link>
       <description>yoshi: WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能について、ちょっと整理してみる ポイントだけ押さえておけば十分👇 ━━━━━━━━━━━━━━ 💡 何が起きてるか</description>
@@ -45,6 +59,13 @@
       <description>ぢゃくそん: セルフホストできるTailscaleみたいなやつなのか / WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE https://t.co/AAAFzFIQGE</description>
       <pubDate>Sat, 02 May 2026 13:37:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_jackson/status/2050570489442251170</guid>
+    </item>
+    <item>
+      <title>WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 https://t.co/Wy1n5Z5Flp</title>
+      <link>https://x.com/gigazine/status/2050561044368474139</link>
+      <description>GIGAZINE(ギガジン): WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 https://t.co/Wy1n5Z5Flp</description>
+      <pubDate>Sat, 02 May 2026 13:00:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigazine/status/2050561044368474139</guid>
     </item>
     <item>
       <title>あっ。。よく見たら「どこでも使える」わけではないね。。例えばLinux kernel 5.6以前を使ってるなら(Rocky Linux 9など)、コンテナにしても Wireguard 系の機能は全然作動できないんです。新しい鯖を展開する前コンテナの中身とカーネル間の依存関係も確認してね！🐋 https://t.co/mmDmXvhfin</title>
@@ -187,13 +208,6 @@
       <guid isPermaLink="true">https://x.com/moguno/status/2049670479016079564</guid>
     </item>
     <item>
-      <title>@jolestar 我是用 wireguard 自己搞的</title>
-      <link>https://x.com/m3dusa21/status/2049632709383974943</link>
-      <description>美杜萨M3dusa: @jolestar 我是用 wireguard 自己搞的</description>
-      <pubDate>Wed, 29 Apr 2026 23:31:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m3dusa21/status/2049632709383974943</guid>
-    </item>
-    <item>
       <title>ESP32-S3でUSBシリアルをリモート制御するファームウェア、 WireGuard /tailscale対応入りました。あとChromeからファーム書き込みするのも作っときました。 ATOM S3 Liteがあれば遊べるはず。 #M5Stack https://t.co/dtpN5hbZoZ https://t.co/q3IrGqOIQO</title>
       <link>https://x.com/ciniml/status/2049601896420389116</link>
       <description>Kenta IDA: ESP32-S3でUSBシリアルをリモート制御するファームウェア、 WireGuard /tailscale対応入りました。あとChromeからファーム書き込みするのも作っときました。 ATOM S3 Liteがあれば遊べるはず。 #M5Stack https://t.co/dtpN5hbZoZ https://t.co/q3IrGqOIQO</description>
@@ -262,20 +276,6 @@
       <description>GUI_Furisan: @ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</description>
       <pubDate>Mon, 27 Apr 2026 09:21:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Furisan_org/status/2048693886370074899</guid>
-    </item>
-    <item>
-      <title>まさにWARP Connectorが WireGuard だから、まさにこの設定だわ。 ExecStart=/usr/sbin/tc qdisc replace dev eth0 root fq_codel 投入も、warp-svc改造用のdaemonのおしごとの一つ。 https://t.co/ihUnHX8vxV</title>
-      <link>https://x.com/shibanyan_1/status/2048672993233240320</link>
-      <description>しばにゃん: まさにWARP Connectorが WireGuard だから、まさにこの設定だわ。 ExecStart=/usr/sbin/tc qdisc replace dev eth0 root fq_codel 投入も、warp-svc改造用のdaemonのおしごとの一つ。 https://t.co/ihUnHX8vxV</description>
-      <pubDate>Mon, 27 Apr 2026 07:57:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2048672993233240320</guid>
-    </item>
-    <item>
-      <title>VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</title>
-      <link>https://x.com/kawataso/status/2048611033162580227</link>
-      <description>kawataso: VPNサーバ上でcubicからbbrに変更しても意味ないとおもうんだけど、fqのほうが効果を発揮してるのかなこれは。 WireGuard が遅い時に効いた設定と効かなかった設定｜t2421 https://t.co/yTIvM95PTJ #zenn</description>
-      <pubDate>Mon, 27 Apr 2026 03:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kawataso/status/2048611033162580227</guid>
     </item>
   </channel>
 </rss>

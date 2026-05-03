@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>短縮URL. 何回再読込しても表示されないことが多い。特にXからの。 てことで その際はtermuxいれる。 （おすすめ F - droid ） 軽く確認 → curl -I 短縮URL 失敗する → curl -L -I 短縮URL それでもダメ → -A付き or 通常GET</title>
+      <link>https://x.com/SogoogleK51859/status/2050591400652390833</link>
+      <description>nico: 短縮URL. 何回再読込しても表示されないことが多い。特にXからの。 てことで その際はtermuxいれる。 （おすすめ F - droid ） 軽く確認 → curl -I 短縮URL 失敗する → curl -L -I 短縮URL それでもダメ → -A付き or 通常GET</description>
+      <pubDate>Sat, 02 May 2026 15:01:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SogoogleK51859/status/2050591400652390833</guid>
+    </item>
+    <item>
       <title>2026年9月以降、GoogleがAndroidの仕様を大幅変更するみたい。開発者登録や身分証提出なしのアプリは順次ブロックされるそう。趣味のアプリや F - Droid も対象なんて、自由度が激減しそうで少し怖いですね。皆さんはこの方針、どう感じますか？ https://t.co/rbAeXhRKZK #個人開発 #solooo #Android</title>
       <link>https://x.com/solooo_dev/status/2049456396236906804</link>
       <description>solooo@個人開発: 2026年9月以降、GoogleがAndroidの仕様を大幅変更するみたい。開発者登録や身分証提出なしのアプリは順次ブロックされるそう。趣味のアプリや F - Droid も対象なんて、自由度が激減しそうで少し怖いですね。皆さんはこの方針、どう感じますか？ https://t.co/rbAeXhRKZK #個人開発 #solooo #Android</description>
