@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>色々と試してみたけど Baguette 環境ではまともに日本語入力できなかったので &quot; chrome :// flags &quot; から &quot;#crostini-containerless&quot; フラグを Disabled に変更して Linux 環境を再インストールした</title>
+      <link>https://x.com/rai_suta/status/2050911384658125059</link>
+      <description>rai_suta: 色々と試してみたけど Baguette 環境ではまともに日本語入力できなかったので &quot; chrome :// flags &quot; から &quot;#crostini-containerless&quot; フラグを Disabled に変更して Linux 環境を再インストールした</description>
+      <pubDate>Sun, 03 May 2026 12:12:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rai_suta/status/2050911384658125059</guid>
+    </item>
+    <item>
       <title>１：「 chrome :// flags /」にアクセス ２：検索窓で「Skills」といれて検索 ３：Skillsを「Enabled」にする ４：ChromeのGeminiチャット欄で「/」を入力したらスキルを選択できる 自分の好きにskills登録できるよ♪</title>
       <link>https://x.com/neo_web3_/status/2050493231272775688</link>
       <description>neo | AI講師 × 次世代LINE構築: １：「 chrome :// flags /」にアクセス ２：検索窓で「Skills」といれて検索 ３：Skillsを「Enabled」にする ４：ChromeのGeminiチャット欄で「/」を入力したらスキルを選択できる 自分の好きにskills登録できるよ♪</description>
@@ -269,20 +276,6 @@
       <description>Hirokazu Kakinuma: WindowsのGoogle Chromeの垂直タブ機能、右クリックしても何も出てこなかったのでflagsの設定でDefaultからEnabledに変更したら出てきた。 chrome :// flags /#vertical-tabs</description>
       <pubDate>Wed, 08 Apr 2026 11:30:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__kHz__/status/2041841087967588501</guid>
-    </item>
-    <item>
-      <title>(備忘録)gmailの本文部分をダークモードにしたい時のブラウザの設定(Auto Dark Mode for Web Contents) URL欄に以下を入力 (Google Chrome) chrome :// flags /#enable-force-dark (Microsoft Edge) edge://flags/#enable-force-dark 値をenabledに変更 #gmail #darkmode</title>
-      <link>https://x.com/support24553842/status/2041763906675470833</link>
-      <description>netnet: (備忘録)gmailの本文部分をダークモードにしたい時のブラウザの設定(Auto Dark Mode for Web Contents) URL欄に以下を入力 (Google Chrome) chrome :// flags /#enable-force-dark (Microsoft Edge) edge://flags/#enable-force-dark 値をenabledに変更 #gmail #darkmode</description>
-      <pubDate>Wed, 08 Apr 2026 06:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/support24553842/status/2041763906675470833</guid>
-    </item>
-    <item>
-      <title>Canary版ならすぐ利用可能っぽい。 chrome :// flags /#vertical-tabs 有効化で使えた。 https://t.co/iXm84cnM2j</title>
-      <link>https://x.com/sjisjis/status/2041759158337466409</link>
-      <description>takumi shoji: Canary版ならすぐ利用可能っぽい。 chrome :// flags /#vertical-tabs 有効化で使えた。 https://t.co/iXm84cnM2j</description>
-      <pubDate>Wed, 08 Apr 2026 06:04:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sjisjis/status/2041759158337466409</guid>
     </item>
   </channel>
 </rss>

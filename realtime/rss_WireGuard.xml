@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>✍️ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE 🗓️2026年05月02日 22時00分 https://t.co/44sK4nmxq6</title>
+      <link>https://x.com/m_nakamura_jp/status/2051050503707205964</link>
+      <description>Mitsutoshi Nakamura 🇯🇵🔥🗣: ✍️ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE 🗓️2026年05月02日 22時00分 https://t.co/44sK4nmxq6</description>
+      <pubDate>Sun, 03 May 2026 21:25:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_nakamura_jp/status/2051050503707205964</guid>
+    </item>
+    <item>
+      <title>なんで私は休日中にunbound + adguard home + wireguard の連携なんてやってるんだろう・・・</title>
+      <link>https://x.com/aki_star02/status/2050926921790488950</link>
+      <description>aki: なんで私は休日中にunbound + adguard home + wireguard の連携なんてやってるんだろう・・・</description>
+      <pubDate>Sun, 03 May 2026 13:14:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aki_star02/status/2050926921790488950</guid>
+    </item>
+    <item>
       <title>Tailscaleはホストサーバーが外部サービスとして提供されているためサービスの継続性やセキュリティ面に懸念があります。そこで、ホストサーバー自体もセルフホスティングが可能で無料で利用できる「NetBird」が公開。 / “ WireGuard ベースのオーバーレイネットワークとゼロ…” https://t.co/SGiPix5u2i</title>
       <link>https://x.com/yuumediatown/status/2050738954639654986</link>
       <description>封神龍（新型コロナワクチン5回目接種仕様）: Tailscaleはホストサーバーが外部サービスとして提供されているためサービスの継続性やセキュリティ面に懸念があります。そこで、ホストサーバー自体もセルフホスティングが可能で無料で利用できる「NetBird」が公開。 / “ WireGuard ベースのオーバーレイネットワークとゼロ…” https://t.co/SGiPix5u2i</description>
@@ -17,6 +31,13 @@
       <description>りお: @morizo41 ローミングとかVPNとか関係なしに↑使えんのか… でも Wireguard ならワンチャン</description>
       <pubDate>Sun, 03 May 2026 00:25:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rioshirazumi/status/2050733479827312919</guid>
+    </item>
+    <item>
+      <title>🌍VPN速度が遅い時の対策：有線LAN接続、 WireGuard プロトコル選択、デバイス再起動など。無料VPNは遅いため有料版がおすすめ。それでも改善しなければサービス切り替えも検討🔒 #海外研究生活</title>
+      <link>https://x.com/NotforgetL/status/2050731816844202114</link>
+      <description>海凪（かいなぎ）@アメリカ研究留学ブログ: 🌍VPN速度が遅い時の対策：有線LAN接続、 WireGuard プロトコル選択、デバイス再起動など。無料VPNは遅いため有料版がおすすめ。それでも改善しなければサービス切り替えも検討🔒 #海外研究生活</description>
+      <pubDate>Sun, 03 May 2026 00:19:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NotforgetL/status/2050731816844202114</guid>
     </item>
     <item>
       <title>WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能について、ちょっと整理してみる ポイントだけ押さえておけば十分👇 ━━━━━━━━━━━━━━ 💡 何が起きてるか</title>
@@ -255,27 +276,6 @@
       <description>aki: wireguard +sambaで家の外からつながったの便利・・・ openvpnじゃなくてもいいんだね。</description>
       <pubDate>Tue, 28 Apr 2026 11:23:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aki_star02/status/2049087157118378074</guid>
-    </item>
-    <item>
-      <title>先人の教えとコピペで wireguard のif立ててnat（pf使ってます）も仕込めた。導通テストは未。</title>
-      <link>https://x.com/Bxp3EyWSsk76071/status/2048804670718779754</link>
-      <description>ゆ: 先人の教えとコピペで wireguard のif立ててnat（pf使ってます）も仕込めた。導通テストは未。</description>
-      <pubDate>Mon, 27 Apr 2026 16:41:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Bxp3EyWSsk76071/status/2048804670718779754</guid>
-    </item>
-    <item>
-      <title>自宅だからあんまり意味ないけど、SORACOM ArcのバーチャルSIM（ WireGuard ）を載せてNapter経由で操作している。 HTMLは面倒だったのでClaude Codeに作らせて、画像もロボット操作もM5Atom側のREST API経由なので理屈上はRemote CommandとかFlux経由でも動かせる。</title>
-      <link>https://x.com/Plemling138/status/2048754636895707635</link>
-      <description>Hisaya: 自宅だからあんまり意味ないけど、SORACOM ArcのバーチャルSIM（ WireGuard ）を載せてNapter経由で操作している。 HTMLは面倒だったのでClaude Codeに作らせて、画像もロボット操作もM5Atom側のREST API経由なので理屈上はRemote CommandとかFlux経由でも動かせる。</description>
-      <pubDate>Mon, 27 Apr 2026 13:22:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Plemling138/status/2048754636895707635</guid>
-    </item>
-    <item>
-      <title>@ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</title>
-      <link>https://x.com/Furisan_org/status/2048693886370074899</link>
-      <description>GUI_Furisan: @ryo14636405 @cE7sU3m3iwi2TfA わたしのコミュニティーにも共有した結果 iPhoneに登録されてる WireGuard （OpenVPN）プロファイルの管理を行なってるアプリケーションが更新される時にトリガーされてしまう現象だと思うという意見もあったので完全な原因は私も知りません</description>
-      <pubDate>Mon, 27 Apr 2026 09:21:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Furisan_org/status/2048693886370074899</guid>
     </item>
   </channel>
 </rss>

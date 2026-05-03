@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>EndeavourOS TitanでpCloudクライアントが固まる🥺 Sign inのボタンを押した途端にCPUの使用率が爆上がりして固まり数分後に落ちる... Claude先生によるとWebKitに問題があるらしい。 まぁPCがかな〜り古いこともあるのだろう。 ということで代打は rclone です。</title>
+      <link>https://x.com/AlpsKumataroh/status/2050918013671792993</link>
+      <description>でこちょび: EndeavourOS TitanでpCloudクライアントが固まる🥺 Sign inのボタンを押した途端にCPUの使用率が爆上がりして固まり数分後に落ちる... Claude先生によるとWebKitに問題があるらしい。 まぁPCがかな〜り古いこともあるのだろう。 ということで代打は rclone です。</description>
+      <pubDate>Sun, 03 May 2026 12:38:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AlpsKumataroh/status/2050918013671792993</guid>
+    </item>
+    <item>
+      <title>KeebmonのミニノートPCがいつまで経ってもProduction phaseに移行しないので、ついカッとなってPomera DM250買ってもうた。Debian+i3+ rclone /gitで同期「は」快適。書き物はPomeraデフォルトのシステムで快適。mdとかtxt、tex、pyくらいならこれで事足りそう。 https://t.co/aslBwFQ7aD</title>
+      <link>https://x.com/kansmemo/status/2050806889903280348</link>
+      <description>かんのあつし㌠: KeebmonのミニノートPCがいつまで経ってもProduction phaseに移行しないので、ついカッとなってPomera DM250買ってもうた。Debian+i3+ rclone /gitで同期「は」快適。書き物はPomeraデフォルトのシステムで快適。mdとかtxt、tex、pyくらいならこれで事足りそう。 https://t.co/aslBwFQ7aD</description>
+      <pubDate>Sun, 03 May 2026 05:17:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kansmemo/status/2050806889903280348</guid>
+    </item>
+    <item>
       <title>@chizu_potato 私は rclone でリモート側のフォルダをマウントしております</title>
       <link>https://x.com/mokuseikeisan/status/2050179604078637064</link>
       <description>mokusei_keisan: @chizu_potato 私は rclone でリモート側のフォルダをマウントしております</description>
@@ -255,20 +269,6 @@
       <description>nisimura megumi: &quot;かつてはgoogle-drive-ocamlfuseでマウントしたり、Grive2で同期したりといったツールが使われていました。しかし現在では、 rclone という単一のツールで、これら全てのことが、より安定して実現できます。&quot; [マウントから自動同期まで(2025年版)] https://t.co/g3X1V2l9HS</description>
       <pubDate>Sun, 05 Apr 2026 05:34:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nim95/status/2040664338718212219</guid>
-    </item>
-    <item>
-      <title>とりあえずCryptomatorのデータを rclone 経由でupload中 転送制限的なのに引っかからないかだけ不安</title>
-      <link>https://x.com/popo_myagi/status/2040127316177846654</link>
-      <description>みゃーぎ: とりあえずCryptomatorのデータを rclone 経由でupload中 転送制限的なのに引っかからないかだけ不安</description>
-      <pubDate>Fri, 03 Apr 2026 18:00:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/popo_myagi/status/2040127316177846654</guid>
-    </item>
-    <item>
-      <title>CurlFtpFSはUbuntuの公式リポジトリになかったので諦め。 代わりに rclone というのを見つけたので試してみる。(FTP・・・だけでなく色んなサービスに対応してそう) https://t.co/WSREViVYPm</title>
-      <link>https://x.com/touhouPCpp/status/2040102942544662552</link>
-      <description>東&amp;方39++: CurlFtpFSはUbuntuの公式リポジトリになかったので諦め。 代わりに rclone というのを見つけたので試してみる。(FTP・・・だけでなく色んなサービスに対応してそう) https://t.co/WSREViVYPm</description>
-      <pubDate>Fri, 03 Apr 2026 16:23:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/touhouPCpp/status/2040102942544662552</guid>
     </item>
   </channel>
 </rss>
