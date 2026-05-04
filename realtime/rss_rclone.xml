@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WebDAVで rclone mountすると速いなって思ってたけど、BBRのおかげだったっていう話 別に普通にTCPだし、マルチコネクションでもない 別にSambaでも同じ速度が出た</title>
+      <link>https://x.com/GeniusJunP/status/2050977453326422465</link>
+      <description>じゅんぴー: WebDAVで rclone mountすると速いなって思ってたけど、BBRのおかげだったっていう話 別に普通にTCPだし、マルチコネクションでもない 別にSambaでも同じ速度が出た</description>
+      <pubDate>Sun, 03 May 2026 16:35:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GeniusJunP/status/2050977453326422465</guid>
+    </item>
+    <item>
       <title>EndeavourOS TitanでpCloudクライアントが固まる🥺 Sign inのボタンを押した途端にCPUの使用率が爆上がりして固まり数分後に落ちる... Claude先生によるとWebKitに問題があるらしい。 まぁPCがかな〜り古いこともあるのだろう。 ということで代打は rclone です。</title>
       <link>https://x.com/AlpsKumataroh/status/2050918013671792993</link>
       <description>でこちょび: EndeavourOS TitanでpCloudクライアントが固まる🥺 Sign inのボタンを押した途端にCPUの使用率が爆上がりして固まり数分後に落ちる... Claude先生によるとWebKitに問題があるらしい。 まぁPCがかな〜り古いこともあるのだろう。 ということで代打は rclone です。</description>

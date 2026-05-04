@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/m_nakamura_jp/status/2051050503707205964</guid>
     </item>
     <item>
+      <title>OpenVPN一択だと思ってたけど、近年の主力は WireGuard っぽい まったく知らないので開発が積極的なのか、ライセンス配布の定義はどうなのかあたりをよく見てから使うのは判断したいところ</title>
+      <link>https://x.com/deka_pod/status/2050948944369512781</link>
+      <description>デカポッづ: OpenVPN一択だと思ってたけど、近年の主力は WireGuard っぽい まったく知らないので開発が積極的なのか、ライセンス配布の定義はどうなのかあたりをよく見てから使うのは判断したいところ</description>
+      <pubDate>Sun, 03 May 2026 14:41:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/deka_pod/status/2050948944369512781</guid>
+    </item>
+    <item>
       <title>なんで私は休日中にunbound + adguard home + wireguard の連携なんてやってるんだろう・・・</title>
       <link>https://x.com/aki_star02/status/2050926921790488950</link>
       <description>aki: なんで私は休日中にunbound + adguard home + wireguard の連携なんてやってるんだろう・・・</description>
@@ -269,13 +276,6 @@
       <description>Wis (Glyzinie): 5G対応、6GHz帯も使えて WireGuard 対応ってめっちゃ欲しい https://t.co/ogevKHQktg</description>
       <pubDate>Tue, 28 Apr 2026 21:10:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/glyzinienet/status/2049234736363761687</guid>
-    </item>
-    <item>
-      <title>wireguard +sambaで家の外からつながったの便利・・・ openvpnじゃなくてもいいんだね。</title>
-      <link>https://x.com/aki_star02/status/2049087157118378074</link>
-      <description>aki: wireguard +sambaで家の外からつながったの便利・・・ openvpnじゃなくてもいいんだね。</description>
-      <pubDate>Tue, 28 Apr 2026 11:23:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aki_star02/status/2049087157118378074</guid>
     </item>
   </channel>
 </rss>
