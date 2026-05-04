@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</title>
+      <link>https://x.com/__su888/status/2051423372253294952</link>
+      <description>su8 / denchu: ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</description>
+      <pubDate>Mon, 04 May 2026 22:07:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2051423372253294952</guid>
+    </item>
+    <item>
+      <title>NetworkManagerには、 いつの間にか wireguard なんてーのが使えるようになってて VPNも簡単に張れるようになってるっぽいね まぁ、よっぽど暇になったら、 試してみよう</title>
+      <link>https://x.com/TsNukata/status/2051305689499472163</link>
+      <description>額田敏雄: NetworkManagerには、 いつの間にか wireguard なんてーのが使えるようになってて VPNも簡単に張れるようになってるっぽいね まぁ、よっぽど暇になったら、 試してみよう</description>
+      <pubDate>Mon, 04 May 2026 14:19:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TsNukata/status/2051305689499472163</guid>
+    </item>
+    <item>
+      <title>ルータに Wireguard を入れて、SSHポート丸出しというデンジャラスな運用をやめた</title>
+      <link>https://x.com/v34103080/status/2051279411132170609</link>
+      <description>v34びょう: ルータに Wireguard を入れて、SSHポート丸出しというデンジャラスな運用をやめた</description>
+      <pubDate>Mon, 04 May 2026 12:34:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/v34103080/status/2051279411132170609</guid>
+    </item>
+    <item>
+      <title>諸々準備が足りてないがまぁ誰も復旧を急いでないのでどうにかなるだろ（そもそも実は拠点間VPNってなれているとは言いづらい状態だし、今までやってきたL2TP/IPSecでもsoftetherでもなく wireguard なので勝手の理解が足りてないとも思う</title>
+      <link>https://x.com/Ckurai/status/2051213724451750118</link>
+      <description>倉井: 諸々準備が足りてないがまぁ誰も復旧を急いでないのでどうにかなるだろ（そもそも実は拠点間VPNってなれているとは言いづらい状態だし、今までやってきたL2TP/IPSecでもsoftetherでもなく wireguard なので勝手の理解が足りてないとも思う</description>
+      <pubDate>Mon, 04 May 2026 08:13:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2051213724451750118</guid>
+    </item>
+    <item>
       <title>#後で読む 用メモです→ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができるNetBirdオープンソースでセルフホスト可能 https://t.co/nqC5uvcGPe</title>
       <link>https://x.com/TommiyTw/status/2051213309009940710</link>
       <description>トミー@メモ: #後で読む 用メモです→ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができるNetBirdオープンソースでセルフホスト可能 https://t.co/nqC5uvcGPe</description>
@@ -248,34 +276,6 @@
       <description>もぐの: Wireguard 。これだけでVPNが張れるのだからいい時代である。 #さっき閉局しました https://t.co/BgLaLQaONu</description>
       <pubDate>Thu, 30 Apr 2026 02:01:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/moguno/status/2049670479016079564</guid>
-    </item>
-    <item>
-      <title>ESP32-S3でUSBシリアルをリモート制御するファームウェア、 WireGuard /tailscale対応入りました。あとChromeからファーム書き込みするのも作っときました。 ATOM S3 Liteがあれば遊べるはず。 #M5Stack https://t.co/dtpN5hbZoZ https://t.co/q3IrGqOIQO</title>
-      <link>https://x.com/ciniml/status/2049601896420389116</link>
-      <description>Kenta IDA: ESP32-S3でUSBシリアルをリモート制御するファームウェア、 WireGuard /tailscale対応入りました。あとChromeからファーム書き込みするのも作っときました。 ATOM S3 Liteがあれば遊べるはず。 #M5Stack https://t.co/dtpN5hbZoZ https://t.co/q3IrGqOIQO</description>
-      <pubDate>Wed, 29 Apr 2026 21:29:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ciniml/status/2049601896420389116</guid>
-    </item>
-    <item>
-      <title>エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</title>
-      <link>https://x.com/SogoogleK51859/status/2049495929309560900</link>
-      <description>nico: エンドユーザー ↓ CDN ↓ VPS（Nginx） ↓ WireGuard トンネル ↓ OPNsense（自宅） ↓ 内部サーバ（Nextcloudなど） 「見えないエネルギー可視化」 webアプリ構成図。</description>
-      <pubDate>Wed, 29 Apr 2026 14:28:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SogoogleK51859/status/2049495929309560900</guid>
-    </item>
-    <item>
-      <title>最も安価に海外の wireguard サーバーを利用する方法</title>
-      <link>https://x.com/sakuacid/status/2049415883714625636</link>
-      <description>さく: 最も安価に海外の wireguard サーバーを利用する方法</description>
-      <pubDate>Wed, 29 Apr 2026 09:09:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2049415883714625636</guid>
-    </item>
-    <item>
-      <title>WireGuard の設定してたらじかんがとけた(:3_ヽ)_</title>
-      <link>https://x.com/Tukunero/status/2049374360268591330</link>
-      <description>SDGsつくネロ: WireGuard の設定してたらじかんがとけた(:3_ヽ)_</description>
-      <pubDate>Wed, 29 Apr 2026 06:24:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tukunero/status/2049374360268591330</guid>
     </item>
   </channel>
 </rss>

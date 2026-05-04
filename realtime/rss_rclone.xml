@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@moriwaka rclone 、長いよねw resticで呼ぶので入れたら、長っ！って昨日思ったところ。</title>
+      <link>https://x.com/rioriost/status/2051130560815493286</link>
+      <description>ただの養蜂家だ🐝🇺🇦: @moriwaka rclone 、長いよねw resticで呼ぶので入れたら、長っ！って昨日思ったところ。</description>
+      <pubDate>Mon, 04 May 2026 02:43:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rioriost/status/2051130560815493286</guid>
+    </item>
+    <item>
       <title>WebDAVで rclone mountすると速いなって思ってたけど、BBRのおかげだったっていう話 別に普通にTCPだし、マルチコネクションでもない 別にSambaでも同じ速度が出た</title>
       <link>https://x.com/GeniusJunP/status/2050977453326422465</link>
       <description>じゅんぴー: WebDAVで rclone mountすると速いなって思ってたけど、BBRのおかげだったっていう話 別に普通にTCPだし、マルチコネクションでもない 別にSambaでも同じ速度が出た</description>
@@ -269,13 +276,6 @@
       <description>nisimura megumi: [ Rclone とは【用語集詳細】] https://t.co/ERaGeo98m6</description>
       <pubDate>Sun, 05 Apr 2026 05:36:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nim95/status/2040664813110759812</guid>
-    </item>
-    <item>
-      <title>&quot;かつてはgoogle-drive-ocamlfuseでマウントしたり、Grive2で同期したりといったツールが使われていました。しかし現在では、 rclone という単一のツールで、これら全てのことが、より安定して実現できます。&quot; [マウントから自動同期まで(2025年版)] https://t.co/g3X1V2l9HS</title>
-      <link>https://x.com/nim95/status/2040664338718212219</link>
-      <description>nisimura megumi: &quot;かつてはgoogle-drive-ocamlfuseでマウントしたり、Grive2で同期したりといったツールが使われていました。しかし現在では、 rclone という単一のツールで、これら全てのことが、より安定して実現できます。&quot; [マウントから自動同期まで(2025年版)] https://t.co/g3X1V2l9HS</description>
-      <pubDate>Sun, 05 Apr 2026 05:34:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nim95/status/2040664338718212219</guid>
     </item>
   </channel>
 </rss>
