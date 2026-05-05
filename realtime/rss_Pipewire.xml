@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Fedoraで出来るんだから、Alma Linuxに出来ないはずはないと思う事があるけど、EPELを追加してもリポジトリの収録パッケージの関係で出来ないことや、出来たとしても向いてないこともある('A`) PipeWire のJACK互換性のおかけで、REAPERは使えた('A`)</title>
+      <link>https://x.com/sugiryo_kwai/status/2051310975446589927</link>
+      <description>美濃のすぎりょう: Fedoraで出来るんだから、Alma Linuxに出来ないはずはないと思う事があるけど、EPELを追加してもリポジトリの収録パッケージの関係で出来ないことや、出来たとしても向いてないこともある('A`) PipeWire のJACK互換性のおかけで、REAPERは使えた('A`)</description>
+      <pubDate>Mon, 04 May 2026 14:40:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sugiryo_kwai/status/2051310975446589927</guid>
+    </item>
+    <item>
       <title>linuxに入れたvoicevoxで生成した音声をmpvで再生する時に最初が切れてしまう。 ・バッファを指定 ・再生時の開始位置を指定 改善しない PipeWire の省電力機能（スリープ）を無効にする設定をしてみた。邪魔してるのこいつか？ 様子見</title>
       <link>https://x.com/gacreate/status/2050702672748245180</link>
       <description>みやきん™: linuxに入れたvoicevoxで生成した音声をmpvで再生する時に最初が切れてしまう。 ・バッファを指定 ・再生時の開始位置を指定 改善しない PipeWire の省電力機能（スリープ）を無効にする設定をしてみた。邪魔してるのこいつか？ 様子見</description>
@@ -206,20 +213,6 @@
       <description>taisan@@: PipeWire 使ってみたいな</description>
       <pubDate>Tue, 07 Apr 2026 03:12:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/taisan11_/status/2041353268459401266</guid>
-    </item>
-    <item>
-      <title>とりあえず Pipewire でcombine sinkを作って、 qpwgraphでゲーム音→combine sink→steamレコーディングって感じにケーブルを繋げる steamレコーディングサイドにモニターされてるデスクトップ音を消す という感じでどうにか形になった https://t.co/lXLCzqjyRi https://t.co/r5jSFtmWZR</title>
-      <link>https://x.com/goah_simulator/status/2040834522976252168</link>
-      <description>監獄島ごあごあーん / 監獄ごあごあ: とりあえず Pipewire でcombine sinkを作って、 qpwgraphでゲーム音→combine sink→steamレコーディングって感じにケーブルを繋げる steamレコーディングサイドにモニターされてるデスクトップ音を消す という感じでどうにか形になった https://t.co/lXLCzqjyRi https://t.co/r5jSFtmWZR</description>
-      <pubDate>Sun, 05 Apr 2026 16:50:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/goah_simulator/status/2040834522976252168</guid>
-    </item>
-    <item>
-      <title>PipeWire のPulseAudio互換がちゃんと鳴ったら良かったんだけどなぜかまともに動かんからなあ</title>
-      <link>https://x.com/cxx/status/2040804824221208590</link>
-      <description>cxx: PipeWire のPulseAudio互換がちゃんと鳴ったら良かったんだけどなぜかまともに動かんからなあ</description>
-      <pubDate>Sun, 05 Apr 2026 14:52:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cxx/status/2040804824221208590</guid>
     </item>
   </channel>
 </rss>

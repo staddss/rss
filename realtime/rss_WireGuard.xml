@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>app connectorをプロキシっぽい使い方できるのが便利で、最近自前 Wireguard やめてtailscaleに載せ替えたんだよな</title>
+      <link>https://x.com/rv64gc/status/2051727418591981651</link>
+      <description>みゅ: app connectorをプロキシっぽい使い方できるのが便利で、最近自前 Wireguard やめてtailscaleに載せ替えたんだよな</description>
+      <pubDate>Tue, 05 May 2026 18:15:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rv64gc/status/2051727418591981651</guid>
+    </item>
+    <item>
+      <title>へぇ。Tailscale導入は以前検討したことあるけど、自分は素の Wireguard で十分だったんだよね。 鍵はNixOS + systemd-networkd + agenixで管理してて、個人で使う分には特に不便してないし https://t.co/pmW4Xl9BPq</title>
+      <link>https://x.com/hiroki_cockatoo/status/2051698918048866319</link>
+      <description>Hiroki Kawakami: へぇ。Tailscale導入は以前検討したことあるけど、自分は素の Wireguard で十分だったんだよね。 鍵はNixOS + systemd-networkd + agenixで管理してて、個人で使う分には特に不便してないし https://t.co/pmW4Xl9BPq</description>
+      <pubDate>Tue, 05 May 2026 16:21:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiroki_cockatoo/status/2051698918048866319</guid>
+    </item>
+    <item>
+      <title>みんななんでTailscale使ってるんだ？ 中身の wireguard だけでええやん</title>
+      <link>https://x.com/mikan_seraph/status/2051640792352166374</link>
+      <description>深瀬 悠: みんななんでTailscale使ってるんだ？ 中身の wireguard だけでええやん</description>
+      <pubDate>Tue, 05 May 2026 12:30:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mikan_seraph/status/2051640792352166374</guid>
+    </item>
+    <item>
       <title>外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</title>
       <link>https://x.com/laguryz/status/2051578797506601465</link>
       <description>laguryz: 外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</description>
       <pubDate>Tue, 05 May 2026 08:24:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/laguryz/status/2051578797506601465</guid>
+    </item>
+    <item>
+      <title>全部わかる。 nftでオレオレルールをしこたま送り込んできてて、これ面倒見るのは無理だなってなった。 秒で WireGuard に戻った。 https://t.co/ygN6TwzxWp</title>
+      <link>https://x.com/moguno/status/2051550904021840205</link>
+      <description>もぐの: 全部わかる。 nftでオレオレルールをしこたま送り込んできてて、これ面倒見るのは無理だなってなった。 秒で WireGuard に戻った。 https://t.co/ygN6TwzxWp</description>
+      <pubDate>Tue, 05 May 2026 06:33:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2051550904021840205</guid>
     </item>
     <item>
       <title>Moshiとかからリモートでコントロールできる環境を WireGuard ベースでシュッと作れた時点でUDR7は入れて正解だった感じはある</title>
@@ -248,34 +276,6 @@
       <description>takeuchi: モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにVPN先から行くのはダメということなんだろうか。VPN先への送信はokみたいなんだが。</description>
       <pubDate>Fri, 01 May 2026 10:27:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_takeuchi__/status/2050160129363116408</guid>
-    </item>
-    <item>
-      <title>モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにポート転送すればPLCとかもVPNに入れるのかと思ったらダメなのか。</title>
-      <link>https://x.com/_takeuchi__/status/2050077750304841811</link>
-      <description>takeuchi: モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにポート転送すればPLCとかもVPNに入れるのかと思ったらダメなのか。</description>
-      <pubDate>Fri, 01 May 2026 04:59:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2050077750304841811</guid>
-    </item>
-    <item>
-      <title>VPSとsite2site接続するの wireguard 入れたら十分なんでは</title>
-      <link>https://x.com/sakuacid/status/2050051912385671643</link>
-      <description>さく: VPSとsite2site接続するの wireguard 入れたら十分なんでは</description>
-      <pubDate>Fri, 01 May 2026 03:17:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2050051912385671643</guid>
-    </item>
-    <item>
-      <title>Wireguard 設定簡単でアプリも欲しい機能があるのは良いけどクライアントのトンネルの割り当てIPを自動で払い出ししてくれないから管理しないと駄目なのめんどくさいな</title>
-      <link>https://x.com/yukps/status/2049841685686022612</link>
-      <description>昇天した干し梅: Wireguard 設定簡単でアプリも欲しい機能があるのは良いけどクライアントのトンネルの割り当てIPを自動で払い出ししてくれないから管理しないと駄目なのめんどくさいな</description>
-      <pubDate>Thu, 30 Apr 2026 13:21:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yukps/status/2049841685686022612</guid>
-    </item>
-    <item>
-      <title>wireguard をIPv6で構成してもVPNうまくいかなかったの携帯の回線がIPv4だったせいのようでしかたないからMAP-Eの空きポート使うようにしたらいけた</title>
-      <link>https://x.com/mizktw/status/2049840978283172039</link>
-      <description>水: wireguard をIPv6で構成してもVPNうまくいかなかったの携帯の回線がIPv4だったせいのようでしかたないからMAP-Eの空きポート使うようにしたらいけた</description>
-      <pubDate>Thu, 30 Apr 2026 13:19:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mizktw/status/2049840978283172039</guid>
     </item>
   </channel>
 </rss>

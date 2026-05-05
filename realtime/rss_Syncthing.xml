@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing のアプリは理由なく discontinued になっているのか🤔</title>
+      <link>https://x.com/cheenanet/status/2051669365200929200</link>
+      <description>Cheena: Syncthing のアプリは理由なく discontinued になっているのか🤔</description>
+      <pubDate>Tue, 05 May 2026 14:24:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cheenanet/status/2051669365200929200</guid>
+    </item>
+    <item>
+      <title>Syncthing 、なぜか同期速度が0に固定されて？しまい、いつまでたっても同期が終了しなくなってしまった 困ります……</title>
+      <link>https://x.com/watasuke1024/status/2051636654746796489</link>
+      <description>わたすけ: Syncthing 、なぜか同期速度が0に固定されて？しまい、いつまでたっても同期が終了しなくなってしまった 困ります……</description>
+      <pubDate>Tue, 05 May 2026 12:14:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/watasuke1024/status/2051636654746796489</guid>
+    </item>
+    <item>
       <title>google drive に機密情報〜のツイート見たけど普通にやらんだろと思ってる一方で chrome にパスワード明け渡してる人沢山いるしなーとも。 僕は syncthing 、 keepass を使ってますけど</title>
       <link>https://x.com/ch7aki_jp/status/2051188101033463808</link>
       <description>ちあき: google drive に機密情報〜のツイート見たけど普通にやらんだろと思ってる一方で chrome にパスワード明け渡してる人沢山いるしなーとも。 僕は syncthing 、 keepass を使ってますけど</description>
@@ -262,27 +276,6 @@
       <description>TokyoBlackHatNews: 製品紹介：安全でプライベートなファイル同期のための Syncthing https://t.co/O9kJbweFIv</description>
       <pubDate>Mon, 20 Apr 2026 04:36:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2046085492752392666</guid>
-    </item>
-    <item>
-      <title>@murasametech 開発ワークスペース：Ubuntu 24.04 ・Caddy ・Forgejo ・n8n ・ Syncthing ・Portainer ・Joplin AI：Windows WSL2 Ubuntu ・Ollama ・OpenWebUI ・searxng ・Portainer-agent NAS：QNAP ・WebDAVサーバー ・バックアップ中継 ネットワーク：YAMAHA RTX1300(簡易DNSあり) + WLX AP</title>
-      <link>https://x.com/NonbiNon/status/2045763628360728871</link>
-      <description>ノンビ@暗号資産: @murasametech 開発ワークスペース：Ubuntu 24.04 ・Caddy ・Forgejo ・n8n ・ Syncthing ・Portainer ・Joplin AI：Windows WSL2 Ubuntu ・Ollama ・OpenWebUI ・searxng ・Portainer-agent NAS：QNAP ・WebDAVサーバー ・バックアップ中継 ネットワーク：YAMAHA RTX1300(簡易DNSあり) + WLX AP</description>
-      <pubDate>Sun, 19 Apr 2026 07:17:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NonbiNon/status/2045763628360728871</guid>
-    </item>
-    <item>
-      <title>MX Linuxを3台動かしているんだが、 Syncthing が便利すぎる。 https://t.co/53P0TNYBmN</title>
-      <link>https://x.com/tomoynet/status/2045538208998670737</link>
-      <description>TOMOY／トモイ: MX Linuxを3台動かしているんだが、 Syncthing が便利すぎる。 https://t.co/53P0TNYBmN</description>
-      <pubDate>Sat, 18 Apr 2026 16:21:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomoynet/status/2045538208998670737</guid>
-    </item>
-    <item>
-      <title>音楽を聞く環境が変わったわけで、今後は、 ・Cmus → 慣れるまではナニコレ？ですけどねー ・VLC for Android として、ffmpegでタグ情報を操作、なので実質ID3v2.4、 Syncthing で同期 あたりかなぁ…</title>
-      <link>https://x.com/dollplayer2501/status/2045281278610776397</link>
-      <description>Masahiquo, Naraya MORRY: 音楽を聞く環境が変わったわけで、今後は、 ・Cmus → 慣れるまではナニコレ？ですけどねー ・VLC for Android として、ffmpegでタグ情報を操作、なので実質ID3v2.4、 Syncthing で同期 あたりかなぁ…</description>
-      <pubDate>Fri, 17 Apr 2026 23:20:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dollplayer2501/status/2045281278610776397</guid>
     </item>
   </channel>
 </rss>
