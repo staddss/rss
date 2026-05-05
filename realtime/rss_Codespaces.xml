@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Codespaces が不安定すぎて作業できん。</title>
+      <link>https://x.com/bgnori/status/2051554038194561417</link>
+      <description>Nori（情報ブロイラー）: Codespaces が不安定すぎて作業できん。</description>
+      <pubDate>Tue, 05 May 2026 06:46:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bgnori/status/2051554038194561417</guid>
+    </item>
+    <item>
+      <title>GitHubがダウンしています。 https://t.co/Zp87yL3FQn 要約:GitHubでIssues、Webhooks、Git操作、PR、Actions、Packages、Pages、 Codespaces に遅延やタイムアウトが発生。2026年5月4日に解決済みです。</title>
+      <link>https://x.com/DerkiesAd001/status/2051432072653480438</link>
+      <description>HackerNews要約※非公式: GitHubがダウンしています。 https://t.co/Zp87yL3FQn 要約:GitHubでIssues、Webhooks、Git操作、PR、Actions、Packages、Pages、 Codespaces に遅延やタイムアウトが発生。2026年5月4日に解決済みです。</description>
+      <pubDate>Mon, 04 May 2026 22:41:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2051432072653480438</guid>
+    </item>
+    <item>
       <title>PlaywrightもGitHub Codespaces 上で動いたようです。 ただ、どこを見るべきかが、まだちょっと曖昧かな？ ここら辺も、ちゃんと学習していかないとですね。</title>
       <link>https://x.com/lion_shiraishi/status/2050844805736132977</link>
       <description>白石 璃音: PlaywrightもGitHub Codespaces 上で動いたようです。 ただ、どこを見るべきかが、まだちょっと曖昧かな？ ここら辺も、ちゃんと学習していかないとですね。</description>
@@ -262,20 +276,6 @@
       <description>ヤスス(本田康志)🐼介護×ICT: 今日は、専門学校の先生🐼← 授業では、 GitHub Codespaces （GitHub Copilot Student登録済み）で Gemini CLI Copilot CLI のハイブリッド利用でのバイブコーディング アプリ開発からドキュメント作成までのワークを実施。 その流れの中で、 コンテキストエンジニアリングについて</description>
       <pubDate>Thu, 16 Apr 2026 07:23:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hy_11/status/2044677966555451749</guid>
-    </item>
-    <item>
-      <title>社内からGitHub Codespaces を利用するための情報を集めていたが、GitHub Enterpriseだと無料枠がないのは盲点だった……</title>
-      <link>https://x.com/ppoi/status/2044656982351859899</link>
-      <description>PPOI: 社内からGitHub Codespaces を利用するための情報を集めていたが、GitHub Enterpriseだと無料枠がないのは盲点だった……</description>
-      <pubDate>Thu, 16 Apr 2026 05:59:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ppoi/status/2044656982351859899</guid>
-    </item>
-    <item>
-      <title>GitHub から PR Review コメントを取得させるだけで30分要した。信じられないかもしれないが、これは GitHub Codespaces 内で起きている。 自分とこのツールの制御くらいちゃんとしてくれよ。</title>
-      <link>https://x.com/honjo_yosage/status/2044503528073486448</link>
-      <description>ほんじょー＠三度の飯よりパンが好き: GitHub から PR Review コメントを取得させるだけで30分要した。信じられないかもしれないが、これは GitHub Codespaces 内で起きている。 自分とこのツールの制御くらいちゃんとしてくれよ。</description>
-      <pubDate>Wed, 15 Apr 2026 19:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/honjo_yosage/status/2044503528073486448</guid>
     </item>
   </channel>
 </rss>

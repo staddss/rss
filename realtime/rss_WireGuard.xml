@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</title>
+      <link>https://x.com/laguryz/status/2051578797506601465</link>
+      <description>laguryz: 外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</description>
+      <pubDate>Tue, 05 May 2026 08:24:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/laguryz/status/2051578797506601465</guid>
+    </item>
+    <item>
+      <title>Moshiとかからリモートでコントロールできる環境を WireGuard ベースでシュッと作れた時点でUDR7は入れて正解だった感じはある</title>
+      <link>https://x.com/litols0816/status/2051527771965510065</link>
+      <description>りとるす: Moshiとかからリモートでコントロールできる環境を WireGuard ベースでシュッと作れた時点でUDR7は入れて正解だった感じはある</description>
+      <pubDate>Tue, 05 May 2026 05:01:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/litols0816/status/2051527771965510065</guid>
+    </item>
+    <item>
       <title>すでに WireGuard 環境立ててるからこれでいいわ</title>
       <link>https://x.com/book000/status/2051524463209168969</link>
       <description>Tomachi: すでに WireGuard 環境立ててるからこれでいいわ</description>
@@ -262,20 +276,6 @@
       <description>水: wireguard をIPv6で構成してもVPNうまくいかなかったの携帯の回線がIPv4だったせいのようでしかたないからMAP-Eの空きポート使うようにしたらいけた</description>
       <pubDate>Thu, 30 Apr 2026 13:19:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mizktw/status/2049840978283172039</guid>
-    </item>
-    <item>
-      <title>@refactor_career はい、そうです😊 WireGuard はご存知でしょうか。</title>
-      <link>https://x.com/kinakomochacha/status/2049828604079665645</link>
-      <description>きなこ｜AI初心者→仕事で使えるようになる: @refactor_career はい、そうです😊 WireGuard はご存知でしょうか。</description>
-      <pubDate>Thu, 30 Apr 2026 12:29:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kinakomochacha/status/2049828604079665645</guid>
-    </item>
-    <item>
-      <title>@MEZE2023_X そう？L2TPの筑波Vでもいいからスマホに入れておくといいよ 可能なら wireguard アプリ</title>
-      <link>https://x.com/L_port53/status/2049790789052735787</link>
-      <description>一樹（DNS）: @MEZE2023_X そう？L2TPの筑波Vでもいいからスマホに入れておくといいよ 可能なら wireguard アプリ</description>
-      <pubDate>Thu, 30 Apr 2026 09:59:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2049790789052735787</guid>
     </item>
   </channel>
 </rss>

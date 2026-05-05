@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>それに加えてCPUがi5-1130G7なのでEndeavourOS通常インストール後にAVX512対応のv4リポジトリなcachyOSカーネルに変更、さらにハイバネーション退避先と兼用でswapfileを12GBつくり物理メモリは zram を有効化、swappiness調整して実質18GB使える状態にしたのでとてもよい。良い買い物だった感すごい。</title>
+      <link>https://x.com/tksg8086/status/2051252717595873590</link>
+      <description>たかさご: それに加えてCPUがi5-1130G7なのでEndeavourOS通常インストール後にAVX512対応のv4リポジトリなcachyOSカーネルに変更、さらにハイバネーション退避先と兼用でswapfileを12GBつくり物理メモリは zram を有効化、swappiness調整して実質18GB使える状態にしたのでとてもよい。良い買い物だった感すごい。</description>
+      <pubDate>Mon, 04 May 2026 10:48:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tksg8086/status/2051252717595873590</guid>
+    </item>
+    <item>
       <title>LockerStudioが重たい。PC古いから仕方ないんだけど zram 使ってスワップで固まる時間は減った Win10だったらもうまともに動いてないだろうな これで動くメモリとプロプライエタリドライバが使えるグラボほしい https://t.co/cLBygFOkmy</title>
       <link>https://x.com/C0KOfQdaoDIy30l/status/2050938343106707709</link>
       <description>すばる: LockerStudioが重たい。PC古いから仕方ないんだけど zram 使ってスワップで固まる時間は減った Win10だったらもうまともに動いてないだろうな これで動くメモリとプロプライエタリドライバが使えるグラボほしい https://t.co/cLBygFOkmy</description>
