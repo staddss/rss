@@ -165,12 +165,5 @@
       <pubDate>Mon, 06 Apr 2026 13:01:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/0x71ff/status/2041139303766704578</guid>
     </item>
-    <item>
-      <title>PulseAudioの異常と関係するかは分からんが zram へのswapが多めになってる気がするのでswappinessを60に戻す…</title>
-      <link>https://x.com/cxx/status/2040589806380732493</link>
-      <description>cxx: PulseAudioの異常と関係するかは分からんが zram へのswapが多めになってる気がするのでswappinessを60に戻す…</description>
-      <pubDate>Sun, 05 Apr 2026 00:38:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cxx/status/2040589806380732493</guid>
-    </item>
   </channel>
 </rss>

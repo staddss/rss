@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>すでに WireGuard 環境立ててるからこれでいいわ</title>
+      <link>https://x.com/book000/status/2051524463209168969</link>
+      <description>Tomachi: すでに WireGuard 環境立ててるからこれでいいわ</description>
+      <pubDate>Tue, 05 May 2026 04:48:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/book000/status/2051524463209168969</guid>
+    </item>
+    <item>
+      <title>managed WireGuard 、単に品質の問題で 不便に なるモンなんだなぁ</title>
+      <link>https://x.com/wint7/status/2051509609098297525</link>
+      <description>wint🛰: managed WireGuard 、単に品質の問題で 不便に なるモンなんだなぁ</description>
+      <pubDate>Tue, 05 May 2026 03:49:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wint7/status/2051509609098297525</guid>
+    </item>
+    <item>
       <title>ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</title>
       <link>https://x.com/__su888/status/2051423372253294952</link>
       <description>su8 / denchu: ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</description>
       <pubDate>Mon, 04 May 2026 22:07:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__su888/status/2051423372253294952</guid>
+    </item>
+    <item>
+      <title>なんつーかJNKもJNKホールディングスで拠点間通信だ！！といいだして長い上にふらっふらしているので、拠点間がIPsecの拠点とsoftetherの拠点と wireguard とバラバラになったなー</title>
+      <link>https://x.com/Ckurai/status/2051322177790910769</link>
+      <description>倉井: なんつーかJNKもJNKホールディングスで拠点間通信だ！！といいだして長い上にふらっふらしているので、拠点間がIPsecの拠点とsoftetherの拠点と wireguard とバラバラになったなー</description>
+      <pubDate>Mon, 04 May 2026 15:24:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2051322177790910769</guid>
     </item>
     <item>
       <title>NetworkManagerには、 いつの間にか wireguard なんてーのが使えるようになってて VPNも簡単に張れるようになってるっぽいね まぁ、よっぽど暇になったら、 試してみよう</title>
@@ -255,27 +276,6 @@
       <description>一樹（DNS）: @MEZE2023_X そう？L2TPの筑波Vでもいいからスマホに入れておくといいよ 可能なら wireguard アプリ</description>
       <pubDate>Thu, 30 Apr 2026 09:59:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2049790789052735787</guid>
-    </item>
-    <item>
-      <title>Raspberry Pi + WireGuard で作るお手軽VPNサーバー｜くっきーブログ https://t.co/a7Z6Jk4LZJ</title>
-      <link>https://x.com/cookie_ios/status/2049752880593486246</link>
-      <description>くっきー@iOS Developer: Raspberry Pi + WireGuard で作るお手軽VPNサーバー｜くっきーブログ https://t.co/a7Z6Jk4LZJ</description>
-      <pubDate>Thu, 30 Apr 2026 07:29:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cookie_ios/status/2049752880593486246</guid>
-    </item>
-    <item>
-      <title>@geckorex_smoke @asuhareya WireGuard とはTailScaleとか、UDPポート１つで開通するようなのが嬉しいんですよね。</title>
-      <link>https://x.com/tryandhappy99/status/2049731769986056538</link>
-      <description>てる: @geckorex_smoke @asuhareya WireGuard とはTailScaleとか、UDPポート１つで開通するようなのが嬉しいんですよね。</description>
-      <pubDate>Thu, 30 Apr 2026 06:05:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tryandhappy99/status/2049731769986056538</guid>
-    </item>
-    <item>
-      <title>Wireguard 。これだけでVPNが張れるのだからいい時代である。 #さっき閉局しました https://t.co/BgLaLQaONu</title>
-      <link>https://x.com/moguno/status/2049670479016079564</link>
-      <description>もぐの: Wireguard 。これだけでVPNが張れるのだからいい時代である。 #さっき閉局しました https://t.co/BgLaLQaONu</description>
-      <pubDate>Thu, 30 Apr 2026 02:01:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2049670479016079564</guid>
     </item>
   </channel>
 </rss>
