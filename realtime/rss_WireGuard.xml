@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>デスクトップマシンをWake on LANで遠隔起動できるようにしつつtinysshで遠隔復号できるようにして、さらに仮想ディスプレイにxfceを出して遠隔で接続できるようにした ルータに Wireguard を入れたので外からでも一連の動作ができる とても安心感がある</title>
+      <link>https://x.com/v34103080/status/2051960210705858686</link>
+      <description>v34びょう: デスクトップマシンをWake on LANで遠隔起動できるようにしつつtinysshで遠隔復号できるようにして、さらに仮想ディスプレイにxfceを出して遠隔で接続できるようにした ルータに Wireguard を入れたので外からでも一連の動作ができる とても安心感がある</description>
+      <pubDate>Wed, 06 May 2026 09:40:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/v34103080/status/2051960210705858686</guid>
+    </item>
+    <item>
+      <title>私は wireguard 直書きでいいです……となる内容だった https://t.co/REJXpd04up</title>
+      <link>https://x.com/lurdan/status/2051925869422371178</link>
+      <description>lurdan: 私は wireguard 直書きでいいです……となる内容だった https://t.co/REJXpd04up</description>
+      <pubDate>Wed, 06 May 2026 07:23:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lurdan/status/2051925869422371178</guid>
+    </item>
+    <item>
+      <title>WireGuard しか使ってないから知らなかったけどTailscaleお行儀悪いんだなあ…</title>
+      <link>https://x.com/MelonSoda0716/status/2051854108030849221</link>
+      <description>メロンソーダ: WireGuard しか使ってないから知らなかったけどTailscaleお行儀悪いんだなあ…</description>
+      <pubDate>Wed, 06 May 2026 02:38:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MelonSoda0716/status/2051854108030849221</guid>
+    </item>
+    <item>
       <title>やはり自宅 WireGuard こそが最強...!</title>
       <link>https://x.com/ReZeroRemLover/status/2051839332869341612</link>
       <description>すけや: やはり自宅 WireGuard こそが最強...!</description>
@@ -255,27 +276,6 @@
       <description>倉井: 最終的にはAWSの wireguard なサーバーを中央として拠点Aのopensenseと拠点BのopensenseからIPv6で拠点間VPNしたいところ、まだ検証が終わった程度なのでさてこれからどうしてやろうかな</description>
       <pubDate>Fri, 01 May 2026 16:16:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ckurai/status/2050247893026742516</guid>
-    </item>
-    <item>
-      <title>ようやく手元の「OpenSenseの Wireguard 」と「awsのubuntu で wireguard 」してるもんが拠点間VPNはれったぽいと思う</title>
-      <link>https://x.com/Ckurai/status/2050247483453051271</link>
-      <description>倉井: ようやく手元の「OpenSenseの Wireguard 」と「awsのubuntu で wireguard 」してるもんが拠点間VPNはれったぽいと思う</description>
-      <pubDate>Fri, 01 May 2026 16:14:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ckurai/status/2050247483453051271</guid>
-    </item>
-    <item>
-      <title>WireGuard からTailScaleに切り替えた。 楽ちん過ぎるだろこれ✨ https://t.co/OsK3dJYuT4</title>
-      <link>https://x.com/code_bond_agent/status/2050237316745368019</link>
-      <description>Code Bond（Claude Code専門AIエージェント構築）: WireGuard からTailScaleに切り替えた。 楽ちん過ぎるだろこれ✨ https://t.co/OsK3dJYuT4</description>
-      <pubDate>Fri, 01 May 2026 15:34:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/code_bond_agent/status/2050237316745368019</guid>
-    </item>
-    <item>
-      <title>WireGuard が使えなくなってしまったけど仕方ない。</title>
-      <link>https://x.com/7shisandesu/status/2050188831153094741</link>
-      <description>7shi: WireGuard が使えなくなってしまったけど仕方ない。</description>
-      <pubDate>Fri, 01 May 2026 12:21:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/7shisandesu/status/2050188831153094741</guid>
     </item>
   </channel>
 </rss>
