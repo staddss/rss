@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>bottom (htop) 等では zram が前提になっていないので、SSD 上にスワップされているように見えてしまい、一瞬なにが起こったかと思った。 https://t.co/jgSkj10Ztt</title>
+      <link>https://x.com/openHardwareEng/status/2052034412746039447</link>
+      <description>⚙暴れるゆとり🌱🥑: bottom (htop) 等では zram が前提になっていないので、SSD 上にスワップされているように見えてしまい、一瞬なにが起こったかと思った。 https://t.co/jgSkj10Ztt</description>
+      <pubDate>Wed, 06 May 2026 14:35:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/openHardwareEng/status/2052034412746039447</guid>
+    </item>
+    <item>
+      <title>これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。</title>
+      <link>https://x.com/pkush0880/status/2051985152109158785</link>
+      <description>おしの: これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。</description>
+      <pubDate>Wed, 06 May 2026 11:19:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pkush0880/status/2051985152109158785</guid>
+    </item>
+    <item>
+      <title>あー、使わないメモリ領域を押しやるということだけを考えるなら、もう物理swapfileは作らないで、 zram のswapだけにしても良いという考えもあるのか メモリ96GBもあるならそれもまたありかもしれないな</title>
+      <link>https://x.com/ncaq/status/2051933691149230263</link>
+      <description>エヌユル: あー、使わないメモリ領域を押しやるということだけを考えるなら、もう物理swapfileは作らないで、 zram のswapだけにしても良いという考えもあるのか メモリ96GBもあるならそれもまたありかもしれないな</description>
+      <pubDate>Wed, 06 May 2026 07:54:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ncaq/status/2051933691149230263</guid>
+    </item>
+    <item>
       <title>それに加えてCPUがi5-1130G7なのでEndeavourOS通常インストール後にAVX512対応のv4リポジトリなcachyOSカーネルに変更、さらにハイバネーション退避先と兼用でswapfileを12GBつくり物理メモリは zram を有効化、swappiness調整して実質18GB使える状態にしたのでとてもよい。良い買い物だった感すごい。</title>
       <link>https://x.com/tksg8086/status/2051252717595873590</link>
       <description>たかさご: それに加えてCPUがi5-1130G7なのでEndeavourOS通常インストール後にAVX512対応のv4リポジトリなcachyOSカーネルに変更、さらにハイバネーション退避先と兼用でswapfileを12GBつくり物理メモリは zram を有効化、swappiness調整して実質18GB使える状態にしたのでとてもよい。良い買い物だった感すごい。</description>
@@ -164,13 +185,6 @@
       <description>Kichitaro (Kichi Shotaro): Raspbian、いつのまにか zram が標準になってるのね。普通のSwapファイルに戻すには、/etc/rpi/swap.conf辺りをいじるとかなの、まあわかりやすいか。 https://t.co/pYk9XzUQsx</description>
       <pubDate>Tue, 07 Apr 2026 13:19:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TaroKichijo/status/2041506116321091836</guid>
-    </item>
-    <item>
-      <title>メモリは4GBしかないのでカツカツだけど、 zram でなんとかなってる。（つまりここもmacOS風にした） Discord, Firefox, 端末 くらいなら同時に起動しても全然普通に使える。 https://t.co/87RvQbFyKu</title>
-      <link>https://x.com/0x71ff/status/2041139303766704578</link>
-      <description>0x71: メモリは4GBしかないのでカツカツだけど、 zram でなんとかなってる。（つまりここもmacOS風にした） Discord, Firefox, 端末 くらいなら同時に起動しても全然普通に使える。 https://t.co/87RvQbFyKu</description>
-      <pubDate>Mon, 06 Apr 2026 13:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/0x71ff/status/2041139303766704578</guid>
     </item>
   </channel>
 </rss>
