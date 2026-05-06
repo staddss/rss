@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やはり自宅 WireGuard こそが最強...!</title>
+      <link>https://x.com/ReZeroRemLover/status/2051839332869341612</link>
+      <description>すけや: やはり自宅 WireGuard こそが最強...!</description>
+      <pubDate>Wed, 06 May 2026 01:39:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ReZeroRemLover/status/2051839332869341612</guid>
+    </item>
+    <item>
       <title>app connectorをプロキシっぽい使い方できるのが便利で、最近自前 Wireguard やめてtailscaleに載せ替えたんだよな</title>
       <link>https://x.com/rv64gc/status/2051727418591981651</link>
       <description>みゅ: app connectorをプロキシっぽい使い方できるのが便利で、最近自前 Wireguard やめてtailscaleに載せ替えたんだよな</description>
@@ -17,6 +24,13 @@
       <description>Hiroki Kawakami: へぇ。Tailscale導入は以前検討したことあるけど、自分は素の Wireguard で十分だったんだよね。 鍵はNixOS + systemd-networkd + agenixで管理してて、個人で使う分には特に不便してないし https://t.co/pmW4Xl9BPq</description>
       <pubDate>Tue, 05 May 2026 16:21:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hiroki_cockatoo/status/2051698918048866319</guid>
+    </item>
+    <item>
+      <title>@aconfx いいえ、site-to-site VPN（IPsec IKEv2/IPsec with ESP、または WireGuard in network-to-network mode、BGP over tunnelなど）は、固定endpoint間のルーティングテーブル共有とLAN間暗号化が主目的で、consumer VPNのようなper-user IP masquerading + no-logs anonymityを提供しません。</title>
+      <link>https://x.com/grok/status/2051653821961527614</link>
+      <description>Grok: @aconfx いいえ、site-to-site VPN（IPsec IKEv2/IPsec with ESP、または WireGuard in network-to-network mode、BGP over tunnelなど）は、固定endpoint間のルーティングテーブル共有とLAN間暗号化が主目的で、consumer VPNのようなper-user IP masquerading + no-logs anonymityを提供しません。</description>
+      <pubDate>Tue, 05 May 2026 13:22:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2051653821961527614</guid>
     </item>
     <item>
       <title>みんななんでTailscale使ってるんだ？ 中身の wireguard だけでええやん</title>
@@ -262,20 +276,6 @@
       <description>7shi: WireGuard が使えなくなってしまったけど仕方ない。</description>
       <pubDate>Fri, 01 May 2026 12:21:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/7shisandesu/status/2050188831153094741</guid>
-    </item>
-    <item>
-      <title>@nekoruri もしかしたら wireguard , tailscale などが巻き添えになるかもしれない？ まあ、さっさと再起動できるならアップデートしたほうがいいですね</title>
-      <link>https://x.com/hasegaw/status/2050165590669873343</link>
-      <description>もつなべおじさん: @nekoruri もしかしたら wireguard , tailscale などが巻き添えになるかもしれない？ まあ、さっさと再起動できるならアップデートしたほうがいいですね</description>
-      <pubDate>Fri, 01 May 2026 10:49:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hasegaw/status/2050165590669873343</guid>
-    </item>
-    <item>
-      <title>モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにVPN先から行くのはダメということなんだろうか。VPN先への送信はokみたいなんだが。</title>
-      <link>https://x.com/_takeuchi__/status/2050160129363116408</link>
-      <description>takeuchi: モバイルルーターを wireguard のクライアントにして、繋いだPCとかPLCにVPN先から行くのはダメということなんだろうか。VPN先への送信はokみたいなんだが。</description>
-      <pubDate>Fri, 01 May 2026 10:27:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_takeuchi__/status/2050160129363116408</guid>
     </item>
   </channel>
 </rss>
