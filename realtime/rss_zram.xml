@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ncaq 確かにOOMで落とされたほうが都合が良いシナリオなら zram 単体もアリですね……Androidとかそんな感じですし…… swapの構造を変えたらswappinessの調整も必要となりそうですが、それはそれで……</title>
+      <link>https://x.com/rikki_312/status/2052277026007183392</link>
+      <description>リッキー: @ncaq 確かにOOMで落とされたほうが都合が良いシナリオなら zram 単体もアリですね……Androidとかそんな感じですし…… swapの構造を変えたらswappinessの調整も必要となりそうですが、それはそれで……</description>
+      <pubDate>Thu, 07 May 2026 06:39:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rikki_312/status/2052277026007183392</guid>
+    </item>
+    <item>
+      <title>@ncaq 経験則ですが、ファイルキャッシュが重要かつ非アクティブなプログラムメモリが多いとか、CPUリソースが重要な場合とかは物理Swapが有利ですが、物理Swap先が遅いとかCPUが暇してるとかならば zram はありですねえ…… 他にはzswap+物理swapを試すのもアリかもしれません</title>
+      <link>https://x.com/rikki_312/status/2052270673331151180</link>
+      <description>リッキー: @ncaq 経験則ですが、ファイルキャッシュが重要かつ非アクティブなプログラムメモリが多いとか、CPUリソースが重要な場合とかは物理Swapが有利ですが、物理Swap先が遅いとかCPUが暇してるとかならば zram はありですねえ…… 他にはzswap+物理swapを試すのもアリかもしれません</description>
+      <pubDate>Thu, 07 May 2026 06:13:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rikki_312/status/2052270673331151180</guid>
+    </item>
+    <item>
       <title>bottom (htop) 等では zram が前提になっていないので、SSD 上にスワップされているように見えてしまい、一瞬なにが起こったかと思った。 https://t.co/jgSkj10Ztt</title>
       <link>https://x.com/openHardwareEng/status/2052034412746039447</link>
       <description>⚙暴れるゆとり🌱🥑: bottom (htop) 等では zram が前提になっていないので、SSD 上にスワップされているように見えてしまい、一瞬なにが起こったかと思った。 https://t.co/jgSkj10Ztt</description>

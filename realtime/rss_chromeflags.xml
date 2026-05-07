@@ -5,11 +5,53 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeのGeminiサイドバー未だに来ないし、 縦型タブもいつまで経ってもメニューに出ない。 縦型タブは、 アドレスバーに chrome :// flags /#vertical-tabs を入れて、Enableにすることで出てきます。 Gemini (glic)はEnableにしても何も出てこない・・・</title>
+      <link>https://x.com/mizugeek/status/2052347350564429835</link>
+      <description>mizugeek: ChromeのGeminiサイドバー未だに来ないし、 縦型タブもいつまで経ってもメニューに出ない。 縦型タブは、 アドレスバーに chrome :// flags /#vertical-tabs を入れて、Enableにすることで出てきます。 Gemini (glic)はEnableにしても何も出てこない・・・</description>
+      <pubDate>Thu, 07 May 2026 11:18:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mizugeek/status/2052347350564429835</guid>
+    </item>
+    <item>
+      <title>今更ですが chrome :// flags で設定した項目を起動オプションに移すために文字列を調べるには、flags設定後に chrome://version を開くとコマンドラインが表示され、その中で --flag-switches-begin と --flag-switches-end で囲われた中がflags変更によって追加された起動オプションになります。</title>
+      <link>https://x.com/PseudoTwDk/status/2052323281563435458</link>
+      <description>PseudoTwDk@Vivaldiで擬似Deck構築用CSS/JavaScript公開中: 今更ですが chrome :// flags で設定した項目を起動オプションに移すために文字列を調べるには、flags設定後に chrome://version を開くとコマンドラインが表示され、その中で --flag-switches-begin と --flag-switches-end で囲われた中がflags変更によって追加された起動オプションになります。</description>
+      <pubDate>Thu, 07 May 2026 09:42:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PseudoTwDk/status/2052323281563435458</guid>
+    </item>
+    <item>
+      <title>ChromeにGemini nanoの4GBファイルが勝手に作られて落ちるという話、うちの環境ではまだ起きてませんし該当ファイルもありませんでしたが chrome :// flags で optimization-guide-on-device-model prompt-api-for-gemini-nano を両方disabledにするという情報です。</title>
+      <link>https://x.com/PseudoTwDk/status/2052317883850715489</link>
+      <description>PseudoTwDk@Vivaldiで擬似Deck構築用CSS/JavaScript公開中: ChromeにGemini nanoの4GBファイルが勝手に作られて落ちるという話、うちの環境ではまだ起きてませんし該当ファイルもありませんでしたが chrome :// flags で optimization-guide-on-device-model prompt-api-for-gemini-nano を両方disabledにするという情報です。</description>
+      <pubDate>Thu, 07 May 2026 09:21:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PseudoTwDk/status/2052317883850715489</guid>
+    </item>
+    <item>
+      <title>📋 私の ASUS Chromebook Plus CM34 Flip は Experiments ( chrome :// flags ) の設定でダウンロード済み。 「Chrome」が勝手に4GBもダウンロード、オンデバイスAI「Gemini Nano」の是非で紛糾 - やじうまの杜 - 窓の杜 https://t.co/9LOgm98d7z</title>
+      <link>https://x.com/ttatsuoki/status/2052284339401142499</link>
+      <description>龍興 尚幸 (TATSUOKI Takayuki): 📋 私の ASUS Chromebook Plus CM34 Flip は Experiments ( chrome :// flags ) の設定でダウンロード済み。 「Chrome」が勝手に4GBもダウンロード、オンデバイスAI「Gemini Nano」の是非で紛糾 - やじうまの杜 - 窓の杜 https://t.co/9LOgm98d7z</description>
+      <pubDate>Thu, 07 May 2026 07:08:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2052284339401142499</guid>
+    </item>
+    <item>
+      <title>私のChromeに「Gemini in Chrome」が いつまで経っても出てこないなぁと思って 色々と試していたら、縦タブの有効化を 「Default」に戻したら出てきた！ ↓の縦タブ有効フラグを Enabled からDefaultに戻したら急に出現。 chrome :// flags /#vertical-tabs https://t.co/aCNVOmvOW0</title>
+      <link>https://x.com/Majin_AppSheet/status/2052273987548508439</link>
+      <description>まじん: 私のChromeに「Gemini in Chrome」が いつまで経っても出てこないなぁと思って 色々と試していたら、縦タブの有効化を 「Default」に戻したら出てきた！ ↓の縦タブ有効フラグを Enabled からDefaultに戻したら急に出現。 chrome :// flags /#vertical-tabs https://t.co/aCNVOmvOW0</description>
+      <pubDate>Thu, 07 May 2026 06:27:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Majin_AppSheet/status/2052273987548508439</guid>
+    </item>
+    <item>
       <title>@atemi3 無効化方法： → chrome :// flags → 「Optimization Guide On Device Model」を検索 → 無効化 → Chromeを再起動 → OptGuideOnDeviceModelフォルダを削除</title>
       <link>https://x.com/atemi3/status/2052260582011859350</link>
       <description>あてみ: @atemi3 無効化方法： → chrome :// flags → 「Optimization Guide On Device Model」を検索 → 無効化 → Chromeを再起動 → OptGuideOnDeviceModelフォルダを削除</description>
       <pubDate>Thu, 07 May 2026 05:33:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/atemi3/status/2052260582011859350</guid>
+    </item>
+    <item>
+      <title>Gemini in Chrome出ない環境で試せることを全部やってみた。 出ない人これ確認してみて→https://t.co/oNzHcRqA9z chrome :// flags と chrome://components の中で必要そうなもの書き出したメモ。 それでもProプランの私は出なかった。Googleの順次展開待ちでいいのかな。</title>
+      <link>https://x.com/naruaiworker/status/2052187715714904240</link>
+      <description>なる＠IT素人のAIマネタイズ記録（リアルAI驚き屋）: Gemini in Chrome出ない環境で試せることを全部やってみた。 出ない人これ確認してみて→https://t.co/oNzHcRqA9z chrome :// flags と chrome://components の中で必要そうなもの書き出したメモ。 それでもProプランの私は出なかった。Googleの順次展開待ちでいいのかな。</description>
+      <pubDate>Thu, 07 May 2026 00:44:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/naruaiworker/status/2052187715714904240</guid>
     </item>
     <item>
       <title>大家早好‼️ 目覚め拾い読み･･･何やら怖いハナシなのか❓️ 無効化方法： → ❌ chrome :// flags ⭕ chrome :// flags /#optimization-guide-on-device-model → 「Optimization Guide On Device Model」を検索 → 無効化 → Chromeを再起動 → OptGuideOnDeviceModelフォルダを削除 https://t.co/qrBo49cbpQ https://t.co/8M3B3h0ScB</title>
@@ -234,48 +276,6 @@
       <description>Mitsuru SHIMAMURA: @momoshiki こんにちは、いつも素敵な絵をありがとうございます。 https://t.co/4T2vLvRtFw chrome :// flags とURLバーに入力、enterして、検索するとどうでしょう？ ただ2年前の記事が出てくるので、フラグがなくなって、強制で無効化(遮断)されてしまったのかもしれません その場合は他ブラウザしかないですね</description>
       <pubDate>Fri, 17 Apr 2026 11:52:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/smbd/status/2045108156813254724</guid>
-    </item>
-    <item>
-      <title>ハードウェアアクセラレーションをオンにしたChromeでYoutube観てると黒い部分にオレンジのドットがチラチラ出てくるやつ chrome :// flags /に移動→Choose ANGLE graphics backendで検索してDefaultからD3D9に変更 でとりあえずは出なくなる GPUがぶっ壊れたかと思ったけどFirefox(HWAオン)だとならない</title>
-      <link>https://x.com/Po10H/status/2044714790199906344</link>
-      <description>PO10HIT: ハードウェアアクセラレーションをオンにしたChromeでYoutube観てると黒い部分にオレンジのドットがチラチラ出てくるやつ chrome :// flags /に移動→Choose ANGLE graphics backendで検索してDefaultからD3D9に変更 でとりあえずは出なくなる GPUがぶっ壊れたかと思ったけどFirefox(HWAオン)だとならない</description>
-      <pubDate>Thu, 16 Apr 2026 09:49:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Po10H/status/2044714790199906344</guid>
-    </item>
-    <item>
-      <title>chrome(147)の&quot;タブを検索&quot;はこれで消せると chrome :// flags / &quot;horizontal-tab-strip-combo-button&quot;を&quot;Enabled&quot; まだ存在する場合は右クリックしてタブを固定を解除 https://t.co/0BZkZDP49o</title>
-      <link>https://x.com/tm2524_virgin/status/2044640467674112050</link>
-      <description>toshiaki_virgin: chrome(147)の&quot;タブを検索&quot;はこれで消せると chrome :// flags / &quot;horizontal-tab-strip-combo-button&quot;を&quot;Enabled&quot; まだ存在する場合は右クリックしてタブを固定を解除 https://t.co/0BZkZDP49o</description>
-      <pubDate>Thu, 16 Apr 2026 04:54:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tm2524_virgin/status/2044640467674112050</guid>
-    </item>
-    <item>
-      <title>Chromeに垂直タブ ( chrome : flags -&gt; Vertical Tabs) が追加されたので Zen Browser とはおさらばします</title>
-      <link>https://x.com/Polythos/status/2044057060900577627</link>
-      <description>ぽりとす: Chromeに垂直タブ ( chrome : flags -&gt; Vertical Tabs) が追加されたので Zen Browser とはおさらばします</description>
-      <pubDate>Tue, 14 Apr 2026 14:15:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Polythos/status/2044057060900577627</guid>
-    </item>
-    <item>
-      <title>Chromeでタブを縦にやる方法、「タブを縦方向に表示」が右クリックしても出てこないのでどうしたものかと調べてみたら、「 chrome :// flags /#vertical-tabs」で有効化しないと出て来ないみたい。 https://t.co/9cV7s5xFkI</title>
-      <link>https://x.com/aegisfleet/status/2043660774628040917</link>
-      <description>ポち: Chromeでタブを縦にやる方法、「タブを縦方向に表示」が右クリックしても出てこないのでどうしたものかと調べてみたら、「 chrome :// flags /#vertical-tabs」で有効化しないと出て来ないみたい。 https://t.co/9cV7s5xFkI</description>
-      <pubDate>Mon, 13 Apr 2026 12:01:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aegisfleet/status/2043660774628040917</guid>
-    </item>
-    <item>
-      <title>Google Chromeのタブが縦になったらしい！→けど、まだアップデート来ていない人！→ chrome :// flags /#vertical-tabsってURLに打ってみて。英語だけど、難しくない。チェック入れればOK。念願の縦タブがつかえるぞ・・・！</title>
-      <link>https://x.com/sunnariwakaru/status/2043618749039997304</link>
-      <description>眼科看護師すん / 看護師AIアンバサダー: Google Chromeのタブが縦になったらしい！→けど、まだアップデート来ていない人！→ chrome :// flags /#vertical-tabsってURLに打ってみて。英語だけど、難しくない。チェック入れればOK。念願の縦タブがつかえるぞ・・・！</description>
-      <pubDate>Mon, 13 Apr 2026 09:14:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sunnariwakaru/status/2043618749039997304</guid>
-    </item>
-    <item>
-      <title>2026年4月7日、ついに Chrome で垂直タブバーが利用できるようになりました🎉 ■ 設定方法 1. 「 chrome :// flags /vertical」を Chrome で開く 2. 「Vertical Tabs」と入力 3. プルダウンを「Enabled」 4. Chrome 再起動 5. タブバーを右クリック→「タブを横に移動をクリック」を選択 以上です！</title>
-      <link>https://x.com/orz13941971/status/2043236171640447023</link>
-      <description>orz##: 2026年4月7日、ついに Chrome で垂直タブバーが利用できるようになりました🎉 ■ 設定方法 1. 「 chrome :// flags /vertical」を Chrome で開く 2. 「Vertical Tabs」と入力 3. プルダウンを「Enabled」 4. Chrome 再起動 5. タブバーを右クリック→「タブを横に移動をクリック」を選択 以上です！</description>
-      <pubDate>Sun, 12 Apr 2026 07:53:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/orz13941971/status/2043236171640447023</guid>
     </item>
   </channel>
 </rss>
