@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/openHardwareEng/status/2052034412746039447</guid>
     </item>
     <item>
+      <title>メモリ上に静的なタスクのデータを圧縮してスワップする zram なる機能が、PoP!_OS でゴリゴリに動いているのを把握したなう。 謎のスワップがあってびっくりした。</title>
+      <link>https://x.com/openHardwareEng/status/2052033816836100519</link>
+      <description>⚙暴れるゆとり🌱🥑: メモリ上に静的なタスクのデータを圧縮してスワップする zram なる機能が、PoP!_OS でゴリゴリに動いているのを把握したなう。 謎のスワップがあってびっくりした。</description>
+      <pubDate>Wed, 06 May 2026 14:32:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/openHardwareEng/status/2052033816836100519</guid>
+    </item>
+    <item>
       <title>これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。</title>
       <link>https://x.com/pkush0880/status/2051985152109158785</link>
       <description>おしの: これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。</description>

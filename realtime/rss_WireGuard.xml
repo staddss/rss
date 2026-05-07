@@ -5,11 +5,53 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>趣味は、受け側 - wireguard (site2siteも、端末直接続も) sitesiteは素のwgで、端末繋ぐ用はui用意 - cf tunnel （一部） - 443直明け（ほぼcf proxyあり 仲間内のところに接続用で一部tailscaleもある。 https://t.co/4HgO9QsSk3</title>
+      <link>https://x.com/shigure_alicey/status/2052258830130745794</link>
+      <description>アリシィ: 趣味は、受け側 - wireguard (site2siteも、端末直接続も) sitesiteは素のwgで、端末繋ぐ用はui用意 - cf tunnel （一部） - 443直明け（ほぼcf proxyあり 仲間内のところに接続用で一部tailscaleもある。 https://t.co/4HgO9QsSk3</description>
+      <pubDate>Thu, 07 May 2026 05:26:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigure_alicey/status/2052258830130745794</guid>
+    </item>
+    <item>
+      <title>@lego510 wireguard 書き忘れちゃった。いまだと個人でも展開できる、いちばん現実的な案かもですね</title>
+      <link>https://x.com/hasegaw/status/2052224098823176201</link>
+      <description>もつなべおじさん: @lego510 wireguard 書き忘れちゃった。いまだと個人でも展開できる、いちばん現実的な案かもですね</description>
+      <pubDate>Thu, 07 May 2026 03:08:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hasegaw/status/2052224098823176201</guid>
+    </item>
+    <item>
+      <title>@hasegaw 私は WireGuard 使ってます</title>
+      <link>https://x.com/lego510/status/2052223920770888171</link>
+      <description>lego510: @hasegaw 私は WireGuard 使ってます</description>
+      <pubDate>Thu, 07 May 2026 03:08:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lego510/status/2052223920770888171</guid>
+    </item>
+    <item>
+      <title>@tomocha0 ジブリ見るためにOpenWrtでシンガポールの WireGuard サーバーにつないでFireTVでつないでるわたくし・・・(笑) ちなみに日本接続でも言語設定を英語にするだけでも見れる映画が変わったりしますね。（なぜかインド映画とか）</title>
+      <link>https://x.com/sakuacid/status/2052199154148155456</link>
+      <description>さく: @tomocha0 ジブリ見るためにOpenWrtでシンガポールの WireGuard サーバーにつないでFireTVでつないでるわたくし・・・(笑) ちなみに日本接続でも言語設定を英語にするだけでも見れる映画が変わったりしますね。（なぜかインド映画とか）</description>
+      <pubDate>Thu, 07 May 2026 01:29:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2052199154148155456</guid>
+    </item>
+    <item>
+      <title>本当は、Tailscaleじゃなくて自宅に向けた WireGuard 接続にしたかったんだけど 自宅ネット環境も回線整理に伴う設定変更作業を予定していたので それぞれ独立の環境にしました。 https://t.co/d2YHTnbmcy</title>
+      <link>https://x.com/wata2candy/status/2052163729555599687</link>
+      <description>Kohei Sato: 本当は、Tailscaleじゃなくて自宅に向けた WireGuard 接続にしたかったんだけど 自宅ネット環境も回線整理に伴う設定変更作業を予定していたので それぞれ独立の環境にしました。 https://t.co/d2YHTnbmcy</description>
+      <pubDate>Wed, 06 May 2026 23:08:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wata2candy/status/2052163729555599687</guid>
+    </item>
+    <item>
       <title>私はtailscaleのセッションが死んで繋がらなくなるを何度か経験したため基本raw Wireguard を使っているが</title>
       <link>https://x.com/tsuzu_dev/status/2052059643317535011</link>
       <description>Tsuzu / Tsuzuki Tsuchiya: 私はtailscaleのセッションが死んで繋がらなくなるを何度か経験したため基本raw Wireguard を使っているが</description>
       <pubDate>Wed, 06 May 2026 16:15:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsuzu_dev/status/2052059643317535011</guid>
+    </item>
+    <item>
+      <title>Tailscale普通に使いづらいから WireGuard 使ってるな そもそもTailscaleが WireGuard のフォークだし使える環境なら WireGuard の方がなんというか純粋 https://t.co/bFiGQw0jTF</title>
+      <link>https://x.com/shibukawa_pc/status/2052038707323240475</link>
+      <description>渋川パソコンサポート: Tailscale普通に使いづらいから WireGuard 使ってるな そもそもTailscaleが WireGuard のフォークだし使える環境なら WireGuard の方がなんというか純粋 https://t.co/bFiGQw0jTF</description>
+      <pubDate>Wed, 06 May 2026 14:52:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2052038707323240475</guid>
     </item>
     <item>
       <title>VPNプロトコルの違い、知ってる？意外と簡単なんです。 あなたのスマホがWi-Fiから4Gに切り替わるときも接続が切れない、そんなVPNプロトコルはどれ？ 🅐 WireGuard 🅑 OpenVPN 🅒 IKEv2 🅓 プロトコル君（謎のキャラ） 🤷 答えは記事で👇 https://t.co/5GtLdpozle #VPN #InternetSafety</title>
@@ -234,48 +276,6 @@
       <description>さく: OpenWrtで WireGuard でVPN通して特定のFQDNのみローカルブレイクアウトさせたいと思ってpbr入れてやってみたらうまくいった。</description>
       <pubDate>Sat, 02 May 2026 16:22:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakuacid/status/2050611889357660161</guid>
-    </item>
-    <item>
-      <title>急に WireGuard が必要な機運が高まってきた</title>
-      <link>https://x.com/ittou_ogami/status/2050583082617720927</link>
-      <description>いっとう: 急に WireGuard が必要な機運が高まってきた</description>
-      <pubDate>Sat, 02 May 2026 14:27:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ittou_ogami/status/2050583082617720927</guid>
-    </item>
-    <item>
-      <title>う～む、考えることは同じだな😅 #情シス 端末とアクセスコントロールサーバーを WireGuard で繋いで、社内に仮想的に「情シスセグメント」を作るって自前でやっとるわ😅 フリーアドレス＋リモートワークのコンボで情シスセグメントが無くなったから仕方なく。 VDI</title>
-      <link>https://x.com/chikamizuki1993/status/2050574202365956269</link>
-      <description>瑞輝智佳@遊現怪舎エージーテクソル／代表取り締まられ役舎長: う～む、考えることは同じだな😅 #情シス 端末とアクセスコントロールサーバーを WireGuard で繋いで、社内に仮想的に「情シスセグメント」を作るって自前でやっとるわ😅 フリーアドレス＋リモートワークのコンボで情シスセグメントが無くなったから仕方なく。 VDI</description>
-      <pubDate>Sat, 02 May 2026 13:52:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chikamizuki1993/status/2050574202365956269</guid>
-    </item>
-    <item>
-      <title>セルフホストできるTailscaleみたいなやつなのか / WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE https://t.co/AAAFzFIQGE</title>
-      <link>https://x.com/_jackson/status/2050570489442251170</link>
-      <description>ぢゃくそん: セルフホストできるTailscaleみたいなやつなのか / WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE https://t.co/AAAFzFIQGE</description>
-      <pubDate>Sat, 02 May 2026 13:37:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_jackson/status/2050570489442251170</guid>
-    </item>
-    <item>
-      <title>WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 https://t.co/Wy1n5Z5Flp</title>
-      <link>https://x.com/gigazine/status/2050561044368474139</link>
-      <description>GIGAZINE(ギガジン): WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 https://t.co/Wy1n5Z5Flp</description>
-      <pubDate>Sat, 02 May 2026 13:00:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigazine/status/2050561044368474139</guid>
-    </item>
-    <item>
-      <title>あっ。。よく見たら「どこでも使える」わけではないね。。例えばLinux kernel 5.6以前を使ってるなら(Rocky Linux 9など)、コンテナにしても Wireguard 系の機能は全然作動できないんです。新しい鯖を展開する前コンテナの中身とカーネル間の依存関係も確認してね！🐋 https://t.co/mmDmXvhfin</title>
-      <link>https://x.com/mio9_sh/status/2050507845502996970</link>
-      <description>🌸猫谷みお🌸・mio9: あっ。。よく見たら「どこでも使える」わけではないね。。例えばLinux kernel 5.6以前を使ってるなら(Rocky Linux 9など)、コンテナにしても Wireguard 系の機能は全然作動できないんです。新しい鯖を展開する前コンテナの中身とカーネル間の依存関係も確認してね！🐋 https://t.co/mmDmXvhfin</description>
-      <pubDate>Sat, 02 May 2026 09:29:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mio9_sh/status/2050507845502996970</guid>
-    </item>
-    <item>
-      <title>ラズパイへのSSH接続、 皆さん何で繋いでますか？🔌 ・ ローカルIP直打ち（192.168.x.x） ・ .local（mDNS） ・ Tailscale / WireGuard ・ Cloudflare Tunnel ・ その他 外出先からも触りたいので 最近は Tailscale 派です。 ぜひ教えてください👇 #RaspberryPi</title>
-      <link>https://x.com/murasametech/status/2050455000682561923</link>
-      <description>むらさん(Murasan): ラズパイへのSSH接続、 皆さん何で繋いでますか？🔌 ・ ローカルIP直打ち（192.168.x.x） ・ .local（mDNS） ・ Tailscale / WireGuard ・ Cloudflare Tunnel ・ その他 外出先からも触りたいので 最近は Tailscale 派です。 ぜひ教えてください👇 #RaspberryPi</description>
-      <pubDate>Sat, 02 May 2026 05:59:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/murasametech/status/2050455000682561923</guid>
     </item>
   </channel>
 </rss>
