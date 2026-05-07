@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</title>
+      <link>https://x.com/tk4_jj/status/2052504034242904528</link>
+      <description>tatematsu_san: 昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</description>
+      <pubDate>Thu, 07 May 2026 21:41:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tk4_jj/status/2052504034242904528</guid>
+    </item>
+    <item>
+      <title>今日届いた新しい MacBook Neo を初期設定した 今の所パフォーマンスが驚く程良く、グラフィックスプログラミングも全く問題なかった 只、 WireGuard 経由でBeagleIM（XMPPクライアント）を実行していると、同じネットワーク上にある OpenBSD サーバーの</title>
+      <link>https://x.com/techsuwako/status/2052396486399602896</link>
+      <description>テクニカル諏訪子: 今日届いた新しい MacBook Neo を初期設定した 今の所パフォーマンスが驚く程良く、グラフィックスプログラミングも全く問題なかった 只、 WireGuard 経由でBeagleIM（XMPPクライアント）を実行していると、同じネットワーク上にある OpenBSD サーバーの</description>
+      <pubDate>Thu, 07 May 2026 14:33:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techsuwako/status/2052396486399602896</guid>
+    </item>
+    <item>
+      <title>@hasegaw 以前はSoftether、 Wireguard 、L2TP/IPSec、等 今はMAP-EとUDMを組み合わせてクシャクシャになった関係でCloudflare ZeroTrustとHeadscaleですね。</title>
+      <link>https://x.com/PSP3000VB/status/2052383492777099379</link>
+      <description>アロー＠SV: @hasegaw 以前はSoftether、 Wireguard 、L2TP/IPSec、等 今はMAP-EとUDMを組み合わせてクシャクシャになった関係でCloudflare ZeroTrustとHeadscaleですね。</description>
+      <pubDate>Thu, 07 May 2026 13:42:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PSP3000VB/status/2052383492777099379</guid>
+    </item>
+    <item>
+      <title>Banana Pi(OpenWRT)ってどうなんだろ。 外部から受けられるIPv4もらえなくなる時代だし、つなぐような対向もないから、ヤマハルーターは誤家庭用としてはベクトルが違うような気もしてきた。むしろとかDNSベースの広告ブロックとか、 WireGuard VPNとかCloudflare Tunnelやりたい。</title>
+      <link>https://x.com/soqu__plusplus/status/2052363063194710112</link>
+      <description>🆂 🅾 🆀 🆄 🆇 ➕➕: Banana Pi(OpenWRT)ってどうなんだろ。 外部から受けられるIPv4もらえなくなる時代だし、つなぐような対向もないから、ヤマハルーターは誤家庭用としてはベクトルが違うような気もしてきた。むしろとかDNSベースの広告ブロックとか、 WireGuard VPNとかCloudflare Tunnelやりたい。</description>
+      <pubDate>Thu, 07 May 2026 12:20:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/soqu__plusplus/status/2052363063194710112</guid>
+    </item>
+    <item>
       <title>@onennemasuter スマホでも⭕️ダゾ スマホに wireguard 入れれればIPバン抜けれる</title>
       <link>https://x.com/L_port8000/status/2052336838556434679</link>
       <description>一樹（いつき）: @onennemasuter スマホでも⭕️ダゾ スマホに wireguard 入れれればIPバン抜けれる</description>
@@ -248,34 +276,6 @@
       <description>トミー@メモ: #後で読む 用メモです→ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができるNetBirdオープンソースでセルフホスト可能 https://t.co/nqC5uvcGPe</description>
       <pubDate>Mon, 04 May 2026 08:12:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TommiyTw/status/2051213309009940710</guid>
-    </item>
-    <item>
-      <title>📑 WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 🅱 はてなブックマーク テクノロジー新着 より https://t.co/E59eXEXUFo</title>
-      <link>https://x.com/mohritaroh/status/2051099871436792040</link>
-      <description>技術ブログのモーリタロー: 📑 WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 🅱 はてなブックマーク テクノロジー新着 より https://t.co/E59eXEXUFo</description>
-      <pubDate>Mon, 04 May 2026 00:41:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mohritaroh/status/2051099871436792040</guid>
-    </item>
-    <item>
-      <title>✍️ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE 🗓️2026年05月02日 22時00分 https://t.co/44sK4nmxq6</title>
-      <link>https://x.com/m_nakamura_jp/status/2051050503707205964</link>
-      <description>Mitsutoshi Nakamura 🇯🇵🔥🗣: ✍️ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができる「NetBird」、オープンソースでセルフホスト可能 - GIGAZINE 🗓️2026年05月02日 22時00分 https://t.co/44sK4nmxq6</description>
-      <pubDate>Sun, 03 May 2026 21:25:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_nakamura_jp/status/2051050503707205964</guid>
-    </item>
-    <item>
-      <title>OpenVPN一択だと思ってたけど、近年の主力は WireGuard っぽい まったく知らないので開発が積極的なのか、ライセンス配布の定義はどうなのかあたりをよく見てから使うのは判断したいところ</title>
-      <link>https://x.com/deka_pod/status/2050948944369512781</link>
-      <description>デカポッづ: OpenVPN一択だと思ってたけど、近年の主力は WireGuard っぽい まったく知らないので開発が積極的なのか、ライセンス配布の定義はどうなのかあたりをよく見てから使うのは判断したいところ</description>
-      <pubDate>Sun, 03 May 2026 14:41:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/deka_pod/status/2050948944369512781</guid>
-    </item>
-    <item>
-      <title>なんで私は休日中にunbound + adguard home + wireguard の連携なんてやってるんだろう・・・</title>
-      <link>https://x.com/aki_star02/status/2050926921790488950</link>
-      <description>aki: なんで私は休日中にunbound + adguard home + wireguard の連携なんてやってるんだろう・・・</description>
-      <pubDate>Sun, 03 May 2026 13:14:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aki_star02/status/2050926921790488950</guid>
     </item>
   </channel>
 </rss>

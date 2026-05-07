@@ -5,6 +5,62 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【手順メモ】 Chromeのアドレスバーに「 chrome :// flags 」 と入力 ↓ 膨大に出てくるので、検索窓に「Enables Optimization Guide On Device」と入力して抽出すると良い ↓ 「disabled」を選択 ↓ Chrome再起動時から変更点が発効するらしい https://t.co/9lCOoYFSsl</title>
+      <link>https://x.com/Q5IGWmteWj6s8bQ/status/2052492407019823492</link>
+      <description>長谷川 愉璃: 【手順メモ】 Chromeのアドレスバーに「 chrome :// flags 」 と入力 ↓ 膨大に出てくるので、検索窓に「Enables Optimization Guide On Device」と入力して抽出すると良い ↓ 「disabled」を選択 ↓ Chrome再起動時から変更点が発効するらしい https://t.co/9lCOoYFSsl</description>
+      <pubDate>Thu, 07 May 2026 20:54:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Q5IGWmteWj6s8bQ/status/2052492407019823492</guid>
+    </item>
+    <item>
+      <title>・Chromeが勝手にAI機械学習モデルを自動インストールしている ・ファイル名は weights.bin ・削除しても次のChrome起動時に再インストールされる ・インストールを止めるにはChromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする https://t.co/YpECAJn4S8</title>
+      <link>https://x.com/takino/status/2052482175208165716</link>
+      <description>Masato Takino: ・Chromeが勝手にAI機械学習モデルを自動インストールしている ・ファイル名は weights.bin ・削除しても次のChrome起動時に再インストールされる ・インストールを止めるにはChromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする https://t.co/YpECAJn4S8</description>
+      <pubDate>Thu, 07 May 2026 20:14:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takino/status/2052482175208165716</guid>
+    </item>
+    <item>
+      <title>だそうです ＞現時点でインストールを止める方法として、Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする手順が知られています。 https://t.co/C9yUs8MfCL</title>
+      <link>https://x.com/Y_adhd/status/2052481435832066056</link>
+      <description>気分屋みな(神経/双極)🔖: だそうです ＞現時点でインストールを止める方法として、Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする手順が知られています。 https://t.co/C9yUs8MfCL</description>
+      <pubDate>Thu, 07 May 2026 20:11:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Y_adhd/status/2052481435832066056</guid>
+    </item>
+    <item>
+      <title>chrome :// flags と言うコマンド入れただけで出てくる項目自体が色々と物語ってる 便利だから＝安全ではない 少し考えて使わないと危険ですね。 https://t.co/5PxMlH7k3p</title>
+      <link>https://x.com/black_menso/status/2052422077895115035</link>
+      <description>黒めんそ！: chrome :// flags と言うコマンド入れただけで出てくる項目自体が色々と物語ってる 便利だから＝安全ではない 少し考えて使わないと危険ですね。 https://t.co/5PxMlH7k3p</description>
+      <pubDate>Thu, 07 May 2026 16:15:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/black_menso/status/2052422077895115035</guid>
+    </item>
+    <item>
+      <title>とりあえず ・ chrome :// flags で話題のフラグ以外も確認すべく「Gemini」を検索して、Antiscam以外を全てDisableに ・Chrome ＞ 設定 ＞ システム ＞ オンデバイスAIをオフに した RT</title>
+      <link>https://x.com/takuyah/status/2052416083320242448</link>
+      <description>花岡拓也＠音屋さん | Takuya Hanaoka: とりあえず ・ chrome :// flags で話題のフラグ以外も確認すべく「Gemini」を検索して、Antiscam以外を全てDisableに ・Chrome ＞ 設定 ＞ システム ＞ オンデバイスAIをオフに した RT</description>
+      <pubDate>Thu, 07 May 2026 15:51:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takuyah/status/2052416083320242448</guid>
+    </item>
+    <item>
+      <title>自分のは古いMacなので、Chromeが勝手にGemini Nano（4GBくらいとの話）をインストールしてしまうという事はなさそうなのだけど、念のため chrome :// flags / にアクセスして「Enables optimization guide on device」を&quot;Disable&quot;にしたら何だか動作が軽くなり、特にメルカリのページ表示が早まった。</title>
+      <link>https://x.com/peixeeletrico/status/2052404299494531268</link>
+      <description>しびれうなぎ: 自分のは古いMacなので、Chromeが勝手にGemini Nano（4GBくらいとの話）をインストールしてしまうという事はなさそうなのだけど、念のため chrome :// flags / にアクセスして「Enables optimization guide on device」を&quot;Disable&quot;にしたら何だか動作が軽くなり、特にメルカリのページ表示が早まった。</description>
+      <pubDate>Thu, 07 May 2026 15:04:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/peixeeletrico/status/2052404299494531268</guid>
+    </item>
+    <item>
+      <title>@russianblue2009 chrome :// flags のページを見るとたくさんの項目とそれぞれたくさんの選択肢があるのですが、解説していただくことは可能でしょうか</title>
+      <link>https://x.com/akky_akir/status/2052399304015589800</link>
+      <description>おさかな: @russianblue2009 chrome :// flags のページを見るとたくさんの項目とそれぞれたくさんの選択肢があるのですが、解説していただくことは可能でしょうか</description>
+      <pubDate>Thu, 07 May 2026 14:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akky_akir/status/2052399304015589800</guid>
+    </item>
+    <item>
+      <title>とりあえずやったこと ・Chromeの設定→システム→オンデバイスAIをオフにした ・OptGuideOnDeviceModel/weights.binを削除した ・Choromeで chrome :// flags からEnables Optimization Guide On Deviceをオフにした 何か不都合があれば元に戻すためのメモっす。 実際に4GBあった。 https://t.co/Bw910wsBAs</title>
+      <link>https://x.com/caponyan/status/2052374828766908651</link>
+      <description>カポにゃん(作編曲家・Mix&amp;Mastering): とりあえずやったこと ・Chromeの設定→システム→オンデバイスAIをオフにした ・OptGuideOnDeviceModel/weights.binを削除した ・Choromeで chrome :// flags からEnables Optimization Guide On Deviceをオフにした 何か不都合があれば元に戻すためのメモっす。 実際に4GBあった。 https://t.co/Bw910wsBAs</description>
+      <pubDate>Thu, 07 May 2026 13:07:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/caponyan/status/2052374828766908651</guid>
+    </item>
+    <item>
       <title>ChromeのGeminiサイドバー未だに来ないし、 縦型タブもいつまで経ってもメニューに出ない。 縦型タブは、 アドレスバーに chrome :// flags /#vertical-tabs を入れて、Enableにすることで出てきます。 Gemini (glic)はEnableにしても何も出てこない・・・</title>
       <link>https://x.com/mizugeek/status/2052347350564429835</link>
       <description>mizugeek: ChromeのGeminiサイドバー未だに来ないし、 縦型タブもいつまで経ってもメニューに出ない。 縦型タブは、 アドレスバーに chrome :// flags /#vertical-tabs を入れて、Enableにすることで出てきます。 Gemini (glic)はEnableにしても何も出てこない・・・</description>
@@ -17,6 +73,13 @@
       <description>PseudoTwDk@Vivaldiで擬似Deck構築用CSS/JavaScript公開中: 今更ですが chrome :// flags で設定した項目を起動オプションに移すために文字列を調べるには、flags設定後に chrome://version を開くとコマンドラインが表示され、その中で --flag-switches-begin と --flag-switches-end で囲われた中がflags変更によって追加された起動オプションになります。</description>
       <pubDate>Thu, 07 May 2026 09:42:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PseudoTwDk/status/2052323281563435458</guid>
+    </item>
+    <item>
+      <title>Gemini in Chrome が一生出てこない ` chrome :// flags ` でちょいちょいデフォと変えてるのが影響してるのかな</title>
+      <link>https://x.com/tan_no_kan/status/2052318254706937885</link>
+      <description>たんのかん: Gemini in Chrome が一生出てこない ` chrome :// flags ` でちょいちょいデフォと変えてるのが影響してるのかな</description>
+      <pubDate>Thu, 07 May 2026 09:22:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tan_no_kan/status/2052318254706937885</guid>
     </item>
     <item>
       <title>ChromeにGemini nanoの4GBファイルが勝手に作られて落ちるという話、うちの環境ではまだ起きてませんし該当ファイルもありませんでしたが chrome :// flags で optimization-guide-on-device-model prompt-api-for-gemini-nano を両方disabledにするという情報です。</title>
@@ -213,69 +276,6 @@
       <description>おむらまさひで(HelenTech): ChromeOS 146 で Linux ターミナルのフォントがバグる問題、IssueTracker で追跡されてた。 回避策は chrome :// flags / で「Accelerate 2D Canvas」フラグを無効にすることらしい。 https://t.co/nH3fg30OPy #chromebook https://t.co/KyfTX0MwFt</description>
       <pubDate>Thu, 23 Apr 2026 03:14:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2047152093467902341</guid>
-    </item>
-    <item>
-      <title>Chromeの垂直タブ( chrome :// flags /#vertical-tabs)を試してみた。 ウインドウ上側のドラッグ領域がなくなってウィンドウ移動が難しくなってしまい、断念。横タブに戻ってきた。</title>
-      <link>https://x.com/ginjih/status/2047137199125340401</link>
-      <description>ぎんじ🏂️: Chromeの垂直タブ( chrome :// flags /#vertical-tabs)を試してみた。 ウインドウ上側のドラッグ領域がなくなってウィンドウ移動が難しくなってしまい、断念。横タブに戻ってきた。</description>
-      <pubDate>Thu, 23 Apr 2026 02:15:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ginjih/status/2047137199125340401</guid>
-    </item>
-    <item>
-      <title>お、ChromeOS 149 Canary でフラグのインポートとエクスポートができるフラグが追加された。 chrome :// flags #import-export-flags #chromebook https://t.co/R7xGFB6nV2</title>
-      <link>https://x.com/Helen_Tech/status/2046963201078943997</link>
-      <description>おむらまさひで(HelenTech): お、ChromeOS 149 Canary でフラグのインポートとエクスポートができるフラグが追加された。 chrome :// flags #import-export-flags #chromebook https://t.co/R7xGFB6nV2</description>
-      <pubDate>Wed, 22 Apr 2026 14:43:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2046963201078943997</guid>
-    </item>
-    <item>
-      <title>@jesseaddison そうでしたか！長い間ArcやZenを使っているので知りませんでした。 Chrome // flags で有効化する必要がありますね。 ありがとうございます！</title>
-      <link>https://x.com/kitsukitwitmond/status/2046863319047491924</link>
-      <description>キツキ🌙: @jesseaddison そうでしたか！長い間ArcやZenを使っているので知りませんでした。 Chrome // flags で有効化する必要がありますね。 ありがとうございます！</description>
-      <pubDate>Wed, 22 Apr 2026 08:06:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kitsukitwitmond/status/2046863319047491924</guid>
-    </item>
-    <item>
-      <title>結論は XMODIFIERS= (a)im=fcitxだけセット KDEシステム設定で仮想キーボード→fcitx5を選択 GTK_IM_MODULE QT_IM_MODULE SDL_IM_MODULE はセットするな（重要） だった。 chrome :// flags でwaylandにょろにょろ～みたいなのは129らへんで消えたらしいのでほっといてok。 手元の環境ではこれで動いた</title>
-      <link>https://x.com/MaKoTo54669805/status/2046576222529036769</link>
-      <description>MaKoTo: 結論は XMODIFIERS= (a)im=fcitxだけセット KDEシステム設定で仮想キーボード→fcitx5を選択 GTK_IM_MODULE QT_IM_MODULE SDL_IM_MODULE はセットするな（重要） だった。 chrome :// flags でwaylandにょろにょろ～みたいなのは129らへんで消えたらしいのでほっといてok。 手元の環境ではこれで動いた</description>
-      <pubDate>Tue, 21 Apr 2026 13:06:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MaKoTo54669805/status/2046576222529036769</guid>
-    </item>
-    <item>
-      <title>Chromeの垂直タブ機能がロールアウトと聞いて楽しみに待ってたんだけどなかなか来ない。調べたところ「 chrome :// flags /#vertical-tabs」から有効にできた！ 一時期試していたZen Browserと似た感じになりました。 https://t.co/SgyP2AqrPr</title>
-      <link>https://x.com/ashikagacast/status/2046035315387941253</link>
-      <description>アシカガコウジ／コージ次長: Chromeの垂直タブ機能がロールアウトと聞いて楽しみに待ってたんだけどなかなか来ない。調べたところ「 chrome :// flags /#vertical-tabs」から有効にできた！ 一時期試していたZen Browserと似た感じになりました。 https://t.co/SgyP2AqrPr</description>
-      <pubDate>Mon, 20 Apr 2026 01:16:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ashikagacast/status/2046035315387941253</guid>
-    </item>
-    <item>
-      <title>youtube閲覧中にタブが固まる問題（窓のサイズを何度か変えると治る） 「 chrome :// flags 「brave://flags」から ◯Media Foundation Camera Usage Monitoring→無効 ◯Use D3D12 video encoder→有効 で発生しなくなった</title>
-      <link>https://x.com/UsagiTencyo/status/2045702573265743981</link>
-      <description>うさぎ店長: youtube閲覧中にタブが固まる問題（窓のサイズを何度か変えると治る） 「 chrome :// flags 「brave://flags」から ◯Media Foundation Camera Usage Monitoring→無効 ◯Use D3D12 video encoder→有効 で発生しなくなった</description>
-      <pubDate>Sun, 19 Apr 2026 03:14:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UsagiTencyo/status/2045702573265743981</guid>
-    </item>
-    <item>
-      <title>マイクの音が勝手に変わるやつの対処法見つけたぞ！redditに書いてあったんだけど、 chrome :// flags にアクセスして使用可能の中から 「Allow WebRTC to adjust the input volume.」を見つけてDisabledにしたらまったく下がったり上がったりしなくなった！排他モードとか通信を変えても治らなかったのに</title>
-      <link>https://x.com/tukikomakoto/status/2045354408066912663</link>
-      <description>月好誠(仮): マイクの音が勝手に変わるやつの対処法見つけたぞ！redditに書いてあったんだけど、 chrome :// flags にアクセスして使用可能の中から 「Allow WebRTC to adjust the input volume.」を見つけてDisabledにしたらまったく下がったり上がったりしなくなった！排他モードとか通信を変えても治らなかったのに</description>
-      <pubDate>Sat, 18 Apr 2026 04:11:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tukikomakoto/status/2045354408066912663</guid>
-    </item>
-    <item>
-      <title>Chromeのvertical tab、欲しかった機能のはずなのに、いざ使ってみると、タブは画面右側にも移動したくなったり、各種テーマや上タブを前提にしたWebページとの見た目の相性が悪かったり、新しい問題が次々に見つかるな。。。 chrome :// flags / -&gt; Vertical Tabから有効にできる https://t.co/lULlcIdfWP</title>
-      <link>https://x.com/taroleo/status/2045298371288830176</link>
-      <description>Taro L. Saito: Chromeのvertical tab、欲しかった機能のはずなのに、いざ使ってみると、タブは画面右側にも移動したくなったり、各種テーマや上タブを前提にしたWebページとの見た目の相性が悪かったり、新しい問題が次々に見つかるな。。。 chrome :// flags / -&gt; Vertical Tabから有効にできる https://t.co/lULlcIdfWP</description>
-      <pubDate>Sat, 18 Apr 2026 00:28:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taroleo/status/2045298371288830176</guid>
-    </item>
-    <item>
-      <title>@momoshiki こんにちは、いつも素敵な絵をありがとうございます。 https://t.co/4T2vLvRtFw chrome :// flags とURLバーに入力、enterして、検索するとどうでしょう？ ただ2年前の記事が出てくるので、フラグがなくなって、強制で無効化(遮断)されてしまったのかもしれません その場合は他ブラウザしかないですね</title>
-      <link>https://x.com/smbd/status/2045108156813254724</link>
-      <description>Mitsuru SHIMAMURA: @momoshiki こんにちは、いつも素敵な絵をありがとうございます。 https://t.co/4T2vLvRtFw chrome :// flags とURLバーに入力、enterして、検索するとどうでしょう？ ただ2年前の記事が出てくるので、フラグがなくなって、強制で無効化(遮断)されてしまったのかもしれません その場合は他ブラウザしかないですね</description>
-      <pubDate>Fri, 17 Apr 2026 11:52:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/smbd/status/2045108156813254724</guid>
     </item>
   </channel>
 </rss>

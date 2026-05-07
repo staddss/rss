@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【Linux部門人気記事紹介｜第6位】 クラウドストレージとLinuxサーバー間のデータ転送を効率化する「 rclone 」の活用法をご紹介。本記事では、OneDriveを対象としたセキュアなファイル移動手順を解説します。 https://t.co/BuD618JWsn https://t.co/AmZhBAiSmp</title>
+      <link>https://x.com/BioinfoLab/status/2052221884931162164</link>
+      <description>バイオインフォマティクス実践ラボ: 【Linux部門人気記事紹介｜第6位】 クラウドストレージとLinuxサーバー間のデータ転送を効率化する「 rclone 」の活用法をご紹介。本記事では、OneDriveを対象としたセキュアなファイル移動手順を解説します。 https://t.co/BuD618JWsn https://t.co/AmZhBAiSmp</description>
+      <pubDate>Thu, 07 May 2026 03:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BioinfoLab/status/2052221884931162164</guid>
+    </item>
+    <item>
       <title>ffmpegとか Rclone のスクリプトを完全にAIに丸投げで作ってもらったら丸一日ぐらいで多分完璧に要望を満たすものが作れてすごい 恐ろしいのは本当に完璧なのかがわからないこと😞</title>
       <link>https://x.com/kino_sume/status/2051674865779048474</link>
       <description>きのすめ: ffmpegとか Rclone のスクリプトを完全にAIに丸投げで作ってもらったら丸一日ぐらいで多分完璧に要望を満たすものが作れてすごい 恐ろしいのは本当に完璧なのかがわからないこと😞</description>
@@ -262,20 +269,6 @@
       <description>Naoyuki Yamada: ファイルシステムとしてマウントぽい事自体は以前からできて、以前 rclone でEC2にS3マウントする商用システムを作って運用してたことはある それがネイティブにできるようになったという理解だけど、どこがどう違うのかは分かってない</description>
       <pubDate>Wed, 08 Apr 2026 00:50:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/satully/status/2041680005017825451</guid>
-    </item>
-    <item>
-      <title>なんやかんや楽天モバイルを使い始めたのだが、夜中とはいえGB単位のtar.zstを rclone cryptでクラウドストレージに投げるというと厄介な客ムーブをやっている</title>
-      <link>https://x.com/hogehoge61/status/2041590884320604419</link>
-      <description>ほげ: なんやかんや楽天モバイルを使い始めたのだが、夜中とはいえGB単位のtar.zstを rclone cryptでクラウドストレージに投げるというと厄介な客ムーブをやっている</description>
-      <pubDate>Tue, 07 Apr 2026 18:56:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hogehoge61/status/2041590884320604419</guid>
-    </item>
-    <item>
-      <title>google driveで共有してもらったフォルダが大きくてダウンロードできず、 rclone を使ったら数百GBありました。そりゃ、ブラウザからDLは無理ですね。</title>
-      <link>https://x.com/u_akihiro/status/2041484503718478175</link>
-      <description>＞ω＜: google driveで共有してもらったフォルダが大きくてダウンロードできず、 rclone を使ったら数百GBありました。そりゃ、ブラウザからDLは無理ですね。</description>
-      <pubDate>Tue, 07 Apr 2026 11:53:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/u_akihiro/status/2041484503718478175</guid>
     </item>
   </channel>
 </rss>

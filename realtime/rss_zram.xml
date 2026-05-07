@@ -193,19 +193,5 @@
       <pubDate>Wed, 08 Apr 2026 12:56:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hogehoge61/status/2041862699571933363</guid>
     </item>
-    <item>
-      <title>なお、 zram が悪さしてるんじゃないか説では無かった😆 https://t.co/nRrUwGtHEH</title>
-      <link>https://x.com/TaroKichijo/status/2041511041147064683</link>
-      <description>Kichitaro (Kichi Shotaro): なお、 zram が悪さしてるんじゃないか説では無かった😆 https://t.co/nRrUwGtHEH</description>
-      <pubDate>Tue, 07 Apr 2026 13:38:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TaroKichijo/status/2041511041147064683</guid>
-    </item>
-    <item>
-      <title>Raspbian、いつのまにか zram が標準になってるのね。普通のSwapファイルに戻すには、/etc/rpi/swap.conf辺りをいじるとかなの、まあわかりやすいか。 https://t.co/pYk9XzUQsx</title>
-      <link>https://x.com/TaroKichijo/status/2041506116321091836</link>
-      <description>Kichitaro (Kichi Shotaro): Raspbian、いつのまにか zram が標準になってるのね。普通のSwapファイルに戻すには、/etc/rpi/swap.conf辺りをいじるとかなの、まあわかりやすいか。 https://t.co/pYk9XzUQsx</description>
-      <pubDate>Tue, 07 Apr 2026 13:19:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TaroKichijo/status/2041506116321091836</guid>
-    </item>
   </channel>
 </rss>
