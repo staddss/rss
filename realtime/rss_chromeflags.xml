@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</title>
+      <link>https://x.com/hoosaka3/status/2052638313119727911</link>
+      <description>ほーさかさん: Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</description>
+      <pubDate>Fri, 08 May 2026 06:34:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hoosaka3/status/2052638313119727911</guid>
+    </item>
+    <item>
+      <title>@Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</title>
+      <link>https://x.com/ARHAPPY599012/status/2052629054747226183</link>
+      <description>★AR HAPPY★: @Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</description>
+      <pubDate>Fri, 08 May 2026 05:57:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ARHAPPY599012/status/2052629054747226183</guid>
+    </item>
+    <item>
       <title>これやっておいた方が良いよ。 ①Chromeのアドレスバーに入力 chrome :// flags ②検索窓に入力して探す Enables Optimization Guide On Device →disabledを選択 ③Chrome再起動</title>
       <link>https://x.com/nekotan_airlove/status/2052591916513202234</link>
       <description>ねこたん👗骨格ストレート/服サブスク・洋服レンタル: これやっておいた方が良いよ。 ①Chromeのアドレスバーに入力 chrome :// flags ②検索窓に入力して探す Enables Optimization Guide On Device →disabledを選択 ③Chrome再起動</description>
@@ -262,20 +276,6 @@
       <description>ootahara: facebookの勝手にスクロールをようやく止られました。Chromeだとアドレスバーに chrome :// flags と入力→下にある スムーズなスクロール (Smooth Scrolling) を探す→デフォルトから無効に変更→Chrome再起動 FB利用者減（個人の感想）はこれが原因の一つかも。私も最近FBにあまりアクセスせず</description>
       <pubDate>Wed, 29 Apr 2026 04:24:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ootahara/status/2049344043633828122</guid>
-    </item>
-    <item>
-      <title>試す手順は3ステップだけ。Chrome Canaryをインストール→アドレスバーに「 chrome :// flags 」と入力→「Prompt API」を検索して有効化。その後`https://t.co/3bg3TaFu5M`オブジェクトが使えるかどうかをコンソールで確認すれば、環境が整ったかどうかが30秒で分かる。</title>
-      <link>https://x.com/minervacosmetic/status/2048792997903671466</link>
-      <description>テラ｜AIチーム経営×美容業界: 試す手順は3ステップだけ。Chrome Canaryをインストール→アドレスバーに「 chrome :// flags 」と入力→「Prompt API」を検索して有効化。その後`https://t.co/3bg3TaFu5M`オブジェクトが使えるかどうかをコンソールで確認すれば、環境が整ったかどうかが30秒で分かる。</description>
-      <pubDate>Mon, 27 Apr 2026 15:54:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minervacosmetic/status/2048792997903671466</guid>
-    </item>
-    <item>
-      <title>そうか chrome :// flags / で有効にすればよかったのか …… しなくても使えたのは何だ? https://t.co/379XdvadGb</title>
-      <link>https://x.com/CliffordSakaki/status/2048691108906192979</link>
-      <description>Clifford榊: そうか chrome :// flags / で有効にすればよかったのか …… しなくても使えたのは何だ? https://t.co/379XdvadGb</description>
-      <pubDate>Mon, 27 Apr 2026 09:09:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CliffordSakaki/status/2048691108906192979</guid>
     </item>
   </channel>
 </rss>

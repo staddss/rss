@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/rikki_312/status/2052277026007183392</guid>
     </item>
     <item>
+      <title>@rikki_312 今は zram と少量の物理swapを併用してるんですが、動きが遅くなっても落ちないでほしいサーバとかならともかく、プログラムが暴走したらさっさと落ちてほしいクライアントなら少量の zram swapだけで良いのかなと</title>
+      <link>https://x.com/ncaq/status/2052274229807391043</link>
+      <description>エヌユル: @rikki_312 今は zram と少量の物理swapを併用してるんですが、動きが遅くなっても落ちないでほしいサーバとかならともかく、プログラムが暴走したらさっさと落ちてほしいクライアントなら少量の zram swapだけで良いのかなと</description>
+      <pubDate>Thu, 07 May 2026 06:28:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ncaq/status/2052274229807391043</guid>
+    </item>
+    <item>
       <title>@ncaq 経験則ですが、ファイルキャッシュが重要かつ非アクティブなプログラムメモリが多いとか、CPUリソースが重要な場合とかは物理Swapが有利ですが、物理Swap先が遅いとかCPUが暇してるとかならば zram はありですねえ…… 他にはzswap+物理swapを試すのもアリかもしれません</title>
       <link>https://x.com/rikki_312/status/2052270673331151180</link>
       <description>リッキー: @ncaq 経験則ですが、ファイルキャッシュが重要かつ非アクティブなプログラムメモリが多いとか、CPUリソースが重要な場合とかは物理Swapが有利ですが、物理Swap先が遅いとかCPUが暇してるとかならば zram はありですねえ…… 他にはzswap+物理swapを試すのもアリかもしれません</description>

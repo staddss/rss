@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</title>
+      <link>https://x.com/L_port53/status/2052694441748517291</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</description>
+      <pubDate>Fri, 08 May 2026 10:17:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2052694441748517291</guid>
+    </item>
+    <item>
+      <title>WireGuard でメッシュ構築するのが大変だし、NAT超えも大変、、、 https://t.co/oGvTN4U1X9</title>
+      <link>https://x.com/glyzinienet/status/2052687854179127407</link>
+      <description>Wis (Glyzinie): WireGuard でメッシュ構築するのが大変だし、NAT超えも大変、、、 https://t.co/oGvTN4U1X9</description>
+      <pubDate>Fri, 08 May 2026 09:51:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/glyzinienet/status/2052687854179127407</guid>
+    </item>
+    <item>
+      <title>@L_port8000 悲しい。VPNプロファイルでOpenVPNか WireGuard あたり扱えると良いけどそこまで万能じゃないだろうしな。443/tcpのWebプロキシあたりで留めとくのが良さげ。</title>
+      <link>https://x.com/shumaikun0716/status/2052645936485261714</link>
+      <description>shumaikun0716: @L_port8000 悲しい。VPNプロファイルでOpenVPNか WireGuard あたり扱えると良いけどそこまで万能じゃないだろうしな。443/tcpのWebプロキシあたりで留めとくのが良さげ。</description>
+      <pubDate>Fri, 08 May 2026 07:05:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2052645936485261714</guid>
+    </item>
+    <item>
       <title>wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</title>
       <link>https://x.com/luzaon91260029/status/2052621115101778152</link>
       <description>るざおん: wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</description>
@@ -255,27 +276,6 @@
       <description>su8 / denchu: ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</description>
       <pubDate>Mon, 04 May 2026 22:07:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__su888/status/2051423372253294952</guid>
-    </item>
-    <item>
-      <title>なんつーかJNKもJNKホールディングスで拠点間通信だ！！といいだして長い上にふらっふらしているので、拠点間がIPsecの拠点とsoftetherの拠点と wireguard とバラバラになったなー</title>
-      <link>https://x.com/Ckurai/status/2051322177790910769</link>
-      <description>倉井: なんつーかJNKもJNKホールディングスで拠点間通信だ！！といいだして長い上にふらっふらしているので、拠点間がIPsecの拠点とsoftetherの拠点と wireguard とバラバラになったなー</description>
-      <pubDate>Mon, 04 May 2026 15:24:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ckurai/status/2051322177790910769</guid>
-    </item>
-    <item>
-      <title>NetworkManagerには、 いつの間にか wireguard なんてーのが使えるようになってて VPNも簡単に張れるようになってるっぽいね まぁ、よっぽど暇になったら、 試してみよう</title>
-      <link>https://x.com/TsNukata/status/2051305689499472163</link>
-      <description>額田敏雄: NetworkManagerには、 いつの間にか wireguard なんてーのが使えるようになってて VPNも簡単に張れるようになってるっぽいね まぁ、よっぽど暇になったら、 試してみよう</description>
-      <pubDate>Mon, 04 May 2026 14:19:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TsNukata/status/2051305689499472163</guid>
-    </item>
-    <item>
-      <title>ルータに Wireguard を入れて、SSHポート丸出しというデンジャラスな運用をやめた</title>
-      <link>https://x.com/v34103080/status/2051279411132170609</link>
-      <description>v34びょう: ルータに Wireguard を入れて、SSHポート丸出しというデンジャラスな運用をやめた</description>
-      <pubDate>Mon, 04 May 2026 12:34:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/v34103080/status/2051279411132170609</guid>
     </item>
   </channel>
 </rss>
