@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>製造業の産業異常検知（MMAD 246問）で Ryzen AI Max +（96GB統合メモリ）にて27B Denseを実測しました。GPU不要・CPU実行で93.5%。人間専門家86.7%（1-shot）を超えた値です。M4 Pro 48GBでも同等環境が組めます。何のタスクで試されていますか？ https://t.co/6q41k0XuVG</title>
+      <link>https://x.com/dx_note53401/status/2052599377248862344</link>
+      <description>dx-note: 製造業の産業異常検知（MMAD 246問）で Ryzen AI Max +（96GB統合メモリ）にて27B Denseを実測しました。GPU不要・CPU実行で93.5%。人間専門家86.7%（1-shot）を超えた値です。M4 Pro 48GBでも同等環境が組めます。何のタスクで試されていますか？ https://t.co/6q41k0XuVG</description>
+      <pubDate>Fri, 08 May 2026 04:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dx_note53401/status/2052599377248862344</guid>
+    </item>
+    <item>
+      <title>同じくRyzen 5 3500UのiGPU処理で-ngl 99にした上でFFNをCPUに逃がすと、2tps前後。CPUが遅いとFFNをCPUに逃がすときのオーバーヘッド + FFNの処理速度でかなり不利ね。iGPUならVRAM←→メインRAMの転送が無いから本来有利なハズだけど。 Ryzen AI Max とかなら話が違ってきそう。 https://t.co/TAvgzD87LK</title>
+      <link>https://x.com/yaizawa/status/2052409460270961064</link>
+      <description>yaizawa⚙️🩵 @ 4/17・7/18いきもの、6/6斉藤さおり: 同じくRyzen 5 3500UのiGPU処理で-ngl 99にした上でFFNをCPUに逃がすと、2tps前後。CPUが遅いとFFNをCPUに逃がすときのオーバーヘッド + FFNの処理速度でかなり不利ね。iGPUならVRAM←→メインRAMの転送が無いから本来有利なハズだけど。 Ryzen AI Max とかなら話が違ってきそう。 https://t.co/TAvgzD87LK</description>
+      <pubDate>Thu, 07 May 2026 15:25:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yaizawa/status/2052409460270961064</guid>
+    </item>
+    <item>
       <title>それが「EVO-X2」🔥 Ryzen AI Max + 395搭載。 128GB(LPDDR5X)の爆速メモリで、SSDも2TB。 しかも今、特大クーポンが出ていて安く買えるバグ状態💸 前から知ってたけど、これはこれで興味がある。 #EVOX2 #生成AI #PR 価格だけでも見てみて👇 https://t.co/vcrmIQ97es</title>
       <link>https://x.com/zetorabox/status/2052367176888353139</link>
       <description>ゼトラの箱: それが「EVO-X2」🔥 Ryzen AI Max + 395搭載。 128GB(LPDDR5X)の爆速メモリで、SSDも2TB。 しかも今、特大クーポンが出ていて安く買えるバグ状態💸 前から知ってたけど、これはこれで興味がある。 #EVOX2 #生成AI #PR 価格だけでも見てみて👇 https://t.co/vcrmIQ97es</description>
@@ -262,20 +276,6 @@
       <description>Kazz𝕏: &gt; Ryzen AI Max + 495メモリを最大192GBまでサポート &gt;GPU側に最大168GBを割り当てることが可能。 やっぱり395の上位版あるんだね。 この路線が成功して、メモリ256GB→512GBと拡張していってほしいわ。そうしたらPC造りなおす。 https://t.co/5icL21GQIy</description>
       <pubDate>Sun, 03 May 2026 23:56:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Kazzz/status/2051088527539220837</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 495のベンチマークが登場 CPU性能はMax+ 395から10%増もGPU性能は同等 一方でメモリの最大サポート容量は128GBから192GBへ大幅拡大 AI向け用途を想定 https://t.co/ghpbs06vla</title>
-      <link>https://x.com/gazlog_blog/status/2051082375367368753</link>
-      <description>ギャズログ | Gaz:Log: Ryzen AI Max + 495のベンチマークが登場 CPU性能はMax+ 395から10%増もGPU性能は同等 一方でメモリの最大サポート容量は128GBから192GBへ大幅拡大 AI向け用途を想定 https://t.co/ghpbs06vla</description>
-      <pubDate>Sun, 03 May 2026 23:32:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gazlog_blog/status/2051082375367368753</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + PRO 495が最大メモリ192GBになるのか</title>
-      <link>https://x.com/3124neko/status/2051040000209523063</link>
-      <description>きなこもち: Ryzen AI Max + PRO 495が最大メモリ192GBになるのか</description>
-      <pubDate>Sun, 03 May 2026 20:43:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/3124neko/status/2051040000209523063</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</title>
+      <link>https://x.com/luzaon91260029/status/2052621115101778152</link>
+      <description>るざおん: wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</description>
+      <pubDate>Fri, 08 May 2026 05:26:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/luzaon91260029/status/2052621115101778152</guid>
+    </item>
+    <item>
+      <title>自宅のSSID以外に接続時に自動で Wireguard を張るようにした 快適 https://t.co/6CGmpOgDJj</title>
+      <link>https://x.com/gigaonion/status/2052587150341017702</link>
+      <description>ぎがおにおん: 自宅のSSID以外に接続時に自動で Wireguard を張るようにした 快適 https://t.co/6CGmpOgDJj</description>
+      <pubDate>Fri, 08 May 2026 03:11:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2052587150341017702</guid>
+    </item>
+    <item>
       <title>昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</title>
       <link>https://x.com/tk4_jj/status/2052504034242904528</link>
       <description>tatematsu_san: 昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</description>
@@ -262,20 +276,6 @@
       <description>v34びょう: ルータに Wireguard を入れて、SSHポート丸出しというデンジャラスな運用をやめた</description>
       <pubDate>Mon, 04 May 2026 12:34:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/v34103080/status/2051279411132170609</guid>
-    </item>
-    <item>
-      <title>諸々準備が足りてないがまぁ誰も復旧を急いでないのでどうにかなるだろ（そもそも実は拠点間VPNってなれているとは言いづらい状態だし、今までやってきたL2TP/IPSecでもsoftetherでもなく wireguard なので勝手の理解が足りてないとも思う</title>
-      <link>https://x.com/Ckurai/status/2051213724451750118</link>
-      <description>倉井: 諸々準備が足りてないがまぁ誰も復旧を急いでないのでどうにかなるだろ（そもそも実は拠点間VPNってなれているとは言いづらい状態だし、今までやってきたL2TP/IPSecでもsoftetherでもなく wireguard なので勝手の理解が足りてないとも思う</description>
-      <pubDate>Mon, 04 May 2026 08:13:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ckurai/status/2051213724451750118</guid>
-    </item>
-    <item>
-      <title>#後で読む 用メモです→ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができるNetBirdオープンソースでセルフホスト可能 https://t.co/nqC5uvcGPe</title>
-      <link>https://x.com/TommiyTw/status/2051213309009940710</link>
-      <description>トミー@メモ: #後で読む 用メモです→ WireGuard ベースのオーバーレイネットワークとゼロトラストネットワークアクセスを組み合わせ信頼性が高く安全な接続ができるNetBirdオープンソースでセルフホスト可能 https://t.co/nqC5uvcGPe</description>
-      <pubDate>Mon, 04 May 2026 08:12:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TommiyTw/status/2051213309009940710</guid>
     </item>
   </channel>
 </rss>
