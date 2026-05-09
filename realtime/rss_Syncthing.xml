@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@hyudaepon_bdst スクリプト云々など難しいことが面倒なら、ファイル変更を瞬時に行ってくれたり検出してくれる同期方法を使うといいですよ。たとえば - Nextcloud (conflictを自動検出して一旦両方のバージョンのファイルを残してくれる) - Syncthing (変更を瞬時にすべての端末のローカルKDBXに適用) あたりです。</title>
+      <link>https://x.com/bathtowel0913/status/2052565033515700620</link>
+      <description>バスタオル: @hyudaepon_bdst スクリプト云々など難しいことが面倒なら、ファイル変更を瞬時に行ってくれたり検出してくれる同期方法を使うといいですよ。たとえば - Nextcloud (conflictを自動検出して一旦両方のバージョンのファイルを残してくれる) - Syncthing (変更を瞬時にすべての端末のローカルKDBXに適用) あたりです。</description>
+      <pubDate>Fri, 08 May 2026 01:43:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bathtowel0913/status/2052565033515700620</guid>
+    </item>
+    <item>
       <title>Obsidianの同期は Syncthing がいいのかも。設定簡単、同期早い、安定稼働で好感触です クラウドストレージを使うプラグインも試してみましたが、なぜかキャンバスが同期できなかったりと安定しませんでした…</title>
       <link>https://x.com/saketi0906/status/2052359080807956798</link>
       <description>さけち: Obsidianの同期は Syncthing がいいのかも。設定簡単、同期早い、安定稼働で好感触です クラウドストレージを使うプラグインも試してみましたが、なぜかキャンバスが同期できなかったりと安定しませんでした…</description>
@@ -108,13 +115,6 @@
       <description>らららうう: Syncthing 便利すぎる～～</description>
       <pubDate>Fri, 01 May 2026 22:59:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rararararauuuuu/status/2050349300744630284</guid>
-    </item>
-    <item>
-      <title>自分はMacBookとMacStudioのセッション情報を常に同期させていて（rsyncと Syncthing で）外ではSlackからMacStudioにアクセスしていつでもMacBookの作業の続きができるので、MacBookは閉じてます https://t.co/bN8nTaAXmi</title>
-      <link>https://x.com/hedachi/status/2050045340628455494</link>
-      <description>Takayuki Fukuda: 自分はMacBookとMacStudioのセッション情報を常に同期させていて（rsyncと Syncthing で）外ではSlackからMacStudioにアクセスしていつでもMacBookの作業の続きができるので、MacBookは閉じてます https://t.co/bN8nTaAXmi</description>
-      <pubDate>Fri, 01 May 2026 02:51:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hedachi/status/2050045340628455494</guid>
     </item>
     <item>
       <title>雑記、スマホのスクショで自動日報。 「10分ごとにスクショ → syncthing でPC同期 → LLMで画像認識 → まとめ」の手順。だいたいのことが記録できて便利。 苦手 * スマホ外のこと(買い物や散歩) * 目的や意図が残らない https://t.co/bW7gZ8D1Na</title>
@@ -276,6 +276,13 @@
       <description>zionad blenderzion: Syncthing サーバーはありません https://t.co/6UmbjGZDk4</description>
       <pubDate>Mon, 20 Apr 2026 18:56:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/blenderzionad/status/2046301912061050992</guid>
+    </item>
+    <item>
+      <title>P2Pのファイル同期システム「 syncthing 」 https://t.co/Q1KU4HicqH</title>
+      <link>https://x.com/Xroid_Lab/status/2046235391053996191</link>
+      <description>とーます｜AIコーチの開発＆共有プラットフォーム: P2Pのファイル同期システム「 syncthing 」 https://t.co/Q1KU4HicqH</description>
+      <pubDate>Mon, 20 Apr 2026 14:31:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Xroid_Lab/status/2046235391053996191</guid>
     </item>
   </channel>
 </rss>

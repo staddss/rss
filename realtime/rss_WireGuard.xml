@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Raspberry Pi + VPNルーター用途が再注目 Raspberry Pi 5を使った WireGuard VPN 旅行用ルーター 自宅NAS接続 広告ブロック モバイル回線バックアップ 用途の記事・実例が増加。 特に「超小型セルフホストVPN」需要が強め。 NetBird / Tailscale / OpenWrt系との組み合わせが人気。</title>
+      <link>https://x.com/drdr56n/status/2052824980845699402</link>
+      <description>zau 🦖: Raspberry Pi + VPNルーター用途が再注目 Raspberry Pi 5を使った WireGuard VPN 旅行用ルーター 自宅NAS接続 広告ブロック モバイル回線バックアップ 用途の記事・実例が増加。 特に「超小型セルフホストVPN」需要が強め。 NetBird / Tailscale / OpenWrt系との組み合わせが人気。</description>
+      <pubDate>Fri, 08 May 2026 18:56:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/drdr56n/status/2052824980845699402</guid>
+    </item>
+    <item>
+      <title>そういや、スマホで Wireguard をLANに常時接続させても意外とバッテリーは食わないのかな</title>
+      <link>https://x.com/gigaonion/status/2052770558543360027</link>
+      <description>ぎがおにおん: そういや、スマホで Wireguard をLANに常時接続させても意外とバッテリーは食わないのかな</description>
+      <pubDate>Fri, 08 May 2026 15:20:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2052770558543360027</guid>
+    </item>
+    <item>
+      <title>routerdに Wireguard とTailscaleのステータス画面を追加しました。 https://t.co/YlljeflNOx</title>
+      <link>https://x.com/imksoo/status/2052750048753287246</link>
+      <description>きりの: routerdに Wireguard とTailscaleのステータス画面を追加しました。 https://t.co/YlljeflNOx</description>
+      <pubDate>Fri, 08 May 2026 13:58:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/imksoo/status/2052750048753287246</guid>
+    </item>
+    <item>
+      <title>@L_port53 僕のスマホにあった標準機能のpip的な何か。 WireGuard からprotonに繋いでるから</title>
+      <link>https://x.com/soichi1208tenko/status/2052714586500169872</link>
+      <description>𝓢o𝓲c𝓱i: @L_port53 僕のスマホにあった標準機能のpip的な何か。 WireGuard からprotonに繋いでるから</description>
+      <pubDate>Fri, 08 May 2026 11:37:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/soichi1208tenko/status/2052714586500169872</guid>
+    </item>
+    <item>
       <title>@soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</title>
       <link>https://x.com/L_port53/status/2052694441748517291</link>
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</description>
@@ -45,13 +73,6 @@
       <description>tatematsu_san: 昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</description>
       <pubDate>Thu, 07 May 2026 21:41:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tk4_jj/status/2052504034242904528</guid>
-    </item>
-    <item>
-      <title>今日届いた新しい MacBook Neo を初期設定した 今の所パフォーマンスが驚く程良く、グラフィックスプログラミングも全く問題なかった 只、 WireGuard 経由でBeagleIM（XMPPクライアント）を実行していると、同じネットワーク上にある OpenBSD サーバーの</title>
-      <link>https://x.com/techsuwako/status/2052396486399602896</link>
-      <description>テクニカル諏訪子: 今日届いた新しい MacBook Neo を初期設定した 今の所パフォーマンスが驚く程良く、グラフィックスプログラミングも全く問題なかった 只、 WireGuard 経由でBeagleIM（XMPPクライアント）を実行していると、同じネットワーク上にある OpenBSD サーバーの</description>
-      <pubDate>Thu, 07 May 2026 14:33:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techsuwako/status/2052396486399602896</guid>
     </item>
     <item>
       <title>@hasegaw 以前はSoftether、 Wireguard 、L2TP/IPSec、等 今はMAP-EとUDMを組み合わせてクシャクシャになった関係でCloudflare ZeroTrustとHeadscaleですね。</title>
@@ -255,27 +276,6 @@
       <description>りとるす: Moshiとかからリモートでコントロールできる環境を WireGuard ベースでシュッと作れた時点でUDR7は入れて正解だった感じはある</description>
       <pubDate>Tue, 05 May 2026 05:01:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/litols0816/status/2051527771965510065</guid>
-    </item>
-    <item>
-      <title>すでに WireGuard 環境立ててるからこれでいいわ</title>
-      <link>https://x.com/book000/status/2051524463209168969</link>
-      <description>Tomachi: すでに WireGuard 環境立ててるからこれでいいわ</description>
-      <pubDate>Tue, 05 May 2026 04:48:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/book000/status/2051524463209168969</guid>
-    </item>
-    <item>
-      <title>managed WireGuard 、単に品質の問題で 不便に なるモンなんだなぁ</title>
-      <link>https://x.com/wint7/status/2051509609098297525</link>
-      <description>wint🛰: managed WireGuard 、単に品質の問題で 不便に なるモンなんだなぁ</description>
-      <pubDate>Tue, 05 May 2026 03:49:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wint7/status/2051509609098297525</guid>
-    </item>
-    <item>
-      <title>ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</title>
-      <link>https://x.com/__su888/status/2051423372253294952</link>
-      <description>su8 / denchu: ユタ州SB 73が5/6施行、米国初のVPN対象年齢確認法。物理位置で判定だが商用VPNや WireGuard は検知困難 / Utah first state to hold websites liable for users who mask their location with VPNs — law goes into effect, designed to prevent bypassing age checks https://t.co/4H4Z91cb45</description>
-      <pubDate>Mon, 04 May 2026 22:07:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__su888/status/2051423372253294952</guid>
     </item>
   </channel>
 </rss>

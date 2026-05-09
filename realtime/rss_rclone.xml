@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>久々に使った rclone mountが激重だった Google向けClient IDがデフォルト設定を使用する全ユーザーで共有する仕様で、クォータ制限くらってボトルネックになっていた模様</title>
+      <link>https://x.com/___Nova___/status/2052396395089494108</link>
+      <description>めてお: 久々に使った rclone mountが激重だった Google向けClient IDがデフォルト設定を使用する全ユーザーで共有する仕様で、クォータ制限くらってボトルネックになっていた模様</description>
+      <pubDate>Thu, 07 May 2026 14:33:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/___Nova___/status/2052396395089494108</guid>
+    </item>
+    <item>
       <title>【Linux部門人気記事紹介｜第6位】 クラウドストレージとLinuxサーバー間のデータ転送を効率化する「 rclone 」の活用法をご紹介。本記事では、OneDriveを対象としたセキュアなファイル移動手順を解説します。 https://t.co/BuD618JWsn https://t.co/AmZhBAiSmp</title>
       <link>https://x.com/BioinfoLab/status/2052221884931162164</link>
       <description>バイオインフォマティクス実践ラボ: 【Linux部門人気記事紹介｜第6位】 クラウドストレージとLinuxサーバー間のデータ転送を効率化する「 rclone 」の活用法をご紹介。本記事では、OneDriveを対象としたセキュアなファイル移動手順を解説します。 https://t.co/BuD618JWsn https://t.co/AmZhBAiSmp</description>
@@ -213,34 +220,6 @@
       <description>GanemeIchiba: rclone で attachments/ のみB2と同期するようにしてます 個人的にE2EEは必須要件 https://t.co/D1h4uttXdQ</description>
       <pubDate>Thu, 09 Apr 2026 23:25:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/GanemeIchiba/status/2042383451740127617</guid>
-    </item>
-    <item>
-      <title>S3 FilesはVPC外からは使えないみたいなので、手元のPCからだと引き続き rclone かaws cliを使うことになる</title>
-      <link>https://x.com/tunefs/status/2042031869995446693</link>
-      <description>Atsunori Saito: S3 FilesはVPC外からは使えないみたいなので、手元のPCからだと引き続き rclone かaws cliを使うことになる</description>
-      <pubDate>Thu, 09 Apr 2026 00:08:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tunefs/status/2042031869995446693</guid>
-    </item>
-    <item>
-      <title>以前 rclone でS3をログファイル蓄積用のファイルシステムとして使っていたけど、S3 Filesでできるようになるのか。</title>
-      <link>https://x.com/tunefs/status/2042030985764839741</link>
-      <description>Atsunori Saito: 以前 rclone でS3をログファイル蓄積用のファイルシステムとして使っていたけど、S3 Filesでできるようになるのか。</description>
-      <pubDate>Thu, 09 Apr 2026 00:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tunefs/status/2042030985764839741</guid>
-    </item>
-    <item>
-      <title>公式にサポートしたことには意義があるけど、 rclone と比べて明確に良い点があるんだろうか？ https://t.co/BMVvtVn3Dw</title>
-      <link>https://x.com/izutorishima/status/2041904529319588294</link>
-      <description>Torishima / INTP: 公式にサポートしたことには意義があるけど、 rclone と比べて明確に良い点があるんだろうか？ https://t.co/BMVvtVn3Dw</description>
-      <pubDate>Wed, 08 Apr 2026 15:42:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/izutorishima/status/2041904529319588294</guid>
-    </item>
-    <item>
-      <title>rclone でマウントしていたワイ、顎関節症になる https://t.co/Xx1miAfZ00</title>
-      <link>https://x.com/sanae_hirotaka/status/2041850086901305721</link>
-      <description>🦕なえ㌠🦖: rclone でマウントしていたワイ、顎関節症になる https://t.co/Xx1miAfZ00</description>
-      <pubDate>Wed, 08 Apr 2026 12:06:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sanae_hirotaka/status/2041850086901305721</guid>
     </item>
   </channel>
 </rss>

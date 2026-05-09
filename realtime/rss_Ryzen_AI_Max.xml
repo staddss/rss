@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/dx_note53401/status/2052599377248862344</guid>
     </item>
     <item>
+      <title>DGX Sparkも Ryzen AI Max + 395も両方使って思ったけど、DGX Sparkの方が最初のトークン出るの速くて良い気がする 素のGPU性能差なのか？</title>
+      <link>https://x.com/uluvtu/status/2052589310726299940</link>
+      <description>ｾﾞﾝｼｭﾝ: DGX Sparkも Ryzen AI Max + 395も両方使って思ったけど、DGX Sparkの方が最初のトークン出るの速くて良い気がする 素のGPU性能差なのか？</description>
+      <pubDate>Fri, 08 May 2026 03:20:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/uluvtu/status/2052589310726299940</guid>
+    </item>
+    <item>
       <title>同じくRyzen 5 3500UのiGPU処理で-ngl 99にした上でFFNをCPUに逃がすと、2tps前後。CPUが遅いとFFNをCPUに逃がすときのオーバーヘッド + FFNの処理速度でかなり不利ね。iGPUならVRAM←→メインRAMの転送が無いから本来有利なハズだけど。 Ryzen AI Max とかなら話が違ってきそう。 https://t.co/TAvgzD87LK</title>
       <link>https://x.com/yaizawa/status/2052409460270961064</link>
       <description>yaizawa⚙️🩵 @ 4/17・7/18いきもの、6/6斉藤さおり: 同じくRyzen 5 3500UのiGPU処理で-ngl 99にした上でFFNをCPUに逃がすと、2tps前後。CPUが遅いとFFNをCPUに逃がすときのオーバーヘッド + FFNの処理速度でかなり不利ね。iGPUならVRAM←→メインRAMの転送が無いから本来有利なハズだけど。 Ryzen AI Max とかなら話が違ってきそう。 https://t.co/TAvgzD87LK</description>
@@ -269,13 +276,6 @@
       <description>金のニワトリ: ちなみに Ryzen AI Max +は、メモリ大容量の上 CPU性能はめちゃくちゃ良いのでローカルAI用途以外ではかなりおすすめだった（今は高くなってしまったが）</description>
       <pubDate>Mon, 04 May 2026 01:24:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gosrum/status/2051110580304630265</guid>
-    </item>
-    <item>
-      <title>&gt; Ryzen AI Max + 495メモリを最大192GBまでサポート &gt;GPU側に最大168GBを割り当てることが可能。 やっぱり395の上位版あるんだね。 この路線が成功して、メモリ256GB→512GBと拡張していってほしいわ。そうしたらPC造りなおす。 https://t.co/5icL21GQIy</title>
-      <link>https://x.com/Kazzz/status/2051088527539220837</link>
-      <description>Kazz𝕏: &gt; Ryzen AI Max + 495メモリを最大192GBまでサポート &gt;GPU側に最大168GBを割り当てることが可能。 やっぱり395の上位版あるんだね。 この路線が成功して、メモリ256GB→512GBと拡張していってほしいわ。そうしたらPC造りなおす。 https://t.co/5icL21GQIy</description>
-      <pubDate>Sun, 03 May 2026 23:56:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kazzz/status/2051088527539220837</guid>
     </item>
   </channel>
 </rss>
