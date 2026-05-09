@@ -152,6 +152,13 @@
       <guid isPermaLink="true">https://x.com/lego510/status/2052223920770888171</guid>
     </item>
     <item>
+      <title>あんまりダルいとは思ってないけど WireGuard のエントリポイントを自宅のネットワークから公開せず外部にランデヴーポイントを設けて site-to-site で繋いでおくとかしようとしたときの外部ホストを借りておくコスト払わなくても無料だし……みたいな気持ちで使ってたり https://t.co/2PDdbT7dUB</title>
+      <link>https://x.com/orumin/status/2052219699623317722</link>
+      <description>orumin: あんまりダルいとは思ってないけど WireGuard のエントリポイントを自宅のネットワークから公開せず外部にランデヴーポイントを設けて site-to-site で繋いでおくとかしようとしたときの外部ホストを借りておくコスト払わなくても無料だし……みたいな気持ちで使ってたり https://t.co/2PDdbT7dUB</description>
+      <pubDate>Thu, 07 May 2026 02:51:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/orumin/status/2052219699623317722</guid>
+    </item>
+    <item>
       <title>@tomocha0 ジブリ見るためにOpenWrtでシンガポールの WireGuard サーバーにつないでFireTVでつないでるわたくし・・・(笑) ちなみに日本接続でも言語設定を英語にするだけでも見れる映画が変わったりしますね。（なぜかインド映画とか）</title>
       <link>https://x.com/sakuacid/status/2052199154148155456</link>
       <description>さく: @tomocha0 ジブリ見るためにOpenWrtでシンガポールの WireGuard サーバーにつないでFireTVでつないでるわたくし・・・(笑) ちなみに日本接続でも言語設定を英語にするだけでも見れる映画が変わったりしますね。（なぜかインド映画とか）</description>
@@ -269,13 +276,6 @@
       <description>もぐの: 全部わかる。 nftでオレオレルールをしこたま送り込んできてて、これ面倒見るのは無理だなってなった。 秒で WireGuard に戻った。 https://t.co/ygN6TwzxWp</description>
       <pubDate>Tue, 05 May 2026 06:33:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/moguno/status/2051550904021840205</guid>
-    </item>
-    <item>
-      <title>Moshiとかからリモートでコントロールできる環境を WireGuard ベースでシュッと作れた時点でUDR7は入れて正解だった感じはある</title>
-      <link>https://x.com/litols0816/status/2051527771965510065</link>
-      <description>りとるす: Moshiとかからリモートでコントロールできる環境を WireGuard ベースでシュッと作れた時点でUDR7は入れて正解だった感じはある</description>
-      <pubDate>Tue, 05 May 2026 05:01:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/litols0816/status/2051527771965510065</guid>
     </item>
   </channel>
 </rss>

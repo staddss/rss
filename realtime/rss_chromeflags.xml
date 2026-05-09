@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chrome flags 見直したら快適になった。微妙にストレスやったから助かったわ</title>
+      <link>https://x.com/Na10281316/status/2053095136855486970</link>
+      <description>スネちゃま: chrome flags 見直したら快適になった。微妙にストレスやったから助かったわ</description>
+      <pubDate>Sat, 09 May 2026 12:49:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Na10281316/status/2053095136855486970</guid>
+    </item>
+    <item>
+      <title>例の「Chromeがオンデバイス生成AIモデルをバックグラウンドでダウンロード・保存する」問題。 回避策としては以下を行えということだ。 1. chrome :// flags 2.「Optimization Guide On Device Model」を検索 3. 無効化 4. Chromeを再起動 5. OptGuideOnDeviceModelフォルダを削除</title>
+      <link>https://x.com/proceed7/status/2053012673462444244</link>
+      <description>細川頻: 例の「Chromeがオンデバイス生成AIモデルをバックグラウンドでダウンロード・保存する」問題。 回避策としては以下を行えということだ。 1. chrome :// flags 2.「Optimization Guide On Device Model」を検索 3. 無効化 4. Chromeを再起動 5. OptGuideOnDeviceModelフォルダを削除</description>
+      <pubDate>Sat, 09 May 2026 07:22:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/proceed7/status/2053012673462444244</guid>
+    </item>
+    <item>
       <title>Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</title>
       <link>https://x.com/hoosaka3/status/2052638313119727911</link>
       <description>ほーさかさん: Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</description>
@@ -262,20 +276,6 @@
       <description>neo | AI講師 × 次世代LINE構築: １：「 chrome :// flags /」にアクセス ２：検索窓で「Skills」といれて検索 ３：Skillsを「Enabled」にする ４：ChromeのGeminiチャット欄で「/」を入力したらスキルを選択できる 自分の好きにskills登録できるよ♪</description>
       <pubDate>Sat, 02 May 2026 08:30:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/neo_web3_/status/2050493231272775688</guid>
-    </item>
-    <item>
-      <title>ungoogled-chromium、結構独自の機能があるね chrome :// flags に見つかる (マウスホイールのスクロールでタブが動くのがうっとうしくて、flags を見に行ったら無効化できた)</title>
-      <link>https://x.com/YukiDotGames/status/2050231459156476066</link>
-      <description>Yuki.games: ungoogled-chromium、結構独自の機能があるね chrome :// flags に見つかる (マウスホイールのスクロールでタブが動くのがうっとうしくて、flags を見に行ったら無効化できた)</description>
-      <pubDate>Fri, 01 May 2026 15:10:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YukiDotGames/status/2050231459156476066</guid>
-    </item>
-    <item>
-      <title>ここだけの話！ Android版Chromeの検索欄に「 chrome :// flags 」と入れて開いてから、「Android Zoom Immersive」を見つけてオンにするとどんなサイトでも全画面表示にすることができる！ https://t.co/C8AGITGJYj</title>
-      <link>https://x.com/warp_Kirby_star/status/2049409542686179441</link>
-      <description>かび: ここだけの話！ Android版Chromeの検索欄に「 chrome :// flags 」と入れて開いてから、「Android Zoom Immersive」を見つけてオンにするとどんなサイトでも全画面表示にすることができる！ https://t.co/C8AGITGJYj</description>
-      <pubDate>Wed, 29 Apr 2026 08:44:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/warp_Kirby_star/status/2049409542686179441</guid>
     </item>
   </channel>
 </rss>

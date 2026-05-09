@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AWSの新コマンド「aws login」を組み込もうとしたら、慣れたCyberduckがうまく動かない。 最終的に rclone に移行したけれど、観察できたのは「クラウド提供者の世代交代に、ツールエコシステムが追いつかない」という構造の話だった。 技術選定の判断軸が一段変わる。</title>
+      <link>https://x.com/TanabataInst/status/2053108670100394456</link>
+      <description>株式会社 七夕研究所: AWSの新コマンド「aws login」を組み込もうとしたら、慣れたCyberduckがうまく動かない。 最終的に rclone に移行したけれど、観察できたのは「クラウド提供者の世代交代に、ツールエコシステムが追いつかない」という構造の話だった。 技術選定の判断軸が一段変わる。</description>
+      <pubDate>Sat, 09 May 2026 13:43:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TanabataInst/status/2053108670100394456</guid>
+    </item>
+    <item>
+      <title>rclone 便利ー。あとはAssetとバージョンの管理できればどこでも遊べるおもちゃ第一弾完成っ。 とりあえず昨日置き去りにしたチャリ取りに行って髪切るかー</title>
+      <link>https://x.com/Ncrasher/status/2053002769376969023</link>
+      <description>卜部 涼@???: rclone 便利ー。あとはAssetとバージョンの管理できればどこでも遊べるおもちゃ第一弾完成っ。 とりあえず昨日置き去りにしたチャリ取りに行って髪切るかー</description>
+      <pubDate>Sat, 09 May 2026 06:42:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ncrasher/status/2053002769376969023</guid>
+    </item>
+    <item>
       <title>SNSでは「AIで爆速自動化！」とキラキラした面ばかり流れる。でも現実は、フォルダ構成の微調整や、大規模データの移行（ rclone ）、AIエージェントの謎の挙動との格闘が大半。 この「泥臭いインフラ構築」をスキップしたツールは、本番環境で必ず崩れる。</title>
       <link>https://x.com/littleblue_bks/status/2053000079481712805</link>
       <description>リトル・ブルー・ブックス｜海外マーケ×AI導線: SNSでは「AIで爆速自動化！」とキラキラした面ばかり流れる。でも現実は、フォルダ構成の微調整や、大規模データの移行（ rclone ）、AIエージェントの謎の挙動との格闘が大半。 この「泥臭いインフラ構築」をスキップしたツールは、本番環境で必ず崩れる。</description>
