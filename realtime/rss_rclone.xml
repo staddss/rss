@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>キーレス標準化の前線で、エコシステムは追いついているか：`aws login`、Cyberduck、 rclone をめぐる小さな移行記｜株式会社 七夕研究所 @TanabataInst https://t.co/AM5b6b7yoO</title>
+      <link>https://x.com/TanabataInst/status/2053108671308255437</link>
+      <description>株式会社 七夕研究所: キーレス標準化の前線で、エコシステムは追いついているか：`aws login`、Cyberduck、 rclone をめぐる小さな移行記｜株式会社 七夕研究所 @TanabataInst https://t.co/AM5b6b7yoO</description>
+      <pubDate>Sat, 09 May 2026 13:43:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TanabataInst/status/2053108671308255437</guid>
+    </item>
+    <item>
       <title>AWSの新コマンド「aws login」を組み込もうとしたら、慣れたCyberduckがうまく動かない。 最終的に rclone に移行したけれど、観察できたのは「クラウド提供者の世代交代に、ツールエコシステムが追いつかない」という構造の話だった。 技術選定の判断軸が一段変わる。</title>
       <link>https://x.com/TanabataInst/status/2053108670100394456</link>
       <description>株式会社 七夕研究所: AWSの新コマンド「aws login」を組み込もうとしたら、慣れたCyberduckがうまく動かない。 最終的に rclone に移行したけれど、観察できたのは「クラウド提供者の世代交代に、ツールエコシステムが追いつかない」という構造の話だった。 技術選定の判断軸が一段変わる。</description>
@@ -234,13 +241,6 @@
       <description>深紅の滴🗨️わんコメ公認わんバサダー: エックスサーバーからGoogleドライブへの rclone でのコピーするためのbatファイル、サーバー移行で修正するのが面倒だった Googleアカウントの認証からやり直しさせられたし でもこれで、AI Proプランで増えた5TBのストレージも活用できるし、サーバー側に大きすぎるファイル保存し続けなくて済む</description>
       <pubDate>Fri, 10 Apr 2026 10:09:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shinkunoshizuku/status/2042545548440604760</guid>
-    </item>
-    <item>
-      <title>rclone で attachments/ のみB2と同期するようにしてます 個人的にE2EEは必須要件 https://t.co/D1h4uttXdQ</title>
-      <link>https://x.com/GanemeIchiba/status/2042383451740127617</link>
-      <description>GanemeIchiba: rclone で attachments/ のみB2と同期するようにしてます 個人的にE2EEは必須要件 https://t.co/D1h4uttXdQ</description>
-      <pubDate>Thu, 09 Apr 2026 23:25:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GanemeIchiba/status/2042383451740127617</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>pfsense使ってIPv6とDS-Liteで息してる環境にipv4の固定アドレスがほしくて、適当な転送量課金のないVPS契約してdebian13マシンあげて wireguard とnftでマスカレードとポートフォワード設定とpfのPBRかけてあれこれしたけど、思ってたより快適だった</title>
+      <link>https://x.com/xmms/status/2053138577597575482</link>
+      <description>MX: pfsense使ってIPv6とDS-Liteで息してる環境にipv4の固定アドレスがほしくて、適当な転送量課金のないVPS契約してdebian13マシンあげて wireguard とnftでマスカレードとポートフォワード設定とpfのPBRかけてあれこれしたけど、思ってたより快適だった</description>
+      <pubDate>Sat, 09 May 2026 15:42:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xmms/status/2053138577597575482</guid>
+    </item>
+    <item>
       <title>Raspberry Pi + VPNルーター用途が再注目 Raspberry Pi 5を使った WireGuard VPN 旅行用ルーター 自宅NAS接続 広告ブロック モバイル回線バックアップ 用途の記事・実例が増加。 特に「超小型セルフホストVPN」需要が強め。 NetBird / Tailscale / OpenWrt系との組み合わせが人気。</title>
       <link>https://x.com/drdr56n/status/2052824980845699402</link>
       <description>zau 🦖: Raspberry Pi + VPNルーター用途が再注目 Raspberry Pi 5を使った WireGuard VPN 旅行用ルーター 自宅NAS接続 広告ブロック モバイル回線バックアップ 用途の記事・実例が増加。 特に「超小型セルフホストVPN」需要が強め。 NetBird / Tailscale / OpenWrt系との組み合わせが人気。</description>
@@ -269,13 +276,6 @@
       <description>laguryz: 外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</description>
       <pubDate>Tue, 05 May 2026 08:24:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/laguryz/status/2051578797506601465</guid>
-    </item>
-    <item>
-      <title>全部わかる。 nftでオレオレルールをしこたま送り込んできてて、これ面倒見るのは無理だなってなった。 秒で WireGuard に戻った。 https://t.co/ygN6TwzxWp</title>
-      <link>https://x.com/moguno/status/2051550904021840205</link>
-      <description>もぐの: 全部わかる。 nftでオレオレルールをしこたま送り込んできてて、これ面倒見るのは無理だなってなった。 秒で WireGuard に戻った。 https://t.co/ygN6TwzxWp</description>
-      <pubDate>Tue, 05 May 2026 06:33:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2051550904021840205</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ひょっとして.mdをPCとスマホ間で Syncthing 経由で同期してるヤツって、俺以外にあんまおらんのかな。 ObsidianのPC-スマホ同期方法がユーザー（※俺含む公式のSyncを回避しようとしている勢）ごとに違いすぎて、俺がやってる方法は果たして妥当なのかと定期的に考えてしまう。</title>
+      <link>https://x.com/Hypnotic770440/status/2053321915729957354</link>
+      <description>楠咲安＠DragonStudio🏴‍☠️🐧⚡️: ひょっとして.mdをPCとスマホ間で Syncthing 経由で同期してるヤツって、俺以外にあんまおらんのかな。 ObsidianのPC-スマホ同期方法がユーザー（※俺含む公式のSyncを回避しようとしている勢）ごとに違いすぎて、俺がやってる方法は果たして妥当なのかと定期的に考えてしまう。</description>
+      <pubDate>Sun, 10 May 2026 03:51:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hypnotic770440/status/2053321915729957354</guid>
+    </item>
+    <item>
+      <title>これまでSMBSync2がインストール済みの端末ではそのまま使ってたけど、ストアから消えて久しいので、NASを入れ替えたのを機に SyncThing に全移行した。</title>
+      <link>https://x.com/eighttails/status/2053125024102690987</link>
+      <description>Yao Tadahito(八尾 唯仁): これまでSMBSync2がインストール済みの端末ではそのまま使ってたけど、ストアから消えて久しいので、NASを入れ替えたのを機に SyncThing に全移行した。</description>
+      <pubDate>Sat, 09 May 2026 14:48:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/eighttails/status/2053125024102690987</guid>
+    </item>
+    <item>
       <title>無料でDropboxやGoogle DriveやOne Driveよりも多量の容量を同期可能 https://t.co/jeSLAwAtji Syncthing のダウンロードURL https://t.co/jeSLAwAtji</title>
       <link>https://x.com/goldbecksfire/status/2053005677677973578</link>
       <description>ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: 無料でDropboxやGoogle DriveやOne Driveよりも多量の容量を同期可能 https://t.co/jeSLAwAtji Syncthing のダウンロードURL https://t.co/jeSLAwAtji</description>
@@ -262,20 +276,6 @@
       <description>そう｜Claude Codeで始めるAI自動化: 例えば、「MacとWindowsとスマホの3台でファイルを自動同期したい」とき、 ① Syncthing をそれぞれのデバイスにインストールしてデバイスIDを交換 ② 同期したいフォルダを選んで相手デバイスと共有設定 ③ 以後リアルタイムで暗号化通信、自動同期 の3ステップだけ。</description>
       <pubDate>Tue, 21 Apr 2026 09:00:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/so_ainsight/status/2046514387662578003</guid>
-    </item>
-    <item>
-      <title>これ何がすごいかというと、「クラウド経由」じゃなく「デバイス間の直接通信」でファイルを同期できること。 DropboxもGoogleドライブもiCloudも、全部「あなたのファイルを一旦自分たちのサーバーに預かる」仕組みなんですよね。 でも Syncthing は違う。</title>
-      <link>https://x.com/so_ainsight/status/2046514364170346973</link>
-      <description>そう｜Claude Codeで始めるAI自動化: これ何がすごいかというと、「クラウド経由」じゃなく「デバイス間の直接通信」でファイルを同期できること。 DropboxもGoogleドライブもiCloudも、全部「あなたのファイルを一旦自分たちのサーバーに預かる」仕組みなんですよね。 でも Syncthing は違う。</description>
-      <pubDate>Tue, 21 Apr 2026 09:00:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/so_ainsight/status/2046514364170346973</guid>
-    </item>
-    <item>
-      <title>ガチで驚いた。 毎月クラウドに払ってる費用、全部ゼロにできるかもしれない。 Syncthing っていうツール、GitHubで81,900スター超え。 クラウドを一切使わず、デバイス間で直接ファイルを同期できる。 ・GoogleドライブやDropboxの完全代替 ・データはどのサーバーにも届かない。P2P暗号化 https://t.co/eDpbAsEhOu</title>
-      <link>https://x.com/so_ainsight/status/2046514352006816217</link>
-      <description>そう｜Claude Codeで始めるAI自動化: ガチで驚いた。 毎月クラウドに払ってる費用、全部ゼロにできるかもしれない。 Syncthing っていうツール、GitHubで81,900スター超え。 クラウドを一切使わず、デバイス間で直接ファイルを同期できる。 ・GoogleドライブやDropboxの完全代替 ・データはどのサーバーにも届かない。P2P暗号化 https://t.co/eDpbAsEhOu</description>
-      <pubDate>Tue, 21 Apr 2026 09:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/so_ainsight/status/2046514352006816217</guid>
     </item>
   </channel>
 </rss>
