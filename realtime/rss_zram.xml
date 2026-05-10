@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>クライアントは zram swapを8GB設定して、 スワップファイルは消した サーバも同じく zram swapを8GB設定して、 スワップファイルは16GBにしたんだけど、 CIランナーとして使うとスワップ領域めっちゃ活用するし、 SSD時代なのでもっとスワップ増やしてもいいかも? メインメモリは64GBだし</title>
+      <link>https://x.com/ncaq/status/2053049950024671533</link>
+      <description>エヌユル: クライアントは zram swapを8GB設定して、 スワップファイルは消した サーバも同じく zram swapを8GB設定して、 スワップファイルは16GBにしたんだけど、 CIランナーとして使うとスワップ領域めっちゃ活用するし、 SSD時代なのでもっとスワップ増やしてもいいかも? メインメモリは64GBだし</description>
+      <pubDate>Sat, 09 May 2026 09:50:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ncaq/status/2053049950024671533</guid>
+    </item>
+    <item>
       <title>@ncaq 確かにOOMで落とされたほうが都合が良いシナリオなら zram 単体もアリですね……Androidとかそんな感じですし…… swapの構造を変えたらswappinessの調整も必要となりそうですが、それはそれで……</title>
       <link>https://x.com/rikki_312/status/2052277026007183392</link>
       <description>リッキー: @ncaq 確かにOOMで落とされたほうが都合が良いシナリオなら zram 単体もアリですね……Androidとかそんな感じですし…… swapの構造を変えたらswappinessの調整も必要となりそうですが、それはそれで……</description>

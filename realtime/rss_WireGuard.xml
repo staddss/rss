@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>CopilotはTailscale推してくる。 wireguard かIPv6でなんとかしたいが知識が足りない。</title>
+      <link>https://x.com/tym1101/status/2053309405693882455</link>
+      <description>tym（ティーワイエム）: CopilotはTailscale推してくる。 wireguard かIPv6でなんとかしたいが知識が足りない。</description>
+      <pubDate>Sun, 10 May 2026 03:01:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tym1101/status/2053309405693882455</guid>
+    </item>
+    <item>
       <title>pfsense使ってIPv6とDS-Liteで息してる環境にipv4の固定アドレスがほしくて、適当な転送量課金のないVPS契約してdebian13マシンあげて wireguard とnftでマスカレードとポートフォワード設定とpfのPBRかけてあれこれしたけど、思ってたより快適だった</title>
       <link>https://x.com/xmms/status/2053138577597575482</link>
       <description>MX: pfsense使ってIPv6とDS-Liteで息してる環境にipv4の固定アドレスがほしくて、適当な転送量課金のないVPS契約してdebian13マシンあげて wireguard とnftでマスカレードとポートフォワード設定とpfのPBRかけてあれこれしたけど、思ってたより快適だった</description>
@@ -269,13 +276,6 @@
       <description>深瀬 悠: みんななんでTailscale使ってるんだ？ 中身の wireguard だけでええやん</description>
       <pubDate>Tue, 05 May 2026 12:30:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mikan_seraph/status/2051640792352166374</guid>
-    </item>
-    <item>
-      <title>外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</title>
-      <link>https://x.com/laguryz/status/2051578797506601465</link>
-      <description>laguryz: 外部アカウントに依存するのが嫌でTailscaleじゃなくて Wireguard 直張りしてたからか困ったことはなかった とんでもない実装してたんだなこれ</description>
-      <pubDate>Tue, 05 May 2026 08:24:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/laguryz/status/2051578797506601465</guid>
     </item>
   </channel>
 </rss>
