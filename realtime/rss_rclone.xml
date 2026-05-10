@@ -221,26 +221,5 @@
       <pubDate>Sat, 11 Apr 2026 03:44:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mnrzzy/status/2042810951523827827</guid>
     </item>
-    <item>
-      <title>rclone でs3(互換)マウントをしてる時に、s3側で明らかにディレクトリに変更があるのにlsしても変更が反映されなくて、なんとかして変更する方法ないかなと思ってCopilotに聞いたら、 rclone はディレクトリキャッシュを持っていて、デフォルトではlsしても変更が反映されないのは仕様っぽい。</title>
-      <link>https://x.com/joukan_jakusha/status/2042654761326194967</link>
-      <description>情報弱者であると同時に、情感弱者: rclone でs3(互換)マウントをしてる時に、s3側で明らかにディレクトリに変更があるのにlsしても変更が反映されなくて、なんとかして変更する方法ないかなと思ってCopilotに聞いたら、 rclone はディレクトリキャッシュを持っていて、デフォルトではlsしても変更が反映されないのは仕様っぽい。</description>
-      <pubDate>Fri, 10 Apr 2026 17:23:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joukan_jakusha/status/2042654761326194967</guid>
-    </item>
-    <item>
-      <title>まだβなんで欲しい方は配布はDMで。 rclone ＋pCloudユーザー用。 現在メイン開発はWindows11のみ。 プログラムファイル全部みれる方であればMITライセンスで、プロジェクトごとすべてお渡しします。 Mac環境は、いつか貢献できたらなと思います🙏</title>
-      <link>https://x.com/Lichiphen/status/2042619433122939147</link>
-      <description>リシュ/ Ragius: まだβなんで欲しい方は配布はDMで。 rclone ＋pCloudユーザー用。 現在メイン開発はWindows11のみ。 プログラムファイル全部みれる方であればMITライセンスで、プロジェクトごとすべてお渡しします。 Mac環境は、いつか貢献できたらなと思います🙏</description>
-      <pubDate>Fri, 10 Apr 2026 15:03:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Lichiphen/status/2042619433122939147</guid>
-    </item>
-    <item>
-      <title>エックスサーバーからGoogleドライブへの rclone でのコピーするためのbatファイル、サーバー移行で修正するのが面倒だった Googleアカウントの認証からやり直しさせられたし でもこれで、AI Proプランで増えた5TBのストレージも活用できるし、サーバー側に大きすぎるファイル保存し続けなくて済む</title>
-      <link>https://x.com/shinkunoshizuku/status/2042545548440604760</link>
-      <description>深紅の滴🗨️わんコメ公認わんバサダー: エックスサーバーからGoogleドライブへの rclone でのコピーするためのbatファイル、サーバー移行で修正するのが面倒だった Googleアカウントの認証からやり直しさせられたし でもこれで、AI Proプランで増えた5TBのストレージも活用できるし、サーバー側に大きすぎるファイル保存し続けなくて済む</description>
-      <pubDate>Fri, 10 Apr 2026 10:09:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shinkunoshizuku/status/2042545548440604760</guid>
-    </item>
   </channel>
 </rss>

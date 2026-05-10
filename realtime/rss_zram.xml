@@ -47,13 +47,6 @@
       <guid isPermaLink="true">https://x.com/openHardwareEng/status/2052033816836100519</guid>
     </item>
     <item>
-      <title>これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。</title>
-      <link>https://x.com/pkush0880/status/2051985152109158785</link>
-      <description>おしの: これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。</description>
-      <pubDate>Wed, 06 May 2026 11:19:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pkush0880/status/2051985152109158785</guid>
-    </item>
-    <item>
       <title>あー、使わないメモリ領域を押しやるということだけを考えるなら、もう物理swapfileは作らないで、 zram のswapだけにしても良いという考えもあるのか メモリ96GBもあるならそれもまたありかもしれないな</title>
       <link>https://x.com/ncaq/status/2051933691149230263</link>
       <description>エヌユル: あー、使わないメモリ領域を押しやるということだけを考えるなら、もう物理swapfileは作らないで、 zram のswapだけにしても良いという考えもあるのか メモリ96GBもあるならそれもまたありかもしれないな</description>
