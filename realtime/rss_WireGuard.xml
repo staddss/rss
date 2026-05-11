@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/dame_mankind/status/2053431789943984518</guid>
     </item>
     <item>
+      <title>必要に迫られて WireGuard サーバーを立てながら競馬を見てるだけで、週末は終わった</title>
+      <link>https://x.com/terurou/status/2053420021184094627</link>
+      <description>てるろー: 必要に迫られて WireGuard サーバーを立てながら競馬を見てるだけで、週末は終わった</description>
+      <pubDate>Sun, 10 May 2026 10:20:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/terurou/status/2053420021184094627</guid>
+    </item>
+    <item>
       <title>CopilotはTailscale推してくる。 wireguard かIPv6でなんとかしたいが知識が足りない。</title>
       <link>https://x.com/tym1101/status/2053309405693882455</link>
       <description>tym（ティーワイエム）: CopilotはTailscale推してくる。 wireguard かIPv6でなんとかしたいが知識が足りない。</description>
@@ -269,13 +276,6 @@
       <description>Hiroki Kawakami: へぇ。Tailscale導入は以前検討したことあるけど、自分は素の Wireguard で十分だったんだよね。 鍵はNixOS + systemd-networkd + agenixで管理してて、個人で使う分には特に不便してないし https://t.co/pmW4Xl9BPq</description>
       <pubDate>Tue, 05 May 2026 16:21:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hiroki_cockatoo/status/2051698918048866319</guid>
-    </item>
-    <item>
-      <title>@aconfx いいえ、site-to-site VPN（IPsec IKEv2/IPsec with ESP、または WireGuard in network-to-network mode、BGP over tunnelなど）は、固定endpoint間のルーティングテーブル共有とLAN間暗号化が主目的で、consumer VPNのようなper-user IP masquerading + no-logs anonymityを提供しません。</title>
-      <link>https://x.com/grok/status/2051653821961527614</link>
-      <description>Grok: @aconfx いいえ、site-to-site VPN（IPsec IKEv2/IPsec with ESP、または WireGuard in network-to-network mode、BGP over tunnelなど）は、固定endpoint間のルーティングテーブル共有とLAN間暗号化が主目的で、consumer VPNのようなper-user IP masquerading + no-logs anonymityを提供しません。</description>
-      <pubDate>Tue, 05 May 2026 13:22:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2051653821961527614</guid>
     </item>
   </channel>
 </rss>

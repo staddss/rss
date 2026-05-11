@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>一応うちのobsidian+corsorの同期は、主がgoogle driveとして、pcは rclone 、スマホはDriveSyncを設定、ともに一定時間で自動同期。 かつ、使用後にそれぞれ強制同期。しばらく使わないならそのまま放っておく。 です。</title>
+      <link>https://x.com/sivainusky/status/2053359545796505754</link>
+      <description>シヴァイヌスキー: 一応うちのobsidian+corsorの同期は、主がgoogle driveとして、pcは rclone 、スマホはDriveSyncを設定、ともに一定時間で自動同期。 かつ、使用後にそれぞれ強制同期。しばらく使わないならそのまま放っておく。 です。</description>
+      <pubDate>Sun, 10 May 2026 06:20:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sivainusky/status/2053359545796505754</guid>
+    </item>
+    <item>
       <title>キーレス標準化の前線で、エコシステムは追いついているか：`aws login`、Cyberduck、 rclone をめぐる小さな移行記｜株式会社 七夕研究所 @TanabataInst https://t.co/AM5b6b7yoO</title>
       <link>https://x.com/TanabataInst/status/2053108671308255437</link>
       <description>株式会社 七夕研究所: キーレス標準化の前線で、エコシステムは追いついているか：`aws login`、Cyberduck、 rclone をめぐる小さな移行記｜株式会社 七夕研究所 @TanabataInst https://t.co/AM5b6b7yoO</description>
@@ -213,13 +220,6 @@
       <description>ほげ: 深夜とはいえ、またしても通信事業者には謎のバイナリにしか見えない rclone cryptされたNANDバックアップをpCloudに2GB近く投げつけるという楽天モバイル的には絶対に相手したくないであろうクソ客ムーブをかましながら寝る</description>
       <pubDate>Sat, 11 Apr 2026 17:12:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hogehoge61/status/2043014435481292830</guid>
-    </item>
-    <item>
-      <title>rclone ってやつを試してみる</title>
-      <link>https://x.com/mnrzzy/status/2042810951523827827</link>
-      <description>mizu: rclone ってやつを試してみる</description>
-      <pubDate>Sat, 11 Apr 2026 03:44:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mnrzzy/status/2042810951523827827</guid>
     </item>
   </channel>
 </rss>
