@@ -5,20 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>Amazon EC2 と WireGuard で軽量 VPN サーバーを構築する -アクセスログ編- https://t.co/ae4korEPiq</title>
-      <link>https://x.com/itoito33ice0ic/status/2053751897941479542</link>
-      <description>いとさん: Amazon EC2 と WireGuard で軽量 VPN サーバーを構築する -アクセスログ編- https://t.co/ae4korEPiq</description>
-      <pubDate>Mon, 11 May 2026 08:19:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itoito33ice0ic/status/2053751897941479542</guid>
-    </item>
-    <item>
-      <title>Amazon EC2 と WireGuard で軽量 VPN サーバーを構築する -実装編- [AWS CloudFormation 使用] https://t.co/WqOW6QMqPv</title>
-      <link>https://x.com/itoito33ice0ic/status/2053744325066928286</link>
-      <description>いとさん: Amazon EC2 と WireGuard で軽量 VPN サーバーを構築する -実装編- [AWS CloudFormation 使用] https://t.co/WqOW6QMqPv</description>
-      <pubDate>Mon, 11 May 2026 07:49:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itoito33ice0ic/status/2053744325066928286</guid>
-    </item>
-    <item>
       <title>WireGuard 越しのaDBうまくいかんな</title>
       <link>https://x.com/nimdanaoto/status/2053685631616967029</link>
       <description>Nimda: WireGuard 越しのaDBうまくいかんな</description>
@@ -276,6 +262,20 @@
       <description>メロンソーダ: WireGuard しか使ってないから知らなかったけどTailscaleお行儀悪いんだなあ…</description>
       <pubDate>Wed, 06 May 2026 02:38:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MelonSoda0716/status/2051854108030849221</guid>
+    </item>
+    <item>
+      <title>やはり自宅 WireGuard こそが最強...!</title>
+      <link>https://x.com/ReZeroRemLover/status/2051839332869341612</link>
+      <description>すけや: やはり自宅 WireGuard こそが最強...!</description>
+      <pubDate>Wed, 06 May 2026 01:39:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ReZeroRemLover/status/2051839332869341612</guid>
+    </item>
+    <item>
+      <title>app connectorをプロキシっぽい使い方できるのが便利で、最近自前 Wireguard やめてtailscaleに載せ替えたんだよな</title>
+      <link>https://x.com/rv64gc/status/2051727418591981651</link>
+      <description>みゅ: app connectorをプロキシっぽい使い方できるのが便利で、最近自前 Wireguard やめてtailscaleに載せ替えたんだよな</description>
+      <pubDate>Tue, 05 May 2026 18:15:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rv64gc/status/2051727418591981651</guid>
     </item>
   </channel>
 </rss>

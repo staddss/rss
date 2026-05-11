@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>どんなバックアップ方法がいいのか分からんけど、とりあえず日常用途のやつはsyncthingと rclone 使ってみる。</title>
+      <link>https://x.com/5484_231/status/2053733152422801578</link>
+      <description>鯖二才: どんなバックアップ方法がいいのか分からんけど、とりあえず日常用途のやつはsyncthingと rclone 使ってみる。</description>
+      <pubDate>Mon, 11 May 2026 07:05:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5484_231/status/2053733152422801578</guid>
+    </item>
+    <item>
       <title>一応うちのobsidian+corsorの同期は、主がgoogle driveとして、pcは rclone 、スマホはDriveSyncを設定、ともに一定時間で自動同期。 かつ、使用後にそれぞれ強制同期。しばらく使わないならそのまま放っておく。 です。</title>
       <link>https://x.com/sivainusky/status/2053359545796505754</link>
       <description>シヴァイヌスキー: 一応うちのobsidian+corsorの同期は、主がgoogle driveとして、pcは rclone 、スマホはDriveSyncを設定、ともに一定時間で自動同期。 かつ、使用後にそれぞれ強制同期。しばらく使わないならそのまま放っておく。 です。</description>
@@ -213,13 +220,6 @@
       <description>どわ: rclone って便利だなコレ ヘッドレス環境からでもGoogle drive使えるのすごくいい</description>
       <pubDate>Mon, 13 Apr 2026 10:13:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dworkinmtg/status/2043633667747336335</guid>
-    </item>
-    <item>
-      <title>深夜とはいえ、またしても通信事業者には謎のバイナリにしか見えない rclone cryptされたNANDバックアップをpCloudに2GB近く投げつけるという楽天モバイル的には絶対に相手したくないであろうクソ客ムーブをかましながら寝る</title>
-      <link>https://x.com/hogehoge61/status/2043014435481292830</link>
-      <description>ほげ: 深夜とはいえ、またしても通信事業者には謎のバイナリにしか見えない rclone cryptされたNANDバックアップをpCloudに2GB近く投げつけるという楽天モバイル的には絶対に相手したくないであろうクソ客ムーブをかましながら寝る</description>
-      <pubDate>Sat, 11 Apr 2026 17:12:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hogehoge61/status/2043014435481292830</guid>
     </item>
   </channel>
 </rss>
