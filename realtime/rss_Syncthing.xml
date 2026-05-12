@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>何年かぶりに Syncthing 使ったけどなんだかんだ使い安くて好き</title>
+      <link>https://x.com/kirio66/status/2054038471904551331</link>
+      <description>きりお: 何年かぶりに Syncthing 使ったけどなんだかんだ使い安くて好き</description>
+      <pubDate>Tue, 12 May 2026 03:18:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kirio66/status/2054038471904551331</guid>
+    </item>
+    <item>
+      <title>「自分のデータは自分で持つ」を具現化する、究極の P2P ファイル同期ツール Syncthing 。 クラウド（中央サーバー）を一切介さず、PC、スマホ、サーバー間で直接ファイルを同期。ストレージ容量の制限も、月額課金も、プライバシーの懸念もなし。TLS 暗号化と ID</title>
+      <link>https://x.com/BeykeyCrypto/status/2053999881740816651</link>
+      <description>YAMA: 「自分のデータは自分で持つ」を具現化する、究極の P2P ファイル同期ツール Syncthing 。 クラウド（中央サーバー）を一切介さず、PC、スマホ、サーバー間で直接ファイルを同期。ストレージ容量の制限も、月額課金も、プライバシーの懸念もなし。TLS 暗号化と ID</description>
+      <pubDate>Tue, 12 May 2026 00:45:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BeykeyCrypto/status/2053999881740816651</guid>
+    </item>
+    <item>
+      <title>@ishida_chatgpt その場合、OpenClawのWorkspaceと各クライアントPCは、 Syncthing が良いのでしょうか？ 基本はDiscord or Slack 経由で済ます感じでしょうか？</title>
+      <link>https://x.com/I_Yamada_AI/status/2053770290245833146</link>
+      <description>山田イトウ｜還暦AI伴走者: @ishida_chatgpt その場合、OpenClawのWorkspaceと各クライアントPCは、 Syncthing が良いのでしょうか？ 基本はDiscord or Slack 経由で済ます感じでしょうか？</description>
+      <pubDate>Mon, 11 May 2026 09:32:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/I_Yamada_AI/status/2053770290245833146</guid>
+    </item>
+    <item>
       <title>ありがとNASに syncthing 入れてみた。 https://t.co/co9akHna4g</title>
       <link>https://x.com/5484_231/status/2053744998768910658</link>
       <description>鯖二才: ありがとNASに syncthing 入れてみた。 https://t.co/co9akHna4g</description>
@@ -255,27 +276,6 @@
       <description>ちゃつ: iCloudやめて Syncthing に乗り換えてもう数ヶ月経つけど、何も困ってない。ファイルの同期先も自分で決められるから、ObsidianのVaultをPCとスマホ間で共有するのがめちゃくちゃ楽になった。まだgoogleクラウドとかも使ってはいるけど、脱クラウドは意外とアリかも。 # Syncthing #脱クラウド #Obsidian</description>
       <pubDate>Thu, 23 Apr 2026 09:56:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/syojiki_9/status/2047253148012867894</guid>
-    </item>
-    <item>
-      <title>ファイル同期ツール「 Syncthing 」の原理はAI P2Pということは容量に制限がないのか →実質的に容量制限はありません 同期なしのバックアップだけでも使えるか →真のバックアップが必要なら、 Syncthing + rsyncやBorg、Timeshiftなどと組み合わせるのが一般的 https://t.co/TvKSEI0Hq2</title>
-      <link>https://x.com/labyrinthos/status/2046825235463508322</link>
-      <description>空想ラビュリントス: ファイル同期ツール「 Syncthing 」の原理はAI P2Pということは容量に制限がないのか →実質的に容量制限はありません 同期なしのバックアップだけでも使えるか →真のバックアップが必要なら、 Syncthing + rsyncやBorg、Timeshiftなどと組み合わせるのが一般的 https://t.co/TvKSEI0Hq2</description>
-      <pubDate>Wed, 22 Apr 2026 05:35:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/labyrinthos/status/2046825235463508322</guid>
-    </item>
-    <item>
-      <title>データの置き場所、シンプルになりそう。 Syncthing 、P2Pで同期するから月額もかからないし、何より自分の手元だけで完結するのが安心感ある。 いいの見つけたな。早速いじってみよう。 https://t.co/hgcE1U5Rr0</title>
-      <link>https://x.com/pfc27254872693/status/2046735436887019763</link>
-      <description>ふひと: データの置き場所、シンプルになりそう。 Syncthing 、P2Pで同期するから月額もかからないし、何より自分の手元だけで完結するのが安心感ある。 いいの見つけたな。早速いじってみよう。 https://t.co/hgcE1U5Rr0</description>
-      <pubDate>Tue, 21 Apr 2026 23:38:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pfc27254872693/status/2046735436887019763</guid>
-    </item>
-    <item>
-      <title>検討したことある人は知ってると思うけど、課金するレベルのデータ量をクラウドに置いてる人は Syncthing だとスマホの容量が厳しいので無理なはず https://t.co/2wQSJaVL8u</title>
-      <link>https://x.com/diego_0x/status/2046735083516870749</link>
-      <description>DIΞGO (e/acc): 検討したことある人は知ってると思うけど、課金するレベルのデータ量をクラウドに置いてる人は Syncthing だとスマホの容量が厳しいので無理なはず https://t.co/2wQSJaVL8u</description>
-      <pubDate>Tue, 21 Apr 2026 23:37:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/diego_0x/status/2046735083516870749</guid>
     </item>
   </channel>
 </rss>
