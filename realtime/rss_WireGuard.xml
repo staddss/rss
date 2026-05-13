@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【VPN速度比較】1Gbps回線での実測値。 WireGuard : 825〜903 Mbps OpenVPN: 222〜226 Mbps 差は約4倍。データオーバーヘッドも WireGuard 4%に対してOpenVPN 20%。スマホの通信量とバッテリー節約にも WireGuard が有利。 プロトコル別の選び方まとめ👇 https://t.co/2taR21lSlf</title>
+      <link>https://x.com/techotakulab/status/2054397279771971600</link>
+      <description>テコタク-techotakulab: 【VPN速度比較】1Gbps回線での実測値。 WireGuard : 825〜903 Mbps OpenVPN: 222〜226 Mbps 差は約4倍。データオーバーヘッドも WireGuard 4%に対してOpenVPN 20%。スマホの通信量とバッテリー節約にも WireGuard が有利。 プロトコル別の選び方まとめ👇 https://t.co/2taR21lSlf</description>
+      <pubDate>Wed, 13 May 2026 03:04:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techotakulab/status/2054397279771971600</guid>
+    </item>
+    <item>
       <title>4📡 リモートアクセスの場合 Tailscale / WireGuard / Cloudflare Tunnel 優先 どうしても公開? Reverse Proxy(Nginx / Caddy / Traefik)必須 HTTPS + Basic Auth / APIキー / OIDC認証 /api/create, /api/push, /api/copy などの管理系エンドポイントは特に厳格に制限 Rate Limiting + WAF 導入</title>
       <link>https://x.com/yuzuno_oobaka/status/2054227774773313975</link>
       <description>yuzuno_oobaka: 4📡 リモートアクセスの場合 Tailscale / WireGuard / Cloudflare Tunnel 優先 どうしても公開? Reverse Proxy(Nginx / Caddy / Traefik)必須 HTTPS + Basic Auth / APIキー / OIDC認証 /api/create, /api/push, /api/copy などの管理系エンドポイントは特に厳格に制限 Rate Limiting + WAF 導入</description>
@@ -17,6 +24,13 @@
       <description>テコタク-techotakulab: VPNアプリで「 WireGuard とOpenVPN、どっちを選べばいい？」 答えは用途次第。 🎮 ゲーム・動画・スマホ → WireGuard 一択 速度4倍・接続100ms・通信量4分の1 🔒 中国・社内ファイアウォール突破 → OpenVPN TCP443 2026年版・実測データで完全解説👇 https://t.co/2taR21lSlf</description>
       <pubDate>Tue, 12 May 2026 12:34:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techotakulab/status/2054178337363259401</guid>
+    </item>
+    <item>
+      <title>@mun_tabi Wireguard の利点は、最初こそ難しいものの一度設定できちゃえば 「どこかの国に固定住居が残っている場合はそこの維持費だけ、または月5ドル」で「無名なのでブロックできない上に1人占有で快適、プライバシーの心配も、Netflix等でVPN OFFにしろとエラーにもならないVPN」が手に入るというところです</title>
+      <link>https://x.com/NT_Busters/status/2054087933003739280</link>
+      <description>フルネーム名札を廃止する会: @mun_tabi Wireguard の利点は、最初こそ難しいものの一度設定できちゃえば 「どこかの国に固定住居が残っている場合はそこの維持費だけ、または月5ドル」で「無名なのでブロックできない上に1人占有で快適、プライバシーの心配も、Netflix等でVPN OFFにしろとエラーにもならないVPN」が手に入るというところです</description>
+      <pubDate>Tue, 12 May 2026 06:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NT_Busters/status/2054087933003739280</guid>
     </item>
     <item>
       <title>【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</title>
@@ -262,20 +276,6 @@
       <description>methylone: tailscale,そろそろP2Pにするか・・・めんどくさくて 単なるVPNなら wireguard と変わらん(あっちのが軽くて速いし</description>
       <pubDate>Wed, 06 May 2026 11:42:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/methylone/status/2051990990819627236</guid>
-    </item>
-    <item>
-      <title>wireguard VPNの設定をやってたんだが全然接続できない 風呂に入ってたら思い出した スマホのIPアドレスがクラスAのプライベートアドレスだった えうれか！とは叫ばなかったが解決した wireguard VPNの設定もクラスAのプライベートアドレスにしてたせい つかスマホはキャリアグレードNATにしてよ</title>
-      <link>https://x.com/bjsoftab4/status/2051961458913886392</link>
-      <description>とーふ: wireguard VPNの設定をやってたんだが全然接続できない 風呂に入ってたら思い出した スマホのIPアドレスがクラスAのプライベートアドレスだった えうれか！とは叫ばなかったが解決した wireguard VPNの設定もクラスAのプライベートアドレスにしてたせい つかスマホはキャリアグレードNATにしてよ</description>
-      <pubDate>Wed, 06 May 2026 09:45:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bjsoftab4/status/2051961458913886392</guid>
-    </item>
-    <item>
-      <title>デスクトップマシンをWake on LANで遠隔起動できるようにしつつtinysshで遠隔復号できるようにして、さらに仮想ディスプレイにxfceを出して遠隔で接続できるようにした ルータに Wireguard を入れたので外からでも一連の動作ができる とても安心感がある</title>
-      <link>https://x.com/v34103080/status/2051960210705858686</link>
-      <description>v34びょう: デスクトップマシンをWake on LANで遠隔起動できるようにしつつtinysshで遠隔復号できるようにして、さらに仮想ディスプレイにxfceを出して遠隔で接続できるようにした ルータに Wireguard を入れたので外からでも一連の動作ができる とても安心感がある</description>
-      <pubDate>Wed, 06 May 2026 09:40:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/v34103080/status/2051960210705858686</guid>
     </item>
   </channel>
 </rss>

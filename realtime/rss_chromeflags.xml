@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/CrazyLazy_Q_/status/2054048875691016495</guid>
     </item>
     <item>
+      <title>chrome :// flags から変更できますっていう動画に対してflagsの本来の用途とリスクを説明するべきだってコメントがあって、そのコメントに対してそんなの自己責任なんだから不要って返信があったんだけど、そもそもflagsをよく知らない人からしたら自己責任かどうかすら知らないんだよなあ</title>
+      <link>https://x.com/remon2207/status/2054008541699318021</link>
+      <description>れもん: chrome :// flags から変更できますっていう動画に対してflagsの本来の用途とリスクを説明するべきだってコメントがあって、そのコメントに対してそんなの自己責任なんだから不要って返信があったんだけど、そもそもflagsをよく知らない人からしたら自己責任かどうかすら知らないんだよなあ</description>
+      <pubDate>Tue, 12 May 2026 01:19:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/remon2207/status/2054008541699318021</guid>
+    </item>
+    <item>
       <title>Google Chrome 147のタブを水平から垂直に変更する方法 １）Chromeを開く ２）アドレスバーに chrome :// flags /#vertical-tabsと入力し、エンターキーを押す ３）Vertical TabsをEnableedに変更する ４）Chromeを再起動する ５）Chromeの設定→デザイン→タブの位置→縦に変更する</title>
       <link>https://x.com/OhuchiMakoto/status/2053703863493144624</link>
       <description>大内　誠: Google Chrome 147のタブを水平から垂直に変更する方法 １）Chromeを開く ２）アドレスバーに chrome :// flags /#vertical-tabsと入力し、エンターキーを押す ３）Vertical TabsをEnableedに変更する ４）Chromeを再起動する ５）Chromeの設定→デザイン→タブの位置→縦に変更する</description>
@@ -101,13 +108,6 @@
       <description>アイヴァーン: Android 版のブラウザ環境で読み込まれることがあるのかわからないものの、設定からは選択できない状況でも chrome :// flags には設定がある。 デフォルトでは Enable だったので、無効化した（スクショは Brave ですけど…） https://t.co/D5cheokXU3 https://t.co/ow2eIJJMTw</description>
       <pubDate>Thu, 07 May 2026 23:03:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ivarn/status/2052524638790672759</guid>
-    </item>
-    <item>
-      <title>メモ 後で消す Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする https://t.co/peiL14qkSY</title>
-      <link>https://x.com/SK_reiwa3/status/2052514425257836716</link>
-      <description>SKen@ @固定ツイート見て下さい。無言フォロー失礼します。: メモ 後で消す Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする https://t.co/peiL14qkSY</description>
-      <pubDate>Thu, 07 May 2026 22:22:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SK_reiwa3/status/2052514425257836716</guid>
     </item>
     <item>
       <title>【手順メモ】 Chromeのアドレスバーに「 chrome :// flags 」 と入力 ↓ 膨大に出てくるので、検索窓に「Enables Optimization Guide On Device」と入力して抽出すると良い ↓ 「disabled」を選択 ↓ Chrome再起動時から変更点が発効するらしい https://t.co/9lCOoYFSsl</title>
@@ -276,6 +276,13 @@
       <description>テラ｜AIチーム経営×美容業界: 削除後に再インストールさせない方法として、Chromeのフラグ設定「 chrome :// flags 」で「optimization-guide-on-device-model」を検索し、Disabledに変更する手順が有効だ。ファイルを消すだけでは次回更新時に再展開される。</description>
       <pubDate>Tue, 05 May 2026 13:27:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/minervacosmetic/status/2051655071805722783</guid>
+    </item>
+    <item>
+      <title>@riku720720 chrome :// flags でONにしないとかも</title>
+      <link>https://x.com/sarukun99/status/2051253722827903441</link>
+      <description>tomoyuki@AIシャイン: @riku720720 chrome :// flags でONにしないとかも</description>
+      <pubDate>Mon, 04 May 2026 10:52:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sarukun99/status/2051253722827903441</guid>
     </item>
   </channel>
 </rss>

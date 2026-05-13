@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</title>
+      <link>https://x.com/Kesin11/status/2054389890859806836</link>
+      <description>Kenta.Kase: GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</description>
+      <pubDate>Wed, 13 May 2026 02:34:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kesin11/status/2054389890859806836</guid>
+    </item>
+    <item>
+      <title>@aglossia_ なるほど、ブラウザからどこでもアクセスできる環境ですね。それならOverleafが一番現実的です。Git連携のサブディレクトリ制限は確かに不便ですが、コンパイル環境として使うだけなら安定してます。より柔軟にしたい場合はGitHub Codespaces にTeX Liveを入れる手もありますが、初期設定が必要です。</title>
+      <link>https://x.com/TeX64AI/status/2054281020267270205</link>
+      <description>TeX64: @aglossia_ なるほど、ブラウザからどこでもアクセスできる環境ですね。それならOverleafが一番現実的です。Git連携のサブディレクトリ制限は確かに不便ですが、コンパイル環境として使うだけなら安定してます。より柔軟にしたい場合はGitHub Codespaces にTeX Liveを入れる手もありますが、初期設定が必要です。</description>
+      <pubDate>Tue, 12 May 2026 19:22:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TeX64AI/status/2054281020267270205</guid>
+    </item>
+    <item>
       <title>@yurunbo めんどいけどそれが手っ取り早かったです🥹 VS Codeとかも試したんですが、スマホだとボタンポチで行ける Codespaces が無難でしたw</title>
       <link>https://x.com/noukin_AIgori/status/2054028717585055950</link>
       <description>ごりおじ: @yurunbo めんどいけどそれが手っ取り早かったです🥹 VS Codeとかも試したんですが、スマホだとボタンポチで行ける Codespaces が無難でしたw</description>
@@ -262,20 +276,6 @@
       <description>Go Kudo / ぜり: Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</description>
       <pubDate>Mon, 20 Apr 2026 12:58:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/zeriyoshi/status/2046211839013564694</guid>
-    </item>
-    <item>
-      <title>結論「 Codespaces 」か「devcontainer」でVS Codeを使うこと💻 AIにコードを書かせる時、万が一AIが暴走（ファイルの誤削除など）しても、隔離された安全な箱(コンテナ)の中の話。 あなたの大切なパソコン本体のデータを壊すリスクは限りなくゼロです🛡️✨</title>
-      <link>https://x.com/timeismoney55/status/2046143635159433356</link>
-      <description>ちょくｌAI×株式投資（新NISAも活用）の情報を発信: 結論「 Codespaces 」か「devcontainer」でVS Codeを使うこと💻 AIにコードを書かせる時、万が一AIが暴走（ファイルの誤削除など）しても、隔離された安全な箱(コンテナ)の中の話。 あなたの大切なパソコン本体のデータを壊すリスクは限りなくゼロです🛡️✨</description>
-      <pubDate>Mon, 20 Apr 2026 08:27:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/timeismoney55/status/2046143635159433356</guid>
-    </item>
-    <item>
-      <title>Githubの Codespaces secretsみたいなあれで汎用的なクレデンシャルマネージャを提供して欲しい</title>
-      <link>https://x.com/oubakiou/status/2046085631873610092</link>
-      <description>oubakiou: Githubの Codespaces secretsみたいなあれで汎用的なクレデンシャルマネージャを提供して欲しい</description>
-      <pubDate>Mon, 20 Apr 2026 04:36:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oubakiou/status/2046085631873610092</guid>
     </item>
   </channel>
 </rss>
