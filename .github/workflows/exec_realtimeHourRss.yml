@@ -42,6 +42,8 @@ jobs:
         run: |
           cd realtime
           python3 ./script/realtimeRss.py '"Chromebook"'
+          sleep 10
+          python3 ./script/realtimeRss.py '"Googlebook"'
 
       - name: Commit
         run: |
