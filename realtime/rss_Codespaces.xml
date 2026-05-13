@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GitHub Codespaces 内部で、あの「Doom」がネイティブ動作!! こちらは12FPSでの動作ではあるけれど ●オーバーレイ無し ●別ウィンドウ無し ●Pythonローカルサーバ＋HTMLペイロード動作 という力技の仕様で、実際にプレイ可能なのが凄い!! https://t.co/P8C5QMRwsW https://t.co/mF6oQjK4Nb</title>
+      <link>https://x.com/yoshinokentarou/status/2054461414254018657</link>
+      <description>吉野@連邦(renpou.com): GitHub Codespaces 内部で、あの「Doom」がネイティブ動作!! こちらは12FPSでの動作ではあるけれど ●オーバーレイ無し ●別ウィンドウ無し ●Pythonローカルサーバ＋HTMLペイロード動作 という力技の仕様で、実際にプレイ可能なのが凄い!! https://t.co/P8C5QMRwsW https://t.co/mF6oQjK4Nb</description>
+      <pubDate>Wed, 13 May 2026 07:19:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yoshinokentarou/status/2054461414254018657</guid>
+    </item>
+    <item>
       <title>GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</title>
       <link>https://x.com/Kesin11/status/2054389890859806836</link>
       <description>Kenta.Kase: GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</description>
@@ -269,13 +276,6 @@
       <description>wash: プログラミングサークルで初学者に最初に使ってもらうエディタとして GitHub の Codespaces を設定するの面白いんじゃないかと思っている……どうだろう？ GDGoC Chuo は、とりあえず今年は VSCodeを使うけど</description>
       <pubDate>Tue, 21 Apr 2026 11:16:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ln67v/status/2046548736642543751</guid>
-    </item>
-    <item>
-      <title>Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</title>
-      <link>https://x.com/zeriyoshi/status/2046211839013564694</link>
-      <description>Go Kudo / ぜり: Pskel v4.0.0 を出しました - PIE に対応 - PHP License 3.01 から BSD-3-Clause にライセンスを変更 - 合成カバレッジにて関数カバレッジが計算できていなかったのを修正 - DevContainer 定義を Codespaces と統合 - LLVM-22 に更新 https://t.co/jUXnjkDtvf</description>
-      <pubDate>Mon, 20 Apr 2026 12:58:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zeriyoshi/status/2046211839013564694</guid>
     </item>
   </channel>
 </rss>

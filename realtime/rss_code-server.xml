@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近はRでの作業はほとんどPositronに移行したので、細々とGitHubに記録を残してきたRStudio ServerのDocker imageのレポジトリにremote SSH用、 Code - server 用（web版のVSCのようなもの）をまとめました。 PythonやNodeも詰め込んだ行儀が悪い自分用imageですが…</title>
+      <link>https://x.com/mokztk/status/2054139727956295861</link>
+      <description>MORI Kazutaka: 最近はRでの作業はほとんどPositronに移行したので、細々とGitHubに記録を残してきたRStudio ServerのDocker imageのレポジトリにremote SSH用、 Code - server 用（web版のVSCのようなもの）をまとめました。 PythonやNodeも詰め込んだ行儀が悪い自分用imageですが…</description>
+      <pubDate>Tue, 12 May 2026 10:00:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mokztk/status/2054139727956295861</guid>
+    </item>
+    <item>
       <title>code - server -4.118.0をいれて &quot;terminal.integrated.enableImages&quot;: true, に設定したところ，ターミナル画面がかすれて見にくかった． 4.109.0にダウングレードしてとりあえず回避（↓情報源） https://t.co/bAvHQlD669</title>
       <link>https://x.com/metalslime2023/status/2052719894693867743</link>
       <description>Daisuke TAKAGO: code - server -4.118.0をいれて &quot;terminal.integrated.enableImages&quot;: true, に設定したところ，ターミナル画面がかすれて見にくかった． 4.109.0にダウングレードしてとりあえず回避（↓情報源） https://t.co/bAvHQlD669</description>

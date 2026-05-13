@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>信頼できるクラウドストレージとはなんぞやをなんとか考えて「クラウドに暗号化フォルダを作りその中のもの全部暗号化したら運営者でもわからない」という手段が一番良い事がわかった。そしたらOneDriveだろうがGoogleドライブだろうが関係ない。作業は全て rclone でやる。 rclone はいいぞ…</title>
+      <link>https://x.com/kymk_79/status/2054335039748628693</link>
+      <description>武蔵野きつね🦊: 信頼できるクラウドストレージとはなんぞやをなんとか考えて「クラウドに暗号化フォルダを作りその中のもの全部暗号化したら運営者でもわからない」という手段が一番良い事がわかった。そしたらOneDriveだろうがGoogleドライブだろうが関係ない。作業は全て rclone でやる。 rclone はいいぞ…</description>
+      <pubDate>Tue, 12 May 2026 22:56:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kymk_79/status/2054335039748628693</guid>
+    </item>
+    <item>
       <title>分散型 rclone を使用した、スケーラブルなクロスクラウドデータ移行によるAmazon S3への移行 https://t.co/gEj7XNDbF0</title>
       <link>https://x.com/atsuizo/status/2053982277584261383</link>
       <description>atsuizo: 分散型 rclone を使用した、スケーラブルなクロスクラウドデータ移行によるAmazon S3への移行 https://t.co/gEj7XNDbF0</description>
@@ -227,13 +234,6 @@
       <description>たけ@潰瘍性大腸炎緩解期なぅ: rclone とやらでいけるのかヨシヨシ 会社でポンコツ同僚にイラッとした時にデグーのこんな姿が見られるといいんですよ 家族で共有するならGoogleドライブで済むし https://t.co/I4LgqPi4ym</description>
       <pubDate>Sat, 18 Apr 2026 01:46:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/takemaegmail/status/2045318112959181168</guid>
-    </item>
-    <item>
-      <title>rclone って便利だなコレ ヘッドレス環境からでもGoogle drive使えるのすごくいい</title>
-      <link>https://x.com/dworkinmtg/status/2043633667747336335</link>
-      <description>どわ: rclone って便利だなコレ ヘッドレス環境からでもGoogle drive使えるのすごくいい</description>
-      <pubDate>Mon, 13 Apr 2026 10:13:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dworkinmtg/status/2043633667747336335</guid>
     </item>
   </channel>
 </rss>
