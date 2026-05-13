@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</title>
+      <link>https://x.com/myskng/status/2054419027263696962</link>
+      <description>もやしきんぐ: @miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</description>
+      <pubDate>Wed, 13 May 2026 04:30:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/myskng/status/2054419027263696962</guid>
+    </item>
+    <item>
       <title>【VPN速度比較】1Gbps回線での実測値。 WireGuard : 825〜903 Mbps OpenVPN: 222〜226 Mbps 差は約4倍。データオーバーヘッドも WireGuard 4%に対してOpenVPN 20%。スマホの通信量とバッテリー節約にも WireGuard が有利。 プロトコル別の選び方まとめ👇 https://t.co/2taR21lSlf</title>
       <link>https://x.com/techotakulab/status/2054397279771971600</link>
       <description>テコタク-techotakulab: 【VPN速度比較】1Gbps回線での実測値。 WireGuard : 825〜903 Mbps OpenVPN: 222〜226 Mbps 差は約4倍。データオーバーヘッドも WireGuard 4%に対してOpenVPN 20%。スマホの通信量とバッテリー節約にも WireGuard が有利。 プロトコル別の選び方まとめ👇 https://t.co/2taR21lSlf</description>
@@ -269,13 +276,6 @@
       <description>SAVE-CLIP.COM: VPNプロトコルの違い、知ってる？意外と簡単なんです。 あなたのスマホがWi-Fiから4Gに切り替わるときも接続が切れない、そんなVPNプロトコルはどれ？ 🅐 WireGuard 🅑 OpenVPN 🅒 IKEv2 🅓 プロトコル君（謎のキャラ） 🤷 答えは記事で👇 https://t.co/5GtLdpozle #VPN #InternetSafety</description>
       <pubDate>Wed, 06 May 2026 12:00:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/saveclipvpn/status/2051995428804280490</guid>
-    </item>
-    <item>
-      <title>tailscale,そろそろP2Pにするか・・・めんどくさくて 単なるVPNなら wireguard と変わらん(あっちのが軽くて速いし</title>
-      <link>https://x.com/methylone/status/2051990990819627236</link>
-      <description>methylone: tailscale,そろそろP2Pにするか・・・めんどくさくて 単なるVPNなら wireguard と変わらん(あっちのが軽くて速いし</description>
-      <pubDate>Wed, 06 May 2026 11:42:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/methylone/status/2051990990819627236</guid>
     </item>
   </channel>
 </rss>

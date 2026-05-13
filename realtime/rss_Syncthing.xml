@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これで良いらしい Syncthing いらんのや https://t.co/dgoexUCgwl</title>
+      <link>https://x.com/1993rmc/status/2054384538978267234</link>
+      <description>rmc: これで良いらしい Syncthing いらんのや https://t.co/dgoexUCgwl</description>
+      <pubDate>Wed, 13 May 2026 02:13:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/1993rmc/status/2054384538978267234</guid>
+    </item>
+    <item>
       <title>syncthing App で最新の◯◯件数だけ同期。 という設定があると最高なのだけど(フィルタでできるかも？) その点、iOS ではサードパーティ製だけど mobius sync App で 写真フォルダに関しては、上記のような設定ができるのは至極ありがたい。 # syncthing #mobiussync</title>
       <link>https://x.com/KazuhiroAnzawa/status/2054223397748621772</link>
       <description>Kazuhiro Anzawa: syncthing App で最新の◯◯件数だけ同期。 という設定があると最高なのだけど(フィルタでできるかも？) その点、iOS ではサードパーティ製だけど mobius sync App で 写真フォルダに関しては、上記のような設定ができるのは至極ありがたい。 # syncthing #mobiussync</description>
@@ -269,13 +276,6 @@
       <description>Masahiquo, Naraya MORRY: Syncthing の起動をデスクトップ環境下での自動起動でなく、本家のサンプルに従い、ユーザレベルのSystemd、システムによる自動起動に対応、これはこれでいいとして 某AI検索氏によると、22000番ポートをルータ側で開けてないから回避している、対応策は何パターンかあり、 みたいな話 https://t.co/ukEEde7MS2</description>
       <pubDate>Sun, 26 Apr 2026 03:15:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dollplayer2501/status/2048239593313714547</guid>
-    </item>
-    <item>
-      <title>複数のPCで同期するフォルダ･･･ 当初はGoogleドライブを使っていたけど、無制限が使えなくなり移行。 その後はSynologyで3年ほど運用し、Synology Driveを使っていました。 そして今回、 自作サーバー＋複数のWindows端末の構成に切り替え、 Syncthing へ乗り換え。 https://t.co/0Vl6hWlsdc</title>
-      <link>https://x.com/sekkaku_koushin/status/2048202909658370406</link>
-      <description>かぴばら（コラム更新日記）: 複数のPCで同期するフォルダ･･･ 当初はGoogleドライブを使っていたけど、無制限が使えなくなり移行。 その後はSynologyで3年ほど運用し、Synology Driveを使っていました。 そして今回、 自作サーバー＋複数のWindows端末の構成に切り替え、 Syncthing へ乗り換え。 https://t.co/0Vl6hWlsdc</description>
-      <pubDate>Sun, 26 Apr 2026 00:50:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sekkaku_koushin/status/2048202909658370406</guid>
     </item>
   </channel>
 </rss>

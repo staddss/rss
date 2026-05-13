@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>GitHub Codespaces 内部で、あの「Doom」がネイティブ動作!! こちらは12FPSでの動作ではあるけれど ●オーバーレイ無し ●別ウィンドウ無し ●Pythonローカルサーバ＋HTMLペイロード動作 という力技の仕様で、実際にプレイ可能なのが凄い!! https://t.co/P8C5QMRwsW https://t.co/mF6oQjK4Nb</title>
-      <link>https://x.com/yoshinokentarou/status/2054461414254018657</link>
-      <description>吉野@連邦(renpou.com): GitHub Codespaces 内部で、あの「Doom」がネイティブ動作!! こちらは12FPSでの動作ではあるけれど ●オーバーレイ無し ●別ウィンドウ無し ●Pythonローカルサーバ＋HTMLペイロード動作 という力技の仕様で、実際にプレイ可能なのが凄い!! https://t.co/P8C5QMRwsW https://t.co/mF6oQjK4Nb</description>
-      <pubDate>Wed, 13 May 2026 07:19:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yoshinokentarou/status/2054461414254018657</guid>
+      <title>「GitHub Codespaces を利用した開発環境の構築」タスクをクリアしました！ https://t.co/gjxastCA1X #ProgatePath #Progate</title>
+      <link>https://x.com/TkRteonMRm9589/status/2054544190802133491</link>
+      <description>+818045559406: 「GitHub Codespaces を利用した開発環境の構築」タスクをクリアしました！ https://t.co/gjxastCA1X #ProgatePath #Progate</description>
+      <pubDate>Wed, 13 May 2026 12:48:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TkRteonMRm9589/status/2054544190802133491</guid>
     </item>
     <item>
       <title>GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</title>
@@ -17,6 +17,13 @@
       <description>Kenta.Kase: GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</description>
       <pubDate>Wed, 13 May 2026 02:34:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Kesin11/status/2054389890859806836</guid>
+    </item>
+    <item>
+      <title>エグ過ぎる codespaces 民で良かった… https://t.co/1GqqY3eqXI</title>
+      <link>https://x.com/yubasashi/status/2054337250956321051</link>
+      <description>ゆば刺し: エグ過ぎる codespaces 民で良かった… https://t.co/1GqqY3eqXI</description>
+      <pubDate>Tue, 12 May 2026 23:05:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yubasashi/status/2054337250956321051</guid>
     </item>
     <item>
       <title>@aglossia_ なるほど、ブラウザからどこでもアクセスできる環境ですね。それならOverleafが一番現実的です。Git連携のサブディレクトリ制限は確かに不便ですが、コンパイル環境として使うだけなら安定してます。より柔軟にしたい場合はGitHub Codespaces にTeX Liveを入れる手もありますが、初期設定が必要です。</title>
@@ -269,13 +276,6 @@
       <description>江﨑貴一/公認会計士・税理士・中小企業診断士: とりあえずClaude Code触ってみようと思って、ブラウザで動く占いアプリ作ってみた。 https://t.co/cK1hNq9mGY 利用にあたり、PCのデータにアクセスされないようにGitHubの Codespaces という隔離された場所で非公開のプロジェクトを作って開発してもらった。</description>
       <pubDate>Wed, 22 Apr 2026 14:20:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ezakitakakazu/status/2046957362112847984</guid>
-    </item>
-    <item>
-      <title>プログラミングサークルで初学者に最初に使ってもらうエディタとして GitHub の Codespaces を設定するの面白いんじゃないかと思っている……どうだろう？ GDGoC Chuo は、とりあえず今年は VSCodeを使うけど</title>
-      <link>https://x.com/ln67v/status/2046548736642543751</link>
-      <description>wash: プログラミングサークルで初学者に最初に使ってもらうエディタとして GitHub の Codespaces を設定するの面白いんじゃないかと思っている……どうだろう？ GDGoC Chuo は、とりあえず今年は VSCodeを使うけど</description>
-      <pubDate>Tue, 21 Apr 2026 11:16:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ln67v/status/2046548736642543751</guid>
     </item>
   </channel>
 </rss>
