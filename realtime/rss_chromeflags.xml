@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ぷえ隊へ 拡張機能を使わずflags設定でChrome全体をダークモードにできます。 Chromeのアドレスバーに「 chrome :// flags /#enable-force-dark」を入力してEnter 表示された設定画面で 『Auto Dark Mode for Web Contents Default』を 『Enabled』 に変更し Chromeを再起動します。 #ぷえ隊行進中 https://t.co/xL70bo0iVt</title>
+      <link>https://x.com/chimuncho_/status/2054939165394112888</link>
+      <description>ちむんちょ™: ぷえ隊へ 拡張機能を使わずflags設定でChrome全体をダークモードにできます。 Chromeのアドレスバーに「 chrome :// flags /#enable-force-dark」を入力してEnter 表示された設定画面で 『Auto Dark Mode for Web Contents Default』を 『Enabled』 に変更し Chromeを再起動します。 #ぷえ隊行進中 https://t.co/xL70bo0iVt</description>
+      <pubDate>Thu, 14 May 2026 14:57:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chimuncho_/status/2054939165394112888</guid>
+    </item>
+    <item>
       <title>chromeのタブが縦に並べられるようになったの嬉しい。まだ実験的な機能ということで、最新版にして chrome :// flags から vertical tabsをenableにしたらできました</title>
       <link>https://x.com/kentaf4/status/2054814714757361979</link>
       <description>Kenta Aoki: chromeのタブが縦に並べられるようになったの嬉しい。まだ実験的な機能ということで、最新版にして chrome :// flags から vertical tabsをenableにしたらできました</description>
@@ -269,13 +276,6 @@
       <description>AVITAMINOSE🍣: chrome :// flags / でも一通り無効にして、 chrome://on-device-internals/ で Not Eligible になっていればokということなんだろか。 別にAI反対とか、4GBの容量が惜しいとかではなく、一通り拒否って見たら何が起きるか見てみたいという好奇心だけなんだけども。 https://t.co/JtI1bGUsgP</description>
       <pubDate>Wed, 06 May 2026 05:55:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/avitaminose/status/2051903631939760418</guid>
-    </item>
-    <item>
-      <title>weights.binは本当に存在したので https://t.co/qOfWNpY8F6 の chrome :// flags /#prompt-api-for-gemini-nano でいろいろDisableにして再起動してからweights.bin消した Don’t be evilはマジで撤回されたんだな</title>
-      <link>https://x.com/winning_sison/status/2051874239574405502</link>
-      <description>ウイニング至尊: weights.binは本当に存在したので https://t.co/qOfWNpY8F6 の chrome :// flags /#prompt-api-for-gemini-nano でいろいろDisableにして再起動してからweights.bin消した Don’t be evilはマジで撤回されたんだな</description>
-      <pubDate>Wed, 06 May 2026 03:58:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/winning_sison/status/2051874239574405502</guid>
     </item>
   </channel>
 </rss>

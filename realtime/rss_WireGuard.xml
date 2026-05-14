@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>nuro光でポート開放できないっていうフレンドの呟き見て調べたら今MAP-Eが採用されてるのね・・・ これは気をつけないとまずそう 外部サーバー(VPSとか)を経由 WireGuard リレーみたいな構成なら行けるかもだけど WireGuard が制限受けそうで怖い</title>
+      <link>https://x.com/mochyatsu/status/2054782266442936412</link>
+      <description>もちやつ: nuro光でポート開放できないっていうフレンドの呟き見て調べたら今MAP-Eが採用されてるのね・・・ これは気をつけないとまずそう 外部サーバー(VPSとか)を経由 WireGuard リレーみたいな構成なら行けるかもだけど WireGuard が制限受けそうで怖い</description>
+      <pubDate>Thu, 14 May 2026 04:34:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mochyatsu/status/2054782266442936412</guid>
+    </item>
+    <item>
       <title>「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</title>
       <link>https://x.com/techotakulab/status/2054691710127542348</link>
       <description>テコタク-techotakulab: 「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</description>
@@ -269,13 +276,6 @@
       <description>Kohei Sato: 本当は、Tailscaleじゃなくて自宅に向けた WireGuard 接続にしたかったんだけど 自宅ネット環境も回線整理に伴う設定変更作業を予定していたので それぞれ独立の環境にしました。 https://t.co/d2YHTnbmcy</description>
       <pubDate>Wed, 06 May 2026 23:08:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wata2candy/status/2052163729555599687</guid>
-    </item>
-    <item>
-      <title>私はtailscaleのセッションが死んで繋がらなくなるを何度か経験したため基本raw Wireguard を使っているが</title>
-      <link>https://x.com/tsuzu_dev/status/2052059643317535011</link>
-      <description>Tsuzu / Tsuzuki Tsuchiya: 私はtailscaleのセッションが死んで繋がらなくなるを何度か経験したため基本raw Wireguard を使っているが</description>
-      <pubDate>Wed, 06 May 2026 16:15:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsuzu_dev/status/2052059643317535011</guid>
     </item>
   </channel>
 </rss>
