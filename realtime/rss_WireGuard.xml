@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</title>
+      <link>https://x.com/techotakulab/status/2054691710127542348</link>
+      <description>テコタク-techotakulab: 「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</description>
+      <pubDate>Wed, 13 May 2026 22:34:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techotakulab/status/2054691710127542348</guid>
+    </item>
+    <item>
+      <title>ヤマハのRTX1210でMAP-EのIPIPトンネルのデフォルトMTUが1280byteなんていう弱気というか保守的な設定のせいで wireguard のUDPがトンネルを通れず繋がらなかったｗ</title>
+      <link>https://x.com/CypherLilium/status/2054568147274064011</link>
+      <description>リリア: ヤマハのRTX1210でMAP-EのIPIPトンネルのデフォルトMTUが1280byteなんていう弱気というか保守的な設定のせいで wireguard のUDPがトンネルを通れず繋がらなかったｗ</description>
+      <pubDate>Wed, 13 May 2026 14:23:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CypherLilium/status/2054568147274064011</guid>
+    </item>
+    <item>
       <title>@miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</title>
       <link>https://x.com/myskng/status/2054419027263696962</link>
       <description>もやしきんぐ: @miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</description>
@@ -262,20 +276,6 @@
       <description>Tsuzu / Tsuzuki Tsuchiya: 私はtailscaleのセッションが死んで繋がらなくなるを何度か経験したため基本raw Wireguard を使っているが</description>
       <pubDate>Wed, 06 May 2026 16:15:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsuzu_dev/status/2052059643317535011</guid>
-    </item>
-    <item>
-      <title>Tailscale普通に使いづらいから WireGuard 使ってるな そもそもTailscaleが WireGuard のフォークだし使える環境なら WireGuard の方がなんというか純粋 https://t.co/bFiGQw0jTF</title>
-      <link>https://x.com/shibukawa_pc/status/2052038707323240475</link>
-      <description>渋川パソコンサポート: Tailscale普通に使いづらいから WireGuard 使ってるな そもそもTailscaleが WireGuard のフォークだし使える環境なら WireGuard の方がなんというか純粋 https://t.co/bFiGQw0jTF</description>
-      <pubDate>Wed, 06 May 2026 14:52:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibukawa_pc/status/2052038707323240475</guid>
-    </item>
-    <item>
-      <title>VPNプロトコルの違い、知ってる？意外と簡単なんです。 あなたのスマホがWi-Fiから4Gに切り替わるときも接続が切れない、そんなVPNプロトコルはどれ？ 🅐 WireGuard 🅑 OpenVPN 🅒 IKEv2 🅓 プロトコル君（謎のキャラ） 🤷 答えは記事で👇 https://t.co/5GtLdpozle #VPN #InternetSafety</title>
-      <link>https://x.com/saveclipvpn/status/2051995428804280490</link>
-      <description>SAVE-CLIP.COM: VPNプロトコルの違い、知ってる？意外と簡単なんです。 あなたのスマホがWi-Fiから4Gに切り替わるときも接続が切れない、そんなVPNプロトコルはどれ？ 🅐 WireGuard 🅑 OpenVPN 🅒 IKEv2 🅓 プロトコル君（謎のキャラ） 🤷 答えは記事で👇 https://t.co/5GtLdpozle #VPN #InternetSafety</description>
-      <pubDate>Wed, 06 May 2026 12:00:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/saveclipvpn/status/2051995428804280490</guid>
     </item>
   </channel>
 </rss>

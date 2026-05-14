@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やっとLinuxMintでもGoogleDriveに保存してたObsidianのVaultを開くことできたぁ。。。。 あとはSystemdに登録して rclone で同期続けるだけだ https://t.co/ZVySQBF9Cm</title>
+      <link>https://x.com/sunachann_v/status/2054728090916643217</link>
+      <description>夕凪砂乃＠砂場放送局: やっとLinuxMintでもGoogleDriveに保存してたObsidianのVaultを開くことできたぁ。。。。 あとはSystemdに登録して rclone で同期続けるだけだ https://t.co/ZVySQBF9Cm</description>
+      <pubDate>Thu, 14 May 2026 00:58:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sunachann_v/status/2054728090916643217</guid>
+    </item>
+    <item>
+      <title>box って sftp 使えたのね。知らなかった。 必死に rclone 使っていたけどおさらばだ。</title>
+      <link>https://x.com/ahash/status/2054474204997935551</link>
+      <description>ahash_nekoneko: box って sftp 使えたのね。知らなかった。 必死に rclone 使っていたけどおさらばだ。</description>
+      <pubDate>Wed, 13 May 2026 08:09:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ahash/status/2054474204997935551</guid>
+    </item>
+    <item>
       <title>信頼できるクラウドストレージとはなんぞやをなんとか考えて「クラウドに暗号化フォルダを作りその中のもの全部暗号化したら運営者でもわからない」という手段が一番良い事がわかった。そしたらOneDriveだろうがGoogleドライブだろうが関係ない。作業は全て rclone でやる。 rclone はいいぞ…</title>
       <link>https://x.com/kymk_79/status/2054335039748628693</link>
       <description>武蔵野きつね🦊: 信頼できるクラウドストレージとはなんぞやをなんとか考えて「クラウドに暗号化フォルダを作りその中のもの全部暗号化したら運営者でもわからない」という手段が一番良い事がわかった。そしたらOneDriveだろうがGoogleドライブだろうが関係ない。作業は全て rclone でやる。 rclone はいいぞ…</description>
