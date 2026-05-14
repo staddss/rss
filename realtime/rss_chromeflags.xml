@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chromeのタブが縦に並べられるようになったの嬉しい。まだ実験的な機能ということで、最新版にして chrome :// flags から vertical tabsをenableにしたらできました</title>
+      <link>https://x.com/kentaf4/status/2054814714757361979</link>
+      <description>Kenta Aoki: chromeのタブが縦に並べられるようになったの嬉しい。まだ実験的な機能ということで、最新版にして chrome :// flags から vertical tabsをenableにしたらできました</description>
+      <pubDate>Thu, 14 May 2026 06:42:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kentaf4/status/2054814714757361979</guid>
+    </item>
+    <item>
+      <title>誰にでもおすすめできるものではないですが、 chrome :// flags の下記設定してからかなり体感高速になった気がする beta版みたいな感じなのでやりたい人は自己責任でやってねみたいなページです。 https://t.co/WddByXO5W9</title>
+      <link>https://x.com/donbeioriginal1/status/2054473270368628779</link>
+      <description>しょーたろー@個人旅ブログアプリを作るREACTエンジニア: 誰にでもおすすめできるものではないですが、 chrome :// flags の下記設定してからかなり体感高速になった気がする beta版みたいな感じなのでやりたい人は自己責任でやってねみたいなページです。 https://t.co/WddByXO5W9</description>
+      <pubDate>Wed, 13 May 2026 08:06:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/donbeioriginal1/status/2054473270368628779</guid>
+    </item>
+    <item>
       <title>Chromium 系ブラウザを使用していて X を閲覧している際に「 STATUS_ACCESS_VIOLATION 」というエラーページが出てしまう人は「 chrome :// flags 」のページを開いて、その中で「 Experimental Web Platform features 」が「 有効 」になっていたら「 停止中 」に変更すると症状が改善するかも。</title>
       <link>https://x.com/CrazyLazy_Q_/status/2054048875691016495</link>
       <description>𝑺𝒉𝒂𝒎: Chromium 系ブラウザを使用していて X を閲覧している際に「 STATUS_ACCESS_VIOLATION 」というエラーページが出てしまう人は「 chrome :// flags 」のページを開いて、その中で「 Experimental Web Platform features 」が「 有効 」になっていたら「 停止中 」に変更すると症状が改善するかも。</description>
@@ -262,20 +276,6 @@
       <description>ウイニング至尊: weights.binは本当に存在したので https://t.co/qOfWNpY8F6 の chrome :// flags /#prompt-api-for-gemini-nano でいろいろDisableにして再起動してからweights.bin消した Don’t be evilはマジで撤回されたんだな</description>
       <pubDate>Wed, 06 May 2026 03:58:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/winning_sison/status/2051874239574405502</guid>
-    </item>
-    <item>
-      <title>chromeがユーザーの了解なく問答無用で 4GBのAIモデルをダウンロードさせるようになった、 消すと再ダウンロードするという話が chrome :// flags でAI機能停止させると ローカルモデルを消せるようになるそうで さすがに承諾なしは迷惑過ぎるだろGoogleよ</title>
-      <link>https://x.com/alhumbra/status/2051674077266624711</link>
-      <description>アルハンブラ: chromeがユーザーの了解なく問答無用で 4GBのAIモデルをダウンロードさせるようになった、 消すと再ダウンロードするという話が chrome :// flags でAI機能停止させると ローカルモデルを消せるようになるそうで さすがに承諾なしは迷惑過ぎるだろGoogleよ</description>
-      <pubDate>Tue, 05 May 2026 14:43:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/alhumbra/status/2051674077266624711</guid>
-    </item>
-    <item>
-      <title>削除後に再インストールさせない方法として、Chromeのフラグ設定「 chrome :// flags 」で「optimization-guide-on-device-model」を検索し、Disabledに変更する手順が有効だ。ファイルを消すだけでは次回更新時に再展開される。</title>
-      <link>https://x.com/minervacosmetic/status/2051655071805722783</link>
-      <description>テラ｜AIチーム経営×美容業界: 削除後に再インストールさせない方法として、Chromeのフラグ設定「 chrome :// flags 」で「optimization-guide-on-device-model」を検索し、Disabledに変更する手順が有効だ。ファイルを消すだけでは次回更新時に再展開される。</description>
-      <pubDate>Tue, 05 May 2026 13:27:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minervacosmetic/status/2051655071805722783</guid>
     </item>
   </channel>
 </rss>
