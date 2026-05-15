@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Mullvadの出口IPは驚くほど個人特定につながりやすい https://t.co/jAzIUnDLff 要約:Mullvadの出口IPは WireGuard 鍵から決定され、複数サーバーのIP比率で利用者を高確率に相関可能。鍵ローテーション等を推奨。</title>
+      <link>https://x.com/DerkiesAd001/status/2055174792572240035</link>
+      <description>HackerNews要約※非公式: Mullvadの出口IPは驚くほど個人特定につながりやすい https://t.co/jAzIUnDLff 要約:Mullvadの出口IPは WireGuard 鍵から決定され、複数サーバーのIP比率で利用者を高確率に相関可能。鍵ローテーション等を推奨。</description>
+      <pubDate>Fri, 15 May 2026 06:33:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2055174792572240035</guid>
+    </item>
+    <item>
       <title>Wireguard 対応なのアツい</title>
       <link>https://x.com/inaba_dev/status/2055074311929741743</link>
       <description>いなば☃️: Wireguard 対応なのアツい</description>
@@ -269,13 +276,6 @@
       <description>lego510: @hasegaw 私は WireGuard 使ってます</description>
       <pubDate>Thu, 07 May 2026 03:08:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lego510/status/2052223920770888171</guid>
-    </item>
-    <item>
-      <title>あんまりダルいとは思ってないけど WireGuard のエントリポイントを自宅のネットワークから公開せず外部にランデヴーポイントを設けて site-to-site で繋いでおくとかしようとしたときの外部ホストを借りておくコスト払わなくても無料だし……みたいな気持ちで使ってたり https://t.co/2PDdbT7dUB</title>
-      <link>https://x.com/orumin/status/2052219699623317722</link>
-      <description>orumin: あんまりダルいとは思ってないけど WireGuard のエントリポイントを自宅のネットワークから公開せず外部にランデヴーポイントを設けて site-to-site で繋いでおくとかしようとしたときの外部ホストを借りておくコスト払わなくても無料だし……みたいな気持ちで使ってたり https://t.co/2PDdbT7dUB</description>
-      <pubDate>Thu, 07 May 2026 02:51:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/orumin/status/2052219699623317722</guid>
     </item>
   </channel>
 </rss>
