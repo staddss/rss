@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>広告ブロックは NextDNS 課金して使ってるな〜 #kitakudev</title>
+      <link>https://x.com/Comamoca_/status/2055258941265993919</link>
+      <description>こまもか🦊: 広告ブロックは NextDNS 課金して使ってるな〜 #kitakudev</description>
+      <pubDate>Fri, 15 May 2026 12:08:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Comamoca_/status/2055258941265993919</guid>
+    </item>
+    <item>
+      <title>NextDNS で消し去ってます！ #kitakudev</title>
+      <link>https://x.com/yuzneri/status/2055258615980941473</link>
+      <description>ゆずねり@技書博13「う09」WebP/JPEG/MPEG本: NextDNS で消し去ってます！ #kitakudev</description>
+      <pubDate>Fri, 15 May 2026 12:06:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuzneri/status/2055258615980941473</guid>
+    </item>
+    <item>
       <title>某中華系ウェブ広告がスマホでしょっちゅう表示され、心底気持ち悪かったので、 NextDNS を導入してkwcdnの名前解決させないようにしたら、リンク画像が無効化されて残骸のみになった。 もっと言えば、どこが配信しているのか突き止められれば、根本から非表示にしたいところ。</title>
       <link>https://x.com/tatsuya4321/status/2054592798511514015</link>
       <description>たつ🐈🇯🇵: 某中華系ウェブ広告がスマホでしょっちゅう表示され、心底気持ち悪かったので、 NextDNS を導入してkwcdnの名前解決させないようにしたら、リンク画像が無効化されて残骸のみになった。 もっと言えば、どこが配信しているのか突き止められれば、根本から非表示にしたいところ。</description>
@@ -262,27 +276,6 @@
       <description>mercysnow: nextdns は大規模フィッシングメールに使われたドメインを一時的に塞ぐことがある、まえcreemaでそうなった</description>
       <pubDate>Fri, 17 Apr 2026 09:17:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cokeraita/status/2045069029216579727</guid>
-    </item>
-    <item>
-      <title>なんかヨドバシに繋がらないなと思ったら NextDNS が勝手にブロックしていた件 許可リストに追加して解決したけど何かもやるな</title>
-      <link>https://x.com/hayatedayon/status/2045025281426293140</link>
-      <description>疾風（はやて）: なんかヨドバシに繋がらないなと思ったら NextDNS が勝手にブロックしていた件 許可リストに追加して解決したけど何かもやるな</description>
-      <pubDate>Fri, 17 Apr 2026 06:23:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hayatedayon/status/2045025281426293140</guid>
-    </item>
-    <item>
-      <title>数日前からヨドバシカメラのサイトが一切開かない。そのうえネットで騒ぎになってない。変だなーと思って知人に聞くと、知人は普通に開くらしい。調査した結果、 NextDNS の誤爆だった。Microsoftの一部サイトも誤爆したままだし、契約見直そうか考えている。</title>
-      <link>https://x.com/m0880988270/status/2044667151756529935</link>
-      <description>tekitou: 数日前からヨドバシカメラのサイトが一切開かない。そのうえネットで騒ぎになってない。変だなーと思って知人に聞くと、知人は普通に開くらしい。調査した結果、 NextDNS の誤爆だった。Microsoftの一部サイトも誤爆したままだし、契約見直そうか考えている。</description>
-      <pubDate>Thu, 16 Apr 2026 06:40:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m0880988270/status/2044667151756529935</guid>
-    </item>
-    <item>
-      <title>なぜか急に https://t.co/SvAkYJLLJH が解決できなくなったので、もしやと思って NextDNS の Allowlist に追加したら解決した。なぜ...</title>
-      <link>https://x.com/hibariya/status/2044385739388105023</link>
-      <description>Gentaro Terada: なぜか急に https://t.co/SvAkYJLLJH が解決できなくなったので、もしやと思って NextDNS の Allowlist に追加したら解決した。なぜ...</description>
-      <pubDate>Wed, 15 Apr 2026 12:01:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hibariya/status/2044385739388105023</guid>
     </item>
   </channel>
 </rss>
