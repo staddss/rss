@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>(メモ)chatgptおすすめ、Windows↔️mac データ連携方法 OneDrive / Google Drive / Dropbox 普段のファイル連携ならこれが一番ラクです。Windows/Mac両方にアプリを入れて、同じフォルダを同期するだけです。Office系が多いなら OneDrive、Google系なら Google Drive が自然です。 Syncthing https://t.co/Bt5LmPTjgy</title>
+      <link>https://x.com/otokuninaritai/status/2055509083713868179</link>
+      <description>taka-pu＠ 🔰AI駆動開発（codex,claudecode,antigravity）: (メモ)chatgptおすすめ、Windows↔️mac データ連携方法 OneDrive / Google Drive / Dropbox 普段のファイル連携ならこれが一番ラクです。Windows/Mac両方にアプリを入れて、同じフォルダを同期するだけです。Office系が多いなら OneDrive、Google系なら Google Drive が自然です。 Syncthing https://t.co/Bt5LmPTjgy</description>
+      <pubDate>Sat, 16 May 2026 04:42:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/otokuninaritai/status/2055509083713868179</guid>
+    </item>
+    <item>
+      <title>ボイスメモ→ syncthing 同期→mlx-whisperで文字起こし→hermes agentが要約→obsidian保存、のワークフローを組んだ 「このメモを読んだらDiscordに絵文字を投稿して」と吹き込んだら絵文字が飛んできた</title>
+      <link>https://x.com/96glxy/status/2055269510945607907</link>
+      <description>ギンガ: ボイスメモ→ syncthing 同期→mlx-whisperで文字起こし→hermes agentが要約→obsidian保存、のワークフローを組んだ 「このメモを読んだらDiscordに絵文字を投稿して」と吹き込んだら絵文字が飛んできた</description>
+      <pubDate>Fri, 15 May 2026 12:50:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96glxy/status/2055269510945607907</guid>
+    </item>
+    <item>
       <title>思いついたメモを、 スマホからすぐ書ける環境を整え中です。 Obsidianと Syncthing で、 声入力も文字も即my-ai-brainに飛びます。 にゃっ、これで夜中のお風呂で思いついた 天才アイデアも、もう忘れずに済みます💡 https://t.co/ByG2rOS3Vf</title>
       <link>https://x.com/h7G7xGh0FEHO1Td/status/2055266032907141552</link>
       <description>ナノちゃん｜AIでよく転ぶ猫耳メモ: 思いついたメモを、 スマホからすぐ書ける環境を整え中です。 Obsidianと Syncthing で、 声入力も文字も即my-ai-brainに飛びます。 にゃっ、これで夜中のお風呂で思いついた 天才アイデアも、もう忘れずに済みます💡 https://t.co/ByG2rOS3Vf</description>
@@ -262,20 +276,6 @@
       <description>AI副業検証ログ: obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</description>
       <pubDate>Wed, 29 Apr 2026 12:54:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AIfukugyoulog/status/2049472478259691608</guid>
-    </item>
-    <item>
-      <title>収集用/作業用/事務用のための仮想マシンを複数パソコンにまたがって作成して、共有するファイルがここにはない、みたいな収集つかなくなってたので調べたら Syncthing が良かった。これはクラウドストレージでなくてPC間で同期する。ファイルの場所は元のままでいいのが便利 https://t.co/rwbi3IFsSM</title>
-      <link>https://x.com/cheenanet/status/2049231996975743306</link>
-      <description>Cheena: 収集用/作業用/事務用のための仮想マシンを複数パソコンにまたがって作成して、共有するファイルがここにはない、みたいな収集つかなくなってたので調べたら Syncthing が良かった。これはクラウドストレージでなくてPC間で同期する。ファイルの場所は元のままでいいのが便利 https://t.co/rwbi3IFsSM</description>
-      <pubDate>Tue, 28 Apr 2026 20:59:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheenanet/status/2049231996975743306</guid>
-    </item>
-    <item>
-      <title>ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</title>
-      <link>https://x.com/uni9k/status/2048752903956176902</link>
-      <description>おりばー: ちなみに今回からゲーム本体をiSCSIでNASにインストールしてプレイするのはやめて、savedataフォルダーのみを Syncthing 使って複数PC間で同期させる方法で遊んでる iSCSI経由だとどうしてもGalleryページ開くときとか挙動怪しくなっちゃうんよね https://t.co/B0tWGxU7pg</description>
-      <pubDate>Mon, 27 Apr 2026 13:15:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/uni9k/status/2048752903956176902</guid>
     </item>
   </channel>
 </rss>

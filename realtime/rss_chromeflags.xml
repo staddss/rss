@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chrome フラグ（ chrome :// flags ）をリセットすると、変更したすべての試験的な機能や隠し設定がデフォルト（初期状態）に戻ります。これにより、動作が不安定だったブラウザが改善される場合があります。なお、ブックマーク、履歴、パスワードは削除されません。</title>
+      <link>https://x.com/2gogo/status/2055454014914118091</link>
+      <description>２号: Chrome フラグ（ chrome :// flags ）をリセットすると、変更したすべての試験的な機能や隠し設定がデフォルト（初期状態）に戻ります。これにより、動作が不安定だったブラウザが改善される場合があります。なお、ブックマーク、履歴、パスワードは削除されません。</description>
+      <pubDate>Sat, 16 May 2026 01:03:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/2gogo/status/2055454014914118091</guid>
+    </item>
+    <item>
+      <title>GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中 &quot;Choose ANGLE graphics backend&quot;を &quot;D3D9&quot;にする。 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug</title>
+      <link>https://x.com/drarecsyugi/status/2055442669925745063</link>
+      <description>ドラレコ主義: GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中 &quot;Choose ANGLE graphics backend&quot;を &quot;D3D9&quot;にする。 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug</description>
+      <pubDate>Sat, 16 May 2026 00:18:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/drarecsyugi/status/2055442669925745063</guid>
+    </item>
+    <item>
+      <title>GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中の以下の設定を&quot;D3D9&quot;にする。 Choose ANGLE graphics backend 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug https://t.co/JMOrsy6xXj</title>
+      <link>https://x.com/syugita/status/2055441192146579752</link>
+      <description>syugita@Spock(青軸同盟結成中、有志もとむ): GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中の以下の設定を&quot;D3D9&quot;にする。 Choose ANGLE graphics backend 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug https://t.co/JMOrsy6xXj</description>
+      <pubDate>Sat, 16 May 2026 00:12:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/syugita/status/2055441192146579752</guid>
+    </item>
+    <item>
+      <title>TwitterでSTATUS_ACCESS_VIOLATION問題。 色々調べた結果治った。 chrome :// flags /の Choose ANGLE graphics backendをD3D11にするとなす子様の環境は安定した。 他の人は知らない。キミはキミだ。</title>
+      <link>https://x.com/Nascon/status/2055438115909882342</link>
+      <description>なす子様: TwitterでSTATUS_ACCESS_VIOLATION問題。 色々調べた結果治った。 chrome :// flags /の Choose ANGLE graphics backendをD3D11にするとなす子様の環境は安定した。 他の人は知らない。キミはキミだ。</description>
+      <pubDate>Sat, 16 May 2026 00:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Nascon/status/2055438115909882342</guid>
+    </item>
+    <item>
+      <title>クロムでSTATUS_ACCESS_VIOLATION とかいうエラーが多発する、、、 chrome :// flags とかも試したけど直らん</title>
+      <link>https://x.com/nimomoninimo1/status/2055403525107253486</link>
+      <description>鍋冠: クロムでSTATUS_ACCESS_VIOLATION とかいうエラーが多発する、、、 chrome :// flags とかも試したけど直らん</description>
+      <pubDate>Fri, 15 May 2026 21:42:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nimomoninimo1/status/2055403525107253486</guid>
+    </item>
+    <item>
       <title>Chrome早く直せ直せ直せ 再インストールも拡張機能オフもアクセラレーションOFFも Chrome flags も全部弄ってんだよこっちは https://t.co/Sgyadiw0FK</title>
       <link>https://x.com/funfunmarururu/status/2055373163329155286</link>
       <description>フンフン丸: Chrome早く直せ直せ直せ 再インストールも拡張機能オフもアクセラレーションOFFも Chrome flags も全部弄ってんだよこっちは https://t.co/Sgyadiw0FK</description>
@@ -241,41 +276,6 @@
       <description>カポにゃん(作編曲家・Mix&amp;Mastering): とりあえずやったこと ・Chromeの設定→システム→オンデバイスAIをオフにした ・OptGuideOnDeviceModel/weights.binを削除した ・Choromeで chrome :// flags からEnables Optimization Guide On Deviceをオフにした 何か不都合があれば元に戻すためのメモっす。 実際に4GBあった。 https://t.co/Bw910wsBAs</description>
       <pubDate>Thu, 07 May 2026 13:07:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/caponyan/status/2052374828766908651</guid>
-    </item>
-    <item>
-      <title>ChromeのGeminiサイドバー未だに来ないし、 縦型タブもいつまで経ってもメニューに出ない。 縦型タブは、 アドレスバーに chrome :// flags /#vertical-tabs を入れて、Enableにすることで出てきます。 Gemini (glic)はEnableにしても何も出てこない・・・</title>
-      <link>https://x.com/mizugeek/status/2052347350564429835</link>
-      <description>mizugeek: ChromeのGeminiサイドバー未だに来ないし、 縦型タブもいつまで経ってもメニューに出ない。 縦型タブは、 アドレスバーに chrome :// flags /#vertical-tabs を入れて、Enableにすることで出てきます。 Gemini (glic)はEnableにしても何も出てこない・・・</description>
-      <pubDate>Thu, 07 May 2026 11:18:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mizugeek/status/2052347350564429835</guid>
-    </item>
-    <item>
-      <title>今更ですが chrome :// flags で設定した項目を起動オプションに移すために文字列を調べるには、flags設定後に chrome://version を開くとコマンドラインが表示され、その中で --flag-switches-begin と --flag-switches-end で囲われた中がflags変更によって追加された起動オプションになります。</title>
-      <link>https://x.com/PseudoTwDk/status/2052323281563435458</link>
-      <description>PseudoTwDk@Vivaldiで擬似Deck構築用CSS/JavaScript公開中: 今更ですが chrome :// flags で設定した項目を起動オプションに移すために文字列を調べるには、flags設定後に chrome://version を開くとコマンドラインが表示され、その中で --flag-switches-begin と --flag-switches-end で囲われた中がflags変更によって追加された起動オプションになります。</description>
-      <pubDate>Thu, 07 May 2026 09:42:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PseudoTwDk/status/2052323281563435458</guid>
-    </item>
-    <item>
-      <title>Gemini in Chrome が一生出てこない ` chrome :// flags ` でちょいちょいデフォと変えてるのが影響してるのかな</title>
-      <link>https://x.com/tan_no_kan/status/2052318254706937885</link>
-      <description>たんのかん: Gemini in Chrome が一生出てこない ` chrome :// flags ` でちょいちょいデフォと変えてるのが影響してるのかな</description>
-      <pubDate>Thu, 07 May 2026 09:22:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tan_no_kan/status/2052318254706937885</guid>
-    </item>
-    <item>
-      <title>ChromeにGemini nanoの4GBファイルが勝手に作られて落ちるという話、うちの環境ではまだ起きてませんし該当ファイルもありませんでしたが chrome :// flags で optimization-guide-on-device-model prompt-api-for-gemini-nano を両方disabledにするという情報です。</title>
-      <link>https://x.com/PseudoTwDk/status/2052317883850715489</link>
-      <description>PseudoTwDk@Vivaldiで擬似Deck構築用CSS/JavaScript公開中: ChromeにGemini nanoの4GBファイルが勝手に作られて落ちるという話、うちの環境ではまだ起きてませんし該当ファイルもありませんでしたが chrome :// flags で optimization-guide-on-device-model prompt-api-for-gemini-nano を両方disabledにするという情報です。</description>
-      <pubDate>Thu, 07 May 2026 09:21:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PseudoTwDk/status/2052317883850715489</guid>
-    </item>
-    <item>
-      <title>📋 私の ASUS Chromebook Plus CM34 Flip は Experiments ( chrome :// flags ) の設定でダウンロード済み。 「Chrome」が勝手に4GBもダウンロード、オンデバイスAI「Gemini Nano」の是非で紛糾 - やじうまの杜 - 窓の杜 https://t.co/9LOgm98d7z</title>
-      <link>https://x.com/ttatsuoki/status/2052284339401142499</link>
-      <description>龍興 尚幸 (TATSUOKI Takayuki): 📋 私の ASUS Chromebook Plus CM34 Flip は Experiments ( chrome :// flags ) の設定でダウンロード済み。 「Chrome」が勝手に4GBもダウンロード、オンデバイスAI「Gemini Nano」の是非で紛糾 - やじうまの杜 - 窓の杜 https://t.co/9LOgm98d7z</description>
-      <pubDate>Thu, 07 May 2026 07:08:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2052284339401142499</guid>
     </item>
   </channel>
 </rss>
