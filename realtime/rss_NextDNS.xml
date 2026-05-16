@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NextDNS のセットアップ方法を見て知ったけど、dnsmasqってadd-cpe-id を指定すれば、EDNS0拡張を使ってID指定できるのね。 NextDNS のDo53 IPv4サーバでもプロファイルIDを伝えられて便利だな。</title>
+      <link>https://x.com/falms/status/2055333634052444176</link>
+      <description>F@L: NextDNS のセットアップ方法を見て知ったけど、dnsmasqってadd-cpe-id を指定すれば、EDNS0拡張を使ってID指定できるのね。 NextDNS のDo53 IPv4サーバでもプロファイルIDを伝えられて便利だな。</description>
+      <pubDate>Fri, 15 May 2026 17:04:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/falms/status/2055333634052444176</guid>
+    </item>
+    <item>
       <title>広告ブロックは NextDNS 課金して使ってるな〜 #kitakudev</title>
       <link>https://x.com/Comamoca_/status/2055258941265993919</link>
       <description>こまもか🦊: 広告ブロックは NextDNS 課金して使ってるな〜 #kitakudev</description>
@@ -269,13 +276,6 @@
       <description>mercysnow: なお nextdns 自身をブロックすることもある（過去数回あるらしい）https://t.co/Ilo4pGQZmu</description>
       <pubDate>Fri, 17 Apr 2026 09:20:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cokeraita/status/2045069778151424157</guid>
-    </item>
-    <item>
-      <title>nextdns は大規模フィッシングメールに使われたドメインを一時的に塞ぐことがある、まえcreemaでそうなった</title>
-      <link>https://x.com/cokeraita/status/2045069029216579727</link>
-      <description>mercysnow: nextdns は大規模フィッシングメールに使われたドメインを一時的に塞ぐことがある、まえcreemaでそうなった</description>
-      <pubDate>Fri, 17 Apr 2026 09:17:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cokeraita/status/2045069029216579727</guid>
     </item>
   </channel>
 </rss>

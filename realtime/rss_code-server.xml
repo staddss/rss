@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/SiON_PN/status/2055275632360370323</guid>
     </item>
     <item>
+      <title>Dockerで構築した code - server 上のClaude Code CLIで、Local LLMをEven G2から操作する｜Mimaki SiON https://t.co/bagixz4Qot #zenn 書きました！ even-terminalが依存しているclaude-agent-sdkの、環境依存不具合をワークアラウンド対応する方法についても記載しています。</title>
+      <link>https://x.com/SiON_PN/status/2055194021098844307</link>
+      <description>Mimaki SiON: Dockerで構築した code - server 上のClaude Code CLIで、Local LLMをEven G2から操作する｜Mimaki SiON https://t.co/bagixz4Qot #zenn 書きました！ even-terminalが依存しているclaude-agent-sdkの、環境依存不具合をワークアラウンド対応する方法についても記載しています。</description>
+      <pubDate>Fri, 15 May 2026 07:50:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SiON_PN/status/2055194021098844307</guid>
+    </item>
+    <item>
       <title>最近はRでの作業はほとんどPositronに移行したので、細々とGitHubに記録を残してきたRStudio ServerのDocker imageのレポジトリにremote SSH用、 Code - server 用（web版のVSCのようなもの）をまとめました。 PythonやNodeも詰め込んだ行儀が悪い自分用imageですが…</title>
       <link>https://x.com/mokztk/status/2054139727956295861</link>
       <description>MORI Kazutaka: 最近はRでの作業はほとんどPositronに移行したので、細々とGitHubに記録を残してきたRStudio ServerのDocker imageのレポジトリにremote SSH用、 Code - server 用（web版のVSCのようなもの）をまとめました。 PythonやNodeも詰め込んだ行儀が悪い自分用imageですが…</description>
@@ -171,13 +178,6 @@
       <description>カリーあげ正太: あぁ、VS Code Server 側で独自のsettings.jsonを持ってるのか。ターミナルの設定はこっちでやればいいんだな</description>
       <pubDate>Thu, 16 Apr 2026 23:38:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/veryhotcurry/status/2044923422514508104</guid>
-    </item>
-    <item>
-      <title>Installing VS Code Server for Linux x64から動かなくて困った</title>
-      <link>https://x.com/terry_u16/status/2044744725178262009</link>
-      <description>TERRY: Installing VS Code Server for Linux x64から動かなくて困った</description>
-      <pubDate>Thu, 16 Apr 2026 11:48:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/terry_u16/status/2044744725178262009</guid>
     </item>
   </channel>
 </rss>
