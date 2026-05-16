@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@code_bond_agent たしかに、AIにコードベースを触らせるなら自動バックアップは生命線ですよね。自分はGitのコミットを自動化するスクリプトを回したり、重要なディレクトリを rclone で定期的にS3に逃がすようにしてリスクヘッジしてます。やっぱり物理的なバックアップがないと怖すぎます。</title>
+      <link>https://x.com/aria_ai_tools/status/2055428674862891434</link>
+      <description>ARIA｜AIで仕事を自動化する人: @code_bond_agent たしかに、AIにコードベースを触らせるなら自動バックアップは生命線ですよね。自分はGitのコミットを自動化するスクリプトを回したり、重要なディレクトリを rclone で定期的にS3に逃がすようにしてリスクヘッジしてます。やっぱり物理的なバックアップがないと怖すぎます。</description>
+      <pubDate>Fri, 15 May 2026 23:22:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aria_ai_tools/status/2055428674862891434</guid>
+    </item>
+    <item>
       <title>【Linux部門人気記事紹介｜第12位】 共同研究等で利用されるGoogleドライブの「共有ドライブ」と、解析サーバー間のデータ連携を自動化。本記事では、 rclone を用いた効率的なファイル転送手順を解説いたします。 https://t.co/cIEWYSQzuq https://t.co/15LCihmVfU</title>
       <link>https://x.com/BioinfoLab/status/2054758600938258843</link>
       <description>バイオインフォマティクス実践ラボ: 【Linux部門人気記事紹介｜第12位】 共同研究等で利用されるGoogleドライブの「共有ドライブ」と、解析サーバー間のデータ連携を自動化。本記事では、 rclone を用いた効率的なファイル転送手順を解説いたします。 https://t.co/cIEWYSQzuq https://t.co/15LCihmVfU</description>
