@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</title>
+      <link>https://x.com/esumii/status/2055919291233607902</link>
+      <description>S (ﾂｲｰﾄはﾂﾘｰ全体をご確認ください): 私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</description>
+      <pubDate>Sun, 17 May 2026 07:52:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/esumii/status/2055919291233607902</guid>
+    </item>
+    <item>
+      <title>Q4OSでExpanDrive使いたいのに接続できないなんでよ……。 rclone はできた。けど少しめんどくさい</title>
+      <link>https://x.com/shiromozuku/status/2055907648898572735</link>
+      <description>しろもづく: Q4OSでExpanDrive使いたいのに接続できないなんでよ……。 rclone はできた。けど少しめんどくさい</description>
+      <pubDate>Sun, 17 May 2026 07:05:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiromozuku/status/2055907648898572735</guid>
+    </item>
+    <item>
+      <title>いいえ、 rclone を使って暗号化を噛ませたうえでアップロードするのです…それしか道はありません https://t.co/FSer51ld0i</title>
+      <link>https://x.com/datui2525/status/2055745262862340161</link>
+      <description>Ze;roP@Composer/Programmer: いいえ、 rclone を使って暗号化を噛ませたうえでアップロードするのです…それしか道はありません https://t.co/FSer51ld0i</description>
+      <pubDate>Sat, 16 May 2026 20:20:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/datui2525/status/2055745262862340161</guid>
+    </item>
+    <item>
       <title>rclone のproton driveが再び対応されて嬉しい</title>
       <link>https://x.com/5unsetpowerln/status/2055658704490684823</link>
       <description>5unset (powerln): rclone のproton driveが再び対応されて嬉しい</description>
@@ -255,27 +276,6 @@
       <description>mcite_macchi: rclone でマネージドして組むのが安全かなぁ～</description>
       <pubDate>Sun, 19 Apr 2026 12:31:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mcite_macchi/status/2045842666869723427</guid>
-    </item>
-    <item>
-      <title>デグーの写真動画共有作戦 1.OSをフル機能版に https://t.co/GyXHva33z7にメモリ512スワップ512でX使うのはきついのでスワップを1024に 3.ブラウザMIDORIをインストしてデフォルト化 4. rclone からGoogleドライブ連携なんとか完了（凄く時間かかる） https://t.co/GLReoeViB3ドライブに写真転送成功！ https://t.co/QfOWJNOSID</title>
-      <link>https://x.com/takemaegmail/status/2045504793226166379</link>
-      <description>たけ@潰瘍性大腸炎緩解期なぅ: デグーの写真動画共有作戦 1.OSをフル機能版に https://t.co/GyXHva33z7にメモリ512スワップ512でX使うのはきついのでスワップを1024に 3.ブラウザMIDORIをインストしてデフォルト化 4. rclone からGoogleドライブ連携なんとか完了（凄く時間かかる） https://t.co/GLReoeViB3ドライブに写真転送成功！ https://t.co/QfOWJNOSID</description>
-      <pubDate>Sat, 18 Apr 2026 14:08:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takemaegmail/status/2045504793226166379</guid>
-    </item>
-    <item>
-      <title>rclone でGoogleドライブ連携しようとするとGUIベースのLinuxで terminalとwebブラウザが起動できないと認証できないとか そして我が家にはGUIが動かせるスペックのラズパイは存在しない… 振り出しに戻ったわorz</title>
-      <link>https://x.com/takemaegmail/status/2045432746747842958</link>
-      <description>たけ@潰瘍性大腸炎緩解期なぅ: rclone でGoogleドライブ連携しようとするとGUIベースのLinuxで terminalとwebブラウザが起動できないと認証できないとか そして我が家にはGUIが動かせるスペックのラズパイは存在しない… 振り出しに戻ったわorz</description>
-      <pubDate>Sat, 18 Apr 2026 09:22:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takemaegmail/status/2045432746747842958</guid>
-    </item>
-    <item>
-      <title>rclone とやらでいけるのかヨシヨシ 会社でポンコツ同僚にイラッとした時にデグーのこんな姿が見られるといいんですよ 家族で共有するならGoogleドライブで済むし https://t.co/I4LgqPi4ym</title>
-      <link>https://x.com/takemaegmail/status/2045318112959181168</link>
-      <description>たけ@潰瘍性大腸炎緩解期なぅ: rclone とやらでいけるのかヨシヨシ 会社でポンコツ同僚にイラッとした時にデグーのこんな姿が見られるといいんですよ 家族で共有するならGoogleドライブで済むし https://t.co/I4LgqPi4ym</description>
-      <pubDate>Sat, 18 Apr 2026 01:46:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takemaegmail/status/2045318112959181168</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</title>
+      <link>https://x.com/akisupi/status/2055960413700059450</link>
+      <description>すぴ/Supiris/Aki☄: 最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</description>
+      <pubDate>Sun, 17 May 2026 10:35:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akisupi/status/2055960413700059450</guid>
+    </item>
+    <item>
+      <title>最近頻発しだしたが、自分だけではなかったか グラフィックアクセラレーションOFF chrome :// flags でChoose ANGLE graphics backendの設定を変更 でだいぶ安定した 【Chrome】「STATUS_ACCESS_VIOLATION」エラー頻発の問題急増中(X等、2026年5月14日以降急増) https://t.co/Iodr5Nbjnx</title>
+      <link>https://x.com/firefreeinvest/status/2055951339579154724</link>
+      <description>delitescence: 最近頻発しだしたが、自分だけではなかったか グラフィックアクセラレーションOFF chrome :// flags でChoose ANGLE graphics backendの設定を変更 でだいぶ安定した 【Chrome】「STATUS_ACCESS_VIOLATION」エラー頻発の問題急増中(X等、2026年5月14日以降急増) https://t.co/Iodr5Nbjnx</description>
+      <pubDate>Sun, 17 May 2026 09:59:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/firefreeinvest/status/2055951339579154724</guid>
+    </item>
+    <item>
+      <title>【備忘録】 一昨日辺りから頻発のChromeでXやYouTubeがエラー吐いて落ちるバグ ・システム設定のグラフィックアクセラレーションOFF ・ chrome :// flags /#use-angle の値をDefaultからD3D11に変更 でとりあえず安定か 次のChromeアップデートで元に戻すのを忘れないように</title>
+      <link>https://x.com/_takadon/status/2055937036285309246</link>
+      <description>たかどん: 【備忘録】 一昨日辺りから頻発のChromeでXやYouTubeがエラー吐いて落ちるバグ ・システム設定のグラフィックアクセラレーションOFF ・ chrome :// flags /#use-angle の値をDefaultからD3D11に変更 でとりあえず安定か 次のChromeアップデートで元に戻すのを忘れないように</description>
+      <pubDate>Sun, 17 May 2026 09:02:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_takadon/status/2055937036285309246</guid>
+    </item>
+    <item>
       <title>このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</title>
       <link>https://x.com/kamo_kamos/status/2055585880270852207</link>
       <description>渡瀬ゆず💉: このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</description>
@@ -255,27 +276,6 @@
       <description>アイヴァーン: Android 版のブラウザ環境で読み込まれることがあるのかわからないものの、設定からは選択できない状況でも chrome :// flags には設定がある。 デフォルトでは Enable だったので、無効化した（スクショは Brave ですけど…） https://t.co/D5cheokXU3 https://t.co/ow2eIJJMTw</description>
       <pubDate>Thu, 07 May 2026 23:03:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ivarn/status/2052524638790672759</guid>
-    </item>
-    <item>
-      <title>【手順メモ】 Chromeのアドレスバーに「 chrome :// flags 」 と入力 ↓ 膨大に出てくるので、検索窓に「Enables Optimization Guide On Device」と入力して抽出すると良い ↓ 「disabled」を選択 ↓ Chrome再起動時から変更点が発効するらしい https://t.co/9lCOoYFSsl</title>
-      <link>https://x.com/Q5IGWmteWj6s8bQ/status/2052492407019823492</link>
-      <description>長谷川 愉璃: 【手順メモ】 Chromeのアドレスバーに「 chrome :// flags 」 と入力 ↓ 膨大に出てくるので、検索窓に「Enables Optimization Guide On Device」と入力して抽出すると良い ↓ 「disabled」を選択 ↓ Chrome再起動時から変更点が発効するらしい https://t.co/9lCOoYFSsl</description>
-      <pubDate>Thu, 07 May 2026 20:54:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Q5IGWmteWj6s8bQ/status/2052492407019823492</guid>
-    </item>
-    <item>
-      <title>・Chromeが勝手にAI機械学習モデルを自動インストールしている ・ファイル名は weights.bin ・削除しても次のChrome起動時に再インストールされる ・インストールを止めるにはChromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする https://t.co/YpECAJn4S8</title>
-      <link>https://x.com/takino/status/2052482175208165716</link>
-      <description>Masato Takino: ・Chromeが勝手にAI機械学習モデルを自動インストールしている ・ファイル名は weights.bin ・削除しても次のChrome起動時に再インストールされる ・インストールを止めるにはChromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする https://t.co/YpECAJn4S8</description>
-      <pubDate>Thu, 07 May 2026 20:14:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takino/status/2052482175208165716</guid>
-    </item>
-    <item>
-      <title>だそうです ＞現時点でインストールを止める方法として、Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする手順が知られています。 https://t.co/C9yUs8MfCL</title>
-      <link>https://x.com/Y_adhd/status/2052481435832066056</link>
-      <description>気分屋みな(神経/双極)🔖: だそうです ＞現時点でインストールを止める方法として、Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする手順が知られています。 https://t.co/C9yUs8MfCL</description>
-      <pubDate>Thu, 07 May 2026 20:11:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Y_adhd/status/2052481435832066056</guid>
     </item>
   </channel>
 </rss>
