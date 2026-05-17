@@ -165,19 +165,5 @@
       <pubDate>Fri, 17 Apr 2026 05:47:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yousukezan/status/2045016217967317019</guid>
     </item>
-    <item>
-      <title>家のデスクトップのVS Code触るのだけが課題だった(chrome remoteとかいうレガシーリモートで力技してた) けど、普通にVS Code server で秒で繋がった... スマホブラウザでVS Code触れる...</title>
-      <link>https://x.com/morimoritoday/status/2044984183223906344</link>
-      <description>もり: 家のデスクトップのVS Code触るのだけが課題だった(chrome remoteとかいうレガシーリモートで力技してた) けど、普通にVS Code server で秒で繋がった... スマホブラウザでVS Code触れる...</description>
-      <pubDate>Fri, 17 Apr 2026 03:39:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/morimoritoday/status/2044984183223906344</guid>
-    </item>
-    <item>
-      <title>あぁ、VS Code Server 側で独自のsettings.jsonを持ってるのか。ターミナルの設定はこっちでやればいいんだな</title>
-      <link>https://x.com/veryhotcurry/status/2044923422514508104</link>
-      <description>カリーあげ正太: あぁ、VS Code Server 側で独自のsettings.jsonを持ってるのか。ターミナルの設定はこっちでやればいいんだな</description>
-      <pubDate>Thu, 16 Apr 2026 23:38:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/veryhotcurry/status/2044923422514508104</guid>
-    </item>
   </channel>
 </rss>

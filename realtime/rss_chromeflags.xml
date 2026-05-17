@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/kamo_kamos/status/2055585880270852207</guid>
     </item>
     <item>
+      <title>ChromeでX見てるとSTATUS_ACCESS_VIOLATION出るようになったんだけど chrome :// flags のExperimental Web Platform featuresをDisabledにしたらいいらしい いつか修正されると思うから自分はこのまま使うｗ https://t.co/CPQ1xfd3qE</title>
+      <link>https://x.com/sinUi_MERONRAND/status/2055551656176312346</link>
+      <description>スカイランド: ChromeでX見てるとSTATUS_ACCESS_VIOLATION出るようになったんだけど chrome :// flags のExperimental Web Platform featuresをDisabledにしたらいいらしい いつか修正されると思うから自分はこのまま使うｗ https://t.co/CPQ1xfd3qE</description>
+      <pubDate>Sat, 16 May 2026 07:31:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sinUi_MERONRAND/status/2055551656176312346</guid>
+    </item>
+    <item>
       <title>【メモ】 Twitter(X)で「STATUS_ACCESS_VIOLATION」が出る 幾つかの対応策があるようですが、私は以下で解決。 1⃣ chrome :// flags /#use-angle へアクセス 2⃣Choose ANGLE graphics backendを 「D3D11」へ変更 ※ANGLE＝Almost Native Graphics Layer Engine ※DirectX11（D3D11）</title>
       <link>https://x.com/nukunuku_blog/status/2055546338792837468</link>
       <description>ぬくぬく＠ブログ: 【メモ】 Twitter(X)で「STATUS_ACCESS_VIOLATION」が出る 幾つかの対応策があるようですが、私は以下で解決。 1⃣ chrome :// flags /#use-angle へアクセス 2⃣Choose ANGLE graphics backendを 「D3D11」へ変更 ※ANGLE＝Almost Native Graphics Layer Engine ※DirectX11（D3D11）</description>
@@ -269,13 +276,6 @@
       <description>気分屋みな(神経/双極)🔖: だそうです ＞現時点でインストールを止める方法として、Chromeのアドレスバーに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする手順が知られています。 https://t.co/C9yUs8MfCL</description>
       <pubDate>Thu, 07 May 2026 20:11:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Y_adhd/status/2052481435832066056</guid>
-    </item>
-    <item>
-      <title>chromeのアドレスバーに chrome :// flags を入力してnanoで検索してgemini関連全部disabledにしたらメモリがめっちゃ軽くなって草</title>
-      <link>https://x.com/crazyhamster777/status/2052480177972949110</link>
-      <description>Crayzy Hamster@NO WAR🕊️🌏: chromeのアドレスバーに chrome :// flags を入力してnanoで検索してgemini関連全部disabledにしたらメモリがめっちゃ軽くなって草</description>
-      <pubDate>Thu, 07 May 2026 20:06:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/crazyhamster777/status/2052480177972949110</guid>
     </item>
   </channel>
 </rss>

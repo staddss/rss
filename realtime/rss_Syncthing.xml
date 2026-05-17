@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>描いた絵やプロジェクトファイルの共有には syncthing を強くオススメ クラウドを介さずにLANでフォルダを直接同期するからBANの可能性ゼロ、 世代バックアップ機能もあるからなんかあった時も安心、 非公式のiOSクライアントもあるからiPadとWindows、Mac、Linuxとの共有と可</title>
+      <link>https://x.com/namorton09/status/2055864749511110752</link>
+      <description>ナモー: 描いた絵やプロジェクトファイルの共有には syncthing を強くオススメ クラウドを介さずにLANでフォルダを直接同期するからBANの可能性ゼロ、 世代バックアップ機能もあるからなんかあった時も安心、 非公式のiOSクライアントもあるからiPadとWindows、Mac、Linuxとの共有と可</description>
+      <pubDate>Sun, 17 May 2026 04:15:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/namorton09/status/2055864749511110752</guid>
+    </item>
+    <item>
+      <title>@ClaudeCodeozi そうです！ Agent.md、Skills、.envとか。一緒に変更が必要な（したい）ものをその都度変更するのはめんどくさくて。。。💦 何かいい方法無いかな～って。２つ目の「 Syncthing 」試してみようかと思ってるところです😅</title>
+      <link>https://x.com/otokuninaritai/status/2055516362148336088</link>
+      <description>taka-pu＠ 🔰AI駆動開発（codex,claudecode,antigravity）: @ClaudeCodeozi そうです！ Agent.md、Skills、.envとか。一緒に変更が必要な（したい）ものをその都度変更するのはめんどくさくて。。。💦 何かいい方法無いかな～って。２つ目の「 Syncthing 」試してみようかと思ってるところです😅</description>
+      <pubDate>Sat, 16 May 2026 05:11:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/otokuninaritai/status/2055516362148336088</guid>
+    </item>
+    <item>
       <title>(メモ)chatgptおすすめ、Windows↔️mac データ連携方法 OneDrive / Google Drive / Dropbox 普段のファイル連携ならこれが一番ラクです。Windows/Mac両方にアプリを入れて、同じフォルダを同期するだけです。Office系が多いなら OneDrive、Google系なら Google Drive が自然です。 Syncthing https://t.co/Bt5LmPTjgy</title>
       <link>https://x.com/otokuninaritai/status/2055509083713868179</link>
       <description>taka-pu＠ 🔰AI駆動開発（codex,claudecode,antigravity）: (メモ)chatgptおすすめ、Windows↔️mac データ連携方法 OneDrive / Google Drive / Dropbox 普段のファイル連携ならこれが一番ラクです。Windows/Mac両方にアプリを入れて、同じフォルダを同期するだけです。Office系が多いなら OneDrive、Google系なら Google Drive が自然です。 Syncthing https://t.co/Bt5LmPTjgy</description>
@@ -262,20 +276,6 @@
       <description>重藤 六🐸月2.5万PVガジェットブロガー: 自宅の環境😀 左上がSMBや Syncthing でファイル共有・バックアップに使ってる4TB SSDの10GbE NAS 右上がimmichやFreshRSSとかが入ったDockerホスト 左下がNVIDIA GPU3枚でVRAM合計28GBのLLMサーバー 右下がUbuntu DesktopやObsidianやFirefoxが入ったちょっとしたサブPC ちな、ベアメタルUbuntu https://t.co/beH0gbNP0h</description>
       <pubDate>Thu, 30 Apr 2026 10:02:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2049791597928415518</guid>
-    </item>
-    <item>
-      <title>obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</title>
-      <link>https://x.com/AIfukugyoulog/status/2049472478259691608</link>
-      <description>AI副業検証ログ: obsidianをナレッジベース化したら原本が消えたん…。 「まぁ、 syncthing でサブPCにもあるし…」 っと思ってサブPC起動したらsynchingでサブのobsidianも消えたん…。 ナレッジベース化したとに「原本は残します」って言ってたのに…。</description>
-      <pubDate>Wed, 29 Apr 2026 12:54:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AIfukugyoulog/status/2049472478259691608</guid>
-    </item>
-    <item>
-      <title>収集用/作業用/事務用のための仮想マシンを複数パソコンにまたがって作成して、共有するファイルがここにはない、みたいな収集つかなくなってたので調べたら Syncthing が良かった。これはクラウドストレージでなくてPC間で同期する。ファイルの場所は元のままでいいのが便利 https://t.co/rwbi3IFsSM</title>
-      <link>https://x.com/cheenanet/status/2049231996975743306</link>
-      <description>Cheena: 収集用/作業用/事務用のための仮想マシンを複数パソコンにまたがって作成して、共有するファイルがここにはない、みたいな収集つかなくなってたので調べたら Syncthing が良かった。これはクラウドストレージでなくてPC間で同期する。ファイルの場所は元のままでいいのが便利 https://t.co/rwbi3IFsSM</description>
-      <pubDate>Tue, 28 Apr 2026 20:59:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheenanet/status/2049231996975743306</guid>
     </item>
   </channel>
 </rss>

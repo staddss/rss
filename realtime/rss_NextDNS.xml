@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NextDNS が有能過ぎるのでPro版契約した</title>
+      <link>https://x.com/ZUCCAZACCA/status/2055629245947560254</link>
+      <description>今日も明日もエンジニア: NextDNS が有能過ぎるのでPro版契約した</description>
+      <pubDate>Sat, 16 May 2026 12:39:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ZUCCAZACCA/status/2055629245947560254</guid>
+    </item>
+    <item>
       <title>NextDNS のセットアップ方法を見て知ったけど、dnsmasqってadd-cpe-id を指定すれば、EDNS0拡張を使ってID指定できるのね。 NextDNS のDo53 IPv4サーバでもプロファイルIDを伝えられて便利だな。</title>
       <link>https://x.com/falms/status/2055333634052444176</link>
       <description>F@L: NextDNS のセットアップ方法を見て知ったけど、dnsmasqってadd-cpe-id を指定すれば、EDNS0拡張を使ってID指定できるのね。 NextDNS のDo53 IPv4サーバでもプロファイルIDを伝えられて便利だな。</description>
@@ -269,13 +276,6 @@
       <description>プログラミングをするパンダ: Opus 4.7 が NextDNS っていうのを勧めてきたんだけど、これすごく良さそう</description>
       <pubDate>Sat, 18 Apr 2026 11:23:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Panda_Program/status/2045463311429599299</guid>
-    </item>
-    <item>
-      <title>なお nextdns 自身をブロックすることもある（過去数回あるらしい）https://t.co/Ilo4pGQZmu</title>
-      <link>https://x.com/cokeraita/status/2045069778151424157</link>
-      <description>mercysnow: なお nextdns 自身をブロックすることもある（過去数回あるらしい）https://t.co/Ilo4pGQZmu</description>
-      <pubDate>Fri, 17 Apr 2026 09:20:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cokeraita/status/2045069778151424157</guid>
     </item>
   </channel>
 </rss>

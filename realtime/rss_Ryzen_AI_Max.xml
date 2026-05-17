@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NVIDIA製GPU無し、AMD Ryzen系でローカルLLM推論を高速にやるとしたら Ollama でも LMStudio でもなく、 llama.cpp １択かな とりあえず Lemonade SDK の gfx1151 （ Ryzen AI Max + 395）向け ROCm7 組み込み済みのナイトリービルドを試す 「Qwen3-8B Q4_K_M」で Prompt: 334.8 t/s、Generation: 41.5 https://t.co/Uwhupltu9c</title>
+      <link>https://x.com/old_pgmrs_will/status/2055848454245797958</link>
+      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: NVIDIA製GPU無し、AMD Ryzen系でローカルLLM推論を高速にやるとしたら Ollama でも LMStudio でもなく、 llama.cpp １択かな とりあえず Lemonade SDK の gfx1151 （ Ryzen AI Max + 395）向け ROCm7 組み込み済みのナイトリービルドを試す 「Qwen3-8B Q4_K_M」で Prompt: 334.8 t/s、Generation: 41.5 https://t.co/Uwhupltu9c</description>
+      <pubDate>Sun, 17 May 2026 03:10:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2055848454245797958</guid>
+    </item>
+    <item>
       <title>第8世代Core i7からAMD Ryzen AI MAX + 395に乗り換えたわけだが･･･なんだこれ。ビックリすぎる。処理が突っかからない。というか第8世代でWindows11はかなり無理があったんだな･･･メモリは32GBに増設してはいたが。</title>
       <link>https://x.com/narusehironori/status/2055659648481669502</link>
       <description>なるせひろのり: 第8世代Core i7からAMD Ryzen AI MAX + 395に乗り換えたわけだが･･･なんだこれ。ビックリすぎる。処理が突っかからない。というか第8世代でWindows11はかなり無理があったんだな･･･メモリは32GBに増設してはいたが。</description>
@@ -59,6 +66,13 @@
       <description>Nimda: うーん Ryzen AI Max ,やっぱMacよりは帯域が低いのが限界あるな</description>
       <pubDate>Sat, 16 May 2026 04:04:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nimdanaoto/status/2055499613994660216</guid>
+    </item>
+    <item>
+      <title>なんか知らんが久しぶりに Ryzen AI Max を使ってたら死ぬほどPrefillが遅いっぽくて使い物にならん事例が発生…つら……</title>
+      <link>https://x.com/telmin_orca/status/2055443883253981537</link>
+      <description>山田てるみ: なんか知らんが久しぶりに Ryzen AI Max を使ってたら死ぬほどPrefillが遅いっぽくて使い物にならん事例が発生…つら……</description>
+      <pubDate>Sat, 16 May 2026 00:23:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/telmin_orca/status/2055443883253981537</guid>
     </item>
     <item>
       <title>DwarfStar 4、AMD ROCm環境でも動くようになるのか？ Ryzen AI Max 395+ はメモリ帯域がAppleのMaxやUltraチップに比べると渋い感じだから、あまり期待できないのかな、どうでしょうね。 https://t.co/NcIOcNAlIY</title>
@@ -262,20 +276,6 @@
       <description>ikzw shge: AI機能付きのアプリを開発したいなら、IDEの載ってる開発マシン自体のGPUを動かして動作確認しながら作っていくのが楽。 今ならAIをローカルで丸ごと動く様なパソコンで開発を始めるのが良い。 DGX sparkやMacの高性能モデルや Ryzen AI max のPCはそんなマシンなのだろう。</description>
       <pubDate>Sun, 10 May 2026 01:17:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NIKUMARUTAMAGO/status/2053283375902064944</guid>
-    </item>
-    <item>
-      <title>※アフィリエイトリンクを含みます #広告 ASUS ゲーミングノートPC TUF Gaming A14 FA401EA 14インチ AMD Ryzen AI MAX + 392 メモリ 64GB SSD ... https://t.co/z4jsA4xFb6</title>
-      <link>https://x.com/Rakuattack/status/2053242441491456289</link>
-      <description>lets: ※アフィリエイトリンクを含みます #広告 ASUS ゲーミングノートPC TUF Gaming A14 FA401EA 14インチ AMD Ryzen AI MAX + 392 メモリ 64GB SSD ... https://t.co/z4jsA4xFb6</description>
-      <pubDate>Sat, 09 May 2026 22:35:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rakuattack/status/2053242441491456289</guid>
-    </item>
-    <item>
-      <title>HiDream-O1-Image Fullが Ryzen AI Max + 395で動作しました。日本語も書けます @Hi_MINISFORUM https://t.co/HPSpZsZ4N6 https://t.co/toY1bfBGb8</title>
-      <link>https://x.com/yasei_no_otoko/status/2053148822080274491</link>
-      <description>野生の男: HiDream-O1-Image Fullが Ryzen AI Max + 395で動作しました。日本語も書けます @Hi_MINISFORUM https://t.co/HPSpZsZ4N6 https://t.co/toY1bfBGb8</description>
-      <pubDate>Sat, 09 May 2026 16:23:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yasei_no_otoko/status/2053148822080274491</guid>
     </item>
   </channel>
 </rss>
