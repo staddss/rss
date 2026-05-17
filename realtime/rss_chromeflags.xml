@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近、Chromeで「STATUS_ACCESS_VIOLATION」が良く出てたんだが、以下の方法で解決。 ・ chrome :// flags / を開く ・Choose ANGLE graphics backend で D3D11 を選択 ・再起動 を選択 もうトラブルシューティングはWeb検索よりAIの方が圧倒的に早いね。</title>
+      <link>https://x.com/ukagero/status/2056035143589204289</link>
+      <description>kagero: 最近、Chromeで「STATUS_ACCESS_VIOLATION」が良く出てたんだが、以下の方法で解決。 ・ chrome :// flags / を開く ・Choose ANGLE graphics backend で D3D11 を選択 ・再起動 を選択 もうトラブルシューティングはWeb検索よりAIの方が圧倒的に早いね。</description>
+      <pubDate>Sun, 17 May 2026 15:32:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ukagero/status/2056035143589204289</guid>
+    </item>
+    <item>
+      <title>ChromeのXの不具合(STATUS_ACCESS_VIOLATIONがハードウェアアクセラレーション切っても発生するようになったので chrome :// flags （Choose ANGLE graphics backend） これをD1D11にしたところ今のところ直ったっぽいな→直ってなかった https://t.co/qa7lnpoLkz</title>
+      <link>https://x.com/mishima2006/status/2056024144526135494</link>
+      <description>mishima2006: ChromeのXの不具合(STATUS_ACCESS_VIOLATIONがハードウェアアクセラレーション切っても発生するようになったので chrome :// flags （Choose ANGLE graphics backend） これをD1D11にしたところ今のところ直ったっぽいな→直ってなかった https://t.co/qa7lnpoLkz</description>
+      <pubDate>Sun, 17 May 2026 14:48:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mishima2006/status/2056024144526135494</guid>
+    </item>
+    <item>
+      <title>ChromeのXの不具合(STATUS_ACCESS_VIOLATIONがハードウェアアクセラレーション切っても発生するようになったので chrome :// flags （Choose ANGLE graphics backend） これをD1D11にしたところ今のところ直ったっぽいな https://t.co/qa7lnpoLkz</title>
+      <link>https://x.com/mishima2006/status/2056023210056094168</link>
+      <description>mishima2006: ChromeのXの不具合(STATUS_ACCESS_VIOLATIONがハードウェアアクセラレーション切っても発生するようになったので chrome :// flags （Choose ANGLE graphics backend） これをD1D11にしたところ今のところ直ったっぽいな https://t.co/qa7lnpoLkz</description>
+      <pubDate>Sun, 17 May 2026 14:45:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mishima2006/status/2056023210056094168</guid>
+    </item>
+    <item>
       <title>最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</title>
       <link>https://x.com/akisupi/status/2055960413700059450</link>
       <description>すぴ/Supiris/Aki☄: 最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</description>
@@ -255,27 +276,6 @@
       <description>いつか: 昨日からAndroidのChromeが死ぬほど重いから調べてたら、『アドレスに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする』（Gemini nanoとかいうのを停止する）でめちゃめちゃ軽くなって笑う、なにわろてんねん。</description>
       <pubDate>Fri, 08 May 2026 01:38:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akatukistardust/status/2052563792341746045</guid>
-    </item>
-    <item>
-      <title>知らぬ間に4GBのディスクスペースを消費…ChromeのAIモデル問題が炎上中 https://t.co/D6GjZh052z 『「設定 &gt; システム &gt; オンデバイスAI」をオフにする』 『 chrome :// flags で「Enables optimization guide on device」をDisabledにする』 いずれかで OFF にできるようです。</title>
-      <link>https://x.com/Syynya/status/2052553818714567015</link>
-      <description>しーにゃ♪@公式: 知らぬ間に4GBのディスクスペースを消費…ChromeのAIモデル問題が炎上中 https://t.co/D6GjZh052z 『「設定 &gt; システム &gt; オンデバイスAI」をオフにする』 『 chrome :// flags で「Enables optimization guide on device」をDisabledにする』 いずれかで OFF にできるようです。</description>
-      <pubDate>Fri, 08 May 2026 00:58:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Syynya/status/2052553818714567015</guid>
-    </item>
-    <item>
-      <title>勝手にダウンロードされるのは不愉快なので、削除しました。 ◯Chromeがデバイスに自動インストールした「Gemini Nano」のAIモデル関連ファイル「weights.bin」の削除について（Windows11） 1. 自動ダウンロードの停止 1-1. Chromeのアドレスバーに chrome :// flags と入力し、Enterをクリックする</title>
-      <link>https://x.com/nephloria_trade/status/2052525340145369257</link>
-      <description>Nephloria Gladius: 勝手にダウンロードされるのは不愉快なので、削除しました。 ◯Chromeがデバイスに自動インストールした「Gemini Nano」のAIモデル関連ファイル「weights.bin」の削除について（Windows11） 1. 自動ダウンロードの停止 1-1. Chromeのアドレスバーに chrome :// flags と入力し、Enterをクリックする</description>
-      <pubDate>Thu, 07 May 2026 23:05:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nephloria_trade/status/2052525340145369257</guid>
-    </item>
-    <item>
-      <title>Android 版のブラウザ環境で読み込まれることがあるのかわからないものの、設定からは選択できない状況でも chrome :// flags には設定がある。 デフォルトでは Enable だったので、無効化した（スクショは Brave ですけど…） https://t.co/D5cheokXU3 https://t.co/ow2eIJJMTw</title>
-      <link>https://x.com/Ivarn/status/2052524638790672759</link>
-      <description>アイヴァーン: Android 版のブラウザ環境で読み込まれることがあるのかわからないものの、設定からは選択できない状況でも chrome :// flags には設定がある。 デフォルトでは Enable だったので、無効化した（スクショは Brave ですけど…） https://t.co/D5cheokXU3 https://t.co/ow2eIJJMTw</description>
-      <pubDate>Thu, 07 May 2026 23:03:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ivarn/status/2052524638790672759</guid>
     </item>
   </channel>
 </rss>

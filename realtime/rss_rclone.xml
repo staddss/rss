@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【Next.jsブログ構築】VPS の SQLite データベースを rclone と OneDrive で自動バックアップする方法 https://t.co/1Q5Ns0TYyh ブログの閲覧者数データを保管している SQLite のデータベースを安全にバックアップします #nextjs #sqlite #ubuntu # rclone #onedrive</title>
+      <link>https://x.com/LIFEWORK_Blog/status/2055973614709837921</link>
+      <description>LIFEWORK Blog: 【Next.jsブログ構築】VPS の SQLite データベースを rclone と OneDrive で自動バックアップする方法 https://t.co/1Q5Ns0TYyh ブログの閲覧者数データを保管している SQLite のデータベースを安全にバックアップします #nextjs #sqlite #ubuntu # rclone #onedrive</description>
+      <pubDate>Sun, 17 May 2026 11:28:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LIFEWORK_Blog/status/2055973614709837921</guid>
+    </item>
+    <item>
       <title>私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</title>
       <link>https://x.com/esumii/status/2055919291233607902</link>
       <description>S (ﾂｲｰﾄはﾂﾘｰ全体をご確認ください): 私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</description>
@@ -269,13 +276,6 @@
       <description>mcite_macchi: 悩んだ結果 rclone を使うことにした。cloude to cloudeでセキュアで安全にできるツールは継続して探っていく</description>
       <pubDate>Sun, 19 Apr 2026 12:57:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mcite_macchi/status/2045849367068995931</guid>
-    </item>
-    <item>
-      <title>rclone でマネージドして組むのが安全かなぁ～</title>
-      <link>https://x.com/mcite_macchi/status/2045842666869723427</link>
-      <description>mcite_macchi: rclone でマネージドして組むのが安全かなぁ～</description>
-      <pubDate>Sun, 19 Apr 2026 12:31:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mcite_macchi/status/2045842666869723427</guid>
     </item>
   </channel>
 </rss>

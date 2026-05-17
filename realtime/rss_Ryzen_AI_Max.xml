@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GMKtec EVO-X2（AMD Ryzen AI Max + 395 / 128GB）+ Ubuntu26 + ROCm7 最適化 llama.cpp で、Google GEMMA4 の 31B系と26B系の合計4モデルの検証してみた 31B系は頑張って 10t/s 程度だったが、26B A4B は 40t/s 以上出てて Q8 が実用レベルで動作する！☺️ 次は Hermes Agent と組み合わせてみよう https://t.co/0UIymAcTdO</title>
+      <link>https://x.com/old_pgmrs_will/status/2055990787486470171</link>
+      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: GMKtec EVO-X2（AMD Ryzen AI Max + 395 / 128GB）+ Ubuntu26 + ROCm7 最適化 llama.cpp で、Google GEMMA4 の 31B系と26B系の合計4モデルの検証してみた 31B系は頑張って 10t/s 程度だったが、26B A4B は 40t/s 以上出てて Q8 が実用レベルで動作する！☺️ 次は Hermes Agent と組み合わせてみよう https://t.co/0UIymAcTdO</description>
+      <pubDate>Sun, 17 May 2026 12:36:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2055990787486470171</guid>
+    </item>
+    <item>
+      <title>ルーデンス PCあった! Ryzen AI MAX +にRAM 128GBってかなりガチ構成だな https://t.co/41qoC69sif</title>
+      <link>https://x.com/AILogDev/status/2055892078551511331</link>
+      <description>あいろぐ: ルーデンス PCあった! Ryzen AI MAX +にRAM 128GBってかなりガチ構成だな https://t.co/41qoC69sif</description>
+      <pubDate>Sun, 17 May 2026 06:04:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AILogDev/status/2055892078551511331</guid>
+    </item>
+    <item>
       <title>NVIDIA製GPU無し、AMD Ryzen系でローカルLLM推論を高速にやるとしたら Ollama でも LMStudio でもなく、 llama.cpp １択かな とりあえず Lemonade SDK の gfx1151 （ Ryzen AI Max + 395）向け ROCm7 組み込み済みのナイトリービルドを試す 「Qwen3-8B Q4_K_M」で Prompt: 334.8 t/s、Generation: 41.5 https://t.co/Uwhupltu9c</title>
       <link>https://x.com/old_pgmrs_will/status/2055848454245797958</link>
       <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: NVIDIA製GPU無し、AMD Ryzen系でローカルLLM推論を高速にやるとしたら Ollama でも LMStudio でもなく、 llama.cpp １択かな とりあえず Lemonade SDK の gfx1151 （ Ryzen AI Max + 395）向け ROCm7 組み込み済みのナイトリービルドを試す 「Qwen3-8B Q4_K_M」で Prompt: 334.8 t/s、Generation: 41.5 https://t.co/Uwhupltu9c</description>
@@ -262,20 +276,6 @@
       <description>Kimi: ローカル始めると、 Ryzen AI MAX + 395 128GBが欲しくなる。クーポン使って30万で以前は買えたけど、今は40万超え？メモリ高騰… OpenWebUIとContinueで使ってるけど、機微データなしのライト使用ならクラウドのほうがコスパ良いかな？ ローカルの自己満足は格別だが… https://t.co/jTZUuuZJK1</description>
       <pubDate>Sun, 10 May 2026 04:12:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kimi_yo/status/2053327190247526755</guid>
-    </item>
-    <item>
-      <title>RYZEN AI MAX +395搭載ミニPC使ってみたい欲がすごい</title>
-      <link>https://x.com/yakimoki_teru/status/2053298195485356527</link>
-      <description>やきもき: RYZEN AI MAX +395搭載ミニPC使ってみたい欲がすごい</description>
-      <pubDate>Sun, 10 May 2026 02:16:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yakimoki_teru/status/2053298195485356527</guid>
-    </item>
-    <item>
-      <title>AI機能付きのアプリを開発したいなら、IDEの載ってる開発マシン自体のGPUを動かして動作確認しながら作っていくのが楽。 今ならAIをローカルで丸ごと動く様なパソコンで開発を始めるのが良い。 DGX sparkやMacの高性能モデルや Ryzen AI max のPCはそんなマシンなのだろう。</title>
-      <link>https://x.com/NIKUMARUTAMAGO/status/2053283375902064944</link>
-      <description>ikzw shge: AI機能付きのアプリを開発したいなら、IDEの載ってる開発マシン自体のGPUを動かして動作確認しながら作っていくのが楽。 今ならAIをローカルで丸ごと動く様なパソコンで開発を始めるのが良い。 DGX sparkやMacの高性能モデルや Ryzen AI max のPCはそんなマシンなのだろう。</description>
-      <pubDate>Sun, 10 May 2026 01:17:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NIKUMARUTAMAGO/status/2053283375902064944</guid>
     </item>
   </channel>
 </rss>
