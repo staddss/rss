@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://x.com/shiromozuku/status/2055942971208683534</guid>
     </item>
     <item>
+      <title>私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</title>
+      <link>https://x.com/esumii/status/2055919291233607902</link>
+      <description>S (ﾂｲｰﾄはﾂﾘｰ全体をご確認ください): 私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</description>
+      <pubDate>Sun, 17 May 2026 07:52:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/esumii/status/2055919291233607902</guid>
+    </item>
+    <item>
       <title>Q4OSでExpanDrive使いたいのに接続できないなんでよ……。 rclone はできた。けど少しめんどくさい</title>
       <link>https://x.com/shiromozuku/status/2055907648898572735</link>
       <description>しろもづく: Q4OSでExpanDrive使いたいのに接続できないなんでよ……。 rclone はできた。けど少しめんどくさい</description>
@@ -269,13 +276,6 @@
       <description>ユタカ🐎: ちょっと前につぶやいたけど、Googleドライブの同期に失敗して約1年分の取り込んだ音楽データが消失した件、自分が以前同期していた別の音楽ディレクトリがあって、そこにもしかしたら残っているっぽく、 rclone なるものでダウンロードしてみてる これでサルベージできそう、できてくれ</description>
       <pubDate>Thu, 23 Apr 2026 16:17:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yutaka_lv77/status/2047349228838780953</guid>
-    </item>
-    <item>
-      <title>Rclone にCriticalな認証バイパス2件（CVE-2026-41176/41179）。未認証でバックエンド操作やコマンド実行が可能。OpenVPN auth-oauth2にも認証バイパス。Django関連は10件以上の修正が集中。本日のGHSA 588件↓ #セキュリティ #CVE #脆弱性 https://t.co/3lDsEZ1FpL</title>
-      <link>https://x.com/aisolostudio/status/2047104961725792502</link>
-      <description>AiSoloStudio: Rclone にCriticalな認証バイパス2件（CVE-2026-41176/41179）。未認証でバックエンド操作やコマンド実行が可能。OpenVPN auth-oauth2にも認証バイパス。Django関連は10件以上の修正が集中。本日のGHSA 588件↓ #セキュリティ #CVE #脆弱性 https://t.co/3lDsEZ1FpL</description>
-      <pubDate>Thu, 23 Apr 2026 00:07:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aisolostudio/status/2047104961725792502</guid>
     </item>
   </channel>
 </rss>
