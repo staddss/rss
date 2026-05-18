@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@yKasumi LTO 5ドライブはオクに出れば1万円以下で、カードもAliだと3千円くらい、テープは写真のものがAmazonで1500円でした。linuxで運用して、sambaでWindowsファイルをバックアップして、 rclone でGoogleドライブもバックアップしています。おすすめです。</title>
+      <link>https://x.com/osaanmed/status/2056364552267436291</link>
+      <description>つのぜみ: @yKasumi LTO 5ドライブはオクに出れば1万円以下で、カードもAliだと3千円くらい、テープは写真のものがAmazonで1500円でした。linuxで運用して、sambaでWindowsファイルをバックアップして、 rclone でGoogleドライブもバックアップしています。おすすめです。</description>
+      <pubDate>Mon, 18 May 2026 13:21:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/osaanmed/status/2056364552267436291</guid>
+    </item>
+    <item>
+      <title>rclone crypt もあるな</title>
+      <link>https://x.com/pm_boris_omiya/status/2056332615461069021</link>
+      <description>北京ダック専門店: rclone crypt もあるな</description>
+      <pubDate>Mon, 18 May 2026 11:14:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pm_boris_omiya/status/2056332615461069021</guid>
+    </item>
+    <item>
       <title>rclone のcryptとか使わずに生データをクラウドストレージにぶち込むの本当にやめた方がいい</title>
       <link>https://x.com/10_5m1/status/2056208467556528533</link>
       <description>10円: rclone のcryptとか使わずに生データをクラウドストレージにぶち込むの本当にやめた方がいい</description>
@@ -262,20 +276,6 @@
       <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: Trigonaランサムウェアの最近の攻撃で、 Rclone やMegaSyncを避け、自前のコマンドライン型データ窃取ツールが使われていたと報告されています。ツール名は「uploader_client.exe」。2026年3月に観測された事例で、Symantecは運営主体を「Rhantus」と呼び、2022年末に登場したRaaS（Ransomware-as-a-Serv</description>
       <pubDate>Fri, 24 Apr 2026 10:23:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2047622489279455425</guid>
-    </item>
-    <item>
-      <title>@yutaka_lv77 rclone をサルベージに使うの初めて見ました… いつもクラウドにバックアップするのに使ってます</title>
-      <link>https://x.com/Lay31415/status/2047365633646702661</link>
-      <description>Lay@コンバーター自作職人: @yutaka_lv77 rclone をサルベージに使うの初めて見ました… いつもクラウドにバックアップするのに使ってます</description>
-      <pubDate>Thu, 23 Apr 2026 17:22:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Lay31415/status/2047365633646702661</guid>
-    </item>
-    <item>
-      <title>ちょっと前につぶやいたけど、Googleドライブの同期に失敗して約1年分の取り込んだ音楽データが消失した件、自分が以前同期していた別の音楽ディレクトリがあって、そこにもしかしたら残っているっぽく、 rclone なるものでダウンロードしてみてる これでサルベージできそう、できてくれ</title>
-      <link>https://x.com/yutaka_lv77/status/2047349228838780953</link>
-      <description>ユタカ🐎: ちょっと前につぶやいたけど、Googleドライブの同期に失敗して約1年分の取り込んだ音楽データが消失した件、自分が以前同期していた別の音楽ディレクトリがあって、そこにもしかしたら残っているっぽく、 rclone なるものでダウンロードしてみてる これでサルベージできそう、できてくれ</description>
-      <pubDate>Thu, 23 Apr 2026 16:17:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yutaka_lv77/status/2047349228838780953</guid>
     </item>
   </channel>
 </rss>

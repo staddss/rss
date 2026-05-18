@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>どちらかというとダッシュボード作成が第一目的ではなくdockerを使って何か作ってみようとした結果これを実装したという経緯 先日VPS上に構築した wireguard 使ったVPN経由して外部ネットワークから監視できることも確認した</title>
+      <link>https://x.com/notebook383/status/2056037050886095121</link>
+      <description>notebook: どちらかというとダッシュボード作成が第一目的ではなくdockerを使って何か作ってみようとした結果これを実装したという経緯 先日VPS上に構築した wireguard 使ったVPN経由して外部ネットワークから監視できることも確認した</description>
+      <pubDate>Sun, 17 May 2026 15:40:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/notebook383/status/2056037050886095121</guid>
+    </item>
+    <item>
       <title>できた！ wireguard と違って面倒な相互設定がなくて良い https://t.co/F5tIno9L9R</title>
       <link>https://x.com/navyracooon/status/2056029168467660914</link>
       <description>navyracooon: できた！ wireguard と違って面倒な相互設定がなくて良い https://t.co/F5tIno9L9R</description>
@@ -269,13 +276,6 @@
       <description>Shuntaro Kato(Eguchi: 真面目な話、 ・PPTP/L2TP ・CloudFlare入り口作ってある ・Tailscaleでらくちん の3パターン でもつい最近までNATだったな。CloudFlareとTailscaleのインパクトはデカかった。PPTP/L2TPは最終手段的に用意してる。ここを WireGuard にしたら相当安心できると思う。 https://t.co/P3Q7GSGTZc</description>
       <pubDate>Thu, 07 May 2026 10:11:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pianyon/status/2052330399544770787</guid>
-    </item>
-    <item>
-      <title>@hasegaw 自宅は WireGuard ですね</title>
-      <link>https://x.com/yamamasa23/status/2052316477949411337</link>
-      <description>Masafumi Yamamoto: @hasegaw 自宅は WireGuard ですね</description>
-      <pubDate>Thu, 07 May 2026 09:15:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamamasa23/status/2052316477949411337</guid>
     </item>
   </channel>
 </rss>

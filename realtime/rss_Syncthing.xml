@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obsidianを複数端末で同期するのに、クラウドなんかいらんかったんや！という話。 Syncthing でローカル同期したら、クラウドと同じ感覚で使える。 そして高速、容量無制限。 Obsidian SyncもGit Hub無くてええんやで #Obsidian # Syncthing</title>
+      <link>https://x.com/loopndayo/status/2056408611925217298</link>
+      <description>るーぷん | 文系のためのIT言語化の人: Obsidianを複数端末で同期するのに、クラウドなんかいらんかったんや！という話。 Syncthing でローカル同期したら、クラウドと同じ感覚で使える。 そして高速、容量無制限。 Obsidian SyncもGit Hub無くてええんやで #Obsidian # Syncthing</description>
+      <pubDate>Mon, 18 May 2026 16:16:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/loopndayo/status/2056408611925217298</guid>
+    </item>
+    <item>
+      <title>Syncthing ってどう言うアーキテクチャなんだろ。</title>
+      <link>https://x.com/ichinose_iroha/status/2056351059057262705</link>
+      <description>一ノ瀬 いろは: Syncthing ってどう言うアーキテクチャなんだろ。</description>
+      <pubDate>Mon, 18 May 2026 12:27:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ichinose_iroha/status/2056351059057262705</guid>
+    </item>
+    <item>
       <title>SMBファイル共有が一般的なんじゃないの？と思うが、私は syncthing を使ってMacとWindowsでデータを同期させてる。時々競合とかで面倒なことになるけど、バックアップもかねており、いつどちらが壊れても作業に影響しないようにしている。Dropbox や Google Drive を使うのと大差ないんだけど、容量問題 https://t.co/TQ6PDf31Ct</title>
       <link>https://x.com/ko1nksm/status/2056032914920620406</link>
       <description>Koichi Nakashima: SMBファイル共有が一般的なんじゃないの？と思うが、私は syncthing を使ってMacとWindowsでデータを同期させてる。時々競合とかで面倒なことになるけど、バックアップもかねており、いつどちらが壊れても作業に影響しないようにしている。Dropbox や Google Drive を使うのと大差ないんだけど、容量問題 https://t.co/TQ6PDf31Ct</description>
@@ -262,20 +276,6 @@
       <description>sandybrige: @ihtesham2005 新しい同期ツールが登場し、Dropbox、iCloud、OneDriveの代わりになるかもしれません。 Syncthing はサーバーをスキップして、デバイス同士で直接接続します。自分のファイルを自分でコントロールできる便利なツールですね。</description>
       <pubDate>Sat, 02 May 2026 10:00:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kanukagi/status/2050515749689754099</guid>
-    </item>
-    <item>
-      <title>@honahuku Obsidian、デバイス間のデータ共有をうまく出来るようにすればかなり便利で良いです（僕は Syncthing で同期しています）</title>
-      <link>https://x.com/watasuke1024/status/2050406569612079329</link>
-      <description>わたすけ: @honahuku Obsidian、デバイス間のデータ共有をうまく出来るようにすればかなり便利で良いです（僕は Syncthing で同期しています）</description>
-      <pubDate>Sat, 02 May 2026 02:46:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/watasuke1024/status/2050406569612079329</guid>
-    </item>
-    <item>
-      <title>Syncthing 便利すぎる～～</title>
-      <link>https://x.com/rararararauuuuu/status/2050349300744630284</link>
-      <description>らららうう: Syncthing 便利すぎる～～</description>
-      <pubDate>Fri, 01 May 2026 22:59:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rararararauuuuu/status/2050349300744630284</guid>
     </item>
   </channel>
 </rss>
