@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>最近、Chromeで「STATUS_ACCESS_VIOLATION」が良く出てたんだが、以下の方法で解決。 ・ chrome :// flags / を開く ・Choose ANGLE graphics backend で D3D11 を選択 ・再起動 を選択 もうトラブルシューティングはWeb検索よりAIの方が圧倒的に早いね。</title>
-      <link>https://x.com/ukagero/status/2056035143589204289</link>
-      <description>kagero: 最近、Chromeで「STATUS_ACCESS_VIOLATION」が良く出てたんだが、以下の方法で解決。 ・ chrome :// flags / を開く ・Choose ANGLE graphics backend で D3D11 を選択 ・再起動 を選択 もうトラブルシューティングはWeb検索よりAIの方が圧倒的に早いね。</description>
-      <pubDate>Sun, 17 May 2026 15:32:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ukagero/status/2056035143589204289</guid>
+      <title>chromeの読み込みエラー、解決せず😭 「STATUS_ACCESS_VIOLATION」というメッセージが出るエラーです⚡ 【試したこと】 再インストール、キャッシュ削除、プラグインOFF、グラフィックアクセラレーションオフ、 chrome :// flags の設定変更 https://t.co/IxSJcgRpHs</title>
+      <link>https://x.com/kawanina0218/status/2056169108442685609</link>
+      <description>かわにな@Kstudio/動く背景: chromeの読み込みエラー、解決せず😭 「STATUS_ACCESS_VIOLATION」というメッセージが出るエラーです⚡ 【試したこと】 再インストール、キャッシュ削除、プラグインOFF、グラフィックアクセラレーションオフ、 chrome :// flags の設定変更 https://t.co/IxSJcgRpHs</description>
+      <pubDate>Mon, 18 May 2026 00:24:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawanina0218/status/2056169108442685609</guid>
+    </item>
+    <item>
+      <title>@alexcobovi 毎日不適切な投稿扱いです😂 後はここ数日chromeのバージョンアップの関係で ブラウザーのエラーが出るので、PCを起動したら chromeの chrome :// flags でリセットする事から 帰宅作業が始まります（´-`）</title>
+      <link>https://x.com/vUXNN3hwc04rZ4v/status/2056157660219895939</link>
+      <description>犯人はヤス: @alexcobovi 毎日不適切な投稿扱いです😂 後はここ数日chromeのバージョンアップの関係で ブラウザーのエラーが出るので、PCを起動したら chromeの chrome :// flags でリセットする事から 帰宅作業が始まります（´-`）</description>
+      <pubDate>Sun, 17 May 2026 23:39:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/vUXNN3hwc04rZ4v/status/2056157660219895939</guid>
+    </item>
+    <item>
+      <title>おはえもん🥳 chrome読み込み時におけるエラーは、 chrome :// flags / これをURLに貼って、『すべてリセット』⇒『再起動』これで今のところ出なくなりました。 急にエラー出るから何かと思ったわぁ。 #FFXIV https://t.co/MQMWOsBhof</title>
+      <link>https://x.com/MAMEDX1/status/2056152738384564731</link>
+      <description>シノヱ（Shinoe）: おはえもん🥳 chrome読み込み時におけるエラーは、 chrome :// flags / これをURLに貼って、『すべてリセット』⇒『再起動』これで今のところ出なくなりました。 急にエラー出るから何かと思ったわぁ。 #FFXIV https://t.co/MQMWOsBhof</description>
+      <pubDate>Sun, 17 May 2026 23:19:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MAMEDX1/status/2056152738384564731</guid>
     </item>
     <item>
       <title>ChromeのXの不具合(STATUS_ACCESS_VIOLATIONがハードウェアアクセラレーション切っても発生するようになったので chrome :// flags （Choose ANGLE graphics backend） これをD1D11にしたところ今のところ直ったっぽいな→直ってなかった https://t.co/qa7lnpoLkz</title>
@@ -31,13 +45,6 @@
       <description>すぴ/Supiris/Aki☄: 最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</description>
       <pubDate>Sun, 17 May 2026 10:35:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akisupi/status/2055960413700059450</guid>
-    </item>
-    <item>
-      <title>最近頻発しだしたが、自分だけではなかったか グラフィックアクセラレーションOFF chrome :// flags でChoose ANGLE graphics backendの設定を変更 でだいぶ安定した 【Chrome】「STATUS_ACCESS_VIOLATION」エラー頻発の問題急増中(X等、2026年5月14日以降急増) https://t.co/Iodr5Nbjnx</title>
-      <link>https://x.com/firefreeinvest/status/2055951339579154724</link>
-      <description>delitescence: 最近頻発しだしたが、自分だけではなかったか グラフィックアクセラレーションOFF chrome :// flags でChoose ANGLE graphics backendの設定を変更 でだいぶ安定した 【Chrome】「STATUS_ACCESS_VIOLATION」エラー頻発の問題急増中(X等、2026年5月14日以降急増) https://t.co/Iodr5Nbjnx</description>
-      <pubDate>Sun, 17 May 2026 09:59:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/firefreeinvest/status/2055951339579154724</guid>
     </item>
     <item>
       <title>【備忘録】 一昨日辺りから頻発のChromeでXやYouTubeがエラー吐いて落ちるバグ ・システム設定のグラフィックアクセラレーションOFF ・ chrome :// flags /#use-angle の値をDefaultからD3D11に変更 でとりあえず安定か 次のChromeアップデートで元に戻すのを忘れないように</title>
@@ -269,13 +276,6 @@
       <description>ねこたん👗骨格ストレート/服サブスク・洋服レンタル: これやっておいた方が良いよ。 ①Chromeのアドレスバーに入力 chrome :// flags ②検索窓に入力して探す Enables Optimization Guide On Device →disabledを選択 ③Chrome再起動</description>
       <pubDate>Fri, 08 May 2026 03:30:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nekotan_airlove/status/2052591916513202234</guid>
-    </item>
-    <item>
-      <title>昨日からAndroidのChromeが死ぬほど重いから調べてたら、『アドレスに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする』（Gemini nanoとかいうのを停止する）でめちゃめちゃ軽くなって笑う、なにわろてんねん。</title>
-      <link>https://x.com/akatukistardust/status/2052563792341746045</link>
-      <description>いつか: 昨日からAndroidのChromeが死ぬほど重いから調べてたら、『アドレスに chrome :// flags と入力し、「Enables Optimization Guide On Device」をオフにする』（Gemini nanoとかいうのを停止する）でめちゃめちゃ軽くなって笑う、なにわろてんねん。</description>
-      <pubDate>Fri, 08 May 2026 01:38:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/akatukistardust/status/2052563792341746045</guid>
     </item>
   </channel>
 </rss>
