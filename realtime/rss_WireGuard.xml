@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@PrincePOPI こ、今秋ようやく配信が終了するLinuC-303でもKAMEとかracoonとか出題されるので... https://t.co/QsFyTZhvsc ※後続試験のLinuC-3SSではVPNの項目がそもそも存在しなくなった模様。 WireGuard とか出題すればいいのｎ</title>
+      <link>https://x.com/g_plains/status/2056862067169374470</link>
+      <description>こてつ(ONO,Tetsuo): @PrincePOPI こ、今秋ようやく配信が終了するLinuC-303でもKAMEとかracoonとか出題されるので... https://t.co/QsFyTZhvsc ※後続試験のLinuC-3SSではVPNの項目がそもそも存在しなくなった模様。 WireGuard とか出題すればいいのｎ</description>
+      <pubDate>Tue, 19 May 2026 22:18:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2056862067169374470</guid>
+    </item>
+    <item>
+      <title>@venumdev いいね！より tốt ー Wireguard 、VPN、。</title>
+      <link>https://x.com/Chcng93274788/status/2056751572886208866</link>
+      <description>Chí cường: @venumdev いいね！より tốt ー Wireguard 、VPN、。</description>
+      <pubDate>Tue, 19 May 2026 14:59:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Chcng93274788/status/2056751572886208866</guid>
+    </item>
+    <item>
+      <title>Tailscaleのお行儀が悪いのは周知の事実ですが、あれ以上に手軽にVPN組めるのがないので文句を言いつつ使います WireGuard 構築とかやってられませんわ</title>
+      <link>https://x.com/k4na_de/status/2056714049464004896</link>
+      <description>Yuzuki Kana: Tailscaleのお行儀が悪いのは周知の事実ですが、あれ以上に手軽にVPN組めるのがないので文句を言いつつ使います WireGuard 構築とかやってられませんわ</description>
+      <pubDate>Tue, 19 May 2026 12:30:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/k4na_de/status/2056714049464004896</guid>
+    </item>
+    <item>
+      <title>ふと思ったがcloudflaretunnnelぶち込めば会社PCからワイのPCへリモートデスクトップできるよな。 会社PCに Wireguard ぶち込めないからできねえな思ったが、cloudflare tunnelなら wireguard 必要ないしな。</title>
+      <link>https://x.com/migibashi/status/2056502456742453326</link>
+      <description>hidarivashi: ふと思ったがcloudflaretunnnelぶち込めば会社PCからワイのPCへリモートデスクトップできるよな。 会社PCに Wireguard ぶち込めないからできねえな思ったが、cloudflare tunnelなら wireguard 必要ないしな。</description>
+      <pubDate>Mon, 18 May 2026 22:29:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/migibashi/status/2056502456742453326</guid>
+    </item>
+    <item>
       <title>自宅鯖は便利だぞ。 自分の環境は、パブリックIPをマイIPの wireguard でとっているから、本番環境にデプロイする前にローカルで環境作れて、検証ができる！</title>
       <link>https://x.com/takumi_it_study/status/2056372250409042189</link>
       <description>たくみ@エンジニアになりたい一般人: 自宅鯖は便利だぞ。 自分の環境は、パブリックIPをマイIPの wireguard でとっているから、本番環境にデプロイする前にローカルで環境作れて、検証ができる！</description>
@@ -248,34 +276,6 @@
       <description>アロー＠SV: @hasegaw 以前はSoftether、 Wireguard 、L2TP/IPSec、等 今はMAP-EとUDMを組み合わせてクシャクシャになった関係でCloudflare ZeroTrustとHeadscaleですね。</description>
       <pubDate>Thu, 07 May 2026 13:42:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PSP3000VB/status/2052383492777099379</guid>
-    </item>
-    <item>
-      <title>Banana Pi(OpenWRT)ってどうなんだろ。 外部から受けられるIPv4もらえなくなる時代だし、つなぐような対向もないから、ヤマハルーターは誤家庭用としてはベクトルが違うような気もしてきた。むしろとかDNSベースの広告ブロックとか、 WireGuard VPNとかCloudflare Tunnelやりたい。</title>
-      <link>https://x.com/soqu__plusplus/status/2052363063194710112</link>
-      <description>🆂 🅾 🆀 🆄 🆇 ➕➕: Banana Pi(OpenWRT)ってどうなんだろ。 外部から受けられるIPv4もらえなくなる時代だし、つなぐような対向もないから、ヤマハルーターは誤家庭用としてはベクトルが違うような気もしてきた。むしろとかDNSベースの広告ブロックとか、 WireGuard VPNとかCloudflare Tunnelやりたい。</description>
-      <pubDate>Thu, 07 May 2026 12:20:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soqu__plusplus/status/2052363063194710112</guid>
-    </item>
-    <item>
-      <title>@onennemasuter スマホでも⭕️ダゾ スマホに wireguard 入れれればIPバン抜けれる</title>
-      <link>https://x.com/L_port8000/status/2052336838556434679</link>
-      <description>一樹（いつき）: @onennemasuter スマホでも⭕️ダゾ スマホに wireguard 入れれればIPバン抜けれる</description>
-      <pubDate>Thu, 07 May 2026 10:36:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2052336838556434679</guid>
-    </item>
-    <item>
-      <title>@onennemasuter お じゃあIP版くらっても作った垢は生きてるんやな あとで使える wireguard のconfファイル送るね あれ wireguard アプリ入れれる環境はある？</title>
-      <link>https://x.com/L_port8000/status/2052334562920067532</link>
-      <description>一樹（いつき）: @onennemasuter お じゃあIP版くらっても作った垢は生きてるんやな あとで使える wireguard のconfファイル送るね あれ wireguard アプリ入れれる環境はある？</description>
-      <pubDate>Thu, 07 May 2026 10:27:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2052334562920067532</guid>
-    </item>
-    <item>
-      <title>真面目な話、 ・PPTP/L2TP ・CloudFlare入り口作ってある ・Tailscaleでらくちん の3パターン でもつい最近までNATだったな。CloudFlareとTailscaleのインパクトはデカかった。PPTP/L2TPは最終手段的に用意してる。ここを WireGuard にしたら相当安心できると思う。 https://t.co/P3Q7GSGTZc</title>
-      <link>https://x.com/pianyon/status/2052330399544770787</link>
-      <description>Shuntaro Kato(Eguchi: 真面目な話、 ・PPTP/L2TP ・CloudFlare入り口作ってある ・Tailscaleでらくちん の3パターン でもつい最近までNATだったな。CloudFlareとTailscaleのインパクトはデカかった。PPTP/L2TPは最終手段的に用意してる。ここを WireGuard にしたら相当安心できると思う。 https://t.co/P3Q7GSGTZc</description>
-      <pubDate>Thu, 07 May 2026 10:11:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pianyon/status/2052330399544770787</guid>
     </item>
   </channel>
 </rss>
