@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@windymelt @kunukunu Google Cloud Storage（Driveではない）にピンク色()の色々を放り込んで rclone で従量制無限ストレージ代わりにしています。10年以上貯めていますが何もないですね</title>
+      <link>https://x.com/sanae_hirotaka/status/2056540927104332276</link>
+      <description>🍅なえ㌠🍅: @windymelt @kunukunu Google Cloud Storage（Driveではない）にピンク色()の色々を放り込んで rclone で従量制無限ストレージ代わりにしています。10年以上貯めていますが何もないですね</description>
+      <pubDate>Tue, 19 May 2026 01:02:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sanae_hirotaka/status/2056540927104332276</guid>
+    </item>
+    <item>
       <title>@yKasumi LTO 5ドライブはオクに出れば1万円以下で、カードもAliだと3千円くらい、テープは写真のものがAmazonで1500円でした。linuxで運用して、sambaでWindowsファイルをバックアップして、 rclone でGoogleドライブもバックアップしています。おすすめです。</title>
       <link>https://x.com/osaanmed/status/2056364552267436291</link>
       <description>つのぜみ: @yKasumi LTO 5ドライブはオクに出れば1万円以下で、カードもAliだと3千円くらい、テープは写真のものがAmazonで1500円でした。linuxで運用して、sambaでWindowsファイルをバックアップして、 rclone でGoogleドライブもバックアップしています。おすすめです。</description>
@@ -269,13 +276,6 @@
       <description>弁護士 秦 誠一郎（Seiichiro HATA）: Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</description>
       <pubDate>Fri, 24 Apr 2026 10:34:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hata48915b/status/2047625291825385596</guid>
-    </item>
-    <item>
-      <title>Trigonaランサムウェアの最近の攻撃で、 Rclone やMegaSyncを避け、自前のコマンドライン型データ窃取ツールが使われていたと報告されています。ツール名は「uploader_client.exe」。2026年3月に観測された事例で、Symantecは運営主体を「Rhantus」と呼び、2022年末に登場したRaaS（Ransomware-as-a-Serv</title>
-      <link>https://x.com/MalwareBibleJP/status/2047622489279455425</link>
-      <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: Trigonaランサムウェアの最近の攻撃で、 Rclone やMegaSyncを避け、自前のコマンドライン型データ窃取ツールが使われていたと報告されています。ツール名は「uploader_client.exe」。2026年3月に観測された事例で、Symantecは運営主体を「Rhantus」と呼び、2022年末に登場したRaaS（Ransomware-as-a-Serv</description>
-      <pubDate>Fri, 24 Apr 2026 10:23:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2047622489279455425</guid>
     </item>
   </channel>
 </rss>
