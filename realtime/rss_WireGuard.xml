@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>去年の暮れくらいから wireguard が使えない(正確にいうと、詰まってしまう) networkがあったのだが、DFと TCPMSS-CLAMP なんて問題がまだあったので一応書いておく。 まあ Windows単体側には自動でMSS設定するような器用なものはついてないので、1000bytes くらいにしておくと通る。</title>
+      <link>https://x.com/strnh/status/2057053184468918618</link>
+      <description>strnh: 去年の暮れくらいから wireguard が使えない(正確にいうと、詰まってしまう) networkがあったのだが、DFと TCPMSS-CLAMP なんて問題がまだあったので一応書いておく。 まあ Windows単体側には自動でMSS設定するような器用なものはついてないので、1000bytes くらいにしておくと通る。</description>
+      <pubDate>Wed, 20 May 2026 10:57:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/strnh/status/2057053184468918618</guid>
+    </item>
+    <item>
       <title>さくらのVPSにたいして さくらのクラウドのVPNルーターをVPSスイッチとL2ブリッジ接続をしてUCGMAXからIPSec接続するケースと UCGMAXから直接VPS（大阪、石狩）に WireGuard でS2S接続するケースをテスト 思った以上に Wireguard の上りスループット（VPSに送る方）が遅い・・・ 石狩から大阪間速いっぽ</title>
       <link>https://x.com/sakuacid/status/2057012184769769661</link>
       <description>さく: さくらのVPSにたいして さくらのクラウドのVPNルーターをVPSスイッチとL2ブリッジ接続をしてUCGMAXからIPSec接続するケースと UCGMAXから直接VPS（大阪、石狩）に WireGuard でS2S接続するケースをテスト 思った以上に Wireguard の上りスループット（VPSに送る方）が遅い・・・ 石狩から大阪間速いっぽ</description>
@@ -269,13 +276,6 @@
       <description>shumaikun0716: @L_port8000 悲しい。VPNプロファイルでOpenVPNか WireGuard あたり扱えると良いけどそこまで万能じゃないだろうしな。443/tcpのWebプロキシあたりで留めとくのが良さげ。</description>
       <pubDate>Fri, 08 May 2026 07:05:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shumaikun0716/status/2052645936485261714</guid>
-    </item>
-    <item>
-      <title>wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</title>
-      <link>https://x.com/luzaon91260029/status/2052621115101778152</link>
-      <description>るざおん: wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</description>
-      <pubDate>Fri, 08 May 2026 05:26:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/luzaon91260029/status/2052621115101778152</guid>
     </item>
   </channel>
 </rss>

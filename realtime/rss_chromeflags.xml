@@ -61,13 +61,6 @@
       <guid isPermaLink="true">https://x.com/_takadon/status/2055937036285309246</guid>
     </item>
     <item>
-      <title>情報共有。数日前から、Chromeがすぐにクラッシュする問題 URL欄に「 chrome :// flags /#use-angle」と入力 ANGLEをデフォルトから「D3D11」に変更 Chromeを再起動 で直る（ひとから教わった）</title>
-      <link>https://x.com/ykfrs1217/status/2055863094291918852</link>
-      <description>Yuki FURUSE 古瀬祐気: 情報共有。数日前から、Chromeがすぐにクラッシュする問題 URL欄に「 chrome :// flags /#use-angle」と入力 ANGLEをデフォルトから「D3D11」に変更 Chromeを再起動 で直る（ひとから教わった）</description>
-      <pubDate>Sun, 17 May 2026 04:08:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ykfrs1217/status/2055863094291918852</guid>
-    </item>
-    <item>
       <title>このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</title>
       <link>https://x.com/kamo_kamos/status/2055585880270852207</link>
       <description>渡瀬ゆず💉: このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</description>
@@ -276,6 +269,13 @@
       <description>ほーさかさん: Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</description>
       <pubDate>Fri, 08 May 2026 06:34:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hoosaka3/status/2052638313119727911</guid>
+    </item>
+    <item>
+      <title>@Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</title>
+      <link>https://x.com/ARHAPPY599012/status/2052629054747226183</link>
+      <description>★AR HAPPY★: @Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</description>
+      <pubDate>Fri, 08 May 2026 05:57:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ARHAPPY599012/status/2052629054747226183</guid>
     </item>
   </channel>
 </rss>

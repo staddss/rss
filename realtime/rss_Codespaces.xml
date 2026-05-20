@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/poth_dev/status/2056975880464060471</guid>
     </item>
     <item>
+      <title>By the way VSCodeの拡張機能から侵害があった的な話 個人的にはデフォルトのVSCodeには最小限の拡張機能にして他の拡張機能使いたいときはDev Containerや Codespaces 、他VSCode互換のサービスを使うようにしてます。 最近だとAWS CodeBuild SandboxをVSCodeにつないで使っていたりもありますね。</title>
+      <link>https://x.com/ymd65536/status/2056975473826287855</link>
+      <description>Kento.Yamada: By the way VSCodeの拡張機能から侵害があった的な話 個人的にはデフォルトのVSCodeには最小限の拡張機能にして他の拡張機能使いたいときはDev Containerや Codespaces 、他VSCode互換のサービスを使うようにしてます。 最近だとAWS CodeBuild SandboxをVSCodeにつないで使っていたりもありますね。</description>
+      <pubDate>Wed, 20 May 2026 05:49:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ymd65536/status/2056975473826287855</guid>
+    </item>
+    <item>
       <title>GitHub Codespaces でHermes Agentとか初期のGemini CLIとか結構多かった気がする https://t.co/LNhchsXPb7 https://t.co/2I9DFKXv5h</title>
       <link>https://x.com/n0bisuke/status/2056930780908343470</link>
       <description>菅原のびすけ: GitHub Codespaces でHermes Agentとか初期のGemini CLIとか結構多かった気がする https://t.co/LNhchsXPb7 https://t.co/2I9DFKXv5h</description>
@@ -269,13 +276,6 @@
       <description>詩哭(しこく)🫪🫪: iPadでgithub codespaces 使うのっでどれくらい現実的なんだろう</description>
       <pubDate>Wed, 29 Apr 2026 17:00:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Sck_Day/status/2049534294276845708</guid>
-    </item>
-    <item>
-      <title>それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</title>
-      <link>https://x.com/kalaming3104/status/2049515503715270757</link>
-      <description>カムチョ: それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</description>
-      <pubDate>Wed, 29 Apr 2026 15:45:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kalaming3104/status/2049515503715270757</guid>
     </item>
   </channel>
 </rss>

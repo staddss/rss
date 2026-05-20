@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>調べた感じだと， Cryptomator, rclone crypt 等が定番らしいのです。</title>
+      <link>https://x.com/yukata_yu/status/2056884636488462435</link>
+      <description>ゆかたゆ: 調べた感じだと， Cryptomator, rclone crypt 等が定番らしいのです。</description>
+      <pubDate>Tue, 19 May 2026 23:48:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yukata_yu/status/2056884636488462435</guid>
+    </item>
+    <item>
       <title>これまでTermuxでsshdを有効化して rclone で繋げばAndroid→PC間でロバストにファイル転送ができる唯一無二の経路があったのになあ</title>
       <link>https://x.com/iigau1109/status/2056879235244167516</link>
       <description>いいがう: これまでTermuxでsshdを有効化して rclone で繋げばAndroid→PC間でロバストにファイル転送ができる唯一無二の経路があったのになあ</description>
@@ -269,13 +276,6 @@
       <description>tf: claude codeのMCPでgoogle driveに接続できると聞きました。 MCPでの接続とlinux mint rclone でのGoogle Driveへの接続では速度や自由度、何が違うのか、どうメリットがあるのか簡潔に対比表などで教えて by ChatGPT https://t.co/3mopNh85r7</description>
       <pubDate>Tue, 28 Apr 2026 01:17:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AnalyseTf/status/2048934592770703821</guid>
-    </item>
-    <item>
-      <title>今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</title>
-      <link>https://x.com/aisolostudio/status/2047849006056046661</link>
-      <description>AiSoloStudio: 今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</description>
-      <pubDate>Sat, 25 Apr 2026 01:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aisolostudio/status/2047849006056046661</guid>
     </item>
   </channel>
 </rss>
