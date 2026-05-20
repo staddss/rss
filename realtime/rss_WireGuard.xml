@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</title>
+      <link>https://x.com/terudog4_VRC/status/2056970045423849557</link>
+      <description>てるるん-VRC: AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</description>
+      <pubDate>Wed, 20 May 2026 05:27:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/terudog4_VRC/status/2056970045423849557</guid>
+    </item>
+    <item>
       <title>@PrincePOPI こ、今秋ようやく配信が終了するLinuC-303でもKAMEとかracoonとか出題されるので... https://t.co/QsFyTZhvsc ※後続試験のLinuC-3SSではVPNの項目がそもそも存在しなくなった模様。 WireGuard とか出題すればいいのｎ</title>
       <link>https://x.com/g_plains/status/2056862067169374470</link>
       <description>こてつ(ONO,Tetsuo): @PrincePOPI こ、今秋ようやく配信が終了するLinuC-303でもKAMEとかracoonとか出題されるので... https://t.co/QsFyTZhvsc ※後続試験のLinuC-3SSではVPNの項目がそもそも存在しなくなった模様。 WireGuard とか出題すればいいのｎ</description>
@@ -17,6 +24,13 @@
       <description>Chí cường: @venumdev いいね！より tốt ー Wireguard 、VPN、。</description>
       <pubDate>Tue, 19 May 2026 14:59:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Chcng93274788/status/2056751572886208866</guid>
+    </item>
+    <item>
+      <title>過去に完全に挫折した Wireguard 拠点間VPN構築、ネットワークの知識も付き、かつGPT5.5という最強の味方がいる今、再挑戦―</title>
+      <link>https://x.com/cgbeginner/status/2056751452786418119</link>
+      <description>たてはま / CGBeginner @趣味独学映像クリエイター: 過去に完全に挫折した Wireguard 拠点間VPN構築、ネットワークの知識も付き、かつGPT5.5という最強の味方がいる今、再挑戦―</description>
+      <pubDate>Tue, 19 May 2026 14:58:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cgbeginner/status/2056751452786418119</guid>
     </item>
     <item>
       <title>Tailscaleのお行儀が悪いのは周知の事実ですが、あれ以上に手軽にVPN組めるのがないので文句を言いつつ使います WireGuard 構築とかやってられませんわ</title>
@@ -45,13 +59,6 @@
       <description>notebook: どちらかというとダッシュボード作成が第一目的ではなくdockerを使って何か作ってみようとした結果これを実装したという経緯 先日VPS上に構築した wireguard 使ったVPN経由して外部ネットワークから監視できることも確認した</description>
       <pubDate>Sun, 17 May 2026 15:40:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/notebook383/status/2056037050886095121</guid>
-    </item>
-    <item>
-      <title>できた！ wireguard と違って面倒な相互設定がなくて良い https://t.co/F5tIno9L9R</title>
-      <link>https://x.com/navyracooon/status/2056029168467660914</link>
-      <description>navyracooon: できた！ wireguard と違って面倒な相互設定がなくて良い https://t.co/F5tIno9L9R</description>
-      <pubDate>Sun, 17 May 2026 15:08:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/navyracooon/status/2056029168467660914</guid>
     </item>
     <item>
       <title>@akazdango ConoHa と wireguard 繋いで iptables で nat して家に引き込むみたいなことやってた</title>
@@ -269,13 +276,6 @@
       <description>tatematsu_san: 昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</description>
       <pubDate>Thu, 07 May 2026 21:41:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tk4_jj/status/2052504034242904528</guid>
-    </item>
-    <item>
-      <title>@hasegaw 以前はSoftether、 Wireguard 、L2TP/IPSec、等 今はMAP-EとUDMを組み合わせてクシャクシャになった関係でCloudflare ZeroTrustとHeadscaleですね。</title>
-      <link>https://x.com/PSP3000VB/status/2052383492777099379</link>
-      <description>アロー＠SV: @hasegaw 以前はSoftether、 Wireguard 、L2TP/IPSec、等 今はMAP-EとUDMを組み合わせてクシャクシャになった関係でCloudflare ZeroTrustとHeadscaleですね。</description>
-      <pubDate>Thu, 07 May 2026 13:42:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PSP3000VB/status/2052383492777099379</guid>
     </item>
   </channel>
 </rss>

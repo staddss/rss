@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これまでTermuxでsshdを有効化して rclone で繋げばAndroid→PC間でロバストにファイル転送ができる唯一無二の経路があったのになあ</title>
+      <link>https://x.com/iigau1109/status/2056879235244167516</link>
+      <description>いいがう: これまでTermuxでsshdを有効化して rclone で繋げばAndroid→PC間でロバストにファイル転送ができる唯一無二の経路があったのになあ</description>
+      <pubDate>Tue, 19 May 2026 23:26:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/iigau1109/status/2056879235244167516</guid>
+    </item>
+    <item>
+      <title>chat GPTのCodexかなり便利ですね。 rclone とAPIの組み合わせで、フォルダ同期する仕組みが数分で出来てしまいました。 所で配布している方々は、投稿対象をどうやって決めてるんでしょうか。 抽選機でも作ってるんでしょうか🤔</title>
+      <link>https://x.com/o0oo000o0oo00oo/status/2056694309584605423</link>
+      <description>余録の三浦: chat GPTのCodexかなり便利ですね。 rclone とAPIの組み合わせで、フォルダ同期する仕組みが数分で出来てしまいました。 所で配布している方々は、投稿対象をどうやって決めてるんでしょうか。 抽選機でも作ってるんでしょうか🤔</description>
+      <pubDate>Tue, 19 May 2026 11:11:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/o0oo000o0oo00oo/status/2056694309584605423</guid>
+    </item>
+    <item>
       <title>調べ直したら Rclone でProton Driveまた使えるようになってそうだから頑張るか…</title>
       <link>https://x.com/2wur/status/2056404349560250867</link>
       <description>えせはた🏴🏳️‍⚧️🏳️‍🌈🇺🇦🇵🇸🇹🇼: 調べ直したら Rclone でProton Driveまた使えるようになってそうだから頑張るか…</description>
@@ -262,20 +276,6 @@
       <description>AiSoloStudio: 今週のセキュリティまとめ。Critical 77件、NEC AtermにCVSS 9.8が3件、 Rclone とOpenVPNに認証バイパス。AIエージェントツールに脆弱性7件集中。週間トレンドと注目CVE TOP5↓ #セキュリティ #CVE #脆弱性 https://t.co/uQA3ZyGbMH</description>
       <pubDate>Sat, 25 Apr 2026 01:23:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aisolostudio/status/2047849006056046661</guid>
-    </item>
-    <item>
-      <title>@Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</title>
-      <link>https://x.com/yutaka_lv77/status/2047664931357720705</link>
-      <description>ユタカ🐎: @Lay31415 今回の一件でGoogleドライブはやっぱり信用ならんので（自分のミスを棚に上げて）自分も rclone で定期的にバックアップしようと思いました😇</description>
-      <pubDate>Fri, 24 Apr 2026 13:12:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yutaka_lv77/status/2047664931357720705</guid>
-    </item>
-    <item>
-      <title>Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</title>
-      <link>https://x.com/hata48915b/status/2047625291825385596</link>
-      <description>弁護士 秦 誠一郎（Seiichiro HATA）: Ubuntu 26.04 (Resolute Raccoon)をインストールしたら、sshfsや rclone がユーザー権限でマウントできなくなったのですが、fusermount3がApparmorで制御されているためでした。 同じように困っている人がおられるかもしれないので、ポストしておきます。 #ubuntu #resolute #sshfs # rclone</description>
-      <pubDate>Fri, 24 Apr 2026 10:34:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hata48915b/status/2047625291825385596</guid>
     </item>
   </channel>
 </rss>

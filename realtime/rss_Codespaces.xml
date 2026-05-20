@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>弊社エンジニアによるテックブログでっす！！🎉🎉🎉 LLM全盛時代にこそ、GitHub Codespaces を活用しよう。｜nyagato_00 https://t.co/jaJTBVvTj7 #zenn</title>
+      <link>https://x.com/poth_dev/status/2056975880464060471</link>
+      <description>ポケットセラピスト開発チーム: 弊社エンジニアによるテックブログでっす！！🎉🎉🎉 LLM全盛時代にこそ、GitHub Codespaces を活用しよう。｜nyagato_00 https://t.co/jaJTBVvTj7 #zenn</description>
+      <pubDate>Wed, 20 May 2026 05:50:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/poth_dev/status/2056975880464060471</guid>
+    </item>
+    <item>
+      <title>GitHub Codespaces でHermes Agentとか初期のGemini CLIとか結構多かった気がする https://t.co/LNhchsXPb7 https://t.co/2I9DFKXv5h</title>
+      <link>https://x.com/n0bisuke/status/2056930780908343470</link>
+      <description>菅原のびすけ: GitHub Codespaces でHermes Agentとか初期のGemini CLIとか結構多かった気がする https://t.co/LNhchsXPb7 https://t.co/2I9DFKXv5h</description>
+      <pubDate>Wed, 20 May 2026 02:51:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n0bisuke/status/2056930780908343470</guid>
+    </item>
+    <item>
+      <title>GitHub Codespaces をFirefoxで開いたらVSCode拡張機能のClineが表示崩れした。Chromeで開いたら問題無かったのでFirefoxと相性悪いっぽい</title>
+      <link>https://x.com/hinamiatofuton/status/2056757889612800448</link>
+      <description>hinami: GitHub Codespaces をFirefoxで開いたらVSCode拡張機能のClineが表示崩れした。Chromeで開いたら問題無かったのでFirefoxと相性悪いっぽい</description>
+      <pubDate>Tue, 19 May 2026 15:24:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hinamiatofuton/status/2056757889612800448</guid>
+    </item>
+    <item>
       <title>ハンズオンIDEがCloud9からGitHub CodeSpaces に変わっていってるな みんな同じ環境でできるいい時代だなー #harukihandson</title>
       <link>https://x.com/kana_cll/status/2056692330556715286</link>
       <description>taka_cll: ハンズオンIDEがCloud9からGitHub CodeSpaces に変わっていってるな みんな同じ環境でできるいい時代だなー #harukihandson</description>
@@ -255,27 +276,6 @@
       <description>カムチョ: それでも、iPadで開発するためにGitHub codespaces →vps→rdp.vncと流れてきた者にとってはダンチのユーザー体験享受してる。 来月から課金しよ</description>
       <pubDate>Wed, 29 Apr 2026 15:45:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kalaming3104/status/2049515503715270757</guid>
-    </item>
-    <item>
-      <title>GitHubはジョブ実行基盤としてのActionsと開発環境としての Codespaces がメインの価値だと思っていて、これをOSSでやろうとするとそこそこ大変なんだよなあ 世の中便利なものはあるので作れはするけど、開発者体験とセキュリティのバランスとりつつ運用し続けるのは相当覚悟がいる</title>
-      <link>https://x.com/mo124121/status/2049452357550018862</link>
-      <description>藻: GitHubはジョブ実行基盤としてのActionsと開発環境としての Codespaces がメインの価値だと思っていて、これをOSSでやろうとするとそこそこ大変なんだよなあ 世の中便利なものはあるので作れはするけど、開発者体験とセキュリティのバランスとりつつ運用し続けるのは相当覚悟がいる</description>
-      <pubDate>Wed, 29 Apr 2026 11:34:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mo124121/status/2049452357550018862</guid>
-    </item>
-    <item>
-      <title>Codespaces の中で Codex 使うのか なるほど #すごい広島</title>
-      <link>https://x.com/24motz/status/2049446507997536519</link>
-      <description>にしもつ: Codespaces の中で Codex 使うのか なるほど #すごい広島</description>
-      <pubDate>Wed, 29 Apr 2026 11:11:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/24motz/status/2049446507997536519</guid>
-    </item>
-    <item>
-      <title>設定が全部完了した！ これでGitHub Codespaces の30分の時間制限も止め忘れも気にせずに使える！ わーい！</title>
-      <link>https://x.com/txt365/status/2049421704313884932</link>
-      <description>txt365.org: 設定が全部完了した！ これでGitHub Codespaces の30分の時間制限も止め忘れも気にせずに使える！ わーい！</description>
-      <pubDate>Wed, 29 Apr 2026 09:33:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/txt365/status/2049421704313884932</guid>
     </item>
   </channel>
 </rss>
