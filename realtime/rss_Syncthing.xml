@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>複数のラズパイで ファイルを同期したい時に使ってる Syncthing 。 特に便利なのが &quot;フォルダタイプ&quot; を3つから選べる機能です📁 Syncthing は P2P で動くファイル同期ソフトで、 クラウドを介さず端末同士で直接同期します。 普通に使うと &quot;双方向で同期される&quot; のがデフォルト。 https://t.co/ysDOPjRn79</title>
+      <link>https://x.com/murasametech/status/2057038642720526415</link>
+      <description>むらさん(Murasan): 複数のラズパイで ファイルを同期したい時に使ってる Syncthing 。 特に便利なのが &quot;フォルダタイプ&quot; を3つから選べる機能です📁 Syncthing は P2P で動くファイル同期ソフトで、 クラウドを介さず端末同士で直接同期します。 普通に使うと &quot;双方向で同期される&quot; のがデフォルト。 https://t.co/ysDOPjRn79</description>
+      <pubDate>Wed, 20 May 2026 10:00:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2057038642720526415</guid>
+    </item>
+    <item>
       <title>keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</title>
       <link>https://x.com/oga5tsu/status/2056932929486684205</link>
       <description>おがつき: keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</description>
@@ -269,13 +276,6 @@
       <description>zionad blenderzion: 複数のPCでファイルを同期する「 Syncthing 」を使ってみた https://t.co/decwscrs75 #Qiita @IwakuraDevより</description>
       <pubDate>Sat, 02 May 2026 23:31:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/blenderzionad/status/2050719958892736954</guid>
-    </item>
-    <item>
-      <title>@ihtesham2005 素晴らしい！ Syncthing を試してみたいですか？</title>
-      <link>https://x.com/kazoku886/status/2050686836423709066</link>
-      <description>一般的な家族: @ihtesham2005 素晴らしい！ Syncthing を試してみたいですか？</description>
-      <pubDate>Sat, 02 May 2026 21:20:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazoku886/status/2050686836423709066</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chrome系ブラウザで、タブを左サイドバーに垂直に並べる方法（Brave Browser 版） Brave Browser だと、画像のようにやるとイケた。 Brave Browser では、Chrome の場合の設定&quot; chrome :// flags /#vertical-tabs&quot; で一見設定もできたように見えるが、実際にはここの設定は意味が無いらしい。 https://t.co/VLRDugxOtd</title>
+      <link>https://x.com/stbison/status/2056970200340447560</link>
+      <description>bison: Chrome系ブラウザで、タブを左サイドバーに垂直に並べる方法（Brave Browser 版） Brave Browser だと、画像のようにやるとイケた。 Brave Browser では、Chrome の場合の設定&quot; chrome :// flags /#vertical-tabs&quot; で一見設定もできたように見えるが、実際にはここの設定は意味が無いらしい。 https://t.co/VLRDugxOtd</description>
+      <pubDate>Wed, 20 May 2026 05:28:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/stbison/status/2056970200340447560</guid>
+    </item>
+    <item>
       <title>chromeの読み込みエラー、解決せず😭 「STATUS_ACCESS_VIOLATION」というメッセージが出るエラーです⚡ 【試したこと】 再インストール、キャッシュ削除、プラグインOFF、グラフィックアクセラレーションオフ、 chrome :// flags の設定変更 https://t.co/IxSJcgRpHs</title>
       <link>https://x.com/kawanina0218/status/2056169108442685609</link>
       <description>かわにな@Kstudio/動く背景: chromeの読み込みエラー、解決せず😭 「STATUS_ACCESS_VIOLATION」というメッセージが出るエラーです⚡ 【試したこと】 再インストール、キャッシュ削除、プラグインOFF、グラフィックアクセラレーションオフ、 chrome :// flags の設定変更 https://t.co/IxSJcgRpHs</description>
@@ -269,13 +276,6 @@
       <description>ほーさかさん: Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</description>
       <pubDate>Fri, 08 May 2026 06:34:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hoosaka3/status/2052638313119727911</guid>
-    </item>
-    <item>
-      <title>@Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</title>
-      <link>https://x.com/ARHAPPY599012/status/2052629054747226183</link>
-      <description>★AR HAPPY★: @Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</description>
-      <pubDate>Fri, 08 May 2026 05:57:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ARHAPPY599012/status/2052629054747226183</guid>
     </item>
   </channel>
 </rss>

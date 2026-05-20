@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>さくらのVPSにたいして さくらのクラウドのVPNルーターをVPSスイッチとL2ブリッジ接続をしてUCGMAXからIPSec接続するケースと UCGMAXから直接VPS（大阪、石狩）に WireGuard でS2S接続するケースをテスト 思った以上に Wireguard の上りスループット（VPSに送る方）が遅い・・・ 石狩から大阪間速いっぽ</title>
+      <link>https://x.com/sakuacid/status/2057012184769769661</link>
+      <description>さく: さくらのVPSにたいして さくらのクラウドのVPNルーターをVPSスイッチとL2ブリッジ接続をしてUCGMAXからIPSec接続するケースと UCGMAXから直接VPS（大阪、石狩）に WireGuard でS2S接続するケースをテスト 思った以上に Wireguard の上りスループット（VPSに送る方）が遅い・・・ 石狩から大阪間速いっぽ</description>
+      <pubDate>Wed, 20 May 2026 08:14:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2057012184769769661</guid>
+    </item>
+    <item>
+      <title>UCGMAXとVPSで WireGuard Site to Siteの構成をテスト中 どっちがサーバーになるんだっけ…って てんやわんや</title>
+      <link>https://x.com/sakuacid/status/2056979437338734756</link>
+      <description>さく: UCGMAXとVPSで WireGuard Site to Siteの構成をテスト中 どっちがサーバーになるんだっけ…って てんやわんや</description>
+      <pubDate>Wed, 20 May 2026 06:04:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2056979437338734756</guid>
+    </item>
+    <item>
       <title>AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</title>
       <link>https://x.com/terudog4_VRC/status/2056970045423849557</link>
       <description>てるるん-VRC: AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</description>
@@ -262,20 +276,6 @@
       <description>るざおん: wireguard 用にラズパイ4買おうかなと思って値段調べてひっくり返った。</description>
       <pubDate>Fri, 08 May 2026 05:26:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/luzaon91260029/status/2052621115101778152</guid>
-    </item>
-    <item>
-      <title>自宅のSSID以外に接続時に自動で Wireguard を張るようにした 快適 https://t.co/6CGmpOgDJj</title>
-      <link>https://x.com/gigaonion/status/2052587150341017702</link>
-      <description>ぎがおにおん: 自宅のSSID以外に接続時に自動で Wireguard を張るようにした 快適 https://t.co/6CGmpOgDJj</description>
-      <pubDate>Fri, 08 May 2026 03:11:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigaonion/status/2052587150341017702</guid>
-    </item>
-    <item>
-      <title>昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</title>
-      <link>https://x.com/tk4_jj/status/2052504034242904528</link>
-      <description>tatematsu_san: 昨日、何度も出てきたUDPによるセッション枯渇、色々と汎用的な解決策を考えておく必要があるよなあ 持ってる機材だけでなく、端末の母数や状態(ランダムMACとか)、プロトコルの利用状況の変化(QUICやDoT、 WireGuard など)も含めて、完全にコントロールはできないけど、それでも一定の解法はあるはず。</description>
-      <pubDate>Thu, 07 May 2026 21:41:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tk4_jj/status/2052504034242904528</guid>
     </item>
   </channel>
 </rss>
