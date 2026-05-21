@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@s025236 WireGuard みたいなVPNだとセキュリティもそれなりですし、そこからIP制限を突破して鍵認証って感じなんでまず乗っ取りは無理ですね</title>
+      <link>https://x.com/k_koyanagi_null/status/2057565123045392491</link>
+      <description>小柳勝範＠札幌のIT会社の代表: @s025236 WireGuard みたいなVPNだとセキュリティもそれなりですし、そこからIP制限を突破して鍵認証って感じなんでまず乗っ取りは無理ですね</description>
+      <pubDate>Thu, 21 May 2026 20:52:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/k_koyanagi_null/status/2057565123045392491</guid>
+    </item>
+    <item>
+      <title>@oicoimo4 @ccHarvestasya やっすいVPS借りて WireGuard で繋ぐとか…？</title>
+      <link>https://x.com/yatch_oe/status/2057475228591358048</link>
+      <description>やっち: @oicoimo4 @ccHarvestasya やっすいVPS借りて WireGuard で繋ぐとか…？</description>
+      <pubDate>Thu, 21 May 2026 14:54:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yatch_oe/status/2057475228591358048</guid>
+    </item>
+    <item>
+      <title>さくらのクラウド完全に理解した VPNルーターでIPSec接続はできたから 明日は WireGuard で試してみる。 VPS直で WireGuard をするのとどっちがいいか。（2200円払うメリットあるかどうか）</title>
+      <link>https://x.com/sakuacid/status/2057399943934144597</link>
+      <description>さく: さくらのクラウド完全に理解した VPNルーターでIPSec接続はできたから 明日は WireGuard で試してみる。 VPS直で WireGuard をするのとどっちがいいか。（2200円払うメリットあるかどうか）</description>
+      <pubDate>Thu, 21 May 2026 09:55:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2057399943934144597</guid>
+    </item>
+    <item>
       <title>ついでにやっちゃおうってことでVPSのUbuntuを6.17.0-29-genericにして無効になっちゃってた WireGuard を復活させたぜ。</title>
       <link>https://x.com/7shisandesu/status/2057339410199535778</link>
       <description>7shi（ななし）: ついでにやっちゃおうってことでVPSのUbuntuを6.17.0-29-genericにして無効になっちゃってた WireGuard を復活させたぜ。</description>
@@ -255,27 +276,6 @@
       <description>zau 🦖: Raspberry Pi + VPNルーター用途が再注目 Raspberry Pi 5を使った WireGuard VPN 旅行用ルーター 自宅NAS接続 広告ブロック モバイル回線バックアップ 用途の記事・実例が増加。 特に「超小型セルフホストVPN」需要が強め。 NetBird / Tailscale / OpenWrt系との組み合わせが人気。</description>
       <pubDate>Fri, 08 May 2026 18:56:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/drdr56n/status/2052824980845699402</guid>
-    </item>
-    <item>
-      <title>そういや、スマホで Wireguard をLANに常時接続させても意外とバッテリーは食わないのかな</title>
-      <link>https://x.com/gigaonion/status/2052770558543360027</link>
-      <description>ぎがおにおん: そういや、スマホで Wireguard をLANに常時接続させても意外とバッテリーは食わないのかな</description>
-      <pubDate>Fri, 08 May 2026 15:20:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigaonion/status/2052770558543360027</guid>
-    </item>
-    <item>
-      <title>routerdに Wireguard とTailscaleのステータス画面を追加しました。 https://t.co/YlljeflNOx</title>
-      <link>https://x.com/imksoo/status/2052750048753287246</link>
-      <description>きりの: routerdに Wireguard とTailscaleのステータス画面を追加しました。 https://t.co/YlljeflNOx</description>
-      <pubDate>Fri, 08 May 2026 13:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imksoo/status/2052750048753287246</guid>
-    </item>
-    <item>
-      <title>@L_port53 僕のスマホにあった標準機能のpip的な何か。 WireGuard からprotonに繋いでるから</title>
-      <link>https://x.com/soichi1208tenko/status/2052714586500169872</link>
-      <description>𝓢o𝓲c𝓱i: @L_port53 僕のスマホにあった標準機能のpip的な何か。 WireGuard からprotonに繋いでるから</description>
-      <pubDate>Fri, 08 May 2026 11:37:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soichi1208tenko/status/2052714586500169872</guid>
     </item>
   </channel>
 </rss>
