@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ついでにやっちゃおうってことでVPSのUbuntuを6.17.0-29-genericにして無効になっちゃってた WireGuard を復活させたぜ。</title>
+      <link>https://x.com/7shisandesu/status/2057339410199535778</link>
+      <description>7shi（ななし）: ついでにやっちゃおうってことでVPSのUbuntuを6.17.0-29-genericにして無効になっちゃってた WireGuard を復活させたぜ。</description>
+      <pubDate>Thu, 21 May 2026 05:55:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7shisandesu/status/2057339410199535778</guid>
+    </item>
+    <item>
       <title>esp32で wireguard 繋いで、ブラウザからuart入出力するのもいいかもしれん。linuxじゃないぶん、脆弱性とかに強いかも？ https://t.co/dBz5dYSCPa</title>
       <link>https://x.com/kam1nchu/status/2057311551808573793</link>
       <description>カフェイン未摂取: esp32で wireguard 繋いで、ブラウザからuart入出力するのもいいかもしれん。linuxじゃないぶん、脆弱性とかに強いかも？ https://t.co/dBz5dYSCPa</description>
@@ -269,13 +276,6 @@
       <description>𝓢o𝓲c𝓱i: @L_port53 僕のスマホにあった標準機能のpip的な何か。 WireGuard からprotonに繋いでるから</description>
       <pubDate>Fri, 08 May 2026 11:37:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/soichi1208tenko/status/2052714586500169872</guid>
-    </item>
-    <item>
-      <title>@soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</title>
-      <link>https://x.com/L_port53/status/2052694441748517291</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</description>
-      <pubDate>Fri, 08 May 2026 10:17:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2052694441748517291</guid>
     </item>
   </channel>
 </rss>
