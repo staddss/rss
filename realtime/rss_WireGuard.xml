@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>esp32で wireguard 繋いで、ブラウザからuart入出力するのもいいかもしれん。linuxじゃないぶん、脆弱性とかに強いかも？ https://t.co/dBz5dYSCPa</title>
+      <link>https://x.com/kam1nchu/status/2057311551808573793</link>
+      <description>カフェイン未摂取: esp32で wireguard 繋いで、ブラウザからuart入出力するのもいいかもしれん。linuxじゃないぶん、脆弱性とかに強いかも？ https://t.co/dBz5dYSCPa</description>
+      <pubDate>Thu, 21 May 2026 04:04:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kam1nchu/status/2057311551808573793</guid>
+    </item>
+    <item>
+      <title>WireGuard over QUICは公式クライアントのみサポート https://t.co/ohOHMvRlPP</title>
+      <link>https://x.com/glyzinienet/status/2057193582008864778</link>
+      <description>Wis (Glyzinie): WireGuard over QUICは公式クライアントのみサポート https://t.co/ohOHMvRlPP</description>
+      <pubDate>Wed, 20 May 2026 20:15:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/glyzinienet/status/2057193582008864778</guid>
+    </item>
+    <item>
       <title>去年の暮れくらいから wireguard が使えない(正確にいうと、詰まってしまう) networkがあったのだが、DFと TCPMSS-CLAMP なんて問題がまだあったので一応書いておく。 まあ Windows単体側には自動でMSS設定するような器用なものはついてないので、1000bytes くらいにしておくと通る。</title>
       <link>https://x.com/strnh/status/2057053184468918618</link>
       <description>strnh: 去年の暮れくらいから wireguard が使えない(正確にいうと、詰まってしまう) networkがあったのだが、DFと TCPMSS-CLAMP なんて問題がまだあったので一応書いておく。 まあ Windows単体側には自動でMSS設定するような器用なものはついてないので、1000bytes くらいにしておくと通る。</description>
@@ -262,20 +276,6 @@
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @soichi1208tenko なんのVPNかにもよるよね、L2TPだったらL2だしIPsec、 Wireguard ならL3たまにSSLVPNでL4g L2TPだったらL2だし IPsec、 Wireguard ならL3 HTTPSベースとかプロキシがL7</description>
       <pubDate>Fri, 08 May 2026 10:17:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2052694441748517291</guid>
-    </item>
-    <item>
-      <title>WireGuard でメッシュ構築するのが大変だし、NAT超えも大変、、、 https://t.co/oGvTN4U1X9</title>
-      <link>https://x.com/glyzinienet/status/2052687854179127407</link>
-      <description>Wis (Glyzinie): WireGuard でメッシュ構築するのが大変だし、NAT超えも大変、、、 https://t.co/oGvTN4U1X9</description>
-      <pubDate>Fri, 08 May 2026 09:51:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/glyzinienet/status/2052687854179127407</guid>
-    </item>
-    <item>
-      <title>@L_port8000 悲しい。VPNプロファイルでOpenVPNか WireGuard あたり扱えると良いけどそこまで万能じゃないだろうしな。443/tcpのWebプロキシあたりで留めとくのが良さげ。</title>
-      <link>https://x.com/shumaikun0716/status/2052645936485261714</link>
-      <description>shumaikun0716: @L_port8000 悲しい。VPNプロファイルでOpenVPNか WireGuard あたり扱えると良いけどそこまで万能じゃないだろうしな。443/tcpのWebプロキシあたりで留めとくのが良さげ。</description>
-      <pubDate>Fri, 08 May 2026 07:05:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2052645936485261714</guid>
     </item>
   </channel>
 </rss>

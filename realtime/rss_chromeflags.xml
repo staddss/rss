@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ちなみにGeminiちゃんが推奨するSTATUS_ACCESS_VIOLATIONのなおしかたはこれだ！ ①Chromeのアドレスバーに chrome :// flags /#use-angle と入力してEnterキー ②「Choose ANGLE graphics backend」という項目を探す ③設定を「Default」から「D3D11」または「D3D9」に変更し、Relaunchボタンから再起動</title>
+      <link>https://x.com/excelsus1/status/2057291952509579639</link>
+      <description>ひろせぶろそ: ちなみにGeminiちゃんが推奨するSTATUS_ACCESS_VIOLATIONのなおしかたはこれだ！ ①Chromeのアドレスバーに chrome :// flags /#use-angle と入力してEnterキー ②「Choose ANGLE graphics backend」という項目を探す ③設定を「Default」から「D3D11」または「D3D9」に変更し、Relaunchボタンから再起動</description>
+      <pubDate>Thu, 21 May 2026 02:46:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/excelsus1/status/2057291952509579639</guid>
+    </item>
+    <item>
+      <title>Google I/O 2026の後でChromeにGeminiが降臨した。 chrome :// flags でskillsを有効にすればプロンプトを保存できるようになります。 https://t.co/qSfkfMl5Ha</title>
+      <link>https://x.com/columuni/status/2057046182288064824</link>
+      <description>@columuni: Google I/O 2026の後でChromeにGeminiが降臨した。 chrome :// flags でskillsを有効にすればプロンプトを保存できるようになります。 https://t.co/qSfkfMl5Ha</description>
+      <pubDate>Wed, 20 May 2026 10:30:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/columuni/status/2057046182288064824</guid>
+    </item>
+    <item>
       <title>Chrome系ブラウザで、タブを左サイドバーに垂直に並べる方法（Brave Browser 版） Brave Browser だと、画像のようにやるとイケた。 Brave Browser では、Chrome の場合の設定&quot; chrome :// flags /#vertical-tabs&quot; で一見設定もできたように見えるが、実際にはここの設定は意味が無いらしい。 https://t.co/VLRDugxOtd</title>
       <link>https://x.com/stbison/status/2056970200340447560</link>
       <description>bison: Chrome系ブラウザで、タブを左サイドバーに垂直に並べる方法（Brave Browser 版） Brave Browser だと、画像のようにやるとイケた。 Brave Browser では、Chrome の場合の設定&quot; chrome :// flags /#vertical-tabs&quot; で一見設定もできたように見えるが、実際にはここの設定は意味が無いらしい。 https://t.co/VLRDugxOtd</description>
@@ -262,20 +276,6 @@
       <description>細川頻: 例の「Chromeがオンデバイス生成AIモデルをバックグラウンドでダウンロード・保存する」問題。 回避策としては以下を行えということだ。 1. chrome :// flags 2.「Optimization Guide On Device Model」を検索 3. 無効化 4. Chromeを再起動 5. OptGuideOnDeviceModelフォルダを削除</description>
       <pubDate>Sat, 09 May 2026 07:22:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/proceed7/status/2053012673462444244</guid>
-    </item>
-    <item>
-      <title>Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</title>
-      <link>https://x.com/hoosaka3/status/2052638313119727911</link>
-      <description>ほーさかさん: Chromeが勝手にローカルAIをインストールしやがるので削除。今のところ問題なし。 ①%USERPROFILE%\AppData\Local\Google\\Chrome\User Data\のOptGuideOnDeviceModelフォルダを移動か消す ②Chromeで「 chrome :// flags 」を開き「Gemini Nano *」と「 Enables optimization guide on device」をdisabled</description>
-      <pubDate>Fri, 08 May 2026 06:34:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hoosaka3/status/2052638313119727911</guid>
-    </item>
-    <item>
-      <title>@Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</title>
-      <link>https://x.com/ARHAPPY599012/status/2052629054747226183</link>
-      <description>★AR HAPPY★: @Majin_AppSheet chrome :// flags →Enables optimization guide on device を、[Enabled] Prompt API for Gemini Nano [Enabled] に変更あたりをイジっていたら突然、奴は来ました！ 以前もイジってたのに・・・ようわかりません！</description>
-      <pubDate>Fri, 08 May 2026 05:57:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ARHAPPY599012/status/2052629054747226183</guid>
     </item>
   </channel>
 </rss>

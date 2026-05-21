@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/sashisashi569/status/2057124100095762610</guid>
     </item>
     <item>
+      <title>backblaze B2とか使って安価にNix Cache構築するやつ欲しいよな〜 CDNをCFに載せればエグレスのコストゼロにできるし</title>
+      <link>https://x.com/Comamoca_/status/2057091533950857678</link>
+      <description>こまもか🦊: backblaze B2とか使って安価にNix Cache構築するやつ欲しいよな〜 CDNをCFに載せればエグレスのコストゼロにできるし</description>
+      <pubDate>Wed, 20 May 2026 13:30:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Comamoca_/status/2057091533950857678</guid>
+    </item>
+    <item>
       <title>必要なのはクラウドストレージではなくバックアップだと思って Backblaze にした</title>
       <link>https://x.com/narazaka/status/2056270875381711034</link>
       <description>奈良阪某: 必要なのはクラウドストレージではなくバックアップだと思って Backblaze にした</description>
@@ -164,13 +171,6 @@
       <description>こまもか🦊@シャニ∞th両日: @Hayao0819 まぁ最近はCIでキャッシュできるものが色々出てきてるし、ストレージも Backblaze とかあるからそこまでコストはかからなくなってきている印象はある</description>
       <pubDate>Fri, 24 Apr 2026 04:19:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Comamoca_/status/2047530970593845626</guid>
-    </item>
-    <item>
-      <title>同じ「HDD」メーカーでも“当たり外れ”あり？ モデル別で明暗、ドライブ故障率の違い(＠IT) #Yahooニュース https://t.co/uD5kTJY0Ec CMUが15年位前にサーバー構成パーツ毎の故障率を発表してて Backblaze の集計は面白いのだが 運用時間ｘ書き込み量で見ないと実感と乖離する</title>
-      <link>https://x.com/servant1480/status/2046439860840624189</link>
-      <description>servant1480: 同じ「HDD」メーカーでも“当たり外れ”あり？ モデル別で明暗、ドライブ故障率の違い(＠IT) #Yahooニュース https://t.co/uD5kTJY0Ec CMUが15年位前にサーバー構成パーツ毎の故障率を発表してて Backblaze の集計は面白いのだが 運用時間ｘ書き込み量で見ないと実感と乖離する</description>
-      <pubDate>Tue, 21 Apr 2026 04:04:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/servant1480/status/2046439860840624189</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>個人的に使っている方法として、NextCloudにサーバーレベル暗号化をセットして、データは rClone でGoogle Driveをマウントした先に保存する、という手法もいいかなと。 データ自体は暗号化された上でGoogle Drive上に保存されるので、よほどのことがない限り失われませんからね。 https://t.co/pYY8yk20HV</title>
+      <link>https://x.com/team4k_kanonji/status/2057337764304363730</link>
+      <description>北野 洋一 / Y.K. Works 代表 / 観音寺市の変なおじさん(KHO): 個人的に使っている方法として、NextCloudにサーバーレベル暗号化をセットして、データは rClone でGoogle Driveをマウントした先に保存する、という手法もいいかなと。 データ自体は暗号化された上でGoogle Drive上に保存されるので、よほどのことがない限り失われませんからね。 https://t.co/pYY8yk20HV</description>
+      <pubDate>Thu, 21 May 2026 05:48:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/team4k_kanonji/status/2057337764304363730</guid>
+    </item>
+    <item>
+      <title>bufferならAPIで予約投稿まで出来ますね。 そんなに高くないし試してみようかな rclone / Gofile APIで保存 + 投稿テンプレートとステータス変更 + ランダム抽選 + データコピー + Buffer GraphQL API ↓ 半自動予約投稿の土台</title>
+      <link>https://x.com/o0oo000o0oo00oo/status/2057334401395269779</link>
+      <description>余録の三浦: bufferならAPIで予約投稿まで出来ますね。 そんなに高くないし試してみようかな rclone / Gofile APIで保存 + 投稿テンプレートとステータス変更 + ランダム抽選 + データコピー + Buffer GraphQL API ↓ 半自動予約投稿の土台</description>
+      <pubDate>Thu, 21 May 2026 05:35:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/o0oo000o0oo00oo/status/2057334401395269779</guid>
+    </item>
+    <item>
+      <title>AWSの契約が面倒くさいといえば、まずそれはそう。 rclone の暗号化ストレージを、お手軽に利用できるようにすればええのかしら。……ClaudeくんなりCodexくんなりにラッパーを作ってもらうか。</title>
+      <link>https://x.com/idezumi/status/2057265962462904599</link>
+      <description>不出水: AWSの契約が面倒くさいといえば、まずそれはそう。 rclone の暗号化ストレージを、お手軽に利用できるようにすればええのかしら。……ClaudeくんなりCodexくんなりにラッパーを作ってもらうか。</description>
+      <pubDate>Thu, 21 May 2026 01:03:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/idezumi/status/2057265962462904599</guid>
+    </item>
+    <item>
+      <title>影響バージョンと対策をまとめました。 rclone rcdを外部公開している環境はありますか？ #セキュリティ #CVE #脆弱性 https://t.co/49QS2YWIFi</title>
+      <link>https://x.com/tsumikasanedev/status/2057249700064203117</link>
+      <description>つみかさね: 影響バージョンと対策をまとめました。 rclone rcdを外部公開している環境はありますか？ #セキュリティ #CVE #脆弱性 https://t.co/49QS2YWIFi</description>
+      <pubDate>Wed, 20 May 2026 23:58:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2057249700064203117</guid>
+    </item>
+    <item>
+      <title>Rclone に認証なしRCE（CVE-2026-41179、CVSS 9.8）。RC API経由でバックエンドを攻撃者がコントロールでき、WebDAV初期化時にローカルコマンドが実行される。v1.48.0以降、v1.73.5未満が影響。</title>
+      <link>https://x.com/tsumikasanedev/status/2057249698961138121</link>
+      <description>つみかさね: Rclone に認証なしRCE（CVE-2026-41179、CVSS 9.8）。RC API経由でバックエンドを攻撃者がコントロールでき、WebDAV初期化時にローカルコマンドが実行される。v1.48.0以降、v1.73.5未満が影響。</description>
+      <pubDate>Wed, 20 May 2026 23:58:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2057249698961138121</guid>
+    </item>
+    <item>
+      <title>バックアップは rclone とか適当ななにかでアップロード専用APIキー使ってイミュータブルで上げるようにすればいいはず</title>
+      <link>https://x.com/sashisashi569/status/2057124261639426305</link>
+      <description>sashisashi: バックアップは rclone とか適当ななにかでアップロード専用APIキー使ってイミュータブルで上げるようにすればいいはず</description>
+      <pubDate>Wed, 20 May 2026 15:40:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2057124261639426305</guid>
+    </item>
+    <item>
       <title>調べた感じだと， Cryptomator, rclone crypt 等が定番らしいのです。</title>
       <link>https://x.com/yukata_yu/status/2056884636488462435</link>
       <description>ゆかたゆ: 調べた感じだと， Cryptomator, rclone crypt 等が定番らしいのです。</description>
@@ -234,48 +276,6 @@
       <description>じゅんぴー: WebDAVで rclone mountすると速いなって思ってたけど、BBRのおかげだったっていう話 別に普通にTCPだし、マルチコネクションでもない 別にSambaでも同じ速度が出た</description>
       <pubDate>Sun, 03 May 2026 16:35:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/GeniusJunP/status/2050977453326422465</guid>
-    </item>
-    <item>
-      <title>EndeavourOS TitanでpCloudクライアントが固まる🥺 Sign inのボタンを押した途端にCPUの使用率が爆上がりして固まり数分後に落ちる... Claude先生によるとWebKitに問題があるらしい。 まぁPCがかな〜り古いこともあるのだろう。 ということで代打は rclone です。</title>
-      <link>https://x.com/AlpsKumataroh/status/2050918013671792993</link>
-      <description>でこちょび: EndeavourOS TitanでpCloudクライアントが固まる🥺 Sign inのボタンを押した途端にCPUの使用率が爆上がりして固まり数分後に落ちる... Claude先生によるとWebKitに問題があるらしい。 まぁPCがかな〜り古いこともあるのだろう。 ということで代打は rclone です。</description>
-      <pubDate>Sun, 03 May 2026 12:38:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AlpsKumataroh/status/2050918013671792993</guid>
-    </item>
-    <item>
-      <title>KeebmonのミニノートPCがいつまで経ってもProduction phaseに移行しないので、ついカッとなってPomera DM250買ってもうた。Debian+i3+ rclone /gitで同期「は」快適。書き物はPomeraデフォルトのシステムで快適。mdとかtxt、tex、pyくらいならこれで事足りそう。 https://t.co/aslBwFQ7aD</title>
-      <link>https://x.com/kansmemo/status/2050806889903280348</link>
-      <description>かんのあつし㌠: KeebmonのミニノートPCがいつまで経ってもProduction phaseに移行しないので、ついカッとなってPomera DM250買ってもうた。Debian+i3+ rclone /gitで同期「は」快適。書き物はPomeraデフォルトのシステムで快適。mdとかtxt、tex、pyくらいならこれで事足りそう。 https://t.co/aslBwFQ7aD</description>
-      <pubDate>Sun, 03 May 2026 05:17:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kansmemo/status/2050806889903280348</guid>
-    </item>
-    <item>
-      <title>@chizu_potato 私は rclone でリモート側のフォルダをマウントしております</title>
-      <link>https://x.com/mokuseikeisan/status/2050179604078637064</link>
-      <description>mokusei_keisan: @chizu_potato 私は rclone でリモート側のフォルダをマウントしております</description>
-      <pubDate>Fri, 01 May 2026 11:44:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mokuseikeisan/status/2050179604078637064</guid>
-    </item>
-    <item>
-      <title>好評です。貴方も学びませんか？AIでCLIを身近に。 rclone ユーザー養成講座｜platypus2000jp @platypus2000jp https://t.co/N8nKBIogg5</title>
-      <link>https://x.com/platypus2000jp/status/2049685018088505733</link>
-      <description>platypus2000jp: 好評です。貴方も学びませんか？AIでCLIを身近に。 rclone ユーザー養成講座｜platypus2000jp @platypus2000jp https://t.co/N8nKBIogg5</description>
-      <pubDate>Thu, 30 Apr 2026 02:59:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/platypus2000jp/status/2049685018088505733</guid>
-    </item>
-    <item>
-      <title>Tailscale+WebDAVで rclone でマウントすると、Sambaだと1MB/sくらいだったのが10MB/sくらいでて嬉しいな 最初の方は30MB/sくらい出たんだけど、なんか変だ</title>
-      <link>https://x.com/GeniusJunP/status/2049531963426615324</link>
-      <description>じゅんぴー: Tailscale+WebDAVで rclone でマウントすると、Sambaだと1MB/sくらいだったのが10MB/sくらいでて嬉しいな 最初の方は30MB/sくらい出たんだけど、なんか変だ</description>
-      <pubDate>Wed, 29 Apr 2026 16:51:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GeniusJunP/status/2049531963426615324</guid>
-    </item>
-    <item>
-      <title>claude codeのMCPでgoogle driveに接続できると聞きました。 MCPでの接続とlinux mint rclone でのGoogle Driveへの接続では速度や自由度、何が違うのか、どうメリットがあるのか簡潔に対比表などで教えて by ChatGPT https://t.co/3mopNh85r7</title>
-      <link>https://x.com/AnalyseTf/status/2048934592770703821</link>
-      <description>tf: claude codeのMCPでgoogle driveに接続できると聞きました。 MCPでの接続とlinux mint rclone でのGoogle Driveへの接続では速度や自由度、何が違うのか、どうメリットがあるのか簡潔に対比表などで教えて by ChatGPT https://t.co/3mopNh85r7</description>
-      <pubDate>Tue, 28 Apr 2026 01:17:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AnalyseTf/status/2048934592770703821</guid>
     </item>
   </channel>
 </rss>
