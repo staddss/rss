@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>などなどの問題を解決できるように作られました。 wireguard を使っているのでTCP, UDPレベルのパケットをinterceptできます。tailscaleとの統合も可能です。さらに設定はHCL (terraformのやつ) で宣言的に書くことができます。</title>
+      <link>https://x.com/yusuktan/status/2057734638131630428</link>
+      <description>🍣maguro: などなどの問題を解決できるように作られました。 wireguard を使っているのでTCP, UDPレベルのパケットをinterceptできます。tailscaleとの統合も可能です。さらに設定はHCL (terraformのやつ) で宣言的に書くことができます。</description>
+      <pubDate>Fri, 22 May 2026 08:05:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yusuktan/status/2057734638131630428</guid>
+    </item>
+    <item>
       <title>さくらのクラウドVPNルーターまでの通信をIPSecと WireGuard で比べたら WireGuard が早すぎて笑った。 https://t.co/KHYaRCqHIA</title>
       <link>https://x.com/sakuacid/status/2057710916804944332</link>
       <description>さく: さくらのクラウドVPNルーターまでの通信をIPSecと WireGuard で比べたら WireGuard が早すぎて笑った。 https://t.co/KHYaRCqHIA</description>
@@ -269,13 +276,6 @@
       <description>テコタク-techotakulab: VPNアプリで「 WireGuard とOpenVPN、どっちを選べばいい？」 答えは用途次第。 🎮 ゲーム・動画・スマホ → WireGuard 一択 速度4倍・接続100ms・通信量4分の1 🔒 中国・社内ファイアウォール突破 → OpenVPN TCP443 2026年版・実測データで完全解説👇 https://t.co/2taR21lSlf</description>
       <pubDate>Tue, 12 May 2026 12:34:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techotakulab/status/2054178337363259401</guid>
-    </item>
-    <item>
-      <title>【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</title>
-      <link>https://x.com/vpnnavi/status/2054044373512327519</link>
-      <description>VPNナビ: 【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</description>
-      <pubDate>Tue, 12 May 2026 03:41:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/vpnnavi/status/2054044373512327519</guid>
     </item>
   </channel>
 </rss>

@@ -130,19 +130,5 @@
       <pubDate>Sun, 26 Apr 2026 11:43:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/EchoDrifter1145/status/2048367268489462162</guid>
     </item>
-    <item>
-      <title>因みにUbuntuは、 zram -configっていうもっと簡単な仕組みがあります 簡単すぎて笑います(各々調べて) manjaro同様 zram -generatorを設定することも可能ですが、その場合 zram -configは使わないで下さい 衝突します(ダメ、絶対)</title>
-      <link>https://x.com/4P5jcMwrCpc3Sbx/status/2047042031562944872</link>
-      <description>実況のために生まれた人、趣味の話題でPodcastを始める: 因みにUbuntuは、 zram -configっていうもっと簡単な仕組みがあります 簡単すぎて笑います(各々調べて) manjaro同様 zram -generatorを設定することも可能ですが、その場合 zram -configは使わないで下さい 衝突します(ダメ、絶対)</description>
-      <pubDate>Wed, 22 Apr 2026 19:57:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/4P5jcMwrCpc3Sbx/status/2047042031562944872</guid>
-    </item>
-    <item>
-      <title>My manjaroくん、SSDなのでここまでSwapを設定してませんでしたが、メモリを超えると固まる…を3回ほど経験したら「やっぱSwap要るな」となりました。んでこれ [HowTo] zram -generator を使用して zram をインストールおよび設定します https://t.co/wJIr9VT9jN ※元は英語なので翻訳して読んで</title>
-      <link>https://x.com/4P5jcMwrCpc3Sbx/status/2047042027662229889</link>
-      <description>実況のために生まれた人、趣味の話題でPodcastを始める: My manjaroくん、SSDなのでここまでSwapを設定してませんでしたが、メモリを超えると固まる…を3回ほど経験したら「やっぱSwap要るな」となりました。んでこれ [HowTo] zram -generator を使用して zram をインストールおよび設定します https://t.co/wJIr9VT9jN ※元は英語なので翻訳して読んで</description>
-      <pubDate>Wed, 22 Apr 2026 19:57:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/4P5jcMwrCpc3Sbx/status/2047042027662229889</guid>
-    </item>
   </channel>
 </rss>
