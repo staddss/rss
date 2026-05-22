@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Codespaces で作る→たまに引っかかるのが気になって自分の環境でやろうと考える WinVSCodeで環境を作る 作り終えていざLambdaにデプロイしよう！→一部パスにexeあるじゃん…だめじゃん… ローカルのHyper-VLinuxで再々構築 って短期間にやらかしたので、最初っからLinux(Mac)の方がいいですね… https://t.co/eTugJVeJbV</title>
+      <link>https://x.com/mteg_dmesg/status/2057232772083941662</link>
+      <description>セラ: Codespaces で作る→たまに引っかかるのが気になって自分の環境でやろうと考える WinVSCodeで環境を作る 作り終えていざLambdaにデプロイしよう！→一部パスにexeあるじゃん…だめじゃん… ローカルのHyper-VLinuxで再々構築 って短期間にやらかしたので、最初っからLinux(Mac)の方がいいですね… https://t.co/eTugJVeJbV</description>
+      <pubDate>Wed, 20 May 2026 22:51:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mteg_dmesg/status/2057232772083941662</guid>
+    </item>
+    <item>
       <title>GitHub Codespaces さん、追加できる拡張機能をホワイトリスト方式にできたりしませんかね。</title>
       <link>https://x.com/nullpommel/status/2057080316733673898</link>
       <description>kuramapommel（くらまぽめる）: GitHub Codespaces さん、追加できる拡張機能をホワイトリスト方式にできたりしませんかね。</description>
@@ -269,13 +276,6 @@
       <description>白石 璃音: IDX上でブラウザ動かない状態になってる。 うーん、これ直すのに時間かけるより、別のにした方が良さそうかな？ というわけで、GitHub Codespaces に行ってみます。</description>
       <pubDate>Sun, 03 May 2026 05:31:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lion_shiraishi/status/2050810344789205072</guid>
-    </item>
-    <item>
-      <title>GitHub Codespaces お試し中なのですが、PRの画面でマージ後にブランチ削除するボタンのところに「Delete codespace」って出てきて、シュッとその場でCodespaceを削除できる 無駄利用削減をアシストするナイス心配りでは！！ https://t.co/Y8g0WIBZK7</title>
-      <link>https://x.com/morihaya55/status/2050077439070769510</link>
-      <description>もりはや: GitHub Codespaces お試し中なのですが、PRの画面でマージ後にブランチ削除するボタンのところに「Delete codespace」って出てきて、シュッとその場でCodespaceを削除できる 無駄利用削減をアシストするナイス心配りでは！！ https://t.co/Y8g0WIBZK7</description>
-      <pubDate>Fri, 01 May 2026 04:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/morihaya55/status/2050077439070769510</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameHub%22</link>
     <description>Latest search results for '&quot;GameHub&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ふむ、RG477Vに GameHub なるアプリ入れたらSteamのゲームが出来ると言った情報を見て試してみたら、やっとAndroid上でWindowsのゲーム、神威が起動した😆 少し動作が重いのと日本語にならないのが気になるが、プレイ自体は可能。 久し振りにプレイしたら懐かしいなぁ。</title>
+      <link>https://x.com/anilberkesen365/status/2057675699805430084</link>
+      <description>Anılberkesen: ふむ、RG477Vに GameHub なるアプリ入れたらSteamのゲームが出来ると言った情報を見て試してみたら、やっとAndroid上でWindowsのゲーム、神威が起動した😆 少し動作が重いのと日本語にならないのが気になるが、プレイ自体は可能。 久し振りにプレイしたら懐かしいなぁ。</description>
+      <pubDate>Fri, 22 May 2026 04:11:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/anilberkesen365/status/2057675699805430084</guid>
+    </item>
+    <item>
       <title>steam版も gamehub lite使えばスマホでできるんすかね、アプリ自体試したことないんだけど</title>
       <link>https://x.com/gyapin/status/2057160610635477268</link>
       <description>ギャピン: steam版も gamehub lite使えばスマホでできるんすかね、アプリ自体試したことないんだけど</description>
@@ -24,6 +31,13 @@
       <description>zap: Epic Gamesで起動時の認証確認等？が Gamehub だと改善されているのかな？ オフラインモードはSteamではありますがEpic Gamesでは見つかりませんでした</description>
       <pubDate>Wed, 20 May 2026 12:59:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/h36zap/status/2057083804846899550</guid>
+    </item>
+    <item>
+      <title>Gamehub とBannerhubでのEpic Gamesの挙動の違いを見つけたので一応ポストします🙇 Gamehub だとEpic Gamesがオンライン状態でないと起動不可（メニューで決定すら押せない） 起動出来るゲームは多い Banner hubだとオフラインでも起動可能 当方のBannerhubは少し前のv5.3.5でした</title>
+      <link>https://x.com/h36zap/status/2057082840089854049</link>
+      <description>zap: Gamehub とBannerhubでのEpic Gamesの挙動の違いを見つけたので一応ポストします🙇 Gamehub だとEpic Gamesがオンライン状態でないと起動不可（メニューで決定すら押せない） 起動出来るゲームは多い Banner hubだとオフラインでも起動可能 当方のBannerhubは少し前のv5.3.5でした</description>
+      <pubDate>Wed, 20 May 2026 12:55:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/h36zap/status/2057082840089854049</guid>
     </item>
     <item>
       <title>@sou1042tzk GameHub ならゲーム用途に買ったPOCO F6 Proがあるし、3DSをやらない(できない)現状であれば購入のきっかけにはなりえないかなぁ。</title>
@@ -262,20 +276,6 @@
       <description>zap: Gamehub 最新版にて今まで設定変えてもタイトル画面まで進めなかったEpic Games配布のKinnikuNekoがついにAYN thorで動作しました😭 割と普通のゲームですね🙄 https://t.co/RzCZIRtUtr</description>
       <pubDate>Fri, 15 May 2026 15:52:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/h36zap/status/2055315285654311199</guid>
-    </item>
-    <item>
-      <title>Gamehub 最新版で久しぶり地球防衛軍4.1を動かしたらカックカクだったのがAYN thorにて快適動作に👍 https://t.co/C6EtdSWw5a</title>
-      <link>https://x.com/h36zap/status/2055314056488304857</link>
-      <description>zap: Gamehub 最新版で久しぶり地球防衛軍4.1を動かしたらカックカクだったのがAYN thorにて快適動作に👍 https://t.co/C6EtdSWw5a</description>
-      <pubDate>Fri, 15 May 2026 15:47:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h36zap/status/2055314056488304857</guid>
-    </item>
-    <item>
-      <title>https://t.co/amOhTEgB1x Gamehub とかGamenativeでスチーム動かす方法は色々あったけど、直接統合するのは初だよねこれ。 あとはエミュで実装され始めてるフレーム補間とかの機能も付けば文句無しだけど。</title>
-      <link>https://x.com/M0eTadyH7C83067/status/2055295881231163614</link>
-      <description>零細レイヴン@初心者: https://t.co/amOhTEgB1x Gamehub とかGamenativeでスチーム動かす方法は色々あったけど、直接統合するのは初だよねこれ。 あとはエミュで実装され始めてるフレーム補間とかの機能も付けば文句無しだけど。</description>
-      <pubDate>Fri, 15 May 2026 14:34:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/M0eTadyH7C83067/status/2055295881231163614</guid>
     </item>
   </channel>
 </rss>
