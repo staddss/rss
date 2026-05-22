@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</title>
+      <link>https://x.com/sakipoko_3/status/2057727733443280925</link>
+      <description>咲: メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</description>
+      <pubDate>Fri, 22 May 2026 07:38:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakipoko_3/status/2057727733443280925</guid>
+    </item>
+    <item>
       <title>Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</title>
       <link>https://x.com/FuwaCocoOwnerKG/status/2057467848638054501</link>
       <description>KG-NINJA: Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</description>
@@ -269,13 +276,6 @@
       <description>大内　誠: Google Chrome 147のタブを水平から垂直に変更する方法 １）Chromeを開く ２）アドレスバーに chrome :// flags /#vertical-tabsと入力し、エンターキーを押す ３）Vertical TabsをEnableedに変更する ４）Chromeを再起動する ５）Chromeの設定→デザイン→タブの位置→縦に変更する</description>
       <pubDate>Mon, 11 May 2026 05:08:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OhuchiMakoto/status/2053703863493144624</guid>
-    </item>
-    <item>
-      <title>ガチで有能なんでchromeのflagsの縦タブを広めたい chrome flags からVertical Tabsで縦タブを有効化、Vertical Tabs Expand On Hoverで縦タブに近づくと展開される神</title>
-      <link>https://x.com/millllka__/status/2053307769965760717</link>
-      <description>みる: ガチで有能なんでchromeのflagsの縦タブを広めたい chrome flags からVertical Tabsで縦タブを有効化、Vertical Tabs Expand On Hoverで縦タブに近づくと展開される神</description>
-      <pubDate>Sun, 10 May 2026 02:54:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/millllka__/status/2053307769965760717</guid>
     </item>
   </channel>
 </rss>
