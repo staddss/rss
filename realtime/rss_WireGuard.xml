@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/masa_555/status/2058029430619136123</guid>
     </item>
     <item>
+      <title>Wireguard 完全に理解した (何言ってんだお前)</title>
+      <link>https://x.com/takumidevices/status/2057854711223714001</link>
+      <description>TakumiDevices: Wireguard 完全に理解した (何言ってんだお前)</description>
+      <pubDate>Fri, 22 May 2026 16:02:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takumidevices/status/2057854711223714001</guid>
+    </item>
+    <item>
       <title>などなどの問題を解決できるように作られました。 wireguard を使っているのでTCP, UDPレベルのパケットをinterceptできます。tailscaleとの統合も可能です。さらに設定はHCL (terraformのやつ) で宣言的に書くことができます。</title>
       <link>https://x.com/yusuktan/status/2057734638131630428</link>
       <description>🍣maguro: などなどの問題を解決できるように作られました。 wireguard を使っているのでTCP, UDPレベルのパケットをinterceptできます。tailscaleとの統合も可能です。さらに設定はHCL (terraformのやつ) で宣言的に書くことができます。</description>
@@ -269,13 +276,6 @@
       <description>もやしきんぐ: @miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</description>
       <pubDate>Wed, 13 May 2026 04:30:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/myskng/status/2054419027263696962</guid>
-    </item>
-    <item>
-      <title>【VPN速度比較】1Gbps回線での実測値。 WireGuard : 825〜903 Mbps OpenVPN: 222〜226 Mbps 差は約4倍。データオーバーヘッドも WireGuard 4%に対してOpenVPN 20%。スマホの通信量とバッテリー節約にも WireGuard が有利。 プロトコル別の選び方まとめ👇 https://t.co/2taR21lSlf</title>
-      <link>https://x.com/techotakulab/status/2054397279771971600</link>
-      <description>テコタク-techotakulab: 【VPN速度比較】1Gbps回線での実測値。 WireGuard : 825〜903 Mbps OpenVPN: 222〜226 Mbps 差は約4倍。データオーバーヘッドも WireGuard 4%に対してOpenVPN 20%。スマホの通信量とバッテリー節約にも WireGuard が有利。 プロトコル別の選び方まとめ👇 https://t.co/2taR21lSlf</description>
-      <pubDate>Wed, 13 May 2026 03:04:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techotakulab/status/2054397279771971600</guid>
     </item>
   </channel>
 </rss>

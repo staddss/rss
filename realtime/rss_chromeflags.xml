@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/shingo2000/status/2058068399130087755</guid>
     </item>
     <item>
+      <title>メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</title>
+      <link>https://x.com/sakipoko_3/status/2057727733443280925</link>
+      <description>咲: メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</description>
+      <pubDate>Fri, 22 May 2026 07:38:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakipoko_3/status/2057727733443280925</guid>
+    </item>
+    <item>
       <title>Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</title>
       <link>https://x.com/FuwaCocoOwnerKG/status/2057467848638054501</link>
       <description>KG-NINJA: Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</description>
@@ -269,13 +276,6 @@
       <description>𝑺𝒉𝒂𝒎: Chromium 系ブラウザを使用していて X を閲覧している際に「 STATUS_ACCESS_VIOLATION 」というエラーページが出てしまう人は「 chrome :// flags 」のページを開いて、その中で「 Experimental Web Platform features 」が「 有効 」になっていたら「 停止中 」に変更すると症状が改善するかも。</description>
       <pubDate>Tue, 12 May 2026 03:59:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CrazyLazy_Q_/status/2054048875691016495</guid>
-    </item>
-    <item>
-      <title>chrome :// flags から変更できますっていう動画に対してflagsの本来の用途とリスクを説明するべきだってコメントがあって、そのコメントに対してそんなの自己責任なんだから不要って返信があったんだけど、そもそもflagsをよく知らない人からしたら自己責任かどうかすら知らないんだよなあ</title>
-      <link>https://x.com/remon2207/status/2054008541699318021</link>
-      <description>れもん: chrome :// flags から変更できますっていう動画に対してflagsの本来の用途とリスクを説明するべきだってコメントがあって、そのコメントに対してそんなの自己責任なんだから不要って返信があったんだけど、そもそもflagsをよく知らない人からしたら自己責任かどうかすら知らないんだよなあ</description>
-      <pubDate>Tue, 12 May 2026 01:19:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/remon2207/status/2054008541699318021</guid>
     </item>
   </channel>
 </rss>

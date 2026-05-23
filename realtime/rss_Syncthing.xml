@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>TailscaleのおかげでFinder/iosファイアプリ両方で全サーバーのファイル管理も可能（MacはSambaってやつ）（差分同期は Syncthing がいいみたいなので次やる）</title>
+      <link>https://x.com/HarmNao_UraAca/status/2058042590549950733</link>
+      <description>Naoの裏側: TailscaleのおかげでFinder/iosファイアプリ両方で全サーバーのファイル管理も可能（MacはSambaってやつ）（差分同期は Syncthing がいいみたいなので次やる）</description>
+      <pubDate>Sat, 23 May 2026 04:29:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HarmNao_UraAca/status/2058042590549950733</guid>
+    </item>
+    <item>
       <title>keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</title>
       <link>https://x.com/thomasbarniesos/status/2058003225169859060</link>
       <description>Thomas Barneveld: keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</description>
@@ -269,13 +276,6 @@
       <description>Cheena: Syncthing のアプリは理由なく discontinued になっているのか🤔</description>
       <pubDate>Tue, 05 May 2026 14:24:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cheenanet/status/2051669365200929200</guid>
-    </item>
-    <item>
-      <title>スマホから利用する + TailscaleのようなVPNもなしと考えると Syncthing がいいのかも？ Vaultを bore などでグローバルに公開するなら専用クライアントも不要だけど、やっぱり公開範囲は限定的にしたい</title>
-      <link>https://x.com/cheenanet/status/2051665150525263951</link>
-      <description>Cheena: スマホから利用する + TailscaleのようなVPNもなしと考えると Syncthing がいいのかも？ Vaultを bore などでグローバルに公開するなら専用クライアントも不要だけど、やっぱり公開範囲は限定的にしたい</description>
-      <pubDate>Tue, 05 May 2026 14:07:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheenanet/status/2051665150525263951</guid>
     </item>
   </channel>
 </rss>
