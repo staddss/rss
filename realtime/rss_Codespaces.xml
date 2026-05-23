@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>現状のクラウド IDEというよりビルド環境では github actions( Codespaces 無しで)の方がAI studioより汎用性はありそうだが、できるものはローカルで良さそう。Androidに関してスマホから使えるのは大きいけど大半はwebで充分の感。</title>
+      <link>https://x.com/xo_answer/status/2057992200806625389</link>
+      <description>イネーガァ: 現状のクラウド IDEというよりビルド環境では github actions( Codespaces 無しで)の方がAI studioより汎用性はありそうだが、できるものはローカルで良さそう。Androidに関してスマホから使えるのは大きいけど大半はwebで充分の感。</description>
+      <pubDate>Sat, 23 May 2026 01:09:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xo_answer/status/2057992200806625389</guid>
+    </item>
+    <item>
+      <title>なんかこう、LaTeX をクラウドで編集できる Overleaf じゃないものほしい GitHub の Codespaces とかよさそうだけど、タダではないんだよな</title>
+      <link>https://x.com/Ishotihadus/status/2057712561903288418</link>
+      <description>イショティハドゥス: なんかこう、LaTeX をクラウドで編集できる Overleaf じゃないものほしい GitHub の Codespaces とかよさそうだけど、タダではないんだよな</description>
+      <pubDate>Fri, 22 May 2026 06:37:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ishotihadus/status/2057712561903288418</guid>
+    </item>
+    <item>
       <title>Codespaces で作る→たまに引っかかるのが気になって自分の環境でやろうと考える WinVSCodeで環境を作る 作り終えていざLambdaにデプロイしよう！→一部パスにexeあるじゃん…だめじゃん… ローカルのHyper-VLinuxで再々構築 って短期間にやらかしたので、最初っからLinux(Mac)の方がいいですね… https://t.co/eTugJVeJbV</title>
       <link>https://x.com/mteg_dmesg/status/2057232772083941662</link>
       <description>セラ: Codespaces で作る→たまに引っかかるのが気になって自分の環境でやろうと考える WinVSCodeで環境を作る 作り終えていざLambdaにデプロイしよう！→一部パスにexeあるじゃん…だめじゃん… ローカルのHyper-VLinuxで再々構築 って短期間にやらかしたので、最初っからLinux(Mac)の方がいいですね… https://t.co/eTugJVeJbV</description>
@@ -262,20 +276,6 @@
       <description>白石 璃音: PlaywrightもGitHub Codespaces 上で動いたようです。 ただ、どこを見るべきかが、まだちょっと曖昧かな？ ここら辺も、ちゃんと学習していかないとですね。</description>
       <pubDate>Sun, 03 May 2026 07:47:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lion_shiraishi/status/2050844805736132977</guid>
-    </item>
-    <item>
-      <title>GitHub Codespaces だと問題なさそう。 私の環境だと、こっちの方が良さそうですね。 問題なくブラウザが動きました。</title>
-      <link>https://x.com/lion_shiraishi/status/2050819317047169510</link>
-      <description>白石 璃音: GitHub Codespaces だと問題なさそう。 私の環境だと、こっちの方が良さそうですね。 問題なくブラウザが動きました。</description>
-      <pubDate>Sun, 03 May 2026 06:06:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lion_shiraishi/status/2050819317047169510</guid>
-    </item>
-    <item>
-      <title>IDX上でブラウザ動かない状態になってる。 うーん、これ直すのに時間かけるより、別のにした方が良さそうかな？ というわけで、GitHub Codespaces に行ってみます。</title>
-      <link>https://x.com/lion_shiraishi/status/2050810344789205072</link>
-      <description>白石 璃音: IDX上でブラウザ動かない状態になってる。 うーん、これ直すのに時間かけるより、別のにした方が良さそうかな？ というわけで、GitHub Codespaces に行ってみます。</description>
-      <pubDate>Sun, 03 May 2026 05:31:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lion_shiraishi/status/2050810344789205072</guid>
     </item>
   </channel>
 </rss>

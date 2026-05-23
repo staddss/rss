@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</title>
+      <link>https://x.com/thomasbarniesos/status/2058003225169859060</link>
+      <description>Thomas Barneveld: keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</description>
+      <pubDate>Sat, 23 May 2026 01:52:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thomasbarniesos/status/2058003225169859060</guid>
+    </item>
+    <item>
+      <title>パスワード管理をBitwardenからKeePassXCに乗り換えた。 こっちのほうがUIがわかりやすい 唯一の問題点は公式のAndroidアプリがないことだけど、KeePassDXと Syncthing で解決 BitwardenアプリよりもKeePassDXの方がアプリの入力欄を見落とさないので有能だと思う KeePassXC https://t.co/BpQVCjydzO</title>
+      <link>https://x.com/Yos_ei3/status/2057727775331770618</link>
+      <description>ふぁにー: パスワード管理をBitwardenからKeePassXCに乗り換えた。 こっちのほうがUIがわかりやすい 唯一の問題点は公式のAndroidアプリがないことだけど、KeePassDXと Syncthing で解決 BitwardenアプリよりもKeePassDXの方がアプリの入力欄を見落とさないので有能だと思う KeePassXC https://t.co/BpQVCjydzO</description>
+      <pubDate>Fri, 22 May 2026 07:38:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yos_ei3/status/2057727775331770618</guid>
+    </item>
+    <item>
       <title>@murasametech Pi-Hole is すごい for people who aren't experienced Bind/Linux admins. I use a custom rsync script for backups but I'm picky about what I want backed up and what I don't. Cron can handle doing it on a schedule. Syncthing for photos. It's just too convenient.</title>
       <link>https://x.com/TMBuzzard/status/2057673393164402726</link>
       <description>The Mighty Buzzard: @murasametech Pi-Hole is すごい for people who aren't experienced Bind/Linux admins. I use a custom rsync script for backups but I'm picky about what I want backed up and what I don't. Cron can handle doing it on a schedule. Syncthing for photos. It's just too convenient.</description>
@@ -262,20 +276,6 @@
       <description>Cheena: スマホから利用する + TailscaleのようなVPNもなしと考えると Syncthing がいいのかも？ Vaultを bore などでグローバルに公開するなら専用クライアントも不要だけど、やっぱり公開範囲は限定的にしたい</description>
       <pubDate>Tue, 05 May 2026 14:07:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cheenanet/status/2051665150525263951</guid>
-    </item>
-    <item>
-      <title>Syncthing 、なぜか同期速度が0に固定されて？しまい、いつまでたっても同期が終了しなくなってしまった 困ります……</title>
-      <link>https://x.com/watasuke1024/status/2051636654746796489</link>
-      <description>わたすけ: Syncthing 、なぜか同期速度が0に固定されて？しまい、いつまでたっても同期が終了しなくなってしまった 困ります……</description>
-      <pubDate>Tue, 05 May 2026 12:14:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/watasuke1024/status/2051636654746796489</guid>
-    </item>
-    <item>
-      <title>google drive に機密情報〜のツイート見たけど普通にやらんだろと思ってる一方で chrome にパスワード明け渡してる人沢山いるしなーとも。 僕は syncthing 、 keepass を使ってますけど</title>
-      <link>https://x.com/ch7aki_jp/status/2051188101033463808</link>
-      <description>ちあき: google drive に機密情報〜のツイート見たけど普通にやらんだろと思ってる一方で chrome にパスワード明け渡してる人沢山いるしなーとも。 僕は syncthing 、 keepass を使ってますけど</description>
-      <pubDate>Mon, 04 May 2026 06:32:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ch7aki_jp/status/2051188101033463808</guid>
     </item>
   </channel>
 </rss>

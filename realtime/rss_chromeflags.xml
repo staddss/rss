@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</title>
-      <link>https://x.com/sakipoko_3/status/2057727733443280925</link>
-      <description>咲: メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</description>
-      <pubDate>Fri, 22 May 2026 07:38:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakipoko_3/status/2057727733443280925</guid>
+      <title>HTML-in-Canvasを試すには、Chromeの ` chrome :// flags /#canvas-draw-element` フラグを有効にする。 https://t.co/ywumcctU46</title>
+      <link>https://x.com/shingo2000/status/2058068399130087755</link>
+      <description>鈴木慎吾 / TSUMIKI INC.: HTML-in-Canvasを試すには、Chromeの ` chrome :// flags /#canvas-draw-element` フラグを有効にする。 https://t.co/ywumcctU46</description>
+      <pubDate>Sat, 23 May 2026 06:11:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shingo2000/status/2058068399130087755</guid>
     </item>
     <item>
       <title>Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</title>
@@ -31,6 +31,13 @@
       <description>idogaVRおにいさん【クロスデバイス】: GoogleChromeの実験機能を試せる「 chrome :// flags 」を知ってますか？ ・ダウンロード高速化 ・画像描画の高速化 など、便利な機能を簡単に試すことができます💻📱✨ 普段の「ちょっとした不満」を解消できる設定が見つかるかも、、！ ※実験機能のため、お試しは自己判断で(^^)👍 #Chrome</description>
       <pubDate>Thu, 21 May 2026 09:36:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/idoga360/status/2057395037701579237</guid>
+    </item>
+    <item>
+      <title>GWSにも「Gemini in Chrome」が来てる模様 友達から聞いたのですが、Skillsフラッグを有効化したら使えるようです。私も試したら出てきました！ ーーー chrome :// flags /#skills ーーー ①上記をアドレスバーに入力してEnter ②Skillsを「Enabled」に変更→Chrome再起動 https://t.co/YIavgoklBb</title>
+      <link>https://x.com/Majin_AppSheet/status/2057360371439038508</link>
+      <description>まじん: GWSにも「Gemini in Chrome」が来てる模様 友達から聞いたのですが、Skillsフラッグを有効化したら使えるようです。私も試したら出てきました！ ーーー chrome :// flags /#skills ーーー ①上記をアドレスバーに入力してEnter ②Skillsを「Enabled」に変更→Chrome再起動 https://t.co/YIavgoklBb</description>
+      <pubDate>Thu, 21 May 2026 07:18:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Majin_AppSheet/status/2057360371439038508</guid>
     </item>
     <item>
       <title>Chromeの右上「Geminiに相談」ボタンが便利 chrome :// flags / から glic で検索してEnabledにすると出てくる https://t.co/555SpQZcTS</title>
@@ -269,13 +276,6 @@
       <description>れもん: chrome :// flags から変更できますっていう動画に対してflagsの本来の用途とリスクを説明するべきだってコメントがあって、そのコメントに対してそんなの自己責任なんだから不要って返信があったんだけど、そもそもflagsをよく知らない人からしたら自己責任かどうかすら知らないんだよなあ</description>
       <pubDate>Tue, 12 May 2026 01:19:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/remon2207/status/2054008541699318021</guid>
-    </item>
-    <item>
-      <title>Google Chrome 147のタブを水平から垂直に変更する方法 １）Chromeを開く ２）アドレスバーに chrome :// flags /#vertical-tabsと入力し、エンターキーを押す ３）Vertical TabsをEnableedに変更する ４）Chromeを再起動する ５）Chromeの設定→デザイン→タブの位置→縦に変更する</title>
-      <link>https://x.com/OhuchiMakoto/status/2053703863493144624</link>
-      <description>大内　誠: Google Chrome 147のタブを水平から垂直に変更する方法 １）Chromeを開く ２）アドレスバーに chrome :// flags /#vertical-tabsと入力し、エンターキーを押す ３）Vertical TabsをEnableedに変更する ４）Chromeを再起動する ５）Chromeの設定→デザイン→タブの位置→縦に変更する</description>
-      <pubDate>Mon, 11 May 2026 05:08:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OhuchiMakoto/status/2053703863493144624</guid>
     </item>
   </channel>
 </rss>
