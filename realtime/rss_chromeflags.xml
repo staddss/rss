@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>またbataだけどchromeでvertual tabが使えるようになってた, - 最新のversionにupdateし, - address barで chrome :// flags /#vertical-tabsを実行, - vertical tab項目をdefaultからenableに変更, - restart chrome, - tab spaceの余白をright clickしshow tabs vertically.</title>
+      <link>https://x.com/jhidaritekei/status/2058204661946192111</link>
+      <description>ZspaceHub: またbataだけどchromeでvertual tabが使えるようになってた, - 最新のversionにupdateし, - address barで chrome :// flags /#vertical-tabsを実行, - vertical tab項目をdefaultからenableに変更, - restart chrome, - tab spaceの余白をright clickしshow tabs vertically.</description>
+      <pubDate>Sat, 23 May 2026 15:13:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jhidaritekei/status/2058204661946192111</guid>
+    </item>
+    <item>
       <title>HTML-in-Canvasを試すには、Chromeの ` chrome :// flags /#canvas-draw-element` フラグを有効にする。 https://t.co/ywumcctU46</title>
       <link>https://x.com/shingo2000/status/2058068399130087755</link>
       <description>鈴木慎吾 / TSUMIKI INC.: HTML-in-Canvasを試すには、Chromeの ` chrome :// flags /#canvas-draw-element` フラグを有効にする。 https://t.co/ywumcctU46</description>
@@ -269,13 +276,6 @@
       <description>しょーたろー@個人旅ブログアプリを作るREACTエンジニア: 誰にでもおすすめできるものではないですが、 chrome :// flags の下記設定してからかなり体感高速になった気がする beta版みたいな感じなのでやりたい人は自己責任でやってねみたいなページです。 https://t.co/WddByXO5W9</description>
       <pubDate>Wed, 13 May 2026 08:06:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/donbeioriginal1/status/2054473270368628779</guid>
-    </item>
-    <item>
-      <title>Chromium 系ブラウザを使用していて X を閲覧している際に「 STATUS_ACCESS_VIOLATION 」というエラーページが出てしまう人は「 chrome :// flags 」のページを開いて、その中で「 Experimental Web Platform features 」が「 有効 」になっていたら「 停止中 」に変更すると症状が改善するかも。</title>
-      <link>https://x.com/CrazyLazy_Q_/status/2054048875691016495</link>
-      <description>𝑺𝒉𝒂𝒎: Chromium 系ブラウザを使用していて X を閲覧している際に「 STATUS_ACCESS_VIOLATION 」というエラーページが出てしまう人は「 chrome :// flags 」のページを開いて、その中で「 Experimental Web Platform features 」が「 有効 」になっていたら「 停止中 」に変更すると症状が改善するかも。</description>
-      <pubDate>Tue, 12 May 2026 03:59:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CrazyLazy_Q_/status/2054048875691016495</guid>
     </item>
   </channel>
 </rss>

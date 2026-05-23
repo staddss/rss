@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</title>
+      <link>https://x.com/hsur/status/2058151136855789846</link>
+      <description>はしゅー: wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</description>
+      <pubDate>Sat, 23 May 2026 11:40:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hsur/status/2058151136855789846</guid>
+    </item>
+    <item>
+      <title>IP層は地上のどこかにサーバを置いておき、UDPで3経路から送受信して、品質により早い者勝ち or 2D1P or ストライピングモードで流せば良い。その上にOpenVPNか WireGuard でも流しておけば良い。</title>
+      <link>https://x.com/ohtsuji/status/2058075662716702894</link>
+      <description>Ohtsuji: IP層は地上のどこかにサーバを置いておき、UDPで3経路から送受信して、品質により早い者勝ち or 2D1P or ストライピングモードで流せば良い。その上にOpenVPNか WireGuard でも流しておけば良い。</description>
+      <pubDate>Sat, 23 May 2026 06:40:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ohtsuji/status/2058075662716702894</guid>
+    </item>
+    <item>
       <title>記事を投稿しました！ Proxmox 9.2の WireGuard FabricでVXLAN over WireGuard を構築する https://t.co/rpyv0u3B20 #Qiita</title>
       <link>https://x.com/masa_555/status/2058031607077056881</link>
       <description>Masa Harada: 記事を投稿しました！ Proxmox 9.2の WireGuard FabricでVXLAN over WireGuard を構築する https://t.co/rpyv0u3B20 #Qiita</description>
@@ -262,20 +276,6 @@
       <description>テコタク-techotakulab: 「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</description>
       <pubDate>Wed, 13 May 2026 22:34:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techotakulab/status/2054691710127542348</guid>
-    </item>
-    <item>
-      <title>ヤマハのRTX1210でMAP-EのIPIPトンネルのデフォルトMTUが1280byteなんていう弱気というか保守的な設定のせいで wireguard のUDPがトンネルを通れず繋がらなかったｗ</title>
-      <link>https://x.com/CypherLilium/status/2054568147274064011</link>
-      <description>リリア: ヤマハのRTX1210でMAP-EのIPIPトンネルのデフォルトMTUが1280byteなんていう弱気というか保守的な設定のせいで wireguard のUDPがトンネルを通れず繋がらなかったｗ</description>
-      <pubDate>Wed, 13 May 2026 14:23:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CypherLilium/status/2054568147274064011</guid>
-    </item>
-    <item>
-      <title>@miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</title>
-      <link>https://x.com/myskng/status/2054419027263696962</link>
-      <description>もやしきんぐ: @miu_taku_ まぁそういうときは素直に自分の固定IP使うなり、使えないなら外のサーバーと Wireguard でも組んでそこからNATするしかないねい</description>
-      <pubDate>Wed, 13 May 2026 04:30:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/myskng/status/2054419027263696962</guid>
     </item>
   </channel>
 </rss>
