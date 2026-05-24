@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>🏅Microsoft Certified: GitHub Copilot (GH-300) GitHub系のLearn教材は他のと比べて段違いに高品質。 Codespaces （ブラウザで動く仮想VS Code環境）でのハンズオンが良い。バイブも良いが実コーディングの補完はやはり必要。Commitメッセージ書いてくれるのめちゃ使ってる。 https://t.co/HRXDzloVob</title>
+      <link>https://x.com/Tuckn333/status/2058545165468565934</link>
+      <description>Tuckn: 🏅Microsoft Certified: GitHub Copilot (GH-300) GitHub系のLearn教材は他のと比べて段違いに高品質。 Codespaces （ブラウザで動く仮想VS Code環境）でのハンズオンが良い。バイブも良いが実コーディングの補完はやはり必要。Commitメッセージ書いてくれるのめちゃ使ってる。 https://t.co/HRXDzloVob</description>
+      <pubDate>Sun, 24 May 2026 13:46:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tuckn333/status/2058545165468565934</guid>
+    </item>
+    <item>
       <title>GitHub Codespaces の devcontainer.json で環境構築を自動化し Copilot の機密ファイル除外を設定してみた | DevelopersIO https://t.co/KMYnqlrdGY</title>
       <link>https://x.com/yokatsuki/status/2058483425120538755</link>
       <description>Yosuke Katsuki: GitHub Codespaces の devcontainer.json で環境構築を自動化し Copilot の機密ファイル除外を設定してみた | DevelopersIO https://t.co/KMYnqlrdGY</description>
@@ -17,6 +24,13 @@
       <description>JS2NIC: @CodeWithAmann １．8GB 2026年のプログラマー、RAMは8GBで十分説。 それでも多いかも。 重いビルドもコンテナも全部クラウド（ Codespaces やローカル外）に投げるのが今の一流でしょ？ローカルのメモリ自慢はもう古い。ブラウザとターミナルさえ動けば8GBで十分。異論は認める。</description>
       <pubDate>Sun, 24 May 2026 04:56:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JS2NIC/status/2058411846592557544</guid>
+    </item>
+    <item>
+      <title>codespaces だしptufつけてるから/goalでも安心だな。またダークファクトリーに近づけた</title>
+      <link>https://x.com/_watany/status/2058394275780702378</link>
+      <description>watany: codespaces だしptufつけてるから/goalでも安心だな。またダークファクトリーに近づけた</description>
+      <pubDate>Sun, 24 May 2026 03:46:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_watany/status/2058394275780702378</guid>
     </item>
     <item>
       <title>GitHub Codespaces の組織設定とポリシーを一から構築してみた | DevelopersIO https://t.co/vFQzFPmrLr</title>
@@ -262,20 +276,6 @@
       <description>Kanon No.40 @Z0uy1n: @taitai2661dayo vscodeなんてgithub codespaces でいいんだよ！！！</description>
       <pubDate>Sat, 09 May 2026 15:13:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/z0uy1n/status/2053131341840130490</guid>
-    </item>
-    <item>
-      <title>GitHub Codespaces に至っては起動しないし、これ障害なのでは…？おま環？ランカウイだけかな</title>
-      <link>https://x.com/minorun365/status/2053130352731042213</link>
-      <description>みのるん: GitHub Codespaces に至っては起動しないし、これ障害なのでは…？おま環？ランカウイだけかな</description>
-      <pubDate>Sat, 09 May 2026 15:09:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minorun365/status/2053130352731042213</guid>
-    </item>
-    <item>
-      <title>やはり GiHub Codespaces x Copilot の組み合わせはくそ</title>
-      <link>https://x.com/honjo_yosage/status/2052080959655457070</link>
-      <description>ほんじょー＠三度の飯よりパンが好き: やはり GiHub Codespaces x Copilot の組み合わせはくそ</description>
-      <pubDate>Wed, 06 May 2026 17:40:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/honjo_yosage/status/2052080959655457070</guid>
     </item>
   </channel>
 </rss>
