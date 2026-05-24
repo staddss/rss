@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>普通にこれまで通りルーターのポート開けてNASと WireGuard で通信するようにすればすんなりいくだろうし間違いなく楽なんだけど、ハッタショのこだわりでどうしてもルーターをVPNホストにしたい。たった数%の環境向上のために何時間も割いてる、いつもそう</title>
+      <link>https://x.com/KiJiReTeJiRoA/status/2058222136993669610</link>
+      <description>勉強勉强勉強勉強: 普通にこれまで通りルーターのポート開けてNASと WireGuard で通信するようにすればすんなりいくだろうし間違いなく楽なんだけど、ハッタショのこだわりでどうしてもルーターをVPNホストにしたい。たった数%の環境向上のために何時間も割いてる、いつもそう</description>
+      <pubDate>Sat, 23 May 2026 16:22:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KiJiReTeJiRoA/status/2058222136993669610</guid>
+    </item>
+    <item>
       <title>wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</title>
       <link>https://x.com/hsur/status/2058151136855789846</link>
       <description>はしゅー: wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</description>
@@ -269,13 +276,6 @@
       <description>もちやつ: nuro光でポート開放できないっていうフレンドの呟き見て調べたら今MAP-Eが採用されてるのね・・・ これは気をつけないとまずそう 外部サーバー(VPSとか)を経由 WireGuard リレーみたいな構成なら行けるかもだけど WireGuard が制限受けそうで怖い</description>
       <pubDate>Thu, 14 May 2026 04:34:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mochyatsu/status/2054782266442936412</guid>
-    </item>
-    <item>
-      <title>「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</title>
-      <link>https://x.com/techotakulab/status/2054691710127542348</link>
-      <description>テコタク-techotakulab: 「中国でVPNが繋がらない」のは WireGuard が原因かも。 WireGuard はUDPのみ対応。DPIで簡単にブロックされる。 突破するにはOpenVPN（TCPポート443）が必要。HTTPS通信に偽装できるから検閲をすり抜けられる。 プロトコルの選び方まとめ👇 https://t.co/2taR21lSlf</description>
-      <pubDate>Wed, 13 May 2026 22:34:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techotakulab/status/2054691710127542348</guid>
     </item>
   </channel>
 </rss>

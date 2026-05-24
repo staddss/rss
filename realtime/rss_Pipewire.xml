@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そっか、Raspberry Pi 5ってPTPに対応できるしうまいことすればDanteとかで対応してるAES67を PipeWire で扱えるんか…レイテンシによってはRaspberry Pi 5+DACとかADCでYAMAHAのデジタルミキサーみたいなのできちゃう？？？</title>
+      <link>https://x.com/gakuseia_dev/status/2058046495799353613</link>
+      <description>Kadenz-A: そっか、Raspberry Pi 5ってPTPに対応できるしうまいことすればDanteとかで対応してるAES67を PipeWire で扱えるんか…レイテンシによってはRaspberry Pi 5+DACとかADCでYAMAHAのデジタルミキサーみたいなのできちゃう？？？</description>
+      <pubDate>Sat, 23 May 2026 04:44:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gakuseia_dev/status/2058046495799353613</guid>
+    </item>
+    <item>
       <title>WiFiのようなもともとレイテンシが安定しない環境で、 pipewire /pulseaudioのリアルタイム性が求められる処理とchrony(NTP/NTS)の同時使用は相性悪い気がする。</title>
       <link>https://x.com/nobuto_m/status/2057667407947444662</link>
       <description>Nobuto Murata: WiFiのようなもともとレイテンシが安定しない環境で、 pipewire /pulseaudioのリアルタイム性が求められる処理とchrony(NTP/NTS)の同時使用は相性悪い気がする。</description>

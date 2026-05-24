@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@CodeWithAmann １．8GB 2026年のプログラマー、RAMは8GBで十分説。 それでも多いかも。 重いビルドもコンテナも全部クラウド（ Codespaces やローカル外）に投げるのが今の一流でしょ？ローカルのメモリ自慢はもう古い。ブラウザとターミナルさえ動けば8GBで十分。異論は認める。</title>
+      <link>https://x.com/JS2NIC/status/2058411846592557544</link>
+      <description>JS2NIC: @CodeWithAmann １．8GB 2026年のプログラマー、RAMは8GBで十分説。 それでも多いかも。 重いビルドもコンテナも全部クラウド（ Codespaces やローカル外）に投げるのが今の一流でしょ？ローカルのメモリ自慢はもう古い。ブラウザとターミナルさえ動けば8GBで十分。異論は認める。</description>
+      <pubDate>Sun, 24 May 2026 04:56:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JS2NIC/status/2058411846592557544</guid>
+    </item>
+    <item>
       <title>GitHub Codespaces の組織設定とポリシーを一から構築してみた | DevelopersIO https://t.co/vFQzFPmrLr</title>
       <link>https://x.com/yokatsuki/status/2058255698522186168</link>
       <description>Yosuke Katsuki: GitHub Codespaces の組織設定とポリシーを一から構築してみた | DevelopersIO https://t.co/vFQzFPmrLr</description>
       <pubDate>Sat, 23 May 2026 18:36:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yokatsuki/status/2058255698522186168</guid>
+    </item>
+    <item>
+      <title>あのGitHubでさえ、社員PCに入れたVS Code拡張ひとつで社内コード約3,800本が流出する時代。 「作業場所」を、PCから Codespaces に引っ越した話を書きました。やめる話じゃなく、“爆心地”を移す話です。 https://t.co/hsILoIKIqU #PowerPlatform #バイブコーディング # Codespaces</title>
+      <link>https://x.com/dai_keiba_73/status/2058133158684659743</link>
+      <description>dai365 Microsoft MVP: あのGitHubでさえ、社員PCに入れたVS Code拡張ひとつで社内コード約3,800本が流出する時代。 「作業場所」を、PCから Codespaces に引っ越した話を書きました。やめる話じゃなく、“爆心地”を移す話です。 https://t.co/hsILoIKIqU #PowerPlatform #バイブコーディング # Codespaces</description>
+      <pubDate>Sat, 23 May 2026 10:29:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dai_keiba_73/status/2058133158684659743</guid>
     </item>
     <item>
       <title>…時々あるGitHub Codespaces のログインできない問題 https://t.co/YGwT37yv5t</title>
@@ -262,20 +276,6 @@
       <description>まい: @sameoto_sound 任意の学籍を持ってればGitHub Codespaces タダでつかえるよ</description>
       <pubDate>Wed, 06 May 2026 10:24:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mai_llj/status/2051971481299722285</guid>
-    </item>
-    <item>
-      <title>Codespaces が不安定すぎて作業できん。</title>
-      <link>https://x.com/bgnori/status/2051554038194561417</link>
-      <description>Nori（情報ブロイラー）: Codespaces が不安定すぎて作業できん。</description>
-      <pubDate>Tue, 05 May 2026 06:46:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bgnori/status/2051554038194561417</guid>
-    </item>
-    <item>
-      <title>Codespaces がなんか不安定なんだがなんだこれ</title>
-      <link>https://x.com/bgnori/status/2051553276731232313</link>
-      <description>Nori（情報ブロイラー）: Codespaces がなんか不安定なんだがなんだこれ</description>
-      <pubDate>Tue, 05 May 2026 06:43:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bgnori/status/2051553276731232313</guid>
     </item>
   </channel>
 </rss>

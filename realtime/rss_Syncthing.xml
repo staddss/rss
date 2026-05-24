@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>クラウドストレージに置いたフォルダのうち、目的がローカル同期なら 妙なネットサービス使うより Syncthing が断然優れいている。さっき初めて知った。</title>
+      <link>https://x.com/Nezshi/status/2058110978370458003</link>
+      <description>HOSOI Hisato: クラウドストレージに置いたフォルダのうち、目的がローカル同期なら 妙なネットサービス使うより Syncthing が断然優れいている。さっき初めて知った。</description>
+      <pubDate>Sat, 23 May 2026 09:01:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Nezshi/status/2058110978370458003</guid>
+    </item>
+    <item>
       <title>TailscaleのおかげでFinder/iosファイアプリ両方で全サーバーのファイル管理も可能（MacはSambaってやつ）（差分同期は Syncthing がいいみたいなので次やる）</title>
       <link>https://x.com/HarmNao_UraAca/status/2058042590549950733</link>
       <description>Naoの裏側: TailscaleのおかげでFinder/iosファイアプリ両方で全サーバーのファイル管理も可能（MacはSambaってやつ）（差分同期は Syncthing がいいみたいなので次やる）</description>
@@ -269,13 +276,6 @@
       <description>だいずラボ: 同期が不要でローカルで完結させたい場合はKeePassXCが良い選択肢です。 クラウドドライブや Syncthing を使用して自らのコントロール化で同期することもできるそうです。 https://t.co/Ufa578uXOd</description>
       <pubDate>Thu, 07 May 2026 07:05:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/daizu_lab/status/2052283669621190930</guid>
-    </item>
-    <item>
-      <title>Syncthing のアプリは理由なく discontinued になっているのか🤔</title>
-      <link>https://x.com/cheenanet/status/2051669365200929200</link>
-      <description>Cheena: Syncthing のアプリは理由なく discontinued になっているのか🤔</description>
-      <pubDate>Tue, 05 May 2026 14:24:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheenanet/status/2051669365200929200</guid>
     </item>
   </channel>
 </rss>
