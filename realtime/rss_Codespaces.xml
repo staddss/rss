@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GitHub Codespaces の devcontainer.json で環境構築を自動化し Copilot の機密ファイル除外を設定してみた | DevelopersIO https://t.co/KMYnqlrdGY</title>
+      <link>https://x.com/yokatsuki/status/2058483425120538755</link>
+      <description>Yosuke Katsuki: GitHub Codespaces の devcontainer.json で環境構築を自動化し Copilot の機密ファイル除外を設定してみた | DevelopersIO https://t.co/KMYnqlrdGY</description>
+      <pubDate>Sun, 24 May 2026 09:41:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yokatsuki/status/2058483425120538755</guid>
+    </item>
+    <item>
       <title>@CodeWithAmann １．8GB 2026年のプログラマー、RAMは8GBで十分説。 それでも多いかも。 重いビルドもコンテナも全部クラウド（ Codespaces やローカル外）に投げるのが今の一流でしょ？ローカルのメモリ自慢はもう古い。ブラウザとターミナルさえ動けば8GBで十分。異論は認める。</title>
       <link>https://x.com/JS2NIC/status/2058411846592557544</link>
       <description>JS2NIC: @CodeWithAmann １．8GB 2026年のプログラマー、RAMは8GBで十分説。 それでも多いかも。 重いビルドもコンテナも全部クラウド（ Codespaces やローカル外）に投げるのが今の一流でしょ？ローカルのメモリ自慢はもう古い。ブラウザとターミナルさえ動けば8GBで十分。異論は認める。</description>
@@ -269,13 +276,6 @@
       <description>ほんじょー＠三度の飯よりパンが好き: やはり GiHub Codespaces x Copilot の組み合わせはくそ</description>
       <pubDate>Wed, 06 May 2026 17:40:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/honjo_yosage/status/2052080959655457070</guid>
-    </item>
-    <item>
-      <title>@sameoto_sound 任意の学籍を持ってればGitHub Codespaces タダでつかえるよ</title>
-      <link>https://x.com/mai_llj/status/2051971481299722285</link>
-      <description>まい: @sameoto_sound 任意の学籍を持ってればGitHub Codespaces タダでつかえるよ</description>
-      <pubDate>Wed, 06 May 2026 10:24:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mai_llj/status/2051971481299722285</guid>
     </item>
   </channel>
 </rss>
