@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Linuxbrew%22</link>
     <description>Latest search results for '&quot;Linuxbrew&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>「homebrew on Linux がなんで /opt/homebrew じゃなくて /home/. linuxbrew / linuxbrew 使ってるんだ」という、これまで何度話題に出たかわからんやつにちゃんとメンテナが答えていてよかった（歴史的経緯、そして非リロケータブルなバイナリ...） https://t.co/QgovpVDnJv</title>
+      <link>https://x.com/himkt/status/2058522013854216218</link>
+      <description>himako: 「homebrew on Linux がなんで /opt/homebrew じゃなくて /home/. linuxbrew / linuxbrew 使ってるんだ」という、これまで何度話題に出たかわからんやつにちゃんとメンテナが答えていてよかった（歴史的経緯、そして非リロケータブルなバイナリ...） https://t.co/QgovpVDnJv</description>
+      <pubDate>Sun, 24 May 2026 12:14:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/himkt/status/2058522013854216218</guid>
+    </item>
+    <item>
       <title>久々にArch Linuxに戻ってきて、前までまぁ.rpmなり.debが楽に入れられるDebian系やらRHEL系は楽でええなあ（実際はそうでもない）だったけど、殆どがAURで手に入れられて有象無象の追加のレポジトリから解放されて linuxbrew からも解放されて素晴らしいな〜〜！！ってなってる</title>
       <link>https://x.com/myskng/status/2055937075023950167</link>
       <description>もやしきんぐ: 久々にArch Linuxに戻ってきて、前までまぁ.rpmなり.debが楽に入れられるDebian系やらRHEL系は楽でええなあ（実際はそうでもない）だったけど、殆どがAURで手に入れられて有象無象の追加のレポジトリから解放されて linuxbrew からも解放されて素晴らしいな〜〜！！ってなってる</description>
@@ -17,13 +24,6 @@
       <description>𝑺𝒉𝒊𝒃𝒂: linuxbrew で幸せになった話を聞かない</description>
       <pubDate>Mon, 11 May 2026 05:30:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/4ba_ba_baba/status/2053709388909805654</guid>
-    </item>
-    <item>
-      <title>@ttttinyfish @cherylnatsu Linuxbrew 的套件涵蓋量也很出色</title>
-      <link>https://x.com/XLionc/status/2047966371154387273</link>
-      <description>XLion: @ttttinyfish @cherylnatsu Linuxbrew 的套件涵蓋量也很出色</description>
-      <pubDate>Sat, 25 Apr 2026 09:10:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/XLionc/status/2047966371154387273</guid>
     </item>
   </channel>
 </rss>

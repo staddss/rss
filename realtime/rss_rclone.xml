@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>先月は色々とエラーが出た、protomapの最新のpmtilesをダウンロードして、BLAKE3検証を行い（HDDが大騒ぎ）、 rclone でR2にアップロード。をTruenasで行うcron。順調に動いてる。 2時にスタートして、3時30分過ぎにはコンプリートする予定。これで月一の地図データ更新は完全に自動化された。。</title>
+      <link>https://x.com/KanaguPhoto/status/2058609360063062062</link>
+      <description>KANAGU: 先月は色々とエラーが出た、protomapの最新のpmtilesをダウンロードして、BLAKE3検証を行い（HDDが大騒ぎ）、 rclone でR2にアップロード。をTruenasで行うcron。順調に動いてる。 2時にスタートして、3時30分過ぎにはコンプリートする予定。これで月一の地図データ更新は完全に自動化された。。</description>
+      <pubDate>Sun, 24 May 2026 18:01:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KanaguPhoto/status/2058609360063062062</guid>
+    </item>
+    <item>
       <title>@masahiroitosugi 絵描きのみなさん、クラウドサービスは絶対に信用しないでください。少し時間を取って、 rclone の暗号化機能の使い方を学ぶことをお勧めします。これを使えば、たとえGoogleドライブのようなサービスを利用していても、運営側には何がアップロードされているのか一切分からなくなります。</title>
       <link>https://x.com/shaftingmuffin/status/2057874897179926545</link>
       <description>Shafting Muffin: @masahiroitosugi 絵描きのみなさん、クラウドサービスは絶対に信用しないでください。少し時間を取って、 rclone の暗号化機能の使い方を学ぶことをお勧めします。これを使えば、たとえGoogleドライブのようなサービスを利用していても、運営側には何がアップロードされているのか一切分からなくなります。</description>
@@ -269,13 +276,6 @@
       <description>きのすめ: ffmpegとか Rclone のスクリプトを完全にAIに丸投げで作ってもらったら丸一日ぐらいで多分完璧に要望を満たすものが作れてすごい 恐ろしいのは本当に完璧なのかがわからないこと😞</description>
       <pubDate>Tue, 05 May 2026 14:46:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kino_sume/status/2051674865779048474</guid>
-    </item>
-    <item>
-      <title>そのままWindowsにもっていって（USB3でいけた）、Diskpartでcleanからconvert gptしてNTFSで作り直し、デカめのファイルコピーしてハッシュ比較でチェック中。 なんだけど rclone のチェッカーが出てくるのが遅すぎて挙動があやしいな…</title>
-      <link>https://x.com/c_o_t/status/2051353494570123537</link>
-      <description>TAKAHIRO: そのままWindowsにもっていって（USB3でいけた）、Diskpartでcleanからconvert gptしてNTFSで作り直し、デカめのファイルコピーしてハッシュ比較でチェック中。 なんだけど rclone のチェッカーが出てくるのが遅すぎて挙動があやしいな…</description>
-      <pubDate>Mon, 04 May 2026 17:29:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/c_o_t/status/2051353494570123537</guid>
     </item>
   </channel>
 </rss>

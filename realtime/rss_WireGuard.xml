@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</title>
+      <link>https://x.com/chikamizuki1993/status/2058860781803098573</link>
+      <description>瑞輝智佳@遊現怪舎エージーテクソル／代表取り締まられ役舎長: android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</description>
+      <pubDate>Mon, 25 May 2026 10:40:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chikamizuki1993/status/2058860781803098573</guid>
+    </item>
+    <item>
       <title>Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</title>
       <link>https://x.com/yuumediatown/status/2058689505226576038</link>
       <description>封神龍（新型コロナワクチン5回目接種仕様）: Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</description>
@@ -17,6 +24,13 @@
       <description>SAVE-CLIP.COM: VPNプロトコル、どれが一番シンプル？ 🅐 WireGuard （コード4,000行） 🅑 OpenVPN（数万行） 🅒 IKEv2（秘密の呪文で成立） 🅓 どれも同じくらい複雑 記事で答え合わせ 👇 https://t.co/5GtLdpozle #VPN #InternetSafety</description>
       <pubDate>Sun, 24 May 2026 12:00:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/saveclipvpn/status/2058518394346131581</guid>
+    </item>
+    <item>
+      <title>業務連絡 openwrtと wireguard の組み合わせでハマっています。 #ITネタ</title>
+      <link>https://x.com/shonanlitore/status/2058456893967007867</link>
+      <description>横浜のIT屋: 業務連絡 openwrtと wireguard の組み合わせでハマっています。 #ITネタ</description>
+      <pubDate>Sun, 24 May 2026 07:55:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shonanlitore/status/2058456893967007867</guid>
     </item>
     <item>
       <title>VPN を WireGuard に移行しようとしたけれど、手こずったのでひとまずおあずけ＿ノ乙(､ﾝ､)_</title>
@@ -262,20 +276,6 @@
       <description>yaaaaaby: Claude使いたいって使ってる人に話したら言語理解できんと自分で手直しできないから無理よって言われたけど WireGuard forkすら厳しいのかあ &quot;Claude Codeに、Windows用のVPN( WireGuard )クライアントを開発させてみた。&quot; https://t.co/zWAUrSHvoW</description>
       <pubDate>Fri, 15 May 2026 23:10:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yaaaaaby/status/2055425681425834064</guid>
-    </item>
-    <item>
-      <title>Arduinoプラットフォーム 自分の運用だとラズパイ4の WireGuard の代わりにVPNサーバーにするのに向いてそうで気になってる☺️ https://t.co/NZhcLXrcTB</title>
-      <link>https://x.com/DIGIUSAGI/status/2055237310095229048</link>
-      <description>コレサワシゲユキ／でこうさぎ: Arduinoプラットフォーム 自分の運用だとラズパイ4の WireGuard の代わりにVPNサーバーにするのに向いてそうで気になってる☺️ https://t.co/NZhcLXrcTB</description>
-      <pubDate>Fri, 15 May 2026 10:42:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2055237310095229048</guid>
-    </item>
-    <item>
-      <title>Mullvadの出口IPは驚くほど個人特定につながりやすい https://t.co/jAzIUnDLff 要約:Mullvadの出口IPは WireGuard 鍵から決定され、複数サーバーのIP比率で利用者を高確率に相関可能。鍵ローテーション等を推奨。</title>
-      <link>https://x.com/DerkiesAd001/status/2055174792572240035</link>
-      <description>HackerNews要約※非公式: Mullvadの出口IPは驚くほど個人特定につながりやすい https://t.co/jAzIUnDLff 要約:Mullvadの出口IPは WireGuard 鍵から決定され、複数サーバーのIP比率で利用者を高確率に相関可能。鍵ローテーション等を推奨。</description>
-      <pubDate>Fri, 15 May 2026 06:33:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2055174792572240035</guid>
     </item>
   </channel>
 </rss>
