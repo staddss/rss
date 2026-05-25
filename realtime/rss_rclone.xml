@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone でマウントしてるOneDrive，定期的に認証し直さないといけないの地味にメンドイ...</title>
+      <link>https://x.com/kurumi705482362/status/2058912630488895855</link>
+      <description>kurumi: rclone でマウントしてるOneDrive，定期的に認証し直さないといけないの地味にメンドイ...</description>
+      <pubDate>Mon, 25 May 2026 14:06:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kurumi705482362/status/2058912630488895855</guid>
+    </item>
+    <item>
+      <title>Claude CodeやCodexのチャット履歴を自動でクラウド同期する rclone スクリプトをエージェントに設定しておくべき、という運用Tips。蓄積されたAIとのやり取りは再利用できるプロンプト資産になる。放置すると消えるので、今すぐバックアップ設定しておくのが正解だと思う。</title>
+      <link>https://x.com/minervacosmetic/status/2058881470765359256</link>
+      <description>テラ｜AIチーム経営×美容業界: Claude CodeやCodexのチャット履歴を自動でクラウド同期する rclone スクリプトをエージェントに設定しておくべき、という運用Tips。蓄積されたAIとのやり取りは再利用できるプロンプト資産になる。放置すると消えるので、今すぐバックアップ設定しておくのが正解だと思う。</description>
+      <pubDate>Mon, 25 May 2026 12:02:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/minervacosmetic/status/2058881470765359256</guid>
+    </item>
+    <item>
       <title>先月は色々とエラーが出た、protomapの最新のpmtilesをダウンロードして、BLAKE3検証を行い（HDDが大騒ぎ）、 rclone でR2にアップロード。をTruenasで行うcron。順調に動いてる。 2時にスタートして、3時30分過ぎにはコンプリートする予定。これで月一の地図データ更新は完全に自動化された。。</title>
       <link>https://x.com/KanaguPhoto/status/2058609360063062062</link>
       <description>KANAGU: 先月は色々とエラーが出た、protomapの最新のpmtilesをダウンロードして、BLAKE3検証を行い（HDDが大騒ぎ）、 rclone でR2にアップロード。をTruenasで行うcron。順調に動いてる。 2時にスタートして、3時30分過ぎにはコンプリートする予定。これで月一の地図データ更新は完全に自動化された。。</description>
@@ -262,20 +276,6 @@
       <description>めてお: 久々に使った rclone mountが激重だった Google向けClient IDがデフォルト設定を使用する全ユーザーで共有する仕様で、クォータ制限くらってボトルネックになっていた模様</description>
       <pubDate>Thu, 07 May 2026 14:33:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/___Nova___/status/2052396395089494108</guid>
-    </item>
-    <item>
-      <title>【Linux部門人気記事紹介｜第6位】 クラウドストレージとLinuxサーバー間のデータ転送を効率化する「 rclone 」の活用法をご紹介。本記事では、OneDriveを対象としたセキュアなファイル移動手順を解説します。 https://t.co/BuD618JWsn https://t.co/AmZhBAiSmp</title>
-      <link>https://x.com/BioinfoLab/status/2052221884931162164</link>
-      <description>バイオインフォマティクス実践ラボ: 【Linux部門人気記事紹介｜第6位】 クラウドストレージとLinuxサーバー間のデータ転送を効率化する「 rclone 」の活用法をご紹介。本記事では、OneDriveを対象としたセキュアなファイル移動手順を解説します。 https://t.co/BuD618JWsn https://t.co/AmZhBAiSmp</description>
-      <pubDate>Thu, 07 May 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/BioinfoLab/status/2052221884931162164</guid>
-    </item>
-    <item>
-      <title>ffmpegとか Rclone のスクリプトを完全にAIに丸投げで作ってもらったら丸一日ぐらいで多分完璧に要望を満たすものが作れてすごい 恐ろしいのは本当に完璧なのかがわからないこと😞</title>
-      <link>https://x.com/kino_sume/status/2051674865779048474</link>
-      <description>きのすめ: ffmpegとか Rclone のスクリプトを完全にAIに丸投げで作ってもらったら丸一日ぐらいで多分完璧に要望を満たすものが作れてすごい 恐ろしいのは本当に完璧なのかがわからないこと😞</description>
-      <pubDate>Tue, 05 May 2026 14:46:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kino_sume/status/2051674865779048474</guid>
     </item>
   </channel>
 </rss>
