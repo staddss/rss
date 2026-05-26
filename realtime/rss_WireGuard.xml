@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/chikamizuki1993/status/2058860781803098573</guid>
     </item>
     <item>
+      <title>使う前から欲を言うなら、OpenVPNは接続のオーバーヘッド大きすぎるので WireGuard だと嬉しいのだが。 iPhoneでも、VPNアプリ起動せず、直接PTCGLタップで起動トリガのショートカット呼び出しで全然間に合うんですよね。 WireGuard だと。</title>
+      <link>https://x.com/odpLn8yGmyH56c/status/2058816455102386507</link>
+      <description>ガチじゃない熊: 使う前から欲を言うなら、OpenVPNは接続のオーバーヘッド大きすぎるので WireGuard だと嬉しいのだが。 iPhoneでも、VPNアプリ起動せず、直接PTCGLタップで起動トリガのショートカット呼び出しで全然間に合うんですよね。 WireGuard だと。</description>
+      <pubDate>Mon, 25 May 2026 07:44:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2058816455102386507</guid>
+    </item>
+    <item>
       <title>Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</title>
       <link>https://x.com/yuumediatown/status/2058689505226576038</link>
       <description>封神龍（新型コロナワクチン5回目接種仕様）: Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</description>
@@ -269,13 +276,6 @@
       <description>Skyline: @ec12edfae2cb221 wireguard 有 rs 替代了</description>
       <pubDate>Sat, 16 May 2026 07:54:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/meili145/status/2055557388133077443</guid>
-    </item>
-    <item>
-      <title>Claude使いたいって使ってる人に話したら言語理解できんと自分で手直しできないから無理よって言われたけど WireGuard forkすら厳しいのかあ &quot;Claude Codeに、Windows用のVPN( WireGuard )クライアントを開発させてみた。&quot; https://t.co/zWAUrSHvoW</title>
-      <link>https://x.com/yaaaaaby/status/2055425681425834064</link>
-      <description>yaaaaaby: Claude使いたいって使ってる人に話したら言語理解できんと自分で手直しできないから無理よって言われたけど WireGuard forkすら厳しいのかあ &quot;Claude Codeに、Windows用のVPN( WireGuard )クライアントを開発させてみた。&quot; https://t.co/zWAUrSHvoW</description>
-      <pubDate>Fri, 15 May 2026 23:10:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yaaaaaby/status/2055425681425834064</guid>
     </item>
   </channel>
 </rss>

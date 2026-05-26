@@ -201,20 +201,6 @@
       <guid isPermaLink="true">https://x.com/llama17/status/2048391069994471869</guid>
     </item>
     <item>
-      <title>Baguette は ChromeOS 147 以降でデフォルトのインストールになりますが、chrome://flags の containerless- crostini フラグで制御できます。</title>
-      <link>https://x.com/Helen_Tech/status/2048215444419760278</link>
-      <description>おむらまさひで(HelenTech): Baguette は ChromeOS 147 以降でデフォルトのインストールになりますが、chrome://flags の containerless- crostini フラグで制御できます。</description>
-      <pubDate>Sun, 26 Apr 2026 01:39:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2048215444419760278</guid>
-    </item>
-    <item>
-      <title>* インストールと起動の高速化 * lxc の古い依存関係を削除し、cgroups v2 のサポートなどを可能にします * Crostini から仮想化されたゲストへの直接アクセスを強化し、ホストでのスワップファイルのマウントなどを可能にします * 独自のコンテナ（Docker、Podman など）を実行できる</title>
-      <link>https://x.com/Helen_Tech/status/2048215336642809940</link>
-      <description>おむらまさひで(HelenTech): * インストールと起動の高速化 * lxc の古い依存関係を削除し、cgroups v2 のサポートなどを可能にします * Crostini から仮想化されたゲストへの直接アクセスを強化し、ホストでのスワップファイルのマウントなどを可能にします * 独自のコンテナ（Docker、Podman など）を実行できる</description>
-      <pubDate>Sun, 26 Apr 2026 01:39:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2048215336642809940</guid>
-    </item>
-    <item>
       <title>ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。 https://t.co/T5KxfeqAKq</title>
       <link>https://x.com/Helen_Tech/status/2048215148708716734</link>
       <description>おむらまさひで(HelenTech): ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。 https://t.co/T5KxfeqAKq</description>
