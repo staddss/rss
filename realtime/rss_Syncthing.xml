@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これはね RaspberryPi Zero W で Syncthing + QMK の書き込みできるかな？と試そうとして micro SD カードがなくて頓挫しているアーティファクト https://t.co/4AQ5ZfPkue</title>
+      <link>https://x.com/hiyoctrl/status/2059171778132680779</link>
+      <description>Ctrl: これはね RaspberryPi Zero W で Syncthing + QMK の書き込みできるかな？と試そうとして micro SD カードがなくて頓挫しているアーティファクト https://t.co/4AQ5ZfPkue</description>
+      <pubDate>Tue, 26 May 2026 07:16:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiyoctrl/status/2059171778132680779</guid>
+    </item>
+    <item>
+      <title>これはね RaspberryPi とか、古いパソコン に Syncthing で永遠に延々とミラーリングというかバックアップを取ってる異常な人 Googleドライブにも rclone で 同期してる 特に大切なファイルもないんだけど、すぐに復旧できるのだけが強み ＃linux ＃debian ＃raspberrpi https://t.co/ITtNeYJYE8</title>
+      <link>https://x.com/hiyoctrl/status/2059111987498693067</link>
+      <description>Ctrl: これはね RaspberryPi とか、古いパソコン に Syncthing で永遠に延々とミラーリングというかバックアップを取ってる異常な人 Googleドライブにも rclone で 同期してる 特に大切なファイルもないんだけど、すぐに復旧できるのだけが強み ＃linux ＃debian ＃raspberrpi https://t.co/ITtNeYJYE8</description>
+      <pubDate>Tue, 26 May 2026 03:18:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiyoctrl/status/2059111987498693067</guid>
+    </item>
+    <item>
       <title>私のwriterdeckについて話す時が来た。 https://t.co/5z8Vrd8LJf 要約:古いノートPCにGUIなしDebianを入れ、Neovim、tmux、kmscon、 Syncthing で集中執筆用writerdeckを構築した手順と感想。</title>
       <link>https://x.com/DerkiesAd001/status/2058345693593612458</link>
       <description>HackerNews要約※非公式: 私のwriterdeckについて話す時が来た。 https://t.co/5z8Vrd8LJf 要約:古いノートPCにGUIなしDebianを入れ、Neovim、tmux、kmscon、 Syncthing で集中執筆用writerdeckを構築した手順と感想。</description>
@@ -262,20 +276,6 @@
       <description>ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: Dropboxに課金しなくても好きなだけ容量を無料で使える https://t.co/ReIUV7Maaj Syncthing https://t.co/MVwBT9iu7e これ絶対内緒🤣🤣 Dropbox退会者が出てしまうから🤣🤣 https://t.co/qQj3IRm6DY</description>
       <pubDate>Sat, 09 May 2026 06:45:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/goldbecksfire/status/2053003399436935368</guid>
-    </item>
-    <item>
-      <title>@hyudaepon_bdst スクリプト云々など難しいことが面倒なら、ファイル変更を瞬時に行ってくれたり検出してくれる同期方法を使うといいですよ。たとえば - Nextcloud (conflictを自動検出して一旦両方のバージョンのファイルを残してくれる) - Syncthing (変更を瞬時にすべての端末のローカルKDBXに適用) あたりです。</title>
-      <link>https://x.com/bathtowel0913/status/2052565033515700620</link>
-      <description>バスタオル: @hyudaepon_bdst スクリプト云々など難しいことが面倒なら、ファイル変更を瞬時に行ってくれたり検出してくれる同期方法を使うといいですよ。たとえば - Nextcloud (conflictを自動検出して一旦両方のバージョンのファイルを残してくれる) - Syncthing (変更を瞬時にすべての端末のローカルKDBXに適用) あたりです。</description>
-      <pubDate>Fri, 08 May 2026 01:43:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bathtowel0913/status/2052565033515700620</guid>
-    </item>
-    <item>
-      <title>Obsidianの同期は Syncthing がいいのかも。設定簡単、同期早い、安定稼働で好感触です クラウドストレージを使うプラグインも試してみましたが、なぜかキャンバスが同期できなかったりと安定しませんでした…</title>
-      <link>https://x.com/saketi0906/status/2052359080807956798</link>
-      <description>さけち: Obsidianの同期は Syncthing がいいのかも。設定簡単、同期早い、安定稼働で好感触です クラウドストレージを使うプラグインも試してみましたが、なぜかキャンバスが同期できなかったりと安定しませんでした…</description>
-      <pubDate>Thu, 07 May 2026 12:05:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/saketi0906/status/2052359080807956798</guid>
     </item>
   </channel>
 </rss>

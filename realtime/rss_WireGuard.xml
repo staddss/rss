@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>スマホから自宅の wireguard に繋がるのに、iPadから繋がらん。なんで。</title>
+      <link>https://x.com/fumikstyles/status/2059261586934780164</link>
+      <description>IS: スマホから自宅の wireguard に繋がるのに、iPadから繋がらん。なんで。</description>
+      <pubDate>Tue, 26 May 2026 13:13:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fumikstyles/status/2059261586934780164</guid>
+    </item>
+    <item>
+      <title>@shi3z Tailscaleの無料プランは100台まで接続可能で、個人開発者には十分すぎる仕様ですね。 WireGuard ベースで設定も簡単だから、VPN構築の敷居が一気に下がった印象です。</title>
+      <link>https://x.com/airiaiai8/status/2059057394198708430</link>
+      <description>あいり｜海外AIニュースを毎日届ける人: @shi3z Tailscaleの無料プランは100台まで接続可能で、個人開発者には十分すぎる仕様ですね。 WireGuard ベースで設定も簡単だから、VPN構築の敷居が一気に下がった印象です。</description>
+      <pubDate>Mon, 25 May 2026 23:41:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/airiaiai8/status/2059057394198708430</guid>
+    </item>
+    <item>
       <title>android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</title>
       <link>https://x.com/chikamizuki1993/status/2058860781803098573</link>
       <description>瑞輝智佳@遊現怪舎エージーテクソル／代表取り締まられ役舎長: android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</description>
@@ -262,20 +276,6 @@
       <description>notebook: どちらかというとダッシュボード作成が第一目的ではなくdockerを使って何か作ってみようとした結果これを実装したという経緯 先日VPS上に構築した wireguard 使ったVPN経由して外部ネットワークから監視できることも確認した</description>
       <pubDate>Sun, 17 May 2026 15:40:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/notebook383/status/2056037050886095121</guid>
-    </item>
-    <item>
-      <title>@akazdango ConoHa と wireguard 繋いで iptables で nat して家に引き込むみたいなことやってた</title>
-      <link>https://x.com/mnt__mu/status/2055888588148256778</link>
-      <description>みなと@情報工学の天使見習い: @akazdango ConoHa と wireguard 繋いで iptables で nat して家に引き込むみたいなことやってた</description>
-      <pubDate>Sun, 17 May 2026 05:50:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mnt__mu/status/2055888588148256778</guid>
-    </item>
-    <item>
-      <title>@ec12edfae2cb221 wireguard 有 rs 替代了</title>
-      <link>https://x.com/meili145/status/2055557388133077443</link>
-      <description>Skyline: @ec12edfae2cb221 wireguard 有 rs 替代了</description>
-      <pubDate>Sat, 16 May 2026 07:54:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/meili145/status/2055557388133077443</guid>
     </item>
   </channel>
 </rss>
