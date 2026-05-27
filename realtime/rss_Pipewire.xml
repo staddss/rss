@@ -243,27 +243,6 @@
       <guid isPermaLink="true">https://x.com/utamok/status/2049122657455816870</guid>
     </item>
     <item>
-      <title>切断したあと Pipewire がお亡くなりになってた。いたしかたなし</title>
-      <link>https://x.com/1hira_c/status/2048888312107270626</link>
-      <description>一片(ひとひら): 切断したあと Pipewire がお亡くなりになってた。いたしかたなし</description>
-      <pubDate>Mon, 27 Apr 2026 22:13:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/1hira_c/status/2048888312107270626</guid>
-    </item>
-    <item>
-      <title>Pipewire はUbuntuより先だったか覚えてないけど、WaylandはFedoraのがひとつ前からXorg無くしてた。KDEはもう一つまえぐらいから無効化してた。そもそもUbuntuがWaylandやめたんじゃなくてGNOMEが Wayland一本化させたの。 https://t.co/PBBbjNGh8Z</title>
-      <link>https://x.com/fedoraupdown/status/2048884376239591748</link>
-      <description>けんけん: Pipewire はUbuntuより先だったか覚えてないけど、WaylandはFedoraのがひとつ前からXorg無くしてた。KDEはもう一つまえぐらいから無効化してた。そもそもUbuntuがWaylandやめたんじゃなくてGNOMEが Wayland一本化させたの。 https://t.co/PBBbjNGh8Z</description>
-      <pubDate>Mon, 27 Apr 2026 21:57:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2048884376239591748</guid>
-    </item>
-    <item>
-      <title>そしてflatpakで導入するもいまだにオーディオサーバというかオーディオバックエンド各種alsaとかjackとか pipewire とかわからんちんなので実際にpurrdataから音が出るのはまだ先のお話。になったけど、linuxにも今こんなパッチベイアプリあるのね…ってなって未来感あった。 https://t.co/mO0zqj19DL</title>
-      <link>https://x.com/tksg8086/status/2048835425293516979</link>
-      <description>たかさご: そしてflatpakで導入するもいまだにオーディオサーバというかオーディオバックエンド各種alsaとかjackとか pipewire とかわからんちんなので実際にpurrdataから音が出るのはまだ先のお話。になったけど、linuxにも今こんなパッチベイアプリあるのね…ってなって未来感あった。 https://t.co/mO0zqj19DL</description>
-      <pubDate>Mon, 27 Apr 2026 18:43:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tksg8086/status/2048835425293516979</guid>
-    </item>
-    <item>
       <title>Ubuntuはそういう「実験的」なディストロだと認識していたが、世間的な印象はそうではないのか？ Wayland, pipewire の時だってそうだったし、近年ではブラウザすらsnapからしかまともに入らない、前衛的なディストロじゃないか。 十分に検証されたパッケージが好きならDebianが良いのでは？</title>
       <link>https://x.com/yanorei32/status/2048595401352315240</link>
       <description>あねてあ™ @ yr32.net: Ubuntuはそういう「実験的」なディストロだと認識していたが、世間的な印象はそうではないのか？ Wayland, pipewire の時だってそうだったし、近年ではブラウザすらsnapからしかまともに入らない、前衛的なディストロじゃないか。 十分に検証されたパッケージが好きならDebianが良いのでは？</description>
