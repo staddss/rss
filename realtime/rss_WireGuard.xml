@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</title>
+      <link>https://x.com/sakuacid/status/2059564998628982798</link>
+      <description>さく: さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</description>
+      <pubDate>Wed, 27 May 2026 09:18:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2059564998628982798</guid>
+    </item>
+    <item>
+      <title>仕様がオープンなOpenVPNや WireGuard においては接続設定において経路を設定できるわけですが、PokeVPNでは設定ファイルには接続サーバと認証情報、接続に関するオプションフラグしか記載がありません。であれば、VPNサーバ側に接続後にさらなる制御をしているものと思い込んでました。</title>
+      <link>https://x.com/odpLn8yGmyH56c/status/2059523800589586936</link>
+      <description>ガチじゃない熊: 仕様がオープンなOpenVPNや WireGuard においては接続設定において経路を設定できるわけですが、PokeVPNでは設定ファイルには接続サーバと認証情報、接続に関するオプションフラグしか記載がありません。であれば、VPNサーバ側に接続後にさらなる制御をしているものと思い込んでました。</description>
+      <pubDate>Wed, 27 May 2026 06:35:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2059523800589586936</guid>
+    </item>
+    <item>
       <title>Wireguard の運用楽すぎる さいこうだな</title>
       <link>https://x.com/v34103080/status/2059512823080976387</link>
       <description>v34びょう: Wireguard の運用楽すぎる さいこうだな</description>
@@ -262,20 +276,6 @@
       <description>たてはま / CGBeginner @趣味独学映像クリエイター: 過去に完全に挫折した Wireguard 拠点間VPN構築、ネットワークの知識も付き、かつGPT5.5という最強の味方がいる今、再挑戦―</description>
       <pubDate>Tue, 19 May 2026 14:58:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cgbeginner/status/2056751452786418119</guid>
-    </item>
-    <item>
-      <title>Tailscaleのお行儀が悪いのは周知の事実ですが、あれ以上に手軽にVPN組めるのがないので文句を言いつつ使います WireGuard 構築とかやってられませんわ</title>
-      <link>https://x.com/k4na_de/status/2056714049464004896</link>
-      <description>Yuzuki Kana: Tailscaleのお行儀が悪いのは周知の事実ですが、あれ以上に手軽にVPN組めるのがないので文句を言いつつ使います WireGuard 構築とかやってられませんわ</description>
-      <pubDate>Tue, 19 May 2026 12:30:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k4na_de/status/2056714049464004896</guid>
-    </item>
-    <item>
-      <title>ふと思ったがcloudflaretunnnelぶち込めば会社PCからワイのPCへリモートデスクトップできるよな。 会社PCに Wireguard ぶち込めないからできねえな思ったが、cloudflare tunnelなら wireguard 必要ないしな。</title>
-      <link>https://x.com/migibashi/status/2056502456742453326</link>
-      <description>hidarivashi: ふと思ったがcloudflaretunnnelぶち込めば会社PCからワイのPCへリモートデスクトップできるよな。 会社PCに Wireguard ぶち込めないからできねえな思ったが、cloudflare tunnelなら wireguard 必要ないしな。</description>
-      <pubDate>Mon, 18 May 2026 22:29:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/migibashi/status/2056502456742453326</guid>
     </item>
   </channel>
 </rss>
