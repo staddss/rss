@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</title>
+      <link>https://x.com/tenaiaiai/status/2059872968004735071</link>
+      <description>ten: Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</description>
+      <pubDate>Thu, 28 May 2026 05:42:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tenaiaiai/status/2059872968004735071</guid>
+    </item>
+    <item>
       <title>WireGuard だと事前に設定ファイル内にルーティング情報を入れておくことはできるけどOpenVPNにあるようなサーバからのpushができないので今後のIP追加に追従できないわけだ。なるほどねー</title>
       <link>https://x.com/odpLn8yGmyH56c/status/2059863172530774055</link>
       <description>ガチじゃない熊: WireGuard だと事前に設定ファイル内にルーティング情報を入れておくことはできるけどOpenVPNにあるようなサーバからのpushができないので今後のIP追加に追従できないわけだ。なるほどねー</description>
@@ -269,13 +276,6 @@
       <description>さく: UCGMAXとVPSで WireGuard Site to Siteの構成をテスト中 どっちがサーバーになるんだっけ…って てんやわんや</description>
       <pubDate>Wed, 20 May 2026 06:04:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakuacid/status/2056979437338734756</guid>
-    </item>
-    <item>
-      <title>AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</title>
-      <link>https://x.com/terudog4_VRC/status/2056970045423849557</link>
-      <description>てるるん-VRC: AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</description>
-      <pubDate>Wed, 20 May 2026 05:27:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/terudog4_VRC/status/2056970045423849557</guid>
     </item>
   </channel>
 </rss>

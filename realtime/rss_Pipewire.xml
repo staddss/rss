@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>pipewire とかまたブリッジ作ったらlinuxアプリから音声再生いけるかな</title>
+      <link>https://x.com/petitstb/status/2059600333668831633</link>
+      <description>バトルプログラマー見習いいちご: pipewire とかまたブリッジ作ったらlinuxアプリから音声再生いけるかな</description>
+      <pubDate>Wed, 27 May 2026 11:39:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/petitstb/status/2059600333668831633</guid>
+    </item>
+    <item>
       <title>PipeWire 設定 ポンコツAIがブラウザよりローカルファイルのほうが圧倒的に音が良いというから、教えられたとおりに音源落としたんだけど、音が変わらなかった。 またポンコツ野郎に騙されたと思ったら、configを変えられると。 ※ 理論的にはCD音質以上は無駄なはずなんだけど、全然違ってた。</title>
       <link>https://x.com/duckygduck2023/status/2059546250471784660</link>
       <description>あひる2023: PipeWire 設定 ポンコツAIがブラウザよりローカルファイルのほうが圧倒的に音が良いというから、教えられたとおりに音源落としたんだけど、音が変わらなかった。 またポンコツ野郎に騙されたと思ったら、configを変えられると。 ※ 理論的にはCD音質以上は無駄なはずなんだけど、全然違ってた。</description>
@@ -241,13 +248,6 @@
       <description>丸: pipewire そのものより割り込み処理にCPUクッソ使ってるやん。そういうこともあるんやな。</description>
       <pubDate>Tue, 28 Apr 2026 13:44:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/utamok/status/2049122657455816870</guid>
-    </item>
-    <item>
-      <title>Ubuntuはそういう「実験的」なディストロだと認識していたが、世間的な印象はそうではないのか？ Wayland, pipewire の時だってそうだったし、近年ではブラウザすらsnapからしかまともに入らない、前衛的なディストロじゃないか。 十分に検証されたパッケージが好きならDebianが良いのでは？</title>
-      <link>https://x.com/yanorei32/status/2048595401352315240</link>
-      <description>あねてあ™ @ yr32.net: Ubuntuはそういう「実験的」なディストロだと認識していたが、世間的な印象はそうではないのか？ Wayland, pipewire の時だってそうだったし、近年ではブラウザすらsnapからしかまともに入らない、前衛的なディストロじゃないか。 十分に検証されたパッケージが好きならDebianが良いのでは？</description>
-      <pubDate>Mon, 27 Apr 2026 02:49:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yanorei32/status/2048595401352315240</guid>
     </item>
     <item>
       <title>Ubuntu 26.04 Desktop で音楽再生を試してる。オーディオマニア以外は、もうこれで良いじゃん。FirefoxからQobuzが普通にハイレゾで再生できる。自作チャンデバソフトを使うのにはひと手間いるけど( PipeWire が理解できない)。使ったことないけど camilladsp なんてのもあるし。</title>
