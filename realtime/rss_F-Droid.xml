@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NewPipeやPipePipe等のアプリは F - Droid をソースとして使うよりGithubをソースとして使うべきかもしれません。 F - Droid でのリリースは性質上遅れるため、YouTubeの仕様変更に追いつけないと思われます。 https://t.co/rrP7u1X9eT</title>
+      <link>https://x.com/Kdroidwin1/status/2059834453032399110</link>
+      <description>Kdroidwin: NewPipeやPipePipe等のアプリは F - Droid をソースとして使うよりGithubをソースとして使うべきかもしれません。 F - Droid でのリリースは性質上遅れるため、YouTubeの仕様変更に追いつけないと思われます。 https://t.co/rrP7u1X9eT</description>
+      <pubDate>Thu, 28 May 2026 03:09:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kdroidwin1/status/2059834453032399110</guid>
+    </item>
+    <item>
       <title>F - Droid の導入手順と、実際に検証機へ適用した設定を書き残している。 メイン機に入れるには少し癖があるけれど、サブ機やテスト端末の最適化にはかなり使える。 https://t.co/Ls71LAPtoA</title>
       <link>https://x.com/NEdge98502/status/2059250431474442708</link>
       <description>Nexista Edge: F - Droid の導入手順と、実際に検証機へ適用した設定を書き残している。 メイン機に入れるには少し癖があるけれど、サブ機やテスト端末の最適化にはかなり使える。 https://t.co/Ls71LAPtoA</description>
@@ -276,13 +283,6 @@
       <description>フル: GitHubだけで配布されているAndroid用アプリを F - Droid のようにインストールして管理＆自動更新できる「Obtainium」レビュー - GIGAZINE https://t.co/l5ED1U6F26</description>
       <pubDate>Sat, 09 May 2026 15:04:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/f61326/status/2053128933756006763</guid>
-    </item>
-    <item>
-      <title>Gigazineでobtainiumが紹介されてるー。 F - Droid 使うより、こっちの方が断然安全。 https://t.co/A8GHMsMO57</title>
-      <link>https://x.com/privacyOtaku/status/2053077232248344673</link>
-      <description>プライバシーオタク: Gigazineでobtainiumが紹介されてるー。 F - Droid 使うより、こっちの方が断然安全。 https://t.co/A8GHMsMO57</description>
-      <pubDate>Sat, 09 May 2026 11:38:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/privacyOtaku/status/2053077232248344673</guid>
     </item>
   </channel>
 </rss>

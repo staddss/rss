@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard だと事前に設定ファイル内にルーティング情報を入れておくことはできるけどOpenVPNにあるようなサーバからのpushができないので今後のIP追加に追従できないわけだ。なるほどねー</title>
+      <link>https://x.com/odpLn8yGmyH56c/status/2059863172530774055</link>
+      <description>ガチじゃない熊: WireGuard だと事前に設定ファイル内にルーティング情報を入れておくことはできるけどOpenVPNにあるようなサーバからのpushができないので今後のIP追加に追従できないわけだ。なるほどねー</description>
+      <pubDate>Thu, 28 May 2026 05:03:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2059863172530774055</guid>
+    </item>
+    <item>
+      <title>VPN ..🤔 L2TP, WireGuard , OpenVPNとか行けなくてもShadowsocks, Trojan, VLESS, Vmessぐらいは使える可能性が微レ存 https://t.co/S8Vobpn6br</title>
+      <link>https://x.com/xkf_dev/status/2059795266275090676</link>
+      <description>xkf_: VPN ..🤔 L2TP, WireGuard , OpenVPNとか行けなくてもShadowsocks, Trojan, VLESS, Vmessぐらいは使える可能性が微レ存 https://t.co/S8Vobpn6br</description>
+      <pubDate>Thu, 28 May 2026 00:33:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xkf_dev/status/2059795266275090676</guid>
+    </item>
+    <item>
+      <title>仮想ルーターではないが、LINUXに Wireguard とFRRを入れるとOSPF経路を吐いてくれるので便利。 #ITネタ https://t.co/8o5xwjacdv</title>
+      <link>https://x.com/shonanlitore/status/2059774948852576567</link>
+      <description>横浜のIT屋: 仮想ルーターではないが、LINUXに Wireguard とFRRを入れるとOSPF経路を吐いてくれるので便利。 #ITネタ https://t.co/8o5xwjacdv</description>
+      <pubDate>Wed, 27 May 2026 23:13:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shonanlitore/status/2059774948852576567</guid>
+    </item>
+    <item>
+      <title>自宅VPNをIPSecから WireGuard に切り替える実験中。とりあえずコネクションまで確認完了。 しばらく使ってみて詰まり解消されたら本切替かな。</title>
+      <link>https://x.com/ariela/status/2059586150642368878</link>
+      <description>悠希@ariela: 自宅VPNをIPSecから WireGuard に切り替える実験中。とりあえずコネクションまで確認完了。 しばらく使ってみて詰まり解消されたら本切替かな。</description>
+      <pubDate>Wed, 27 May 2026 10:42:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ariela/status/2059586150642368878</guid>
+    </item>
+    <item>
       <title>さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</title>
       <link>https://x.com/sakuacid/status/2059564998628982798</link>
       <description>さく: さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</description>
@@ -52,13 +80,6 @@
       <description>瑞輝智佳@遊現怪舎エージーテクソル／代表取り締まられ役舎長: android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</description>
       <pubDate>Mon, 25 May 2026 10:40:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/chikamizuki1993/status/2058860781803098573</guid>
-    </item>
-    <item>
-      <title>使う前から欲を言うなら、OpenVPNは接続のオーバーヘッド大きすぎるので WireGuard だと嬉しいのだが。 iPhoneでも、VPNアプリ起動せず、直接PTCGLタップで起動トリガのショートカット呼び出しで全然間に合うんですよね。 WireGuard だと。</title>
-      <link>https://x.com/odpLn8yGmyH56c/status/2058816455102386507</link>
-      <description>ガチじゃない熊: 使う前から欲を言うなら、OpenVPNは接続のオーバーヘッド大きすぎるので WireGuard だと嬉しいのだが。 iPhoneでも、VPNアプリ起動せず、直接PTCGLタップで起動トリガのショートカット呼び出しで全然間に合うんですよね。 WireGuard だと。</description>
-      <pubDate>Mon, 25 May 2026 07:44:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2058816455102386507</guid>
     </item>
     <item>
       <title>Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</title>
@@ -255,27 +276,6 @@
       <description>てるるん-VRC: AGHが動くルーターを買いませう TailSacleも WireGuard なモダンなVPNも動くので万能ルーターだとおまいまふ https://t.co/F0jM0z1AWC https://t.co/ecZxztz0XI</description>
       <pubDate>Wed, 20 May 2026 05:27:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/terudog4_VRC/status/2056970045423849557</guid>
-    </item>
-    <item>
-      <title>@PrincePOPI こ、今秋ようやく配信が終了するLinuC-303でもKAMEとかracoonとか出題されるので... https://t.co/QsFyTZhvsc ※後続試験のLinuC-3SSではVPNの項目がそもそも存在しなくなった模様。 WireGuard とか出題すればいいのｎ</title>
-      <link>https://x.com/g_plains/status/2056862067169374470</link>
-      <description>こてつ(ONO,Tetsuo): @PrincePOPI こ、今秋ようやく配信が終了するLinuC-303でもKAMEとかracoonとか出題されるので... https://t.co/QsFyTZhvsc ※後続試験のLinuC-3SSではVPNの項目がそもそも存在しなくなった模様。 WireGuard とか出題すればいいのｎ</description>
-      <pubDate>Tue, 19 May 2026 22:18:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2056862067169374470</guid>
-    </item>
-    <item>
-      <title>@venumdev いいね！より tốt ー Wireguard 、VPN、。</title>
-      <link>https://x.com/Chcng93274788/status/2056751572886208866</link>
-      <description>Chí cường: @venumdev いいね！より tốt ー Wireguard 、VPN、。</description>
-      <pubDate>Tue, 19 May 2026 14:59:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Chcng93274788/status/2056751572886208866</guid>
-    </item>
-    <item>
-      <title>過去に完全に挫折した Wireguard 拠点間VPN構築、ネットワークの知識も付き、かつGPT5.5という最強の味方がいる今、再挑戦―</title>
-      <link>https://x.com/cgbeginner/status/2056751452786418119</link>
-      <description>たてはま / CGBeginner @趣味独学映像クリエイター: 過去に完全に挫折した Wireguard 拠点間VPN構築、ネットワークの知識も付き、かつGPT5.5という最強の味方がいる今、再挑戦―</description>
-      <pubDate>Tue, 19 May 2026 14:58:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cgbeginner/status/2056751452786418119</guid>
     </item>
   </channel>
 </rss>
