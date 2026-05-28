@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%22</link>
     <description>Latest search results for '&quot;Chromebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chromebook で開発者モードを有効にすると Debian13 の仮想マシンが pop することに偶然気づいてしまい、chrome://flags/ で GPU を有効にして /dev/dri っていうか QSV が使えないか試してしまったんぬ。どうやらメモリが潤沢でないと GPU は開放されない仕様っぽい…（時計から目をそらしながら</title>
+      <link>https://x.com/ca_tty/status/2060050809082249668</link>
+      <description>Catty: chromebook で開発者モードを有効にすると Debian13 の仮想マシンが pop することに偶然気づいてしまい、chrome://flags/ で GPU を有効にして /dev/dri っていうか QSV が使えないか試してしまったんぬ。どうやらメモリが潤沢でないと GPU は開放されない仕様っぽい…（時計から目をそらしながら</description>
+      <pubDate>Thu, 28 May 2026 17:29:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ca_tty/status/2060050809082249668</guid>
+    </item>
+    <item>
+      <title>Chromebook はStadiaの遺産のおかげなのかクラウドゲーミングめちゃくちゃ使いやすいんだよな 有線のXbox 360コントローラーだとケーブル差しただけで使えてしまう</title>
+      <link>https://x.com/gmt0900/status/2060030390753230946</link>
+      <description>💧こだま🍊⛵: Chromebook はStadiaの遺産のおかげなのかクラウドゲーミングめちゃくちゃ使いやすいんだよな 有線のXbox 360コントローラーだとケーブル差しただけで使えてしまう</description>
+      <pubDate>Thu, 28 May 2026 16:08:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gmt0900/status/2060030390753230946</guid>
+    </item>
+    <item>
       <title>アメリカのIT企業ももっと個人情報抜いてると思ってそれも嫌なのでピクセルとか Chromebook は使いたくない https://t.co/F2YoL5INBw</title>
       <link>https://x.com/Ken_Kameda/status/2060029598348496919</link>
       <description>亀田 謙: アメリカのIT企業ももっと個人情報抜いてると思ってそれも嫌なのでピクセルとか Chromebook は使いたくない https://t.co/F2YoL5INBw</description>
@@ -269,20 +283,6 @@
       <description>徳永直良（元書店員、元設備管理員）二の宮文庫 茨城県公安委員会古物商許可第40131000044号: 【#kindle落ち穂拾い】 Chromebook 編 Chromebook の標準の「アプリとゲーム」からはAlexaアプリは検索できなかった。 インストールできないのかと思ったが、アンドロイド用アプリストア「Google Play」のWebからはAlexaのインストールができた。 https://t.co/WxfgUGbuBH</description>
       <pubDate>Thu, 28 May 2026 04:30:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/naox_toku/status/2059854719489917274</guid>
-    </item>
-    <item>
-      <title>Chromebook で動画編集に期待！ Google「Gemini Omni」発表。会話だけで動画編集できるマルチモーダルAIが Chromebook の動画制作を変える - Chromebook ジャーナル https://t.co/tnHEsVLHrR</title>
-      <link>https://x.com/pcefancom/status/2059843887427150025</link>
-      <description>タケイマコト: Chromebook で動画編集に期待！ Google「Gemini Omni」発表。会話だけで動画編集できるマルチモーダルAIが Chromebook の動画制作を変える - Chromebook ジャーナル https://t.co/tnHEsVLHrR</description>
-      <pubDate>Thu, 28 May 2026 03:47:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pcefancom/status/2059843887427150025</guid>
-    </item>
-    <item>
-      <title>Chromebook Pro XE510C24 XE513C24 Chromebook Plus XE521QAB XE513C24 / Plus LTE XE525QBBI / Plus V2 XE520QAB AA-PBTN2TP バッテリー容量39Wh 7.6V https://t.co/kiS2NoYAlb バッテリー交換 電池交換 電池パック スマホ修理 PC修理 パソコン修理 アフィリエイトリンクではありませんლ(╹◡╹ლ</title>
-      <link>https://x.com/batteryswapswap/status/2059843770078962123</link>
-      <description>交換用@バッテリー速報: Chromebook Pro XE510C24 XE513C24 Chromebook Plus XE521QAB XE513C24 / Plus LTE XE525QBBI / Plus V2 XE520QAB AA-PBTN2TP バッテリー容量39Wh 7.6V https://t.co/kiS2NoYAlb バッテリー交換 電池交換 電池パック スマホ修理 PC修理 パソコン修理 アフィリエイトリンクではありませんლ(╹◡╹ლ</description>
-      <pubDate>Thu, 28 May 2026 03:46:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/batteryswapswap/status/2059843770078962123</guid>
     </item>
   </channel>
 </rss>
