@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale ( WireGuard ) Syncthing</title>
+      <link>https://x.com/kevin327g/status/2060009861098918296</link>
+      <description>kevin mitsunaga / fhána: これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale ( WireGuard ) Syncthing</description>
+      <pubDate>Thu, 28 May 2026 14:46:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kevin327g/status/2060009861098918296</guid>
+    </item>
+    <item>
+      <title>iPadの wireguard の調子が悪いな..（ ; ; ）</title>
+      <link>https://x.com/L_port8080/status/2059966696283427227</link>
+      <description>一樹（第二拠点）: iPadの wireguard の調子が悪いな..（ ; ; ）</description>
+      <pubDate>Thu, 28 May 2026 11:55:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2059966696283427227</guid>
+    </item>
+    <item>
       <title>Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</title>
       <link>https://x.com/tenaiaiai/status/2059872968004735071</link>
       <description>ten: Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</description>
@@ -262,20 +276,6 @@
       <description>strnh: 去年の暮れくらいから wireguard が使えない(正確にいうと、詰まってしまう) networkがあったのだが、DFと TCPMSS-CLAMP なんて問題がまだあったので一応書いておく。 まあ Windows単体側には自動でMSS設定するような器用なものはついてないので、1000bytes くらいにしておくと通る。</description>
       <pubDate>Wed, 20 May 2026 10:57:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/strnh/status/2057053184468918618</guid>
-    </item>
-    <item>
-      <title>さくらのVPSにたいして さくらのクラウドのVPNルーターをVPSスイッチとL2ブリッジ接続をしてUCGMAXからIPSec接続するケースと UCGMAXから直接VPS（大阪、石狩）に WireGuard でS2S接続するケースをテスト 思った以上に Wireguard の上りスループット（VPSに送る方）が遅い・・・ 石狩から大阪間速いっぽ</title>
-      <link>https://x.com/sakuacid/status/2057012184769769661</link>
-      <description>さく: さくらのVPSにたいして さくらのクラウドのVPNルーターをVPSスイッチとL2ブリッジ接続をしてUCGMAXからIPSec接続するケースと UCGMAXから直接VPS（大阪、石狩）に WireGuard でS2S接続するケースをテスト 思った以上に Wireguard の上りスループット（VPSに送る方）が遅い・・・ 石狩から大阪間速いっぽ</description>
-      <pubDate>Wed, 20 May 2026 08:14:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2057012184769769661</guid>
-    </item>
-    <item>
-      <title>UCGMAXとVPSで WireGuard Site to Siteの構成をテスト中 どっちがサーバーになるんだっけ…って てんやわんや</title>
-      <link>https://x.com/sakuacid/status/2056979437338734756</link>
-      <description>さく: UCGMAXとVPSで WireGuard Site to Siteの構成をテスト中 どっちがサーバーになるんだっけ…って てんやわんや</description>
-      <pubDate>Wed, 20 May 2026 06:04:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2056979437338734756</guid>
     </item>
   </channel>
 </rss>

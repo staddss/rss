@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</title>
+      <link>https://x.com/cheenanet/status/2059981664567332893</link>
+      <description>Cheena: KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</description>
+      <pubDate>Thu, 28 May 2026 12:54:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cheenanet/status/2059981664567332893</guid>
+    </item>
+    <item>
       <title>Syncthing つかえそう。 最近データ増えすぎて運用を工夫しないといけなくなってきた https://t.co/B9LKq3cbwg</title>
       <link>https://x.com/shikihuton/status/2059422076214354025</link>
       <description>Kazuya Horibe / a.k.a kakehuton: Syncthing つかえそう。 最近データ増えすぎて運用を工夫しないといけなくなってきた https://t.co/B9LKq3cbwg</description>
@@ -269,20 +276,6 @@
       <description>バスタオル: @hyudaepon_bdst Nextcloudや Syncthing の同期処理はKDBXのmergeとは無関係なので、データ編集後すぐに実行されるという条件が満たせないなら不便です Syncthing は新旧両バージョンを保持してくれますが結局merge処理をしないといけないので面倒臭い。 Syncthing に至っては旧バージョンを消してしまう可能性があるような</description>
       <pubDate>Sun, 10 May 2026 03:36:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bathtowel0913/status/2053318335337804038</guid>
-    </item>
-    <item>
-      <title>これまでSMBSync2がインストール済みの端末ではそのまま使ってたけど、ストアから消えて久しいので、NASを入れ替えたのを機に SyncThing に全移行した。</title>
-      <link>https://x.com/eighttails/status/2053125024102690987</link>
-      <description>Yao Tadahito(八尾 唯仁): これまでSMBSync2がインストール済みの端末ではそのまま使ってたけど、ストアから消えて久しいので、NASを入れ替えたのを機に SyncThing に全移行した。</description>
-      <pubDate>Sat, 09 May 2026 14:48:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/eighttails/status/2053125024102690987</guid>
-    </item>
-    <item>
-      <title>無料でDropboxやGoogle DriveやOne Driveよりも多量の容量を同期可能 https://t.co/jeSLAwAtji Syncthing のダウンロードURL https://t.co/jeSLAwAtji</title>
-      <link>https://x.com/goldbecksfire/status/2053005677677973578</link>
-      <description>ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: 無料でDropboxやGoogle DriveやOne Driveよりも多量の容量を同期可能 https://t.co/jeSLAwAtji Syncthing のダウンロードURL https://t.co/jeSLAwAtji</description>
-      <pubDate>Sat, 09 May 2026 06:54:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/goldbecksfire/status/2053005677677973578</guid>
     </item>
   </channel>
 </rss>

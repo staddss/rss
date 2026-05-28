@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>昨日の夜のうちにTakeoutのデータはローカルに移動済み 今日はサポートに連絡して明後日にでも回収してもらおう。明後日帰りが少し遅いんだよな＾～ rclone でコピーはできそうだけど光でも１０MBしかでない １日辺り７５０GBのアップロード制限もあるらしいし２日はかかる 早くSSDを本来の用途に</title>
+      <link>https://x.com/Hatsuseno_Y2/status/2059776989968621681</link>
+      <description>†Hatsuseno.Y.† @絵wip/Sandbox: 昨日の夜のうちにTakeoutのデータはローカルに移動済み 今日はサポートに連絡して明後日にでも回収してもらおう。明後日帰りが少し遅いんだよな＾～ rclone でコピーはできそうだけど光でも１０MBしかでない １日辺り７５０GBのアップロード制限もあるらしいし２日はかかる 早くSSDを本来の用途に</description>
+      <pubDate>Wed, 27 May 2026 23:21:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hatsuseno_Y2/status/2059776989968621681</guid>
+    </item>
+    <item>
       <title>rclone でdropbox更新SUGEEEEEEってなっていたのも束の間、ファイルの更新のかけ方によって共有リンクがコロコロ変わって憤死しかけたのでクビ</title>
       <link>https://x.com/_nnshion/status/2059295201005551835</link>
       <description>の: rclone でdropbox更新SUGEEEEEEってなっていたのも束の間、ファイルの更新のかけ方によって共有リンクがコロコロ変わって憤死しかけたのでクビ</description>
@@ -269,13 +276,6 @@
       <description>株式会社 七夕研究所: キーレス標準化の前線で、エコシステムは追いついているか：`aws login`、Cyberduck、 rclone をめぐる小さな移行記｜株式会社 七夕研究所 @TanabataInst https://t.co/AM5b6b7yoO</description>
       <pubDate>Sat, 09 May 2026 13:43:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TanabataInst/status/2053108671308255437</guid>
-    </item>
-    <item>
-      <title>AWSの新コマンド「aws login」を組み込もうとしたら、慣れたCyberduckがうまく動かない。 最終的に rclone に移行したけれど、観察できたのは「クラウド提供者の世代交代に、ツールエコシステムが追いつかない」という構造の話だった。 技術選定の判断軸が一段変わる。</title>
-      <link>https://x.com/TanabataInst/status/2053108670100394456</link>
-      <description>株式会社 七夕研究所: AWSの新コマンド「aws login」を組み込もうとしたら、慣れたCyberduckがうまく動かない。 最終的に rclone に移行したけれど、観察できたのは「クラウド提供者の世代交代に、ツールエコシステムが追いつかない」という構造の話だった。 技術選定の判断軸が一段変わる。</description>
-      <pubDate>Sat, 09 May 2026 13:43:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TanabataInst/status/2053108670100394456</guid>
     </item>
   </channel>
 </rss>
