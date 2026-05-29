@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale (WireGuard) Syncthing</title>
+      <link>https://x.com/kevin327g/status/2060009861098918296</link>
+      <description>kevin mitsunaga / fhána: これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale (WireGuard) Syncthing</description>
+      <pubDate>Thu, 28 May 2026 14:46:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kevin327g/status/2060009861098918296</guid>
+    </item>
+    <item>
       <title>KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</title>
       <link>https://x.com/cheenanet/status/2059981664567332893</link>
       <description>Cheena: KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</description>
@@ -269,13 +276,6 @@
       <description>楠咲安＠DragonStudio🏴‍☠️🐧⚡️: ひょっとして.mdをPCとスマホ間で Syncthing 経由で同期してるヤツって、俺以外にあんまおらんのかな。 ObsidianのPC-スマホ同期方法がユーザー（※俺含む公式のSyncを回避しようとしている勢）ごとに違いすぎて、俺がやってる方法は果たして妥当なのかと定期的に考えてしまう。</description>
       <pubDate>Sun, 10 May 2026 03:51:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hypnotic770440/status/2053321915729957354</guid>
-    </item>
-    <item>
-      <title>@hyudaepon_bdst Nextcloudや Syncthing の同期処理はKDBXのmergeとは無関係なので、データ編集後すぐに実行されるという条件が満たせないなら不便です Syncthing は新旧両バージョンを保持してくれますが結局merge処理をしないといけないので面倒臭い。 Syncthing に至っては旧バージョンを消してしまう可能性があるような</title>
-      <link>https://x.com/bathtowel0913/status/2053318335337804038</link>
-      <description>バスタオル: @hyudaepon_bdst Nextcloudや Syncthing の同期処理はKDBXのmergeとは無関係なので、データ編集後すぐに実行されるという条件が満たせないなら不便です Syncthing は新旧両バージョンを保持してくれますが結局merge処理をしないといけないので面倒臭い。 Syncthing に至っては旧バージョンを消してしまう可能性があるような</description>
-      <pubDate>Sun, 10 May 2026 03:36:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bathtowel0913/status/2053318335337804038</guid>
     </item>
   </channel>
 </rss>
