@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Beryl 7 を WireGuard クライアントにして自宅LAN丸ごと持ち歩く https://t.co/kELXp6pc70 #Qiita</title>
+      <link>https://x.com/gwu_book/status/2060385873334866384</link>
+      <description>あぐ: Beryl 7 を WireGuard クライアントにして自宅LAN丸ごと持ち歩く https://t.co/kELXp6pc70 #Qiita</description>
+      <pubDate>Fri, 29 May 2026 15:40:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gwu_book/status/2060385873334866384</guid>
+    </item>
+    <item>
+      <title>きた！！vpsとノートPCとで wireguard 繋げれた！！</title>
+      <link>https://x.com/_yakisugita_/status/2060355860040433827</link>
+      <description>焼きすぎた鮭: きた！！vpsとノートPCとで wireguard 繋げれた！！</description>
+      <pubDate>Fri, 29 May 2026 13:41:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_yakisugita_/status/2060355860040433827</guid>
+    </item>
+    <item>
+      <title>@Link_2011A 僕の学校は Wireguard ベースのサービスをすべてブロックしました🥲</title>
+      <link>https://x.com/Reizoko8401_TW/status/2060237026591711344</link>
+      <description>Reizōko@4G+ R📶: @Link_2011A 僕の学校は Wireguard ベースのサービスをすべてブロックしました🥲</description>
+      <pubDate>Fri, 29 May 2026 05:49:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Reizoko8401_TW/status/2060237026591711344</guid>
+    </item>
+    <item>
       <title>WireGuard を使って自宅‐実家(リフォーム中)をサーバー間VPN接続していますが、実家停電、復電後VPNが自動で張れていない。 ルーター起動前にサーバー起動完了しているため、 WireGuard がDNSを引けず起動失敗していた模様。失敗時に遅延処理再起動を入れた。</title>
       <link>https://x.com/nae2sho/status/2060148704183722141</link>
       <description>苗場翔 / Picolix Design: WireGuard を使って自宅‐実家(リフォーム中)をサーバー間VPN接続していますが、実家停電、復電後VPNが自動で張れていない。 ルーター起動前にサーバー起動完了しているため、 WireGuard がDNSを引けず起動失敗していた模様。失敗時に遅延処理再起動を入れた。</description>
@@ -255,27 +276,6 @@
       <description>ふりゃん / Tsuβaki: Debianで WireGuard サーバーを建てる https://t.co/IDa7XCu7Up ｳﾝ年ほど放ったらかしてたやつを書いた一旦 ミスあるかも</description>
       <pubDate>Thu, 21 May 2026 14:23:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/flyan495/status/2057467204543942688</guid>
-    </item>
-    <item>
-      <title>さくらのクラウド完全に理解した VPNルーターでIPSec接続はできたから 明日は WireGuard で試してみる。 VPS直で WireGuard をするのとどっちがいいか。（2200円払うメリットあるかどうか）</title>
-      <link>https://x.com/sakuacid/status/2057399943934144597</link>
-      <description>さく: さくらのクラウド完全に理解した VPNルーターでIPSec接続はできたから 明日は WireGuard で試してみる。 VPS直で WireGuard をするのとどっちがいいか。（2200円払うメリットあるかどうか）</description>
-      <pubDate>Thu, 21 May 2026 09:55:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2057399943934144597</guid>
-    </item>
-    <item>
-      <title>ついでにやっちゃおうってことでVPSのUbuntuを6.17.0-29-genericにして無効になっちゃってた WireGuard を復活させたぜ。</title>
-      <link>https://x.com/7shisandesu/status/2057339410199535778</link>
-      <description>7shi（ななし）: ついでにやっちゃおうってことでVPSのUbuntuを6.17.0-29-genericにして無効になっちゃってた WireGuard を復活させたぜ。</description>
-      <pubDate>Thu, 21 May 2026 05:55:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/7shisandesu/status/2057339410199535778</guid>
-    </item>
-    <item>
-      <title>esp32で wireguard 繋いで、ブラウザからuart入出力するのもいいかもしれん。linuxじゃないぶん、脆弱性とかに強いかも？ https://t.co/dBz5dYSCPa</title>
-      <link>https://x.com/kam1nchu/status/2057311551808573793</link>
-      <description>カフェイン未摂取: esp32で wireguard 繋いで、ブラウザからuart入出力するのもいいかもしれん。linuxじゃないぶん、脆弱性とかに強いかも？ https://t.co/dBz5dYSCPa</description>
-      <pubDate>Thu, 21 May 2026 04:04:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kam1nchu/status/2057311551808573793</guid>
     </item>
   </channel>
 </rss>

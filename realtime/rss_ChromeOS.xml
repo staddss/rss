@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>実際の動作：146以降では右側のポートの充電速度が非常に遅いです。 回帰： ChromeOS 145では正常に動作します。146、147、148、ベータ版149では動作しません。 回避策：Google管理コンソールを使用してデバイスを ChromeOS 145に固定しました。</title>
+      <link>https://x.com/Helen_Tech/status/2060258417252708425</link>
+      <description>おむらまさひで(HelenTech): 実際の動作：146以降では右側のポートの充電速度が非常に遅いです。 回帰： ChromeOS 145では正常に動作します。146、147、148、ベータ版149では動作しません。 回避策：Google管理コンソールを使用してデバイスを ChromeOS 145に固定しました。</description>
+      <pubDate>Fri, 29 May 2026 07:14:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2060258417252708425</guid>
+    </item>
+    <item>
       <title>「 ChromeOS 146以降、HP Fortis Flip G1i 11の右側USB-Cポートの充電速度が非常に遅い」という問題が引き続き報告されている https://t.co/0BbTL2Pi0Q #Chromebook</title>
       <link>https://x.com/Helen_Tech/status/2060258336944349596</link>
       <description>おむらまさひで(HelenTech): 「 ChromeOS 146以降、HP Fortis Flip G1i 11の右側USB-Cポートの充電速度が非常に遅い」という問題が引き続き報告されている https://t.co/0BbTL2Pi0Q #Chromebook</description>
@@ -269,13 +276,6 @@
       <description>とまじぃ@ガジェット×ブログ: ここ数日でLinuxを５種ほど試した結果… ChromeOS なのか？ｗ｜とまじぃ@カジェオタNoter @Toma_G https://t.co/pddDygdAOi</description>
       <pubDate>Mon, 25 May 2026 11:52:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Toma_G/status/2058878896754552873</guid>
-    </item>
-    <item>
-      <title>@armx467 @TsukishiroLuna っ ChromeOS flex Androidアプリは入らないけど、Webアプリと仮想Linuxで大概の事はできるようになった。 導入も超簡単だし、脱Windowsの第一歩にピッタリですよ。</title>
-      <link>https://x.com/Harpyien/status/2058842236436279713</link>
-      <description>ハルピュイア@2026年の漢字は𰻞: @armx467 @TsukishiroLuna っ ChromeOS flex Androidアプリは入らないけど、Webアプリと仮想Linuxで大概の事はできるようになった。 導入も超簡単だし、脱Windowsの第一歩にピッタリですよ。</description>
-      <pubDate>Mon, 25 May 2026 09:26:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Harpyien/status/2058842236436279713</guid>
     </item>
   </channel>
 </rss>
