@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近Github Codespaces 、重くない？全然開かんのやけど</title>
+      <link>https://x.com/app_dice/status/2060691705469477110</link>
+      <description>3z_at（サズアト）: 最近Github Codespaces 、重くない？全然開かんのやけど</description>
+      <pubDate>Sat, 30 May 2026 11:56:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/app_dice/status/2060691705469477110</guid>
+    </item>
+    <item>
       <title>AIが何するか怖くてクラウドのコンテナ環境でしか開発作業ができなくなった結果、一年かけてぐるっと一周回ってGitHub Codespaces に戻ってきた https://t.co/UUrrWkHGCa</title>
       <link>https://x.com/vagrantjapan/status/2060142383719944423</link>
       <description>Vagrant in Japan: AIが何するか怖くてクラウドのコンテナ環境でしか開発作業ができなくなった結果、一年かけてぐるっと一周回ってGitHub Codespaces に戻ってきた https://t.co/UUrrWkHGCa</description>
@@ -269,20 +276,6 @@
       <description>TeX64: @aglossia_ なるほど、ブラウザからどこでもアクセスできる環境ですね。それならOverleafが一番現実的です。Git連携のサブディレクトリ制限は確かに不便ですが、コンパイル環境として使うだけなら安定してます。より柔軟にしたい場合はGitHub Codespaces にTeX Liveを入れる手もありますが、初期設定が必要です。</description>
       <pubDate>Tue, 12 May 2026 19:22:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TeX64AI/status/2054281020267270205</guid>
-    </item>
-    <item>
-      <title>@yurunbo めんどいけどそれが手っ取り早かったです🥹 VS Codeとかも試したんですが、スマホだとボタンポチで行ける Codespaces が無難でしたw</title>
-      <link>https://x.com/noukin_AIgori/status/2054028717585055950</link>
-      <description>ごりおじ: @yurunbo めんどいけどそれが手っ取り早かったです🥹 VS Codeとかも試したんですが、スマホだとボタンポチで行ける Codespaces が無難でしたw</description>
-      <pubDate>Tue, 12 May 2026 02:39:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noukin_AIgori/status/2054028717585055950</guid>
-    </item>
-    <item>
-      <title>@yurunbo わしも実行できる、というかWebアプリとして出せるサーバー探しながら色々試してみてます🥹 Codespaces はGitHubから行けませんか？？</title>
-      <link>https://x.com/noukin_AIgori/status/2054025740627398926</link>
-      <description>ごりおじ: @yurunbo わしも実行できる、というかWebアプリとして出せるサーバー探しながら色々試してみてます🥹 Codespaces はGitHubから行けませんか？？</description>
-      <pubDate>Tue, 12 May 2026 02:27:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noukin_AIgori/status/2054025740627398926</guid>
     </item>
   </channel>
 </rss>
