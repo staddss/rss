@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chromeos をリリースしている google 製 AI である gemini くん曰く、 chromeos は開発者にも gpu は開放していないので無駄なことはやめろ、qsv は貴様のジャンクPCでやってろ、intel はもうサポート切るつもりだけどな、だそうなんぬ。ハードウェア改造なしにクラックできないとも警告されたんぬ。</title>
+      <link>https://x.com/ca_tty/status/2060607956744536430</link>
+      <description>Catty: chromeos をリリースしている google 製 AI である gemini くん曰く、 chromeos は開発者にも gpu は開放していないので無駄なことはやめろ、qsv は貴様のジャンクPCでやってろ、intel はもうサポート切るつもりだけどな、だそうなんぬ。ハードウェア改造なしにクラックできないとも警告されたんぬ。</description>
+      <pubDate>Sat, 30 May 2026 06:23:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ca_tty/status/2060607956744536430</guid>
+    </item>
+    <item>
+      <title>なんかLinuxのquick sync videoはintelによって書き直されて別規格になり、古い世代のcpuがサポート外になったっぽいんぬ。Debianでは13からそれが入ってきてるっぽくて、ffmpegにも手が入ってる。知らずに旧来のやり方で必死に chromeos をつついてた私の姿はさぞ滑稽だったろうぬ… 呪われよ…</title>
+      <link>https://x.com/ca_tty/status/2060603796443791478</link>
+      <description>Catty: なんかLinuxのquick sync videoはintelによって書き直されて別規格になり、古い世代のcpuがサポート外になったっぽいんぬ。Debianでは13からそれが入ってきてるっぽくて、ffmpegにも手が入ってる。知らずに旧来のやり方で必死に chromeos をつついてた私の姿はさぞ滑稽だったろうぬ… 呪われよ…</description>
+      <pubDate>Sat, 30 May 2026 06:06:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ca_tty/status/2060603796443791478</guid>
+    </item>
+    <item>
+      <title>古のLet's Note(CF−S9)が出てきたから ChromeOS Flexのインストールを試してる。 動くんだろうか。 https://t.co/uV1IcyVX3f</title>
+      <link>https://x.com/nunusoft/status/2060578657232662602</link>
+      <description>ぬぬ。: 古のLet's Note(CF−S9)が出てきたから ChromeOS Flexのインストールを試してる。 動くんだろうか。 https://t.co/uV1IcyVX3f</description>
+      <pubDate>Sat, 30 May 2026 04:26:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nunusoft/status/2060578657232662602</guid>
+    </item>
+    <item>
+      <title>Gemini搭載ノートPC「Googlebook」登場。Androidと ChromeOS を融合 https://t.co/lzigypjGJM 別記事</title>
+      <link>https://x.com/Red_Frame_X/status/2060578486763602330</link>
+      <description>Red Frame X: Gemini搭載ノートPC「Googlebook」登場。Androidと ChromeOS を融合 https://t.co/lzigypjGJM 別記事</description>
+      <pubDate>Sat, 30 May 2026 04:26:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Red_Frame_X/status/2060578486763602330</guid>
+    </item>
+    <item>
+      <title>ChromeOS 148 に 1 回目のマイナーアップデート (148.0.7778.214) が展開 https://t.co/5uBOOLJZnS #Chromebook</title>
+      <link>https://x.com/Helen_Tech/status/2060573980411699452</link>
+      <description>おむらまさひで(HelenTech): ChromeOS 148 に 1 回目のマイナーアップデート (148.0.7778.214) が展開 https://t.co/5uBOOLJZnS #Chromebook</description>
+      <pubDate>Sat, 30 May 2026 04:08:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2060573980411699452</guid>
+    </item>
+    <item>
+      <title>ChromeOS (?)ってどうなんだろうか？</title>
+      <link>https://x.com/09Zero_Nine/status/2060396541505069164</link>
+      <description>Zero: ChromeOS (?)ってどうなんだろうか？</description>
+      <pubDate>Fri, 29 May 2026 16:23:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/09Zero_Nine/status/2060396541505069164</guid>
+    </item>
+    <item>
       <title>実際の動作：146以降では右側のポートの充電速度が非常に遅いです。 回帰： ChromeOS 145では正常に動作します。146、147、148、ベータ版149では動作しません。 回避策：Google管理コンソールを使用してデバイスを ChromeOS 145に固定しました。</title>
       <link>https://x.com/Helen_Tech/status/2060258417252708425</link>
       <description>おむらまさひで(HelenTech): 実際の動作：146以降では右側のポートの充電速度が非常に遅いです。 回帰： ChromeOS 145では正常に動作します。146、147、148、ベータ版149では動作しません。 回避策：Google管理コンソールを使用してデバイスを ChromeOS 145に固定しました。</description>
@@ -234,48 +276,6 @@
       <description>のりお: そろそろWindowsを捨てて、 ChromeOS に移行したほうがいい気がする。</description>
       <pubDate>Tue, 26 May 2026 03:41:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/noriokagakubu/status/2059117617147949419</guid>
-    </item>
-    <item>
-      <title>🌅 I/O 2026前日、楽しみにすべき3つ 🟪 ジミー「楽しみどすえ♡」 ・Gemini新機能（Notebooks拡張・Magic Pointer） ・Aluminum OS（Android+ ChromeOS 統合） ・Android XR スマートグラス（Samsung協業） 明日のキーノート、日本時間5/20早朝🚀 #YaroTech #GoogleIO2026 #生成AI https://t.co/2rjAx0QJoe</title>
-      <link>https://x.com/yaoyoroztech/status/2059107285306421527</link>
-      <description>ヤロテク｜AI,ClaudeでワクワクDX: 🌅 I/O 2026前日、楽しみにすべき3つ 🟪 ジミー「楽しみどすえ♡」 ・Gemini新機能（Notebooks拡張・Magic Pointer） ・Aluminum OS（Android+ ChromeOS 統合） ・Android XR スマートグラス（Samsung協業） 明日のキーノート、日本時間5/20早朝🚀 #YaroTech #GoogleIO2026 #生成AI https://t.co/2rjAx0QJoe</description>
-      <pubDate>Tue, 26 May 2026 03:00:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yaoyoroztech/status/2059107285306421527</guid>
-    </item>
-    <item>
-      <title>【更新情報】 米国時間2026年5月22日、Googleから ChromeOS のセキュリティアップデート情報が公開されました（バージョン名:144.0.7559.252）。 更新が配信されましたら忘れずにアップデートしてください。 https://t.co/ouvH0aXfBD</title>
-      <link>https://x.com/cyber_forecast/status/2059097257472106685</link>
-      <description>国家サイバー統括室(注意・警戒情報): 【更新情報】 米国時間2026年5月22日、Googleから ChromeOS のセキュリティアップデート情報が公開されました（バージョン名:144.0.7559.252）。 更新が配信されましたら忘れずにアップデートしてください。 https://t.co/ouvH0aXfBD</description>
-      <pubDate>Tue, 26 May 2026 02:20:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cyber_forecast/status/2059097257472106685</guid>
-    </item>
-    <item>
-      <title>昨日は友達の配信見て、0時に寝ようとしたら寝付けなくて、さらに暑くて1時まで寝れませんでした、おはようございます(｡ρω-｡) 廃棄パソコンを再利用して ChromeOS 入れてテレビと繋げてAndroidアプリ遊びたいっていう願望と、動画編集してみたいという欲が出てきてます… 寝る時間なくなるやーつ(笑)</title>
-      <link>https://x.com/N1433143534/status/2059044946737586346</link>
-      <description>ඩිまっすーඩි: 昨日は友達の配信見て、0時に寝ようとしたら寝付けなくて、さらに暑くて1時まで寝れませんでした、おはようございます(｡ρω-｡) 廃棄パソコンを再利用して ChromeOS 入れてテレビと繋げてAndroidアプリ遊びたいっていう願望と、動画編集してみたいという欲が出てきてます… 寝る時間なくなるやーつ(笑)</description>
-      <pubDate>Mon, 25 May 2026 22:52:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/N1433143534/status/2059044946737586346</guid>
-    </item>
-    <item>
-      <title>ChromeBookのBluetooth、切断された時に前までは自動再接続できてたのに最近できなくなったな。 先日の ChromeOS のアップデートでできなくなったっぽい。 なんか、Windowsもそうだけどアップデートして不具合出るとイラっとくる。</title>
-      <link>https://x.com/84BMNihccakanaT/status/2058908707275395295</link>
-      <description>たなかっち♂(千葉): ChromeBookのBluetooth、切断された時に前までは自動再接続できてたのに最近できなくなったな。 先日の ChromeOS のアップデートでできなくなったっぽい。 なんか、Windowsもそうだけどアップデートして不具合出るとイラっとくる。</description>
-      <pubDate>Mon, 25 May 2026 13:51:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/84BMNihccakanaT/status/2058908707275395295</guid>
-    </item>
-    <item>
-      <title>弟のSurfase pro4は1年ちょっとでぶっ壊れてしまったため、CeleronのPCを買って使っていたのだが、そのPCもせっかくだから ChromeOS に書き換えるかーって思って立ち上げたらまさかのwin11アップデート対応機種で横転。</title>
-      <link>https://x.com/Rilla_kthb/status/2058883172000243755</link>
-      <description>Rilla.: 弟のSurfase pro4は1年ちょっとでぶっ壊れてしまったため、CeleronのPCを買って使っていたのだが、そのPCもせっかくだから ChromeOS に書き換えるかーって思って立ち上げたらまさかのwin11アップデート対応機種で横転。</description>
-      <pubDate>Mon, 25 May 2026 12:09:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rilla_kthb/status/2058883172000243755</guid>
-    </item>
-    <item>
-      <title>ここ数日でLinuxを５種ほど試した結果… ChromeOS なのか？ｗ｜とまじぃ@カジェオタNoter @Toma_G https://t.co/pddDygdAOi</title>
-      <link>https://x.com/Toma_G/status/2058878896754552873</link>
-      <description>とまじぃ@ガジェット×ブログ: ここ数日でLinuxを５種ほど試した結果… ChromeOS なのか？ｗ｜とまじぃ@カジェオタNoter @Toma_G https://t.co/pddDygdAOi</description>
-      <pubDate>Mon, 25 May 2026 11:52:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Toma_G/status/2058878896754552873</guid>
     </item>
   </channel>
 </rss>

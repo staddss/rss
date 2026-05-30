@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ESP32で Wireguard できるんだ #kernelvm</title>
+      <link>https://x.com/_kokt_vrc/status/2060572334503887044</link>
+      <description>こけっち: ESP32で Wireguard できるんだ #kernelvm</description>
+      <pubDate>Sat, 30 May 2026 04:01:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_kokt_vrc/status/2060572334503887044</guid>
+    </item>
+    <item>
       <title>Beryl 7 を WireGuard クライアントにして自宅LAN丸ごと持ち歩く https://t.co/kELXp6pc70 #Qiita</title>
       <link>https://x.com/gwu_book/status/2060385873334866384</link>
       <description>あぐ: Beryl 7 を WireGuard クライアントにして自宅LAN丸ごと持ち歩く https://t.co/kELXp6pc70 #Qiita</description>
       <pubDate>Fri, 29 May 2026 15:40:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gwu_book/status/2060385873334866384</guid>
+    </item>
+    <item>
+      <title>オンプレとAzure VNETをトリッキーな接続するrouterdの機能追加するテストをCodexに任せてやってみてる。Azure VM作ったりProxmox VEの仮想マシン立てたり Wireguard セットアップしたりとかのテスト計画書だけレビューしたら後はよろしくスタイルでやらせてると、まるでSIerのPMがやってる感じ。</title>
+      <link>https://x.com/imksoo/status/2060375385129488730</link>
+      <description>きりの: オンプレとAzure VNETをトリッキーな接続するrouterdの機能追加するテストをCodexに任せてやってみてる。Azure VM作ったりProxmox VEの仮想マシン立てたり Wireguard セットアップしたりとかのテスト計画書だけレビューしたら後はよろしくスタイルでやらせてると、まるでSIerのPMがやってる感じ。</description>
+      <pubDate>Fri, 29 May 2026 14:59:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/imksoo/status/2060375385129488730</guid>
     </item>
     <item>
       <title>きた！！vpsとノートPCとで wireguard 繋げれた！！</title>
@@ -262,20 +276,6 @@
       <description>小柳勝範＠札幌のIT会社の代表: @s025236 WireGuard みたいなVPNだとセキュリティもそれなりですし、そこからIP制限を突破して鍵認証って感じなんでまず乗っ取りは無理ですね</description>
       <pubDate>Thu, 21 May 2026 20:52:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/k_koyanagi_null/status/2057565123045392491</guid>
-    </item>
-    <item>
-      <title>@oicoimo4 @ccHarvestasya やっすいVPS借りて WireGuard で繋ぐとか…？</title>
-      <link>https://x.com/yatch_oe/status/2057475228591358048</link>
-      <description>やっち: @oicoimo4 @ccHarvestasya やっすいVPS借りて WireGuard で繋ぐとか…？</description>
-      <pubDate>Thu, 21 May 2026 14:54:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yatch_oe/status/2057475228591358048</guid>
-    </item>
-    <item>
-      <title>Debianで WireGuard サーバーを建てる https://t.co/IDa7XCu7Up ｳﾝ年ほど放ったらかしてたやつを書いた一旦 ミスあるかも</title>
-      <link>https://x.com/flyan495/status/2057467204543942688</link>
-      <description>ふりゃん / Tsuβaki: Debianで WireGuard サーバーを建てる https://t.co/IDa7XCu7Up ｳﾝ年ほど放ったらかしてたやつを書いた一旦 ミスあるかも</description>
-      <pubDate>Thu, 21 May 2026 14:23:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/flyan495/status/2057467204543942688</guid>
     </item>
   </channel>
 </rss>

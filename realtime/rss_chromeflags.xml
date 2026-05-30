@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>とりあえず、Chrome の chrome :// flags で Smooth Scrolling をオフにするとちょっとましになる。</title>
+      <link>https://x.com/hmatsumu/status/2060143263370338811</link>
+      <description>Hiroshi Matsumura: とりあえず、Chrome の chrome :// flags で Smooth Scrolling をオフにするとちょっとましになる。</description>
+      <pubDate>Thu, 28 May 2026 23:36:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hmatsumu/status/2060143263370338811</guid>
+    </item>
+    <item>
       <title>chromebook で開発者モードを有効にすると Debian13 の仮想マシンが pop することに偶然気づいてしまい、 chrome :// flags / で GPU を有効にして /dev/dri っていうか QSV が使えないか試してしまったんぬ。どうやらメモリが潤沢でないと GPU は開放されない仕様っぽい…（時計から目をそらしながら</title>
       <link>https://x.com/ca_tty/status/2060050809082249668</link>
       <description>Catty: chromebook で開発者モードを有効にすると Debian13 の仮想マシンが pop することに偶然気づいてしまい、 chrome :// flags / で GPU を有効にして /dev/dri っていうか QSV が使えないか試してしまったんぬ。どうやらメモリが潤沢でないと GPU は開放されない仕様っぽい…（時計から目をそらしながら</description>
