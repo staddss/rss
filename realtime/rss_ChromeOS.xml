@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/ca_tty/status/2060607956744536430</guid>
     </item>
     <item>
+      <title>現実逃避報告として一応書いておく。 chromeos を通常版からβ版に上げることで開発環境の Debian13 に /dev/dri/renderD128 が生えてくるんぬ。このデバイスを ffmpeg に渡しても動作しなかったんだけど、その前にqsv 周りのドライバを新しい仕組みに合わせて整備する必要があったのやもしれぬ。</title>
+      <link>https://x.com/ca_tty/status/2060605912935698938</link>
+      <description>Catty: 現実逃避報告として一応書いておく。 chromeos を通常版からβ版に上げることで開発環境の Debian13 に /dev/dri/renderD128 が生えてくるんぬ。このデバイスを ffmpeg に渡しても動作しなかったんだけど、その前にqsv 周りのドライバを新しい仕組みに合わせて整備する必要があったのやもしれぬ。</description>
+      <pubDate>Sat, 30 May 2026 06:15:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ca_tty/status/2060605912935698938</guid>
+    </item>
+    <item>
       <title>なんかLinuxのquick sync videoはintelによって書き直されて別規格になり、古い世代のcpuがサポート外になったっぽいんぬ。Debianでは13からそれが入ってきてるっぽくて、ffmpegにも手が入ってる。知らずに旧来のやり方で必死に chromeos をつついてた私の姿はさぞ滑稽だったろうぬ… 呪われよ…</title>
       <link>https://x.com/ca_tty/status/2060603796443791478</link>
       <description>Catty: なんかLinuxのquick sync videoはintelによって書き直されて別規格になり、古い世代のcpuがサポート外になったっぽいんぬ。Debianでは13からそれが入ってきてるっぽくて、ffmpegにも手が入ってる。知らずに旧来のやり方で必死に chromeos をつついてた私の姿はさぞ滑稽だったろうぬ… 呪われよ…</description>
@@ -269,13 +276,6 @@
       <description>たかおかずは: ChromeOS 、Corei3でも快適に動くのね…</description>
       <pubDate>Tue, 26 May 2026 06:34:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Takao_Kazuha/status/2059161164362510769</guid>
-    </item>
-    <item>
-      <title>そろそろWindowsを捨てて、 ChromeOS に移行したほうがいい気がする。</title>
-      <link>https://x.com/noriokagakubu/status/2059117617147949419</link>
-      <description>のりお: そろそろWindowsを捨てて、 ChromeOS に移行したほうがいい気がする。</description>
-      <pubDate>Tue, 26 May 2026 03:41:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noriokagakubu/status/2059117617147949419</guid>
     </item>
   </channel>
 </rss>
