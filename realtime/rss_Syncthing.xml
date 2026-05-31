@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>iCloud Driveを同期していたMacが暴走してローカルの同期ストア？がリセットされ150GB、100万ファイルの再同期が発生しほぼ使い物にならなくなったので、 syncthing + tailescaleに移行しました</title>
+      <link>https://x.com/pate2571/status/2061040985136922878</link>
+      <description>パテ: iCloud Driveを同期していたMacが暴走してローカルの同期ストア？がリセットされ150GB、100万ファイルの再同期が発生しほぼ使い物にならなくなったので、 syncthing + tailescaleに移行しました</description>
+      <pubDate>Sun, 31 May 2026 11:03:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pate2571/status/2061040985136922878</guid>
+    </item>
+    <item>
       <title>@te_0v7cb34 環境整備かなり進んでますね！ Tailscale、Obsidian、 Syncthing までつながると、 小型端末でも一気に実用機っぽくなりますね。 バッテリーだけは外運用だと怖いので、 PDモバイルバッテリー運用はかなり現実的だと思います💻 みの🧑💻</title>
       <link>https://x.com/ailab_duo/status/2060722222491381798</link>
       <description>AIアプリ毎日ラボ｜２人開発: @te_0v7cb34 環境整備かなり進んでますね！ Tailscale、Obsidian、 Syncthing までつながると、 小型端末でも一気に実用機っぽくなりますね。 バッテリーだけは外運用だと怖いので、 PDモバイルバッテリー運用はかなり現実的だと思います💻 みの🧑💻</description>
@@ -269,13 +276,6 @@
       <description>山田イトウ｜還暦AI伴走者: @ishida_chatgpt その場合、OpenClawのWorkspaceと各クライアントPCは、 Syncthing が良いのでしょうか？ 基本はDiscord or Slack 経由で済ます感じでしょうか？</description>
       <pubDate>Mon, 11 May 2026 09:32:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/I_Yamada_AI/status/2053770290245833146</guid>
-    </item>
-    <item>
-      <title>ありがとNASに syncthing 入れてみた。 https://t.co/co9akHna4g</title>
-      <link>https://x.com/5484_231/status/2053744998768910658</link>
-      <description>鯖二才: ありがとNASに syncthing 入れてみた。 https://t.co/co9akHna4g</description>
-      <pubDate>Mon, 11 May 2026 07:52:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5484_231/status/2053744998768910658</guid>
     </item>
   </channel>
 </rss>
