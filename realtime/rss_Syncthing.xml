@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@te_0v7cb34 環境整備かなり進んでますね！ Tailscale、Obsidian、 Syncthing までつながると、 小型端末でも一気に実用機っぽくなりますね。 バッテリーだけは外運用だと怖いので、 PDモバイルバッテリー運用はかなり現実的だと思います💻 みの🧑💻</title>
+      <link>https://x.com/ailab_duo/status/2060722222491381798</link>
+      <description>AIアプリ毎日ラボ｜２人開発: @te_0v7cb34 環境整備かなり進んでますね！ Tailscale、Obsidian、 Syncthing までつながると、 小型端末でも一気に実用機っぽくなりますね。 バッテリーだけは外運用だと怖いので、 PDモバイルバッテリー運用はかなり現実的だと思います💻 みの🧑💻</description>
+      <pubDate>Sat, 30 May 2026 13:57:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ailab_duo/status/2060722222491381798</guid>
+    </item>
+    <item>
       <title>grok君に聞いたら、 Syncthing がいいっぽいけどiOSデバイスが使えないっぽいので、Obsidian LiveSync (CouchDB)をお勧めされた。 で、iOSデバイスから使うときは、証明書つきの https 使わないといけないらしい。</title>
       <link>https://x.com/fuyuton/status/2060555125878673801</link>
       <description>冬斗(ふゆとん): grok君に聞いたら、 Syncthing がいいっぽいけどiOSデバイスが使えないっぽいので、Obsidian LiveSync (CouchDB)をお勧めされた。 で、iOSデバイスから使うときは、証明書つきの https 使わないといけないらしい。</description>
@@ -269,13 +276,6 @@
       <description>鯖二才: ありがとNASに syncthing 入れてみた。 https://t.co/co9akHna4g</description>
       <pubDate>Mon, 11 May 2026 07:52:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5484_231/status/2053744998768910658</guid>
-    </item>
-    <item>
-      <title>どんなバックアップ方法がいいのか分からんけど、とりあえず日常用途のやつは syncthing とrclone使ってみる。</title>
-      <link>https://x.com/5484_231/status/2053733152422801578</link>
-      <description>鯖二才: どんなバックアップ方法がいいのか分からんけど、とりあえず日常用途のやつは syncthing とrclone使ってみる。</description>
-      <pubDate>Mon, 11 May 2026 07:05:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5484_231/status/2053733152422801578</guid>
     </item>
   </channel>
 </rss>
