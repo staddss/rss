@@ -277,12 +277,5 @@
       <pubDate>Fri, 15 May 2026 18:30:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ColonelRaiden/status/2055355226891424010</guid>
     </item>
-    <item>
-      <title>chromeでSTATUS_ACCESS_VIOLATIONエラーが頻発していて、 一応、 chrome :// flags でリセットを行って、再起動をしてみたんだけど、それからXのSTATUS_ACCESS_VIOLATIONエラーは発生してない。 ただ、これで再発する場合はメモリの問題かもしれないから、一応メモリー不足にならないようにモニタリングか</title>
-      <link>https://x.com/papa3ad/status/2055349996233634087</link>
-      <description>ぱぱ3: chromeでSTATUS_ACCESS_VIOLATIONエラーが頻発していて、 一応、 chrome :// flags でリセットを行って、再起動をしてみたんだけど、それからXのSTATUS_ACCESS_VIOLATIONエラーは発生してない。 ただ、これで再発する場合はメモリの問題かもしれないから、一応メモリー不足にならないようにモニタリングか</description>
-      <pubDate>Fri, 15 May 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/papa3ad/status/2055349996233634087</guid>
-    </item>
   </channel>
 </rss>

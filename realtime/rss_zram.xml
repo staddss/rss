@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>随分前に買って置き物になってたRaspberry Pi 5 (8GB RAM)にollamaとopen webUIコンテナ入れてローカルLLM動かしてみた。最初まともに動かなかったモデル（gemma4:e2bとか）も zram 有効化したら動くようになったり、なかなか勉強になった。（安定性や応答性は厳しく実用的かと言われると難しいが)</title>
+      <link>https://x.com/cho_ompa/status/2061014005712576843</link>
+      <description>こまど: 随分前に買って置き物になってたRaspberry Pi 5 (8GB RAM)にollamaとopen webUIコンテナ入れてローカルLLM動かしてみた。最初まともに動かなかったモデル（gemma4:e2bとか）も zram 有効化したら動くようになったり、なかなか勉強になった。（安定性や応答性は厳しく実用的かと言われると難しいが)</description>
+      <pubDate>Sun, 31 May 2026 09:16:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cho_ompa/status/2061014005712576843</guid>
+    </item>
+    <item>
       <title>#Ubuntu 26.04 でデフォで有効になった #zswap という機能。簡単に言うと zram + swapfile みたいな機能ですが、 zram より処理が賢いらしく(縮まない元から圧縮されたファイルはスルーするなど)、実際使ってみて、特に古いPCで効果高くて早い。イイネ。</title>
       <link>https://x.com/NonbiNon/status/2060559555235582181</link>
       <description>ノンビ@暗号資産: #Ubuntu 26.04 でデフォで有効になった #zswap という機能。簡単に言うと zram + swapfile みたいな機能ですが、 zram より処理が賢いらしく(縮まない元から圧縮されたファイルはスルーするなど)、実際使ってみて、特に古いPCで効果高くて早い。イイネ。</description>
@@ -101,20 +108,6 @@
       <description>児玉です: Windows PCのGoogle Antigravityに手伝わせて、隣の部屋のRaspberry Pi 5に自分専用ローカルLLM環境を構築！ Phi-3.5 Miniで4.52 t/sを実現。Ollamaインストールからトラブル解決（ ZRAM 競合など）まで、AIエージェントがSSHで全部やってくれる未来の体験記です。</description>
       <pubDate>Sun, 03 May 2026 10:14:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/makodama/status/2050881758657413412</guid>
-    </item>
-    <item>
-      <title>@La_Rinascente サブPC（Windows11）の残る１つのメモリが壊れたら 買い替えるか Ubuntuマシンから拝借するかのどちらかかなー などと思いつつ ZRAM かぁ……SSDを長持ちさせるのに良さそうだね</title>
-      <link>https://x.com/Crestica_JPMabi/status/2050470449977696726</link>
-      <description>クレスティカ（JPマビノギ）: @La_Rinascente サブPC（Windows11）の残る１つのメモリが壊れたら 買い替えるか Ubuntuマシンから拝借するかのどちらかかなー などと思いつつ ZRAM かぁ……SSDを長持ちさせるのに良さそうだね</description>
-      <pubDate>Sat, 02 May 2026 07:00:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Crestica_JPMabi/status/2050470449977696726</guid>
-    </item>
-    <item>
-      <title>@Crestica_JPMabi Ubuntuに zram 導入</title>
-      <link>https://x.com/La_Rinascente/status/2050468116526993879</link>
-      <description>La Rinascente: @Crestica_JPMabi Ubuntuに zram 導入</description>
-      <pubDate>Sat, 02 May 2026 06:51:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/La_Rinascente/status/2050468116526993879</guid>
     </item>
     <item>
       <title>これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。 https://t.co/wBofA5ex3g</title>
