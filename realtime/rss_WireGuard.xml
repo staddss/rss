@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/vpnnavi/status/2061308142684623031</guid>
     </item>
     <item>
+      <title>QNAPのNASってARMのコアだと WireGuard 非対応なんですか。そうですか。</title>
+      <link>https://x.com/yamagu09/status/2061275267684065483</link>
+      <description>やまぐちだいすけ ％ 足元にはご注意を: QNAPのNASってARMのコアだと WireGuard 非対応なんですか。そうですか。</description>
+      <pubDate>Mon, 01 Jun 2026 02:34:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamagu09/status/2061275267684065483</guid>
+    </item>
+    <item>
       <title>自宅から出ると Wireguard VPNに繋ぐのをTaskerで自動化 音楽は自宅HDDに置いておきVPN越しにSMBで繋いで聴く というのを妄想するけどどうかなあ https://t.co/DqF0U8BGkv</title>
       <link>https://x.com/NIJITTN/status/2061144649058988303</link>
       <description>にったん: 自宅から出ると Wireguard VPNに繋ぐのをTaskerで自動化 音楽は自宅HDDに置いておきVPN越しにSMBで繋いで聴く というのを妄想するけどどうかなあ https://t.co/DqF0U8BGkv</description>
@@ -269,13 +276,6 @@
       <description>はしゅー: wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</description>
       <pubDate>Sat, 23 May 2026 11:40:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hsur/status/2058151136855789846</guid>
-    </item>
-    <item>
-      <title>IP層は地上のどこかにサーバを置いておき、UDPで3経路から送受信して、品質により早い者勝ち or 2D1P or ストライピングモードで流せば良い。その上にOpenVPNか WireGuard でも流しておけば良い。</title>
-      <link>https://x.com/ohtsuji/status/2058075662716702894</link>
-      <description>Ohtsuji: IP層は地上のどこかにサーバを置いておき、UDPで3経路から送受信して、品質により早い者勝ち or 2D1P or ストライピングモードで流せば良い。その上にOpenVPNか WireGuard でも流しておけば良い。</description>
-      <pubDate>Sat, 23 May 2026 06:40:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ohtsuji/status/2058075662716702894</guid>
     </item>
   </channel>
 </rss>

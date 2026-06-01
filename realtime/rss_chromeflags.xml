@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やれやれ……。 chrome :// flags /#gemini を開いて、 * Enable toolbar Gemini button on horizontal tab strip → Enabled * Skills → Enabled にして再起動すると「設定」ページに「AIイノベーション」が表示される。 そんでキーボードショートカット「^G」を削除すればオッケー。</title>
+      <link>https://x.com/ma_angie/status/2061333114111336878</link>
+      <description>まアンジー: やれやれ……。 chrome :// flags /#gemini を開いて、 * Enable toolbar Gemini button on horizontal tab strip → Enabled * Skills → Enabled にして再起動すると「設定」ページに「AIイノベーション」が表示される。 そんでキーボードショートカット「^G」を削除すればオッケー。</description>
+      <pubDate>Mon, 01 Jun 2026 06:24:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ma_angie/status/2061333114111336878</guid>
+    </item>
+    <item>
       <title>とりあえず、Chrome の chrome :// flags で Smooth Scrolling をオフにするとちょっとましになる。</title>
       <link>https://x.com/hmatsumu/status/2060143263370338811</link>
       <description>Hiroshi Matsumura: とりあえず、Chrome の chrome :// flags で Smooth Scrolling をオフにするとちょっとましになる。</description>
@@ -269,13 +276,6 @@
       <description>フンフン丸: Chrome早く直せ直せ直せ 再インストールも拡張機能オフもアクセラレーションOFFも Chrome flags も全部弄ってんだよこっちは https://t.co/Sgyadiw0FK</description>
       <pubDate>Fri, 15 May 2026 19:42:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/funfunmarururu/status/2055373163329155286</guid>
-    </item>
-    <item>
-      <title>うん直った。 ①Chromeアドレスバーに chrome :// flags / と入力 ②「Choose ANGLE graphics backend」を検索 ③D3D11（またはD3D11on12）を選択 ④Chrome再起動 https://t.co/TRdCOrNsli</title>
-      <link>https://x.com/ColonelRaiden/status/2055355226891424010</link>
-      <description>らいでんお兄さんYouTuber(腰痛ber): うん直った。 ①Chromeアドレスバーに chrome :// flags / と入力 ②「Choose ANGLE graphics backend」を検索 ③D3D11（またはD3D11on12）を選択 ④Chrome再起動 https://t.co/TRdCOrNsli</description>
-      <pubDate>Fri, 15 May 2026 18:30:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ColonelRaiden/status/2055355226891424010</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</title>
+      <link>https://x.com/pate2571/status/2061082366517670002</link>
+      <description>パテ: syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</description>
+      <pubDate>Sun, 31 May 2026 13:48:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pate2571/status/2061082366517670002</guid>
+    </item>
+    <item>
       <title>iCloud Driveを同期していたMacが暴走してローカルの同期ストア？がリセットされ150GB、100万ファイルの再同期が発生しほぼ使い物にならなくなったので、 syncthing + tailescaleに移行しました</title>
       <link>https://x.com/pate2571/status/2061040985136922878</link>
       <description>パテ: iCloud Driveを同期していたMacが暴走してローカルの同期ストア？がリセットされ150GB、100万ファイルの再同期が発生しほぼ使い物にならなくなったので、 syncthing + tailescaleに移行しました</description>
@@ -269,13 +276,6 @@
       <description>YAMA: 「自分のデータは自分で持つ」を具現化する、究極の P2P ファイル同期ツール Syncthing 。 クラウド（中央サーバー）を一切介さず、PC、スマホ、サーバー間で直接ファイルを同期。ストレージ容量の制限も、月額課金も、プライバシーの懸念もなし。TLS 暗号化と ID</description>
       <pubDate>Tue, 12 May 2026 00:45:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/BeykeyCrypto/status/2053999881740816651</guid>
-    </item>
-    <item>
-      <title>@ishida_chatgpt その場合、OpenClawのWorkspaceと各クライアントPCは、 Syncthing が良いのでしょうか？ 基本はDiscord or Slack 経由で済ます感じでしょうか？</title>
-      <link>https://x.com/I_Yamada_AI/status/2053770290245833146</link>
-      <description>山田イトウ｜還暦AI伴走者: @ishida_chatgpt その場合、OpenClawのWorkspaceと各クライアントPCは、 Syncthing が良いのでしょうか？ 基本はDiscord or Slack 経由で済ます感じでしょうか？</description>
-      <pubDate>Mon, 11 May 2026 09:32:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/I_Yamada_AI/status/2053770290245833146</guid>
     </item>
   </channel>
 </rss>
