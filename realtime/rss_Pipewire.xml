@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ArchLinux 2026.06.01続き Proxmoxで ArchLinux 2026.06.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで OKですね〜😅 https://t.co/PGiysUjj1H</title>
+      <link>https://x.com/markun8633/status/2061535344991068243</link>
+      <description>まーくん: ArchLinux 2026.06.01続き Proxmoxで ArchLinux 2026.06.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで OKですね〜😅 https://t.co/PGiysUjj1H</description>
+      <pubDate>Mon, 01 Jun 2026 19:48:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun8633/status/2061535344991068243</guid>
+    </item>
+    <item>
+      <title>Linux Mint の Hypnotix で音が出なくなったので、pavucontrol を入れて、設定を見たら、音量が x だった。そこを開けたら音が出た。 ~/.config/mpv/mpv.conf で明示的に PipeWire を指定しておく。</title>
+      <link>https://x.com/sc_ri66/status/2061428840799609208</link>
+      <description>scr: Linux Mint の Hypnotix で音が出なくなったので、pavucontrol を入れて、設定を見たら、音量が x だった。そこを開けたら音が出た。 ~/.config/mpv/mpv.conf で明示的に PipeWire を指定しておく。</description>
+      <pubDate>Mon, 01 Jun 2026 12:45:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sc_ri66/status/2061428840799609208</guid>
+    </item>
+    <item>
       <title>Flatpak版の PipeWire をインストすればバージョンを上げられるのだが、巨大なKDE環境もついてくるので止めた。 ※ OS周りの肥大化は全体のパフォーマンス低下につながる。なにしろ、パワーが足りないミニPCなので。</title>
       <link>https://x.com/duckygduck2023/status/2061397249960354084</link>
       <description>あひる2023: Flatpak版の PipeWire をインストすればバージョンを上げられるのだが、巨大なKDE環境もついてくるので止めた。 ※ OS周りの肥大化は全体のパフォーマンス低下につながる。なにしろ、パワーが足りないミニPCなので。</description>
