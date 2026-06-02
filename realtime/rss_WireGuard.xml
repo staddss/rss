@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>UDR7のteleport VPN上手くいかんなって週末ハマってたんだけどなんかキャリアごとのv6網の作りの違いっぽい？UQは通って楽天は繋がらないとか。なんで？楽天もIPv6自体は普通に来てる。v6の有無じゃなくて網で WireGuard の通信が往復できるかどうかの差なのかなあ。わからん。 https://t.co/kIgg0HugUs</title>
+      <link>https://x.com/katokonigiry/status/2061626421131534707</link>
+      <description>katoko(かとこ): UDR7のteleport VPN上手くいかんなって週末ハマってたんだけどなんかキャリアごとのv6網の作りの違いっぽい？UQは通って楽天は繋がらないとか。なんで？楽天もIPv6自体は普通に来てる。v6の有無じゃなくて網で WireGuard の通信が往復できるかどうかの差なのかなあ。わからん。 https://t.co/kIgg0HugUs</description>
+      <pubDate>Tue, 02 Jun 2026 01:50:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/katokonigiry/status/2061626421131534707</guid>
+    </item>
+    <item>
+      <title>Androidスマホで恐らく一番シンプルにPTCGLを遊ぶ方法をまとめました！ 【2026年6月1日時点】AndroidスマホでPTCGLを無料プレイできるようにした話【Proton VPN × WireGuard 】 #ポケカ https://t.co/Z8b7B3neap</title>
+      <link>https://x.com/oshi_pokeca/status/2061386004511240473</link>
+      <description>ポケカ推し工房: Androidスマホで恐らく一番シンプルにPTCGLを遊ぶ方法をまとめました！ 【2026年6月1日時点】AndroidスマホでPTCGLを無料プレイできるようにした話【Proton VPN × WireGuard 】 #ポケカ https://t.co/Z8b7B3neap</description>
+      <pubDate>Mon, 01 Jun 2026 09:54:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oshi_pokeca/status/2061386004511240473</guid>
+    </item>
+    <item>
       <title>【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</title>
       <link>https://x.com/vpnnavi/status/2061308142684623031</link>
       <description>VPNナビ: 【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</description>
@@ -129,13 +143,6 @@
       <description>苗場翔 / Picolix Design: WireGuard を使って自宅‐実家(リフォーム中)をサーバー間VPN接続していますが、実家停電、復電後VPNが自動で張れていない。 ルーター起動前にサーバー起動完了しているため、 WireGuard がDNSを引けず起動失敗していた模様。失敗時に遅延処理再起動を入れた。</description>
       <pubDate>Thu, 28 May 2026 23:58:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nae2sho/status/2060148704183722141</guid>
-    </item>
-    <item>
-      <title>さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</title>
-      <link>https://x.com/SofiRomeira/status/2060097018333372712</link>
-      <description>Fosia: さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</description>
-      <pubDate>Thu, 28 May 2026 20:32:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SofiRomeira/status/2060097018333372712</guid>
     </item>
     <item>
       <title>これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale ( WireGuard ) Syncthing</title>
@@ -269,13 +276,6 @@
       <description>勉強勉强勉強勉強: 普通にこれまで通りルーターのポート開けてNASと WireGuard で通信するようにすればすんなりいくだろうし間違いなく楽なんだけど、ハッタショのこだわりでどうしてもルーターをVPNホストにしたい。たった数%の環境向上のために何時間も割いてる、いつもそう</description>
       <pubDate>Sat, 23 May 2026 16:22:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/KiJiReTeJiRoA/status/2058222136993669610</guid>
-    </item>
-    <item>
-      <title>wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</title>
-      <link>https://x.com/hsur/status/2058151136855789846</link>
-      <description>はしゅー: wireguard で1Gbpsくらい出て消費電力が少ない安いルーターってないかなぁ。</description>
-      <pubDate>Sat, 23 May 2026 11:40:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hsur/status/2058151136855789846</guid>
     </item>
   </channel>
 </rss>

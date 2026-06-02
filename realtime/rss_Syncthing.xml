@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</title>
+      <link>https://x.com/MedRecMate/status/2061422305293861331</link>
+      <description>るま＠カルテメイト 個人開発者✕開業医: QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</description>
+      <pubDate>Mon, 01 Jun 2026 12:19:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MedRecMate/status/2061422305293861331</guid>
+    </item>
+    <item>
       <title>syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</title>
       <link>https://x.com/pate2571/status/2061082366517670002</link>
       <description>パテ: syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</description>
@@ -101,13 +108,6 @@
       <description>Naoの裏側: TailscaleのおかげでFinder/iosファイアプリ両方で全サーバーのファイル管理も可能（MacはSambaってやつ）（差分同期は Syncthing がいいみたいなので次やる）</description>
       <pubDate>Sat, 23 May 2026 04:29:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/HarmNao_UraAca/status/2058042590549950733</guid>
-    </item>
-    <item>
-      <title>keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</title>
-      <link>https://x.com/thomasbarniesos/status/2058003225169859060</link>
-      <description>Thomas Barneveld: keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</description>
-      <pubDate>Sat, 23 May 2026 01:52:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/thomasbarniesos/status/2058003225169859060</guid>
     </item>
     <item>
       <title>パスワード管理をBitwardenからKeePassXCに乗り換えた。 こっちのほうがUIがわかりやすい 唯一の問題点は公式のAndroidアプリがないことだけど、KeePassDXと Syncthing で解決 BitwardenアプリよりもKeePassDXの方がアプリの入力欄を見落とさないので有能だと思う KeePassXC https://t.co/BpQVCjydzO</title>
