@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing とかいうフォルダの同期させるサービス使い始めたけど、なんか止まるなあ https://t.co/YdbJqyrWad</title>
+      <link>https://x.com/public_zakojb/status/2061676559698919610</link>
+      <description>zakojb: Syncthing とかいうフォルダの同期させるサービス使い始めたけど、なんか止まるなあ https://t.co/YdbJqyrWad</description>
+      <pubDate>Tue, 02 Jun 2026 05:09:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/public_zakojb/status/2061676559698919610</guid>
+    </item>
+    <item>
       <title>QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</title>
       <link>https://x.com/MedRecMate/status/2061422305293861331</link>
       <description>るま＠カルテメイト 個人開発者✕開業医: QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</description>
@@ -269,13 +276,6 @@
       <description>きりお: 何年かぶりに Syncthing 使ったけどなんだかんだ使い安くて好き</description>
       <pubDate>Tue, 12 May 2026 03:18:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kirio66/status/2054038471904551331</guid>
-    </item>
-    <item>
-      <title>「自分のデータは自分で持つ」を具現化する、究極の P2P ファイル同期ツール Syncthing 。 クラウド（中央サーバー）を一切介さず、PC、スマホ、サーバー間で直接ファイルを同期。ストレージ容量の制限も、月額課金も、プライバシーの懸念もなし。TLS 暗号化と ID</title>
-      <link>https://x.com/BeykeyCrypto/status/2053999881740816651</link>
-      <description>YAMA: 「自分のデータは自分で持つ」を具現化する、究極の P2P ファイル同期ツール Syncthing 。 クラウド（中央サーバー）を一切介さず、PC、スマホ、サーバー間で直接ファイルを同期。ストレージ容量の制限も、月額課金も、プライバシーの懸念もなし。TLS 暗号化と ID</description>
-      <pubDate>Tue, 12 May 2026 00:45:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/BeykeyCrypto/status/2053999881740816651</guid>
     </item>
   </channel>
 </rss>

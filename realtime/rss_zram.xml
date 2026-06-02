@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やりすぎた・・・。本当にやりすぎた。 zram やzswapやcgroupとglibcの環境変数(MALLOC_ARENA_MAX)をつかってDBを 匿名メモリーの削減とswapにページフォールトしない設計を考えてしまった。あああ</title>
+      <link>https://x.com/hacker_infra/status/2061412096265552098</link>
+      <description>OS開発者: やりすぎた・・・。本当にやりすぎた。 zram やzswapやcgroupとglibcの環境変数(MALLOC_ARENA_MAX)をつかってDBを 匿名メモリーの削減とswapにページフォールトしない設計を考えてしまった。あああ</description>
+      <pubDate>Mon, 01 Jun 2026 11:38:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hacker_infra/status/2061412096265552098</guid>
+    </item>
+    <item>
       <title>今まで知らずにディスク領域にswap確保してたわ😂 zram swap使ってみよう https://t.co/ofgzeDHwG3</title>
       <link>https://x.com/tamorieeeen/status/2061346946170880393</link>
       <description>筋肉が欲しいもりんちゅ: 今まで知らずにディスク領域にswap確保してたわ😂 zram swap使ってみよう https://t.co/ofgzeDHwG3</description>
@@ -108,13 +115,6 @@
       <description>すばる: LockerStudioが重たい。PC古いから仕方ないんだけど zram 使ってスワップで固まる時間は減った Win10だったらもうまともに動いてないだろうな これで動くメモリとプロプライエタリドライバが使えるグラボほしい https://t.co/cLBygFOkmy</description>
       <pubDate>Sun, 03 May 2026 13:59:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/C0KOfQdaoDIy30l/status/2050938343106707709</guid>
-    </item>
-    <item>
-      <title>Windows PCのGoogle Antigravityに手伝わせて、隣の部屋のRaspberry Pi 5に自分専用ローカルLLM環境を構築！ Phi-3.5 Miniで4.52 t/sを実現。Ollamaインストールからトラブル解決（ ZRAM 競合など）まで、AIエージェントがSSHで全部やってくれる未来の体験記です。</title>
-      <link>https://x.com/makodama/status/2050881758657413412</link>
-      <description>児玉です: Windows PCのGoogle Antigravityに手伝わせて、隣の部屋のRaspberry Pi 5に自分専用ローカルLLM環境を構築！ Phi-3.5 Miniで4.52 t/sを実現。Ollamaインストールからトラブル解決（ ZRAM 競合など）まで、AIエージェントがSSHで全部やってくれる未来の体験記です。</description>
-      <pubDate>Sun, 03 May 2026 10:14:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/makodama/status/2050881758657413412</guid>
     </item>
     <item>
       <title>これ、Linuxマシンとしてよさそう。 イーサネット2つついてるのも良い。 Linuxだと zram 使えばメモリ圧縮できるからメモリ少ないパソコンでもうごく。 Debianだと4GBのMacBook Airでも普通に動いてる。 https://t.co/wBofA5ex3g</title>
