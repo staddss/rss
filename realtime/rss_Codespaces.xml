@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</title>
+      <link>https://x.com/note_harumaki/status/2061584350257553665</link>
+      <description>はるまき: note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</description>
+      <pubDate>Mon, 01 Jun 2026 23:03:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/note_harumaki/status/2061584350257553665</guid>
+    </item>
+    <item>
       <title>@keiri_IS 直近のシステム導入テストの話ともつながりますが、非エンジニアのAI活用は「何を作るか」より先に、触らせるデータ・権限・実行環境・戻し方を決めるのが入口だと思います。 Codespaces 運用なら、リポジトリ権限/秘密情報/外部送信/ログ確認を最初のチェックリスト化すると学びやすそうです。</title>
       <link>https://x.com/sigure1216/status/2060702185768591485</link>
       <description>0xShin.md: @keiri_IS 直近のシステム導入テストの話ともつながりますが、非エンジニアのAI活用は「何を作るか」より先に、触らせるデータ・権限・実行環境・戻し方を決めるのが入口だと思います。 Codespaces 運用なら、リポジトリ権限/秘密情報/外部送信/ログ確認を最初のチェックリスト化すると学びやすそうです。</description>
@@ -269,13 +276,6 @@
       <description>Kenta.Kase: GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</description>
       <pubDate>Wed, 13 May 2026 02:34:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Kesin11/status/2054389890859806836</guid>
-    </item>
-    <item>
-      <title>エグ過ぎる codespaces 民で良かった… https://t.co/1GqqY3eqXI</title>
-      <link>https://x.com/yubasashi/status/2054337250956321051</link>
-      <description>ゆば刺し: エグ過ぎる codespaces 民で良かった… https://t.co/1GqqY3eqXI</description>
-      <pubDate>Tue, 12 May 2026 23:05:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yubasashi/status/2054337250956321051</guid>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/markun8633/status/2061535344991068243</guid>
     </item>
     <item>
+      <title>今のところこのパッチが Pipewire で頻発するout of buffers問題を解決してくれるのでは、と希望を持っています。まだビルドしてないけど。 https://t.co/nlHXqO4ohi</title>
+      <link>https://x.com/nobuto_m/status/2061479037667807555</link>
+      <description>Nobuto Murata: 今のところこのパッチが Pipewire で頻発するout of buffers問題を解決してくれるのでは、と希望を持っています。まだビルドしてないけど。 https://t.co/nlHXqO4ohi</description>
+      <pubDate>Mon, 01 Jun 2026 16:04:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nobuto_m/status/2061479037667807555</guid>
+    </item>
+    <item>
       <title>Linux Mint の Hypnotix で音が出なくなったので、pavucontrol を入れて、設定を見たら、音量が x だった。そこを開けたら音が出た。 ~/.config/mpv/mpv.conf で明示的に PipeWire を指定しておく。</title>
       <link>https://x.com/sc_ri66/status/2061428840799609208</link>
       <description>scr: Linux Mint の Hypnotix で音が出なくなったので、pavucontrol を入れて、設定を見たら、音量が x だった。そこを開けたら音が出た。 ~/.config/mpv/mpv.conf で明示的に PipeWire を指定しておく。</description>
