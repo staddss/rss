@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>IKEv2/IPsecはRFC4555のおかげでロードウォリアーでは Wireguard よりも便利 L2TP/IPsec(IKEv1)はさっさと淘汰されてほしい https://t.co/i7012SR3HW</title>
+      <link>https://x.com/___Nova___/status/2062219976120152449</link>
+      <description>めてお: IKEv2/IPsecはRFC4555のおかげでロードウォリアーでは Wireguard よりも便利 L2TP/IPsec(IKEv1)はさっさと淘汰されてほしい https://t.co/i7012SR3HW</description>
+      <pubDate>Wed, 03 Jun 2026 17:08:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/___Nova___/status/2062219976120152449</guid>
+    </item>
+    <item>
+      <title>正直 Wireguard を使う動機がぜんぜん思い浮かばないので引き続き IPsec です。 https://t.co/ZFs6u7vy79</title>
+      <link>https://x.com/Tsutomu_KIMURA/status/2062218504666034463</link>
+      <description>Tsutomu KIMURA: 正直 Wireguard を使う動機がぜんぜん思い浮かばないので引き続き IPsec です。 https://t.co/ZFs6u7vy79</description>
+      <pubDate>Wed, 03 Jun 2026 17:03:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tsutomu_KIMURA/status/2062218504666034463</guid>
+    </item>
+    <item>
+      <title>wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</title>
+      <link>https://x.com/m_akihiro/status/2062215613523910829</link>
+      <description>まきひろ: wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</description>
+      <pubDate>Wed, 03 Jun 2026 16:51:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215613523910829</guid>
+    </item>
+    <item>
+      <title>IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</title>
+      <link>https://x.com/m_akihiro/status/2062215068687990794</link>
+      <description>まきひろ: IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</description>
+      <pubDate>Wed, 03 Jun 2026 16:49:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215068687990794</guid>
+    </item>
+    <item>
+      <title>WireGuard はいいぞ</title>
+      <link>https://x.com/Rim_Earthlights/status/2062176667431547344</link>
+      <description>りーむ: WireGuard はいいぞ</description>
+      <pubDate>Wed, 03 Jun 2026 14:16:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Rim_Earthlights/status/2062176667431547344</guid>
+    </item>
+    <item>
       <title>wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</title>
       <link>https://x.com/anya_tokugawa/status/2062159551949099116</link>
       <description>anya: wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</description>
@@ -241,41 +276,6 @@
       <description>悠希@ariela: 自宅VPNをIPSecから WireGuard に切り替える実験中。とりあえずコネクションまで確認完了。 しばらく使ってみて詰まり解消されたら本切替かな。</description>
       <pubDate>Wed, 27 May 2026 10:42:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ariela/status/2059586150642368878</guid>
-    </item>
-    <item>
-      <title>さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</title>
-      <link>https://x.com/sakuacid/status/2059564998628982798</link>
-      <description>さく: さくらのクラウドもUniFi CloudGateway も どちらも WireGuard に対応はするが リモートアクセスとしての利用にとどまり 拠点間通信としての設定は不可 ※UniFi同士はSite Magic機能で内部的に WireGuard を使用するが。</description>
-      <pubDate>Wed, 27 May 2026 09:18:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakuacid/status/2059564998628982798</guid>
-    </item>
-    <item>
-      <title>仕様がオープンなOpenVPNや WireGuard においては接続設定において経路を設定できるわけですが、PokeVPNでは設定ファイルには接続サーバと認証情報、接続に関するオプションフラグしか記載がありません。であれば、VPNサーバ側に接続後にさらなる制御をしているものと思い込んでました。</title>
-      <link>https://x.com/odpLn8yGmyH56c/status/2059523800589586936</link>
-      <description>ガチじゃない熊: 仕様がオープンなOpenVPNや WireGuard においては接続設定において経路を設定できるわけですが、PokeVPNでは設定ファイルには接続サーバと認証情報、接続に関するオプションフラグしか記載がありません。であれば、VPNサーバ側に接続後にさらなる制御をしているものと思い込んでました。</description>
-      <pubDate>Wed, 27 May 2026 06:35:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2059523800589586936</guid>
-    </item>
-    <item>
-      <title>Wireguard の運用楽すぎる さいこうだな</title>
-      <link>https://x.com/v34103080/status/2059512823080976387</link>
-      <description>v34びょう: Wireguard の運用楽すぎる さいこうだな</description>
-      <pubDate>Wed, 27 May 2026 05:51:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/v34103080/status/2059512823080976387</guid>
-    </item>
-    <item>
-      <title>ローカルのProxmox上のJitsiを、VPS+ WireGuard で公開するまでの実録ログ〜Cloudflare Tunnelで詰まり、prosody 13で沼った一日〜｜くまかけ https://t.co/FjV7wdlg9p</title>
-      <link>https://x.com/kumapress1/status/2059447108458119511</link>
-      <description>kumapress: ローカルのProxmox上のJitsiを、VPS+ WireGuard で公開するまでの実録ログ〜Cloudflare Tunnelで詰まり、prosody 13で沼った一日〜｜くまかけ https://t.co/FjV7wdlg9p</description>
-      <pubDate>Wed, 27 May 2026 01:30:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kumapress1/status/2059447108458119511</guid>
-    </item>
-    <item>
-      <title>スマホから自宅の wireguard に繋がるのに、iPadから繋がらん。なんで。</title>
-      <link>https://x.com/fumikstyles/status/2059261586934780164</link>
-      <description>IS: スマホから自宅の wireguard に繋がるのに、iPadから繋がらん。なんで。</description>
-      <pubDate>Tue, 26 May 2026 13:13:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fumikstyles/status/2059261586934780164</guid>
     </item>
   </channel>
 </rss>

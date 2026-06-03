@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing -Forkでモバイルデータオフにしてるのに、データ使用設定にしてない方のSIMが使われて一瞬で0になったから気をつけて しかもこの時WiFi（他のスマホテザリング）に繋がってたからね いや家では起きないからそれが関係してバグってるかも OSの設定側でも個別にアプリのSIMオフしないと危ない https://t.co/bcesZU7h7H</title>
+      <link>https://x.com/tube_333/status/2062064627039748275</link>
+      <description>つべ: Syncthing -Forkでモバイルデータオフにしてるのに、データ使用設定にしてない方のSIMが使われて一瞬で0になったから気をつけて しかもこの時WiFi（他のスマホテザリング）に繋がってたからね いや家では起きないからそれが関係してバグってるかも OSの設定側でも個別にアプリのSIMオフしないと危ない https://t.co/bcesZU7h7H</description>
+      <pubDate>Wed, 03 Jun 2026 06:51:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tube_333/status/2062064627039748275</guid>
+    </item>
+    <item>
       <title>クラウド経由せずにPCとスマホでメモ同期したいな〜とふと思い、色々調べてobsidianと syncthing がうまくいったのでなんとなく安心を得た。これでどんな創作メモや妄想を綴ってもどこかがBANされることはない。</title>
       <link>https://x.com/magickirby/status/2061748357035597945</link>
       <description>MagicKirby: クラウド経由せずにPCとスマホでメモ同期したいな〜とふと思い、色々調べてobsidianと syncthing がうまくいったのでなんとなく安心を得た。これでどんな創作メモや妄想を綴ってもどこかがBANされることはない。</description>
@@ -269,13 +276,6 @@
       <description>ぬこぬこ / NUKO 🇯🇵: 4 ヶ月間使っていた Syncthing を外した！ありがとう！ ghq と Codex App Connections で十分だった https://t.co/SXVHmoWCpk</description>
       <pubDate>Tue, 12 May 2026 15:14:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nukonuko/status/2054218543714160890</guid>
-    </item>
-    <item>
-      <title>堀元さんに Syncthing (Synctrain)の存在を教えたすぎる コンピュータ科学の超難問「同期」。 https://t.co/BnDeMc6bdc @YouTubeより</title>
-      <link>https://x.com/lunaticlives/status/2054049672491352343</link>
-      <description>雷之電.rs@古明地ゲー体験版出ました: 堀元さんに Syncthing (Synctrain)の存在を教えたすぎる コンピュータ科学の超難問「同期」。 https://t.co/BnDeMc6bdc @YouTubeより</description>
-      <pubDate>Tue, 12 May 2026 04:02:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lunaticlives/status/2054049672491352343</guid>
     </item>
   </channel>
 </rss>
