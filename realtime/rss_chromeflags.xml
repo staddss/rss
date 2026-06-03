@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>何かの表示にEnableにした chrome :// flags /#enable-experimental-web-platform-features をDisabledにしたら解消したかも…？</title>
+      <link>https://x.com/mushroom080/status/2061899995654299713</link>
+      <description>マッシュルーム: 何かの表示にEnableにした chrome :// flags /#enable-experimental-web-platform-features をDisabledにしたら解消したかも…？</description>
+      <pubDate>Tue, 02 Jun 2026 19:57:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mushroom080/status/2061899995654299713</guid>
+    </item>
+    <item>
       <title>またSTATUS_ACCESS_VIOLATION頻発してたけど chrome : flags のExperimental Web Platform features変えたら治った</title>
       <link>https://x.com/sasliwer/status/2061425960399028719</link>
       <description>sas: またSTATUS_ACCESS_VIOLATION頻発してたけど chrome : flags のExperimental Web Platform features変えたら治った</description>
@@ -269,13 +276,6 @@
       <description>なす子様: TwitterでSTATUS_ACCESS_VIOLATION問題。 色々調べた結果治った。 chrome :// flags /の Choose ANGLE graphics backendをD3D11にするとなす子様の環境は安定した。 他の人は知らない。キミはキミだ。</description>
       <pubDate>Sat, 16 May 2026 00:00:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Nascon/status/2055438115909882342</guid>
-    </item>
-    <item>
-      <title>クロムでSTATUS_ACCESS_VIOLATION とかいうエラーが多発する、、、 chrome :// flags とかも試したけど直らん</title>
-      <link>https://x.com/nimomoninimo1/status/2055403525107253486</link>
-      <description>鍋冠: クロムでSTATUS_ACCESS_VIOLATION とかいうエラーが多発する、、、 chrome :// flags とかも試したけど直らん</description>
-      <pubDate>Fri, 15 May 2026 21:42:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nimomoninimo1/status/2055403525107253486</guid>
     </item>
   </channel>
 </rss>

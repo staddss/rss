@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</title>
+      <link>https://x.com/hogegashi/status/2061950593401499858</link>
+      <description>YAEGASHI Takeshi: GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</description>
+      <pubDate>Tue, 02 Jun 2026 23:18:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hogegashi/status/2061950593401499858</guid>
+    </item>
+    <item>
       <title>note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</title>
       <link>https://x.com/note_harumaki/status/2061584350257553665</link>
       <description>はるまき: note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</description>
@@ -269,13 +276,6 @@
       <description>+818045559406: 「GitHub Codespaces を利用した開発環境の構築」タスクをクリアしました！ https://t.co/gjxastCA1X #ProgatePath #Progate</description>
       <pubDate>Wed, 13 May 2026 12:48:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TkRteonMRm9589/status/2054544190802133491</guid>
-    </item>
-    <item>
-      <title>GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</title>
-      <link>https://x.com/Kesin11/status/2054389890859806836</link>
-      <description>Kenta.Kase: GitHub Copilot Cloude Agentが利用するシークレットがGitHub Actionsから独立し、Org単位でも設定可能になった。 Codespaces やDependabotはすでに独立して設定可能だったので、それらと同様に設定可能になったとのこと / https://t.co/AvZJW4ABn9</description>
-      <pubDate>Wed, 13 May 2026 02:34:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kesin11/status/2054389890859806836</guid>
     </item>
   </channel>
 </rss>
