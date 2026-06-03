@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</title>
+      <link>https://x.com/anya_tokugawa/status/2062159551949099116</link>
+      <description>anya: wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</description>
+      <pubDate>Wed, 03 Jun 2026 13:08:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/anya_tokugawa/status/2062159551949099116</guid>
+    </item>
+    <item>
+      <title>@chekke1999 昔CiscoとBrocadeでIPsec接続試験をしたことがあります😊 暗号化方式を合わせてもなぜか繋がらず苦労した記憶があります… WireGuard くらいシンプルだと嬉しいですが、企業間接続はまだまだIPsecが多い印象です。</title>
+      <link>https://x.com/PpkunSe/status/2062156651562709094</link>
+      <description>パパくんはSE: @chekke1999 昔CiscoとBrocadeでIPsec接続試験をしたことがあります😊 暗号化方式を合わせてもなぜか繋がらず苦労した記憶があります… WireGuard くらいシンプルだと嬉しいですが、企業間接続はまだまだIPsecが多い印象です。</description>
+      <pubDate>Wed, 03 Jun 2026 12:57:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PpkunSe/status/2062156651562709094</guid>
+    </item>
+    <item>
+      <title>Wireguard …とっても気になってるのですがお家VPNを Wireguard でするにあたって買える10G対応のVPN ルータや機材って何になるのかしら…… やたらGeminiさんにも推されてるし…気になってるんですよね…… https://t.co/dzUqn3xUeD</title>
+      <link>https://x.com/hiiro_usagi/status/2062106566690738414</link>
+      <description>灰色 うさぎ(ハイイロ　ウサギ): Wireguard …とっても気になってるのですがお家VPNを Wireguard でするにあたって買える10G対応のVPN ルータや機材って何になるのかしら…… やたらGeminiさんにも推されてるし…気になってるんですよね…… https://t.co/dzUqn3xUeD</description>
+      <pubDate>Wed, 03 Jun 2026 09:38:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiiro_usagi/status/2062106566690738414</guid>
+    </item>
+    <item>
       <title>自分が検証してないのとNEだった経験もあってあまりVPNで wireguard で張るっていう感覚がなくて場合によるけど基本IPsecでやっていた。 そんなに良いものなの？ 拠点間とかVPN張るだけとか色々条件は付きものだけど https://t.co/s4rGKiNoLS</title>
       <link>https://x.com/yutogestalt/status/2062054702821605793</link>
       <description>ゆうと,yuto🇵🇭×🇯🇵(ハーフ、ミックス): 自分が検証してないのとNEだった経験もあってあまりVPNで wireguard で張るっていう感覚がなくて場合によるけど基本IPsecでやっていた。 そんなに良いものなの？ 拠点間とかVPN張るだけとか色々条件は付きものだけど https://t.co/s4rGKiNoLS</description>
@@ -255,27 +276,6 @@
       <description>IS: スマホから自宅の wireguard に繋がるのに、iPadから繋がらん。なんで。</description>
       <pubDate>Tue, 26 May 2026 13:13:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fumikstyles/status/2059261586934780164</guid>
-    </item>
-    <item>
-      <title>@shi3z Tailscaleの無料プランは100台まで接続可能で、個人開発者には十分すぎる仕様ですね。 WireGuard ベースで設定も簡単だから、VPN構築の敷居が一気に下がった印象です。</title>
-      <link>https://x.com/airiaiai8/status/2059057394198708430</link>
-      <description>あいり｜海外AIニュースを毎日届ける人: @shi3z Tailscaleの無料プランは100台まで接続可能で、個人開発者には十分すぎる仕様ですね。 WireGuard ベースで設定も簡単だから、VPN構築の敷居が一気に下がった印象です。</description>
-      <pubDate>Mon, 25 May 2026 23:41:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/airiaiai8/status/2059057394198708430</guid>
-    </item>
-    <item>
-      <title>android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</title>
-      <link>https://x.com/chikamizuki1993/status/2058860781803098573</link>
-      <description>瑞輝智佳@遊現怪舎エージーテクソル／代表取り締まられ役舎長: android 端末に WireGuard を入れてみたんだけど…… android ってアプリ毎に VPN に流すか否かが All or Nothing なのね。 WireGuard 側で AllowedIPs の設定を細かく入れると、それ以外のネットワークがまとめてドロップされるから使いにくいったらありゃしない。 あと .local</description>
-      <pubDate>Mon, 25 May 2026 10:40:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chikamizuki1993/status/2058860781803098573</guid>
-    </item>
-    <item>
-      <title>Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</title>
-      <link>https://x.com/yuumediatown/status/2058689505226576038</link>
-      <description>封神龍（新型コロナワクチン5回目接種仕様）: Tailscale（ WireGuard による高速VPN）、最近Tailscale稼働している仮想環境のLinux環境のDocker環境、このLinux自体を再起動したり、ホストのMac miniを再起動しても接続が途切れなくなった？何度かDocker再構築している時に最新版があたり安定したか？ https://t.co/ZdtZFnPNmO</description>
-      <pubDate>Sun, 24 May 2026 23:20:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuumediatown/status/2058689505226576038</guid>
     </item>
   </channel>
 </rss>

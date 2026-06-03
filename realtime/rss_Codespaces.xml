@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Codespaces でLangFlowのフローが消えちゃう問題あるけどLANGFLOW_CONFIG_DIRとかで指定っぽい $ docker run -p 7860:7860 -e LANGFLOW_CONFIG_DIR=/app/langflow -e LANGFLOW_SAVE_DB_IN_CONFIG_DIR=True -e LANGFLOW_DATABASE_URL=sqlite:////app/langflow/langflow.db ...(略 https://t.co/Ov3bVfcYSv</title>
+      <link>https://x.com/n0bisuke/status/2062147928299336011</link>
+      <description>菅原のびすけ: Codespaces でLangFlowのフローが消えちゃう問題あるけどLANGFLOW_CONFIG_DIRとかで指定っぽい $ docker run -p 7860:7860 -e LANGFLOW_CONFIG_DIR=/app/langflow -e LANGFLOW_SAVE_DB_IN_CONFIG_DIR=True -e LANGFLOW_DATABASE_URL=sqlite:////app/langflow/langflow.db ...(略 https://t.co/Ov3bVfcYSv</description>
+      <pubDate>Wed, 03 Jun 2026 12:22:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n0bisuke/status/2062147928299336011</guid>
+    </item>
+    <item>
       <title>GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</title>
       <link>https://x.com/hogegashi/status/2061950593401499858</link>
       <description>YAEGASHI Takeshi: GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</description>
       <pubDate>Tue, 02 Jun 2026 23:18:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hogegashi/status/2061950593401499858</guid>
+    </item>
+    <item>
+      <title>codespaces 便利がいいけど無料枠超えたら2コアでも30円/時なのGPUインスタンスかて</title>
+      <link>https://x.com/sub_sub__sub___/status/2061825616400486643</link>
+      <description>たろう: codespaces 便利がいいけど無料枠超えたら2コアでも30円/時なのGPUインスタンスかて</description>
+      <pubDate>Tue, 02 Jun 2026 15:01:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sub_sub__sub___/status/2061825616400486643</guid>
     </item>
     <item>
       <title>note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</title>
@@ -262,20 +276,6 @@
       <description>☕️: GitHubの Codespaces を覚えた</description>
       <pubDate>Thu, 14 May 2026 08:14:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/c0__ffee/status/2054837772738031754</guid>
-    </item>
-    <item>
-      <title>AIにコーディングさせてみようの「GitHub Codespaces を利用した開発環境の構築」をクリアしました！ https://t.co/NZP80ZfDdb #Progate</title>
-      <link>https://x.com/TkRteonMRm9589/status/2054547870561534261</link>
-      <description>+818045559406: AIにコーディングさせてみようの「GitHub Codespaces を利用した開発環境の構築」をクリアしました！ https://t.co/NZP80ZfDdb #Progate</description>
-      <pubDate>Wed, 13 May 2026 13:02:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TkRteonMRm9589/status/2054547870561534261</guid>
-    </item>
-    <item>
-      <title>「GitHub Codespaces を利用した開発環境の構築」タスクをクリアしました！ https://t.co/gjxastCA1X #ProgatePath #Progate</title>
-      <link>https://x.com/TkRteonMRm9589/status/2054544190802133491</link>
-      <description>+818045559406: 「GitHub Codespaces を利用した開発環境の構築」タスクをクリアしました！ https://t.co/gjxastCA1X #ProgatePath #Progate</description>
-      <pubDate>Wed, 13 May 2026 12:48:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TkRteonMRm9589/status/2054544190802133491</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chromeのAI勝手にインスコ問題、URLに「 chrome :// flags /#optimization-guide-on-device-model」を入力、DefaultからDisabledにして再起動。</title>
+      <link>https://x.com/kino_bou/status/2062066390719516980</link>
+      <description>木野慕う(きのぼう): chromeのAI勝手にインスコ問題、URLに「 chrome :// flags /#optimization-guide-on-device-model」を入力、DefaultからDisabledにして再起動。</description>
+      <pubDate>Wed, 03 Jun 2026 06:58:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kino_bou/status/2062066390719516980</guid>
+    </item>
+    <item>
       <title>何かの表示にEnableにした chrome :// flags /#enable-experimental-web-platform-features をDisabledにしたら解消したかも…？</title>
       <link>https://x.com/mushroom080/status/2061899995654299713</link>
       <description>マッシュルーム: 何かの表示にEnableにした chrome :// flags /#enable-experimental-web-platform-features をDisabledにしたら解消したかも…？</description>
@@ -269,13 +276,6 @@
       <description>syugita@Spock(青軸同盟結成中、有志もとむ): GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中の以下の設定を&quot;D3D9&quot;にする。 Choose ANGLE graphics backend 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug https://t.co/JMOrsy6xXj</description>
       <pubDate>Sat, 16 May 2026 00:12:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/syugita/status/2055441192146579752</guid>
-    </item>
-    <item>
-      <title>TwitterでSTATUS_ACCESS_VIOLATION問題。 色々調べた結果治った。 chrome :// flags /の Choose ANGLE graphics backendをD3D11にするとなす子様の環境は安定した。 他の人は知らない。キミはキミだ。</title>
-      <link>https://x.com/Nascon/status/2055438115909882342</link>
-      <description>なす子様: TwitterでSTATUS_ACCESS_VIOLATION問題。 色々調べた結果治った。 chrome :// flags /の Choose ANGLE graphics backendをD3D11にするとなす子様の環境は安定した。 他の人は知らない。キミはキミだ。</description>
-      <pubDate>Sat, 16 May 2026 00:00:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Nascon/status/2055438115909882342</guid>
     </item>
   </channel>
 </rss>

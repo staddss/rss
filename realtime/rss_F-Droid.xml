@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>言っていたAPKのSHA-256です。 F - Droid で今後公開される予定である(現在MRを出して微調整中です)、LLMと私で作った&quot;Audio Visualizer&quot;のAPKファイルの署名にこれが適用されているはずです。 AllowedAPKSigningKeys: c9812e0591a0182fff8323dd045557b8d1bcc33f8e3fcd255567828608b76c58</title>
+      <link>https://x.com/Rinoprogram/status/2062087707871060469</link>
+      <description>りの/Rino-program🟢: 言っていたAPKのSHA-256です。 F - Droid で今後公開される予定である(現在MRを出して微調整中です)、LLMと私で作った&quot;Audio Visualizer&quot;のAPKファイルの署名にこれが適用されているはずです。 AllowedAPKSigningKeys: c9812e0591a0182fff8323dd045557b8d1bcc33f8e3fcd255567828608b76c58</description>
+      <pubDate>Wed, 03 Jun 2026 08:23:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Rinoprogram/status/2062087707871060469</guid>
+    </item>
+    <item>
       <title>その前にapkが F - Droid 側とGitHubActions側で結果が違うのがやばい、再現性のないビルドで出来ない。 誰か助けてほしい https://t.co/I6BKzArVIJ</title>
       <link>https://x.com/Rinoprogram/status/2062016591123067030</link>
       <description>りの/Rino-program🟢: その前にapkが F - Droid 側とGitHubActions側で結果が違うのがやばい、再現性のないビルドで出来ない。 誰か助けてほしい https://t.co/I6BKzArVIJ</description>
@@ -269,13 +276,6 @@
       <description>あいや🐕aiya000-型システム&amp;Neovim&amp;ClaudeCode&amp;Devin&amp;Haskell: &gt; GitHubだけで配布されているAndroid用アプリを F - Droid のようにインストールして管理＆自動更新できる「Obtainium」 皆さんAndroidOSSアプリ界隈をよろしく⋯！ Googleさんが危うくしようとしているので、 F - Droid やObtainium・IzzyDroidなどを認知してもらえるだけでも！ https://t.co/vUFjvP5PBH</description>
       <pubDate>Mon, 11 May 2026 07:36:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/public_ai000ya/status/2053740920441639143</guid>
-    </item>
-    <item>
-      <title>GitHubだけで配布されているAndroid用アプリを F - Droid のようにインストールして管理＆自動更新できる「Obtainium」レビュー https://t.co/P3Us2Pl6Bd</title>
-      <link>https://x.com/mhatta/status/2053608446923088232</link>
-      <description>Masayuki Hatta: GitHubだけで配布されているAndroid用アプリを F - Droid のようにインストールして管理＆自動更新できる「Obtainium」レビュー https://t.co/P3Us2Pl6Bd</description>
-      <pubDate>Sun, 10 May 2026 22:49:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mhatta/status/2053608446923088232</guid>
     </item>
   </channel>
 </rss>
