@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Uliboooo 多分ですが、macOSでWKdm + LZ4によるメモリ圧縮をしてるからですかね？（Linuxでいう ZRAM ） Apple SiliconはLZ4をハードウェアレベルで最適化していて、SoCからOSまで垂直統合で最適化しているのが強そう...</title>
+      <link>https://x.com/stdio_world/status/2062491105460097034</link>
+      <description>DΙΟ: @Uliboooo 多分ですが、macOSでWKdm + LZ4によるメモリ圧縮をしてるからですかね？（Linuxでいう ZRAM ） Apple SiliconはLZ4をハードウェアレベルで最適化していて、SoCからOSまで垂直統合で最適化しているのが強そう...</description>
+      <pubDate>Thu, 04 Jun 2026 11:06:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/stdio_world/status/2062491105460097034</guid>
+    </item>
+    <item>
       <title>・`https://t.co/NetJgmClYG` では 7GiB の連続書き込み（4M blocks）で約1.3GB/s。NVMeより低レイテンシで、 zram をすでに使っているノートなら VRAM swap の優先度を高くして SSD 退避を最後に回すのが実用的。</title>
       <link>https://x.com/AyakaT_AI/status/2062015946789884147</link>
       <description>アヤカ: ・`https://t.co/NetJgmClYG` では 7GiB の連続書き込み（4M blocks）で約1.3GB/s。NVMeより低レイテンシで、 zram をすでに使っているノートなら VRAM swap の優先度を高くして SSD 退避を最後に回すのが実用的。</description>
@@ -269,20 +276,6 @@
       <description>Delete: @Leqf_Apple 実際、この機能は役に立たず、単なる見せかけのスイッチです。有効にしても、システムは実際にはスワップを使用せず、 zram のサイズも増加せず、バックグラウンド処理機能も向上しません。😅 https://t.co/5Jf8JvDUAe</description>
       <pubDate>Sun, 10 May 2026 07:17:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/De1ete2333/status/2053373907672187309</guid>
-    </item>
-    <item>
-      <title>クライアントは zram swapを8GB設定して、 スワップファイルは消した サーバも同じく zram swapを8GB設定して、 スワップファイルは16GBにしたんだけど、 CIランナーとして使うとスワップ領域めっちゃ活用するし、 SSD時代なのでもっとスワップ増やしてもいいかも? メインメモリは64GBだし</title>
-      <link>https://x.com/ncaq/status/2053049950024671533</link>
-      <description>エヌユル: クライアントは zram swapを8GB設定して、 スワップファイルは消した サーバも同じく zram swapを8GB設定して、 スワップファイルは16GBにしたんだけど、 CIランナーとして使うとスワップ領域めっちゃ活用するし、 SSD時代なのでもっとスワップ増やしてもいいかも? メインメモリは64GBだし</description>
-      <pubDate>Sat, 09 May 2026 09:50:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ncaq/status/2053049950024671533</guid>
-    </item>
-    <item>
-      <title>@ncaq 確かにOOMで落とされたほうが都合が良いシナリオなら zram 単体もアリですね……Androidとかそんな感じですし…… swapの構造を変えたらswappinessの調整も必要となりそうですが、それはそれで……</title>
-      <link>https://x.com/rikki_312/status/2052277026007183392</link>
-      <description>リッキー: @ncaq 確かにOOMで落とされたほうが都合が良いシナリオなら zram 単体もアリですね……Androidとかそんな感じですし…… swapの構造を変えたらswappinessの調整も必要となりそうですが、それはそれで……</description>
-      <pubDate>Thu, 07 May 2026 06:39:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rikki_312/status/2052277026007183392</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>1年ぶりのラズパイ WireGuard 運用💦 L2TP通らないNURO光等が増えてるので WireGuard でのVPNは0にはできないんだよねぇ😂 pivpn add でVPNユーザー追加しようとしたら、SSHコマンドほぼ忘れててIP欄に名前ぶち込んで大混乱w</title>
+      <link>https://x.com/DIGIUSAGI/status/2062467012287508705</link>
+      <description>コレサワシゲユキ／でこうさぎ: 1年ぶりのラズパイ WireGuard 運用💦 L2TP通らないNURO光等が増えてるので WireGuard でのVPNは0にはできないんだよねぇ😂 pivpn add でVPNユーザー追加しようとしたら、SSHコマンドほぼ忘れててIP欄に名前ぶち込んで大混乱w</description>
+      <pubDate>Thu, 04 Jun 2026 09:30:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2062467012287508705</guid>
+    </item>
+    <item>
       <title>wireguard の解説はfadisさんのスライドがよかった https://t.co/Wy0ojSVouJ</title>
       <link>https://x.com/m_akihiro/status/2062401376681079245</link>
       <description>まきひろ: wireguard の解説はfadisさんのスライドがよかった https://t.co/Wy0ojSVouJ</description>
@@ -269,13 +276,6 @@
       <description>xkf_: VPN ..🤔 L2TP, WireGuard , OpenVPNとか行けなくてもShadowsocks, Trojan, VLESS, Vmessぐらいは使える可能性が微レ存 https://t.co/S8Vobpn6br</description>
       <pubDate>Thu, 28 May 2026 00:33:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/xkf_dev/status/2059795266275090676</guid>
-    </item>
-    <item>
-      <title>仮想ルーターではないが、LINUXに Wireguard とFRRを入れるとOSPF経路を吐いてくれるので便利。 #ITネタ https://t.co/8o5xwjacdv</title>
-      <link>https://x.com/shonanlitore/status/2059774948852576567</link>
-      <description>横浜のIT屋: 仮想ルーターではないが、LINUXに Wireguard とFRRを入れるとOSPF経路を吐いてくれるので便利。 #ITネタ https://t.co/8o5xwjacdv</description>
-      <pubDate>Wed, 27 May 2026 23:13:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shonanlitore/status/2059774948852576567</guid>
     </item>
   </channel>
 </rss>
