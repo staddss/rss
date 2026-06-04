@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>情弱過ぎて、今ごろ rclone にgdrive連携させました スクショ（→編集可能）→自動gdrive→自動共有リンククリップボード化に成功しました https://t.co/oJFB3mMrwv</title>
+      <link>https://x.com/HarmNao/status/2062369512650051614</link>
+      <description>Naoの動画マーケ脳: 情弱過ぎて、今ごろ rclone にgdrive連携させました スクショ（→編集可能）→自動gdrive→自動共有リンククリップボード化に成功しました https://t.co/oJFB3mMrwv</description>
+      <pubDate>Thu, 04 Jun 2026 03:03:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HarmNao/status/2062369512650051614</guid>
+    </item>
+    <item>
       <title>rclone すごいプレイブラストしたらローカルとgdriveにmp4でアップロードしてくれるのすごい楽</title>
       <link>https://x.com/mrtmgogo/status/2061854258820247654</link>
       <description>mrtm: rclone すごいプレイブラストしたらローカルとgdriveにmp4でアップロードしてくれるのすごい楽</description>
@@ -269,20 +276,6 @@
       <description>YANO Yasuhiro: @sho_towelman 最初の設定、ちょっとクセあるけど rclone で クラウドドライブ to クラウドドライブがコマンドラインでコピーできるよ！</description>
       <pubDate>Mon, 11 May 2026 17:04:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yyano/status/2053883920840790457</guid>
-    </item>
-    <item>
-      <title>どんなバックアップ方法がいいのか分からんけど、とりあえず日常用途のやつはsyncthingと rclone 使ってみる。</title>
-      <link>https://x.com/5484_231/status/2053733152422801578</link>
-      <description>鯖二才: どんなバックアップ方法がいいのか分からんけど、とりあえず日常用途のやつはsyncthingと rclone 使ってみる。</description>
-      <pubDate>Mon, 11 May 2026 07:05:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5484_231/status/2053733152422801578</guid>
-    </item>
-    <item>
-      <title>一応うちのobsidian+corsorの同期は、主がgoogle driveとして、pcは rclone 、スマホはDriveSyncを設定、ともに一定時間で自動同期。 かつ、使用後にそれぞれ強制同期。しばらく使わないならそのまま放っておく。 です。</title>
-      <link>https://x.com/sivainusky/status/2053359545796505754</link>
-      <description>シヴァイヌスキー: 一応うちのobsidian+corsorの同期は、主がgoogle driveとして、pcは rclone 、スマホはDriveSyncを設定、ともに一定時間で自動同期。 かつ、使用後にそれぞれ強制同期。しばらく使わないならそのまま放っておく。 です。</description>
-      <pubDate>Sun, 10 May 2026 06:20:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sivainusky/status/2053359545796505754</guid>
     </item>
   </channel>
 </rss>

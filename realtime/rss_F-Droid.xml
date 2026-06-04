@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ncaq F - Droid には載ってたのでそれは一安心でしたね……とはいえ後継があるとなお良いのですけど……</title>
+      <link>https://x.com/rikki_312/status/2062409131861094705</link>
+      <description>リッキー: @ncaq F - Droid には載ってたのでそれは一安心でしたね……とはいえ後継があるとなお良いのですけど……</description>
+      <pubDate>Thu, 04 Jun 2026 05:40:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rikki_312/status/2062409131861094705</guid>
+    </item>
+    <item>
+      <title>オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/8A42xmzX5s #KeepAndroidOpen</title>
+      <link>https://x.com/SogoogleK51859/status/2062094034953461941</link>
+      <description>nico: オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/8A42xmzX5s #KeepAndroidOpen</description>
+      <pubDate>Wed, 03 Jun 2026 08:48:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SogoogleK51859/status/2062094034953461941</guid>
+    </item>
+    <item>
       <title>言っていたAPKのSHA-256です。 F - Droid で今後公開される予定である(現在MRを出して微調整中です)、LLMと私で作った&quot;Audio Visualizer&quot;のAPKファイルの署名にこれが適用されているはずです。 AllowedAPKSigningKeys: c9812e0591a0182fff8323dd045557b8d1bcc33f8e3fcd255567828608b76c58</title>
       <link>https://x.com/Rinoprogram/status/2062087707871060469</link>
       <description>りの/Rino-program🟢: 言っていたAPKのSHA-256です。 F - Droid で今後公開される予定である(現在MRを出して微調整中です)、LLMと私で作った&quot;Audio Visualizer&quot;のAPKファイルの署名にこれが適用されているはずです。 AllowedAPKSigningKeys: c9812e0591a0182fff8323dd045557b8d1bcc33f8e3fcd255567828608b76c58</description>
@@ -262,20 +276,6 @@
       <description>ねみぃ: @tsukubei ・dynamicSpot (Android版dynamic island) https://t.co/dzLzUXm4YL ・StandBy(Android版standby) https://t.co/R5xSfWDJg8 PlayStoreにはないけど F Droid (アプリストア)https://t.co/r2fYjLgfc4 Droid-ify(アプリストアhttps://t.co/2lSDSEWAUz) ・ArchiveTune(音楽) https://t.co/OQNlKW4Kv9</description>
       <pubDate>Wed, 13 May 2026 03:09:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nemy_new/status/2054398498783781246</guid>
-    </item>
-    <item>
-      <title>reCATPCHAが認証用アプリをOSSで作って、 F - Droid で配信すれば、Google Play開発者サービスかそれのどちらかを選ばせることができそう https://t.co/LBHkKVd3GC</title>
-      <link>https://x.com/public_ai000ya/status/2054067993496502576</link>
-      <description>あいや🐕aiya000-型システム&amp;Neovim&amp;ClaudeCode&amp;Devin&amp;Haskell: reCATPCHAが認証用アプリをOSSで作って、 F - Droid で配信すれば、Google Play開発者サービスかそれのどちらかを選ばせることができそう https://t.co/LBHkKVd3GC</description>
-      <pubDate>Tue, 12 May 2026 05:15:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/public_ai000ya/status/2054067993496502576</guid>
-    </item>
-    <item>
-      <title>&gt; GitHubだけで配布されているAndroid用アプリを F - Droid のようにインストールして管理＆自動更新できる「Obtainium」 皆さんAndroidOSSアプリ界隈をよろしく⋯！ Googleさんが危うくしようとしているので、 F - Droid やObtainium・IzzyDroidなどを認知してもらえるだけでも！ https://t.co/vUFjvP5PBH</title>
-      <link>https://x.com/public_ai000ya/status/2053740920441639143</link>
-      <description>あいや🐕aiya000-型システム&amp;Neovim&amp;ClaudeCode&amp;Devin&amp;Haskell: &gt; GitHubだけで配布されているAndroid用アプリを F - Droid のようにインストールして管理＆自動更新できる「Obtainium」 皆さんAndroidOSSアプリ界隈をよろしく⋯！ Googleさんが危うくしようとしているので、 F - Droid やObtainium・IzzyDroidなどを認知してもらえるだけでも！ https://t.co/vUFjvP5PBH</description>
-      <pubDate>Mon, 11 May 2026 07:36:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/public_ai000ya/status/2053740920441639143</guid>
     </item>
   </channel>
 </rss>

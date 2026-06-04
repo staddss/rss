@@ -102,19 +102,5 @@
       <pubDate>Tue, 05 May 2026 23:53:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techs44576/status/2051812435829649489</guid>
     </item>
-    <item>
-      <title>あきらめて --netfilter-mode=off している / CGNAT の衝突は Tailscale 自身も困っていて ChromeOS Crostini が使うレンジをアドホックに除外している https://t.co/AbzuAiXUHn / “Tailscaleやめたい - まいの雑記帳” https://t.co/JZxLOqi8fh</title>
-      <link>https://x.com/yosida95/status/2051527204253966649</link>
-      <description>よしだ: あきらめて --netfilter-mode=off している / CGNAT の衝突は Tailscale 自身も困っていて ChromeOS Crostini が使うレンジをアドホックに除外している https://t.co/AbzuAiXUHn / “Tailscaleやめたい - まいの雑記帳” https://t.co/JZxLOqi8fh</description>
-      <pubDate>Tue, 05 May 2026 04:59:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yosida95/status/2051527204253966649</guid>
-    </item>
-    <item>
-      <title>Crostini 環境でCodex App使えた。Petも作れたよ。 https://t.co/UtwQLb3p9O</title>
-      <link>https://x.com/techs44576/status/2051461163565867379</link>
-      <description>techs_targe: Crostini 環境でCodex App使えた。Petも作れたよ。 https://t.co/UtwQLb3p9O</description>
-      <pubDate>Tue, 05 May 2026 00:37:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techs44576/status/2051461163565867379</guid>
-    </item>
   </channel>
 </rss>

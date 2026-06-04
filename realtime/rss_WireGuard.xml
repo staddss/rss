@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard の解説はfadisさんのスライドがよかった https://t.co/Wy0ojSVouJ</title>
+      <link>https://x.com/m_akihiro/status/2062401376681079245</link>
+      <description>まきひろ: wireguard の解説はfadisさんのスライドがよかった https://t.co/Wy0ojSVouJ</description>
+      <pubDate>Thu, 04 Jun 2026 05:09:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062401376681079245</guid>
+    </item>
+    <item>
       <title>IKEv2/IPsecはRFC4555のおかげでロードウォリアーでは Wireguard よりも便利 L2TP/IPsec(IKEv1)はさっさと淘汰されてほしい https://t.co/i7012SR3HW</title>
       <link>https://x.com/___Nova___/status/2062219976120152449</link>
       <description>めてお: IKEv2/IPsecはRFC4555のおかげでロードウォリアーでは Wireguard よりも便利 L2TP/IPsec(IKEv1)はさっさと淘汰されてほしい https://t.co/i7012SR3HW</description>
@@ -24,13 +31,6 @@
       <description>まきひろ: wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</description>
       <pubDate>Wed, 03 Jun 2026 16:51:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215613523910829</guid>
-    </item>
-    <item>
-      <title>IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</title>
-      <link>https://x.com/m_akihiro/status/2062215068687990794</link>
-      <description>まきひろ: IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</description>
-      <pubDate>Wed, 03 Jun 2026 16:49:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215068687990794</guid>
     </item>
     <item>
       <title>WireGuard はいいぞ</title>
@@ -80,6 +80,13 @@
       <description>テコタク-techotakulab: 【ゲーム向けVPN選び方】 WireGuard 系（NordLynx/Lightway）：追加+5〜15ms OpenVPN（UDP）：追加+30ms以上→ゲームには非推奨 競技FPSでVPNを使うなら WireGuard 対応が最低条件です。 https://t.co/Fy3yFqWab6</description>
       <pubDate>Wed, 03 Jun 2026 03:04:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techotakulab/status/2062007415575314642</guid>
+    </item>
+    <item>
+      <title>IPsecマジで意味分からんから Wireguard が業界標準になってほしい。</title>
+      <link>https://x.com/chekke1999/status/2061997616435802427</link>
+      <description>ちぇけ: IPsecマジで意味分からんから Wireguard が業界標準になってほしい。</description>
+      <pubDate>Wed, 03 Jun 2026 02:25:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chekke1999/status/2061997616435802427</guid>
     </item>
     <item>
       <title>なんとなくでやったNGN網折り返し WireGuard 、どう構築したか忘れちゃったから再構築するのめんどすぎる……💥</title>
@@ -269,13 +276,6 @@
       <description>横浜のIT屋: 仮想ルーターではないが、LINUXに Wireguard とFRRを入れるとOSPF経路を吐いてくれるので便利。 #ITネタ https://t.co/8o5xwjacdv</description>
       <pubDate>Wed, 27 May 2026 23:13:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shonanlitore/status/2059774948852576567</guid>
-    </item>
-    <item>
-      <title>自宅VPNをIPSecから WireGuard に切り替える実験中。とりあえずコネクションまで確認完了。 しばらく使ってみて詰まり解消されたら本切替かな。</title>
-      <link>https://x.com/ariela/status/2059586150642368878</link>
-      <description>悠希@ariela: 自宅VPNをIPSecから WireGuard に切り替える実験中。とりあえずコネクションまで確認完了。 しばらく使ってみて詰まり解消されたら本切替かな。</description>
-      <pubDate>Wed, 27 May 2026 10:42:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ariela/status/2059586150642368878</guid>
     </item>
   </channel>
 </rss>

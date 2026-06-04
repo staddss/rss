@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>朝からclaudeに繋がらなくて… メモリがなくなったのかと焦りまくった結果… これで直った!!! ①Chromeのアドレスバーに以下を入力してEnter chrome :// flags / ②上部の検索窓に quic と入力 ③Experimental QUIC protocol という項目を探す ④右側のドロップダウンを Disabled（無効） に変更 https://t.co/uAsLXfNayu</title>
+      <link>https://x.com/3s_rolling/status/2062372720239931632</link>
+      <description>八重コウミ 5月まだ100円→50万＠副業収益化: 朝からclaudeに繋がらなくて… メモリがなくなったのかと焦りまくった結果… これで直った!!! ①Chromeのアドレスバーに以下を入力してEnter chrome :// flags / ②上部の検索窓に quic と入力 ③Experimental QUIC protocol という項目を探す ④右側のドロップダウンを Disabled（無効） に変更 https://t.co/uAsLXfNayu</description>
+      <pubDate>Thu, 04 Jun 2026 03:15:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/3s_rolling/status/2062372720239931632</guid>
+    </item>
+    <item>
       <title>chromeのAI勝手にインスコ問題、URLに「 chrome :// flags /#optimization-guide-on-device-model」を入力、DefaultからDisabledにして再起動。</title>
       <link>https://x.com/kino_bou/status/2062066390719516980</link>
       <description>木野慕う(きのぼう): chromeのAI勝手にインスコ問題、URLに「 chrome :// flags /#optimization-guide-on-device-model」を入力、DefaultからDisabledにして再起動。</description>
@@ -269,13 +276,6 @@
       <description>ドラレコ主義: GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中 &quot;Choose ANGLE graphics backend&quot;を &quot;D3D9&quot;にする。 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug</description>
       <pubDate>Sat, 16 May 2026 00:18:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/drarecsyugi/status/2055442669925745063</guid>
-    </item>
-    <item>
-      <title>GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中の以下の設定を&quot;D3D9&quot;にする。 Choose ANGLE graphics backend 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug https://t.co/JMOrsy6xXj</title>
-      <link>https://x.com/syugita/status/2055441192146579752</link>
-      <description>syugita@Spock(青軸同盟結成中、有志もとむ): GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中の以下の設定を&quot;D3D9&quot;にする。 Choose ANGLE graphics backend 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug https://t.co/JMOrsy6xXj</description>
-      <pubDate>Sat, 16 May 2026 00:12:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/syugita/status/2055441192146579752</guid>
     </item>
   </channel>
 </rss>
