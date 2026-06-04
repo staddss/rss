@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kiyosan_life @Shibu_beta @nifty うちも自宅サーバーあるんですが、非公開はTailscaleで、公開用は手前にVPS置いて Wireguard でトンネリングして外からのアクセスはVPS経由にしましたね 正直これで事足りちゃってるので、固定IP契約いらんくね？となった次第で</title>
+      <link>https://x.com/minatochang/status/2062567961010094223</link>
+      <description>巳波みなと / minato86: @kiyosan_life @Shibu_beta @nifty うちも自宅サーバーあるんですが、非公開はTailscaleで、公開用は手前にVPS置いて Wireguard でトンネリングして外からのアクセスはVPS経由にしましたね 正直これで事足りちゃってるので、固定IP契約いらんくね？となった次第で</description>
+      <pubDate>Thu, 04 Jun 2026 16:11:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/minatochang/status/2062567961010094223</guid>
+    </item>
+    <item>
+      <title>記事を投稿しました！ WireGuard を使ったVPN設定：MAP-E（v6プラス）編 https://t.co/bqx5cq2KhM #Qiita</title>
+      <link>https://x.com/maestroshinichi/status/2062513515290890383</link>
+      <description>まえすとろ: 記事を投稿しました！ WireGuard を使ったVPN設定：MAP-E（v6プラス）編 https://t.co/bqx5cq2KhM #Qiita</description>
+      <pubDate>Thu, 04 Jun 2026 12:35:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maestroshinichi/status/2062513515290890383</guid>
+    </item>
+    <item>
       <title>1年ぶりのラズパイ WireGuard 運用💦 L2TP通らないNURO光等が増えてるので WireGuard でのVPNは0にはできないんだよねぇ😂 pivpn add でVPNユーザー追加しようとしたら、SSHコマンドほぼ忘れててIP欄に名前ぶち込んで大混乱w</title>
       <link>https://x.com/DIGIUSAGI/status/2062467012287508705</link>
       <description>コレサワシゲユキ／でこうさぎ: 1年ぶりのラズパイ WireGuard 運用💦 L2TP通らないNURO光等が増えてるので WireGuard でのVPNは0にはできないんだよねぇ😂 pivpn add でVPNユーザー追加しようとしたら、SSHコマンドほぼ忘れててIP欄に名前ぶち込んで大混乱w</description>
@@ -262,20 +276,6 @@
       <description>ten: Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</description>
       <pubDate>Thu, 28 May 2026 05:42:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tenaiaiai/status/2059872968004735071</guid>
-    </item>
-    <item>
-      <title>WireGuard だと事前に設定ファイル内にルーティング情報を入れておくことはできるけどOpenVPNにあるようなサーバからのpushができないので今後のIP追加に追従できないわけだ。なるほどねー</title>
-      <link>https://x.com/odpLn8yGmyH56c/status/2059863172530774055</link>
-      <description>ガチじゃない熊: WireGuard だと事前に設定ファイル内にルーティング情報を入れておくことはできるけどOpenVPNにあるようなサーバからのpushができないので今後のIP追加に追従できないわけだ。なるほどねー</description>
-      <pubDate>Thu, 28 May 2026 05:03:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/odpLn8yGmyH56c/status/2059863172530774055</guid>
-    </item>
-    <item>
-      <title>VPN ..🤔 L2TP, WireGuard , OpenVPNとか行けなくてもShadowsocks, Trojan, VLESS, Vmessぐらいは使える可能性が微レ存 https://t.co/S8Vobpn6br</title>
-      <link>https://x.com/xkf_dev/status/2059795266275090676</link>
-      <description>xkf_: VPN ..🤔 L2TP, WireGuard , OpenVPNとか行けなくてもShadowsocks, Trojan, VLESS, Vmessぐらいは使える可能性が微レ存 https://t.co/S8Vobpn6br</description>
-      <pubDate>Thu, 28 May 2026 00:33:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/xkf_dev/status/2059795266275090676</guid>
     </item>
   </channel>
 </rss>

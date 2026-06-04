@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>noteの2本目を書きました。 今回は「GitHub Codespaces って何？」を、初心者目線でまとめています。 「ブラウザで使える作業部屋」と考えたら、だいぶわかりやすくなりました。 GitHub Codespaces って何？初心者が最初に混乱したこと https://t.co/PQdQYKid61</title>
+      <link>https://x.com/note_harumaki/status/2062280464468148351</link>
+      <description>はるまき｜ChatGPTとGitHubでbotを作る人: noteの2本目を書きました。 今回は「GitHub Codespaces って何？」を、初心者目線でまとめています。 「ブラウザで使える作業部屋」と考えたら、だいぶわかりやすくなりました。 GitHub Codespaces って何？初心者が最初に混乱したこと https://t.co/PQdQYKid61</description>
+      <pubDate>Wed, 03 Jun 2026 21:09:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/note_harumaki/status/2062280464468148351</guid>
+    </item>
+    <item>
       <title>Codespaces でLangFlowのフローが消えちゃう問題あるけどLANGFLOW_CONFIG_DIRとかで指定っぽい $ docker run -p 7860:7860 -e LANGFLOW_CONFIG_DIR=/app/langflow -e LANGFLOW_SAVE_DB_IN_CONFIG_DIR=True -e LANGFLOW_DATABASE_URL=sqlite:////app/langflow/langflow.db ...(略 https://t.co/Ov3bVfcYSv</title>
       <link>https://x.com/n0bisuke/status/2062147928299336011</link>
       <description>菅原のびすけ: Codespaces でLangFlowのフローが消えちゃう問題あるけどLANGFLOW_CONFIG_DIRとかで指定っぽい $ docker run -p 7860:7860 -e LANGFLOW_CONFIG_DIR=/app/langflow -e LANGFLOW_SAVE_DB_IN_CONFIG_DIR=True -e LANGFLOW_DATABASE_URL=sqlite:////app/langflow/langflow.db ...(略 https://t.co/Ov3bVfcYSv</description>
