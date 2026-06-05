@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Androidで右スワイプで進む機能が欲しかった GoogleChromeの chrome :// flags /には RightEdgeGoesForwardGestureNavがあったんだけど Microsoft Edgeのedge://flags/には 存在しなかった Chromium差別ってこと…！？</title>
+      <link>https://x.com/biribirirotom/status/2062687578147717247</link>
+      <description>リビリビ: Androidで右スワイプで進む機能が欲しかった GoogleChromeの chrome :// flags /には RightEdgeGoesForwardGestureNavがあったんだけど Microsoft Edgeのedge://flags/には 存在しなかった Chromium差別ってこと…！？</description>
+      <pubDate>Fri, 05 Jun 2026 00:06:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/biribirirotom/status/2062687578147717247</guid>
+    </item>
+    <item>
+      <title>朝からclaudeに繋がらなくて… メモリがなくなったのかと焦りまくった結果… これで直った!!! ①Chromeのアドレスバーに以下を入力してEnter chrome :// flags / ②上部の検索窓に quic と入力 ③Experimental QUIC protocol という項目を探す ④右側のドロップダウンを Disabled（無効） に変更 https://t.co/uAsLXfNayu</title>
+      <link>https://x.com/3s_rolling/status/2062372720239931632</link>
+      <description>八重コウミ 5月まだ100円→50万＠副業収益化: 朝からclaudeに繋がらなくて… メモリがなくなったのかと焦りまくった結果… これで直った!!! ①Chromeのアドレスバーに以下を入力してEnter chrome :// flags / ②上部の検索窓に quic と入力 ③Experimental QUIC protocol という項目を探す ④右側のドロップダウンを Disabled（無効） に変更 https://t.co/uAsLXfNayu</description>
+      <pubDate>Thu, 04 Jun 2026 03:15:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/3s_rolling/status/2062372720239931632</guid>
+    </item>
+    <item>
       <title>やり方 Chrome Canary 150.0.7869.0 chrome :// flags →#android-bottom-barをEnable – 1A with NTPに設定→再起動 https://t.co/bU1PKYARwA</title>
       <link>https://x.com/nemy_new/status/2062120742335152622</link>
       <description>ねみぃ: やり方 Chrome Canary 150.0.7869.0 chrome :// flags →#android-bottom-barをEnable – 1A with NTPに設定→再起動 https://t.co/bU1PKYARwA</description>
@@ -262,20 +276,6 @@
       <description>２号: Chrome フラグ（ chrome :// flags ）をリセットすると、変更したすべての試験的な機能や隠し設定がデフォルト（初期状態）に戻ります。これにより、動作が不安定だったブラウザが改善される場合があります。なお、ブックマーク、履歴、パスワードは削除されません。</description>
       <pubDate>Sat, 16 May 2026 01:03:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/2gogo/status/2055454014914118091</guid>
-    </item>
-    <item>
-      <title>ちょろめくんでクソエラー吐くの chrome :// flags / ですべてリセットして再起動したらとりあえず収まったな</title>
-      <link>https://x.com/pain62301928/status/2055445804647858563</link>
-      <description>pain: ちょろめくんでクソエラー吐くの chrome :// flags / ですべてリセットして再起動したらとりあえず収まったな</description>
-      <pubDate>Sat, 16 May 2026 00:30:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pain62301928/status/2055445804647858563</guid>
-    </item>
-    <item>
-      <title>GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中 &quot;Choose ANGLE graphics backend&quot;を &quot;D3D9&quot;にする。 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug</title>
-      <link>https://x.com/drarecsyugi/status/2055442669925745063</link>
-      <description>ドラレコ主義: GoogleChromeの最新(バージョン 148.0.7778.168)で、動画再生を行おうとしたとき落ちる問題がわかった。 chrome :// flags /の中 &quot;Choose ANGLE graphics backend&quot;を &quot;D3D9&quot;にする。 恒久対策じゃないけどVUPまでこれで行く #STATUS_ACCESS_VIOLATION #Chrome #バグ #動画落ちる #bug</description>
-      <pubDate>Sat, 16 May 2026 00:18:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/drarecsyugi/status/2055442669925745063</guid>
     </item>
   </channel>
 </rss>
