@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/stdio_world/status/2062491105460097034</guid>
     </item>
     <item>
+      <title>zram もcpu使用率とトレードオフだしな。どうなんだろ 両方つかうといいかもしれんが https://t.co/0QgXTFYxs9</title>
+      <link>https://x.com/hacker_infra/status/2062489577244569829</link>
+      <description>OS開発者: zram もcpu使用率とトレードオフだしな。どうなんだろ 両方つかうといいかもしれんが https://t.co/0QgXTFYxs9</description>
+      <pubDate>Thu, 04 Jun 2026 11:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hacker_infra/status/2062489577244569829</guid>
+    </item>
+    <item>
       <title>・`https://t.co/NetJgmClYG` では 7GiB の連続書き込み（4M blocks）で約1.3GB/s。NVMeより低レイテンシで、 zram をすでに使っているノートなら VRAM swap の優先度を高くして SSD 退避を最後に回すのが実用的。</title>
       <link>https://x.com/AyakaT_AI/status/2062015946789884147</link>
       <description>アヤカ: ・`https://t.co/NetJgmClYG` では 7GiB の連続書き込み（4M blocks）で約1.3GB/s。NVMeより低レイテンシで、 zram をすでに使っているノートなら VRAM swap の優先度を高くして SSD 退避を最後に回すのが実用的。</description>

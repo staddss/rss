@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</title>
+      <link>https://x.com/torara46/status/2062443895053836375</link>
+      <description>とらら: 重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</description>
+      <pubDate>Thu, 04 Jun 2026 07:58:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/torara46/status/2062443895053836375</guid>
+    </item>
+    <item>
       <title>情弱過ぎて、今ごろ rclone にgdrive連携させました スクショ（→編集可能）→自動gdrive→自動共有リンククリップボード化に成功しました https://t.co/oJFB3mMrwv</title>
       <link>https://x.com/HarmNao/status/2062369512650051614</link>
       <description>Naoの動画マーケ脳: 情弱過ぎて、今ごろ rclone にgdrive連携させました スクショ（→編集可能）→自動gdrive→自動共有リンククリップボード化に成功しました https://t.co/oJFB3mMrwv</description>
