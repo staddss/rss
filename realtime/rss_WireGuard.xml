@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>うちが借りてるVPSのSSHのポートは全部IP制限かけて運用してますねー さらに別でSSHのアクセスを閉じたVPN( WireGuard )だけ動いてるVPSがあり、そこのグローバルIPだけ許可しています 多段で破られないと乗っ取れない感じですね https://t.co/DalP0yT6pK</title>
+      <link>https://x.com/k_koyanagi_null/status/2063019568420065441</link>
+      <description>小柳勝範＠札幌のIT会社の代表: うちが借りてるVPSのSSHのポートは全部IP制限かけて運用してますねー さらに別でSSHのアクセスを閉じたVPN( WireGuard )だけ動いてるVPSがあり、そこのグローバルIPだけ許可しています 多段で破られないと乗っ取れない感じですね https://t.co/DalP0yT6pK</description>
+      <pubDate>Fri, 05 Jun 2026 22:06:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/k_koyanagi_null/status/2063019568420065441</guid>
+    </item>
+    <item>
       <title>@kiyosan_life @Shibu_beta @nifty うちも自宅サーバーあるんですが、非公開はTailscaleで、公開用は手前にVPS置いて Wireguard でトンネリングして外からのアクセスはVPS経由にしましたね 正直これで事足りちゃってるので、固定IP契約いらんくね？となった次第で</title>
       <link>https://x.com/minatochang/status/2062567961010094223</link>
       <description>巳波みなと / minato86: @kiyosan_life @Shibu_beta @nifty うちも自宅サーバーあるんですが、非公開はTailscaleで、公開用は手前にVPS置いて Wireguard でトンネリングして外からのアクセスはVPS経由にしましたね 正直これで事足りちゃってるので、固定IP契約いらんくね？となった次第で</description>
@@ -52,6 +59,13 @@
       <description>まきひろ: wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</description>
       <pubDate>Wed, 03 Jun 2026 16:51:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215613523910829</guid>
+    </item>
+    <item>
+      <title>IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</title>
+      <link>https://x.com/m_akihiro/status/2062215068687990794</link>
+      <description>まきひろ: IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</description>
+      <pubDate>Wed, 03 Jun 2026 16:49:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215068687990794</guid>
     </item>
     <item>
       <title>WireGuard はいいぞ</title>
@@ -269,13 +283,6 @@
       <description>一樹（第二拠点）: iPadの wireguard の調子が悪いな..（ ; ; ）</description>
       <pubDate>Thu, 28 May 2026 11:55:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8080/status/2059966696283427227</guid>
-    </item>
-    <item>
-      <title>Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</title>
-      <link>https://x.com/tenaiaiai/status/2059872968004735071</link>
-      <description>ten: Protonの有料VPNをルーターに直で設定してTailscale経由で外出先からMac miniのClaude Codeをスマホで使ってたんだけど、東京経由が遅すぎてシンガポールに変えたら速度5倍超。しかも WireGuard よりSmart設定の方が速くてデータのダウンロードも快適になり完全に実用レベルになった。600MBは十分だわ。 https://t.co/gZqrLPNL1h</description>
-      <pubDate>Thu, 28 May 2026 05:42:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tenaiaiai/status/2059872968004735071</guid>
     </item>
   </channel>
 </rss>

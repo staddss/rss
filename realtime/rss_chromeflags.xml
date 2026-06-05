@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/sato080825/status/2062813122164134240</guid>
     </item>
     <item>
+      <title>google chromeが特定サイトだけ開けない という異常挙動があって、プロトコルをQUICから変更すると直る、というよく分からない結果になった。 スプシやブラウザ版slackが開けない方は試してみてください。 chrome :// flags &gt; quic &gt; Experimental QUIC protocol</title>
+      <link>https://x.com/yoshinofukuoka/status/2062713483779850698</link>
+      <description>よしの@福岡マーケター: google chromeが特定サイトだけ開けない という異常挙動があって、プロトコルをQUICから変更すると直る、というよく分からない結果になった。 スプシやブラウザ版slackが開けない方は試してみてください。 chrome :// flags &gt; quic &gt; Experimental QUIC protocol</description>
+      <pubDate>Fri, 05 Jun 2026 01:49:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yoshinofukuoka/status/2062713483779850698</guid>
+    </item>
+    <item>
       <title>Androidで右スワイプで進む機能が欲しかった GoogleChromeの chrome :// flags /には RightEdgeGoesForwardGestureNavがあったんだけど Microsoft Edgeのedge://flags/には 存在しなかった Chromium差別ってこと…！？</title>
       <link>https://x.com/biribirirotom/status/2062687578147717247</link>
       <description>リビリビ: Androidで右スワイプで進む機能が欲しかった GoogleChromeの chrome :// flags /には RightEdgeGoesForwardGestureNavがあったんだけど Microsoft Edgeのedge://flags/には 存在しなかった Chromium差別ってこと…！？</description>
@@ -269,13 +276,6 @@
       <description>まとめダネ！ 最新ニュースをお届け: XでChromeの「STATUS_ACCESS_VIOLATION」が頻発する場合、ANGLEの設定変更で改善するケースがあるようです。 手順は、 chrome :// flags /#use-angle にアクセス ↓ ページ内で「D3D11」と検索 ↓ 「Choose ANGLE graphics backend」を開く ↓ 「D3D11」に変更 ↓ Chromeを再起動 「Choose ANGLE https://t.co/5XDWRBkB2k</description>
       <pubDate>Sat, 16 May 2026 06:51:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/matomedane/status/2055541724106355121</guid>
-    </item>
-    <item>
-      <title>最終的に「 chrome :// flags /」より すべてリセットしてみました</title>
-      <link>https://x.com/M_Atetsu/status/2055534881128788477</link>
-      <description>阿哲: 最終的に「 chrome :// flags /」より すべてリセットしてみました</description>
-      <pubDate>Sat, 16 May 2026 06:24:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/M_Atetsu/status/2055534881128788477</guid>
     </item>
   </channel>
 </rss>
