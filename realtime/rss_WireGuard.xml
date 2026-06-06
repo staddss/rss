@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ZUNDA CONNECT ROUTER には WireGuard を使用した Mesh VPN 機能がついていて、簡単に拠点間接続ができます。 ✅️面倒なルーティング設定、鍵管理は不要 ✅️4G OOB 回線で安全に公開鍵と経路情報を交換 ✅️NGN網 (フレッツ) 折返し通信に自動対応 ✅️オプション料金なし https://t.co/3AwGYm2Lqf</title>
+      <link>https://x.com/ZUNDA_IT/status/2063265597987967224</link>
+      <description>ZUNDA Inc.: ZUNDA CONNECT ROUTER には WireGuard を使用した Mesh VPN 機能がついていて、簡単に拠点間接続ができます。 ✅️面倒なルーティング設定、鍵管理は不要 ✅️4G OOB 回線で安全に公開鍵と経路情報を交換 ✅️NGN網 (フレッツ) 折返し通信に自動対応 ✅️オプション料金なし https://t.co/3AwGYm2Lqf</description>
+      <pubDate>Sat, 06 Jun 2026 14:23:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ZUNDA_IT/status/2063265597987967224</guid>
+    </item>
+    <item>
       <title>@shibanyan_1 アクセス元制限や多要素認証に加えて、要件に合わせてできればモダンかつ適度にシンプルなプロトコル(例えば Wireguard )を使ったり、各アカウントの権限やアクセスできる範囲は最小限にしたりすることは必須かなと思いますね。 この動画では十分そういった要素について言及されているかと思います。</title>
       <link>https://x.com/sashisashi569/status/2063176834121183537</link>
       <description>sashisashi: @shibanyan_1 アクセス元制限や多要素認証に加えて、要件に合わせてできればモダンかつ適度にシンプルなプロトコル(例えば Wireguard )を使ったり、各アカウントの権限やアクセスできる範囲は最小限にしたりすることは必須かなと思いますね。 この動画では十分そういった要素について言及されているかと思います。</description>
       <pubDate>Sat, 06 Jun 2026 08:31:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sashisashi569/status/2063176834121183537</guid>
+    </item>
+    <item>
+      <title>routerdでProxmox VEのSDNやKubernetesのEdge接続出来るようにBGP /32でECMPメッシュIPIPトンネルみたいなことを出来るようにし始めた。 Wireguard だとAllowedIPsの問題が出てきてIPIPが挟まり始めてる。</title>
+      <link>https://x.com/imksoo/status/2063159657389334902</link>
+      <description>きりの: routerdでProxmox VEのSDNやKubernetesのEdge接続出来るようにBGP /32でECMPメッシュIPIPトンネルみたいなことを出来るようにし始めた。 Wireguard だとAllowedIPsの問題が出てきてIPIPが挟まり始めてる。</description>
+      <pubDate>Sat, 06 Jun 2026 07:22:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/imksoo/status/2063159657389334902</guid>
     </item>
     <item>
       <title>SNMPで帯域取得したいとか WireGuard とかadblockしたいとかが無ければ普通に市販のWi-Fiルーター買った方が安上がり。</title>
@@ -262,20 +276,6 @@
       <description>あぐ: Beryl 7 を WireGuard クライアントにして自宅LAN丸ごと持ち歩く https://t.co/kELXp6pc70 #Qiita</description>
       <pubDate>Fri, 29 May 2026 15:40:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gwu_book/status/2060385873334866384</guid>
-    </item>
-    <item>
-      <title>オンプレとAzure VNETをトリッキーな接続するrouterdの機能追加するテストをCodexに任せてやってみてる。Azure VM作ったりProxmox VEの仮想マシン立てたり Wireguard セットアップしたりとかのテスト計画書だけレビューしたら後はよろしくスタイルでやらせてると、まるでSIerのPMがやってる感じ。</title>
-      <link>https://x.com/imksoo/status/2060375385129488730</link>
-      <description>きりの: オンプレとAzure VNETをトリッキーな接続するrouterdの機能追加するテストをCodexに任せてやってみてる。Azure VM作ったりProxmox VEの仮想マシン立てたり Wireguard セットアップしたりとかのテスト計画書だけレビューしたら後はよろしくスタイルでやらせてると、まるでSIerのPMがやってる感じ。</description>
-      <pubDate>Fri, 29 May 2026 14:59:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imksoo/status/2060375385129488730</guid>
-    </item>
-    <item>
-      <title>きた！！vpsとノートPCとで wireguard 繋げれた！！</title>
-      <link>https://x.com/_yakisugita_/status/2060355860040433827</link>
-      <description>焼きすぎた鮭: きた！！vpsとノートPCとで wireguard 繋げれた！！</description>
-      <pubDate>Fri, 29 May 2026 13:41:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_yakisugita_/status/2060355860040433827</guid>
     </item>
   </channel>
 </rss>

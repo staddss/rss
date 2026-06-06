@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>PipeWire をじんわり理解してきた ノードを各アプリケーションが自由に作れるからWindowsの感覚で考えると混乱する</title>
+      <link>https://x.com/fm_fata_morgana/status/2063182177215623195</link>
+      <description>M.Futakawa: PipeWire をじんわり理解してきた ノードを各アプリケーションが自由に作れるからWindowsの感覚で考えると混乱する</description>
+      <pubDate>Sat, 06 Jun 2026 08:52:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fm_fata_morgana/status/2063182177215623195</guid>
+    </item>
+    <item>
       <title>ArchLinux 2026.06.01続き Proxmoxで ArchLinux 2026.06.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで OKですね〜😅 https://t.co/PGiysUjj1H</title>
       <link>https://x.com/markun8633/status/2061535344991068243</link>
       <description>まーくん: ArchLinux 2026.06.01続き Proxmoxで ArchLinux 2026.06.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで OKですね〜😅 https://t.co/PGiysUjj1H</description>
@@ -185,20 +192,6 @@
       <description>R.Y. Lu: ｍｔｇおわった 華金だぁぁぁあ よるは pipewire の研究を続ける、昔書いたスクリプトを更新する この土日は来月のミニライブの情報がでるはず 楽しみ</description>
       <pubDate>Fri, 08 May 2026 02:08:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ryuanlu/status/2052571326716711339</guid>
-    </item>
-    <item>
-      <title>ゲーム配信ってこんな感じかなｗｗ ちょっと pipewire に馴染めたいからいろいろいじってた 昔録画も配信も ffmpeg + v4l2loopback だけでやってた でもさ なぜか pipewire と v4l2loopbackの相性が悪そうでずっと真っ黒だった https://t.co/O5rLY32bnu</title>
-      <link>https://x.com/ryuanlu/status/2052449348408250764</link>
-      <description>R.Y. Lu: ゲーム配信ってこんな感じかなｗｗ ちょっと pipewire に馴染めたいからいろいろいじってた 昔録画も配信も ffmpeg + v4l2loopback だけでやってた でもさ なぜか pipewire と v4l2loopbackの相性が悪そうでずっと真っ黒だった https://t.co/O5rLY32bnu</description>
-      <pubDate>Thu, 07 May 2026 18:03:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryuanlu/status/2052449348408250764</guid>
-    </item>
-    <item>
-      <title>オタマトーンneoの音量が小でもかなり大きいので、オタマトーン→PCで音量調節→オタマトーンとやると丁度良くなる。オタマトーンに返さないでイヤホンに流すこともできる。 Ubuntu24.04だと Pipewire なのでHelvumとかを使ってうまく繋ぎかえる必要はある。</title>
-      <link>https://x.com/twt7485/status/2052338551057232135</link>
-      <description>しょぼおじさん: オタマトーンneoの音量が小でもかなり大きいので、オタマトーン→PCで音量調節→オタマトーンとやると丁度良くなる。オタマトーンに返さないでイヤホンに流すこともできる。 Ubuntu24.04だと Pipewire なのでHelvumとかを使ってうまく繋ぎかえる必要はある。</description>
-      <pubDate>Thu, 07 May 2026 10:43:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/twt7485/status/2052338551057232135</guid>
     </item>
   </channel>
 </rss>
