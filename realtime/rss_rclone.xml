@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obsidian、WindowsとMacで使いたいけど公式同期は有料…Google Drive＋ rclone で無料解決できました。日本語記事が少ないので参考になれば🙏 #Obsidian #GoogleDrive #個人メモ Obsidian 無料同期｜WindowsとMacをGoogle Drive＋ rclone でつなぐ方法｜とこドリ https://t.co/4NRWUWT4xO</title>
+      <link>https://x.com/FP7714897/status/2063419055911133250</link>
+      <description>とこドリ: Obsidian、WindowsとMacで使いたいけど公式同期は有料…Google Drive＋ rclone で無料解決できました。日本語記事が少ないので参考になれば🙏 #Obsidian #GoogleDrive #個人メモ Obsidian 無料同期｜WindowsとMacをGoogle Drive＋ rclone でつなぐ方法｜とこドリ https://t.co/4NRWUWT4xO</description>
+      <pubDate>Sun, 07 Jun 2026 00:33:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/FP7714897/status/2063419055911133250</guid>
+    </item>
+    <item>
       <title>重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</title>
       <link>https://x.com/torara46/status/2062443895053836375</link>
       <description>とらら: 重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</description>
@@ -269,20 +276,6 @@
       <description>武蔵野きつね🦊: 信頼できるクラウドストレージとはなんぞやをなんとか考えて「クラウドに暗号化フォルダを作りその中のもの全部暗号化したら運営者でもわからない」という手段が一番良い事がわかった。そしたらOneDriveだろうがGoogleドライブだろうが関係ない。作業は全て rclone でやる。 rclone はいいぞ…</description>
       <pubDate>Tue, 12 May 2026 22:56:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kymk_79/status/2054335039748628693</guid>
-    </item>
-    <item>
-      <title>分散型 rclone を使用した、スケーラブルなクロスクラウドデータ移行によるAmazon S3への移行 https://t.co/gEj7XNDbF0</title>
-      <link>https://x.com/atsuizo/status/2053982277584261383</link>
-      <description>atsuizo: 分散型 rclone を使用した、スケーラブルなクロスクラウドデータ移行によるAmazon S3への移行 https://t.co/gEj7XNDbF0</description>
-      <pubDate>Mon, 11 May 2026 23:35:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/atsuizo/status/2053982277584261383</guid>
-    </item>
-    <item>
-      <title>@sho_towelman 最初の設定、ちょっとクセあるけど rclone で クラウドドライブ to クラウドドライブがコマンドラインでコピーできるよ！</title>
-      <link>https://x.com/yyano/status/2053883920840790457</link>
-      <description>YANO Yasuhiro: @sho_towelman 最初の設定、ちょっとクセあるけど rclone で クラウドドライブ to クラウドドライブがコマンドラインでコピーできるよ！</description>
-      <pubDate>Mon, 11 May 2026 17:04:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yyano/status/2053883920840790457</guid>
     </item>
   </channel>
 </rss>
