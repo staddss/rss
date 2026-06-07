@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ssh, Tailscaleとか WireGuard でVPN張ればいいって勝手に思ってるけどそうでもないのか</title>
+      <link>https://x.com/kisaraki2021/status/2063487403353157774</link>
+      <description>Kisaraki2021: ssh, Tailscaleとか WireGuard でVPN張ればいいって勝手に思ってるけどそうでもないのか</description>
+      <pubDate>Sun, 07 Jun 2026 05:05:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kisaraki2021/status/2063487403353157774</guid>
+    </item>
+    <item>
       <title>朝起きたらProxmox VEのSDNをノードまたぎするために作ってたSoftEther VPN L2延伸の仕組みを、routerd SAM+IPIP+ Wireguard で置き換えられていた。(ゴール指示に従って自律的にClaude+Codexが完了してた)</title>
       <link>https://x.com/imksoo/status/2063440548770578835</link>
       <description>きりの: 朝起きたらProxmox VEのSDNをノードまたぎするために作ってたSoftEther VPN L2延伸の仕組みを、routerd SAM+IPIP+ Wireguard で置き換えられていた。(ゴール指示に従って自律的にClaude+Codexが完了してた)</description>
@@ -31,13 +38,6 @@
       <description>ぽよたんぴ@VRC垢: Tailscale https://t.co/Qb9wsvdz7R 単純に Wireguard でVPN構築するのとほぼ同じ！ サーバーと自分のPCの両方にTailscaleクライアントをインストールして、サーバーに割り当てられたTailscaleのIP(100.x.x.x)にsshするだけ マシン同士ではP2Pで通信して、TCPパケットをそのままやり取りできるやつ</description>
       <pubDate>Sat, 06 Jun 2026 23:07:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PoyotanP/status/2063397488758039028</guid>
-    </item>
-    <item>
-      <title>sshの上に、 Tailscale( Wireguard )・cloudflared(普通のトンネリング)・Cloudflare Access for Infrastructure(Zero Trust) のどれかを挟めば倍くらい安全になると思う (メモとしてそれぞれツリーに書いとく！) https://t.co/DKrIqqUs7v</title>
-      <link>https://x.com/PoyotanP/status/2063396499846041638</link>
-      <description>ぽよたんぴ@VRC垢: sshの上に、 Tailscale( Wireguard )・cloudflared(普通のトンネリング)・Cloudflare Access for Infrastructure(Zero Trust) のどれかを挟めば倍くらい安全になると思う (メモとしてそれぞれツリーに書いとく！) https://t.co/DKrIqqUs7v</description>
-      <pubDate>Sat, 06 Jun 2026 23:03:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PoyotanP/status/2063396499846041638</guid>
     </item>
     <item>
       <title>VyOS に関心があるが、スキル不足なので Wireguard で VPN を使って通信を確立するとかを始めることにした。</title>
