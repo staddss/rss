@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>パンだけになるの… &gt; ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。Linux 開発環境は、仮想化されたゲストで直接実行されるようになります。 https://t.co/ULTbdG1nM7</title>
+      <link>https://x.com/hikalium/status/2063532989947269513</link>
+      <description>hikalium: パンだけになるの… &gt; ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。Linux 開発環境は、仮想化されたゲストで直接実行されるようになります。 https://t.co/ULTbdG1nM7</description>
+      <pubDate>Sun, 07 Jun 2026 08:06:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hikalium/status/2063532989947269513</guid>
+    </item>
+    <item>
       <title>chromebookでvscode使うときに日本語入力できないのは、Linux上の日本語IMEの問題ではなくて、LinuxコンテナとchromeOS間でのグラフィック関係の通信の問題だそうです。 --ozone-platform=x11 オプションを付けて起動(waylandではなくx11を使う)すれば Crostini IME supportが機能します。</title>
       <link>https://x.com/y_mikou/status/2062846307493191994</link>
       <description>みこう悠長: chromebookでvscode使うときに日本語入力できないのは、Linux上の日本語IMEの問題ではなくて、LinuxコンテナとchromeOS間でのグラフィック関係の通信の問題だそうです。 --ozone-platform=x11 オプションを付けて起動(waylandではなくx11を使う)すれば Crostini IME supportが機能します。</description>
@@ -94,13 +101,6 @@
       <description>おむらまさひで(HelenTech): 「 Crostini Terminalアプリは、LXDコンテナ（別名Baguette）がない Crostini では動作しなくなりました」のバグが修正済になったけど、ChromeOS 147 でも再発するという報告がいくつかある https://t.co/RzTwRtgKLX #Chromebook</description>
       <pubDate>Sun, 10 May 2026 04:33:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2053332621065859390</guid>
-    </item>
-    <item>
-      <title>@haru3980 crostini 使ってないならすごい</title>
-      <link>https://x.com/keita4031/status/2052719132362104937</link>
-      <description>けいた: @haru3980 crostini 使ってないならすごい</description>
-      <pubDate>Fri, 08 May 2026 11:55:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/keita4031/status/2052719132362104937</guid>
     </item>
   </channel>
 </rss>
