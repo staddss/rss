@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard のトランク設定 いったん設定しておいて その設定をエクスポートして ほかの人（外部ベンダー）に送って あとから公開鍵教えてくださいねって頼んで 返答来たらサーバー側のピア設定に上書きすれば 接続できるようになるのか。</title>
+      <link>https://x.com/sakuacid/status/2063909517658869926</link>
+      <description>さく: Wireguard のトランク設定 いったん設定しておいて その設定をエクスポートして ほかの人（外部ベンダー）に送って あとから公開鍵教えてくださいねって頼んで 返答来たらサーバー側のピア設定に上書きすれば 接続できるようになるのか。</description>
+      <pubDate>Mon, 08 Jun 2026 09:02:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakuacid/status/2063909517658869926</guid>
+    </item>
+    <item>
       <title>🖥️画面遠隔の使用ソフト ▼遠隔PC MoonlightかParsec(こっちのが簡単) ▼家PC Moonlight使用の場合→Sunshine Parsec使用の場合→Parsec 🎹MIDI遠隔の使用ソフト 遠隔&amp;家PC共に Win: rtpMIDI Mac:標準機能(Audio MIDI設定) 🛜出先の回線から接続 VPN接続ソフト Wireguard (遠隔PC) / Tailscale(両方)</title>
       <link>https://x.com/Tos_0107/status/2063658701467341170</link>
       <description>𝐓𝟎𝐒: 🖥️画面遠隔の使用ソフト ▼遠隔PC MoonlightかParsec(こっちのが簡単) ▼家PC Moonlight使用の場合→Sunshine Parsec使用の場合→Parsec 🎹MIDI遠隔の使用ソフト 遠隔&amp;家PC共に Win: rtpMIDI Mac:標準機能(Audio MIDI設定) 🛜出先の回線から接続 VPN接続ソフト Wireguard (遠隔PC) / Tailscale(両方)</description>
@@ -269,13 +276,6 @@
       <description>Kisaraki2021: @shibanyan_1 今のところ WireGuard 機能は使ってないんですけどどう関係するんですか</description>
       <pubDate>Sun, 31 May 2026 13:49:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kisaraki2021/status/2061082711515910565</guid>
-    </item>
-    <item>
-      <title>@kisaraki2021 WireGuard で抜ける機能に使っているのでは。 https://t.co/QM1n79OtAL</title>
-      <link>https://x.com/shibanyan_1/status/2061081791512158583</link>
-      <description>しばにゃん: @kisaraki2021 WireGuard で抜ける機能に使っているのでは。 https://t.co/QM1n79OtAL</description>
-      <pubDate>Sun, 31 May 2026 13:46:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2061081791512158583</guid>
     </item>
   </channel>
 </rss>
