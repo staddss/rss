@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>TP-LinkはArcher MR600 v5に存在するコマンドインジェクションの脆弱性CVE-2026-8913に対するセキュリティアップデートを公開した。脆弱性は WireGuard クライアント設定機能に存在し、認証済みの管理者が任意のコマンドを実行できる可能性がある。</title>
+      <link>https://x.com/yousukezan/status/2064188276328816815</link>
+      <description>yousukezan: TP-LinkはArcher MR600 v5に存在するコマンドインジェクションの脆弱性CVE-2026-8913に対するセキュリティアップデートを公開した。脆弱性は WireGuard クライアント設定機能に存在し、認証済みの管理者が任意のコマンドを実行できる可能性がある。</description>
+      <pubDate>Tue, 09 Jun 2026 03:30:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yousukezan/status/2064188276328816815</guid>
+    </item>
+    <item>
       <title>Wireguard のトランク設定 いったん設定しておいて その設定をエクスポートして ほかの人（外部ベンダー）に送って あとから公開鍵教えてくださいねって頼んで 返答来たらサーバー側のピア設定に上書きすれば 接続できるようになるのか。</title>
       <link>https://x.com/sakuacid/status/2063909517658869926</link>
       <description>さく: Wireguard のトランク設定 いったん設定しておいて その設定をエクスポートして ほかの人（外部ベンダー）に送って あとから公開鍵教えてくださいねって頼んで 返答来たらサーバー側のピア設定に上書きすれば 接続できるようになるのか。</description>
@@ -59,6 +66,13 @@
       <description>ぽよたんぴ@VRC垢: Tailscale https://t.co/Qb9wsvdz7R 単純に Wireguard でVPN構築するのとほぼ同じ！ サーバーと自分のPCの両方にTailscaleクライアントをインストールして、サーバーに割り当てられたTailscaleのIP(100.x.x.x)にsshするだけ マシン同士ではP2Pで通信して、TCPパケットをそのままやり取りできるやつ</description>
       <pubDate>Sat, 06 Jun 2026 23:07:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PoyotanP/status/2063397488758039028</guid>
+    </item>
+    <item>
+      <title>sshの上に、 Tailscale( Wireguard )・cloudflared(普通のトンネリング)・Cloudflare Access for Infrastructure(Zero Trust) のどれかを挟めば倍くらい安全になると思う (メモとしてそれぞれツリーに書いとく！) https://t.co/DKrIqqUs7v</title>
+      <link>https://x.com/PoyotanP/status/2063396499846041638</link>
+      <description>ぽよたんぴ@VRC垢: sshの上に、 Tailscale( Wireguard )・cloudflared(普通のトンネリング)・Cloudflare Access for Infrastructure(Zero Trust) のどれかを挟めば倍くらい安全になると思う (メモとしてそれぞれツリーに書いとく！) https://t.co/DKrIqqUs7v</description>
+      <pubDate>Sat, 06 Jun 2026 23:03:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PoyotanP/status/2063396499846041638</guid>
     </item>
     <item>
       <title>VyOS に関心があるが、スキル不足なので Wireguard で VPN を使って通信を確立するとかを始めることにした。</title>
@@ -262,20 +276,6 @@
       <description>にったん: 自宅から出ると Wireguard VPNに繋ぐのをTaskerで自動化 音楽は自宅HDDに置いておきVPN越しにSMBで繋いで聴く というのを妄想するけどどうかなあ https://t.co/DqF0U8BGkv</description>
       <pubDate>Sun, 31 May 2026 17:55:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NIJITTN/status/2061144649058988303</guid>
-    </item>
-    <item>
-      <title>Cloudflare でトンネルするのが正攻法なのかわからないけど WireGuard で VPN 通して Immich を公開することができた。まだ Google Photosをやめるかは未定だけどカメラで撮ったのはこっちという分け方はしたい。VPS 使い回してるけどいっこあると便利</title>
-      <link>https://x.com/sgrshnsk/status/2061114859618779370</link>
-      <description>杉浦俊介: Cloudflare でトンネルするのが正攻法なのかわからないけど WireGuard で VPN 通して Immich を公開することができた。まだ Google Photosをやめるかは未定だけどカメラで撮ったのはこっちという分け方はしたい。VPS 使い回してるけどいっこあると便利</description>
-      <pubDate>Sun, 31 May 2026 15:57:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sgrshnsk/status/2061114859618779370</guid>
-    </item>
-    <item>
-      <title>@shibanyan_1 今のところ WireGuard 機能は使ってないんですけどどう関係するんですか</title>
-      <link>https://x.com/kisaraki2021/status/2061082711515910565</link>
-      <description>Kisaraki2021: @shibanyan_1 今のところ WireGuard 機能は使ってないんですけどどう関係するんですか</description>
-      <pubDate>Sun, 31 May 2026 13:49:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kisaraki2021/status/2061082711515910565</guid>
     </item>
   </channel>
 </rss>
