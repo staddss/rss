@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing の環境整えた。Onedriveの代わりに使ってみる</title>
+      <link>https://x.com/madje301/status/2064388495314137243</link>
+      <description>madje: Syncthing の環境整えた。Onedriveの代わりに使ってみる</description>
+      <pubDate>Tue, 09 Jun 2026 16:45:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/madje301/status/2064388495314137243</guid>
+    </item>
+    <item>
+      <title>Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</title>
+      <link>https://x.com/Hokko_sha/status/2064354365167882303</link>
+      <description>北光社: Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</description>
+      <pubDate>Tue, 09 Jun 2026 14:30:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064354365167882303</guid>
+    </item>
+    <item>
+      <title>Syncthing はaptでインストールできるけど、Androidのストア版は更新止まってるから Syncthing -ForkをF-Droid版かgithubからAPK拾ってきてね。F-Droidがおすすめだよ！（そしてF-Droidで入れた）</title>
+      <link>https://x.com/Hokko_sha/status/2064353675657761227</link>
+      <description>北光社: Syncthing はaptでインストールできるけど、Androidのストア版は更新止まってるから Syncthing -ForkをF-Droid版かgithubからAPK拾ってきてね。F-Droidがおすすめだよ！（そしてF-Droidで入れた）</description>
+      <pubDate>Tue, 09 Jun 2026 14:27:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064353675657761227</guid>
+    </item>
+    <item>
+      <title>ChatGPTに教わりながら、PC2台スマホ2台のObsidianの保管庫を SyncThing で同期するというのを2時間かけてやってみた。 なかなかいい感じ。 Github経由での同期は毎回同期操作するのが面倒で心折れたけど、こっちならObsidian使いこなせるかもしれない。</title>
+      <link>https://x.com/Hokko_sha/status/2064351446964068841</link>
+      <description>北光社: ChatGPTに教わりながら、PC2台スマホ2台のObsidianの保管庫を SyncThing で同期するというのを2時間かけてやってみた。 なかなかいい感じ。 Github経由での同期は毎回同期操作するのが面倒で心折れたけど、こっちならObsidian使いこなせるかもしれない。</description>
+      <pubDate>Tue, 09 Jun 2026 14:18:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064351446964068841</guid>
+    </item>
+    <item>
+      <title>MacとAndroidでObsidianを無料同期するなら「 Syncthing 」が現時点で最適!! 【主な理由】 📱 公式Sync：有料 💻 GitHub：画像苦手、AndroidでSSHダメ？ 🔌 Remotely Save：ファイル二重化の罠 🚀 Syncthing ：完全無料、容量無制限 初期設定の壁さえ乗り越えればマジで神ツール。</title>
+      <link>https://x.com/takager/status/2064340887031959896</link>
+      <description>タカジャ: MacとAndroidでObsidianを無料同期するなら「 Syncthing 」が現時点で最適!! 【主な理由】 📱 公式Sync：有料 💻 GitHub：画像苦手、AndroidでSSHダメ？ 🔌 Remotely Save：ファイル二重化の罠 🚀 Syncthing ：完全無料、容量無制限 初期設定の壁さえ乗り越えればマジで神ツール。</description>
+      <pubDate>Tue, 09 Jun 2026 13:36:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takager/status/2064340887031959896</guid>
+    </item>
+    <item>
+      <title>@eisuke_travel ぼくはmdだけでなくpdfとかm4aとかもVaultに入れてるので、これがまたややこしいんですよね。 SyncThing とかも候補なので、ちょっと考えてみます！</title>
+      <link>https://x.com/kuzyofire/status/2064174110503260436</link>
+      <description>九条@セミリタイア: @eisuke_travel ぼくはmdだけでなくpdfとかm4aとかもVaultに入れてるので、これがまたややこしいんですよね。 SyncThing とかも候補なので、ちょっと考えてみます！</description>
+      <pubDate>Tue, 09 Jun 2026 02:33:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuzyofire/status/2064174110503260436</guid>
+    </item>
+    <item>
       <title>@vrchatyouu フォルダー同期は Syncthing (send/receive only or send+receive設定に注意) 一回送りたいだけならLocalsendや普通に有線</title>
       <link>https://x.com/TRX9800_/status/2063695104918090106</link>
       <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @vrchatyouu フォルダー同期は Syncthing (send/receive only or send+receive設定に注意) 一回送りたいだけならLocalsendや普通に有線</description>
@@ -234,48 +276,6 @@
       <description>一ノ瀬 いろは: Syncthing ってどう言うアーキテクチャなんだろ。</description>
       <pubDate>Mon, 18 May 2026 12:27:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ichinose_iroha/status/2056351059057262705</guid>
-    </item>
-    <item>
-      <title>SMBファイル共有が一般的なんじゃないの？と思うが、私は syncthing を使ってMacとWindowsでデータを同期させてる。時々競合とかで面倒なことになるけど、バックアップもかねており、いつどちらが壊れても作業に影響しないようにしている。Dropbox や Google Drive を使うのと大差ないんだけど、容量問題 https://t.co/TQ6PDf31Ct</title>
-      <link>https://x.com/ko1nksm/status/2056032914920620406</link>
-      <description>Koichi Nakashima: SMBファイル共有が一般的なんじゃないの？と思うが、私は syncthing を使ってMacとWindowsでデータを同期させてる。時々競合とかで面倒なことになるけど、バックアップもかねており、いつどちらが壊れても作業に影響しないようにしている。Dropbox や Google Drive を使うのと大差ないんだけど、容量問題 https://t.co/TQ6PDf31Ct</description>
-      <pubDate>Sun, 17 May 2026 15:23:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ko1nksm/status/2056032914920620406</guid>
-    </item>
-    <item>
-      <title>syncthing めちゃよい。サーバー間で常にcodexが作ったノート共有できる</title>
-      <link>https://x.com/taisei_hanyu/status/2055916909900468341</link>
-      <description>Taisei Hanyu: syncthing めちゃよい。サーバー間で常にcodexが作ったノート共有できる</description>
-      <pubDate>Sun, 17 May 2026 07:42:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taisei_hanyu/status/2055916909900468341</guid>
-    </item>
-    <item>
-      <title>描いた絵やプロジェクトファイルの共有には syncthing を強くオススメ クラウドを介さずにLANでフォルダを直接同期するからBANの可能性ゼロ、 世代バックアップ機能もあるからなんかあった時も安心、 非公式のiOSクライアントもあるからiPadとWindows、Mac、Linuxとの共有と可</title>
-      <link>https://x.com/namorton09/status/2055864749511110752</link>
-      <description>ナモー: 描いた絵やプロジェクトファイルの共有には syncthing を強くオススメ クラウドを介さずにLANでフォルダを直接同期するからBANの可能性ゼロ、 世代バックアップ機能もあるからなんかあった時も安心、 非公式のiOSクライアントもあるからiPadとWindows、Mac、Linuxとの共有と可</description>
-      <pubDate>Sun, 17 May 2026 04:15:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/namorton09/status/2055864749511110752</guid>
-    </item>
-    <item>
-      <title>@ClaudeCodeozi そうです！ Agent.md、Skills、.envとか。一緒に変更が必要な（したい）ものをその都度変更するのはめんどくさくて。。。💦 何かいい方法無いかな～って。２つ目の「 Syncthing 」試してみようかと思ってるところです😅</title>
-      <link>https://x.com/otokuninaritai/status/2055516362148336088</link>
-      <description>taka-pu＠ 🔰AI駆動開発（codex,claudecode,antigravity）: @ClaudeCodeozi そうです！ Agent.md、Skills、.envとか。一緒に変更が必要な（したい）ものをその都度変更するのはめんどくさくて。。。💦 何かいい方法無いかな～って。２つ目の「 Syncthing 」試してみようかと思ってるところです😅</description>
-      <pubDate>Sat, 16 May 2026 05:11:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/otokuninaritai/status/2055516362148336088</guid>
-    </item>
-    <item>
-      <title>(メモ)chatgptおすすめ、Windows↔️mac データ連携方法 OneDrive / Google Drive / Dropbox 普段のファイル連携ならこれが一番ラクです。Windows/Mac両方にアプリを入れて、同じフォルダを同期するだけです。Office系が多いなら OneDrive、Google系なら Google Drive が自然です。 Syncthing https://t.co/Bt5LmPTjgy</title>
-      <link>https://x.com/otokuninaritai/status/2055509083713868179</link>
-      <description>taka-pu＠ 🔰AI駆動開発（codex,claudecode,antigravity）: (メモ)chatgptおすすめ、Windows↔️mac データ連携方法 OneDrive / Google Drive / Dropbox 普段のファイル連携ならこれが一番ラクです。Windows/Mac両方にアプリを入れて、同じフォルダを同期するだけです。Office系が多いなら OneDrive、Google系なら Google Drive が自然です。 Syncthing https://t.co/Bt5LmPTjgy</description>
-      <pubDate>Sat, 16 May 2026 04:42:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/otokuninaritai/status/2055509083713868179</guid>
-    </item>
-    <item>
-      <title>ボイスメモ→ syncthing 同期→mlx-whisperで文字起こし→hermes agentが要約→obsidian保存、のワークフローを組んだ 「このメモを読んだらDiscordに絵文字を投稿して」と吹き込んだら絵文字が飛んできた</title>
-      <link>https://x.com/96glxy/status/2055269510945607907</link>
-      <description>ギンガ: ボイスメモ→ syncthing 同期→mlx-whisperで文字起こし→hermes agentが要約→obsidian保存、のワークフローを組んだ 「このメモを読んだらDiscordに絵文字を投稿して」と吹き込んだら絵文字が飛んできた</description>
-      <pubDate>Fri, 15 May 2026 12:50:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/96glxy/status/2055269510945607907</guid>
     </item>
   </channel>
 </rss>
