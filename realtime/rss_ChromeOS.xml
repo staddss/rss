@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>カメラメーカーをOSに例えてみてって言ってみた Fujifilm = MacOS Sony = Windows Canon = iOS Nikon = Unix/BSD (なんだそれは？) Panasonic (LUMIX) = Linux OM System (Olympus) = ChromeOS https://t.co/AcCUThAL4W</title>
+      <link>https://x.com/sarabaganisch/status/2064282250011910235</link>
+      <description>Sarabagani/サラバガニ: カメラメーカーをOSに例えてみてって言ってみた Fujifilm = MacOS Sony = Windows Canon = iOS Nikon = Unix/BSD (なんだそれは？) Panasonic (LUMIX) = Linux OM System (Olympus) = ChromeOS https://t.co/AcCUThAL4W</description>
+      <pubDate>Tue, 09 Jun 2026 09:43:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sarabaganisch/status/2064282250011910235</guid>
+    </item>
+    <item>
+      <title>古いMACはもうOpenCore Legacy Patcher (OCLP) 使ってもアップデートできなくなるのね https://t.co/UNhVvjptKd ChromeOS Flexも26年までしかダメらしいし。 Windowsも11で振いかけられたし廃棄PCがいっぱいでそう</title>
+      <link>https://x.com/hashi84hashi84/status/2064233513629733279</link>
+      <description>はし: 古いMACはもうOpenCore Legacy Patcher (OCLP) 使ってもアップデートできなくなるのね https://t.co/UNhVvjptKd ChromeOS Flexも26年までしかダメらしいし。 Windowsも11で振いかけられたし廃棄PCがいっぱいでそう</description>
+      <pubDate>Tue, 09 Jun 2026 06:29:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hashi84hashi84/status/2064233513629733279</guid>
+    </item>
+    <item>
       <title>今朝から ChromeOS FlexでアマプラもテラサもネトフリもHuluも見れない 無料のTVerだけ見れる件ｗ</title>
       <link>https://x.com/Pekorosu/status/2064194121385054491</link>
       <description>ha2: 今朝から ChromeOS FlexでアマプラもテラサもネトフリもHuluも見れない 無料のTVerだけ見れる件ｗ</description>
@@ -262,20 +276,6 @@
       <description>楽天市場で人気の売れ筋商品🏆: エレコム ワイヤレスキーボード 静音 テンキー付 薄型コンパクトサイズ Windows ChromeOS macOS対応 ブラック TK-QT30DMBK ＜Amazon＞ 【商品説明】本格静音設計でありながら、軽い打ち心地を実現したワイヤレスタイプの静音薄型キーボードで… #広告 https://t.co/JRgtDdLBOw</description>
       <pubDate>Fri, 05 Jun 2026 12:56:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/8_furusat_rank2/status/2062881120593592569</guid>
-    </item>
-    <item>
-      <title>chromebookでvscode使うときに日本語入力できないのは、Linux上の日本語IMEの問題ではなくて、Linuxコンテナと chromeOS 間でのグラフィック関係の通信の問題だそうです。 --ozone-platform=x11 オプションを付けて起動(waylandではなくx11を使う)すればCrostini IME supportが機能します。</title>
-      <link>https://x.com/y_mikou/status/2062846307493191994</link>
-      <description>みこう悠長: chromebookでvscode使うときに日本語入力できないのは、Linux上の日本語IMEの問題ではなくて、Linuxコンテナと chromeOS 間でのグラフィック関係の通信の問題だそうです。 --ozone-platform=x11 オプションを付けて起動(waylandではなくx11を使う)すればCrostini IME supportが機能します。</description>
-      <pubDate>Fri, 05 Jun 2026 10:37:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_mikou/status/2062846307493191994</guid>
-    </item>
-    <item>
-      <title>@googlejapan Bard懐かしい ChromeOS 117くらいに入ったんだっけ</title>
-      <link>https://x.com/YN_7723/status/2062826780541722914</link>
-      <description>ぽてと/ゲーム好き: @googlejapan Bard懐かしい ChromeOS 117くらいに入ったんだっけ</description>
-      <pubDate>Fri, 05 Jun 2026 09:20:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YN_7723/status/2062826780541722914</guid>
     </item>
   </channel>
 </rss>
