@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OpenClawってラズパイ使ってそれ自身はVLANで切って、ローカルLLMとは別ネットワークでTailnet接続して運用して、万が一 Wireguard がダメになったとしてもザリガニが孤立して無能化するだけにしたらだいぶ安全なのでは</title>
+      <link>https://x.com/one_asuka/status/2064685033206767645</link>
+      <description>一平魔人: OpenClawってラズパイ使ってそれ自身はVLANで切って、ローカルLLMとは別ネットワークでTailnet接続して運用して、万が一 Wireguard がダメになったとしてもザリガニが孤立して無能化するだけにしたらだいぶ安全なのでは</description>
+      <pubDate>Wed, 10 Jun 2026 12:24:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/one_asuka/status/2064685033206767645</guid>
+    </item>
+    <item>
+      <title>よくわからんが自宅PCの wireguard のテーブルがぶっ飛んでクリアネット着信・発信ができなくなってた。 wg再起動で直った。</title>
+      <link>https://x.com/tnky2929/status/2064622991364030923</link>
+      <description>tanakei: よくわからんが自宅PCの wireguard のテーブルがぶっ飛んでクリアネット着信・発信ができなくなってた。 wg再起動で直った。</description>
+      <pubDate>Wed, 10 Jun 2026 08:17:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tnky2929/status/2064622991364030923</guid>
+    </item>
+    <item>
       <title>WARPの設定で WireGuard に変更したらネット爆速になったんやがWWWWWWWW</title>
       <link>https://x.com/Porshimo/status/2064545884122251489</link>
       <description>ポルシモ: WARPの設定で WireGuard に変更したらネット爆速になったんやがWWWWWWWW</description>
       <pubDate>Wed, 10 Jun 2026 03:11:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Porshimo/status/2064545884122251489</guid>
+    </item>
+    <item>
+      <title>海外研究中のVPN速度が遅い時は、 WireGuard など高速プロトコル選択→有線LAN接続→セキュリティ設定調整がカギ🔌 無料より有料VPNがおすすめ。改善しなければサービス変更も検討を🌐 #海外研究生活</title>
+      <link>https://x.com/NotforgetL/status/2064521682459488488</link>
+      <description>海凪（かいなぎ）@アメリカ研究留学ブログ: 海外研究中のVPN速度が遅い時は、 WireGuard など高速プロトコル選択→有線LAN接続→セキュリティ設定調整がカギ🔌 無料より有料VPNがおすすめ。改善しなければサービス変更も検討を🌐 #海外研究生活</description>
+      <pubDate>Wed, 10 Jun 2026 01:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NotforgetL/status/2064521682459488488</guid>
     </item>
     <item>
       <title>成都のホテルのWiFiでVPN WireGuard がブロックされたっぽい。通信できなくなった。。 #中国</title>
@@ -255,27 +276,6 @@
       <description>ちぇけ: IPsecマジで意味分からんから Wireguard が業界標準になってほしい。</description>
       <pubDate>Wed, 03 Jun 2026 02:25:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/chekke1999/status/2061997616435802427</guid>
-    </item>
-    <item>
-      <title>なんとなくでやったNGN網折り返し WireGuard 、どう構築したか忘れちゃったから再構築するのめんどすぎる……💥</title>
-      <link>https://x.com/Yui0471/status/2061656817890197917</link>
-      <description>風庭ゆい: なんとなくでやったNGN網折り返し WireGuard 、どう構築したか忘れちゃったから再構築するのめんどすぎる……💥</description>
-      <pubDate>Tue, 02 Jun 2026 03:51:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yui0471/status/2061656817890197917</guid>
-    </item>
-    <item>
-      <title>UDR7のteleport VPN上手くいかんなって週末ハマってたんだけどなんかキャリアごとのv6網の作りの違いっぽい？UQは通って楽天は繋がらないとか。なんで？楽天もIPv6自体は普通に来てる。v6の有無じゃなくて網で WireGuard の通信が往復できるかどうかの差なのかなあ。わからん。 https://t.co/kIgg0HugUs</title>
-      <link>https://x.com/katokonigiry/status/2061626421131534707</link>
-      <description>katoko(かとこ): UDR7のteleport VPN上手くいかんなって週末ハマってたんだけどなんかキャリアごとのv6網の作りの違いっぽい？UQは通って楽天は繋がらないとか。なんで？楽天もIPv6自体は普通に来てる。v6の有無じゃなくて網で WireGuard の通信が往復できるかどうかの差なのかなあ。わからん。 https://t.co/kIgg0HugUs</description>
-      <pubDate>Tue, 02 Jun 2026 01:50:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/katokonigiry/status/2061626421131534707</guid>
-    </item>
-    <item>
-      <title>Androidスマホで恐らく一番シンプルにPTCGLを遊ぶ方法をまとめました！ 【2026年6月1日時点】AndroidスマホでPTCGLを無料プレイできるようにした話【Proton VPN × WireGuard 】 #ポケカ https://t.co/Z8b7B3neap</title>
-      <link>https://x.com/oshi_pokeca/status/2061386004511240473</link>
-      <description>ポケカ推し工房: Androidスマホで恐らく一番シンプルにPTCGLを遊ぶ方法をまとめました！ 【2026年6月1日時点】AndroidスマホでPTCGLを無料プレイできるようにした話【Proton VPN × WireGuard 】 #ポケカ https://t.co/Z8b7B3neap</description>
-      <pubDate>Mon, 01 Jun 2026 09:54:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oshi_pokeca/status/2061386004511240473</guid>
     </item>
   </channel>
 </rss>
