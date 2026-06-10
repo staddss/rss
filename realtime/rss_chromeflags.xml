@@ -277,12 +277,5 @@
       <pubDate>Sat, 16 May 2026 07:31:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sinUi_MERONRAND/status/2055551656176312346</guid>
     </item>
-    <item>
-      <title>【メモ】 Twitter(X)で「STATUS_ACCESS_VIOLATION」が出る 幾つかの対応策があるようですが、私は以下で解決。 1⃣ chrome :// flags /#use-angle へアクセス 2⃣Choose ANGLE graphics backendを 「D3D11」へ変更 ※ANGLE＝Almost Native Graphics Layer Engine ※DirectX11（D3D11）</title>
-      <link>https://x.com/nukunuku_blog/status/2055546338792837468</link>
-      <description>ぬくぬく＠ブログ: 【メモ】 Twitter(X)で「STATUS_ACCESS_VIOLATION」が出る 幾つかの対応策があるようですが、私は以下で解決。 1⃣ chrome :// flags /#use-angle へアクセス 2⃣Choose ANGLE graphics backendを 「D3D11」へ変更 ※ANGLE＝Almost Native Graphics Layer Engine ※DirectX11（D3D11）</description>
-      <pubDate>Sat, 16 May 2026 07:10:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nukunuku_blog/status/2055546338792837468</guid>
-    </item>
   </channel>
 </rss>

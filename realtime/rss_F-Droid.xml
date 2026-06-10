@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthingはaptでインストールできるけど、Androidのストア版は更新止まってるからSyncthing-Forkを F - Droid 版かgithubからAPK拾ってきてね。 F - Droid がおすすめだよ！（そして F - Droid で入れた）</title>
+      <link>https://x.com/Hokko_sha/status/2064353675657761227</link>
+      <description>北光社: Syncthingはaptでインストールできるけど、Androidのストア版は更新止まってるからSyncthing-Forkを F - Droid 版かgithubからAPK拾ってきてね。 F - Droid がおすすめだよ！（そして F - Droid で入れた）</description>
+      <pubDate>Tue, 09 Jun 2026 14:27:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064353675657761227</guid>
+    </item>
+    <item>
       <title>element x + ntfy (どっちも f - droid )で試してるけど通知テストは来るのに実際の通知は来ない ホームサーバーはまたいでないから関係ないはずだし</title>
       <link>https://x.com/sashisashi569/status/2064239414726041969</link>
       <description>sashisashi: element x + ntfy (どっちも f - droid )で試してるけど通知テストは来るのに実際の通知は来ない ホームサーバーはまたいでないから関係ないはずだし</description>
@@ -269,13 +276,6 @@
       <description>osker: 17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/oP5ZrTp8SF @AlteredDeal #KeepAndroidOpen</description>
       <pubDate>Wed, 20 May 2026 11:17:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/osker_jn/status/2057058173866115467</guid>
-    </item>
-    <item>
-      <title>Android の場合 Google play store 産のアプリだと、権限的にはアプリが読んだデータはどこぞに通信可能なので、APK 確認するか F - droid とかで通信権限ない奴にしないといかんすな。</title>
-      <link>https://x.com/staki/status/2056568937786302814</link>
-      <description>staki: Android の場合 Google play store 産のアプリだと、権限的にはアプリが読んだデータはどこぞに通信可能なので、APK 確認するか F - droid とかで通信権限ない奴にしないといかんすな。</description>
-      <pubDate>Tue, 19 May 2026 02:53:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/staki/status/2056568937786302814</guid>
     </item>
   </channel>
 </rss>
