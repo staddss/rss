@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/madje301/status/2064388495314137243</guid>
     </item>
     <item>
+      <title>同じネットワーク内では10秒ぐらいで編集が反映される。 Obsidianのついでに Syncthing でのファイル共有専用のフォルダをもう1個つくってしまった。 Googleドライブ経由しなくてもスマホのGPXログを簡単にPCに持ってこれてすばらしい。</title>
+      <link>https://x.com/Hokko_sha/status/2064354902747602947</link>
+      <description>北光社: 同じネットワーク内では10秒ぐらいで編集が反映される。 Obsidianのついでに Syncthing でのファイル共有専用のフォルダをもう1個つくってしまった。 Googleドライブ経由しなくてもスマホのGPXログを簡単にPCに持ってこれてすばらしい。</description>
+      <pubDate>Tue, 09 Jun 2026 14:32:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064354902747602947</guid>
+    </item>
+    <item>
       <title>Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</title>
       <link>https://x.com/Hokko_sha/status/2064354365167882303</link>
       <description>北光社: Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</description>
@@ -269,13 +276,6 @@
       <description>るーぷん | 文系のためのIT言語化の人: Obsidianを複数端末で同期するのに、クラウドなんかいらんかったんや！という話。 Syncthing でローカル同期したら、クラウドと同じ感覚で使える。 そして高速、容量無制限。 Obsidian SyncもGit Hub無くてええんやで #Obsidian # Syncthing</description>
       <pubDate>Mon, 18 May 2026 16:16:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/loopndayo/status/2056408611925217298</guid>
-    </item>
-    <item>
-      <title>Syncthing ってどう言うアーキテクチャなんだろ。</title>
-      <link>https://x.com/ichinose_iroha/status/2056351059057262705</link>
-      <description>一ノ瀬 いろは: Syncthing ってどう言うアーキテクチャなんだろ。</description>
-      <pubDate>Mon, 18 May 2026 12:27:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ichinose_iroha/status/2056351059057262705</guid>
     </item>
   </channel>
 </rss>

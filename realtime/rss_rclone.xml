@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>各種クラウドストレージとのファイル同期に広く使われる「 rclone 」に、認証なしの単一リクエストだけで任意のコマンドが実行される深刻な脆弱性（CVE-2026-49980）が報告され、6月5日公開の1.74.3で修正されました。悪用にPOSTもリクエストボディも要らず、認証なしで有効化したリモート制御（RC）のフ</title>
+      <link>https://x.com/MalwareBibleJP/status/2064552118292558096</link>
+      <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: 各種クラウドストレージとのファイル同期に広く使われる「 rclone 」に、認証なしの単一リクエストだけで任意のコマンドが実行される深刻な脆弱性（CVE-2026-49980）が報告され、6月5日公開の1.74.3で修正されました。悪用にPOSTもリクエストボディも要らず、認証なしで有効化したリモート制御（RC）のフ</description>
+      <pubDate>Wed, 10 Jun 2026 03:35:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2064552118292558096</guid>
+    </item>
+    <item>
+      <title>昨日ずっと裏で稼働させてた rclone でのGoogleDriveへのアップロード。GoogleTakeoutのデータだけど２０時間で８４GB程度だ。回線速度は２５０Mbps以上 上りもでてるけど もしかしたら公式アプリの方がいいのかもしれない 今日はHTS+が読めるというアプリをテスト 失敗したらUSBでLinuxをテスト</title>
+      <link>https://x.com/Hatsuseno_Y2/status/2064470931003912452</link>
+      <description>†Hatsuseno.Y.† @絵wip/Sandbox: 昨日ずっと裏で稼働させてた rclone でのGoogleDriveへのアップロード。GoogleTakeoutのデータだけど２０時間で８４GB程度だ。回線速度は２５０Mbps以上 上りもでてるけど もしかしたら公式アプリの方がいいのかもしれない 今日はHTS+が読めるというアプリをテスト 失敗したらUSBでLinuxをテスト</description>
+      <pubDate>Tue, 09 Jun 2026 22:13:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hatsuseno_Y2/status/2064470931003912452</guid>
+    </item>
+    <item>
       <title>それはそうと、家のNASが死んだのだけど、そもそも高機能NASのOSはおれにはちょっと使いこなせないので、NASを辞める予定。15年間のNAS運用おつかれさま。 ・バックアップ/同期: → rclone でpCloud cryptへ全データ、B2は小容量 これを正本とする ・キャッシュ的運用 ・ミニPC＋USB3.1 HDD [Toshiba</title>
       <link>https://x.com/42spg/status/2064347406473503059</link>
       <description>たかふみ: それはそうと、家のNASが死んだのだけど、そもそも高機能NASのOSはおれにはちょっと使いこなせないので、NASを辞める予定。15年間のNAS運用おつかれさま。 ・バックアップ/同期: → rclone でpCloud cryptへ全データ、B2は小容量 これを正本とする ・キャッシュ的運用 ・ミニPC＋USB3.1 HDD [Toshiba</description>
@@ -262,20 +276,6 @@
       <description>リリア: クラウドドライブは rclone か何かを通して暗号化しておかないと検閲されます どこからでも情報を得ようとしてくるので油断も隙もないw</description>
       <pubDate>Sat, 16 May 2026 08:30:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CypherLilium/status/2055566646702739554</guid>
-    </item>
-    <item>
-      <title>@code_bond_agent たしかに、AIにコードベースを触らせるなら自動バックアップは生命線ですよね。自分はGitのコミットを自動化するスクリプトを回したり、重要なディレクトリを rclone で定期的にS3に逃がすようにしてリスクヘッジしてます。やっぱり物理的なバックアップがないと怖すぎます。</title>
-      <link>https://x.com/aria_ai_tools/status/2055428674862891434</link>
-      <description>ARIA｜AIで仕事を自動化する人: @code_bond_agent たしかに、AIにコードベースを触らせるなら自動バックアップは生命線ですよね。自分はGitのコミットを自動化するスクリプトを回したり、重要なディレクトリを rclone で定期的にS3に逃がすようにしてリスクヘッジしてます。やっぱり物理的なバックアップがないと怖すぎます。</description>
-      <pubDate>Fri, 15 May 2026 23:22:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aria_ai_tools/status/2055428674862891434</guid>
-    </item>
-    <item>
-      <title>【Linux部門人気記事紹介｜第12位】 共同研究等で利用されるGoogleドライブの「共有ドライブ」と、解析サーバー間のデータ連携を自動化。本記事では、 rclone を用いた効率的なファイル転送手順を解説いたします。 https://t.co/cIEWYSQzuq https://t.co/15LCihmVfU</title>
-      <link>https://x.com/BioinfoLab/status/2054758600938258843</link>
-      <description>バイオインフォマティクス実践ラボ: 【Linux部門人気記事紹介｜第12位】 共同研究等で利用されるGoogleドライブの「共有ドライブ」と、解析サーバー間のデータ連携を自動化。本記事では、 rclone を用いた効率的なファイル転送手順を解説いたします。 https://t.co/cIEWYSQzuq https://t.co/15LCihmVfU</description>
-      <pubDate>Thu, 14 May 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/BioinfoLab/status/2054758600938258843</guid>
     </item>
   </channel>
 </rss>

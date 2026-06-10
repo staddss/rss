@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WARPの設定で WireGuard に変更したらネット爆速になったんやがWWWWWWWW</title>
+      <link>https://x.com/Porshimo/status/2064545884122251489</link>
+      <description>ポルシモ: WARPの設定で WireGuard に変更したらネット爆速になったんやがWWWWWWWW</description>
+      <pubDate>Wed, 10 Jun 2026 03:11:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Porshimo/status/2064545884122251489</guid>
+    </item>
+    <item>
       <title>成都のホテルのWiFiでVPN WireGuard がブロックされたっぽい。通信できなくなった。。 #中国</title>
       <link>https://x.com/Px8LBoumednyu/status/2064353562231185464</link>
       <description>コタケ🇹🇭パタヤ: 成都のホテルのWiFiでVPN WireGuard がブロックされたっぽい。通信できなくなった。。 #中国</description>
@@ -17,6 +24,13 @@
       <description>yousukezan: TP-LinkはArcher MR600 v5に存在するコマンドインジェクションの脆弱性CVE-2026-8913に対するセキュリティアップデートを公開した。脆弱性は WireGuard クライアント設定機能に存在し、認証済みの管理者が任意のコマンドを実行できる可能性がある。</description>
       <pubDate>Tue, 09 Jun 2026 03:30:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yousukezan/status/2064188276328816815</guid>
+    </item>
+    <item>
+      <title>TP-Link Archer MR600 v5でコマンドインジェクション脆弱性が修正。CVE-2026-8913。Web管理画面からの WireGuard クライアント構成が脆弱。修整版提供あり。 https://t.co/5NnZRp0etC</title>
+      <link>https://x.com/__kokumoto/status/2064187086664880586</link>
+      <description>kokumօtօ: TP-Link Archer MR600 v5でコマンドインジェクション脆弱性が修正。CVE-2026-8913。Web管理画面からの WireGuard クライアント構成が脆弱。修整版提供あり。 https://t.co/5NnZRp0etC</description>
+      <pubDate>Tue, 09 Jun 2026 03:25:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__kokumoto/status/2064187086664880586</guid>
     </item>
     <item>
       <title>Wireguard のトランク設定 いったん設定しておいて その設定をエクスポートして ほかの人（外部ベンダー）に送って あとから公開鍵教えてくださいねって頼んで 返答来たらサーバー側のピア設定に上書きすれば 接続できるようになるのか。</title>
@@ -262,20 +276,6 @@
       <description>ポケカ推し工房: Androidスマホで恐らく一番シンプルにPTCGLを遊ぶ方法をまとめました！ 【2026年6月1日時点】AndroidスマホでPTCGLを無料プレイできるようにした話【Proton VPN × WireGuard 】 #ポケカ https://t.co/Z8b7B3neap</description>
       <pubDate>Mon, 01 Jun 2026 09:54:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oshi_pokeca/status/2061386004511240473</guid>
-    </item>
-    <item>
-      <title>【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</title>
-      <link>https://x.com/vpnnavi/status/2061308142684623031</link>
-      <description>VPNナビ: 【リモートアクセスVPNツール おすすめ3選】 ✅ FortiClient VPN：Fortinet社のエンドポイント統合セキュリティ製品の ✅ Cisco AnyConnect：Ciscoが提供するエンタープライズ向けSSL-VPNク ✅ Tailscale： WireGuard ベースのメッシュVPN。デバイス間をP #VPN #セキュリティ #リモートアクセスVPN</description>
-      <pubDate>Mon, 01 Jun 2026 04:45:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/vpnnavi/status/2061308142684623031</guid>
-    </item>
-    <item>
-      <title>QNAPのNASってARMのコアだと WireGuard 非対応なんですか。そうですか。</title>
-      <link>https://x.com/yamagu09/status/2061275267684065483</link>
-      <description>やまぐちだいすけ ％ 足元にはご注意を: QNAPのNASってARMのコアだと WireGuard 非対応なんですか。そうですか。</description>
-      <pubDate>Mon, 01 Jun 2026 02:34:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamagu09/status/2061275267684065483</guid>
     </item>
   </channel>
 </rss>
