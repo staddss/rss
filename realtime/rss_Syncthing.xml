@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>はい、天才。 自宅のPCとスマホのObsidianをtailscale * Syncthing （ Syncthing -Fork）を使って自動同期させた。 これで気軽にスマホでメモ取れるようになった。 整理はPCでやればいいしな。</title>
+      <link>https://x.com/nil_motty93/status/2064965130811834861</link>
+      <description>もてぃ💪Engineer: はい、天才。 自宅のPCとスマホのObsidianをtailscale * Syncthing （ Syncthing -Fork）を使って自動同期させた。 これで気軽にスマホでメモ取れるようになった。 整理はPCでやればいいしな。</description>
+      <pubDate>Thu, 11 Jun 2026 06:57:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nil_motty93/status/2064965130811834861</guid>
+    </item>
+    <item>
+      <title>syncthing 導入したいけどうまくいかない</title>
+      <link>https://x.com/KSin44/status/2064540760939307159</link>
+      <description>青: syncthing 導入したいけどうまくいかない</description>
+      <pubDate>Wed, 10 Jun 2026 02:50:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KSin44/status/2064540760939307159</guid>
+    </item>
+    <item>
       <title>Syncthing の環境整えた。Onedriveの代わりに使ってみる</title>
       <link>https://x.com/madje301/status/2064388495314137243</link>
       <description>madje: Syncthing の環境整えた。Onedriveの代わりに使ってみる</description>
@@ -262,20 +276,6 @@
       <description>Long 7: @aiwithkhush 便利なですね！ありがとう syncthing ！</description>
       <pubDate>Wed, 20 May 2026 05:19:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Long725792857/status/2056967981658481011</guid>
-    </item>
-    <item>
-      <title>keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</title>
-      <link>https://x.com/oga5tsu/status/2056932929486684205</link>
-      <description>おがつき: keepassxcと syncthing でパソコン繋いだ desktop - macbook - android 少しLinux移行でいそがしかったけど、 これでやっとパスワード同期環境完成</description>
-      <pubDate>Wed, 20 May 2026 03:00:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oga5tsu/status/2056932929486684205</guid>
-    </item>
-    <item>
-      <title>Obsidianを複数端末で同期するのに、クラウドなんかいらんかったんや！という話。 Syncthing でローカル同期したら、クラウドと同じ感覚で使える。 そして高速、容量無制限。 Obsidian SyncもGit Hub無くてええんやで #Obsidian # Syncthing</title>
-      <link>https://x.com/loopndayo/status/2056408611925217298</link>
-      <description>るーぷん | 文系のためのIT言語化の人: Obsidianを複数端末で同期するのに、クラウドなんかいらんかったんや！という話。 Syncthing でローカル同期したら、クラウドと同じ感覚で使える。 そして高速、容量無制限。 Obsidian SyncもGit Hub無くてええんやで #Obsidian # Syncthing</description>
-      <pubDate>Mon, 18 May 2026 16:16:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/loopndayo/status/2056408611925217298</guid>
     </item>
   </channel>
 </rss>
