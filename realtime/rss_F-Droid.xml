@@ -159,27 +159,6 @@
       <guid isPermaLink="true">https://x.com/Kdroidwin1/status/2059834453032399110</guid>
     </item>
     <item>
-      <title>F - Droid の導入手順と、実際に検証機へ適用した設定を書き残している。 メイン機に入れるには少し癖があるけれど、サブ機やテスト端末の最適化にはかなり使える。 https://t.co/Ls71LAPtoA</title>
-      <link>https://x.com/NEdge98502/status/2059250431474442708</link>
-      <description>Nexista Edge: F - Droid の導入手順と、実際に検証機へ適用した設定を書き残している。 メイン機に入れるには少し癖があるけれど、サブ機やテスト端末の最適化にはかなり使える。 https://t.co/Ls71LAPtoA</description>
-      <pubDate>Tue, 26 May 2026 12:28:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NEdge98502/status/2059250431474442708</guid>
-    </item>
-    <item>
-      <title>公式ストアを通さない F - Droid は、アップデート管理の手間がどうしても残る。 ただ広告通信を元から絶つと、端末の挙動が目に見えて軽くなった。 自動化テスト用の環境構築としては、これが最適解かもしれない。</title>
-      <link>https://x.com/NEdge98502/status/2059250430014902694</link>
-      <description>Nexista Edge: 公式ストアを通さない F - Droid は、アップデート管理の手間がどうしても残る。 ただ広告通信を元から絶つと、端末の挙動が目に見えて軽くなった。 自動化テスト用の環境構築としては、これが最適解かもしれない。</description>
-      <pubDate>Tue, 26 May 2026 12:28:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NEdge98502/status/2059250430014902694</guid>
-    </item>
-    <item>
-      <title>検証用のAndroid端末、気がつけば広告表示のテスト機みたいになっている。 F - Droid 経由でオープンソースのツールを入れ、通信ごと遮断する検証を始めた。 もっと早くストア外アプリの運用を試すべきだった。 https://t.co/2WQobb33pn</title>
-      <link>https://x.com/NEdge98502/status/2059250428471398707</link>
-      <description>Nexista Edge: 検証用のAndroid端末、気がつけば広告表示のテスト機みたいになっている。 F - Droid 経由でオープンソースのツールを入れ、通信ごと遮断する検証を始めた。 もっと早くストア外アプリの運用を試すべきだった。 https://t.co/2WQobb33pn</description>
-      <pubDate>Tue, 26 May 2026 12:28:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NEdge98502/status/2059250428471398707</guid>
-    </item>
-    <item>
       <title>PhotoSwooper( F - Droid ): https://t.co/ARjKWAUW5y 私はこちらを愛用しています。オープンソースですし完全に無料で広告もありません！</title>
       <link>https://x.com/daizu_lab/status/2059167775336395248</link>
       <description>だいずラボ: PhotoSwooper( F - Droid ): https://t.co/ARjKWAUW5y 私はこちらを愛用しています。オープンソースですし完全に無料で広告もありません！</description>
@@ -276,6 +255,27 @@
       <description>Ikausay Y.: 署名と寄付してきた 未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/nDRD8h3Jnb @AlteredDeal #KeepAndroidOpen</description>
       <pubDate>Wed, 20 May 2026 14:16:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Unioh/status/2057103171995222299</guid>
+    </item>
+    <item>
+      <title>17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/oP5ZrTp8SF @AlteredDeal #KeepAndroidOpen</title>
+      <link>https://x.com/osker_jn/status/2057058173866115467</link>
+      <description>osker: 17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/oP5ZrTp8SF @AlteredDeal #KeepAndroidOpen</description>
+      <pubDate>Wed, 20 May 2026 11:17:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/osker_jn/status/2057058173866115467</guid>
+    </item>
+    <item>
+      <title>Android の場合 Google play store 産のアプリだと、権限的にはアプリが読んだデータはどこぞに通信可能なので、APK 確認するか F - droid とかで通信権限ない奴にしないといかんすな。</title>
+      <link>https://x.com/staki/status/2056568937786302814</link>
+      <description>staki: Android の場合 Google play store 産のアプリだと、権限的にはアプリが読んだデータはどこぞに通信可能なので、APK 確認するか F - droid とかで通信権限ない奴にしないといかんすな。</description>
+      <pubDate>Tue, 19 May 2026 02:53:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/staki/status/2056568937786302814</guid>
+    </item>
+    <item>
+      <title>事実確認はできてないが、以下が本当ならandroidをサブ持ちする意味が… 17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/fzNzRdXbI8 @AlteredDeal #KeepAndroidOpen</title>
+      <link>https://x.com/abm1223/status/2056014301530632228</link>
+      <description>じゅーん: 事実確認はできてないが、以下が本当ならandroidをサブ持ちする意味が… 17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/fzNzRdXbI8 @AlteredDeal #KeepAndroidOpen</description>
+      <pubDate>Sun, 17 May 2026 14:09:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/abm1223/status/2056014301530632228</guid>
     </item>
   </channel>
 </rss>

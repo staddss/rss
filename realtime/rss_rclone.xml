@@ -68,13 +68,6 @@
       <guid isPermaLink="true">https://x.com/HarmNao/status/2062369512650051614</guid>
     </item>
     <item>
-      <title>rclone すごいプレイブラストしたらローカルとgdriveにmp4でアップロードしてくれるのすごい楽</title>
-      <link>https://x.com/mrtmgogo/status/2061854258820247654</link>
-      <description>mrtm: rclone すごいプレイブラストしたらローカルとgdriveにmp4でアップロードしてくれるのすごい楽</description>
-      <pubDate>Tue, 02 Jun 2026 16:55:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mrtmgogo/status/2061854258820247654</guid>
-    </item>
-    <item>
       <title>sshfs 終わってて rclone とかいうの不慣れで終わった</title>
       <link>https://x.com/nanikadesune/status/2060004358079836335</link>
       <description>淺ばか: sshfs 終わってて rclone とかいうの不慣れで終わった</description>
@@ -276,6 +269,13 @@
       <description>5unset (powerln): rclone のproton driveが再び対応されて嬉しい</description>
       <pubDate>Sat, 16 May 2026 14:36:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5unsetpowerln/status/2055658704490684823</guid>
+    </item>
+    <item>
+      <title>クラウドドライブは rclone か何かを通して暗号化しておかないと検閲されます どこからでも情報を得ようとしてくるので油断も隙もないw</title>
+      <link>https://x.com/CypherLilium/status/2055566646702739554</link>
+      <description>リリア: クラウドドライブは rclone か何かを通して暗号化しておかないと検閲されます どこからでも情報を得ようとしてくるので油断も隙もないw</description>
+      <pubDate>Sat, 16 May 2026 08:30:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CypherLilium/status/2055566646702739554</guid>
     </item>
   </channel>
 </rss>
