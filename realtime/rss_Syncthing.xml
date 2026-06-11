@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メモりました。 Tailscale × Syncthing によるObsidian双方向リアルタイム同期環境 https://t.co/o7gYDHArdZ</title>
+      <link>https://x.com/nil_motty93/status/2064983195951788429</link>
+      <description>もてぃ💪Engineer: メモりました。 Tailscale × Syncthing によるObsidian双方向リアルタイム同期環境 https://t.co/o7gYDHArdZ</description>
+      <pubDate>Thu, 11 Jun 2026 08:08:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nil_motty93/status/2064983195951788429</guid>
+    </item>
+    <item>
       <title>はい、天才。 自宅のPCとスマホのObsidianをtailscale * Syncthing （ Syncthing -Fork）を使って自動同期させた。 これで気軽にスマホでメモ取れるようになった。 整理はPCでやればいいしな。</title>
       <link>https://x.com/nil_motty93/status/2064965130811834861</link>
       <description>もてぃ💪Engineer: はい、天才。 自宅のPCとスマホのObsidianをtailscale * Syncthing （ Syncthing -Fork）を使って自動同期させた。 これで気軽にスマホでメモ取れるようになった。 整理はPCでやればいいしな。</description>
@@ -269,13 +276,6 @@
       <description>むらさん(Murasan): 複数のラズパイで ファイルを同期したい時に使ってる Syncthing 。 特に便利なのが &quot;フォルダタイプ&quot; を3つから選べる機能です📁 Syncthing は P2P で動くファイル同期ソフトで、 クラウドを介さず端末同士で直接同期します。 普通に使うと &quot;双方向で同期される&quot; のがデフォルト。 https://t.co/ysDOPjRn79</description>
       <pubDate>Wed, 20 May 2026 10:00:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/murasametech/status/2057038642720526415</guid>
-    </item>
-    <item>
-      <title>@aiwithkhush 便利なですね！ありがとう syncthing ！</title>
-      <link>https://x.com/Long725792857/status/2056967981658481011</link>
-      <description>Long 7: @aiwithkhush 便利なですね！ありがとう syncthing ！</description>
-      <pubDate>Wed, 20 May 2026 05:19:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Long725792857/status/2056967981658481011</guid>
     </item>
   </channel>
 </rss>

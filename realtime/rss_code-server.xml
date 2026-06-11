@@ -158,12 +158,5 @@
       <pubDate>Fri, 15 May 2026 07:50:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SiON_PN/status/2055194021098844307</guid>
     </item>
-    <item>
-      <title>最近はRでの作業はほとんどPositronに移行したので、細々とGitHubに記録を残してきたRStudio ServerのDocker imageのレポジトリにremote SSH用、 Code - server 用（web版のVSCのようなもの）をまとめました。 PythonやNodeも詰め込んだ行儀が悪い自分用imageですが…</title>
-      <link>https://x.com/mokztk/status/2054139727956295861</link>
-      <description>MORI Kazutaka: 最近はRでの作業はほとんどPositronに移行したので、細々とGitHubに記録を残してきたRStudio ServerのDocker imageのレポジトリにremote SSH用、 Code - server 用（web版のVSCのようなもの）をまとめました。 PythonやNodeも詰め込んだ行儀が悪い自分用imageですが…</description>
-      <pubDate>Tue, 12 May 2026 10:00:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mokztk/status/2054139727956295861</guid>
-    </item>
   </channel>
 </rss>

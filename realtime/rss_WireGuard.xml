@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard が「芸術作品」と呼ばれた理由 https://t.co/zC1wg7E3vE @YouTubeより</title>
+      <link>https://x.com/96neko/status/2065016519004954651</link>
+      <description>クロネコ: WireGuard が「芸術作品」と呼ばれた理由 https://t.co/zC1wg7E3vE @YouTubeより</description>
+      <pubDate>Thu, 11 Jun 2026 10:21:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96neko/status/2065016519004954651</guid>
+    </item>
+    <item>
+      <title>インターネット老人会なので『フリーWi-Fiとか危険』みたいなイメージを基本的には持ってる（ていた）のだけど、 Wireguard ＋DNSオーバーライドを簡単に使える時代になって、いわゆる釣り針の餌だけ安全に食べるスキルが容易になりすぎているの。技術が悪意を凌駕してて凄いと思う</title>
+      <link>https://x.com/one_asuka/status/2064686453343564239</link>
+      <description>一平魔人: インターネット老人会なので『フリーWi-Fiとか危険』みたいなイメージを基本的には持ってる（ていた）のだけど、 Wireguard ＋DNSオーバーライドを簡単に使える時代になって、いわゆる釣り針の餌だけ安全に食べるスキルが容易になりすぎているの。技術が悪意を凌駕してて凄いと思う</description>
+      <pubDate>Wed, 10 Jun 2026 12:29:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/one_asuka/status/2064686453343564239</guid>
+    </item>
+    <item>
       <title>OpenClawってラズパイ使ってそれ自身はVLANで切って、ローカルLLMとは別ネットワークでTailnet接続して運用して、万が一 Wireguard がダメになったとしてもザリガニが孤立して無能化するだけにしたらだいぶ安全なのでは</title>
       <link>https://x.com/one_asuka/status/2064685033206767645</link>
       <description>一平魔人: OpenClawってラズパイ使ってそれ自身はVLANで切って、ローカルLLMとは別ネットワークでTailnet接続して運用して、万が一 Wireguard がダメになったとしてもザリガニが孤立して無能化するだけにしたらだいぶ安全なのでは</description>
@@ -269,13 +283,6 @@
       <description>テコタク-techotakulab: 【ゲーム向けVPN選び方】 WireGuard 系（NordLynx/Lightway）：追加+5〜15ms OpenVPN（UDP）：追加+30ms以上→ゲームには非推奨 競技FPSでVPNを使うなら WireGuard 対応が最低条件です。 https://t.co/Fy3yFqWab6</description>
       <pubDate>Wed, 03 Jun 2026 03:04:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techotakulab/status/2062007415575314642</guid>
-    </item>
-    <item>
-      <title>IPsecマジで意味分からんから Wireguard が業界標準になってほしい。</title>
-      <link>https://x.com/chekke1999/status/2061997616435802427</link>
-      <description>ちぇけ: IPsecマジで意味分からんから Wireguard が業界標準になってほしい。</description>
-      <pubDate>Wed, 03 Jun 2026 02:25:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chekke1999/status/2061997616435802427</guid>
     </item>
   </channel>
 </rss>
