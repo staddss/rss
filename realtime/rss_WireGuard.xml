@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メインのルーターをNERGEARのR7800からGL.iNetのGL-MT6000に変更 車内がMT3000なんでそのまま WireGuard で接続して車内で自宅のファイルを読めるようにしてみた https://t.co/ZKBnwawTZP</title>
+      <link>https://x.com/miia_clover/status/2065378688833925326</link>
+      <description>miia: メインのルーターをNERGEARのR7800からGL.iNetのGL-MT6000に変更 車内がMT3000なんでそのまま WireGuard で接続して車内で自宅のファイルを読めるようにしてみた https://t.co/ZKBnwawTZP</description>
+      <pubDate>Fri, 12 Jun 2026 10:20:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/miia_clover/status/2065378688833925326</guid>
+    </item>
+    <item>
       <title>WireGuard が「芸術作品」と呼ばれた理由 https://t.co/zC1wg7E3vE @YouTubeより</title>
       <link>https://x.com/96neko/status/2065016519004954651</link>
       <description>クロネコ: WireGuard が「芸術作品」と呼ばれた理由 https://t.co/zC1wg7E3vE @YouTubeより</description>
@@ -269,20 +276,6 @@
       <description>ゆうと,yuto🇵🇭×🇯🇵(ハーフ、ミックス): 自分が検証してないのとNEだった経験もあってあまりVPNで wireguard で張るっていう感覚がなくて場合によるけど基本IPsecでやっていた。 そんなに良いものなの？ 拠点間とかVPN張るだけとか色々条件は付きものだけど https://t.co/s4rGKiNoLS</description>
       <pubDate>Wed, 03 Jun 2026 06:12:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yutogestalt/status/2062054702821605793</guid>
-    </item>
-    <item>
-      <title>TOKYO FREE Wi-Fi上でTCPかつOpenVPNのVPN Gateを使いその上に Wireguard を通すっていうことをしてる。自前はいけたけどCloudflare Oneは不安定だなぁ</title>
-      <link>https://x.com/manato787/status/2062053462213615703</link>
-      <description>d****-kun_SP5b: TOKYO FREE Wi-Fi上でTCPかつOpenVPNのVPN Gateを使いその上に Wireguard を通すっていうことをしてる。自前はいけたけどCloudflare Oneは不安定だなぁ</description>
-      <pubDate>Wed, 03 Jun 2026 06:07:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/manato787/status/2062053462213615703</guid>
-    </item>
-    <item>
-      <title>【ゲーム向けVPN選び方】 WireGuard 系（NordLynx/Lightway）：追加+5〜15ms OpenVPN（UDP）：追加+30ms以上→ゲームには非推奨 競技FPSでVPNを使うなら WireGuard 対応が最低条件です。 https://t.co/Fy3yFqWab6</title>
-      <link>https://x.com/techotakulab/status/2062007415575314642</link>
-      <description>テコタク-techotakulab: 【ゲーム向けVPN選び方】 WireGuard 系（NordLynx/Lightway）：追加+5〜15ms OpenVPN（UDP）：追加+30ms以上→ゲームには非推奨 競技FPSでVPNを使うなら WireGuard 対応が最低条件です。 https://t.co/Fy3yFqWab6</description>
-      <pubDate>Wed, 03 Jun 2026 03:04:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techotakulab/status/2062007415575314642</guid>
     </item>
   </channel>
 </rss>
