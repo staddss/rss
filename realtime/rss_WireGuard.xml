@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>さくらVPS512で WireGuard 設定してみた。 やっぱり100Mだな。10G契約していてこれか増すのは非常にもったいない気がする。せめて1G帯域ならな。 こらだったらIP固定したいだけだったらロリポップとかのが良さそう。しかし石狩サーバーのはずなのになぜ大阪なんだ。 https://t.co/D7EhI89jiS</title>
+      <link>https://x.com/infinitars/status/2065730159660216441</link>
+      <description>長尾一慶 (酩亭): さくらVPS512で WireGuard 設定してみた。 やっぱり100Mだな。10G契約していてこれか増すのは非常にもったいない気がする。せめて1G帯域ならな。 こらだったらIP固定したいだけだったらロリポップとかのが良さそう。しかし石狩サーバーのはずなのになぜ大阪なんだ。 https://t.co/D7EhI89jiS</description>
+      <pubDate>Sat, 13 Jun 2026 09:37:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/infinitars/status/2065730159660216441</guid>
+    </item>
+    <item>
       <title>そうか。さくらのVPS上に wireguard 入れて通信するとさくらのコントロールパネルに繋げなくなるｗ</title>
       <link>https://x.com/infinitars/status/2065726455691243598</link>
       <description>長尾一慶 (酩亭): そうか。さくらのVPS上に wireguard 入れて通信するとさくらのコントロールパネルに繋げなくなるｗ</description>
@@ -269,13 +276,6 @@
       <description>まきひろ: wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</description>
       <pubDate>Wed, 03 Jun 2026 16:51:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215613523910829</guid>
-    </item>
-    <item>
-      <title>IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</title>
-      <link>https://x.com/m_akihiro/status/2062215068687990794</link>
-      <description>まきひろ: IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</description>
-      <pubDate>Wed, 03 Jun 2026 16:49:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215068687990794</guid>
     </item>
   </channel>
 </rss>
