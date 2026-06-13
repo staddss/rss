@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Fable 5さん逝く…。 RTX5090と Ryzen ai max + 395 128GBメモリを使ったローカルAI開発に戻ります…。</title>
+      <link>https://x.com/Monagon/status/2065627712702857629</link>
+      <description>Monagon🥚: Fable 5さん逝く…。 RTX5090と Ryzen ai max + 395 128GBメモリを使ったローカルAI開発に戻ります…。</description>
+      <pubDate>Sat, 13 Jun 2026 02:49:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Monagon/status/2065627712702857629</guid>
+    </item>
+    <item>
+      <title>Gemma 4 QAT+MPTでの実行、unslothがモデルを提供していて、hfのモデルのページにあるllama-serverのコマンドでそのまま実行できてる（ひとまずllama-cliで動かしてみている） EVO-X2( Ryzen AI Max +395)での実行も、llama.cppのリリースページにあるビルド済みバイナリで実行できている 試せそう https://t.co/2xBmZfS8PQ</title>
+      <link>https://x.com/74th/status/2065618433795125640</link>
+      <description>74th: Gemma 4 QAT+MPTでの実行、unslothがモデルを提供していて、hfのモデルのページにあるllama-serverのコマンドでそのまま実行できてる（ひとまずllama-cliで動かしてみている） EVO-X2( Ryzen AI Max +395)での実行も、llama.cppのリリースページにあるビルド済みバイナリで実行できている 試せそう https://t.co/2xBmZfS8PQ</description>
+      <pubDate>Sat, 13 Jun 2026 02:13:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/74th/status/2065618433795125640</guid>
+    </item>
+    <item>
       <title>Kimi-K2.7-Codeリリース、Unsloth がすでにGGUF量子化版を公開したから Ryzen AI Max + で動くか試してみよう🌘 来年の仕事に向けて、ローカル用オープンモデルの最適な稼働環境含めた実用度評価に本腰いれるべきタイミングに来ている Claude CodeやCodexの導入支援は完全に赤い海と化してるし😎 https://t.co/5yOXwPEOws</title>
       <link>https://x.com/old_pgmrs_will/status/2065546758416203845</link>
       <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: Kimi-K2.7-Codeリリース、Unsloth がすでにGGUF量子化版を公開したから Ryzen AI Max + で動くか試してみよう🌘 来年の仕事に向けて、ローカル用オープンモデルの最適な稼働環境含めた実用度評価に本腰いれるべきタイミングに来ている Claude CodeやCodexの導入支援は完全に赤い海と化してるし😎 https://t.co/5yOXwPEOws</description>
@@ -262,20 +276,6 @@
       <description>冴木: instantaleやってるとコレ動かすためだけに Ryzen AI MAX + 395 ＆ 128GB RAMのPCポチりたい衝動に駆られてヤヴァい</description>
       <pubDate>Sat, 06 Jun 2026 22:02:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Saeki1982/status/2063381005982199854</guid>
-    </item>
-    <item>
-      <title>くそっ、2025年12月時点で30万切ってたのに高くなったなぁ。ローカルLLMを動かすなら、まずSoCマシンを検討すべき理由がある。CPU+NPU+GPU統合のSoCはGPUカード並みの性能は出ないが、現実的な価格で大きいモデルが動く。 Ryzen AI Max +</title>
-      <link>https://x.com/connect24h/status/2063197955293851764</link>
-      <description>connect24h: くそっ、2025年12月時点で30万切ってたのに高くなったなぁ。ローカルLLMを動かすなら、まずSoCマシンを検討すべき理由がある。CPU+NPU+GPU統合のSoCはGPUカード並みの性能は出ないが、現実的な価格で大きいモデルが動く。 Ryzen AI Max +</description>
-      <pubDate>Sat, 06 Jun 2026 09:54:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/connect24h/status/2063197955293851764</guid>
-    </item>
-    <item>
-      <title>@asciijpeditors が報告したところ、AMD は AMD Ryzen™ AI「Halo」ミニPCを発表しました。このミニPCは AMD Ryzen AI Max + 395 プロセッサを搭載しており、高性能な GPU と NPU を組み合わせ、AMD ROCm™ ソフトウェアと連携して AI 開発ワークフローを効率化します: https://t.co/jjY2a59wPI</title>
-      <link>https://x.com/amdjapan/status/2063135801085399491</link>
-      <description>AMD Japan: @asciijpeditors が報告したところ、AMD は AMD Ryzen™ AI「Halo」ミニPCを発表しました。このミニPCは AMD Ryzen AI Max + 395 プロセッサを搭載しており、高性能な GPU と NPU を組み合わせ、AMD ROCm™ ソフトウェアと連携して AI 開発ワークフローを効率化します: https://t.co/jjY2a59wPI</description>
-      <pubDate>Sat, 06 Jun 2026 05:48:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amdjapan/status/2063135801085399491</guid>
     </item>
   </channel>
 </rss>

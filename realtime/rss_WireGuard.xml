@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>インフラ系の人には当たり前だろうけど、MTUズレるとネットワーク全体が遅くなることある。 Wireguard とか知識浅くても構築できちゃう分、こういう落とし穴に気づきにくい。pingでMTU調べられるのも最近知った。</title>
+      <link>https://x.com/Tolkin_Tolk/status/2065687069809406137</link>
+      <description>怠惰: インフラ系の人には当たり前だろうけど、MTUズレるとネットワーク全体が遅くなることある。 Wireguard とか知識浅くても構築できちゃう分、こういう落とし穴に気づきにくい。pingでMTU調べられるのも最近知った。</description>
+      <pubDate>Sat, 13 Jun 2026 06:45:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tolkin_Tolk/status/2065687069809406137</guid>
+    </item>
+    <item>
+      <title>Ubuntuサーバーいれて WireGuard 入れてうごいたー 割と楽な作業だった…</title>
+      <link>https://x.com/KeisukeEJ/status/2065491479947018251</link>
+      <description>Case-K Aegirine: Ubuntuサーバーいれて WireGuard 入れてうごいたー 割と楽な作業だった…</description>
+      <pubDate>Fri, 12 Jun 2026 17:48:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KeisukeEJ/status/2065491479947018251</guid>
+    </item>
+    <item>
       <title>凄いな。こんなエントリークラスでしかも11年前の製品でも、ちゃんとファームウェアのアップデート出してくれてて、しかも延命措置みたいなのじゃなくて、 WireGuard 対応やWeb UI刷新といった新機能も入れてくれるの素晴らしい。Ubiquitiに対し、とても真面目なメーカーとの印象を受けた。</title>
       <link>https://x.com/bombom583/status/2065381418386252234</link>
       <description>bombom: 凄いな。こんなエントリークラスでしかも11年前の製品でも、ちゃんとファームウェアのアップデート出してくれてて、しかも延命措置みたいなのじゃなくて、 WireGuard 対応やWeb UI刷新といった新機能も入れてくれるの素晴らしい。Ubiquitiに対し、とても真面目なメーカーとの印象を受けた。</description>
@@ -262,20 +276,6 @@
       <description>anya: wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</description>
       <pubDate>Wed, 03 Jun 2026 13:08:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/anya_tokugawa/status/2062159551949099116</guid>
-    </item>
-    <item>
-      <title>@chekke1999 昔CiscoとBrocadeでIPsec接続試験をしたことがあります😊 暗号化方式を合わせてもなぜか繋がらず苦労した記憶があります… WireGuard くらいシンプルだと嬉しいですが、企業間接続はまだまだIPsecが多い印象です。</title>
-      <link>https://x.com/PpkunSe/status/2062156651562709094</link>
-      <description>パパくんはSE: @chekke1999 昔CiscoとBrocadeでIPsec接続試験をしたことがあります😊 暗号化方式を合わせてもなぜか繋がらず苦労した記憶があります… WireGuard くらいシンプルだと嬉しいですが、企業間接続はまだまだIPsecが多い印象です。</description>
-      <pubDate>Wed, 03 Jun 2026 12:57:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PpkunSe/status/2062156651562709094</guid>
-    </item>
-    <item>
-      <title>Wireguard …とっても気になってるのですがお家VPNを Wireguard でするにあたって買える10G対応のVPN ルータや機材って何になるのかしら…… やたらGeminiさんにも推されてるし…気になってるんですよね…… https://t.co/dzUqn3xUeD</title>
-      <link>https://x.com/hiiro_usagi/status/2062106566690738414</link>
-      <description>灰色 うさぎ(ハイイロ　ウサギ): Wireguard …とっても気になってるのですがお家VPNを Wireguard でするにあたって買える10G対応のVPN ルータや機材って何になるのかしら…… やたらGeminiさんにも推されてるし…気になってるんですよね…… https://t.co/dzUqn3xUeD</description>
-      <pubDate>Wed, 03 Jun 2026 09:38:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hiiro_usagi/status/2062106566690738414</guid>
     </item>
   </channel>
 </rss>
