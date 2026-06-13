@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そうか。さくらのVPS上に wireguard 入れて通信するとさくらのコントロールパネルに繋げなくなるｗ</title>
+      <link>https://x.com/infinitars/status/2065726455691243598</link>
+      <description>長尾一慶 (酩亭): そうか。さくらのVPS上に wireguard 入れて通信するとさくらのコントロールパネルに繋げなくなるｗ</description>
+      <pubDate>Sat, 13 Jun 2026 09:22:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/infinitars/status/2065726455691243598</guid>
+    </item>
+    <item>
       <title>インフラ系の人には当たり前だろうけど、MTUズレるとネットワーク全体が遅くなることある。 Wireguard とか知識浅くても構築できちゃう分、こういう落とし穴に気づきにくい。pingでMTU調べられるのも最近知った。</title>
       <link>https://x.com/Tolkin_Tolk/status/2065687069809406137</link>
       <description>怠惰: インフラ系の人には当たり前だろうけど、MTUズレるとネットワーク全体が遅くなることある。 Wireguard とか知識浅くても構築できちゃう分、こういう落とし穴に気づきにくい。pingでMTU調べられるのも最近知った。</description>
       <pubDate>Sat, 13 Jun 2026 06:45:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Tolkin_Tolk/status/2065687069809406137</guid>
+    </item>
+    <item>
+      <title>@shikarunochi カフェとかシャレオツすぎる わたしはラーメン屋のカウンターで出てくるのを待っている間に #PocketTerm35 で wireguard の調整をしていましたｗ 打鍵は静かでしたよ、ええ、消しゴムキーボードだし</title>
+      <link>https://x.com/h_araki/status/2065672962624434654</link>
+      <description>荒木 宏之: @shikarunochi カフェとかシャレオツすぎる わたしはラーメン屋のカウンターで出てくるのを待っている間に #PocketTerm35 で wireguard の調整をしていましたｗ 打鍵は静かでしたよ、ええ、消しゴムキーボードだし</description>
+      <pubDate>Sat, 13 Jun 2026 05:49:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/h_araki/status/2065672962624434654</guid>
     </item>
     <item>
       <title>Ubuntuサーバーいれて WireGuard 入れてうごいたー 割と楽な作業だった…</title>
@@ -262,20 +276,6 @@
       <description>まきひろ: IPSecは90年代半ばという時代に生まれた為に各国の暗号規制に対応する為認証のみ/暗号/認証付き暗号の3モードがあり各国で指定されたcipherやhashを使う為のネゴシエーションが闇深い代物。 wireguard はその辺りの組み合わせを全部捨てて一つのciphersuiteにする事で小さな実装を実現してる。</description>
       <pubDate>Wed, 03 Jun 2026 16:49:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215068687990794</guid>
-    </item>
-    <item>
-      <title>WireGuard はいいぞ</title>
-      <link>https://x.com/Rim_Earthlights/status/2062176667431547344</link>
-      <description>りーむ: WireGuard はいいぞ</description>
-      <pubDate>Wed, 03 Jun 2026 14:16:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rim_Earthlights/status/2062176667431547344</guid>
-    </item>
-    <item>
-      <title>wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</title>
-      <link>https://x.com/anya_tokugawa/status/2062159551949099116</link>
-      <description>anya: wireguard でもNICオフロードができるのなら考えてもいいけど、そうじゃないなら、IPSecかなあ。非常用の勝手口をport舐められない wireguard にするのはありかもだけど。 https://t.co/81cKL63J8j</description>
-      <pubDate>Wed, 03 Jun 2026 13:08:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/anya_tokugawa/status/2062159551949099116</guid>
     </item>
   </channel>
 </rss>

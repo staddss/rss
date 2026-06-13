@@ -5,13 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Gitpod%22</link>
     <description>Latest search results for '&quot;Gitpod&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>OpenAI、Ona（旧 Gitpod ）買収。 やばいねこれ。 Codexって今まで「セッション中だけ動く」縛りがあったんだけど、Onaの技術入れることで「ラップトップ閉じても数日間クラウドで走り続ける」エージェントになる。 しかも企業の自社VPC内で動くから、セキュリティもクリア。</title>
-      <link>https://x.com/lil_hotchkisses/status/2065580760749523440</link>
-      <description>lil_hotchkisses: OpenAI、Ona（旧 Gitpod ）買収。 やばいねこれ。 Codexって今まで「セッション中だけ動く」縛りがあったんだけど、Onaの技術入れることで「ラップトップ閉じても数日間クラウドで走り続ける」エージェントになる。 しかも企業の自社VPC内で動くから、セキュリティもクリア。</description>
-      <pubDate>Fri, 12 Jun 2026 23:43:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lil_hotchkisses/status/2065580760749523440</guid>
-    </item>
-    <item>
       <title>事業拡大に動くテック大手の3手。①OpenAIがクラウド開発環境Ona(旧 Gitpod )を買収し、AIコーディングのCodexを強化。②NTTがStarlink対抗の衛星通信「Amazon Leo」を国内提供へ。③セブン×電通×サイバーエージェントがリテールメディアの新会社を設立。🧵</title>
       <link>https://x.com/tgemr/status/2065407247447199790</link>
       <description>蒼樹 悠希: 事業拡大に動くテック大手の3手。①OpenAIがクラウド開発環境Ona(旧 Gitpod )を買収し、AIコーディングのCodexを強化。②NTTがStarlink対抗の衛星通信「Amazon Leo」を国内提供へ。③セブン×電通×サイバーエージェントがリテールメディアの新会社を設立。🧵</description>
@@ -38,6 +31,13 @@
       <description>茶谷 和弘 / K.Chatani: OpenAIがOna(旧 Gitpod )を買収。Codex週間500万人超で年初から400%増。 モデルの差が縮まる中、次の競争軸は「エージェントがどこで動くか」。環境の支配権を握った方がモデル切り替えも移動も制御できる。 MCP連携でClaude陣営も環境統合中。戦場はもうモデルの外にある</description>
       <pubDate>Fri, 12 Jun 2026 08:27:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/chataclaw/status/2065350366502563940</guid>
+    </item>
+    <item>
+      <title>OpenAIがOna(旧 Gitpod )の買収を発表。AI競争の主戦場が『モデルの賢さ』から『エージェントの職場』へ移っていることがわかる📝 ■ 発表のポイント ・Onaはセキュアなクラウド実行環境の企業で、200万人の開発者が利用してきた実績 ・Codexの週間利用者は500万人超、年初から400%増</title>
+      <link>https://x.com/shin_sasaki19/status/2065348122210140223</link>
+      <description>Shin丨AI×プロダクト開発の専門家🤵🏻: OpenAIがOna(旧 Gitpod )の買収を発表。AI競争の主戦場が『モデルの賢さ』から『エージェントの職場』へ移っていることがわかる📝 ■ 発表のポイント ・Onaはセキュアなクラウド実行環境の企業で、200万人の開発者が利用してきた実績 ・Codexの週間利用者は500万人超、年初から400%増</description>
+      <pubDate>Fri, 12 Jun 2026 08:18:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shin_sasaki19/status/2065348122210140223</guid>
     </item>
     <item>
       <title>OpenAIがクラウド環境のOna（旧 Gitpod ）を買収（米6/11）。 狙いは、Codexが「PCを閉じても数時間〜数日の作業を自律でこなす」ことみたい。 これ見ると、AIの主役が「対話」から本格的に「自律で実作業するエージェント」に移ってきたなぁ。</title>

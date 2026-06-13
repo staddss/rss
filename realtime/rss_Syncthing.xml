@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近急に syncthing アプリが通信できなくなり原因は avast だとわかったがどんな例外ルールを入れても改善せず悩んだ挙句原因が判明。 syncthing の使用するデフォルトlog出力先が問題だったぽい。--logfileで明示的にexeと同じpathに指定したら復旧した。こんなあり？</title>
+      <link>https://x.com/necoscard/status/2065366751312003127</link>
+      <description>猫’s Card: 最近急に syncthing アプリが通信できなくなり原因は avast だとわかったがどんな例外ルールを入れても改善せず悩んだ挙句原因が判明。 syncthing の使用するデフォルトlog出力先が問題だったぽい。--logfileで明示的にexeと同じpathに指定したら復旧した。こんなあり？</description>
+      <pubDate>Fri, 12 Jun 2026 09:33:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/necoscard/status/2065366751312003127</guid>
+    </item>
+    <item>
       <title>Obsidian、やっと Syncthing での同期環境で本番運用出来るようになった… 別々の端末で作ってた.md達を同一ディレクトリにまとめるのに時間かかった。 でもこれでクラウド無しで無料同期できるぞー！ PCでもAndroidでもおんなじVaultや！ #obsidian #android</title>
       <link>https://x.com/loopndayo/status/2065267855906533401</link>
       <description>るーぷん@ITの学びを言語化: Obsidian、やっと Syncthing での同期環境で本番運用出来るようになった… 別々の端末で作ってた.md達を同一ディレクトリにまとめるのに時間かかった。 でもこれでクラウド無しで無料同期できるぞー！ PCでもAndroidでもおんなじVaultや！ #obsidian #android</description>
@@ -269,13 +276,6 @@
       <description>The Mighty Buzzard: @murasametech Pi-Hole is すごい for people who aren't experienced Bind/Linux admins. I use a custom rsync script for backups but I'm picky about what I want backed up and what I don't. Cron can handle doing it on a schedule. Syncthing for photos. It's just too convenient.</description>
       <pubDate>Fri, 22 May 2026 04:02:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TMBuzzard/status/2057673393164402726</guid>
-    </item>
-    <item>
-      <title>これはね、 Syncthing で メインやサブの特定のディレクトリを同期＋ rsync で GoogleDrive への同期する機能と QMK を書き込みできる機能を備えた RaspberryPi 3A+ と、それを監視するひよこ隊長と、その部下（新人） #linux #debian #raspberrypi https://t.co/uwDJ3cg0BU</title>
-      <link>https://x.com/hiyoctrl/status/2057590860284629447</link>
-      <description>Ctrl: これはね、 Syncthing で メインやサブの特定のディレクトリを同期＋ rsync で GoogleDrive への同期する機能と QMK を書き込みできる機能を備えた RaspberryPi 3A+ と、それを監視するひよこ隊長と、その部下（新人） #linux #debian #raspberrypi https://t.co/uwDJ3cg0BU</description>
-      <pubDate>Thu, 21 May 2026 22:34:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hiyoctrl/status/2057590860284629447</guid>
     </item>
   </channel>
 </rss>
