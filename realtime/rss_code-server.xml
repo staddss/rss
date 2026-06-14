@@ -144,19 +144,5 @@
       <pubDate>Wed, 20 May 2026 14:16:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/zoetaka38/status/2057103240886673689</guid>
     </item>
-    <item>
-      <title>これ（ https://t.co/LElvjM5OAK ）、金のニワトリさんがまとめてくださっているコードやLocal LLMのトライと組み合わせると、 code - server でclaudeとcodex両方動かしながら、Even G2で操作しつつ、困ったらスマホで調整や手直し…みたいな環境作れるのでは… https://t.co/4J29JWH8wU</title>
-      <link>https://x.com/SiON_PN/status/2055275632360370323</link>
-      <description>Mimaki SiON: これ（ https://t.co/LElvjM5OAK ）、金のニワトリさんがまとめてくださっているコードやLocal LLMのトライと組み合わせると、 code - server でclaudeとcodex両方動かしながら、Even G2で操作しつつ、困ったらスマホで調整や手直し…みたいな環境作れるのでは… https://t.co/4J29JWH8wU</description>
-      <pubDate>Fri, 15 May 2026 13:14:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SiON_PN/status/2055275632360370323</guid>
-    </item>
-    <item>
-      <title>Dockerで構築した code - server 上のClaude Code CLIで、Local LLMをEven G2から操作する｜Mimaki SiON https://t.co/bagixz4Qot #zenn 書きました！ even-terminalが依存しているclaude-agent-sdkの、環境依存不具合をワークアラウンド対応する方法についても記載しています。</title>
-      <link>https://x.com/SiON_PN/status/2055194021098844307</link>
-      <description>Mimaki SiON: Dockerで構築した code - server 上のClaude Code CLIで、Local LLMをEven G2から操作する｜Mimaki SiON https://t.co/bagixz4Qot #zenn 書きました！ even-terminalが依存しているclaude-agent-sdkの、環境依存不具合をワークアラウンド対応する方法についても記載しています。</description>
-      <pubDate>Fri, 15 May 2026 07:50:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SiON_PN/status/2055194021098844307</guid>
-    </item>
   </channel>
 </rss>

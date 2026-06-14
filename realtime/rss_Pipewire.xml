@@ -179,33 +179,5 @@
       <pubDate>Tue, 19 May 2026 06:10:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/duckygduck2023/status/2056618517764706815</guid>
     </item>
-    <item>
-      <title>そろそろjackをやめて pipewire だけで行くべき？ardourでもjackを使わなくても大丈夫ですよね。レイテンシーの問題はもうないですか - Google 検索 https://t.co/lXdr6zWpOO</title>
-      <link>https://x.com/gardenpapa/status/2055393252132655568</link>
-      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: そろそろjackをやめて pipewire だけで行くべき？ardourでもjackを使わなくても大丈夫ですよね。レイテンシーの問題はもうないですか - Google 検索 https://t.co/lXdr6zWpOO</description>
-      <pubDate>Fri, 15 May 2026 21:01:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gardenpapa/status/2055393252132655568</guid>
-    </item>
-    <item>
-      <title>jackを使っているとぶつかってインストールできないね。 pipewire -jackに置き換えて pipewire だけで行くアプリ。けっこう魅力的。</title>
-      <link>https://x.com/gardenpapa/status/2055384903987216702</link>
-      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: jackを使っているとぶつかってインストールできないね。 pipewire -jackに置き換えて pipewire だけで行くアプリ。けっこう魅力的。</description>
-      <pubDate>Fri, 15 May 2026 20:28:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gardenpapa/status/2055384903987216702</guid>
-    </item>
-    <item>
-      <title>magillos/Cable: 実行時に Pipewire と Wireplumber の設定を動的に変更する PyQT アプリケーション。 https://t.co/EYfQFrftZz</title>
-      <link>https://x.com/gardenpapa/status/2055384087410684275</link>
-      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: magillos/Cable: 実行時に Pipewire と Wireplumber の設定を動的に変更する PyQT アプリケーション。 https://t.co/EYfQFrftZz</description>
-      <pubDate>Fri, 15 May 2026 20:25:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gardenpapa/status/2055384087410684275</guid>
-    </item>
-    <item>
-      <title>サムネイル付きになったにょ あと録画もちゃんとできるようになった そもそもこれを何故やる必要があったかというと、xdg-desktop-portal-wlrがバグってaudioのtick rateに引っ張られて PipeWire が駆動していたので60fpsで録画するにはきちんとしたものを作る必要があった https://t.co/FAurPwTsvk</title>
-      <link>https://x.com/_Be4_/status/2055324275591249945</link>
-      <description>🦀ベあ | bea4dev🦀: サムネイル付きになったにょ あと録画もちゃんとできるようになった そもそもこれを何故やる必要があったかというと、xdg-desktop-portal-wlrがバグってaudioのtick rateに引っ張られて PipeWire が駆動していたので60fpsで録画するにはきちんとしたものを作る必要があった https://t.co/FAurPwTsvk</description>
-      <pubDate>Fri, 15 May 2026 16:27:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Be4_/status/2055324275591249945</guid>
-    </item>
   </channel>
 </rss>

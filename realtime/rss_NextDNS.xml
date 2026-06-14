@@ -228,26 +228,5 @@
       <pubDate>Sat, 16 May 2026 12:39:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ZUCCAZACCA/status/2055629245947560254</guid>
     </item>
-    <item>
-      <title>NextDNS のセットアップ方法を見て知ったけど、dnsmasqってadd-cpe-id を指定すれば、EDNS0拡張を使ってID指定できるのね。 NextDNS のDo53 IPv4サーバでもプロファイルIDを伝えられて便利だな。</title>
-      <link>https://x.com/falms/status/2055333634052444176</link>
-      <description>F@L: NextDNS のセットアップ方法を見て知ったけど、dnsmasqってadd-cpe-id を指定すれば、EDNS0拡張を使ってID指定できるのね。 NextDNS のDo53 IPv4サーバでもプロファイルIDを伝えられて便利だな。</description>
-      <pubDate>Fri, 15 May 2026 17:04:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/falms/status/2055333634052444176</guid>
-    </item>
-    <item>
-      <title>広告ブロックは NextDNS 課金して使ってるな〜 #kitakudev</title>
-      <link>https://x.com/Comamoca_/status/2055258941265993919</link>
-      <description>こまもか🦊: 広告ブロックは NextDNS 課金して使ってるな〜 #kitakudev</description>
-      <pubDate>Fri, 15 May 2026 12:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Comamoca_/status/2055258941265993919</guid>
-    </item>
-    <item>
-      <title>NextDNS で消し去ってます！ #kitakudev</title>
-      <link>https://x.com/yuzneri/status/2055258615980941473</link>
-      <description>ゆずねり@技書博13「う09」WebP/JPEG/MPEG本: NextDNS で消し去ってます！ #kitakudev</description>
-      <pubDate>Fri, 15 May 2026 12:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuzneri/status/2055258615980941473</guid>
-    </item>
   </channel>
 </rss>

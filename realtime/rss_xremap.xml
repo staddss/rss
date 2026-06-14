@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22xremap%22</link>
     <description>Latest search results for '&quot;xremap&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>こちら、利用ユーザーがuinput使えるようにして、単体コマンドでは xremap を起動できるようになったが、サービスからの起動ができんのな。環境変数がらみの話だが。買い物行くので、また後で対応</title>
+      <link>https://x.com/yuskesuzki/status/2066003793335255515</link>
+      <description>すずき@ニセ道民: こちら、利用ユーザーがuinput使えるようにして、単体コマンドでは xremap を起動できるようになったが、サービスからの起動ができんのな。環境変数がらみの話だが。買い物行くので、また後で対応</description>
+      <pubDate>Sun, 14 Jun 2026 03:44:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2066003793335255515</guid>
+    </item>
+    <item>
       <title>諸々の都合でWayland化できないゲーミングLinuxに xremap を導入しようとしたら、環境変数 DBUS_SESSION_BUS_ADDRESSとXDG_RUNTIME_DIRが未定義のためサービス起動できない…的なエラーが出てる。謎ぃ</title>
       <link>https://x.com/yuskesuzki/status/2065929929154519047</link>
       <description>すずき@ニセ道民: 諸々の都合でWayland化できないゲーミングLinuxに xremap を導入しようとしたら、環境変数 DBUS_SESSION_BUS_ADDRESSとXDG_RUNTIME_DIRが未定義のためサービス起動できない…的なエラーが出てる。謎ぃ</description>
