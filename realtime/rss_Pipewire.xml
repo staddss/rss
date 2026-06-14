@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あれこれ設定をいじって PipeWire の pulseaudio 機能を使って、2台のLinux機器の片方で鳴らしてる音をもう片方にストリームすることにやっとこ成功。 たまに途切れるが、わりとリアルタイムにストリームはできてる。</title>
+      <link>https://x.com/yuskesuzki/status/2065747730069368906</link>
+      <description>すずき@ニセ道民: あれこれ設定をいじって PipeWire の pulseaudio 機能を使って、2台のLinux機器の片方で鳴らしてる音をもう片方にストリームすることにやっとこ成功。 たまに途切れるが、わりとリアルタイムにストリームはできてる。</description>
+      <pubDate>Sat, 13 Jun 2026 10:46:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2065747730069368906</guid>
+    </item>
+    <item>
       <title>別に正規化してたとしてもいいんだけど、 HTMLMediaElement.volume ↓ PipeWire sink-input volume が起きてるように見えるんだよな それがいやや</title>
       <link>https://x.com/FlawInAffection/status/2065547314681499662</link>
       <description>存在: 別に正規化してたとしてもいいんだけど、 HTMLMediaElement.volume ↓ PipeWire sink-input volume が起きてるように見えるんだよな それがいやや</description>

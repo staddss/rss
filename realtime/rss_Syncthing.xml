@@ -277,12 +277,5 @@
       <pubDate>Fri, 22 May 2026 07:38:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Yos_ei3/status/2057727775331770618</guid>
     </item>
-    <item>
-      <title>@murasametech Pi-Hole is すごい for people who aren't experienced Bind/Linux admins. I use a custom rsync script for backups but I'm picky about what I want backed up and what I don't. Cron can handle doing it on a schedule. Syncthing for photos. It's just too convenient.</title>
-      <link>https://x.com/TMBuzzard/status/2057673393164402726</link>
-      <description>The Mighty Buzzard: @murasametech Pi-Hole is すごい for people who aren't experienced Bind/Linux admins. I use a custom rsync script for backups but I'm picky about what I want backed up and what I don't. Cron can handle doing it on a schedule. Syncthing for photos. It's just too convenient.</description>
-      <pubDate>Fri, 22 May 2026 04:02:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TMBuzzard/status/2057673393164402726</guid>
-    </item>
   </channel>
 </rss>
