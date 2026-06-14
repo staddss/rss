@@ -5,6 +5,69 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard 用のミニPCにUbuntu Server入れた。 プリインストールのWindowsのライセンスがもったいないなw</title>
+      <link>https://x.com/ShilverJagd/status/2066023548687401162</link>
+      <description>Shilver@Garuda: wireguard 用のミニPCにUbuntu Server入れた。 プリインストールのWindowsのライセンスがもったいないなw</description>
+      <pubDate>Sun, 14 Jun 2026 05:02:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShilverJagd/status/2066023548687401162</guid>
+    </item>
+    <item>
+      <title>@L_port53 あくまでTCP使うってことは, 443/TCPによる検閲回避しないといけないレベルで規制の強いネットワーク上で使うモードであって, そういう環境じゃない限りは使うメリット無い。 OpenVPNプロファイルでも同様。 ProtonVPNなら Wireguard &gt; Stealth &gt; Wireguard over TCP の順で優先されるかなぁ。</title>
+      <link>https://x.com/shumaikun0716/status/2066004268176617913</link>
+      <description>shumaikun0716: @L_port53 あくまでTCP使うってことは, 443/TCPによる検閲回避しないといけないレベルで規制の強いネットワーク上で使うモードであって, そういう環境じゃない限りは使うメリット無い。 OpenVPNプロファイルでも同様。 ProtonVPNなら Wireguard &gt; Stealth &gt; Wireguard over TCP の順で優先されるかなぁ。</description>
+      <pubDate>Sun, 14 Jun 2026 03:46:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066004268176617913</guid>
+    </item>
+    <item>
+      <title>@L_port53 Wireguard はそもそもUDPのみだよ。Protonがなぜか独自改造したのか知らんがTCPモードもあるだけ。</title>
+      <link>https://x.com/shumaikun0716/status/2066002363098488884</link>
+      <description>shumaikun0716: @L_port53 Wireguard はそもそもUDPのみだよ。Protonがなぜか独自改造したのか知らんがTCPモードもあるだけ。</description>
+      <pubDate>Sun, 14 Jun 2026 03:38:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066002363098488884</guid>
+    </item>
+    <item>
+      <title>@L_port53 方式というかProton公式アプリの話。 Wireguard アプリの場合は Wireguard (UDP)固定。ただ, プロファイルの有効期限があるので定期的に置き換えが必要でちと面倒。</title>
+      <link>https://x.com/shumaikun0716/status/2066000180110053740</link>
+      <description>shumaikun0716: @L_port53 方式というかProton公式アプリの話。 Wireguard アプリの場合は Wireguard (UDP)固定。ただ, プロファイルの有効期限があるので定期的に置き換えが必要でちと面倒。</description>
+      <pubDate>Sun, 14 Jun 2026 03:30:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066000180110053740</guid>
+    </item>
+    <item>
+      <title>@L_port53 Wireguard はこっちのアプリ使った方が安定はする。ProtonVPNのアプリよりはかなりマシ。しかも他に色々プロファイル入れれて便利。 いやまぁ確かにCloudflareの1.1.1.1優秀だけどね。 https://t.co/aoMKfQaOae</title>
+      <link>https://x.com/shumaikun0716/status/2065995167405064543</link>
+      <description>shumaikun0716: @L_port53 Wireguard はこっちのアプリ使った方が安定はする。ProtonVPNのアプリよりはかなりマシ。しかも他に色々プロファイル入れれて便利。 いやまぁ確かにCloudflareの1.1.1.1優秀だけどね。 https://t.co/aoMKfQaOae</description>
+      <pubDate>Sun, 14 Jun 2026 03:10:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2065995167405064543</guid>
+    </item>
+    <item>
+      <title>iPadでProtonの Wireguard 繋がりにくくて諦めたのでこれいれてきた まぁほぼほぼネットに落ちてたProton Wireguard とか使うからそうなってんだけどね((( https://t.co/TKuptEwrE5</title>
+      <link>https://x.com/L_port53/status/2065979441478815856</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: iPadでProtonの Wireguard 繋がりにくくて諦めたのでこれいれてきた まぁほぼほぼネットに落ちてたProton Wireguard とか使うからそうなってんだけどね((( https://t.co/TKuptEwrE5</description>
+      <pubDate>Sun, 14 Jun 2026 02:07:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2065979441478815856</guid>
+    </item>
+    <item>
+      <title>うーん、素の WireGuard でやるかTailscaleでやっちゃうか迷うね、 ぶっちゃけVPN使うくらいならTailscaleでいいんだけど、勉強でやってるとこあるからWGでやりたい気持ちもある ただそんな時間あるのかって話ね</title>
+      <link>https://x.com/Mimizu_pa/status/2065950229929902234</link>
+      <description>みみず: うーん、素の WireGuard でやるかTailscaleでやっちゃうか迷うね、 ぶっちゃけVPN使うくらいならTailscaleでいいんだけど、勉強でやってるとこあるからWGでやりたい気持ちもある ただそんな時間あるのかって話ね</description>
+      <pubDate>Sun, 14 Jun 2026 00:11:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Mimizu_pa/status/2065950229929902234</guid>
+    </item>
+    <item>
+      <title>Questで WireGuard 使えれば出先でPCVRが可能に…？</title>
+      <link>https://x.com/kexxxtsu_umeee/status/2065926792758899102</link>
+      <description>経血ドロリッチ: Questで WireGuard 使えれば出先でPCVRが可能に…？</description>
+      <pubDate>Sat, 13 Jun 2026 22:38:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kexxxtsu_umeee/status/2065926792758899102</guid>
+    </item>
+    <item>
+      <title>RPi4まではRTCがないことを完全に失念していた… 普通なら起動時ntpかなんかで同期して終わりじゃんな話なのだが、 Wireguard でVPN貼ってルーティングを全部そっちに回すと話が違ってくる。 Wireguard は時刻がおかしいパケットを黙ってDROPする(!)のだ。 あとはわかるな？</title>
+      <link>https://x.com/Y_Sakurai/status/2065875460618359218</link>
+      <description>櫻井 雄大: RPi4まではRTCがないことを完全に失念していた… 普通なら起動時ntpかなんかで同期して終わりじゃんな話なのだが、 Wireguard でVPN貼ってルーティングを全部そっちに回すと話が違ってくる。 Wireguard は時刻がおかしいパケットを黙ってDROPする(!)のだ。 あとはわかるな？</description>
+      <pubDate>Sat, 13 Jun 2026 19:14:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Y_Sakurai/status/2065875460618359218</guid>
+    </item>
+    <item>
       <title>さくらVPS512で WireGuard 設定してみた。 やっぱり100Mだな。10G契約していてこれか増すのは非常にもったいない気がする。せめて1G帯域ならな。 こらだったらIP固定したいだけだったらロリポップとかのが良さそう。しかし石狩サーバーのはずなのになぜ大阪なんだ。 https://t.co/D7EhI89jiS</title>
       <link>https://x.com/infinitars/status/2065730159660216441</link>
       <description>長尾一慶 (酩亭): さくらVPS512で WireGuard 設定してみた。 やっぱり100Mだな。10G契約していてこれか増すのは非常にもったいない気がする。せめて1G帯域ならな。 こらだったらIP固定したいだけだったらロリポップとかのが良さそう。しかし石狩サーバーのはずなのになぜ大阪なんだ。 https://t.co/D7EhI89jiS</description>
@@ -213,69 +276,6 @@
       <description>W21CA Template: SNMPで帯域取得したいとか WireGuard とかadblockしたいとかが無ければ普通に市販のWi-Fiルーター買った方が安上がり。</description>
       <pubDate>Sat, 06 Jun 2026 06:57:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/w21ca_template/status/2063153378344206605</guid>
-    </item>
-    <item>
-      <title>@Sovecx 今も wireguard 起動してる https://t.co/pwPyMmJMFs</title>
-      <link>https://x.com/L_port53/status/2063085601465962801</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @Sovecx 今も wireguard 起動してる https://t.co/pwPyMmJMFs</description>
-      <pubDate>Sat, 06 Jun 2026 02:28:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2063085601465962801</guid>
-    </item>
-    <item>
-      <title>うちが借りてるVPSのSSHのポートは全部IP制限かけて運用してますねー さらに別でSSHのアクセスを閉じたVPN( WireGuard )だけ動いてるVPSがあり、そこのグローバルIPだけ許可しています 多段で破られないと乗っ取れない感じですね https://t.co/DalP0yT6pK</title>
-      <link>https://x.com/k_koyanagi_null/status/2063019568420065441</link>
-      <description>小柳勝範＠札幌のIT会社の代表: うちが借りてるVPSのSSHのポートは全部IP制限かけて運用してますねー さらに別でSSHのアクセスを閉じたVPN( WireGuard )だけ動いてるVPSがあり、そこのグローバルIPだけ許可しています 多段で破られないと乗っ取れない感じですね https://t.co/DalP0yT6pK</description>
-      <pubDate>Fri, 05 Jun 2026 22:06:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k_koyanagi_null/status/2063019568420065441</guid>
-    </item>
-    <item>
-      <title>@kiyosan_life @Shibu_beta @nifty うちも自宅サーバーあるんですが、非公開はTailscaleで、公開用は手前にVPS置いて Wireguard でトンネリングして外からのアクセスはVPS経由にしましたね 正直これで事足りちゃってるので、固定IP契約いらんくね？となった次第で</title>
-      <link>https://x.com/minatochang/status/2062567961010094223</link>
-      <description>巳波みなと / minato86: @kiyosan_life @Shibu_beta @nifty うちも自宅サーバーあるんですが、非公開はTailscaleで、公開用は手前にVPS置いて Wireguard でトンネリングして外からのアクセスはVPS経由にしましたね 正直これで事足りちゃってるので、固定IP契約いらんくね？となった次第で</description>
-      <pubDate>Thu, 04 Jun 2026 16:11:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minatochang/status/2062567961010094223</guid>
-    </item>
-    <item>
-      <title>記事を投稿しました！ WireGuard を使ったVPN設定：MAP-E（v6プラス）編 https://t.co/bqx5cq2KhM #Qiita</title>
-      <link>https://x.com/maestroshinichi/status/2062513515290890383</link>
-      <description>まえすとろ: 記事を投稿しました！ WireGuard を使ったVPN設定：MAP-E（v6プラス）編 https://t.co/bqx5cq2KhM #Qiita</description>
-      <pubDate>Thu, 04 Jun 2026 12:35:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/maestroshinichi/status/2062513515290890383</guid>
-    </item>
-    <item>
-      <title>1年ぶりのラズパイ WireGuard 運用💦 L2TP通らないNURO光等が増えてるので WireGuard でのVPNは0にはできないんだよねぇ😂 pivpn add でVPNユーザー追加しようとしたら、SSHコマンドほぼ忘れててIP欄に名前ぶち込んで大混乱w</title>
-      <link>https://x.com/DIGIUSAGI/status/2062467012287508705</link>
-      <description>コレサワシゲユキ／でこうさぎ: 1年ぶりのラズパイ WireGuard 運用💦 L2TP通らないNURO光等が増えてるので WireGuard でのVPNは0にはできないんだよねぇ😂 pivpn add でVPNユーザー追加しようとしたら、SSHコマンドほぼ忘れててIP欄に名前ぶち込んで大混乱w</description>
-      <pubDate>Thu, 04 Jun 2026 09:30:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2062467012287508705</guid>
-    </item>
-    <item>
-      <title>wireguard の解説はfadisさんのスライドがよかった https://t.co/Wy0ojSVouJ</title>
-      <link>https://x.com/m_akihiro/status/2062401376681079245</link>
-      <description>まきひろ: wireguard の解説はfadisさんのスライドがよかった https://t.co/Wy0ojSVouJ</description>
-      <pubDate>Thu, 04 Jun 2026 05:09:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062401376681079245</guid>
-    </item>
-    <item>
-      <title>IKEv2/IPsecはRFC4555のおかげでロードウォリアーでは Wireguard よりも便利 L2TP/IPsec(IKEv1)はさっさと淘汰されてほしい https://t.co/i7012SR3HW</title>
-      <link>https://x.com/___Nova___/status/2062219976120152449</link>
-      <description>めてお: IKEv2/IPsecはRFC4555のおかげでロードウォリアーでは Wireguard よりも便利 L2TP/IPsec(IKEv1)はさっさと淘汰されてほしい https://t.co/i7012SR3HW</description>
-      <pubDate>Wed, 03 Jun 2026 17:08:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/___Nova___/status/2062219976120152449</guid>
-    </item>
-    <item>
-      <title>正直 Wireguard を使う動機がぜんぜん思い浮かばないので引き続き IPsec です。 https://t.co/ZFs6u7vy79</title>
-      <link>https://x.com/Tsutomu_KIMURA/status/2062218504666034463</link>
-      <description>Tsutomu KIMURA: 正直 Wireguard を使う動機がぜんぜん思い浮かばないので引き続き IPsec です。 https://t.co/ZFs6u7vy79</description>
-      <pubDate>Wed, 03 Jun 2026 17:03:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tsutomu_KIMURA/status/2062218504666034463</guid>
-    </item>
-    <item>
-      <title>wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</title>
-      <link>https://x.com/m_akihiro/status/2062215613523910829</link>
-      <description>まきひろ: wireguard にはciphersuiteのネゴシエーションが無いので、PQCを組み込むなら互換性を持たないものになるでしょう</description>
-      <pubDate>Wed, 03 Jun 2026 16:51:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_akihiro/status/2062215613523910829</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeの右クリックに表示される「geminiに相談」を消す方法 Chromeのアドレスバーに以下を入力して開く chrome :// flags /#glic Glic（Gemini in Chrome の内部名称）を探す 設定を Disabled に変更 Chromeを再起動 これで右クリックメニューの「Geminiに相談」が消えます。</title>
+      <link>https://x.com/hyado2025/status/2065610328101294191</link>
+      <description>hyado2025: Chromeの右クリックに表示される「geminiに相談」を消す方法 Chromeのアドレスバーに以下を入力して開く chrome :// flags /#glic Glic（Gemini in Chrome の内部名称）を探す 設定を Disabled に変更 Chromeを再起動 これで右クリックメニューの「Geminiに相談」が消えます。</description>
+      <pubDate>Sat, 13 Jun 2026 01:40:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hyado2025/status/2065610328101294191</guid>
+    </item>
+    <item>
       <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
       <link>https://x.com/cotodaman/status/2065536945976140248</link>
       <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
@@ -269,13 +276,6 @@
       <description>すぴ/Supiris/Aki☄: 最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</description>
       <pubDate>Sun, 17 May 2026 10:35:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akisupi/status/2055960413700059450</guid>
-    </item>
-    <item>
-      <title>【備忘録】 一昨日辺りから頻発のChromeでXやYouTubeがエラー吐いて落ちるバグ ・システム設定のグラフィックアクセラレーションOFF ・ chrome :// flags /#use-angle の値をDefaultからD3D11に変更 でとりあえず安定か 次のChromeアップデートで元に戻すのを忘れないように</title>
-      <link>https://x.com/_takadon/status/2055937036285309246</link>
-      <description>たかどん: 【備忘録】 一昨日辺りから頻発のChromeでXやYouTubeがエラー吐いて落ちるバグ ・システム設定のグラフィックアクセラレーションOFF ・ chrome :// flags /#use-angle の値をDefaultからD3D11に変更 でとりあえず安定か 次のChromeアップデートで元に戻すのを忘れないように</description>
-      <pubDate>Sun, 17 May 2026 09:02:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_takadon/status/2055937036285309246</guid>
     </item>
   </channel>
 </rss>
