@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22xremap%22</link>
     <description>Latest search results for '&quot;xremap&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ユーザーモードでは xremap がうまく動かせなかったので、システムサービスで xremap を起動できるよう変更。サービスは動いたけど、権限の問題が発生してまだちゃんと動かず。もうちょいで動きそうだけどなぁ</title>
+      <link>https://x.com/yuskesuzki/status/2066252781670064617</link>
+      <description>すずき@ニセ道民: ユーザーモードでは xremap がうまく動かせなかったので、システムサービスで xremap を起動できるよう変更。サービスは動いたけど、権限の問題が発生してまだちゃんと動かず。もうちょいで動きそうだけどなぁ</description>
+      <pubDate>Sun, 14 Jun 2026 20:13:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2066252781670064617</guid>
+    </item>
+    <item>
       <title>こちら、利用ユーザーがuinput使えるようにして、単体コマンドでは xremap を起動できるようになったが、サービスからの起動ができんのな。環境変数がらみの話だが。買い物行くので、また後で対応</title>
       <link>https://x.com/yuskesuzki/status/2066003793335255515</link>
       <description>すずき@ニセ道民: こちら、利用ユーザーがuinput使えるようにして、単体コマンドでは xremap を起動できるようになったが、サービスからの起動ができんのな。環境変数がらみの話だが。買い物行くので、また後で対応</description>

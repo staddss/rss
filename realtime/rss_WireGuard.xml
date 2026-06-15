@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ch26167778 wireguard 使えないならパスかなあ</title>
+      <link>https://x.com/haru101105/status/2066496608645358058</link>
+      <description>はる: @ch26167778 wireguard 使えないならパスかなあ</description>
+      <pubDate>Mon, 15 Jun 2026 12:22:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haru101105/status/2066496608645358058</guid>
+    </item>
+    <item>
+      <title>Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/oXrprooymH #zenn</title>
+      <link>https://x.com/Lucky3028/status/2066490153443709413</link>
+      <description>Lucky: Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/oXrprooymH #zenn</description>
+      <pubDate>Mon, 15 Jun 2026 11:57:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Lucky3028/status/2066490153443709413</guid>
+    </item>
+    <item>
+      <title>@ch26167778 $35でVPN5年とAdguard Family永年ライセンスついてくるので非常にお得 欠点としては Wireguard 直で使えないところ</title>
+      <link>https://x.com/TRX9800_/status/2066469606315933790</link>
+      <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @ch26167778 $35でVPN5年とAdguard Family永年ライセンスついてくるので非常にお得 欠点としては Wireguard 直で使えないところ</description>
+      <pubDate>Mon, 15 Jun 2026 10:35:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TRX9800_/status/2066469606315933790</guid>
+    </item>
+    <item>
+      <title>@taitai2661dayo chatgptログインなしでもいっぱい使えるから正直codex使う時以外いらない気がしてる(( 適当なプロファイル作ってchatgpt開けば元通りだし、適当な wireguard とかつければ一番いい、</title>
+      <link>https://x.com/L_port53/status/2066446277059997992</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @taitai2661dayo chatgptログインなしでもいっぱい使えるから正直codex使う時以外いらない気がしてる(( 適当なプロファイル作ってchatgpt開けば元通りだし、適当な wireguard とかつければ一番いい、</description>
+      <pubDate>Mon, 15 Jun 2026 09:02:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2066446277059997992</guid>
+    </item>
+    <item>
       <title>@haru101105 AdGuard VPNは、公式にはノーログポリシーを掲げ、IPアドレスや通信履歴などのログを一切収集・保存しない方針をとっていますが、現在アプリ内で WireGuard を直接選択することはできません。</title>
       <link>https://x.com/ch26167778/status/2066333537574523049</link>
       <description>かぶかぶ: @haru101105 AdGuard VPNは、公式にはノーログポリシーを掲げ、IPアドレスや通信履歴などのログを一切収集・保存しない方針をとっていますが、現在アプリ内で WireGuard を直接選択することはできません。</description>
@@ -248,34 +276,6 @@
       <description>怠惰: WireGuard 経由で UNEXT が見れない問題を解決した話 https://t.co/rniGY6G4Pp # WireGuard #iptables #インフラ #ネットワーク</description>
       <pubDate>Sun, 07 Jun 2026 00:26:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Tolkin_Tolk/status/2063417383176610073</guid>
-    </item>
-    <item>
-      <title>Tailscale https://t.co/Qb9wsvdz7R 単純に Wireguard でVPN構築するのとほぼ同じ！ サーバーと自分のPCの両方にTailscaleクライアントをインストールして、サーバーに割り当てられたTailscaleのIP(100.x.x.x)にsshするだけ マシン同士ではP2Pで通信して、TCPパケットをそのままやり取りできるやつ</title>
-      <link>https://x.com/PoyotanP/status/2063397488758039028</link>
-      <description>ぽよたんぴ@VRC垢: Tailscale https://t.co/Qb9wsvdz7R 単純に Wireguard でVPN構築するのとほぼ同じ！ サーバーと自分のPCの両方にTailscaleクライアントをインストールして、サーバーに割り当てられたTailscaleのIP(100.x.x.x)にsshするだけ マシン同士ではP2Pで通信して、TCPパケットをそのままやり取りできるやつ</description>
-      <pubDate>Sat, 06 Jun 2026 23:07:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PoyotanP/status/2063397488758039028</guid>
-    </item>
-    <item>
-      <title>sshの上に、 Tailscale( Wireguard )・cloudflared(普通のトンネリング)・Cloudflare Access for Infrastructure(Zero Trust) のどれかを挟めば倍くらい安全になると思う (メモとしてそれぞれツリーに書いとく！) https://t.co/DKrIqqUs7v</title>
-      <link>https://x.com/PoyotanP/status/2063396499846041638</link>
-      <description>ぽよたんぴ@VRC垢: sshの上に、 Tailscale( Wireguard )・cloudflared(普通のトンネリング)・Cloudflare Access for Infrastructure(Zero Trust) のどれかを挟めば倍くらい安全になると思う (メモとしてそれぞれツリーに書いとく！) https://t.co/DKrIqqUs7v</description>
-      <pubDate>Sat, 06 Jun 2026 23:03:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PoyotanP/status/2063396499846041638</guid>
-    </item>
-    <item>
-      <title>VyOS に関心があるが、スキル不足なので Wireguard で VPN を使って通信を確立するとかを始めることにした。</title>
-      <link>https://x.com/SeahalJa/status/2063296786358501819</link>
-      <description>SEAHAL(Ja): VyOS に関心があるが、スキル不足なので Wireguard で VPN を使って通信を確立するとかを始めることにした。</description>
-      <pubDate>Sat, 06 Jun 2026 16:27:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2063296786358501819</guid>
-    </item>
-    <item>
-      <title>ZUNDA CONNECT ROUTER には WireGuard を使用した Mesh VPN 機能がついていて、簡単に拠点間接続ができます。 ✅️面倒なルーティング設定、鍵管理は不要 ✅️4G OOB 回線で安全に公開鍵と経路情報を交換 ✅️NGN網 (フレッツ) 折返し通信に自動対応 ✅️オプション料金なし https://t.co/3AwGYm2Lqf</title>
-      <link>https://x.com/ZUNDA_IT/status/2063265597987967224</link>
-      <description>ZUNDA Inc.: ZUNDA CONNECT ROUTER には WireGuard を使用した Mesh VPN 機能がついていて、簡単に拠点間接続ができます。 ✅️面倒なルーティング設定、鍵管理は不要 ✅️4G OOB 回線で安全に公開鍵と経路情報を交換 ✅️NGN網 (フレッツ) 折返し通信に自動対応 ✅️オプション料金なし https://t.co/3AwGYm2Lqf</description>
-      <pubDate>Sat, 06 Jun 2026 14:23:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ZUNDA_IT/status/2063265597987967224</guid>
     </item>
   </channel>
 </rss>
