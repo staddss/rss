@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@haru101105 AdGuard VPNは、公式にはノーログポリシーを掲げ、IPアドレスや通信履歴などのログを一切収集・保存しない方針をとっていますが、現在アプリ内で WireGuard を直接選択することはできません。</title>
+      <link>https://x.com/ch26167778/status/2066333537574523049</link>
+      <description>かぶかぶ: @haru101105 AdGuard VPNは、公式にはノーログポリシーを掲げ、IPアドレスや通信履歴などのログを一切収集・保存しない方針をとっていますが、現在アプリ内で WireGuard を直接選択することはできません。</description>
+      <pubDate>Mon, 15 Jun 2026 01:34:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ch26167778/status/2066333537574523049</guid>
+    </item>
+    <item>
+      <title>@ch26167778 AdguardVPNって wireguard 対応しててノーログポリシーありますか？</title>
+      <link>https://x.com/haru101105/status/2066322832666357977</link>
+      <description>はる: @ch26167778 AdguardVPNって wireguard 対応しててノーログポリシーありますか？</description>
+      <pubDate>Mon, 15 Jun 2026 00:52:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haru101105/status/2066322832666357977</guid>
+    </item>
+    <item>
       <title>wireguard 用のミニPCにUbuntu Server入れた。 プリインストールのWindowsのライセンスがもったいないなw</title>
       <link>https://x.com/ShilverJagd/status/2066023548687401162</link>
       <description>Shilver@Garuda: wireguard 用のミニPCにUbuntu Server入れた。 プリインストールのWindowsのライセンスがもったいないなw</description>
@@ -24,6 +38,13 @@
       <description>shumaikun0716: @L_port53 Wireguard はそもそもUDPのみだよ。Protonがなぜか独自改造したのか知らんがTCPモードもあるだけ。</description>
       <pubDate>Sun, 14 Jun 2026 03:38:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066002363098488884</guid>
+    </item>
+    <item>
+      <title>@shumaikun0716 おっけー てかあれ wireguard 書き出す時ってUDP-TCPの選択どこ あサイトだからか https://t.co/BehUYcofvo</title>
+      <link>https://x.com/L_port53/status/2066002132407648294</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 おっけー てかあれ wireguard 書き出す時ってUDP-TCPの選択どこ あサイトだからか https://t.co/BehUYcofvo</description>
+      <pubDate>Sun, 14 Jun 2026 03:37:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2066002132407648294</guid>
     </item>
     <item>
       <title>@L_port53 方式というかProton公式アプリの話。 Wireguard アプリの場合は Wireguard (UDP)固定。ただ, プロファイルの有効期限があるので定期的に置き換えが必要でちと面倒。</title>
@@ -255,27 +276,6 @@
       <description>ZUNDA Inc.: ZUNDA CONNECT ROUTER には WireGuard を使用した Mesh VPN 機能がついていて、簡単に拠点間接続ができます。 ✅️面倒なルーティング設定、鍵管理は不要 ✅️4G OOB 回線で安全に公開鍵と経路情報を交換 ✅️NGN網 (フレッツ) 折返し通信に自動対応 ✅️オプション料金なし https://t.co/3AwGYm2Lqf</description>
       <pubDate>Sat, 06 Jun 2026 14:23:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ZUNDA_IT/status/2063265597987967224</guid>
-    </item>
-    <item>
-      <title>@shibanyan_1 アクセス元制限や多要素認証に加えて、要件に合わせてできればモダンかつ適度にシンプルなプロトコル(例えば Wireguard )を使ったり、各アカウントの権限やアクセスできる範囲は最小限にしたりすることは必須かなと思いますね。 この動画では十分そういった要素について言及されているかと思います。</title>
-      <link>https://x.com/sashisashi569/status/2063176834121183537</link>
-      <description>sashisashi: @shibanyan_1 アクセス元制限や多要素認証に加えて、要件に合わせてできればモダンかつ適度にシンプルなプロトコル(例えば Wireguard )を使ったり、各アカウントの権限やアクセスできる範囲は最小限にしたりすることは必須かなと思いますね。 この動画では十分そういった要素について言及されているかと思います。</description>
-      <pubDate>Sat, 06 Jun 2026 08:31:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2063176834121183537</guid>
-    </item>
-    <item>
-      <title>routerdでProxmox VEのSDNやKubernetesのEdge接続出来るようにBGP /32でECMPメッシュIPIPトンネルみたいなことを出来るようにし始めた。 Wireguard だとAllowedIPsの問題が出てきてIPIPが挟まり始めてる。</title>
-      <link>https://x.com/imksoo/status/2063159657389334902</link>
-      <description>きりの: routerdでProxmox VEのSDNやKubernetesのEdge接続出来るようにBGP /32でECMPメッシュIPIPトンネルみたいなことを出来るようにし始めた。 Wireguard だとAllowedIPsの問題が出てきてIPIPが挟まり始めてる。</description>
-      <pubDate>Sat, 06 Jun 2026 07:22:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imksoo/status/2063159657389334902</guid>
-    </item>
-    <item>
-      <title>SNMPで帯域取得したいとか WireGuard とかadblockしたいとかが無ければ普通に市販のWi-Fiルーター買った方が安上がり。</title>
-      <link>https://x.com/w21ca_template/status/2063153378344206605</link>
-      <description>W21CA Template: SNMPで帯域取得したいとか WireGuard とかadblockしたいとかが無ければ普通に市販のWi-Fiルーター買った方が安上がり。</description>
-      <pubDate>Sat, 06 Jun 2026 06:57:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/w21ca_template/status/2063153378344206605</guid>
     </item>
   </channel>
 </rss>
