@@ -277,12 +277,5 @@
       <pubDate>Sun, 17 May 2026 14:45:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mishima2006/status/2056023210056094168</guid>
     </item>
-    <item>
-      <title>最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</title>
-      <link>https://x.com/akisupi/status/2055960413700059450</link>
-      <description>すぴ/Supiris/Aki☄: 最近PCブラウザ版Twitterで「STATUS_ACCESS_VIOLATION」というエラーが頻発して困っている人へ Windowsアップデート絡みの問題らしく、下記手順で回避できるかも 1. URLバーに 「 chrome :// flags /#use-angle」と入力してEnter 2.「Choose ANGLE graphics backend」 を「D3D11」に変更しブラウザ再起動</description>
-      <pubDate>Sun, 17 May 2026 10:35:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/akisupi/status/2055960413700059450</guid>
-    </item>
   </channel>
 </rss>
