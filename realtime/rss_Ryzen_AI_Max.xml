@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Gemma4の26B q8_0と31B q8_0の2つをコンテキスト長256kで常駐させるとメモリ使用量はこれくらいです。AMD Ryzen AI Max + 395の128GBなら両方VRAMに載ります。 https://t.co/1LW4NOPeqX</title>
+      <link>https://x.com/nishizawa_chem/status/2067001222754898255</link>
+      <description>にしざわ 計算化学サイト管理人: Gemma4の26B q8_0と31B q8_0の2つをコンテキスト長256kで常駐させるとメモリ使用量はこれくらいです。AMD Ryzen AI Max + 395の128GBなら両方VRAMに載ります。 https://t.co/1LW4NOPeqX</description>
+      <pubDate>Tue, 16 Jun 2026 21:47:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nishizawa_chem/status/2067001222754898255</guid>
+    </item>
+    <item>
+      <title>AMD Ryzen AI Max + 395 unsloth gemma-4-26B-A4B-it-Q8_0.gguf + gemma-4-26B-A4B-it-Q8_0-MTP.gguf total 25.4GB speed 55.1 tokens/s 長文でも安定稼働できる8bit量子化モデルがMTPでこの速度で動くのは嬉しい！ https://t.co/xEFBCgPxIg</title>
+      <link>https://x.com/nishizawa_chem/status/2066997761460019380</link>
+      <description>にしざわ 計算化学サイト管理人: AMD Ryzen AI Max + 395 unsloth gemma-4-26B-A4B-it-Q8_0.gguf + gemma-4-26B-A4B-it-Q8_0-MTP.gguf total 25.4GB speed 55.1 tokens/s 長文でも安定稼働できる8bit量子化モデルがMTPでこの速度で動くのは嬉しい！ https://t.co/xEFBCgPxIg</description>
+      <pubDate>Tue, 16 Jun 2026 21:34:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nishizawa_chem/status/2066997761460019380</guid>
+    </item>
+    <item>
+      <title>AMDの Ryzen AI Max + 395積んだmini PC一つで235B快適動くって聞いて自分のMac Mini nestedが一瞬低コスパ認定されて部屋の配線だらけデスク虚しく浮かんだ。</title>
+      <link>https://x.com/KokureiOpt/status/2066984083951849574</link>
+      <description>虚空零(れい): AMDの Ryzen AI Max + 395積んだmini PC一つで235B快適動くって聞いて自分のMac Mini nestedが一瞬低コスパ認定されて部屋の配線だらけデスク虚しく浮かんだ。</description>
+      <pubDate>Tue, 16 Jun 2026 20:39:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KokureiOpt/status/2066984083951849574</guid>
+    </item>
+    <item>
+      <title>詳細: ローカルAI PCを見る時の注意点。 結論: 「大きいモデルがローカルで動く」は面白いですが、そのまま「ChatGPTやClaudeの代わりになる」と読むとズレます。見るべきなのは、モデル名よりも、量子化、メモリ、入力処理、生成速度、初期費用です。 1. 何が話題か Ryzen AI Max + 395やStrix</title>
+      <link>https://x.com/yudexai/status/2066962006129926188</link>
+      <description>yudex｜AIニュースと市場メモ: 詳細: ローカルAI PCを見る時の注意点。 結論: 「大きいモデルがローカルで動く」は面白いですが、そのまま「ChatGPTやClaudeの代わりになる」と読むとズレます。見るべきなのは、モデル名よりも、量子化、メモリ、入力処理、生成速度、初期費用です。 1. 何が話題か Ryzen AI Max + 395やStrix</description>
+      <pubDate>Tue, 16 Jun 2026 19:11:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yudexai/status/2066962006129926188</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max +積んだランチボックスサイズのミニPCで235Bモデル動くって…ローカルでここまで来ると趣味のPC弄りがまた熱くなりそう。クラウドなしってのがいいよね。みんなこういうのどう見てる？ https://t.co/EMRMQNKo5M</title>
+      <link>https://x.com/kazugajimemo/status/2066950281297080652</link>
+      <description>かず@ガジェメモ: Ryzen AI Max +積んだランチボックスサイズのミニPCで235Bモデル動くって…ローカルでここまで来ると趣味のPC弄りがまた熱くなりそう。クラウドなしってのがいいよね。みんなこういうのどう見てる？ https://t.co/EMRMQNKo5M</description>
+      <pubDate>Tue, 16 Jun 2026 18:25:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kazugajimemo/status/2066950281297080652</guid>
+    </item>
+    <item>
+      <title>lunchboxで235Bローカル動く Ryzen AI Max +詳細ヤバいわ。伝統的な高額クラウドやGPU箱に縛られてる人見てるとホリエパターンで個人最適化側が勝つ流れが一気に加速してる実感。 https://t.co/CJxa4LhbHI</title>
+      <link>https://x.com/horiestormx/status/2066903980576301182</link>
+      <description>ホリエ熱狂戦士: lunchboxで235Bローカル動く Ryzen AI Max +詳細ヤバいわ。伝統的な高額クラウドやGPU箱に縛られてる人見てるとホリエパターンで個人最適化側が勝つ流れが一気に加速してる実感。 https://t.co/CJxa4LhbHI</description>
+      <pubDate>Tue, 16 Jun 2026 15:21:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horiestormx/status/2066903980576301182</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max +でローカル200B…サブスク課金なしでClaude級回せるの最高すぎる。梅雨の狭いデスクで常時稼働させて解析ループ短縮できそうオヨヨヨ…… https://t.co/g0OfDTkNMz</title>
+      <link>https://x.com/reikeisanai/status/2066894493119385940</link>
+      <description>零効率計算機: Ryzen AI Max +でローカル200B…サブスク課金なしでClaude級回せるの最高すぎる。梅雨の狭いデスクで常時稼働させて解析ループ短縮できそうオヨヨヨ…… https://t.co/g0OfDTkNMz</description>
+      <pubDate>Tue, 16 Jun 2026 14:43:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/reikeisanai/status/2066894493119385940</guid>
+    </item>
+    <item>
       <title>11万円の Ryzen AI MAX + 395搭載ゲーミングPC買ってみたけど出品者消えてるから100%届かないなこれw https://t.co/iYzFcun5yI</title>
       <link>https://x.com/nonnbiri_maru/status/2066876693399412941</link>
       <description>nonnbiri/ふじ丸🐈: 11万円の Ryzen AI MAX + 395搭載ゲーミングPC買ってみたけど出品者消えてるから100%届かないなこれw https://t.co/iYzFcun5yI</description>
@@ -227,55 +276,6 @@
       <description>木: AMD Ryzen AI Halo が$4000で、1ドル160.23円換算で￥640908。高い。 # メモリ帯域 - Ryzen AI MAX 395: 256GB/s - DGX Spark: 273GB/s - M5 Max: 614GB/s - RTX PRO 6000: 1,792GB/s やはりバランスがいいのはプレフィル性能が上がったM5 Maxになってしまうのか？</description>
       <pubDate>Mon, 15 Jun 2026 17:18:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tree_tips/status/2066571076747108435</guid>
-    </item>
-    <item>
-      <title>@tamanekokoro 31Bだと gemma-4-31B-it-Q4_K_M.gguf は試したんですが、 Ryzen AI Max だと 10t/s 程度しか出ないので特に深追いしてないです （NVDIAならもっと出るんでしょうけど）</title>
-      <link>https://x.com/old_pgmrs_will/status/2066554175715176917</link>
-      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: @tamanekokoro 31Bだと gemma-4-31B-it-Q4_K_M.gguf は試したんですが、 Ryzen AI Max だと 10t/s 程度しか出ないので特に深追いしてないです （NVDIAならもっと出るんでしょうけど）</description>
-      <pubDate>Mon, 15 Jun 2026 16:11:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2066554175715176917</guid>
-    </item>
-    <item>
-      <title>gemma-4-26B-A4B-it-UD-Q4_K_M.gguf （モデルサイズ=17GB、実行時のReasoning Effort=Max） AMD Ryzen AI Max + 395 で 41~42 t/s 出てる👍 この環境だと Gemma4 は 26B-A4B Q4 系が一番速度が出そう（生成精度はまだちゃんと見てない） https://t.co/8diCV3oZOS</title>
-      <link>https://x.com/old_pgmrs_will/status/2066542140638003708</link>
-      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: gemma-4-26B-A4B-it-UD-Q4_K_M.gguf （モデルサイズ=17GB、実行時のReasoning Effort=Max） AMD Ryzen AI Max + 395 で 41~42 t/s 出てる👍 この環境だと Gemma4 は 26B-A4B Q4 系が一番速度が出そう（生成精度はまだちゃんと見てない） https://t.co/8diCV3oZOS</description>
-      <pubDate>Mon, 15 Jun 2026 15:23:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2066542140638003708</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 395を搭載したGMKtec EVO-X2とMS-S1maxは大差なし？ よくわからん。なぜ今頃...</title>
-      <link>https://x.com/rhinocell/status/2066527546725052810</link>
-      <description>とらいち: Ryzen AI Max + 395を搭載したGMKtec EVO-X2とMS-S1maxは大差なし？ よくわからん。なぜ今頃...</description>
-      <pubDate>Mon, 15 Jun 2026 14:25:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rhinocell/status/2066527546725052810</guid>
-    </item>
-    <item>
-      <title>まいどです。 本日の生成AIニュース+テクノロジー情報です。 https://t.co/dUXOC25QQC 『Seedance 2.0 Mini』『MotionBricks』『SOMA-X v0.2』『Sakana Marlin』『Modality Forcing』『Open Design』『OmniDirector』『RhymeFlow』『Petoi Bittle X』『AMD Ryzen AI Max + 395』</title>
-      <link>https://x.com/fujito_AI_note/status/2066505195304210489</link>
-      <description>fujito: まいどです。 本日の生成AIニュース+テクノロジー情報です。 https://t.co/dUXOC25QQC 『Seedance 2.0 Mini』『MotionBricks』『SOMA-X v0.2』『Sakana Marlin』『Modality Forcing』『Open Design』『OmniDirector』『RhymeFlow』『Petoi Bittle X』『AMD Ryzen AI Max + 395』</description>
-      <pubDate>Mon, 15 Jun 2026 12:56:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fujito_AI_note/status/2066505195304210489</guid>
-    </item>
-    <item>
-      <title>続いて Qwen3.6-35B-A3B-Q4_K_M-GGUF （モデルサイズ=21GB、実行時のReasoning Effort=Max） AMD Ryzen AI Max + 395 で 50~51 t/s 出てる🤩 OpenCode で 1 タスクに対する複数モデルのオーケストレーションを試してみるのも良さそう https://t.co/sTeINqn3oC</title>
-      <link>https://x.com/old_pgmrs_will/status/2066502376199274758</link>
-      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: 続いて Qwen3.6-35B-A3B-Q4_K_M-GGUF （モデルサイズ=21GB、実行時のReasoning Effort=Max） AMD Ryzen AI Max + 395 で 50~51 t/s 出てる🤩 OpenCode で 1 タスクに対する複数モデルのオーケストレーションを試してみるのも良さそう https://t.co/sTeINqn3oC</description>
-      <pubDate>Mon, 15 Jun 2026 12:45:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2066502376199274758</guid>
-    </item>
-    <item>
-      <title>@Wangwenhaha0518 等 AMD 的 Ryzen AI Max + 395 下一代上市</title>
-      <link>https://x.com/wkliang/status/2066500948055523583</link>
-      <description>ꅐꋫ꒒ꀗꂑꁹꁍ🐻: @Wangwenhaha0518 等 AMD 的 Ryzen AI Max + 395 下一代上市</description>
-      <pubDate>Mon, 15 Jun 2026 12:39:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wkliang/status/2066500948055523583</guid>
-    </item>
-    <item>
-      <title>GLM-4.7-Flash-Q4_K_M-GGUF (モデルサイズ=18GB、実行時のReasoning effort=Max) AMD Ryzen AI Max + 395 で動かす... 47~48 t/s 出てる😍 同じハードウェアでも LM Studio だとロードに失敗するモデルが llama.cpp だと普通に動くな https://t.co/MEpgBTTu26</title>
-      <link>https://x.com/old_pgmrs_will/status/2066497252030628309</link>
-      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: GLM-4.7-Flash-Q4_K_M-GGUF (モデルサイズ=18GB、実行時のReasoning effort=Max) AMD Ryzen AI Max + 395 で動かす... 47~48 t/s 出てる😍 同じハードウェアでも LM Studio だとロードに失敗するモデルが llama.cpp だと普通に動くな https://t.co/MEpgBTTu26</description>
-      <pubDate>Mon, 15 Jun 2026 12:25:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2066497252030628309</guid>
     </item>
   </channel>
 </rss>

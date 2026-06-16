@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>syncthing 覚えた。</title>
+      <link>https://x.com/speed_stars/status/2067008277792313388</link>
+      <description>けつ: syncthing 覚えた。</description>
+      <pubDate>Tue, 16 Jun 2026 22:15:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/speed_stars/status/2067008277792313388</guid>
+    </item>
+    <item>
+      <title>えま様がスマホごと写真を喪失した話をなされていたので、自分のスマホの写真もなんとかしてバックアップを取らねばと思い、xigmanasの syncthing を試そうとしている むろんgoogleに預ける気など毛頭ない</title>
+      <link>https://x.com/kazkuro/status/2066907086978703648</link>
+      <description>kazkuro: ★: えま様がスマホごと写真を喪失した話をなされていたので、自分のスマホの写真もなんとかしてバックアップを取らねばと思い、xigmanasの syncthing を試そうとしている むろんgoogleに預ける気など毛頭ない</description>
+      <pubDate>Tue, 16 Jun 2026 15:33:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kazkuro/status/2066907086978703648</guid>
+    </item>
+    <item>
+      <title>ラズパイ win mac スマホobsidian syncthing 連携完了 これでいいと思える</title>
+      <link>https://x.com/_I__l__l__l__I_/status/2066778829151170828</link>
+      <description>ナ: ラズパイ win mac スマホobsidian syncthing 連携完了 これでいいと思える</description>
+      <pubDate>Tue, 16 Jun 2026 07:04:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_I__l__l__l__I_/status/2066778829151170828</guid>
+    </item>
+    <item>
       <title>@shutoito syncthing 知らなかったです！さっそく使ってみます</title>
       <link>https://x.com/_I__l__l__l__I_/status/2066123617382105518</link>
       <description>ナ: @shutoito syncthing 知らなかったです！さっそく使ってみます</description>
@@ -255,27 +276,6 @@
       <description>Ctrl: これはね RaspberryPi Zero W で Syncthing + QMK の書き込みできるかな？と試そうとして micro SD カードがなくて頓挫しているアーティファクト https://t.co/4AQ5ZfPkue</description>
       <pubDate>Tue, 26 May 2026 07:16:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hiyoctrl/status/2059171778132680779</guid>
-    </item>
-    <item>
-      <title>これはね RaspberryPi とか、古いパソコン に Syncthing で永遠に延々とミラーリングというかバックアップを取ってる異常な人 Googleドライブにも rclone で 同期してる 特に大切なファイルもないんだけど、すぐに復旧できるのだけが強み ＃linux ＃debian ＃raspberrpi https://t.co/ITtNeYJYE8</title>
-      <link>https://x.com/hiyoctrl/status/2059111987498693067</link>
-      <description>Ctrl: これはね RaspberryPi とか、古いパソコン に Syncthing で永遠に延々とミラーリングというかバックアップを取ってる異常な人 Googleドライブにも rclone で 同期してる 特に大切なファイルもないんだけど、すぐに復旧できるのだけが強み ＃linux ＃debian ＃raspberrpi https://t.co/ITtNeYJYE8</description>
-      <pubDate>Tue, 26 May 2026 03:18:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hiyoctrl/status/2059111987498693067</guid>
-    </item>
-    <item>
-      <title>私のwriterdeckについて話す時が来た。 https://t.co/5z8Vrd8LJf 要約:古いノートPCにGUIなしDebianを入れ、Neovim、tmux、kmscon、 Syncthing で集中執筆用writerdeckを構築した手順と感想。</title>
-      <link>https://x.com/DerkiesAd001/status/2058345693593612458</link>
-      <description>HackerNews要約※非公式: 私のwriterdeckについて話す時が来た。 https://t.co/5z8Vrd8LJf 要約:古いノートPCにGUIなしDebianを入れ、Neovim、tmux、kmscon、 Syncthing で集中執筆用writerdeckを構築した手順と感想。</description>
-      <pubDate>Sun, 24 May 2026 00:33:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2058345693593612458</guid>
-    </item>
-    <item>
-      <title>クラウドストレージに置いたフォルダのうち、目的がローカル同期なら 妙なネットサービス使うより Syncthing が断然優れいている。さっき初めて知った。</title>
-      <link>https://x.com/Nezshi/status/2058110978370458003</link>
-      <description>HOSOI Hisato: クラウドストレージに置いたフォルダのうち、目的がローカル同期なら 妙なネットサービス使うより Syncthing が断然優れいている。さっき初めて知った。</description>
-      <pubDate>Sat, 23 May 2026 09:01:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Nezshi/status/2058110978370458003</guid>
     </item>
   </channel>
 </rss>

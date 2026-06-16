@@ -12,13 +12,6 @@
       <guid isPermaLink="true">https://x.com/Fb3ezDCRdo29699/status/2066755317313212900</guid>
     </item>
     <item>
-      <title>生成AI仕事のあり方を変えるよな。VPSに Wireguard を入れて自宅、出先、別宅をメッシュで接続する構成は数年前はコマンド調べてサンプル修整してつくってたけど指示出すだけでセットアップシェル出力して手順書まで出せる。これまで専門性を目指してたが広く浅い知識が重要かも</title>
-      <link>https://x.com/dpsk/status/2066728317148143640</link>
-      <description>dpsk: 生成AI仕事のあり方を変えるよな。VPSに Wireguard を入れて自宅、出先、別宅をメッシュで接続する構成は数年前はコマンド調べてサンプル修整してつくってたけど指示出すだけでセットアップシェル出力して手順書まで出せる。これまで専門性を目指してたが広く浅い知識が重要かも</description>
-      <pubDate>Tue, 16 Jun 2026 03:43:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dpsk/status/2066728317148143640</guid>
-    </item>
-    <item>
       <title>Tailscale便利だけど Headscaleでも クライアントはTailscaleのアプリを使用しないといけないからなぁ〜 サービス終了した場合が怖いな。 クライアント自体もOSSにならないかな それかICE、STUN、Turn、 コントロールサーバ、 WireGuard で 独自で作るか。</title>
       <link>https://x.com/Sio04122/status/2066716158758449578</link>
       <description>本塩おり: Tailscale便利だけど Headscaleでも クライアントはTailscaleのアプリを使用しないといけないからなぁ〜 サービス終了した場合が怖いな。 クライアント自体もOSSにならないかな それかICE、STUN、Turn、 コントロールサーバ、 WireGuard で 独自で作るか。</description>
@@ -276,6 +269,13 @@
       <description>Kisaraki2021: ssh, Tailscaleとか WireGuard でVPN張ればいいって勝手に思ってるけどそうでもないのか</description>
       <pubDate>Sun, 07 Jun 2026 05:05:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kisaraki2021/status/2063487403353157774</guid>
+    </item>
+    <item>
+      <title>朝起きたらProxmox VEのSDNをノードまたぎするために作ってたSoftEther VPN L2延伸の仕組みを、routerd SAM+IPIP+ Wireguard で置き換えられていた。(ゴール指示に従って自律的にClaude+Codexが完了してた)</title>
+      <link>https://x.com/imksoo/status/2063440548770578835</link>
+      <description>きりの: 朝起きたらProxmox VEのSDNをノードまたぎするために作ってたSoftEther VPN L2延伸の仕組みを、routerd SAM+IPIP+ Wireguard で置き換えられていた。(ゴール指示に従って自律的にClaude+Codexが完了してた)</description>
+      <pubDate>Sun, 07 Jun 2026 01:58:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/imksoo/status/2063440548770578835</guid>
     </item>
   </channel>
 </rss>
