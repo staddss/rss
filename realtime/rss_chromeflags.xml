@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>拡張機能作って消してたけど chrome :// flags のNTP Animated DoodlesをDisabledにすればとりあえず動かなくすることはできた</title>
+      <link>https://x.com/kch_aero/status/2066778330050028030</link>
+      <description>Roy↝➤: 拡張機能作って消してたけど chrome :// flags のNTP Animated DoodlesをDisabledにすればとりあえず動かなくすることはできた</description>
+      <pubDate>Tue, 16 Jun 2026 07:02:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kch_aero/status/2066778330050028030</guid>
+    </item>
+    <item>
       <title>かっ、改悪だーーーーッ chrome flags に直行 https://t.co/4v4ts2TYbQ</title>
       <link>https://x.com/melancholy1911/status/2065941790151295013</link>
       <description>ちいね: かっ、改悪だーーーーッ chrome flags に直行 https://t.co/4v4ts2TYbQ</description>
@@ -17,13 +24,6 @@
       <description>hyado2025: Chromeの右クリックに表示される「geminiに相談」を消す方法 Chromeのアドレスバーに以下を入力して開く chrome :// flags /#glic Glic（Gemini in Chrome の内部名称）を探す 設定を Disabled に変更 Chromeを再起動 これで右クリックメニューの「Geminiに相談」が消えます。</description>
       <pubDate>Sat, 13 Jun 2026 01:40:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hyado2025/status/2065610328101294191</guid>
-    </item>
-    <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
     <item>
       <title>スマホ版chromeのタブを閉じるボタンの位置を左下に戻すメモ 検索バーに「 chrome :// flags 」 「tab switcher」で出てくる項目をdisabledにする chromeを再起動する https://t.co/SwL5qpGYMY</title>
@@ -243,27 +243,6 @@
       <guid isPermaLink="true">https://x.com/stbison/status/2056970200340447560</guid>
     </item>
     <item>
-      <title>chromeの読み込みエラー、解決せず😭 「STATUS_ACCESS_VIOLATION」というメッセージが出るエラーです⚡ 【試したこと】 再インストール、キャッシュ削除、プラグインOFF、グラフィックアクセラレーションオフ、 chrome :// flags の設定変更 https://t.co/IxSJcgRpHs</title>
-      <link>https://x.com/kawanina0218/status/2056169108442685609</link>
-      <description>かわにな@Kstudio/動く背景: chromeの読み込みエラー、解決せず😭 「STATUS_ACCESS_VIOLATION」というメッセージが出るエラーです⚡ 【試したこと】 再インストール、キャッシュ削除、プラグインOFF、グラフィックアクセラレーションオフ、 chrome :// flags の設定変更 https://t.co/IxSJcgRpHs</description>
-      <pubDate>Mon, 18 May 2026 00:24:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kawanina0218/status/2056169108442685609</guid>
-    </item>
-    <item>
-      <title>@alexcobovi 毎日不適切な投稿扱いです😂 後はここ数日chromeのバージョンアップの関係で ブラウザーのエラーが出るので、PCを起動したら chromeの chrome :// flags でリセットする事から 帰宅作業が始まります（´-`）</title>
-      <link>https://x.com/vUXNN3hwc04rZ4v/status/2056157660219895939</link>
-      <description>犯人はヤス: @alexcobovi 毎日不適切な投稿扱いです😂 後はここ数日chromeのバージョンアップの関係で ブラウザーのエラーが出るので、PCを起動したら chromeの chrome :// flags でリセットする事から 帰宅作業が始まります（´-`）</description>
-      <pubDate>Sun, 17 May 2026 23:39:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/vUXNN3hwc04rZ4v/status/2056157660219895939</guid>
-    </item>
-    <item>
-      <title>おはえもん🥳 chrome読み込み時におけるエラーは、 chrome :// flags / これをURLに貼って、『すべてリセット』⇒『再起動』これで今のところ出なくなりました。 急にエラー出るから何かと思ったわぁ。 #FFXIV https://t.co/MQMWOsBhof</title>
-      <link>https://x.com/MAMEDX1/status/2056152738384564731</link>
-      <description>シノヱ（Shinoe）: おはえもん🥳 chrome読み込み時におけるエラーは、 chrome :// flags / これをURLに貼って、『すべてリセット』⇒『再起動』これで今のところ出なくなりました。 急にエラー出るから何かと思ったわぁ。 #FFXIV https://t.co/MQMWOsBhof</description>
-      <pubDate>Sun, 17 May 2026 23:19:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MAMEDX1/status/2056152738384564731</guid>
-    </item>
-    <item>
       <title>このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</title>
       <link>https://x.com/kamo_kamos/status/2055585880270852207</link>
       <description>渡瀬ゆず💉: このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</description>
@@ -276,6 +255,13 @@
       <description>void99: chrome :// flags と入力して表示される下記の&quot;Enables optimization guide on device&quot;を&quot;Disabled&quot;にする。 https://t.co/DKWRSCWnCB https://t.co/yxOIx5ovcO</description>
       <pubDate>Wed, 06 May 2026 06:47:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/void99_/status/2051916846446813566</guid>
+    </item>
+    <item>
+      <title>Google Chromeの分割ビューを無効化する方法 ・アドレスバーに「 chrome :// flags 」入力 ・Experimentsの検索バーで「Split View」を検索 ・Split Viewの設定を「Disabled」にしてChrome再起動 タブ動かすとくっついちゃって私には不便だった😿</title>
+      <link>https://x.com/chibimeganecom/status/2019289992582033655</link>
+      <description>ちびめがね: Google Chromeの分割ビューを無効化する方法 ・アドレスバーに「 chrome :// flags 」入力 ・Experimentsの検索バーで「Split View」を検索 ・Split Viewの設定を「Disabled」にしてChrome再起動 タブ動かすとくっついちゃって私には不便だった😿</description>
+      <pubDate>Thu, 05 Feb 2026 06:00:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chibimeganecom/status/2019289992582033655</guid>
     </item>
   </channel>
 </rss>

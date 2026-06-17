@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>🔒ランサムウェアに暗号化されても「消せない・書き換えられない」バックアップを。 Object Lock＋ rclone で、クラウドに改ざん不能のバックアップ層を作る実装手順をQiitaに公開しました。自社のNAS→Backblaze B2運用に基づく実務記事です。 ※以前HPでご紹介した内容を技術者向けに再構成</title>
+      <link>https://x.com/BrainDirection/status/2066715305183944786</link>
+      <description>株式会社ブレインディレクション公式: 🔒ランサムウェアに暗号化されても「消せない・書き換えられない」バックアップを。 Object Lock＋ rclone で、クラウドに改ざん不能のバックアップ層を作る実装手順をQiitaに公開しました。自社のNAS→Backblaze B2運用に基づく実務記事です。 ※以前HPでご紹介した内容を技術者向けに再構成</description>
+      <pubDate>Tue, 16 Jun 2026 02:51:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BrainDirection/status/2066715305183944786</guid>
+    </item>
+    <item>
       <title>長年くんでた rclone によるバックアップスクリプトもclaudeにみさせてみたら維持するん楽になった。要不要判断したフィルタづくりがだるいんよな。Win側もブレブレなのもあって伝統的に行儀わるいんがおおいからキャッシュがどこで設定がどことかブレブレやし</title>
       <link>https://x.com/shishi4tw/status/2065845019194642782</link>
       <description>shishi: 長年くんでた rclone によるバックアップスクリプトもclaudeにみさせてみたら維持するん楽になった。要不要判断したフィルタづくりがだるいんよな。Win側もブレブレなのもあって伝統的に行儀わるいんがおおいからキャッシュがどこで設定がどことかブレブレやし</description>
@@ -234,13 +241,6 @@
       <description>北京ダック専門店: rclone crypt もあるな</description>
       <pubDate>Mon, 18 May 2026 11:14:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pm_boris_omiya/status/2056332615461069021</guid>
-    </item>
-    <item>
-      <title>rclone のcryptとか使わずに生データをクラウドストレージにぶち込むの本当にやめた方がいい</title>
-      <link>https://x.com/10_5m1/status/2056208467556528533</link>
-      <description>10円: rclone のcryptとか使わずに生データをクラウドストレージにぶち込むの本当にやめた方がいい</description>
-      <pubDate>Mon, 18 May 2026 03:01:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/10_5m1/status/2056208467556528533</guid>
     </item>
     <item>
       <title>私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</title>
