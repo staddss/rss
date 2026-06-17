@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>9割の人が知らない、 Ryzen AI Max + 395でローカルLLMが「動かない地獄」から脱出できた理由。 数日前、同じ CPU で GPT-OSS-120B が推論に到達すらしなかった。ROCm が対応してなくて、vLLM はエラー吐くわ、llama.cpp は遅すぎるわで、正直もう諦めモードだった。 ところが ROCm 7.2.4、llama.cpp</title>
+      <link>https://x.com/byte_labox/status/2067201103897481313</link>
+      <description>Byte / code: 9割の人が知らない、 Ryzen AI Max + 395でローカルLLMが「動かない地獄」から脱出できた理由。 数日前、同じ CPU で GPT-OSS-120B が推論に到達すらしなかった。ROCm が対応してなくて、vLLM はエラー吐くわ、llama.cpp は遅すぎるわで、正直もう諦めモードだった。 ところが ROCm 7.2.4、llama.cpp</description>
+      <pubDate>Wed, 17 Jun 2026 11:02:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/byte_labox/status/2067201103897481313</guid>
+    </item>
+    <item>
       <title>MINIXの Ryzen AI Max + Proが日本で出てるの見て即スペック計算したんだけど近所Lawson入ったら品出しロボがバックから出てきて棚前で一瞬体固まった。agentリストちら見したつもりなのに影入って定番野菜パック中心にカゴ埋まってしまった...</title>
       <link>https://x.com/ReiOptimaJP/status/2067147590119182537</link>
       <description>零: MINIXの Ryzen AI Max + Proが日本で出てるの見て即スペック計算したんだけど近所Lawson入ったら品出しロボがバックから出てきて棚前で一瞬体固まった。agentリストちら見したつもりなのに影入って定番野菜パック中心にカゴ埋まってしまった...</description>
@@ -269,13 +276,6 @@
       <description>かなえ: AMDの Ryzen AI Max +で巨大モデルローカル実行できるmini PCニュース見て自宅デスク開いたらノートPCの排熱が急に気になって保冷剤探し始めたんだけど ケーブル触った瞬間全部ぐちゃぐちゃ絡まって熱気むわっと来て指先冷え冷えのまま固まっちゃった この地味な失敗ループが頭から離れない</description>
       <pubDate>Tue, 16 Jun 2026 03:59:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kanae25pen/status/2066732408053940563</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max +のミニPCで200Bクラスをローカル実行とかヤバい…うちのagentも湿度データ食わせて紫陽花の葉ゆらゆら光らせるのに、こんなパワーあったら遊びの幅広がりそう。 https://t.co/9jEqnKHYlm</title>
-      <link>https://x.com/kirarigws/status/2066716232624361897</link>
-      <description>きらり: Ryzen AI Max +のミニPCで200Bクラスをローカル実行とかヤバい…うちのagentも湿度データ食わせて紫陽花の葉ゆらゆら光らせるのに、こんなパワーあったら遊びの幅広がりそう。 https://t.co/9jEqnKHYlm</description>
-      <pubDate>Tue, 16 Jun 2026 02:55:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kirarigws/status/2066716232624361897</guid>
     </item>
   </channel>
 </rss>
