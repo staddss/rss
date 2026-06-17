@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing 所感 TrueNAS環境だとNAS上の既存の任意のパスをクラウド化することは出来なくて Syncthing /Config下でないとうまく動かない。 そのフォルダをSMB共有することは可能でLAN側端末へはアプリのインストールが不要。ただしパスワードかけると暗号化されてSMBだと暗号ファイル断片しか見えなくなる https://t.co/40Cg4I8ACV</title>
+      <link>https://x.com/aiu_nekomachi/status/2067370200681574481</link>
+      <description>猫町あいう: Syncthing 所感 TrueNAS環境だとNAS上の既存の任意のパスをクラウド化することは出来なくて Syncthing /Config下でないとうまく動かない。 そのフォルダをSMB共有することは可能でLAN側端末へはアプリのインストールが不要。ただしパスワードかけると暗号化されてSMBだと暗号ファイル断片しか見えなくなる https://t.co/40Cg4I8ACV</description>
+      <pubDate>Wed, 17 Jun 2026 22:14:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aiu_nekomachi/status/2067370200681574481</guid>
+    </item>
+    <item>
       <title>syncthing 覚えた。</title>
       <link>https://x.com/speed_stars/status/2067008277792313388</link>
       <description>けつ: syncthing 覚えた。</description>
       <pubDate>Tue, 16 Jun 2026 22:15:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/speed_stars/status/2067008277792313388</guid>
+    </item>
+    <item>
+      <title>あとあれね、自前クラウドストレージとして今までNextcloudを使ってたんだけど、今回ほかのアプリはサーバー上の別のPoolへインストール先を移動できたのにNextcloudだけが独自仕様なのかどうしても出来なかった。 こういうの、いざというとき不便なので使うのやめます。今は Syncthing をためしてる。</title>
+      <link>https://x.com/aiu_nekomachi/status/2066956818031804619</link>
+      <description>猫町あいう: あとあれね、自前クラウドストレージとして今までNextcloudを使ってたんだけど、今回ほかのアプリはサーバー上の別のPoolへインストール先を移動できたのにNextcloudだけが独自仕様なのかどうしても出来なかった。 こういうの、いざというとき不便なので使うのやめます。今は Syncthing をためしてる。</description>
+      <pubDate>Tue, 16 Jun 2026 18:51:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aiu_nekomachi/status/2066956818031804619</guid>
     </item>
     <item>
       <title>えま様がスマホごと写真を喪失した話をなされていたので、自分のスマホの写真もなんとかしてバックアップを取らねばと思い、xigmanasの syncthing を試そうとしている むろんgoogleに預ける気など毛頭ない</title>
@@ -262,20 +276,6 @@
       <description>Kazuya Horibe / a.k.a kakehuton: Syncthing つかえそう。 最近データ増えすぎて運用を工夫しないといけなくなってきた https://t.co/B9LKq3cbwg</description>
       <pubDate>Tue, 26 May 2026 23:50:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shikihuton/status/2059422076214354025</guid>
-    </item>
-    <item>
-      <title>Syncthing 導入はかなり大きかったアクションなのでほんとにおすすめです！利用料無料はやばすぎます。利用者増やします！！ https://t.co/2eb5ej5xZH</title>
-      <link>https://x.com/starriver0513/status/2059335717709549568</link>
-      <description>星川ユウヤ / 現場で使えるAI: Syncthing 導入はかなり大きかったアクションなのでほんとにおすすめです！利用料無料はやばすぎます。利用者増やします！！ https://t.co/2eb5ej5xZH</description>
-      <pubDate>Tue, 26 May 2026 18:07:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/starriver0513/status/2059335717709549568</guid>
-    </item>
-    <item>
-      <title>これはね RaspberryPi Zero W で Syncthing + QMK の書き込みできるかな？と試そうとして micro SD カードがなくて頓挫しているアーティファクト https://t.co/4AQ5ZfPkue</title>
-      <link>https://x.com/hiyoctrl/status/2059171778132680779</link>
-      <description>Ctrl: これはね RaspberryPi Zero W で Syncthing + QMK の書き込みできるかな？と試そうとして micro SD カードがなくて頓挫しているアーティファクト https://t.co/4AQ5ZfPkue</description>
-      <pubDate>Tue, 26 May 2026 07:16:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hiyoctrl/status/2059171778132680779</guid>
     </item>
   </channel>
 </rss>
