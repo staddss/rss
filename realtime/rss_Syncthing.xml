@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>きるのでAndroidの現状に合わせてる印象がありました。 とはいえ Syncthing に余計な機能がついてないのは大きな美点だと思う。スプレッドシートや動画やのプレビューどころか同期したフォルダを閲覧するファイラ機能がそもそもないですからね。同期するだけ。こういうのが良いんですよ…</title>
+      <link>https://x.com/aiu_nekomachi/status/2067374114227322905</link>
+      <description>猫町あいう: きるのでAndroidの現状に合わせてる印象がありました。 とはいえ Syncthing に余計な機能がついてないのは大きな美点だと思う。スプレッドシートや動画やのプレビューどころか同期したフォルダを閲覧するファイラ機能がそもそもないですからね。同期するだけ。こういうのが良いんですよ…</description>
+      <pubDate>Wed, 17 Jun 2026 22:29:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aiu_nekomachi/status/2067374114227322905</guid>
+    </item>
+    <item>
       <title>Syncthing 所感 TrueNAS環境だとNAS上の既存の任意のパスをクラウド化することは出来なくて Syncthing /Config下でないとうまく動かない。 そのフォルダをSMB共有することは可能でLAN側端末へはアプリのインストールが不要。ただしパスワードかけると暗号化されてSMBだと暗号ファイル断片しか見えなくなる https://t.co/40Cg4I8ACV</title>
       <link>https://x.com/aiu_nekomachi/status/2067370200681574481</link>
       <description>猫町あいう: Syncthing 所感 TrueNAS環境だとNAS上の既存の任意のパスをクラウド化することは出来なくて Syncthing /Config下でないとうまく動かない。 そのフォルダをSMB共有することは可能でLAN側端末へはアプリのインストールが不要。ただしパスワードかけると暗号化されてSMBだと暗号ファイル断片しか見えなくなる https://t.co/40Cg4I8ACV</description>
@@ -269,13 +276,6 @@
       <description>Cheena: KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</description>
       <pubDate>Thu, 28 May 2026 12:54:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cheenanet/status/2059981664567332893</guid>
-    </item>
-    <item>
-      <title>Syncthing つかえそう。 最近データ増えすぎて運用を工夫しないといけなくなってきた https://t.co/B9LKq3cbwg</title>
-      <link>https://x.com/shikihuton/status/2059422076214354025</link>
-      <description>Kazuya Horibe / a.k.a kakehuton: Syncthing つかえそう。 最近データ増えすぎて運用を工夫しないといけなくなってきた https://t.co/B9LKq3cbwg</description>
-      <pubDate>Tue, 26 May 2026 23:50:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shikihuton/status/2059422076214354025</guid>
     </item>
   </channel>
 </rss>

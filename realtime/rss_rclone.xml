@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>影響を受けるバージョンと対策手順をまとめました。vLLMや Rclone を本番運用中の方、今すぐ確認を。 #セキュリティ #CVE #脆弱性 https://t.co/96ut57OA6v</title>
+      <link>https://x.com/tsumikasanedev/status/2067396512955691239</link>
+      <description>つみかさね: 影響を受けるバージョンと対策手順をまとめました。vLLMや Rclone を本番運用中の方、今すぐ確認を。 #セキュリティ #CVE #脆弱性 https://t.co/96ut57OA6v</description>
+      <pubDate>Wed, 17 Jun 2026 23:58:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2067396512955691239</guid>
+    </item>
+    <item>
+      <title>最近 rclone が対応したクラウドストレージの動作を試してみたら無茶苦茶遅くてどうしようかと思ったけどファイル数が多くて遅い場合のお勧めオプションを付けてみたら爆速になった。すごいぞFAQ。</title>
+      <link>https://x.com/nwell2048/status/2067048323358581207</link>
+      <description>NWS-AQ: 最近 rclone が対応したクラウドストレージの動作を試してみたら無茶苦茶遅くてどうしようかと思ったけどファイル数が多くて遅い場合のお勧めオプションを付けてみたら爆速になった。すごいぞFAQ。</description>
+      <pubDate>Wed, 17 Jun 2026 00:54:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nwell2048/status/2067048323358581207</guid>
+    </item>
+    <item>
       <title>🔒ランサムウェアに暗号化されても「消せない・書き換えられない」バックアップを。 Object Lock＋ rclone で、クラウドに改ざん不能のバックアップ層を作る実装手順をQiitaに公開しました。自社のNAS→Backblaze B2運用に基づく実務記事です。 ※以前HPでご紹介した内容を技術者向けに再構成</title>
       <link>https://x.com/BrainDirection/status/2066715305183944786</link>
       <description>株式会社ブレインディレクション公式: 🔒ランサムウェアに暗号化されても「消せない・書き換えられない」バックアップを。 Object Lock＋ rclone で、クラウドに改ざん不能のバックアップ層を作る実装手順をQiitaに公開しました。自社のNAS→Backblaze B2運用に基づく実務記事です。 ※以前HPでご紹介した内容を技術者向けに再構成</description>

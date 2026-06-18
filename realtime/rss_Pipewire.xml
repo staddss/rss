@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やっぱりいちいち pipewire のリブートがかかるからかバチバチ切れるな。大人しくVB上のwin環境からlinkさせるか</title>
+      <link>https://x.com/avaron1307/status/2067273593713762492</link>
+      <description>avaron1307: やっぱりいちいち pipewire のリブートがかかるからかバチバチ切れるな。大人しくVB上のwin環境からlinkさせるか</description>
+      <pubDate>Wed, 17 Jun 2026 15:50:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/avaron1307/status/2067273593713762492</guid>
+    </item>
+    <item>
       <title>steamlink、 pipewire 有効にしないとダメなんやねぇ。</title>
       <link>https://x.com/avaron1307/status/2067271903442874437</link>
       <description>avaron1307: steamlink、 pipewire 有効にしないとダメなんやねぇ。</description>
@@ -178,13 +185,6 @@
       <description>パンテラ・アンシア: spotifyが再生できなくなってしまって😿 GPGキーの追加確認 リポジトリの追加確認 最新版インストール version 1.2.86.502.g8cd7fb22, PipeWire のインストールと有効化 PipeWire 設定ファイルのコピー cp /usr/share/ pipewire /client.conf ~/.config/ pipewire /client.conf うごきました😺 https://t.co/uTrFP027ZU</description>
       <pubDate>Tue, 19 May 2026 07:53:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PantheraUncia14/status/2056644330849460436</guid>
-    </item>
-    <item>
-      <title>機材、特に、スピーカーの限界かと思ったら、 PipeWire （Linuxの音響プロセス） がCD音質に制限していたらしい。 設定変更であっさり、限界突破 Linuxでは定番の easyeffects。 色々触ってるうちに素のタイムドメインミニのままで良いことが発覚。 CachyOS #舞乃空 歌ってみた https://t.co/xNR19NGn3e</title>
-      <link>https://x.com/duckygduck2023/status/2056618517764706815</link>
-      <description>あひる2023: 機材、特に、スピーカーの限界かと思ったら、 PipeWire （Linuxの音響プロセス） がCD音質に制限していたらしい。 設定変更であっさり、限界突破 Linuxでは定番の easyeffects。 色々触ってるうちに素のタイムドメインミニのままで良いことが発覚。 CachyOS #舞乃空 歌ってみた https://t.co/xNR19NGn3e</description>
-      <pubDate>Tue, 19 May 2026 06:10:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/duckygduck2023/status/2056618517764706815</guid>
     </item>
   </channel>
 </rss>

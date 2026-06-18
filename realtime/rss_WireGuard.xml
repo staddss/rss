@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>＞Hetzner、DigitalOcean、AWSといったサービスで月額5ユーロでサーバーをレンタルし、 WireGuard やOpenVPNを3つのコマンドでインストールすれば、ブロックリストに載っていないIPアドレスで独自のVPNを構築できる。 賢いティーンエイジャーなら、わずか数分で「VPNブロック」を検証できるだろう。</title>
+      <link>https://x.com/isuzixDRnhDW9cF/status/2067430434670358534</link>
+      <description>さぶちゅか: ＞Hetzner、DigitalOcean、AWSといったサービスで月額5ユーロでサーバーをレンタルし、 WireGuard やOpenVPNを3つのコマンドでインストールすれば、ブロックリストに載っていないIPアドレスで独自のVPNを構築できる。 賢いティーンエイジャーなら、わずか数分で「VPNブロック」を検証できるだろう。</description>
+      <pubDate>Thu, 18 Jun 2026 02:13:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/isuzixDRnhDW9cF/status/2067430434670358534</guid>
+    </item>
+    <item>
       <title>WireGuard 経由の接続につきましては、最大10Gbps対応のためのメンテナンス期間中となっております。ご利用のお客様にはご不便をおかけいたしますが、メンテナンス期間中はHiddifyをご利用いただきますようお願い申し上げます。</title>
       <link>https://x.com/Leopard_ofc/status/2066864262195392740</link>
       <description>Leopard: WireGuard 経由の接続につきましては、最大10Gbps対応のためのメンテナンス期間中となっております。ご利用のお客様にはご不便をおかけいたしますが、メンテナンス期間中はHiddifyをご利用いただきますようお願い申し上げます。</description>
@@ -269,20 +276,6 @@
       <description>HomeGrid VPN: 実家をVPNの出口ノード（Grid）に変える仮想アプライアンス。 「10Gbpsみたいな超爆速回線のポテンシャルを極限まで引き出したい！」という場合は、 WireGuard の暗号計算を並列処理で超高速化できる拡張命令（AVX2）に対応したCPUがあるとベストですが…… https://t.co/c8kmhnHDxW</description>
       <pubDate>Sun, 07 Jun 2026 16:23:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/homegrid_vpn/status/2063658038658322461</guid>
-    </item>
-    <item>
-      <title>ssh, Tailscaleとか WireGuard でVPN張ればいいって勝手に思ってるけどそうでもないのか</title>
-      <link>https://x.com/kisaraki2021/status/2063487403353157774</link>
-      <description>Kisaraki2021: ssh, Tailscaleとか WireGuard でVPN張ればいいって勝手に思ってるけどそうでもないのか</description>
-      <pubDate>Sun, 07 Jun 2026 05:05:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kisaraki2021/status/2063487403353157774</guid>
-    </item>
-    <item>
-      <title>朝起きたらProxmox VEのSDNをノードまたぎするために作ってたSoftEther VPN L2延伸の仕組みを、routerd SAM+IPIP+ Wireguard で置き換えられていた。(ゴール指示に従って自律的にClaude+Codexが完了してた)</title>
-      <link>https://x.com/imksoo/status/2063440548770578835</link>
-      <description>きりの: 朝起きたらProxmox VEのSDNをノードまたぎするために作ってたSoftEther VPN L2延伸の仕組みを、routerd SAM+IPIP+ Wireguard で置き換えられていた。(ゴール指示に従って自律的にClaude+Codexが完了してた)</description>
-      <pubDate>Sun, 07 Jun 2026 01:58:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imksoo/status/2063440548770578835</guid>
     </item>
   </channel>
 </rss>
