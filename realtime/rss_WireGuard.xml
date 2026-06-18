@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>期待するならどちらかというと、 WireGuard とかそっち方面になるのかな。</title>
+      <link>https://x.com/EXAM1319/status/2067557471473095075</link>
+      <description>craft: 期待するならどちらかというと、 WireGuard とかそっち方面になるのかな。</description>
+      <pubDate>Thu, 18 Jun 2026 10:38:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2067557471473095075</guid>
+    </item>
+    <item>
       <title>＞Hetzner、DigitalOcean、AWSといったサービスで月額5ユーロでサーバーをレンタルし、 WireGuard やOpenVPNを3つのコマンドでインストールすれば、ブロックリストに載っていないIPアドレスで独自のVPNを構築できる。 賢いティーンエイジャーなら、わずか数分で「VPNブロック」を検証できるだろう。</title>
       <link>https://x.com/isuzixDRnhDW9cF/status/2067430434670358534</link>
       <description>さぶちゅか: ＞Hetzner、DigitalOcean、AWSといったサービスで月額5ユーロでサーバーをレンタルし、 WireGuard やOpenVPNを3つのコマンドでインストールすれば、ブロックリストに載っていないIPアドレスで独自のVPNを構築できる。 賢いティーンエイジャーなら、わずか数分で「VPNブロック」を検証できるだろう。</description>
       <pubDate>Thu, 18 Jun 2026 02:13:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/isuzixDRnhDW9cF/status/2067430434670358534</guid>
+    </item>
+    <item>
+      <title>@minagi_yu 固定IP契約してましたが（機器入れ替えで機器が対応してなかったので）解除して、固定IPで接続したいサービスはVPSと自宅で WireGuard トンネル貼って通してます！ 固定IP使えるルーターなら、使えるポート増えるので契約するほうがおすすめです</title>
+      <link>https://x.com/minatochang/status/2067409585821151398</link>
+      <description>巳波みなと / minato86: @minagi_yu 固定IP契約してましたが（機器入れ替えで機器が対応してなかったので）解除して、固定IPで接続したいサービスはVPSと自宅で WireGuard トンネル貼って通してます！ 固定IP使えるルーターなら、使えるポート増えるので契約するほうがおすすめです</description>
+      <pubDate>Thu, 18 Jun 2026 00:50:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/minatochang/status/2067409585821151398</guid>
     </item>
     <item>
       <title>WireGuard 経由の接続につきましては、最大10Gbps対応のためのメンテナンス期間中となっております。ご利用のお客様にはご不便をおかけいたしますが、メンテナンス期間中はHiddifyをご利用いただきますようお願い申し上げます。</title>
@@ -262,20 +276,6 @@
       <description>さく: Wireguard のトランク設定 いったん設定しておいて その設定をエクスポートして ほかの人（外部ベンダー）に送って あとから公開鍵教えてくださいねって頼んで 返答来たらサーバー側のピア設定に上書きすれば 接続できるようになるのか。</description>
       <pubDate>Mon, 08 Jun 2026 09:02:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakuacid/status/2063909517658869926</guid>
-    </item>
-    <item>
-      <title>🖥️画面遠隔の使用ソフト ▼遠隔PC MoonlightかParsec(こっちのが簡単) ▼家PC Moonlight使用の場合→Sunshine Parsec使用の場合→Parsec 🎹MIDI遠隔の使用ソフト 遠隔&amp;家PC共に Win: rtpMIDI Mac:標準機能(Audio MIDI設定) 🛜出先の回線から接続 VPN接続ソフト Wireguard (遠隔PC) / Tailscale(両方)</title>
-      <link>https://x.com/Tos_0107/status/2063658701467341170</link>
-      <description>𝐓𝟎𝐒: 🖥️画面遠隔の使用ソフト ▼遠隔PC MoonlightかParsec(こっちのが簡単) ▼家PC Moonlight使用の場合→Sunshine Parsec使用の場合→Parsec 🎹MIDI遠隔の使用ソフト 遠隔&amp;家PC共に Win: rtpMIDI Mac:標準機能(Audio MIDI設定) 🛜出先の回線から接続 VPN接続ソフト Wireguard (遠隔PC) / Tailscale(両方)</description>
-      <pubDate>Sun, 07 Jun 2026 16:25:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tos_0107/status/2063658701467341170</guid>
-    </item>
-    <item>
-      <title>実家をVPNの出口ノード（Grid）に変える仮想アプライアンス。 「10Gbpsみたいな超爆速回線のポテンシャルを極限まで引き出したい！」という場合は、 WireGuard の暗号計算を並列処理で超高速化できる拡張命令（AVX2）に対応したCPUがあるとベストですが…… https://t.co/c8kmhnHDxW</title>
-      <link>https://x.com/homegrid_vpn/status/2063658038658322461</link>
-      <description>HomeGrid VPN: 実家をVPNの出口ノード（Grid）に変える仮想アプライアンス。 「10Gbpsみたいな超爆速回線のポテンシャルを極限まで引き出したい！」という場合は、 WireGuard の暗号計算を並列処理で超高速化できる拡張命令（AVX2）に対応したCPUがあるとベストですが…… https://t.co/c8kmhnHDxW</description>
-      <pubDate>Sun, 07 Jun 2026 16:23:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/homegrid_vpn/status/2063658038658322461</guid>
     </item>
   </channel>
 </rss>

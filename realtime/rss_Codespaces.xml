@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【始まりました！】 ハンズオン📣 自分の声をAIに喋らせよう🎙️ 無料・商用利用OKのローカル音声合成AI「Irodori-TTS v3」×LINE Messaging APIで、テキストを送ると好きな声で音声が返ってくるLINE Botを作ります。GitHub Codespaces だけで完結＝PCインストール不要！ 講師：菅原のびすけ 氏 https://t.co/Ai3AAR43ay</title>
+      <link>https://x.com/linedc_jp/status/2067187085803700583</link>
+      <description>LINE Developer Community(JP): 【始まりました！】 ハンズオン📣 自分の声をAIに喋らせよう🎙️ 無料・商用利用OKのローカル音声合成AI「Irodori-TTS v3」×LINE Messaging APIで、テキストを送ると好きな声で音声が返ってくるLINE Botを作ります。GitHub Codespaces だけで完結＝PCインストール不要！ 講師：菅原のびすけ 氏 https://t.co/Ai3AAR43ay</description>
+      <pubDate>Wed, 17 Jun 2026 10:06:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/linedc_jp/status/2067187085803700583</guid>
+    </item>
+    <item>
       <title>GitHub CodeSpaces ＋Claude Codeでちまちま進めつつ帰宅後にもう一押し Github Pages+Vercelで自動デプロイの設定もできた</title>
       <link>https://x.com/mikancode/status/2066901212159774782</link>
       <description>みかんこーど: GitHub CodeSpaces ＋Claude Codeでちまちま進めつつ帰宅後にもう一押し Github Pages+Vercelで自動デプロイの設定もできた</description>
@@ -269,13 +276,6 @@
       <description>ポケットセラピスト開発チーム: 弊社エンジニアによるテックブログでっす！！🎉🎉🎉 LLM全盛時代にこそ、GitHub Codespaces を活用しよう。｜nyagato_00 https://t.co/jaJTBVvTj7 #zenn</description>
       <pubDate>Wed, 20 May 2026 05:50:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/poth_dev/status/2056975880464060471</guid>
-    </item>
-    <item>
-      <title>By the way VSCodeの拡張機能から侵害があった的な話 個人的にはデフォルトのVSCodeには最小限の拡張機能にして他の拡張機能使いたいときはDev Containerや Codespaces 、他VSCode互換のサービスを使うようにしてます。 最近だとAWS CodeBuild SandboxをVSCodeにつないで使っていたりもありますね。</title>
-      <link>https://x.com/ymd65536/status/2056975473826287855</link>
-      <description>Kento.Yamada: By the way VSCodeの拡張機能から侵害があった的な話 個人的にはデフォルトのVSCodeには最小限の拡張機能にして他の拡張機能使いたいときはDev Containerや Codespaces 、他VSCode互換のサービスを使うようにしてます。 最近だとAWS CodeBuild SandboxをVSCodeにつないで使っていたりもありますね。</description>
-      <pubDate>Wed, 20 May 2026 05:49:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ymd65536/status/2056975473826287855</guid>
     </item>
   </channel>
 </rss>
