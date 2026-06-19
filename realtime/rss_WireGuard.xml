@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@wata2candy @tk4_jj @yutogestalt Wireguard サーバとの接続用にGL.iNetつかってます． TP-LinkのBE3600も試してみたのですが，こちらは Wireguard トンネルを通すかどうかクライアント毎に許可しないといけなかった．GL.iNetはSSIDで接続できれば，どのクライアントもトンネル通れます．</title>
+      <link>https://x.com/naotosone/status/2067810903127675038</link>
+      <description>Naoto SONE: @wata2candy @tk4_jj @yutogestalt Wireguard サーバとの接続用にGL.iNetつかってます． TP-LinkのBE3600も試してみたのですが，こちらは Wireguard トンネルを通すかどうかクライアント毎に許可しないといけなかった．GL.iNetはSSIDで接続できれば，どのクライアントもトンネル通れます．</description>
+      <pubDate>Fri, 19 Jun 2026 03:25:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/naotosone/status/2067810903127675038</guid>
+    </item>
+    <item>
+      <title>KVM仮想マシンに WireGuard VPNサーバーを構築する【iptables落とし穴あり】 https://t.co/2roZnvxNLu #Qiita @Akagi0901より</title>
+      <link>https://x.com/Akagi0901/status/2067801591219138593</link>
+      <description>CatCode: KVM仮想マシンに WireGuard VPNサーバーを構築する【iptables落とし穴あり】 https://t.co/2roZnvxNLu #Qiita @Akagi0901より</description>
+      <pubDate>Fri, 19 Jun 2026 02:48:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Akagi0901/status/2067801591219138593</guid>
+    </item>
+    <item>
       <title>安いVPSがあるので、 WireGuard だけ入れたインスタンスで固定IPを得るのが一番良いかなと思います。入れた後はSSHを閉じれば安全です さくらなら月643円で使えます https://t.co/qQNP04aW9U</title>
       <link>https://x.com/k_koyanagi_null/status/2067634860097954085</link>
       <description>小柳勝範＠札幌のIT会社の代表: 安いVPSがあるので、 WireGuard だけ入れたインスタンスで固定IPを得るのが一番良いかなと思います。入れた後はSSHを閉じれば安全です さくらなら月643円で使えます https://t.co/qQNP04aW9U</description>
@@ -262,20 +276,6 @@
       <description>海凪（かいなぎ）@アメリカ研究留学ブログ: 海外研究中のVPN速度が遅い時は、 WireGuard など高速プロトコル選択→有線LAN接続→セキュリティ設定調整がカギ🔌 無料より有料VPNがおすすめ。改善しなければサービス変更も検討を🌐 #海外研究生活</description>
       <pubDate>Wed, 10 Jun 2026 01:35:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NotforgetL/status/2064521682459488488</guid>
-    </item>
-    <item>
-      <title>成都のホテルのWiFiでVPN WireGuard がブロックされたっぽい。通信できなくなった。。 #中国</title>
-      <link>https://x.com/Px8LBoumednyu/status/2064353562231185464</link>
-      <description>コタケ🇹🇭パタヤ: 成都のホテルのWiFiでVPN WireGuard がブロックされたっぽい。通信できなくなった。。 #中国</description>
-      <pubDate>Tue, 09 Jun 2026 14:26:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Px8LBoumednyu/status/2064353562231185464</guid>
-    </item>
-    <item>
-      <title>TP-LinkはArcher MR600 v5に存在するコマンドインジェクションの脆弱性CVE-2026-8913に対するセキュリティアップデートを公開した。脆弱性は WireGuard クライアント設定機能に存在し、認証済みの管理者が任意のコマンドを実行できる可能性がある。</title>
-      <link>https://x.com/yousukezan/status/2064188276328816815</link>
-      <description>yousukezan: TP-LinkはArcher MR600 v5に存在するコマンドインジェクションの脆弱性CVE-2026-8913に対するセキュリティアップデートを公開した。脆弱性は WireGuard クライアント設定機能に存在し、認証済みの管理者が任意のコマンドを実行できる可能性がある。</description>
-      <pubDate>Tue, 09 Jun 2026 03:30:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yousukezan/status/2064188276328816815</guid>
     </item>
   </channel>
 </rss>
