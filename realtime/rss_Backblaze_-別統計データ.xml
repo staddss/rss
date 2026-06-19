@@ -95,19 +95,5 @@
       <pubDate>Wed, 20 May 2026 22:30:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/peaks2314/status/2057227380394172783</guid>
     </item>
-    <item>
-      <title>KeePassXCできてもAndroidの互換アプリは BackBlaze S2とかに直アクセスできないからどっかのVMインスタンスにデータベースおいてTaildriveでWebDavでアクセスするようにしようかな それだったらkeepass2Androidでできるし</title>
-      <link>https://x.com/sashisashi569/status/2057124100095762610</link>
-      <description>sashisashi: KeePassXCできてもAndroidの互換アプリは BackBlaze S2とかに直アクセスできないからどっかのVMインスタンスにデータベースおいてTaildriveでWebDavでアクセスするようにしようかな それだったらkeepass2Androidでできるし</description>
-      <pubDate>Wed, 20 May 2026 15:39:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2057124100095762610</guid>
-    </item>
-    <item>
-      <title>backblaze B2とか使って安価にNix Cache構築するやつ欲しいよな〜 CDNをCFに載せればエグレスのコストゼロにできるし</title>
-      <link>https://x.com/Comamoca_/status/2057091533950857678</link>
-      <description>こまもか🦊: backblaze B2とか使って安価にNix Cache構築するやつ欲しいよな〜 CDNをCFに載せればエグレスのコストゼロにできるし</description>
-      <pubDate>Wed, 20 May 2026 13:30:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Comamoca_/status/2057091533950857678</guid>
-    </item>
   </channel>
 </rss>
