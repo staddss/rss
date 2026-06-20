@@ -40,6 +40,13 @@
       <guid isPermaLink="true">https://x.com/hyado2025/status/2065610328101294191</guid>
     </item>
     <item>
+      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
+      <link>https://x.com/cotodaman/status/2065536945976140248</link>
+      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
+      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
+    </item>
+    <item>
       <title>スマホ版chromeのタブを閉じるボタンの位置を左下に戻すメモ 検索バーに「 chrome :// flags 」 「tab switcher」で出てくる項目をdisabledにする chromeを再起動する https://t.co/SwL5qpGYMY</title>
       <link>https://x.com/sid_clannad/status/2065015671445160391</link>
       <description>つっちー: スマホ版chromeのタブを閉じるボタンの位置を左下に戻すメモ 検索バーに「 chrome :// flags 」 「tab switcher」で出てくる項目をdisabledにする chromeを再起動する https://t.co/SwL5qpGYMY</description>
@@ -206,13 +213,6 @@
       <description>咲: メイプル起動しながらTwitterスクロールすると頻繁にブラウザの表示が固まってた（メイプルアクティブにすると直る）けどAIに聞いたら chrome :// flags /でChoose ANGLE graphics backendをD3D9かOpenGLにすると直るって教えてくれてやったら直った メイプルがDirectX11のゲームだから競合するらしい</description>
       <pubDate>Fri, 22 May 2026 07:38:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakipoko_3/status/2057727733443280925</guid>
-    </item>
-    <item>
-      <title>Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</title>
-      <link>https://x.com/FuwaCocoOwnerKG/status/2057467848638054501</link>
-      <description>KG-NINJA: Chromeにこんな項目発見 chrome :// flags /#ominibox https://t.co/s69muxdCiG</description>
-      <pubDate>Thu, 21 May 2026 14:25:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/FuwaCocoOwnerKG/status/2057467848638054501</guid>
     </item>
     <item>
       <title>GWSにも「Gemini in Chrome」が来てる模様 友達から聞いたのですが、Skillsフラッグを有効化したら使えるようです。私も試したら出てきました！ ーーー chrome :// flags /#skills ーーー ①上記をアドレスバーに入力してEnter ②Skillsを「Enabled」に変更→Chrome再起動 https://t.co/YIavgoklBb</title>

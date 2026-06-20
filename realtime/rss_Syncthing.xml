@@ -277,12 +277,5 @@
       <pubDate>Thu, 28 May 2026 14:46:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kevin327g/status/2060009861098918296</guid>
     </item>
-    <item>
-      <title>KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</title>
-      <link>https://x.com/cheenanet/status/2059981664567332893</link>
-      <description>Cheena: KeePassのファイルを Syncthing で同期して運用しているんだけど スマホから KeePassDX で開こうとすると同期後はファイルシステムへのアクセスが取り消されて一覧からも消されて困るなぁ</description>
-      <pubDate>Thu, 28 May 2026 12:54:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheenanet/status/2059981664567332893</guid>
-    </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/RYldCGLAFz #zenn</title>
+      <link>https://x.com/green__go/status/2068303516771467659</link>
+      <description>グリンゴ: Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/RYldCGLAFz #zenn</description>
+      <pubDate>Sat, 20 Jun 2026 12:02:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/green__go/status/2068303516771467659</guid>
+    </item>
+    <item>
+      <title>OPNsense、単純なPPPoEのアクセスルータとして、FW/DNS/DHCP/NAPT/NTP…etcをやらせる分には安定性に問題無さそうということは分かったので、あとは本命のVPN( WireGuard )を試しましょう。 DDNSはどうしましょうかね。 YAMAHAルータでは公式(ネットボランチDNSサービス)にお任せしてたし。</title>
+      <link>https://x.com/EXAM1319/status/2068295847947940133</link>
+      <description>craft: OPNsense、単純なPPPoEのアクセスルータとして、FW/DNS/DHCP/NAPT/NTP…etcをやらせる分には安定性に問題無さそうということは分かったので、あとは本命のVPN( WireGuard )を試しましょう。 DDNSはどうしましょうかね。 YAMAHAルータでは公式(ネットボランチDNSサービス)にお任せしてたし。</description>
+      <pubDate>Sat, 20 Jun 2026 11:32:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2068295847947940133</guid>
+    </item>
+    <item>
       <title>MillenVPNは接続エラー（IKEv2）が出ても WireGuard に切替えれば即解決。TVer・ABEMAも視聴OKで速度34.6Mbps。申し込みから接続まで画像付きで解説👇 #MillenVPN https://t.co/TpP7Eu6Q6A</title>
       <link>https://x.com/chloe_blog_2021/status/2068275425600848301</link>
       <description>くろ絵: MillenVPNは接続エラー（IKEv2）が出ても WireGuard に切替えれば即解決。TVer・ABEMAも視聴OKで速度34.6Mbps。申し込みから接続まで画像付きで解説👇 #MillenVPN https://t.co/TpP7Eu6Q6A</description>
@@ -262,20 +276,6 @@
       <description>荒木 宏之: @shikarunochi カフェとかシャレオツすぎる わたしはラーメン屋のカウンターで出てくるのを待っている間に #PocketTerm35 で wireguard の調整をしていましたｗ 打鍵は静かでしたよ、ええ、消しゴムキーボードだし</description>
       <pubDate>Sat, 13 Jun 2026 05:49:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/h_araki/status/2065672962624434654</guid>
-    </item>
-    <item>
-      <title>Ubuntuサーバーいれて WireGuard 入れてうごいたー 割と楽な作業だった…</title>
-      <link>https://x.com/KeisukeEJ/status/2065491479947018251</link>
-      <description>Case-K Aegirine: Ubuntuサーバーいれて WireGuard 入れてうごいたー 割と楽な作業だった…</description>
-      <pubDate>Fri, 12 Jun 2026 17:48:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KeisukeEJ/status/2065491479947018251</guid>
-    </item>
-    <item>
-      <title>凄いな。こんなエントリークラスでしかも11年前の製品でも、ちゃんとファームウェアのアップデート出してくれてて、しかも延命措置みたいなのじゃなくて、 WireGuard 対応やWeb UI刷新といった新機能も入れてくれるの素晴らしい。Ubiquitiに対し、とても真面目なメーカーとの印象を受けた。</title>
-      <link>https://x.com/bombom583/status/2065381418386252234</link>
-      <description>bombom: 凄いな。こんなエントリークラスでしかも11年前の製品でも、ちゃんとファームウェアのアップデート出してくれてて、しかも延命措置みたいなのじゃなくて、 WireGuard 対応やWeb UI刷新といった新機能も入れてくれるの素晴らしい。Ubiquitiに対し、とても真面目なメーカーとの印象を受けた。</description>
-      <pubDate>Fri, 12 Jun 2026 10:31:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bombom583/status/2065381418386252234</guid>
     </item>
   </channel>
 </rss>
