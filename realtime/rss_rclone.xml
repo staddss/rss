@@ -172,54 +172,5 @@
       <pubDate>Fri, 22 May 2026 17:23:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shaftingmuffin/status/2057874897179926545</guid>
     </item>
-    <item>
-      <title>個人的に使っている方法として、NextCloudにサーバーレベル暗号化をセットして、データは rClone でGoogle Driveをマウントした先に保存する、という手法もいいかなと。 データ自体は暗号化された上でGoogle Drive上に保存されるので、よほどのことがない限り失われませんからね。 https://t.co/pYY8yk20HV</title>
-      <link>https://x.com/team4k_kanonji/status/2057337980411629948</link>
-      <description>北野 洋一 / Y.K. Works 代表 / 観音寺市の変なおじさん(KHO): 個人的に使っている方法として、NextCloudにサーバーレベル暗号化をセットして、データは rClone でGoogle Driveをマウントした先に保存する、という手法もいいかなと。 データ自体は暗号化された上でGoogle Drive上に保存されるので、よほどのことがない限り失われませんからね。 https://t.co/pYY8yk20HV</description>
-      <pubDate>Thu, 21 May 2026 05:49:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/team4k_kanonji/status/2057337980411629948</guid>
-    </item>
-    <item>
-      <title>個人的に使っている方法として、NextCloudにサーバーレベル暗号化をセットして、データは rClone でGoogle Driveをマウントした先に保存する、という手法もいいかなと。 データ自体は暗号化された上でGoogle Drive上に保存されるので、よほどのことがない限り失われませんからね。 https://t.co/pYY8yk20HV</title>
-      <link>https://x.com/team4k_kanonji/status/2057337764304363730</link>
-      <description>北野 洋一 / Y.K. Works 代表 / 観音寺市の変なおじさん(KHO): 個人的に使っている方法として、NextCloudにサーバーレベル暗号化をセットして、データは rClone でGoogle Driveをマウントした先に保存する、という手法もいいかなと。 データ自体は暗号化された上でGoogle Drive上に保存されるので、よほどのことがない限り失われませんからね。 https://t.co/pYY8yk20HV</description>
-      <pubDate>Thu, 21 May 2026 05:48:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/team4k_kanonji/status/2057337764304363730</guid>
-    </item>
-    <item>
-      <title>bufferならAPIで予約投稿まで出来ますね。 そんなに高くないし試してみようかな rclone / Gofile APIで保存 + 投稿テンプレートとステータス変更 + ランダム抽選 + データコピー + Buffer GraphQL API ↓ 半自動予約投稿の土台</title>
-      <link>https://x.com/o0oo000o0oo00oo/status/2057334401395269779</link>
-      <description>余録の三浦: bufferならAPIで予約投稿まで出来ますね。 そんなに高くないし試してみようかな rclone / Gofile APIで保存 + 投稿テンプレートとステータス変更 + ランダム抽選 + データコピー + Buffer GraphQL API ↓ 半自動予約投稿の土台</description>
-      <pubDate>Thu, 21 May 2026 05:35:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/o0oo000o0oo00oo/status/2057334401395269779</guid>
-    </item>
-    <item>
-      <title>AWSの契約が面倒くさいといえば、まずそれはそう。 rclone の暗号化ストレージを、お手軽に利用できるようにすればええのかしら。……ClaudeくんなりCodexくんなりにラッパーを作ってもらうか。</title>
-      <link>https://x.com/idezumi/status/2057265962462904599</link>
-      <description>不出水: AWSの契約が面倒くさいといえば、まずそれはそう。 rclone の暗号化ストレージを、お手軽に利用できるようにすればええのかしら。……ClaudeくんなりCodexくんなりにラッパーを作ってもらうか。</description>
-      <pubDate>Thu, 21 May 2026 01:03:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/idezumi/status/2057265962462904599</guid>
-    </item>
-    <item>
-      <title>影響バージョンと対策をまとめました。 rclone rcdを外部公開している環境はありますか？ #セキュリティ #CVE #脆弱性 https://t.co/49QS2YWIFi</title>
-      <link>https://x.com/tsumikasanedev/status/2057249700064203117</link>
-      <description>つみかさね: 影響バージョンと対策をまとめました。 rclone rcdを外部公開している環境はありますか？ #セキュリティ #CVE #脆弱性 https://t.co/49QS2YWIFi</description>
-      <pubDate>Wed, 20 May 2026 23:58:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2057249700064203117</guid>
-    </item>
-    <item>
-      <title>Rclone に認証なしRCE（CVE-2026-41179、CVSS 9.8）。RC API経由でバックエンドを攻撃者がコントロールでき、WebDAV初期化時にローカルコマンドが実行される。v1.48.0以降、v1.73.5未満が影響。</title>
-      <link>https://x.com/tsumikasanedev/status/2057249698961138121</link>
-      <description>つみかさね: Rclone に認証なしRCE（CVE-2026-41179、CVSS 9.8）。RC API経由でバックエンドを攻撃者がコントロールでき、WebDAV初期化時にローカルコマンドが実行される。v1.48.0以降、v1.73.5未満が影響。</description>
-      <pubDate>Wed, 20 May 2026 23:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2057249698961138121</guid>
-    </item>
-    <item>
-      <title>私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</title>
-      <link>https://x.com/esumii/status/2055919291233607902</link>
-      <description>S (ﾂｲｰﾄはﾂﾘｰ全体をご確認ください): 私自身はCryptomatorとResticでそれぞれ暗号化してローカルに保存したアーカイブを Rclone でそれぞれ複数のクラウドにも保存しています。 https://t.co/mw4uPx5XJE</description>
-      <pubDate>Sun, 17 May 2026 07:52:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/esumii/status/2055919291233607902</guid>
-    </item>
   </channel>
 </rss>

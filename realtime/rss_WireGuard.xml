@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そもそもなんで年に数日だけ空気入れ替えるだけの放棄されかけてる一軒家に固定光回線引いてあって俺のクレジットカード経由で引き落とされているか、ソフトイーサーだの wireguard なVPNルーターがあるのかとツッコミどころは多数ある</title>
+      <link>https://x.com/Ckurai/status/2068180643494973550</link>
+      <description>倉井: そもそもなんで年に数日だけ空気入れ替えるだけの放棄されかけてる一軒家に固定光回線引いてあって俺のクレジットカード経由で引き落とされているか、ソフトイーサーだの wireguard なVPNルーターがあるのかとツッコミどころは多数ある</description>
+      <pubDate>Sat, 20 Jun 2026 03:54:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2068180643494973550</guid>
+    </item>
+    <item>
+      <title>ベランダリモート観測所の機材遊びと化しているが、GL-MT5000を WireGuard サーバーとして購入。追加でRPC-M4LSを2台追加。計12アウトレット。 自宅でスマホテザリングで、ケーブルネットルーター→GL-MT5000→リブーターの接続成功。 ほぼCopilotさんに面倒を見てもらった。ただ理解していない。。</title>
+      <link>https://x.com/yamagiri_K5/status/2068134511318323398</link>
+      <description>やまぎり: ベランダリモート観測所の機材遊びと化しているが、GL-MT5000を WireGuard サーバーとして購入。追加でRPC-M4LSを2台追加。計12アウトレット。 自宅でスマホテザリングで、ケーブルネットルーター→GL-MT5000→リブーターの接続成功。 ほぼCopilotさんに面倒を見てもらった。ただ理解していない。。</description>
+      <pubDate>Sat, 20 Jun 2026 00:51:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamagiri_K5/status/2068134511318323398</guid>
+    </item>
+    <item>
       <title>@hrichina 走 wireguard 回家即可</title>
       <link>https://x.com/adams_2333/status/2067996609573786110</link>
       <description>泽野黄雀: @hrichina 走 wireguard 回家即可</description>
@@ -31,6 +45,13 @@
       <description>CatCode: KVM仮想マシンに WireGuard VPNサーバーを構築する【iptables落とし穴あり】 https://t.co/2roZnvxNLu #Qiita @Akagi0901より</description>
       <pubDate>Fri, 19 Jun 2026 02:48:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Akagi0901/status/2067801591219138593</guid>
+    </item>
+    <item>
+      <title>【ゆる募】 Wireguard 環境に接続できる安めの小型ルータっぽいやつ Wireguard ホストするんじゃなくてルータ通してブリッジ(NAT)するイメージ</title>
+      <link>https://x.com/tk4_jj/status/2067742178336731519</link>
+      <description>tatematsu_san: 【ゆる募】 Wireguard 環境に接続できる安めの小型ルータっぽいやつ Wireguard ホストするんじゃなくてルータ通してブリッジ(NAT)するイメージ</description>
+      <pubDate>Thu, 18 Jun 2026 22:52:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tk4_jj/status/2067742178336731519</guid>
     </item>
     <item>
       <title>安いVPSがあるので、 WireGuard だけ入れたインスタンスで固定IPを得るのが一番良いかなと思います。入れた後はSSHを閉じれば安全です さくらなら月643円で使えます https://t.co/qQNP04aW9U</title>
@@ -255,27 +276,6 @@
       <description>クロネコ: WireGuard が「芸術作品」と呼ばれた理由 https://t.co/zC1wg7E3vE @YouTubeより</description>
       <pubDate>Thu, 11 Jun 2026 10:21:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/96neko/status/2065016519004954651</guid>
-    </item>
-    <item>
-      <title>インターネット老人会なので『フリーWi-Fiとか危険』みたいなイメージを基本的には持ってる（ていた）のだけど、 Wireguard ＋DNSオーバーライドを簡単に使える時代になって、いわゆる釣り針の餌だけ安全に食べるスキルが容易になりすぎているの。技術が悪意を凌駕してて凄いと思う</title>
-      <link>https://x.com/one_asuka/status/2064686453343564239</link>
-      <description>一平魔人: インターネット老人会なので『フリーWi-Fiとか危険』みたいなイメージを基本的には持ってる（ていた）のだけど、 Wireguard ＋DNSオーバーライドを簡単に使える時代になって、いわゆる釣り針の餌だけ安全に食べるスキルが容易になりすぎているの。技術が悪意を凌駕してて凄いと思う</description>
-      <pubDate>Wed, 10 Jun 2026 12:29:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/one_asuka/status/2064686453343564239</guid>
-    </item>
-    <item>
-      <title>OpenClawってラズパイ使ってそれ自身はVLANで切って、ローカルLLMとは別ネットワークでTailnet接続して運用して、万が一 Wireguard がダメになったとしてもザリガニが孤立して無能化するだけにしたらだいぶ安全なのでは</title>
-      <link>https://x.com/one_asuka/status/2064685033206767645</link>
-      <description>一平魔人: OpenClawってラズパイ使ってそれ自身はVLANで切って、ローカルLLMとは別ネットワークでTailnet接続して運用して、万が一 Wireguard がダメになったとしてもザリガニが孤立して無能化するだけにしたらだいぶ安全なのでは</description>
-      <pubDate>Wed, 10 Jun 2026 12:24:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/one_asuka/status/2064685033206767645</guid>
-    </item>
-    <item>
-      <title>よくわからんが自宅PCの wireguard のテーブルがぶっ飛んでクリアネット着信・発信ができなくなってた。 wg再起動で直った。</title>
-      <link>https://x.com/tnky2929/status/2064622991364030923</link>
-      <description>tanakei: よくわからんが自宅PCの wireguard のテーブルがぶっ飛んでクリアネット着信・発信ができなくなってた。 wg再起動で直った。</description>
-      <pubDate>Wed, 10 Jun 2026 08:17:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tnky2929/status/2064622991364030923</guid>
     </item>
   </channel>
 </rss>
