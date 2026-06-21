@@ -165,12 +165,5 @@
       <pubDate>Sat, 23 May 2026 04:44:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gakuseia_dev/status/2058046495799353613</guid>
     </item>
-    <item>
-      <title>WiFiのようなもともとレイテンシが安定しない環境で、 pipewire /pulseaudioのリアルタイム性が求められる処理とchrony(NTP/NTS)の同時使用は相性悪い気がする。</title>
-      <link>https://x.com/nobuto_m/status/2057667407947444662</link>
-      <description>Nobuto Murata: WiFiのようなもともとレイテンシが安定しない環境で、 pipewire /pulseaudioのリアルタイム性が求められる処理とchrony(NTP/NTS)の同時使用は相性悪い気がする。</description>
-      <pubDate>Fri, 22 May 2026 03:38:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nobuto_m/status/2057667407947444662</guid>
-    </item>
   </channel>
 </rss>
