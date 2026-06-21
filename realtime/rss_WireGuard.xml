@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard のトンネルインターフェースをVBAUDIOのVBANの通信先として直接指定できない softetherの時はできてたからインターフェースがトンネルだとダメなのか</title>
+      <link>https://x.com/Exass/status/2068611434595180863</link>
+      <description>ゑくさす: Wireguard のトンネルインターフェースをVBAUDIOのVBANの通信先として直接指定できない softetherの時はできてたからインターフェースがトンネルだとダメなのか</description>
+      <pubDate>Sun, 21 Jun 2026 08:26:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Exass/status/2068611434595180863</guid>
+    </item>
+    <item>
+      <title>Wireguard のバッテリー消費が妙に高いのが気になる、火曜高いし若干熱持つと思ってKeeparriveを無しに変えたがあまり…うちだけだろうか https://t.co/iL0GCEqcn2</title>
+      <link>https://x.com/s_z_hina/status/2068332029943681166</link>
+      <description>すずひな: Wireguard のバッテリー消費が妙に高いのが気になる、火曜高いし若干熱持つと思ってKeeparriveを無しに変えたがあまり…うちだけだろうか https://t.co/iL0GCEqcn2</description>
+      <pubDate>Sat, 20 Jun 2026 13:55:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/s_z_hina/status/2068332029943681166</guid>
+    </item>
+    <item>
       <title>Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/RYldCGLAFz #zenn</title>
       <link>https://x.com/green__go/status/2068303516771467659</link>
       <description>グリンゴ: Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/RYldCGLAFz #zenn</description>
@@ -262,20 +276,6 @@
       <description>長尾一慶 (酩亭): そうか。さくらのVPS上に wireguard 入れて通信するとさくらのコントロールパネルに繋げなくなるｗ</description>
       <pubDate>Sat, 13 Jun 2026 09:22:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/infinitars/status/2065726455691243598</guid>
-    </item>
-    <item>
-      <title>インフラ系の人には当たり前だろうけど、MTUズレるとネットワーク全体が遅くなることある。 Wireguard とか知識浅くても構築できちゃう分、こういう落とし穴に気づきにくい。pingでMTU調べられるのも最近知った。</title>
-      <link>https://x.com/Tolkin_Tolk/status/2065687069809406137</link>
-      <description>怠惰: インフラ系の人には当たり前だろうけど、MTUズレるとネットワーク全体が遅くなることある。 Wireguard とか知識浅くても構築できちゃう分、こういう落とし穴に気づきにくい。pingでMTU調べられるのも最近知った。</description>
-      <pubDate>Sat, 13 Jun 2026 06:45:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tolkin_Tolk/status/2065687069809406137</guid>
-    </item>
-    <item>
-      <title>@shikarunochi カフェとかシャレオツすぎる わたしはラーメン屋のカウンターで出てくるのを待っている間に #PocketTerm35 で wireguard の調整をしていましたｗ 打鍵は静かでしたよ、ええ、消しゴムキーボードだし</title>
-      <link>https://x.com/h_araki/status/2065672962624434654</link>
-      <description>荒木 宏之: @shikarunochi カフェとかシャレオツすぎる わたしはラーメン屋のカウンターで出てくるのを待っている間に #PocketTerm35 で wireguard の調整をしていましたｗ 打鍵は静かでしたよ、ええ、消しゴムキーボードだし</description>
-      <pubDate>Sat, 13 Jun 2026 05:49:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_araki/status/2065672962624434654</guid>
     </item>
   </channel>
 </rss>
