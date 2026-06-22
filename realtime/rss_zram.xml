@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@fedoraupdown zram がある</title>
+      <link>https://x.com/altairkarell/status/2068948057044218294</link>
+      <description>altairkarell: @fedoraupdown zram がある</description>
+      <pubDate>Mon, 22 Jun 2026 06:43:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/altairkarell/status/2068948057044218294</guid>
+    </item>
+    <item>
       <title>zram 圧縮有効化したらrebuild中にブラウザ開いてもOOMしたりしなくなった。すごい。</title>
       <link>https://x.com/sashisashi569/status/2067790204644307285</link>
       <description>sashisashi: zram 圧縮有効化したらrebuild中にブラウザ開いてもOOMしたりしなくなった。すごい。</description>
@@ -269,20 +276,6 @@
       <description>こまど: 随分前に買って置き物になってたRaspberry Pi 5 (8GB RAM)にollamaとopen webUIコンテナ入れてローカルLLM動かしてみた。最初まともに動かなかったモデル（gemma4:e2bとか）も zram 有効化したら動くようになったり、なかなか勉強になった。（安定性や応答性は厳しく実用的かと言われると難しいが)</description>
       <pubDate>Sun, 31 May 2026 09:16:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cho_ompa/status/2061014005712576843</guid>
-    </item>
-    <item>
-      <title>#Ubuntu 26.04 でデフォで有効になった #zswap という機能。簡単に言うと zram + swapfile みたいな機能ですが、 zram より処理が賢いらしく(縮まない元から圧縮されたファイルはスルーするなど)、実際使ってみて、特に古いPCで効果高くて早い。イイネ。</title>
-      <link>https://x.com/NonbiNon/status/2060559555235582181</link>
-      <description>ノンビ@暗号資産: #Ubuntu 26.04 でデフォで有効になった #zswap という機能。簡単に言うと zram + swapfile みたいな機能ですが、 zram より処理が賢いらしく(縮まない元から圧縮されたファイルはスルーするなど)、実際使ってみて、特に古いPCで効果高くて早い。イイネ。</description>
-      <pubDate>Sat, 30 May 2026 03:10:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NonbiNon/status/2060559555235582181</guid>
-    </item>
-    <item>
-      <title>@0x71ff 実用的な感じで良いですね Gnome+FireFoxの組み合わせだとメモリ4GBだと厳しそうですが、 zram が優秀なんですね(自分ならxfceとGnome Webの組み合わせを使うかな) 自分はメモリ消費量の少ないSafariのエンジンを使いたいの&amp;楽なのでOpenCore Legacy PatcherでVenturaを入れて使ってます</title>
-      <link>https://x.com/Unagi_Dojyou/status/2059514918332981276</link>
-      <description>Unagi Dojyou: @0x71ff 実用的な感じで良いですね Gnome+FireFoxの組み合わせだとメモリ4GBだと厳しそうですが、 zram が優秀なんですね(自分ならxfceとGnome Webの組み合わせを使うかな) 自分はメモリ消費量の少ないSafariのエンジンを使いたいの&amp;楽なのでOpenCore Legacy PatcherでVenturaを入れて使ってます</description>
-      <pubDate>Wed, 27 May 2026 05:59:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Unagi_Dojyou/status/2059514918332981276</guid>
     </item>
   </channel>
 </rss>

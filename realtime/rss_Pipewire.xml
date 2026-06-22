@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>niri→独自コンポジタ、 PipeWire →独自サウンドエンジンに移行できたのが大きなインパクト</title>
+      <link>https://x.com/stdio_world/status/2068486518403199165</link>
+      <description>DΙΟ: niri→独自コンポジタ、 PipeWire →独自サウンドエンジンに移行できたのが大きなインパクト</description>
+      <pubDate>Sun, 21 Jun 2026 00:09:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/stdio_world/status/2068486518403199165</guid>
+    </item>
+    <item>
       <title>ゆーてLinux対応DAWに移行しようとするじゃん？ Pipewire （内部でPulseAudio変換？）とかいうやつのせいでREAPERもZrythmも音鳴らなかったんよ 動作するのは Pipewire ネイティブのBitWig Studio 既存のソフト使えなかったら買うしかない え？ https://t.co/74Mv3z9f2L</title>
       <link>https://x.com/OnslaughtktnP/status/2067424077057548521</link>
       <description>猛攻型ことねP（ひうが） | リブランド中: ゆーてLinux対応DAWに移行しようとするじゃん？ Pipewire （内部でPulseAudio変換？）とかいうやつのせいでREAPERもZrythmも音鳴らなかったんよ 動作するのは Pipewire ネイティブのBitWig Studio 既存のソフト使えなかったら買うしかない え？ https://t.co/74Mv3z9f2L</description>
@@ -157,13 +164,6 @@
       <description>YZOX (イゾックス）🏳️‍🌈　@yzox.bsky.social: Linuxは誰が聴いてもわかるぐらいに音がいい 高音質で低遅延 それはなぜかその歴史について 最新の Pipewire まで、Linuxによる音を鳴らす歴史 #pulseaudio - Qiita https://t.co/eVBzT6mnWx</description>
       <pubDate>Tue, 26 May 2026 09:51:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yzox_jpn/status/2059210873064051191</guid>
-    </item>
-    <item>
-      <title>そっか、Raspberry Pi 5ってPTPに対応できるしうまいことすればDanteとかで対応してるAES67を PipeWire で扱えるんか…レイテンシによってはRaspberry Pi 5+DACとかADCでYAMAHAのデジタルミキサーみたいなのできちゃう？？？</title>
-      <link>https://x.com/gakuseia_dev/status/2058046495799353613</link>
-      <description>Kadenz-A: そっか、Raspberry Pi 5ってPTPに対応できるしうまいことすればDanteとかで対応してるAES67を PipeWire で扱えるんか…レイテンシによってはRaspberry Pi 5+DACとかADCでYAMAHAのデジタルミキサーみたいなのできちゃう？？？</description>
-      <pubDate>Sat, 23 May 2026 04:44:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gakuseia_dev/status/2058046495799353613</guid>
     </item>
   </channel>
 </rss>
