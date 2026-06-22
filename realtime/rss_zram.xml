@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Dt2Killer にしても3GBほど多いですね。 Zram かな？</title>
+      <link>https://x.com/fedoraupdown/status/2069030149740441886</link>
+      <description>けんけん: @Dt2Killer にしても3GBほど多いですね。 Zram かな？</description>
+      <pubDate>Mon, 22 Jun 2026 12:10:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2069030149740441886</guid>
+    </item>
+    <item>
       <title>@fedoraupdown zram がある</title>
       <link>https://x.com/altairkarell/status/2068948057044218294</link>
       <description>altairkarell: @fedoraupdown zram がある</description>
@@ -269,13 +276,6 @@
       <description>筋肉が欲しいもりんちゅ: 今まで知らずにディスク領域にswap確保してたわ😂 zram swap使ってみよう https://t.co/ofgzeDHwG3</description>
       <pubDate>Mon, 01 Jun 2026 07:19:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tamorieeeen/status/2061346946170880393</guid>
-    </item>
-    <item>
-      <title>随分前に買って置き物になってたRaspberry Pi 5 (8GB RAM)にollamaとopen webUIコンテナ入れてローカルLLM動かしてみた。最初まともに動かなかったモデル（gemma4:e2bとか）も zram 有効化したら動くようになったり、なかなか勉強になった。（安定性や応答性は厳しく実用的かと言われると難しいが)</title>
-      <link>https://x.com/cho_ompa/status/2061014005712576843</link>
-      <description>こまど: 随分前に買って置き物になってたRaspberry Pi 5 (8GB RAM)にollamaとopen webUIコンテナ入れてローカルLLM動かしてみた。最初まともに動かなかったモデル（gemma4:e2bとか）も zram 有効化したら動くようになったり、なかなか勉強になった。（安定性や応答性は厳しく実用的かと言われると難しいが)</description>
-      <pubDate>Sun, 31 May 2026 09:16:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cho_ompa/status/2061014005712576843</guid>
     </item>
   </channel>
 </rss>

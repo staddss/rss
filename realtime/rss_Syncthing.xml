@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@shota_asai 『信じられんほど軽い』、最初の体感そこですよね。自分もNotion、Logseq、純正メモと試して結局Obsidianに戻ってきた側で、クラウドはiCloud→ Syncthing →Obsidian Syncの順で揺れて、結局Sync課金が一番事故が少なかった印象です。何で運用される予定ですか？</title>
+      <link>https://x.com/simplememofast/status/2069008443089027453</link>
+      <description>Obsidian連携シンプルメモ: @shota_asai 『信じられんほど軽い』、最初の体感そこですよね。自分もNotion、Logseq、純正メモと試して結局Obsidianに戻ってきた側で、クラウドはiCloud→ Syncthing →Obsidian Syncの順で揺れて、結局Sync課金が一番事故が少なかった印象です。何で運用される予定ですか？</description>
+      <pubDate>Mon, 22 Jun 2026 10:43:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/simplememofast/status/2069008443089027453</guid>
+    </item>
+    <item>
       <title>Syncthing でスマホを同期するのにかなり手こずった。 試行錯誤の過程で同期したいファイルを消したりもしたけれどなんとか期待通りの動作に落ち着いた。</title>
       <link>https://x.com/kz14/status/2068304052283462105</link>
       <description>kz14: Syncthing でスマホを同期するのにかなり手こずった。 試行錯誤の過程で同期したいファイルを消したりもしたけれどなんとか期待通りの動作に落ち着いた。</description>
@@ -269,20 +276,6 @@
       <description>冬斗(ふゆとん): grok君に聞いたら、 Syncthing がいいっぽいけどiOSデバイスが使えないっぽいので、Obsidian LiveSync (CouchDB)をお勧めされた。 で、iOSデバイスから使うときは、証明書つきの https 使わないといけないらしい。</description>
       <pubDate>Sat, 30 May 2026 02:53:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fuyuton/status/2060555125878673801</guid>
-    </item>
-    <item>
-      <title>Obsidianは別PCのUbuntuサーバー内に正本置いて Syncthing でメインPCにリアタイ同期させてるんですが、マニュアルとindexとaboutを徹底整備して12体のAIが迷わず同じ形式で共同管理できるようにしたらすごく情報が綺麗に整理されるようになった。情報取る時もgrepかindex経由にして参照範囲は最小限に。 https://t.co/2K5A2bDDdg</title>
-      <link>https://x.com/shii418ha/status/2060183287168176612</link>
-      <description>🦒詩葉（しいは）｜AIの「記憶」の研究をしてるひと: Obsidianは別PCのUbuntuサーバー内に正本置いて Syncthing でメインPCにリアタイ同期させてるんですが、マニュアルとindexとaboutを徹底整備して12体のAIが迷わず同じ形式で共同管理できるようにしたらすごく情報が綺麗に整理されるようになった。情報取る時もgrepかindex経由にして参照範囲は最小限に。 https://t.co/2K5A2bDDdg</description>
-      <pubDate>Fri, 29 May 2026 02:15:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shii418ha/status/2060183287168176612</guid>
-    </item>
-    <item>
-      <title>これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale (WireGuard) Syncthing</title>
-      <link>https://x.com/kevin327g/status/2060009861098918296</link>
-      <description>kevin mitsunaga / fhána: これ無しの仕事なんて考えられない、ってくらい便利なプログラムを3つ選ぶとしたら間違いなく Git Tailscale (WireGuard) Syncthing</description>
-      <pubDate>Thu, 28 May 2026 14:46:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kevin327g/status/2060009861098918296</guid>
     </item>
   </channel>
 </rss>
