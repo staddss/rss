@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OPSsenseでの WireGuard 設定でまだ試行錯誤してる。 というか単純にファイアウォールを開けられてないや。 外部からルータまでは届いているけど、FWログ見たらブロックされたままだ。</title>
+      <link>https://x.com/EXAM1319/status/2069371326813569299</link>
+      <description>craft: OPSsenseでの WireGuard 設定でまだ試行錯誤してる。 というか単純にファイアウォールを開けられてないや。 外部からルータまでは届いているけど、FWログ見たらブロックされたままだ。</description>
+      <pubDate>Tue, 23 Jun 2026 10:45:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2069371326813569299</guid>
+    </item>
+    <item>
       <title>よし、GL- iNetから、さくらインターネットの仮想ルータへ WireGuard で接続出来た。</title>
       <link>https://x.com/tk4_jj/status/2069236022232420828</link>
       <description>tatematsu_san: よし、GL- iNetから、さくらインターネットの仮想ルータへ WireGuard で接続出来た。</description>
@@ -269,13 +276,6 @@
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 おっけー てかあれ wireguard 書き出す時ってUDP-TCPの選択どこ あサイトだからか https://t.co/BehUYcofvo</description>
       <pubDate>Sun, 14 Jun 2026 03:37:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2066002132407648294</guid>
-    </item>
-    <item>
-      <title>@L_port53 方式というかProton公式アプリの話。 Wireguard アプリの場合は Wireguard (UDP)固定。ただ, プロファイルの有効期限があるので定期的に置き換えが必要でちと面倒。</title>
-      <link>https://x.com/shumaikun0716/status/2066000180110053740</link>
-      <description>shumaikun0716: @L_port53 方式というかProton公式アプリの話。 Wireguard アプリの場合は Wireguard (UDP)固定。ただ, プロファイルの有効期限があるので定期的に置き換えが必要でちと面倒。</description>
-      <pubDate>Sun, 14 Jun 2026 03:30:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066000180110053740</guid>
     </item>
   </channel>
 </rss>

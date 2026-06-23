@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>どうやら rclone mountとwatchdogのInotifyObserverは相性が悪いらしい</title>
+      <link>https://x.com/RasPython3/status/2068994654499139939</link>
+      <description>らすぴー / RasPython3: どうやら rclone mountとwatchdogのInotifyObserverは相性が悪いらしい</description>
+      <pubDate>Mon, 22 Jun 2026 09:49:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RasPython3/status/2068994654499139939</guid>
+    </item>
+    <item>
       <title>よし、追加レイヤーの設定できた！ これで rclone で透過処理ができる🙂</title>
       <link>https://x.com/plutoj1975/status/2068221894097355193</link>
       <description>ぷーさん＿元エンジ: よし、追加レイヤーの設定できた！ これで rclone で透過処理ができる🙂</description>

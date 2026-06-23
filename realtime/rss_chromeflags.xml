@@ -180,20 +180,6 @@
       <guid isPermaLink="true">https://x.com/kohji405mi16/status/2058702690377682958</guid>
     </item>
     <item>
-      <title>PC版、【Google Chrome】、アップデートで【Gemini】搭載されてから勝手に4GBものファイルが生成されてる、 chrome :// flags をちょして削除しないとそのまま削除した場合は復活する https://t.co/asoelDtLt3</title>
-      <link>https://x.com/trianglewaveosc/status/2058466268303503823</link>
-      <description>SoA: PC版、【Google Chrome】、アップデートで【Gemini】搭載されてから勝手に4GBものファイルが生成されてる、 chrome :// flags をちょして削除しないとそのまま削除した場合は復活する https://t.co/asoelDtLt3</description>
-      <pubDate>Sun, 24 May 2026 08:32:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/trianglewaveosc/status/2058466268303503823</guid>
-    </item>
-    <item>
-      <title>これすげえ邪魔なんだけど、「 chrome :// flags 」から消しても出てくる https://t.co/Mr9sJ2fgBr</title>
-      <link>https://x.com/hikari_ytgrs/status/2058443834489790794</link>
-      <description>牧野ひかり＠劇場依存症さんじゅうまる෧☽: これすげえ邪魔なんだけど、「 chrome :// flags 」から消しても出てくる https://t.co/Mr9sJ2fgBr</description>
-      <pubDate>Sun, 24 May 2026 07:03:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hikari_ytgrs/status/2058443834489790794</guid>
-    </item>
-    <item>
       <title>#RO #ラトリオ #新機能 本日実装されたAIラトリオを使うにはブラウザに以下の設定をしてください ・Chrome系（Chrome、Edge）推奨 ・アドレスバーに（ chrome :// flags /#enable-webgpu-developer-features）を入力 ・「WebGPU Developer Features」または「WebXR/WebGPU Binding」を Enabled に変更</title>
       <link>https://x.com/PriestKaori/status/2058078000978211325</link>
       <description>髙屋佳織: #RO #ラトリオ #新機能 本日実装されたAIラトリオを使うにはブラウザに以下の設定をしてください ・Chrome系（Chrome、Edge）推奨 ・アドレスバーに（ chrome :// flags /#enable-webgpu-developer-features）を入力 ・「WebGPU Developer Features」または「WebXR/WebGPU Binding」を Enabled に変更</description>
@@ -206,6 +192,13 @@
       <description>渡瀬ゆず💉: このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</description>
       <pubDate>Sat, 16 May 2026 09:47:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kamo_kamos/status/2055585880270852207</guid>
+    </item>
+    <item>
+      <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>
+      <link>https://x.com/MatoToushi/status/2042160640349855824</link>
+      <description>まと｜AI×デザイン部: ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</description>
+      <pubDate>Thu, 09 Apr 2026 08:40:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MatoToushi/status/2042160640349855824</guid>
     </item>
     <item>
       <title>Google Chromeの分割ビューを無効化する方法 ・アドレスバーに「 chrome :// flags 」入力 ・Experimentsの検索バーで「Split View」を検索 ・Split Viewの設定を「Disabled」にしてChrome再起動 タブ動かすとくっついちゃって私には不便だった😿</title>
