@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>よし、GL- iNetから、さくらインターネットの仮想ルータへ WireGuard で接続出来た。</title>
+      <link>https://x.com/tk4_jj/status/2069236022232420828</link>
+      <description>tatematsu_san: よし、GL- iNetから、さくらインターネットの仮想ルータへ WireGuard で接続出来た。</description>
+      <pubDate>Tue, 23 Jun 2026 01:48:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tk4_jj/status/2069236022232420828</guid>
+    </item>
+    <item>
+      <title>@MotoyasuYamada これはサーバーの設定、管理ができるやつで スマホアプリで使うためのConfigを作成するものです Wireguard のWebUIもあるんですか？</title>
+      <link>https://x.com/javagold2/status/2069196531140600181</link>
+      <description>ぽんちゃん@インフラ: @MotoyasuYamada これはサーバーの設定、管理ができるやつで スマホアプリで使うためのConfigを作成するものです Wireguard のWebUIもあるんですか？</description>
+      <pubDate>Mon, 22 Jun 2026 23:11:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/javagold2/status/2069196531140600181</guid>
+    </item>
+    <item>
       <title>昼間の WireGuard 、幻だったかも🥲</title>
       <link>https://x.com/ryoyakawai/status/2069051996414595465</link>
       <description>Ryoya🇯🇵KAWAI: 昼間の WireGuard 、幻だったかも🥲</description>
@@ -262,20 +276,6 @@
       <description>shumaikun0716: @L_port53 方式というかProton公式アプリの話。 Wireguard アプリの場合は Wireguard (UDP)固定。ただ, プロファイルの有効期限があるので定期的に置き換えが必要でちと面倒。</description>
       <pubDate>Sun, 14 Jun 2026 03:30:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066000180110053740</guid>
-    </item>
-    <item>
-      <title>@L_port53 Wireguard はこっちのアプリ使った方が安定はする。ProtonVPNのアプリよりはかなりマシ。しかも他に色々プロファイル入れれて便利。 いやまぁ確かにCloudflareの1.1.1.1優秀だけどね。 https://t.co/aoMKfQaOae</title>
-      <link>https://x.com/shumaikun0716/status/2065995167405064543</link>
-      <description>shumaikun0716: @L_port53 Wireguard はこっちのアプリ使った方が安定はする。ProtonVPNのアプリよりはかなりマシ。しかも他に色々プロファイル入れれて便利。 いやまぁ確かにCloudflareの1.1.1.1優秀だけどね。 https://t.co/aoMKfQaOae</description>
-      <pubDate>Sun, 14 Jun 2026 03:10:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2065995167405064543</guid>
-    </item>
-    <item>
-      <title>iPadでProtonの Wireguard 繋がりにくくて諦めたのでこれいれてきた まぁほぼほぼネットに落ちてたProton Wireguard とか使うからそうなってんだけどね((( https://t.co/TKuptEwrE5</title>
-      <link>https://x.com/L_port53/status/2065979441478815856</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: iPadでProtonの Wireguard 繋がりにくくて諦めたのでこれいれてきた まぁほぼほぼネットに落ちてたProton Wireguard とか使うからそうなってんだけどね((( https://t.co/TKuptEwrE5</description>
-      <pubDate>Sun, 14 Jun 2026 02:07:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2065979441478815856</guid>
     </item>
   </channel>
 </rss>
