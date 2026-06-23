@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/fedoraupdown/status/2069030149740441886</guid>
     </item>
     <item>
+      <title>@altairkarell zram は素晴らしいけど、Tiny Core Linuxの最低要件が64MBを扱うようなマシンには解決策にはならないんじゃないかな、と思います。</title>
+      <link>https://x.com/fedoraupdown/status/2068956305646301638</link>
+      <description>けんけん: @altairkarell zram は素晴らしいけど、Tiny Core Linuxの最低要件が64MBを扱うようなマシンには解決策にはならないんじゃないかな、と思います。</description>
+      <pubDate>Mon, 22 Jun 2026 07:16:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2068956305646301638</guid>
+    </item>
+    <item>
       <title>@fedoraupdown zram がある</title>
       <link>https://x.com/altairkarell/status/2068948057044218294</link>
       <description>altairkarell: @fedoraupdown zram がある</description>
@@ -269,13 +276,6 @@
       <description>OS開発者: やりすぎた・・・。本当にやりすぎた。 zram やzswapやcgroupとglibcの環境変数(MALLOC_ARENA_MAX)をつかってDBを 匿名メモリーの削減とswapにページフォールトしない設計を考えてしまった。あああ</description>
       <pubDate>Mon, 01 Jun 2026 11:38:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hacker_infra/status/2061412096265552098</guid>
-    </item>
-    <item>
-      <title>今まで知らずにディスク領域にswap確保してたわ😂 zram swap使ってみよう https://t.co/ofgzeDHwG3</title>
-      <link>https://x.com/tamorieeeen/status/2061346946170880393</link>
-      <description>筋肉が欲しいもりんちゅ: 今まで知らずにディスク領域にswap確保してたわ😂 zram swap使ってみよう https://t.co/ofgzeDHwG3</description>
-      <pubDate>Mon, 01 Jun 2026 07:19:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tamorieeeen/status/2061346946170880393</guid>
     </item>
   </channel>
 </rss>

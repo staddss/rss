@@ -172,12 +172,5 @@
       <pubDate>Mon, 25 May 2026 12:02:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/minervacosmetic/status/2058881470765359256</guid>
     </item>
-    <item>
-      <title>先月は色々とエラーが出た、protomapの最新のpmtilesをダウンロードして、BLAKE3検証を行い（HDDが大騒ぎ）、 rclone でR2にアップロード。をTruenasで行うcron。順調に動いてる。 2時にスタートして、3時30分過ぎにはコンプリートする予定。これで月一の地図データ更新は完全に自動化された。。</title>
-      <link>https://x.com/KanaguPhoto/status/2058609360063062062</link>
-      <description>KANAGU: 先月は色々とエラーが出た、protomapの最新のpmtilesをダウンロードして、BLAKE3検証を行い（HDDが大騒ぎ）、 rclone でR2にアップロード。をTruenasで行うcron。順調に動いてる。 2時にスタートして、3時30分過ぎにはコンプリートする予定。これで月一の地図データ更新は完全に自動化された。。</description>
-      <pubDate>Sun, 24 May 2026 18:01:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KanaguPhoto/status/2058609360063062062</guid>
-    </item>
   </channel>
 </rss>

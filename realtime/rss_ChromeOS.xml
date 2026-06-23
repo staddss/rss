@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>昨日買った中古PCの件ですが、もしかしたらBIOSの設定ミスでwindowsが立ち上がらなかったのを「OS無し」のジャンク品として売ってたんじゃないか（つまり、実はwindowsが入ってた）と、そんな風にふと思ったのですが、 ChromeOS を上書きしちゃったんで、それも確かめようが無いといいますか・・</title>
+      <link>https://x.com/yakeisuke/status/2069422720211878218</link>
+      <description>けいすけ: 昨日買った中古PCの件ですが、もしかしたらBIOSの設定ミスでwindowsが立ち上がらなかったのを「OS無し」のジャンク品として売ってたんじゃないか（つまり、実はwindowsが入ってた）と、そんな風にふと思ったのですが、 ChromeOS を上書きしちゃったんで、それも確かめようが無いといいますか・・</description>
+      <pubDate>Tue, 23 Jun 2026 14:09:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yakeisuke/status/2069422720211878218</guid>
+    </item>
+    <item>
+      <title>ChromeOS 149 で cros-im が復活したみたいだ (リポジトリにパッケージが存在することを確認)。しかもただインストールするだけで Qt のアプリにも対応するようだ。なお、公式告知は未確認。</title>
+      <link>https://x.com/ttatsuoki/status/2069316782465401189</link>
+      <description>龍興 尚幸 (TATSUOKI Takayuki): ChromeOS 149 で cros-im が復活したみたいだ (リポジトリにパッケージが存在することを確認)。しかもただインストールするだけで Qt のアプリにも対応するようだ。なお、公式告知は未確認。</description>
+      <pubDate>Tue, 23 Jun 2026 07:09:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2069316782465401189</guid>
+    </item>
+    <item>
       <title>Musicoletは元々Androidスマホ向けのアプリなので、着電の際の機能としてオーディオフォーカス設定があるらしい。 ただ私の使用環境は ChromeOS のChromebookでの使用なので、思い切って(スマホとしては)非推奨の「Level 0」 に変更したところ、ギャップレス動作がさらに改善した(ように思う)。 https://t.co/fYzWrz4KSF</title>
       <link>https://x.com/newport8865/status/2069225449549684743</link>
       <description>MOCHI Takehito 望 岳人 (K N): Musicoletは元々Androidスマホ向けのアプリなので、着電の際の機能としてオーディオフォーカス設定があるらしい。 ただ私の使用環境は ChromeOS のChromebookでの使用なので、思い切って(スマホとしては)非推奨の「Level 0」 に変更したところ、ギャップレス動作がさらに改善した(ように思う)。 https://t.co/fYzWrz4KSF</description>
@@ -262,20 +276,6 @@
       <description>MOCHI Takehito 望 岳人 (K N): Google ChromeOS 149.0.07827.153 最初の3桁が148から149に上がった。 https://t.co/CQl094I0W9</description>
       <pubDate>Sat, 20 Jun 2026 01:11:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/newport8865/status/2068139545435254842</guid>
-    </item>
-    <item>
-      <title>確かに、私もTVを見なくなった。子供の頃からTVが大好きで、大人になっても、大好きなTV番組見るために、飲み会を早めに切り上げることもあった。今では、自宅にいてもTVは消したまま。TVを点けるのは、報道番組くらい。他は動画配信サービスの視聴、または ChromeOS Flexに使う機会の方が多い。</title>
-      <link>https://x.com/naotosx/status/2068115288235896971</link>
-      <description>naotosx: 確かに、私もTVを見なくなった。子供の頃からTVが大好きで、大人になっても、大好きなTV番組見るために、飲み会を早めに切り上げることもあった。今では、自宅にいてもTVは消したまま。TVを点けるのは、報道番組くらい。他は動画配信サービスの視聴、または ChromeOS Flexに使う機会の方が多い。</description>
-      <pubDate>Fri, 19 Jun 2026 23:34:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/naotosx/status/2068115288235896971</guid>
-    </item>
-    <item>
-      <title>この件☝️ ChromeOS の新規立ち上げの設定の時に Microsoft 365 のインストールも選択肢にあるのだから Excelのマクロ機能を使って 自動で辞書ファイルを編集できる実行ファイルを作って入れておいて欲しいよな Googleストレージ内に そのぐらいの事できるだろ エンジニアなら 素人の俺でもできるから</title>
-      <link>https://x.com/gkgn14412/status/2067995318378242201</link>
-      <description>ごきげん君: この件☝️ ChromeOS の新規立ち上げの設定の時に Microsoft 365 のインストールも選択肢にあるのだから Excelのマクロ機能を使って 自動で辞書ファイルを編集できる実行ファイルを作って入れておいて欲しいよな Googleストレージ内に そのぐらいの事できるだろ エンジニアなら 素人の俺でもできるから</description>
-      <pubDate>Fri, 19 Jun 2026 15:38:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gkgn14412/status/2067995318378242201</guid>
     </item>
   </channel>
 </rss>
