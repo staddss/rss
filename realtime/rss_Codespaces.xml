@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>#社員ブログ 更新🎉 初心者でも5分でアプリ開発！？💻 GitHub Codespaces を使えば、ブラウザだけで開発環境を用意でき、AIアシスタントと一緒にアプリ開発ができるそうです💻 エンジニアがToDoアプリを作りながら、 Codespaces の魅力を紹介🙌 #エンジニアブログ https://t.co/qb2Hy5bj1d</title>
+      <link>https://x.com/catchup55/status/2069320802999394661</link>
+      <description>キャッチアップ ＠エンジニア採用中！: #社員ブログ 更新🎉 初心者でも5分でアプリ開発！？💻 GitHub Codespaces を使えば、ブラウザだけで開発環境を用意でき、AIアシスタントと一緒にアプリ開発ができるそうです💻 エンジニアがToDoアプリを作りながら、 Codespaces の魅力を紹介🙌 #エンジニアブログ https://t.co/qb2Hy5bj1d</description>
+      <pubDate>Tue, 23 Jun 2026 07:25:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/catchup55/status/2069320802999394661</guid>
+    </item>
+    <item>
       <title>クラウド開発環境の進化で、開発スタイルが本当に身軽になりました。 昔は高スペックPCが必須でしたが、今はGitHub Codespaces 等のおかげで、回線さえあれば普通のPCでも十分。Chromebookや軽量Macでサクサク開発できる環境、技術の進歩にワクワクします。 https://t.co/FNEK70ioMt</title>
       <link>https://x.com/serio_engineer/status/2068633888851931640</link>
       <description>serio（セーリオ）@Web制作・Web開発・福井・北陸: クラウド開発環境の進化で、開発スタイルが本当に身軽になりました。 昔は高スペックPCが必須でしたが、今はGitHub Codespaces 等のおかげで、回線さえあれば普通のPCでも十分。Chromebookや軽量Macでサクサク開発できる環境、技術の進歩にワクワクします。 https://t.co/FNEK70ioMt</description>
@@ -255,27 +262,6 @@
       <description>Yuya: 持ち歩き用PCが手元にないので 7年くらい使いまわされてる まともに動かないノートPCから AVD接続してハンズオン参加してみたけど結構よかった Codespaces 使ったら意味ない...ことはなく、ブラウジングも重たいsurfaceくんなのでAVD大活躍！！</description>
       <pubDate>Tue, 26 May 2026 13:39:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuyanz_/status/2059268238610235734</guid>
-    </item>
-    <item>
-      <title>MacBookを持って外出したい時にRemoteControlできないと不便なのでGithub codespaces 試している。環境がbashでzsh &amp; starship 入れるところからはじめてる。</title>
-      <link>https://x.com/func09/status/2058742624404844834</link>
-      <description>func09: MacBookを持って外出したい時にRemoteControlできないと不便なのでGithub codespaces 試している。環境がbashでzsh &amp; starship 入れるところからはじめてる。</description>
-      <pubDate>Mon, 25 May 2026 02:51:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/func09/status/2058742624404844834</guid>
-    </item>
-    <item>
-      <title>ローテクなのでgithub codespaces の環境構築わからんなぁ flatterを扱うのとかどうすれば良いんですかね ローカルで構築しかした事ないからクラウドはわからんゾイ</title>
-      <link>https://x.com/saa45longcolt/status/2058682323756069061</link>
-      <description>1 11 110: ローテクなのでgithub codespaces の環境構築わからんなぁ flatterを扱うのとかどうすれば良いんですかね ローカルで構築しかした事ないからクラウドはわからんゾイ</description>
-      <pubDate>Sun, 24 May 2026 22:51:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/saa45longcolt/status/2058682323756069061</guid>
-    </item>
-    <item>
-      <title>GitHub Codespaces の devcontainer.json で環境構築を自動化し Copilot の機密ファイル除外を設定してみた | DevelopersIO https://t.co/KMYnqlrdGY</title>
-      <link>https://x.com/yokatsuki/status/2058483425120538755</link>
-      <description>Yosuke Katsuki: GitHub Codespaces の devcontainer.json で環境構築を自動化し Copilot の機密ファイル除外を設定してみた | DevelopersIO https://t.co/KMYnqlrdGY</description>
-      <pubDate>Sun, 24 May 2026 09:41:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yokatsuki/status/2058483425120538755</guid>
     </item>
   </channel>
 </rss>

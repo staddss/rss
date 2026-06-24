@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</title>
+      <link>https://x.com/n4ne_3/status/2069622684724699449</link>
+      <description>なね: Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</description>
+      <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n4ne_3/status/2069622684724699449</guid>
+    </item>
+    <item>
       <title>“出張や旅行が多い人なら知っておきたい👇” GL.iNet GL-MT300N-V2 (Mango) ・超小型トラベルルーター ・OpenWrt搭載 ・OpenVPN／ WireGuard 対応 ・中継器／ブリッジモード対応 ・300Mbps無線LAN対応 ・日本語設定画面対応 ホテルやフリーWi-Fiを https://t.co/BpyV2hWdJW</title>
       <link>https://x.com/VR862215243309/status/2069410321492545955</link>
       <description>VRネコ: “出張や旅行が多い人なら知っておきたい👇” GL.iNet GL-MT300N-V2 (Mango) ・超小型トラベルルーター ・OpenWrt搭載 ・OpenVPN／ WireGuard 対応 ・中継器／ブリッジモード対応 ・300Mbps無線LAN対応 ・日本語設定画面対応 ホテルやフリーWi-Fiを https://t.co/BpyV2hWdJW</description>
@@ -269,13 +276,6 @@
       <description>Shilver@Garuda: wireguard 用のミニPCにUbuntu Server入れた。 プリインストールのWindowsのライセンスがもったいないなw</description>
       <pubDate>Sun, 14 Jun 2026 05:02:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ShilverJagd/status/2066023548687401162</guid>
-    </item>
-    <item>
-      <title>@L_port53 あくまでTCP使うってことは, 443/TCPによる検閲回避しないといけないレベルで規制の強いネットワーク上で使うモードであって, そういう環境じゃない限りは使うメリット無い。 OpenVPNプロファイルでも同様。 ProtonVPNなら Wireguard &gt; Stealth &gt; Wireguard over TCP の順で優先されるかなぁ。</title>
-      <link>https://x.com/shumaikun0716/status/2066004268176617913</link>
-      <description>shumaikun0716: @L_port53 あくまでTCP使うってことは, 443/TCPによる検閲回避しないといけないレベルで規制の強いネットワーク上で使うモードであって, そういう環境じゃない限りは使うメリット無い。 OpenVPNプロファイルでも同様。 ProtonVPNなら Wireguard &gt; Stealth &gt; Wireguard over TCP の順で優先されるかなぁ。</description>
-      <pubDate>Sun, 14 Jun 2026 03:46:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2066004268176617913</guid>
     </item>
   </channel>
 </rss>

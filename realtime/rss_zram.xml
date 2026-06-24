@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Raspberry Pi liteを最初からキッティングしているのだけど、最新版は初期設定で zram なのね。</title>
+      <link>https://x.com/Lens_Fuji/status/2069619023768436973</link>
+      <description>ふじ⁺⁹: Raspberry Pi liteを最初からキッティングしているのだけど、最新版は初期設定で zram なのね。</description>
+      <pubDate>Wed, 24 Jun 2026 03:10:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Lens_Fuji/status/2069619023768436973</guid>
+    </item>
+    <item>
       <title>@Dt2Killer にしても3GBほど多いですね。 Zram かな？</title>
       <link>https://x.com/fedoraupdown/status/2069030149740441886</link>
       <description>けんけん: @Dt2Killer にしても3GBほど多いですね。 Zram かな？</description>
@@ -269,13 +276,6 @@
       <description>アヤカ: ・検証環境は RTX 3070 Laptop（物理16GB / VRAM 8GB）、NVIDIAドライバ 580.159.03、Linuxカーネル 6.17、Pop!_OS。VRAMに7GBを割り当て、 zram とSSD swap込みで約46GBまで使えるようになり、扱える領域は約3倍になった。</description>
       <pubDate>Tue, 02 Jun 2026 23:51:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AyakaT_AI/status/2061958820591816754</guid>
-    </item>
-    <item>
-      <title>やりすぎた・・・。本当にやりすぎた。 zram やzswapやcgroupとglibcの環境変数(MALLOC_ARENA_MAX)をつかってDBを 匿名メモリーの削減とswapにページフォールトしない設計を考えてしまった。あああ</title>
-      <link>https://x.com/hacker_infra/status/2061412096265552098</link>
-      <description>OS開発者: やりすぎた・・・。本当にやりすぎた。 zram やzswapやcgroupとglibcの環境変数(MALLOC_ARENA_MAX)をつかってDBを 匿名メモリーの削減とswapにページフォールトしない設計を考えてしまった。あああ</description>
-      <pubDate>Mon, 01 Jun 2026 11:38:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hacker_infra/status/2061412096265552098</guid>
     </item>
   </channel>
 </rss>
