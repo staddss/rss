@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</title>
+      <link>https://x.com/RE_DO/status/2070070925551427837</link>
+      <description>錆人形/RE_DO: LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</description>
+      <pubDate>Thu, 25 Jun 2026 09:05:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RE_DO/status/2070070925551427837</guid>
+    </item>
+    <item>
       <title>全く需要無い情報だと思いますが、弊社はRustDeskを使っていて、Google Cloudに自社の中継サーバをインストールして使ってます。（ついでに、 Syncthing っていうファイル同期のサーバーもインストールしてる） https://t.co/8um8SQtAtn</title>
       <link>https://x.com/Pharmacy_CEO/status/2069771418074804666</link>
       <description>東京と埼玉の薬局の社長²さん: 全く需要無い情報だと思いますが、弊社はRustDeskを使っていて、Google Cloudに自社の中継サーバをインストールして使ってます。（ついでに、 Syncthing っていうファイル同期のサーバーもインストールしてる） https://t.co/8um8SQtAtn</description>
@@ -269,13 +276,6 @@
       <description>パテ: syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</description>
       <pubDate>Sun, 31 May 2026 13:48:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pate2571/status/2061082366517670002</guid>
-    </item>
-    <item>
-      <title>iCloud Driveを同期していたMacが暴走してローカルの同期ストア？がリセットされ150GB、100万ファイルの再同期が発生しほぼ使い物にならなくなったので、 syncthing + tailescaleに移行しました</title>
-      <link>https://x.com/pate2571/status/2061040985136922878</link>
-      <description>パテ: iCloud Driveを同期していたMacが暴走してローカルの同期ストア？がリセットされ150GB、100万ファイルの再同期が発生しほぼ使い物にならなくなったので、 syncthing + tailescaleに移行しました</description>
-      <pubDate>Sun, 31 May 2026 11:03:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pate2571/status/2061040985136922878</guid>
     </item>
   </channel>
 </rss>
