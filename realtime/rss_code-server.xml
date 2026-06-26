@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Termux, proot を入れるもんだと思っていたけど、 code - server とか fresh で環境作れば node, python とかネイティブコンパイラの類は入るから、遊ぶ分には意外とこれだけでもいけるのかもな。nginx とかは面倒だけど、ちょっと http したいだけなら node の http-server とかでいいし</title>
+      <link>https://x.com/sakisan_28/status/2070061988152267067</link>
+      <description>Takayuki Iwasaki: Termux, proot を入れるもんだと思っていたけど、 code - server とか fresh で環境作れば node, python とかネイティブコンパイラの類は入るから、遊ぶ分には意外とこれだけでもいけるのかもな。nginx とかは面倒だけど、ちょっと http したいだけなら node の http-server とかでいいし</description>
+      <pubDate>Thu, 25 Jun 2026 08:30:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2070061988152267067</guid>
+    </item>
+    <item>
       <title>Termux での code - server (VSCodeのブラウザ版)は pkg install tur-repo pkg install code - server code - server --auth none だけで起動まで行けるな</title>
       <link>https://x.com/sakisan_28/status/2070059945094230407</link>
       <description>Takayuki Iwasaki: Termux での code - server (VSCodeのブラウザ版)は pkg install tur-repo pkg install code - server code - server --auth none だけで起動まで行けるな</description>
@@ -108,13 +115,6 @@
       <description>やきおに: code - server 使ったリモートの開発、めちゃガッツリ使ってるけどかなり良い</description>
       <pubDate>Thu, 28 May 2026 13:40:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yakioni_imas/status/2059993278074982540</guid>
-    </item>
-    <item>
-      <title>vscoce と code - server ってどっちの copilot が賢いんだろう、バージョン同じなら同じかな</title>
-      <link>https://x.com/hawksnowlog/status/2059523378676113772</link>
-      <description>hawksnowlog: vscoce と code - server ってどっちの copilot が賢いんだろう、バージョン同じなら同じかな</description>
-      <pubDate>Wed, 27 May 2026 06:33:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hawksnowlog/status/2059523378676113772</guid>
     </item>
   </channel>
 </rss>
