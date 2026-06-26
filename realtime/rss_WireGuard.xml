@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>pixelのターミナルって、vpn系と相性悪いのか… tsilscaleも wireguard も立ち上げたらターミナルが内部エラー吐いて止まった</title>
+      <link>https://x.com/2252tanabota/status/2069943739754381522</link>
+      <description>tanabota🍏: pixelのターミナルって、vpn系と相性悪いのか… tsilscaleも wireguard も立ち上げたらターミナルが内部エラー吐いて止まった</description>
+      <pubDate>Thu, 25 Jun 2026 00:40:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/2252tanabota/status/2069943739754381522</guid>
+    </item>
+    <item>
       <title>Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</title>
       <link>https://x.com/n4ne_3/status/2069622684724699449</link>
       <description>なね: Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</description>
@@ -269,13 +276,6 @@
       <description>かぶかぶ: @haru101105 AdGuard VPNは、公式にはノーログポリシーを掲げ、IPアドレスや通信履歴などのログを一切収集・保存しない方針をとっていますが、現在アプリ内で WireGuard を直接選択することはできません。</description>
       <pubDate>Mon, 15 Jun 2026 01:34:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ch26167778/status/2066333537574523049</guid>
-    </item>
-    <item>
-      <title>@ch26167778 AdguardVPNって wireguard 対応しててノーログポリシーありますか？</title>
-      <link>https://x.com/haru101105/status/2066322832666357977</link>
-      <description>はる: @ch26167778 AdguardVPNって wireguard 対応しててノーログポリシーありますか？</description>
-      <pubDate>Mon, 15 Jun 2026 00:52:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haru101105/status/2066322832666357977</guid>
     </item>
   </channel>
 </rss>

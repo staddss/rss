@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>環境構築したくない人向けに、Wandbox や GitHub Codespaces での C 言語（C23）プログラミングの始め方も、無料公開のサポートページに載せてる 👍 https://t.co/xFbhm4rNYw</title>
+      <link>https://x.com/Reputeless/status/2070053694805332013</link>
+      <description>Ryo Suzuki: 環境構築したくない人向けに、Wandbox や GitHub Codespaces での C 言語（C23）プログラミングの始め方も、無料公開のサポートページに載せてる 👍 https://t.co/xFbhm4rNYw</description>
+      <pubDate>Thu, 25 Jun 2026 07:57:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Reputeless/status/2070053694805332013</guid>
+    </item>
+    <item>
       <title>GitHub CodeSpaces はとても便利で、知り合いの環境が整わない学習者の方に教えるときや、手元環境で動かしたくないものをちょっと動かすときに便利。 ウェブIDEを使うのもいいし、VSCodeからリモートで使うのもほんとにお手軽。しかも、分単位の積算で時間単位の課金、自動停止ありで、そもそも安い。 https://t.co/tghsao6pVu</title>
       <link>https://x.com/minotaursmx/status/2069760386879152629</link>
       <description>Minotaur: GitHub CodeSpaces はとても便利で、知り合いの環境が整わない学習者の方に教えるときや、手元環境で動かしたくないものをちょっと動かすときに便利。 ウェブIDEを使うのもいいし、VSCodeからリモートで使うのもほんとにお手軽。しかも、分単位の積算で時間単位の課金、自動停止ありで、そもそも安い。 https://t.co/tghsao6pVu</description>
@@ -269,13 +276,6 @@
       <description>3z_at（サズアト）: 最近Github Codespaces 、重くない？全然開かんのやけど</description>
       <pubDate>Sat, 30 May 2026 11:56:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/app_dice/status/2060691705469477110</guid>
-    </item>
-    <item>
-      <title>AIが何するか怖くてクラウドのコンテナ環境でしか開発作業ができなくなった結果、一年かけてぐるっと一周回ってGitHub Codespaces に戻ってきた https://t.co/UUrrWkHGCa</title>
-      <link>https://x.com/vagrantjapan/status/2060142383719944423</link>
-      <description>Vagrant in Japan: AIが何するか怖くてクラウドのコンテナ環境でしか開発作業ができなくなった結果、一年かけてぐるっと一周回ってGitHub Codespaces に戻ってきた https://t.co/UUrrWkHGCa</description>
-      <pubDate>Thu, 28 May 2026 23:33:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/vagrantjapan/status/2060142383719944423</guid>
     </item>
   </channel>
 </rss>

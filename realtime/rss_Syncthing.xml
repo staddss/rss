@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ハンドヘルドとメインPCのセーブデータの同期設定のために Syncthing 使い始めた クラウドセーブ無いゲームに便利</title>
+      <link>https://x.com/7Zip_san/status/2070175378732372176</link>
+      <description>7-Zipdeclair: ハンドヘルドとメインPCのセーブデータの同期設定のために Syncthing 使い始めた クラウドセーブ無いゲームに便利</description>
+      <pubDate>Thu, 25 Jun 2026 16:00:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7Zip_san/status/2070175378732372176</guid>
+    </item>
+    <item>
       <title>LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</title>
       <link>https://x.com/RE_DO/status/2070070925551427837</link>
       <description>錆人形/RE_DO: LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</description>
@@ -269,13 +276,6 @@
       <description>るま＠カルテメイト 個人開発者✕開業医: QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</description>
       <pubDate>Mon, 01 Jun 2026 12:19:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MedRecMate/status/2061422305293861331</guid>
-    </item>
-    <item>
-      <title>syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</title>
-      <link>https://x.com/pate2571/status/2061082366517670002</link>
-      <description>パテ: syncthing とtailescale両方ともP2Pなんだ。速そうでありがてぇ</description>
-      <pubDate>Sun, 31 May 2026 13:48:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pate2571/status/2061082366517670002</guid>
     </item>
   </channel>
 </rss>
