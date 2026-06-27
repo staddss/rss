@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</title>
+      <link>https://x.com/rrrrrrrr_ch/status/2070929632472490486</link>
+      <description>r-pe: 出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</description>
+      <pubDate>Sat, 27 Jun 2026 17:57:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rrrrrrrr_ch/status/2070929632472490486</guid>
+    </item>
+    <item>
       <title>しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</title>
       <link>https://x.com/OiYasunori/status/2070820078262813132</link>
       <description>大井 泰徳: しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</description>
       <pubDate>Sat, 27 Jun 2026 10:42:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/OiYasunori/status/2070820078262813132</guid>
+    </item>
+    <item>
+      <title>自宅のVPNを WireGuard に更新した。 とっつきにくいと思ったけど、やる事は結構単純だった。</title>
+      <link>https://x.com/ZUCCAZACCA/status/2070794150400962700</link>
+      <description>今日も明日もエンジニア: 自宅のVPNを WireGuard に更新した。 とっつきにくいと思ったけど、やる事は結構単純だった。</description>
+      <pubDate>Sat, 27 Jun 2026 08:59:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ZUCCAZACCA/status/2070794150400962700</guid>
     </item>
     <item>
       <title>お勉強のために、割と勢いでさくらのVPSを借りてみた。とりあえず手元からVPSに Wireguard でVPN張るところまでやって、今夜は終了。 余録としてTailscaleへの理解も深まったと思う。</title>
@@ -262,20 +276,6 @@
       <description>takuya: 自宅MinecraftサーバをDDNSからKubernetes+ WireGuard へ移行した事例が公開。ポート開放に頼らずトンネルを張り、K8sで管理。家庭回線でも安全に公開でき、自宅ラボの教材として参考になる。 #Kubernetes #インフラ #SRE</description>
       <pubDate>Tue, 16 Jun 2026 05:30:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fb3ezDCRdo29699/status/2066755317313212900</guid>
-    </item>
-    <item>
-      <title>Tailscale便利だけど Headscaleでも クライアントはTailscaleのアプリを使用しないといけないからなぁ〜 サービス終了した場合が怖いな。 クライアント自体もOSSにならないかな それかICE、STUN、Turn、 コントロールサーバ、 WireGuard で 独自で作るか。</title>
-      <link>https://x.com/Sio04122/status/2066716158758449578</link>
-      <description>本塩おり: Tailscale便利だけど Headscaleでも クライアントはTailscaleのアプリを使用しないといけないからなぁ〜 サービス終了した場合が怖いな。 クライアント自体もOSSにならないかな それかICE、STUN、Turn、 コントロールサーバ、 WireGuard で 独自で作るか。</description>
-      <pubDate>Tue, 16 Jun 2026 02:55:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Sio04122/status/2066716158758449578</guid>
-    </item>
-    <item>
-      <title>@ch26167778 wireguard 使えないならパスかなあ</title>
-      <link>https://x.com/haru101105/status/2066496608645358058</link>
-      <description>はる: @ch26167778 wireguard 使えないならパスかなあ</description>
-      <pubDate>Mon, 15 Jun 2026 12:22:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haru101105/status/2066496608645358058</guid>
     </item>
   </channel>
 </rss>

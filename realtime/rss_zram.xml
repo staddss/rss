@@ -277,12 +277,5 @@
       <pubDate>Tue, 02 Jun 2026 23:51:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AyakaT_AI/status/2061958830121185776</guid>
     </item>
-    <item>
-      <title>・検証環境は RTX 3070 Laptop（物理16GB / VRAM 8GB）、NVIDIAドライバ 580.159.03、Linuxカーネル 6.17、Pop!_OS。VRAMに7GBを割り当て、 zram とSSD swap込みで約46GBまで使えるようになり、扱える領域は約3倍になった。</title>
-      <link>https://x.com/AyakaT_AI/status/2061958820591816754</link>
-      <description>アヤカ: ・検証環境は RTX 3070 Laptop（物理16GB / VRAM 8GB）、NVIDIAドライバ 580.159.03、Linuxカーネル 6.17、Pop!_OS。VRAMに7GBを割り当て、 zram とSSD swap込みで約46GBまで使えるようになり、扱える領域は約3倍になった。</description>
-      <pubDate>Tue, 02 Jun 2026 23:51:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AyakaT_AI/status/2061958820591816754</guid>
-    </item>
   </channel>
 </rss>

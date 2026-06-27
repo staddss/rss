@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOSと Crostini で開発サーバを localhost:PORTに出してる人、突然ERR_CONNECTION_RESETになったらlocalhost転送を疑うとよい。 Chromeはlocalhostを::1に寄せることがあり、ChromeOS側のlocalhost→ Crostini tunnelがstaleになると死ぬ。 でも crostini は生きてるから、</title>
+      <link>https://x.com/techs44576/status/2070716907083419896</link>
+      <description>techs_targe: ChromeOSと Crostini で開発サーバを localhost:PORTに出してる人、突然ERR_CONNECTION_RESETになったらlocalhost転送を疑うとよい。 Chromeはlocalhostを::1に寄せることがあり、ChromeOS側のlocalhost→ Crostini tunnelがstaleになると死ぬ。 でも crostini は生きてるから、</description>
+      <pubDate>Sat, 27 Jun 2026 03:52:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techs44576/status/2070716907083419896</guid>
+    </item>
+    <item>
       <title>Chromebook の crostini 環境で、Box64 + Wine (Wow64)で Win 32 アプリ動かしてみたけど、複雑すぎるし、重いしでコンパネまで動かしたところで断念。 Winlator よくあれだけ動いてるわ。。。</title>
       <link>https://x.com/sakisan_28/status/2070331231208931818</link>
       <description>Takayuki Iwasaki: Chromebook の crostini 環境で、Box64 + Wine (Wow64)で Win 32 アプリ動かしてみたけど、複雑すぎるし、重いしでコンパネまで動かしたところで断念。 Winlator よくあれだけ動いてるわ。。。</description>
