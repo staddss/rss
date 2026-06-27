@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://x.com/deisy_twi/status/2070676950834991363</guid>
     </item>
     <item>
+      <title>マンションの一室に光回線引いて AMD Ryzen AI Max + 積んだサーバをハウジングしてネットワーク経由でローカルLLM貸し出すサービスしたらそこそこ売れるのでは。90年代のインターネット黎明期かよ、という気はするけど。</title>
+      <link>https://x.com/snaga/status/2070675857052770629</link>
+      <description>Satoshi Nagayasu 🧠🤖: マンションの一室に光回線引いて AMD Ryzen AI Max + 積んだサーバをハウジングしてネットワーク経由でローカルLLM貸し出すサービスしたらそこそこ売れるのでは。90年代のインターネット黎明期かよ、という気はするけど。</description>
+      <pubDate>Sat, 27 Jun 2026 01:09:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/snaga/status/2070675857052770629</guid>
+    </item>
+    <item>
       <title>昨日から話題の Ornith-1.0-35B-GGUF (Q4_K_M) を実際にローカルで動かしてみた 環境: AMD Ryzen AI Max + 395 (128GB) まずはブラウザで普通にチャット、56 tok/sec 出てとてもいい感じ☺️ 先行検証事例みると Qwen-3.6-27B のほうが良いかも的な情報もあるが、Ornith https://t.co/SfzzsBrqNy</title>
       <link>https://x.com/old_pgmrs_will/status/2070536926428561626</link>
       <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: 昨日から話題の Ornith-1.0-35B-GGUF (Q4_K_M) を実際にローカルで動かしてみた 環境: AMD Ryzen AI Max + 395 (128GB) まずはブラウザで普通にチャット、56 tok/sec 出てとてもいい感じ☺️ 先行検証事例みると Qwen-3.6-27B のほうが良いかも的な情報もあるが、Ornith https://t.co/SfzzsBrqNy</description>
@@ -269,13 +276,6 @@
       <description>24Wireless: Ryzen AI Max + 395搭載ミニPC「EVO-X3」の価格が判明、128GB+2TBモデルで50万円台から https://t.co/AXiKfw8jIB</description>
       <pubDate>Mon, 22 Jun 2026 06:05:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/24wireless_tw/status/2068938288183062740</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 395 ユニファイドメモリ64GBミニPCを準備して立ち上げました。 初期設定では通常RAMに32GBを割り当てていて、VRAMに32GBを割り当てた状態なので、windows上で３DCADをある程度容量の大きいローカルAIと連携して使うには良いPCだろうと思っています。 https://t.co/1vFeRIqrSl</title>
-      <link>https://x.com/mamoTurboBlade/status/2068923018043359681</link>
-      <description>ターボブレード: Ryzen AI Max + 395 ユニファイドメモリ64GBミニPCを準備して立ち上げました。 初期設定では通常RAMに32GBを割り当てていて、VRAMに32GBを割り当てた状態なので、windows上で３DCADをある程度容量の大きいローカルAIと連携して使うには良いPCだろうと思っています。 https://t.co/1vFeRIqrSl</description>
-      <pubDate>Mon, 22 Jun 2026 05:04:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mamoTurboBlade/status/2068923018043359681</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</title>
+      <link>https://x.com/OiYasunori/status/2070820078262813132</link>
+      <description>大井 泰徳: しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</description>
+      <pubDate>Sat, 27 Jun 2026 10:42:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OiYasunori/status/2070820078262813132</guid>
+    </item>
+    <item>
+      <title>お勉強のために、割と勢いでさくらのVPSを借りてみた。とりあえず手元からVPSに Wireguard でVPN張るところまでやって、今夜は終了。 余録としてTailscaleへの理解も深まったと思う。</title>
+      <link>https://x.com/oyaguma3/status/2070558592290422928</link>
+      <description>おやぐまさん: お勉強のために、割と勢いでさくらのVPSを借りてみた。とりあえず手元からVPSに Wireguard でVPN張るところまでやって、今夜は終了。 余録としてTailscaleへの理解も深まったと思う。</description>
+      <pubDate>Fri, 26 Jun 2026 17:23:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyaguma3/status/2070558592290422928</guid>
+    </item>
+    <item>
       <title>仕事で知った WireGuard を使って拠点間を繋いだけど手軽で良すぎる、今更だけど😅L2TPを維持しなければ！とか思ってたけど、全く不要になってしまったな。</title>
       <link>https://x.com/ryoyakawai/status/2070474972922028096</link>
       <description>Ryoya🇯🇵KAWAI: 仕事で知った WireGuard を使って拠点間を繋いだけど手軽で良すぎる、今更だけど😅L2TPを維持しなければ！とか思ってたけど、全く不要になってしまったな。</description>
@@ -262,20 +276,6 @@
       <description>はる: @ch26167778 wireguard 使えないならパスかなあ</description>
       <pubDate>Mon, 15 Jun 2026 12:22:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haru101105/status/2066496608645358058</guid>
-    </item>
-    <item>
-      <title>Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/oXrprooymH #zenn</title>
-      <link>https://x.com/Lucky3028/status/2066490153443709413</link>
-      <description>Lucky: Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/oXrprooymH #zenn</description>
-      <pubDate>Mon, 15 Jun 2026 11:57:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Lucky3028/status/2066490153443709413</guid>
-    </item>
-    <item>
-      <title>@ch26167778 $35でVPN5年とAdguard Family永年ライセンスついてくるので非常にお得 欠点としては Wireguard 直で使えないところ</title>
-      <link>https://x.com/TRX9800_/status/2066469606315933790</link>
-      <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @ch26167778 $35でVPN5年とAdguard Family永年ライセンスついてくるので非常にお得 欠点としては Wireguard 直で使えないところ</description>
-      <pubDate>Mon, 15 Jun 2026 10:35:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TRX9800_/status/2066469606315933790</guid>
     </item>
   </channel>
 </rss>
