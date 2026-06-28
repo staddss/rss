@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅ルータには RTX1210 を構えているが、モバイルルータ側が IPsec みたいな従来型 VPN じゃなくて、 OpenVPN とか WireGuard みたいなモダン VPN しか対応していない？っぽいので、サイト間張るときは Tailscale 入れちゃえ〜ってなった。ムズいんだよねモダン VPN。 https://t.co/pDBlJFIhr1</title>
+      <link>https://x.com/kishiwadapeople/status/2071176385390162385</link>
+      <description>岸和田市民: 自宅ルータには RTX1210 を構えているが、モバイルルータ側が IPsec みたいな従来型 VPN じゃなくて、 OpenVPN とか WireGuard みたいなモダン VPN しか対応していない？っぽいので、サイト間張るときは Tailscale 入れちゃえ〜ってなった。ムズいんだよねモダン VPN。 https://t.co/pDBlJFIhr1</description>
+      <pubDate>Sun, 28 Jun 2026 10:18:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kishiwadapeople/status/2071176385390162385</guid>
+    </item>
+    <item>
       <title>出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</title>
       <link>https://x.com/rrrrrrrr_ch/status/2070929632472490486</link>
       <description>r-pe: 出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</description>
@@ -269,13 +276,6 @@
       <description>Leopard: WireGuard 経由の接続につきましては、最大10Gbps対応のためのメンテナンス期間中となっております。ご利用のお客様にはご不便をおかけいたしますが、メンテナンス期間中はHiddifyをご利用いただきますようお願い申し上げます。</description>
       <pubDate>Tue, 16 Jun 2026 12:43:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Leopard_ofc/status/2066864262195392740</guid>
-    </item>
-    <item>
-      <title>自宅MinecraftサーバをDDNSからKubernetes+ WireGuard へ移行した事例が公開。ポート開放に頼らずトンネルを張り、K8sで管理。家庭回線でも安全に公開でき、自宅ラボの教材として参考になる。 #Kubernetes #インフラ #SRE</title>
-      <link>https://x.com/Fb3ezDCRdo29699/status/2066755317313212900</link>
-      <description>takuya: 自宅MinecraftサーバをDDNSからKubernetes+ WireGuard へ移行した事例が公開。ポート開放に頼らずトンネルを張り、K8sで管理。家庭回線でも安全に公開でき、自宅ラボの教材として参考になる。 #Kubernetes #インフラ #SRE</description>
-      <pubDate>Tue, 16 Jun 2026 05:30:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Fb3ezDCRdo29699/status/2066755317313212900</guid>
     </item>
   </channel>
 </rss>
