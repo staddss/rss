@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>マシンスペックが低いのが問題であってChromeOS自体はセットアップも管理も楽だしブラウザ作業以上のことは義務教育でさせないだろうからいいんじゃない？ プログラミングもColabで必要十分だろうしいざとなれば Crostini でLinux環境立ち上げればいい まあでもOfficeに慣れられないのは日本では致命的か https://t.co/xEQXHg6vHk</title>
+      <link>https://x.com/new_valley/status/2070924052223676455</link>
+      <description>なむなむ763🥩🍜🍣🍤: マシンスペックが低いのが問題であってChromeOS自体はセットアップも管理も楽だしブラウザ作業以上のことは義務教育でさせないだろうからいいんじゃない？ プログラミングもColabで必要十分だろうしいざとなれば Crostini でLinux環境立ち上げればいい まあでもOfficeに慣れられないのは日本では致命的か https://t.co/xEQXHg6vHk</description>
+      <pubDate>Sat, 27 Jun 2026 17:35:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/new_valley/status/2070924052223676455</guid>
+    </item>
+    <item>
       <title>ChromeOSと Crostini で開発サーバを localhost:PORTに出してる人、突然ERR_CONNECTION_RESETになったらlocalhost転送を疑うとよい。 Chromeはlocalhostを::1に寄せることがあり、ChromeOS側のlocalhost→ Crostini tunnelがstaleになると死ぬ。 でも crostini は生きてるから、</title>
       <link>https://x.com/techs44576/status/2070716907083419896</link>
       <description>techs_targe: ChromeOSと Crostini で開発サーバを localhost:PORTに出してる人、突然ERR_CONNECTION_RESETになったらlocalhost転送を疑うとよい。 Chromeはlocalhostを::1に寄せることがあり、ChromeOS側のlocalhost→ Crostini tunnelがstaleになると死ぬ。 でも crostini は生きてるから、</description>

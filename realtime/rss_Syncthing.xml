@@ -124,13 +124,6 @@
       <guid isPermaLink="true">https://x.com/shutoito/status/2066122110519726241</guid>
     </item>
     <item>
-      <title>石田さんに、 Syncthing を使ったPC間同期を教えていただきました。自分専用AIを育て、どこでも素早く作業できる環境を整えていきたいと思います！ @halukik_0520 @maslow_design @starriver0513 @ishida_chatgpt @Koya__marketer @shu_202106 #AICreative実装プログラム https://t.co/KpA99syF9D</title>
-      <link>https://x.com/Yuki_mura0603/status/2065705413484712095</link>
-      <description>ムラカミユウキ: 石田さんに、 Syncthing を使ったPC間同期を教えていただきました。自分専用AIを育て、どこでも素早く作業できる環境を整えていきたいと思います！ @halukik_0520 @maslow_design @starriver0513 @ishida_chatgpt @Koya__marketer @shu_202106 #AICreative実装プログラム https://t.co/KpA99syF9D</description>
-      <pubDate>Sat, 13 Jun 2026 07:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yuki_mura0603/status/2065705413484712095</guid>
-    </item>
-    <item>
       <title>最近急に syncthing アプリが通信できなくなり原因は avast だとわかったがどんな例外ルールを入れても改善せず悩んだ挙句原因が判明。 syncthing の使用するデフォルトlog出力先が問題だったぽい。--logfileで明示的にexeと同じpathに指定したら復旧した。こんなあり？</title>
       <link>https://x.com/necoscard/status/2065366751312003127</link>
       <description>猫’s Card: 最近急に syncthing アプリが通信できなくなり原因は avast だとわかったがどんな例外ルールを入れても改善せず悩んだ挙句原因が判明。 syncthing の使用するデフォルトlog出力先が問題だったぽい。--logfileで明示的にexeと同じpathに指定したら復旧した。こんなあり？</description>
@@ -283,6 +276,13 @@
       <description>zakojb: Syncthing とかいうフォルダの同期させるサービス使い始めたけど、なんか止まるなあ https://t.co/YdbJqyrWad</description>
       <pubDate>Tue, 02 Jun 2026 05:09:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/public_zakojb/status/2061676559698919610</guid>
+    </item>
+    <item>
+      <title>QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</title>
+      <link>https://x.com/MedRecMate/status/2061422305293861331</link>
+      <description>るま＠カルテメイト 個人開発者✕開業医: QNAPに入れた syncthing のメジャーアップデートかけたら起動しなくなって絶望したけど、SSH経由でcodex先生が直してくれた 神</description>
+      <pubDate>Mon, 01 Jun 2026 12:19:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MedRecMate/status/2061422305293861331</guid>
     </item>
   </channel>
 </rss>
