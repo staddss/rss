@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今までメモは紙にとって notepc上のhowmに転記・閲覧してたんだけど、emacsでメモ読む仕草は現代ではイカレ扱いっぽいので Joplinに移行したんぬ。同期手段をファイルシステムにして Syncthing で作った共有領域を指定すれば容量無限＆同期台数無限、OSS,E2E暗号化のevern◯te互換システムの完成なんぬ！</title>
+      <link>https://x.com/ca_tty/status/2071529157633396745</link>
+      <description>Catty: 今までメモは紙にとって notepc上のhowmに転記・閲覧してたんだけど、emacsでメモ読む仕草は現代ではイカレ扱いっぽいので Joplinに移行したんぬ。同期手段をファイルシステムにして Syncthing で作った共有領域を指定すれば容量無限＆同期台数無限、OSS,E2E暗号化のevern◯te互換システムの完成なんぬ！</description>
+      <pubDate>Mon, 29 Jun 2026 09:40:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ca_tty/status/2071529157633396745</guid>
+    </item>
+    <item>
       <title>error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</title>
       <link>https://x.com/shigetoroku1010/status/2071502893778432278</link>
       <description>重藤 六🐸ガジェットブロガー: error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</description>
@@ -17,6 +24,13 @@
       <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing は分かりやすいです。 できることは、 指定したフォルダを複数端末で同期すること。 使いどころは3つです。 ① 作業メモをPCとラズパイでそろえる ② 実験ログを別端末へ集める ③ 小さい設定ファイルを手元で管理する https://t.co/ORRLY6l1Fb</description>
       <pubDate>Mon, 29 Jun 2026 05:00:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/murasametech/status/2071458651248984082</guid>
+    </item>
+    <item>
+      <title>持ち出しPCと自宅PCのデータ同期って、 Syncthing 使うのがベスト？</title>
+      <link>https://x.com/yuzu_curiosity/status/2071249833453932877</link>
+      <description>タマキユウスケ🍊ClaudeCode活用: 持ち出しPCと自宅PCのデータ同期って、 Syncthing 使うのがベスト？</description>
+      <pubDate>Sun, 28 Jun 2026 15:10:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuzu_curiosity/status/2071249833453932877</guid>
     </item>
     <item>
       <title>Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</title>
@@ -262,20 +276,6 @@
       <description>opus 1: Syncthing を覚えた。なるほど便利だね・・・</description>
       <pubDate>Sat, 06 Jun 2026 07:34:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/VRC_opus_1/status/2063162719822602625</guid>
-    </item>
-    <item>
-      <title>@kaitogokc Working Copy+Obsidian Git のハイブリッド、いい解に辿り着きましたね。iCloud だと履歴が汚れ、Obsidian Sync はコスト面で渋り、 Syncthing は運用重く、と試した末にあの構成に落ち着く印象です。iPhoneメモ帳の吸い上げ動線まで通ると、Plaud 含めて録音系の母艦としても化けるはずです</title>
-      <link>https://x.com/simplememofast/status/2062846964849668358</link>
-      <description>Obsidian連携シンプルメモ:Captio式: @kaitogokc Working Copy+Obsidian Git のハイブリッド、いい解に辿り着きましたね。iCloud だと履歴が汚れ、Obsidian Sync はコスト面で渋り、 Syncthing は運用重く、と試した末にあの構成に落ち着く印象です。iPhoneメモ帳の吸い上げ動線まで通ると、Plaud 含めて録音系の母艦としても化けるはずです</description>
-      <pubDate>Fri, 05 Jun 2026 10:40:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/simplememofast/status/2062846964849668358</guid>
-    </item>
-    <item>
-      <title>syncthing を使って複數の端末でfontを同期せられる事を知った!</title>
-      <link>https://x.com/svartaz/status/2062167283129352506</link>
-      <description>sumi: syncthing を使って複數の端末でfontを同期せられる事を知った!</description>
-      <pubDate>Wed, 03 Jun 2026 13:39:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/svartaz/status/2062167283129352506</guid>
     </item>
   </channel>
 </rss>

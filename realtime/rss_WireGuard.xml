@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>MSwebドタバタ開発状況 サブのWin11に、 Cakewalk Sonar、GIMP 3.2.4、Inkscape、FFFTP、 WireGuard 、Antigravity IDEを設定、はー、しんど。 まだ、だいぶ残ってる、あとは明日以降。</title>
+      <link>https://x.com/msweb652822/status/2071520750138429577</link>
+      <description>msweb: MSwebドタバタ開発状況 サブのWin11に、 Cakewalk Sonar、GIMP 3.2.4、Inkscape、FFFTP、 WireGuard 、Antigravity IDEを設定、はー、しんど。 まだ、だいぶ残ってる、あとは明日以降。</description>
+      <pubDate>Mon, 29 Jun 2026 09:06:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/msweb652822/status/2071520750138429577</guid>
+    </item>
+    <item>
+      <title>WireGuard +RustDeskでリモートデスクトップ環境を構築したおかげで、外出先からでもクソデカスペックを要する作業ができる</title>
+      <link>https://x.com/async0x4c/status/2071368196700131734</link>
+      <description>0x4C: WireGuard +RustDeskでリモートデスクトップ環境を構築したおかげで、外出先からでもクソデカスペックを要する作業ができる</description>
+      <pubDate>Sun, 28 Jun 2026 23:00:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/async0x4c/status/2071368196700131734</guid>
+    </item>
+    <item>
       <title>Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</title>
       <link>https://x.com/nkyna_/status/2071221709206868186</link>
       <description>もぺ: Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</description>
@@ -262,20 +276,6 @@
       <description>小柳勝範＠札幌のIT会社の代表: 安いVPSがあるので、 WireGuard だけ入れたインスタンスで固定IPを得るのが一番良いかなと思います。入れた後はSSHを閉じれば安全です さくらなら月643円で使えます https://t.co/qQNP04aW9U</description>
       <pubDate>Thu, 18 Jun 2026 15:45:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/k_koyanagi_null/status/2067634860097954085</guid>
-    </item>
-    <item>
-      <title>年齢確認がらみで英国やEUがVPNを禁止するみたいな話が流れてくるけど、どうやってやるつもりなんだろう…。AWS上の自鯖に Wireguard したりSSHしたりするのも禁止するんだろうか？ひょっとしてグレート・ファイヤーウォールを作る？</title>
-      <link>https://x.com/_nat/status/2067558323776528650</link>
-      <description>Nat Sakimura/崎村夏彦: 年齢確認がらみで英国やEUがVPNを禁止するみたいな話が流れてくるけど、どうやってやるつもりなんだろう…。AWS上の自鯖に Wireguard したりSSHしたりするのも禁止するんだろうか？ひょっとしてグレート・ファイヤーウォールを作る？</description>
-      <pubDate>Thu, 18 Jun 2026 10:41:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_nat/status/2067558323776528650</guid>
-    </item>
-    <item>
-      <title>期待するならどちらかというと、 WireGuard とかそっち方面になるのかな。</title>
-      <link>https://x.com/EXAM1319/status/2067557471473095075</link>
-      <description>craft: 期待するならどちらかというと、 WireGuard とかそっち方面になるのかな。</description>
-      <pubDate>Thu, 18 Jun 2026 10:38:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2067557471473095075</guid>
     </item>
   </channel>
 </rss>
