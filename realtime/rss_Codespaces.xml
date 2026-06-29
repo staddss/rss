@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Python410386 わたさん Codespaces 便利ですよね！ ローカル環境に依存せず開発できるのは大きなメリットですが、おっしゃる通りセキュリティを意識した運用は欠かせないですね。</title>
+      <link>https://x.com/climbdoor_com/status/2071251128164184347</link>
+      <description>松下健太郎｜㍿クライムドア代表: @Python410386 わたさん Codespaces 便利ですよね！ ローカル環境に依存せず開発できるのは大きなメリットですが、おっしゃる通りセキュリティを意識した運用は欠かせないですね。</description>
+      <pubDate>Sun, 28 Jun 2026 15:15:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/climbdoor_com/status/2071251128164184347</guid>
+    </item>
+    <item>
+      <title>本日は GitHub の Codespaces を使用しました。 最近は自分の PC で Docker を実行するとかなり重いので、今後は Codespaces を使ってみようと思います。 クラウド処理でPCは快適ですが、セキュリティ面をおろそかにすると危険なので注意していきます。 #GitHub # Codespaces #Docker</title>
+      <link>https://x.com/Python410386/status/2071232363254992927</link>
+      <description>わた| Python: 本日は GitHub の Codespaces を使用しました。 最近は自分の PC で Docker を実行するとかなり重いので、今後は Codespaces を使ってみようと思います。 クラウド処理でPCは快適ですが、セキュリティ面をおろそかにすると危険なので注意していきます。 #GitHub # Codespaces #Docker</description>
+      <pubDate>Sun, 28 Jun 2026 14:00:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Python410386/status/2071232363254992927</guid>
+    </item>
+    <item>
+      <title>・gh-900追い込み gist,wiki, codespaces ,pr,issue,git,github,copilot,,,, ・台風それた ・鶏鍋うまい https://t.co/3zT8Th8RhK</title>
+      <link>https://x.com/kk_927509/status/2070892128423800839</link>
+      <description>何者@JTC5年目: ・gh-900追い込み gist,wiki, codespaces ,pr,issue,git,github,copilot,,,, ・台風それた ・鶏鍋うまい https://t.co/3zT8Th8RhK</description>
+      <pubDate>Sat, 27 Jun 2026 15:28:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kk_927509/status/2070892128423800839</guid>
+    </item>
+    <item>
       <title>Codespaces では環境が壊れた。 チャッピーに聞くと、 その場合は Codespace の Rebuild/Recreate が最も早い解決策です。コードや Git の履歴はリポジトリに残るため、環境だけを再構築できます。 ほんまか？</title>
       <link>https://x.com/kotsudokan/status/2070401471062167587</link>
       <description>AIスーパーカ～ブ: Codespaces では環境が壊れた。 チャッピーに聞くと、 その場合は Codespace の Rebuild/Recreate が最も早い解決策です。コードや Git の履歴はリポジトリに残るため、環境だけを再構築できます。 ほんまか？</description>
@@ -255,27 +276,6 @@
       <description>YAEGASHI Takeshi: GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</description>
       <pubDate>Tue, 02 Jun 2026 23:18:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hogegashi/status/2061950593401499858</guid>
-    </item>
-    <item>
-      <title>codespaces 便利がいいけど無料枠超えたら2コアでも30円/時なのGPUインスタンスかて</title>
-      <link>https://x.com/sub_sub__sub___/status/2061825616400486643</link>
-      <description>たろう: codespaces 便利がいいけど無料枠超えたら2コアでも30円/時なのGPUインスタンスかて</description>
-      <pubDate>Tue, 02 Jun 2026 15:01:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sub_sub__sub___/status/2061825616400486643</guid>
-    </item>
-    <item>
-      <title>note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</title>
-      <link>https://x.com/note_harumaki/status/2061584350257553665</link>
-      <description>はるまき: note始めました。 ChatGPTに相談しながら、GitHub Codespaces とGitHub Actionsでbotを作った初心者メモです。 コマンドもGitHubもよくわからないところから始めました。 プログラミング初心者がChatGPTとGitHubでbotを作ってみた話 @note_harumaki https://t.co/s0S2rYL1py</description>
-      <pubDate>Mon, 01 Jun 2026 23:03:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/note_harumaki/status/2061584350257553665</guid>
-    </item>
-    <item>
-      <title>@keiri_IS 直近のシステム導入テストの話ともつながりますが、非エンジニアのAI活用は「何を作るか」より先に、触らせるデータ・権限・実行環境・戻し方を決めるのが入口だと思います。 Codespaces 運用なら、リポジトリ権限/秘密情報/外部送信/ログ確認を最初のチェックリスト化すると学びやすそうです。</title>
-      <link>https://x.com/sigure1216/status/2060702185768591485</link>
-      <description>0xShin.md: @keiri_IS 直近のシステム導入テストの話ともつながりますが、非エンジニアのAI活用は「何を作るか」より先に、触らせるデータ・権限・実行環境・戻し方を決めるのが入口だと思います。 Codespaces 運用なら、リポジトリ権限/秘密情報/外部送信/ログ確認を最初のチェックリスト化すると学びやすそうです。</description>
-      <pubDate>Sat, 30 May 2026 12:37:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sigure1216/status/2060702185768591485</guid>
     </item>
   </channel>
 </rss>

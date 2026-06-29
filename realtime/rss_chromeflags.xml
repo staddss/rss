@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/Geda_2/status/2071148217019076741</guid>
     </item>
     <item>
+      <title>M4 Macminiで、Chromeをアップデートしてから動画が勝手に止まる症状が出てたんだけど、以下で治ったよ。😀 1. アドレスバーに chrome :// flags と入力して、出てきた検索窓に「Hardware-accelerated video decode」と入力して検索。 2. 設定を Disabled（無効化）に変更し、ブラウザを再起動。</title>
+      <link>https://x.com/kansuke58/status/2071071671822504182</link>
+      <description>kansuke: M4 Macminiで、Chromeをアップデートしてから動画が勝手に止まる症状が出てたんだけど、以下で治ったよ。😀 1. アドレスバーに chrome :// flags と入力して、出てきた検索窓に「Hardware-accelerated video decode」と入力して検索。 2. 設定を Disabled（無効化）に変更し、ブラウザを再起動。</description>
+      <pubDate>Sun, 28 Jun 2026 03:22:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kansuke58/status/2071071671822504182</guid>
+    </item>
+    <item>
       <title>Chromeでブラウザゲームをしてて、WebGL 2関連のエラーが出る人は chrome :// flags /でChoose ANGLE graphics backendをD3D11に変更すると幸せになれるかも知れない Your browser does not support graphics API &quot;WebGL 2&quot; which is required for this content.</title>
       <link>https://x.com/nonononohibi/status/2070821785759846444</link>
       <description>夏の日の冬の日の: Chromeでブラウザゲームをしてて、WebGL 2関連のエラーが出る人は chrome :// flags /でChoose ANGLE graphics backendをD3D11に変更すると幸せになれるかも知れない Your browser does not support graphics API &quot;WebGL 2&quot; which is required for this content.</description>
@@ -199,13 +206,6 @@
       <description>渡瀬ゆず💉: このウェブページの表示中に問題が発生しました エラー コード: STATUS_ACCESS_VIOLATION 対処法 chrome :// flags をブラウザで開いて、右上の「すべてリセット」</description>
       <pubDate>Sat, 16 May 2026 09:47:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kamo_kamos/status/2055585880270852207</guid>
-    </item>
-    <item>
-      <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>
-      <link>https://x.com/MatoToushi/status/2042160640349855824</link>
-      <description>まと｜AI×デザイン部: ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</description>
-      <pubDate>Thu, 09 Apr 2026 08:40:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MatoToushi/status/2042160640349855824</guid>
     </item>
     <item>
       <title>Google Chromeの分割ビューを無効化する方法 ・アドレスバーに「 chrome :// flags 」入力 ・Experimentsの検索バーで「Split View」を検索 ・Split Viewの設定を「Disabled」にしてChrome再起動 タブ動かすとくっついちゃって私には不便だった😿</title>

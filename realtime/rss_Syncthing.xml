@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</title>
+      <link>https://x.com/shigetoroku1010/status/2071502893778432278</link>
+      <description>重藤 六🐸ガジェットブロガー: error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</description>
+      <pubDate>Mon, 29 Jun 2026 07:55:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071502893778432278</guid>
+    </item>
+    <item>
+      <title>Raspberry Piで動かすサービスの入口として、 Syncthing は分かりやすいです。 できることは、 指定したフォルダを複数端末で同期すること。 使いどころは3つです。 ① 作業メモをPCとラズパイでそろえる ② 実験ログを別端末へ集める ③ 小さい設定ファイルを手元で管理する https://t.co/ORRLY6l1Fb</title>
+      <link>https://x.com/murasametech/status/2071458651248984082</link>
+      <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing は分かりやすいです。 できることは、 指定したフォルダを複数端末で同期すること。 使いどころは3つです。 ① 作業メモをPCとラズパイでそろえる ② 実験ログを別端末へ集める ③ 小さい設定ファイルを手元で管理する https://t.co/ORRLY6l1Fb</description>
+      <pubDate>Mon, 29 Jun 2026 05:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2071458651248984082</guid>
+    </item>
+    <item>
+      <title>Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</title>
+      <link>https://x.com/murasametech/status/2071170509413499229</link>
+      <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</description>
+      <pubDate>Sun, 28 Jun 2026 09:55:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2071170509413499229</guid>
+    </item>
+    <item>
       <title>ファイル同期……というと、DropboxとかiCloudとかGoogleDriveとかイメージするけど、これらってクラウド同期で中身もベンダーにチェックされてるし容量上限もある で、 Syncthing 。これP2Pの同期ソフトでOSS。2つのPCでファイルが同期するのを見ると、ちょっと感動するね。</title>
       <link>https://x.com/kuzyofire/status/2070438017869951361</link>
       <description>九条@セミリタイア: ファイル同期……というと、DropboxとかiCloudとかGoogleDriveとかイメージするけど、これらってクラウド同期で中身もベンダーにチェックされてるし容量上限もある で、 Syncthing 。これP2Pの同期ソフトでOSS。2つのPCでファイルが同期するのを見ると、ちょっと感動するね。</description>
@@ -255,27 +276,6 @@
       <description>sumi: syncthing を使って複數の端末でfontを同期せられる事を知った!</description>
       <pubDate>Wed, 03 Jun 2026 13:39:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/svartaz/status/2062167283129352506</guid>
-    </item>
-    <item>
-      <title>Syncthing -Forkでモバイルデータオフにしてるのに、データ使用設定にしてない方のSIMが使われて一瞬で0になったから気をつけて しかもこの時WiFi（他のスマホテザリング）に繋がってたからね いや家では起きないからそれが関係してバグってるかも OSの設定側でも個別にアプリのSIMオフしないと危ない https://t.co/bcesZU7h7H</title>
-      <link>https://x.com/tube_333/status/2062064627039748275</link>
-      <description>つべ: Syncthing -Forkでモバイルデータオフにしてるのに、データ使用設定にしてない方のSIMが使われて一瞬で0になったから気をつけて しかもこの時WiFi（他のスマホテザリング）に繋がってたからね いや家では起きないからそれが関係してバグってるかも OSの設定側でも個別にアプリのSIMオフしないと危ない https://t.co/bcesZU7h7H</description>
-      <pubDate>Wed, 03 Jun 2026 06:51:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tube_333/status/2062064627039748275</guid>
-    </item>
-    <item>
-      <title>クラウド経由せずにPCとスマホでメモ同期したいな〜とふと思い、色々調べてobsidianと syncthing がうまくいったのでなんとなく安心を得た。これでどんな創作メモや妄想を綴ってもどこかがBANされることはない。</title>
-      <link>https://x.com/magickirby/status/2061748357035597945</link>
-      <description>MagicKirby: クラウド経由せずにPCとスマホでメモ同期したいな〜とふと思い、色々調べてobsidianと syncthing がうまくいったのでなんとなく安心を得た。これでどんな創作メモや妄想を綴ってもどこかがBANされることはない。</description>
-      <pubDate>Tue, 02 Jun 2026 09:54:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/magickirby/status/2061748357035597945</guid>
-    </item>
-    <item>
-      <title>Syncthing とかいうフォルダの同期させるサービス使い始めたけど、なんか止まるなあ https://t.co/YdbJqyrWad</title>
-      <link>https://x.com/public_zakojb/status/2061676559698919610</link>
-      <description>zakojb: Syncthing とかいうフォルダの同期させるサービス使い始めたけど、なんか止まるなあ https://t.co/YdbJqyrWad</description>
-      <pubDate>Tue, 02 Jun 2026 05:09:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/public_zakojb/status/2061676559698919610</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>古いPCにLinux Mint 21 入れて運用してるけども、どうにも音ゲーで遅延が発生する。PCが古いから仕方ないかなと思っていたところ、ふと オーディオドライバが悪いのではないかと思って調べ、 PipeWire /PulseAudio を導入、遅延は改善、やりやすくなった。 https://t.co/xIbPK74YTn</title>
+      <link>https://x.com/RaiyaHiiragi/status/2070873136321720541</link>
+      <description>エクスさんと柊 雷夜 / Extrose &amp; Raiya Hiiragi: 古いPCにLinux Mint 21 入れて運用してるけども、どうにも音ゲーで遅延が発生する。PCが古いから仕方ないかなと思っていたところ、ふと オーディオドライバが悪いのではないかと思って調べ、 PipeWire /PulseAudio を導入、遅延は改善、やりやすくなった。 https://t.co/xIbPK74YTn</description>
+      <pubDate>Sat, 27 Jun 2026 14:13:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RaiyaHiiragi/status/2070873136321720541</guid>
+    </item>
+    <item>
       <title>今週は新しい環境を準備するなどした Xorg→Wayland PulseAudio→ PipeWire Openbox→Sway Tint2→Waybar https://t.co/itoVxevuWY</title>
       <link>https://x.com/marimo_linux/status/2070453687991062655</link>
       <description>まりも: 今週は新しい環境を準備するなどした Xorg→Wayland PulseAudio→ PipeWire Openbox→Sway Tint2→Waybar https://t.co/itoVxevuWY</description>
@@ -115,13 +122,6 @@
       <description>あひる2023: CachyOS, 高音が耳に刺さるようになったので、Linux Mint に回帰。 音楽系 USB DAC と PipeWire の設定だけでかなりの高音質化できる。 Pipewire のリミッター解除、コピペのミスで解除しきれていなかった。完全解除したら、ローカルより Youtube のほうが音がよくなった。 信じられないけど事実。</description>
       <pubDate>Sat, 30 May 2026 11:02:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/duckygduck2023/status/2060678244056371449</guid>
-    </item>
-    <item>
-      <title>EndeavourOS でAVアンプの音声がおかしかったのでなおしたわ EndeavourOS設定： PipeWire + AVアンプ（HDMI 5.1ch サラウンド）｜ripple https://t.co/I3Du8cVsoP #zenn</title>
-      <link>https://x.com/sattan72/status/2060494357241962911</link>
-      <description>譚の魔女: EndeavourOS でAVアンプの音声がおかしかったのでなおしたわ EndeavourOS設定： PipeWire + AVアンプ（HDMI 5.1ch サラウンド）｜ripple https://t.co/I3Du8cVsoP #zenn</description>
-      <pubDate>Fri, 29 May 2026 22:51:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sattan72/status/2060494357241962911</guid>
     </item>
   </channel>
 </rss>

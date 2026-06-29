@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>何だこのふざけた zRAM のサイズは 今のスマホってこんなにアグレッシブなのか https://t.co/431rXfO9vM</title>
+      <link>https://x.com/gigaonion/status/2070899009468993566</link>
+      <description>ぎがおにおん: 何だこのふざけた zRAM のサイズは 今のスマホってこんなにアグレッシブなのか https://t.co/431rXfO9vM</description>
+      <pubDate>Sat, 27 Jun 2026 15:56:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2070899009468993566</guid>
+    </item>
+    <item>
       <title>Raspberry Pi liteを最初からキッティングしているのだけど、最新版は初期設定で zram なのね。</title>
       <link>https://x.com/Lens_Fuji/status/2069619023768436973</link>
       <description>ふじ⁺⁹: Raspberry Pi liteを最初からキッティングしているのだけど、最新版は初期設定で zram なのね。</description>
@@ -269,13 +276,6 @@
       <description>アヤカ: ・検証環境は RTX 3070 Laptop（物理16GB / VRAM 8GB）、NVIDIA driver 580.159.03、Linux kernel 6.17、Pop!_OS。VRAM swap は 7GB を確保し、 zram と SSD swap 込みで約46GBまで使えて、使えるメモリ領域は約3倍になった。</description>
       <pubDate>Tue, 02 Jun 2026 23:58:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AyakaT_AI/status/2061960722339573888</guid>
-    </item>
-    <item>
-      <title>・運用では RAM→VRAM→ zram →SSD の順に溢れさせるのがコツ。設定例は VRAM_SETUP_SIZE_MB=7168、VRAM_SWAP_PRIORITY=1500。前者は上限指定で、足りないときは512MiBずつ下げて確保する。後者を高くすると、 zram より先にVRAMへ逃がしやすい。</title>
-      <link>https://x.com/AyakaT_AI/status/2061958830121185776</link>
-      <description>アヤカ: ・運用では RAM→VRAM→ zram →SSD の順に溢れさせるのがコツ。設定例は VRAM_SETUP_SIZE_MB=7168、VRAM_SWAP_PRIORITY=1500。前者は上限指定で、足りないときは512MiBずつ下げて確保する。後者を高くすると、 zram より先にVRAMへ逃がしやすい。</description>
-      <pubDate>Tue, 02 Jun 2026 23:51:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AyakaT_AI/status/2061958830121185776</guid>
     </item>
   </channel>
 </rss>

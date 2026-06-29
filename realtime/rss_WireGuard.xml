@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</title>
+      <link>https://x.com/nkyna_/status/2071221709206868186</link>
+      <description>もぺ: Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</description>
+      <pubDate>Sun, 28 Jun 2026 13:18:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nkyna_/status/2071221709206868186</guid>
+    </item>
+    <item>
+      <title>借りたVPSの固定IPに対してNAT配下のPC2台からそれぞれ Wireguard セッションを張って、NAT配下PC間のVPNトンネル（VPS上で一瞬平文になるので完全ではない）を作ってみた。ほぼお勉強目的だったんだけど、やっぱりTailscaleがお手軽だわ……。</title>
+      <link>https://x.com/oyaguma3/status/2071216282654146932</link>
+      <description>おやぐまさん: 借りたVPSの固定IPに対してNAT配下のPC2台からそれぞれ Wireguard セッションを張って、NAT配下PC間のVPNトンネル（VPS上で一瞬平文になるので完全ではない）を作ってみた。ほぼお勉強目的だったんだけど、やっぱりTailscaleがお手軽だわ……。</description>
+      <pubDate>Sun, 28 Jun 2026 12:56:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyaguma3/status/2071216282654146932</guid>
+    </item>
+    <item>
       <title>自宅ルータには RTX1210 を構えているが、モバイルルータ側が IPsec みたいな従来型 VPN じゃなくて、 OpenVPN とか WireGuard みたいなモダン VPN しか対応していない？っぽいので、サイト間張るときは Tailscale 入れちゃえ〜ってなった。ムズいんだよねモダン VPN。 https://t.co/pDBlJFIhr1</title>
       <link>https://x.com/kishiwadapeople/status/2071176385390162385</link>
       <description>岸和田市民: 自宅ルータには RTX1210 を構えているが、モバイルルータ側が IPsec みたいな従来型 VPN じゃなくて、 OpenVPN とか WireGuard みたいなモダン VPN しか対応していない？っぽいので、サイト間張るときは Tailscale 入れちゃえ〜ってなった。ムズいんだよねモダン VPN。 https://t.co/pDBlJFIhr1</description>
@@ -17,6 +31,13 @@
       <description>r-pe: 出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</description>
       <pubDate>Sat, 27 Jun 2026 17:57:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rrrrrrrr_ch/status/2070929632472490486</guid>
+    </item>
+    <item>
+      <title>うおおおおお WireGuard の設定ミスって全通信VPNに流れて接続できなくなったPCをリモートから復旧できたあああ</title>
+      <link>https://x.com/Exass/status/2070905740274061735</link>
+      <description>ゑくさす: うおおおおお WireGuard の設定ミスって全通信VPNに流れて接続できなくなったPCをリモートから復旧できたあああ</description>
+      <pubDate>Sat, 27 Jun 2026 16:22:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Exass/status/2070905740274061735</guid>
     </item>
     <item>
       <title>しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</title>
@@ -255,27 +276,6 @@
       <description>craft: 期待するならどちらかというと、 WireGuard とかそっち方面になるのかな。</description>
       <pubDate>Thu, 18 Jun 2026 10:38:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/EXAM1319/status/2067557471473095075</guid>
-    </item>
-    <item>
-      <title>＞Hetzner、DigitalOcean、AWSといったサービスで月額5ユーロでサーバーをレンタルし、 WireGuard やOpenVPNを3つのコマンドでインストールすれば、ブロックリストに載っていないIPアドレスで独自のVPNを構築できる。 賢いティーンエイジャーなら、わずか数分で「VPNブロック」を検証できるだろう。</title>
-      <link>https://x.com/isuzixDRnhDW9cF/status/2067430434670358534</link>
-      <description>さぶちゅか: ＞Hetzner、DigitalOcean、AWSといったサービスで月額5ユーロでサーバーをレンタルし、 WireGuard やOpenVPNを3つのコマンドでインストールすれば、ブロックリストに載っていないIPアドレスで独自のVPNを構築できる。 賢いティーンエイジャーなら、わずか数分で「VPNブロック」を検証できるだろう。</description>
-      <pubDate>Thu, 18 Jun 2026 02:13:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/isuzixDRnhDW9cF/status/2067430434670358534</guid>
-    </item>
-    <item>
-      <title>@minagi_yu 固定IP契約してましたが（機器入れ替えで機器が対応してなかったので）解除して、固定IPで接続したいサービスはVPSと自宅で WireGuard トンネル貼って通してます！ 固定IP使えるルーターなら、使えるポート増えるので契約するほうがおすすめです</title>
-      <link>https://x.com/minatochang/status/2067409585821151398</link>
-      <description>巳波みなと / minato86: @minagi_yu 固定IP契約してましたが（機器入れ替えで機器が対応してなかったので）解除して、固定IPで接続したいサービスはVPSと自宅で WireGuard トンネル貼って通してます！ 固定IP使えるルーターなら、使えるポート増えるので契約するほうがおすすめです</description>
-      <pubDate>Thu, 18 Jun 2026 00:50:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minatochang/status/2067409585821151398</guid>
-    </item>
-    <item>
-      <title>WireGuard 経由の接続につきましては、最大10Gbps対応のためのメンテナンス期間中となっております。ご利用のお客様にはご不便をおかけいたしますが、メンテナンス期間中はHiddifyをご利用いただきますようお願い申し上げます。</title>
-      <link>https://x.com/Leopard_ofc/status/2066864262195392740</link>
-      <description>Leopard: WireGuard 経由の接続につきましては、最大10Gbps対応のためのメンテナンス期間中となっております。ご利用のお客様にはご不便をおかけいたしますが、メンテナンス期間中はHiddifyをご利用いただきますようお願い申し上げます。</description>
-      <pubDate>Tue, 16 Jun 2026 12:43:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Leopard_ofc/status/2066864262195392740</guid>
     </item>
   </channel>
 </rss>
