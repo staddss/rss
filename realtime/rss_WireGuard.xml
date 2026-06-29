@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅VPN、頑張って直接 WireGuard で設定を試行錯誤してたけど、全然接続できず、諦めてTailscale導入したらものの数分で繋がった。 NATやFW、DDNSに鍵、証明書…etcガン無視して繋がってるの何なんだコレ…怖。</title>
+      <link>https://x.com/EXAM1319/status/2071540641151230067</link>
+      <description>craft: 自宅VPN、頑張って直接 WireGuard で設定を試行錯誤してたけど、全然接続できず、諦めてTailscale導入したらものの数分で繋がった。 NATやFW、DDNSに鍵、証明書…etcガン無視して繋がってるの何なんだコレ…怖。</description>
+      <pubDate>Mon, 29 Jun 2026 10:25:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2071540641151230067</guid>
+    </item>
+    <item>
       <title>MSwebドタバタ開発状況 サブのWin11に、 Cakewalk Sonar、GIMP 3.2.4、Inkscape、FFFTP、 WireGuard 、Antigravity IDEを設定、はー、しんど。 まだ、だいぶ残ってる、あとは明日以降。</title>
       <link>https://x.com/msweb652822/status/2071520750138429577</link>
       <description>msweb: MSwebドタバタ開発状況 サブのWin11に、 Cakewalk Sonar、GIMP 3.2.4、Inkscape、FFFTP、 WireGuard 、Antigravity IDEを設定、はー、しんど。 まだ、だいぶ残ってる、あとは明日以降。</description>
@@ -269,13 +276,6 @@
       <description>tatematsu_san: 【ゆる募】 Wireguard 環境に接続できる安めの小型ルータっぽいやつ Wireguard ホストするんじゃなくてルータ通してブリッジ(NAT)するイメージ</description>
       <pubDate>Thu, 18 Jun 2026 22:52:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tk4_jj/status/2067742178336731519</guid>
-    </item>
-    <item>
-      <title>安いVPSがあるので、 WireGuard だけ入れたインスタンスで固定IPを得るのが一番良いかなと思います。入れた後はSSHを閉じれば安全です さくらなら月643円で使えます https://t.co/qQNP04aW9U</title>
-      <link>https://x.com/k_koyanagi_null/status/2067634860097954085</link>
-      <description>小柳勝範＠札幌のIT会社の代表: 安いVPSがあるので、 WireGuard だけ入れたインスタンスで固定IPを得るのが一番良いかなと思います。入れた後はSSHを閉じれば安全です さくらなら月643円で使えます https://t.co/qQNP04aW9U</description>
-      <pubDate>Thu, 18 Jun 2026 15:45:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k_koyanagi_null/status/2067634860097954085</guid>
     </item>
   </channel>
 </rss>
