@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最強のAI開発環境を“完全無料枠”で構築する！ GitHub Codespaces 上に自分だけの最強かつコスパ抜群なAI開発環境を構築する、エンジニアなら思わず試したくなる超実践的なテック記事が公開されました。 知らなきゃ損する次世代のクラウド開発スタイルはリンクからチェック👇 #note #Gemini</title>
+      <link>https://x.com/alhincjp/status/2071820524359970992</link>
+      <description>【公式】ALH株式会社: 最強のAI開発環境を“完全無料枠”で構築する！ GitHub Codespaces 上に自分だけの最強かつコスパ抜群なAI開発環境を構築する、エンジニアなら思わず試したくなる超実践的なテック記事が公開されました。 知らなきゃ損する次世代のクラウド開発スタイルはリンクからチェック👇 #note #Gemini</description>
+      <pubDate>Tue, 30 Jun 2026 04:58:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/alhincjp/status/2071820524359970992</guid>
+    </item>
+    <item>
+      <title>ブラウザ1つで、どこでも最強の開発環境！💻 GitHub Codespaces を使った“ローカル脱却”の仕事術をREIYAさんが解説します！✨ デバイスやPCのスペック、場所に縛られない驚きの活用法が満載！👀 ワクワクするようなクラウド開発のメリットが分かりやすくまとめられています。 #note #プログラミング</title>
+      <link>https://x.com/alhincjp/status/2071749305057361934</link>
+      <description>【公式】ALH株式会社: ブラウザ1つで、どこでも最強の開発環境！💻 GitHub Codespaces を使った“ローカル脱却”の仕事術をREIYAさんが解説します！✨ デバイスやPCのスペック、場所に縛られない驚きの活用法が満載！👀 ワクワクするようなクラウド開発のメリットが分かりやすくまとめられています。 #note #プログラミング</description>
+      <pubDate>Tue, 30 Jun 2026 00:15:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/alhincjp/status/2071749305057361934</guid>
+    </item>
+    <item>
+      <title>GitHub Codespaces は全員の開発環境を移行するより、レビューと短期支援にピンポイントで使う。 - Enterprise環境で Codespaces が刺さる場面 - 常用でなくレビュー・短期支援に限る理由 - Dev Containerの活用とコストキャップの設定 https://t.co/tEuSaGfWln</title>
+      <link>https://x.com/aeontechhub/status/2071428447843311696</link>
+      <description>AEON TECH HUB（イオンテックハブ）: GitHub Codespaces は全員の開発環境を移行するより、レビューと短期支援にピンポイントで使う。 - Enterprise環境で Codespaces が刺さる場面 - 常用でなくレビュー・短期支援に限る理由 - Dev Containerの活用とコストキャップの設定 https://t.co/tEuSaGfWln</description>
+      <pubDate>Mon, 29 Jun 2026 03:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aeontechhub/status/2071428447843311696</guid>
+    </item>
+    <item>
       <title>@Python410386 わたさん Codespaces 便利ですよね！ ローカル環境に依存せず開発できるのは大きなメリットですが、おっしゃる通りセキュリティを意識した運用は欠かせないですね。</title>
       <link>https://x.com/climbdoor_com/status/2071251128164184347</link>
       <description>松下健太郎｜㍿クライムドア代表: @Python410386 わたさん Codespaces 便利ですよね！ ローカル環境に依存せず開発できるのは大きなメリットですが、おっしゃる通りセキュリティを意識した運用は欠かせないですね。</description>
@@ -255,27 +276,6 @@
       <description>はるまき｜ChatGPTとGitHubでbotを作る人: noteの2本目を書きました。 今回は「GitHub Codespaces って何？」を、初心者目線でまとめています。 「ブラウザで使える作業部屋」と考えたら、だいぶわかりやすくなりました。 GitHub Codespaces って何？初心者が最初に混乱したこと https://t.co/PQdQYKid61</description>
       <pubDate>Wed, 03 Jun 2026 21:09:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/note_harumaki/status/2062280464468148351</guid>
-    </item>
-    <item>
-      <title>Codespaces でLangFlowのフローが消えちゃう問題あるけどLANGFLOW_CONFIG_DIRとかで指定っぽい $ docker run -p 7860:7860 -e LANGFLOW_CONFIG_DIR=/app/langflow -e LANGFLOW_SAVE_DB_IN_CONFIG_DIR=True -e LANGFLOW_DATABASE_URL=sqlite:////app/langflow/langflow.db ...(略 https://t.co/Ov3bVfcYSv</title>
-      <link>https://x.com/n0bisuke/status/2062147928299336011</link>
-      <description>菅原のびすけ: Codespaces でLangFlowのフローが消えちゃう問題あるけどLANGFLOW_CONFIG_DIRとかで指定っぽい $ docker run -p 7860:7860 -e LANGFLOW_CONFIG_DIR=/app/langflow -e LANGFLOW_SAVE_DB_IN_CONFIG_DIR=True -e LANGFLOW_DATABASE_URL=sqlite:////app/langflow/langflow.db ...(略 https://t.co/Ov3bVfcYSv</description>
-      <pubDate>Wed, 03 Jun 2026 12:22:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n0bisuke/status/2062147928299336011</guid>
-    </item>
-    <item>
-      <title>GitHub Codespaces って何？初心者が最初に混乱したこと｜はるまき｜ChatGPTとGitHubでbotを作る人 @note_harumaki https://t.co/ssyfikMVhN</title>
-      <link>https://x.com/note_harumaki/status/2062133959371411936</link>
-      <description>はるまき: GitHub Codespaces って何？初心者が最初に混乱したこと｜はるまき｜ChatGPTとGitHubでbotを作る人 @note_harumaki https://t.co/ssyfikMVhN</description>
-      <pubDate>Wed, 03 Jun 2026 11:27:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/note_harumaki/status/2062133959371411936</guid>
-    </item>
-    <item>
-      <title>GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</title>
-      <link>https://x.com/hogegashi/status/2061950593401499858</link>
-      <description>YAEGASHI Takeshi: GitHub Copilot local/cloud sandboxing Local sandbox は無料ぽい。 Cloud sandbox はCPU・メモリによる時間課金。 これは GitHub Copilot 用の Codespaces みたいなものですね。 https://t.co/75r0TmorVs</description>
-      <pubDate>Tue, 02 Jun 2026 23:18:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hogegashi/status/2061950593401499858</guid>
     </item>
   </channel>
 </rss>
