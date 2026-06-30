@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071857080219369480</guid>
     </item>
     <item>
+      <title>ノートのCodexAPPから自宅MacのCodexAPPを操作して、自宅Macのローカルファイルにアクセスして更新し、Dropboxとか SyncThing でファイルがノートに同期してくるという面白いことやってる</title>
+      <link>https://x.com/kuzyofire/status/2071829619196747978</link>
+      <description>九条@セミリタイア: ノートのCodexAPPから自宅MacのCodexAPPを操作して、自宅Macのローカルファイルにアクセスして更新し、Dropboxとか SyncThing でファイルがノートに同期してくるという面白いことやってる</description>
+      <pubDate>Tue, 30 Jun 2026 05:34:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuzyofire/status/2071829619196747978</guid>
+    </item>
+    <item>
       <title>syncthing お試し</title>
       <link>https://x.com/_Lait_au_Cafe/status/2071743444524138790</link>
       <description>Lait-au-Cafe ｡ﾟ+がおーの者+.ﾟDKEEH: syncthing お試し</description>
@@ -269,13 +276,6 @@
       <description>北光社: ChatGPTに教わりながら、PC2台スマホ2台のObsidianの保管庫を SyncThing で同期するというのを2時間かけてやってみた。 なかなかいい感じ。 Github経由での同期は毎回同期操作するのが面倒で心折れたけど、こっちならObsidian使いこなせるかもしれない。</description>
       <pubDate>Tue, 09 Jun 2026 14:18:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064351446964068841</guid>
-    </item>
-    <item>
-      <title>MacとAndroidでObsidianを無料同期するなら「 Syncthing 」が現時点で最適!! 【主な理由】 📱 公式Sync：有料 💻 GitHub：画像苦手、AndroidでSSHダメ？ 🔌 Remotely Save：ファイル二重化の罠 🚀 Syncthing ：完全無料、容量無制限 初期設定の壁さえ乗り越えればマジで神ツール。</title>
-      <link>https://x.com/takager/status/2064340887031959896</link>
-      <description>タカジャ: MacとAndroidでObsidianを無料同期するなら「 Syncthing 」が現時点で最適!! 【主な理由】 📱 公式Sync：有料 💻 GitHub：画像苦手、AndroidでSSHダメ？ 🔌 Remotely Save：ファイル二重化の罠 🚀 Syncthing ：完全無料、容量無制限 初期設定の壁さえ乗り越えればマジで神ツール。</description>
-      <pubDate>Tue, 09 Jun 2026 13:36:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takager/status/2064340887031959896</guid>
     </item>
   </channel>
 </rss>
