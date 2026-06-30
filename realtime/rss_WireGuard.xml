@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>確かに大体2分おきに再接続するけどiPhone(有線)→ Wireguard 搭載ルーター →iPhoneのWiFiテザリング(ドコモ)→インターネット→NAT→ Wireguard 搭載ルーター→ターゲットホストでPING打ち続けてもTimeoutは無かったけどなあ…。 Wireguard の問題ではないとか？？ https://t.co/mFSnPWEtV0</title>
+      <link>https://x.com/Yamar50/status/2071897729002016792</link>
+      <description>Yamar50 in Tokyo JP: 確かに大体2分おきに再接続するけどiPhone(有線)→ Wireguard 搭載ルーター →iPhoneのWiFiテザリング(ドコモ)→インターネット→NAT→ Wireguard 搭載ルーター→ターゲットホストでPING打ち続けてもTimeoutは無かったけどなあ…。 Wireguard の問題ではないとか？？ https://t.co/mFSnPWEtV0</description>
+      <pubDate>Tue, 30 Jun 2026 10:04:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yamar50/status/2071897729002016792</guid>
+    </item>
+    <item>
+      <title>@OrangeMorishita 長谷部さんの話で、グローバルとかいってたけど、 Wireguard がVPNはっている端末にグローバルIPが付与されているのか、それともNATなのか、その辺の話がお互いかみ合って無くてイミフだった.. #internetweek #iwsc</title>
+      <link>https://x.com/tomocha0/status/2071888163895980480</link>
+      <description>tomocha(とも ちゃ)@Job searching/無職＆就職活動中&amp;パパ活中: @OrangeMorishita 長谷部さんの話で、グローバルとかいってたけど、 Wireguard がVPNはっている端末にグローバルIPが付与されているのか、それともNATなのか、その辺の話がお互いかみ合って無くてイミフだった.. #internetweek #iwsc</description>
+      <pubDate>Tue, 30 Jun 2026 09:26:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomocha0/status/2071888163895980480</guid>
+    </item>
+    <item>
+      <title>いつも安いルーターで WireGuard を立ててるけどタイ-日本で110msであればかなり優秀 https://t.co/oByfTf9g3P</title>
+      <link>https://x.com/2kd611/status/2071780712018284704</link>
+      <description>K: いつも安いルーターで WireGuard を立ててるけどタイ-日本で110msであればかなり優秀 https://t.co/oByfTf9g3P</description>
+      <pubDate>Tue, 30 Jun 2026 02:19:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/2kd611/status/2071780712018284704</guid>
+    </item>
+    <item>
       <title>Tailscaleを解釈する！WebRTCの文脈で辿る WireGuard 通信実装🐉 - P2P接続編｜pabotesu https://t.co/TqEXybtNx5 #zenn 良い記事がある！</title>
       <link>https://x.com/__yayo1__/status/2071755701161275536</link>
       <description>やよい🦆💨: Tailscaleを解釈する！WebRTCの文脈で辿る WireGuard 通信実装🐉 - P2P接続編｜pabotesu https://t.co/TqEXybtNx5 #zenn 良い記事がある！</description>
@@ -255,27 +276,6 @@
       <description>倉井: そもそもなんで年に数日だけ空気入れ替えるだけの放棄されかけてる一軒家に固定光回線引いてあって俺のクレジットカード経由で引き落とされているか、ソフトイーサーだの wireguard なVPNルーターがあるのかとツッコミどころは多数ある</description>
       <pubDate>Sat, 20 Jun 2026 03:54:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ckurai/status/2068180643494973550</guid>
-    </item>
-    <item>
-      <title>ベランダリモート観測所の機材遊びと化しているが、GL-MT5000を WireGuard サーバーとして購入。追加でRPC-M4LSを2台追加。計12アウトレット。 自宅でスマホテザリングで、ケーブルネットルーター→GL-MT5000→リブーターの接続成功。 ほぼCopilotさんに面倒を見てもらった。ただ理解していない。。</title>
-      <link>https://x.com/yamagiri_K5/status/2068134511318323398</link>
-      <description>やまぎり: ベランダリモート観測所の機材遊びと化しているが、GL-MT5000を WireGuard サーバーとして購入。追加でRPC-M4LSを2台追加。計12アウトレット。 自宅でスマホテザリングで、ケーブルネットルーター→GL-MT5000→リブーターの接続成功。 ほぼCopilotさんに面倒を見てもらった。ただ理解していない。。</description>
-      <pubDate>Sat, 20 Jun 2026 00:51:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamagiri_K5/status/2068134511318323398</guid>
-    </item>
-    <item>
-      <title>@hrichina 走 wireguard 回家即可</title>
-      <link>https://x.com/adams_2333/status/2067996609573786110</link>
-      <description>泽野黄雀: @hrichina 走 wireguard 回家即可</description>
-      <pubDate>Fri, 19 Jun 2026 15:43:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/adams_2333/status/2067996609573786110</guid>
-    </item>
-    <item>
-      <title>はやく WireGuard 設定しなければ</title>
-      <link>https://x.com/million_nado/status/2067969698306941140</link>
-      <description>ナポヨス: はやく WireGuard 設定しなければ</description>
-      <pubDate>Fri, 19 Jun 2026 13:56:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/million_nado/status/2067969698306941140</guid>
     </item>
   </channel>
 </rss>

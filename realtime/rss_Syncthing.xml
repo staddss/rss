@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Proxmox VE on N5 Pro NASの用途 ・PVEホストでSMBとZFSとRsyncを動かしNAS化 ・LXC Syncthing でPCや泥スマホのデータを1方向同期 ・ラデ890M＋Lemonade LXCでG4 26B A4Bを動かす ・AgentDVRなどで監視カメラの保存先として ・fnOSやWindows11を動かして遊ぶ PVE Helper Scriptが便利すぎて神 https://t.co/SoBY5fDYpN</title>
+      <link>https://x.com/shigetoroku1010/status/2071857170967388528</link>
+      <description>重藤 六🐸ガジェットブロガー: Proxmox VE on N5 Pro NASの用途 ・PVEホストでSMBとZFSとRsyncを動かしNAS化 ・LXC Syncthing でPCや泥スマホのデータを1方向同期 ・ラデ890M＋Lemonade LXCでG4 26B A4Bを動かす ・AgentDVRなどで監視カメラの保存先として ・fnOSやWindows11を動かして遊ぶ PVE Helper Scriptが便利すぎて神 https://t.co/SoBY5fDYpN</description>
+      <pubDate>Tue, 30 Jun 2026 07:23:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071857170967388528</guid>
+    </item>
+    <item>
+      <title>Proxmox VE on N5 Pro NASの用途 ・PVEホストでSMBとZFSを動かしNAS化 ・LXC Syncthing でPCや泥スマホのデータを1方向同期 ・ラデ890M＋Lemonade LXCでG4 26B A4Bを動かす ・AgentDVRなどで監視カメラの保存先として ・fnOSやWindows11を動かして遊ぶ PVE Helper Scriptが便利すぎて神 https://t.co/Leaft0GALz</title>
+      <link>https://x.com/shigetoroku1010/status/2071857080219369480</link>
+      <description>重藤 六🐸ガジェットブロガー: Proxmox VE on N5 Pro NASの用途 ・PVEホストでSMBとZFSを動かしNAS化 ・LXC Syncthing でPCや泥スマホのデータを1方向同期 ・ラデ890M＋Lemonade LXCでG4 26B A4Bを動かす ・AgentDVRなどで監視カメラの保存先として ・fnOSやWindows11を動かして遊ぶ PVE Helper Scriptが便利すぎて神 https://t.co/Leaft0GALz</description>
+      <pubDate>Tue, 30 Jun 2026 07:23:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071857080219369480</guid>
+    </item>
+    <item>
       <title>syncthing お試し</title>
       <link>https://x.com/_Lait_au_Cafe/status/2071743444524138790</link>
       <description>Lait-au-Cafe ｡ﾟ+がおーの者+.ﾟDKEEH: syncthing お試し</description>
@@ -262,20 +276,6 @@
       <description>タカジャ: MacとAndroidでObsidianを無料同期するなら「 Syncthing 」が現時点で最適!! 【主な理由】 📱 公式Sync：有料 💻 GitHub：画像苦手、AndroidでSSHダメ？ 🔌 Remotely Save：ファイル二重化の罠 🚀 Syncthing ：完全無料、容量無制限 初期設定の壁さえ乗り越えればマジで神ツール。</description>
       <pubDate>Tue, 09 Jun 2026 13:36:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/takager/status/2064340887031959896</guid>
-    </item>
-    <item>
-      <title>@eisuke_travel ぼくはmdだけでなくpdfとかm4aとかもVaultに入れてるので、これがまたややこしいんですよね。 SyncThing とかも候補なので、ちょっと考えてみます！</title>
-      <link>https://x.com/kuzyofire/status/2064174110503260436</link>
-      <description>九条@セミリタイア: @eisuke_travel ぼくはmdだけでなくpdfとかm4aとかもVaultに入れてるので、これがまたややこしいんですよね。 SyncThing とかも候補なので、ちょっと考えてみます！</description>
-      <pubDate>Tue, 09 Jun 2026 02:33:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuzyofire/status/2064174110503260436</guid>
-    </item>
-    <item>
-      <title>@vrchatyouu フォルダー同期は Syncthing (send/receive only or send+receive設定に注意) 一回送りたいだけならLocalsendや普通に有線</title>
-      <link>https://x.com/TRX9800_/status/2063695104918090106</link>
-      <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @vrchatyouu フォルダー同期は Syncthing (send/receive only or send+receive設定に注意) 一回送りたいだけならLocalsendや普通に有線</description>
-      <pubDate>Sun, 07 Jun 2026 18:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TRX9800_/status/2063695104918090106</guid>
     </item>
   </channel>
 </rss>
