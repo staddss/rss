@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kuboaki codespaces がある程度無料で使えるので安心してやれるというのはありますね。今でもdockerとかを学生PCにインストールしてもらうのはちょっと気が引けます。 トラブルは原因がわかりにくくなることもありますし、枠使い切ったとかそういう別のトラブルが導入されたりもしますね。</title>
+      <link>https://x.com/nelnel/status/2072131336660513243</link>
+      <description>Kenji Hisazumi: @kuboaki codespaces がある程度無料で使えるので安心してやれるというのはありますね。今でもdockerとかを学生PCにインストールしてもらうのはちょっと気が引けます。 トラブルは原因がわかりにくくなることもありますし、枠使い切ったとかそういう別のトラブルが導入されたりもしますね。</description>
+      <pubDate>Wed, 01 Jul 2026 01:33:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nelnel/status/2072131336660513243</guid>
+    </item>
+    <item>
       <title>いい話。個人的には共感します。とはいえ大学教育において学生さんたちのPCのサポートは結構大変なのです。今年から私の講義の演習は codespaces というかコンテナ環境でやることにしました。PCの環境依存のトラブルはゼロになりました（当たり前）。 https://t.co/FTCnToyXFf</title>
       <link>https://x.com/nelnel/status/2071979791553831114</link>
       <description>Kenji Hisazumi: いい話。個人的には共感します。とはいえ大学教育において学生さんたちのPCのサポートは結構大変なのです。今年から私の講義の演習は codespaces というかコンテナ環境でやることにしました。PCの環境依存のトラブルはゼロになりました（当たり前）。 https://t.co/FTCnToyXFf</description>
@@ -269,13 +276,6 @@
       <description>ち～ぽん✨🤔: ローカル環境はもちろんエンジニアとかには残り続けるけどさ codexやclaude codeは codespaces みたいなクラウドIDEみたいな形になると思ってんだけどな 社内で無駄な現環境の最適化をやめて、待ちましょうや</description>
       <pubDate>Sat, 06 Jun 2026 08:56:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gamemangaanime/status/2063183348571439430</guid>
-    </item>
-    <item>
-      <title>DTSのローカル開発時にタスクハブがダッシュボードに自動登録されない問題突破！！GitHub Codespaces は駄目そう</title>
-      <link>https://x.com/okazuki/status/2063159134502232200</link>
-      <description>かずき(Kazuki Ota) | CSA &amp; Evangelist at MS: DTSのローカル開発時にタスクハブがダッシュボードに自動登録されない問題突破！！GitHub Codespaces は駄目そう</description>
-      <pubDate>Sat, 06 Jun 2026 07:20:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/okazuki/status/2063159134502232200</guid>
     </item>
   </channel>
 </rss>

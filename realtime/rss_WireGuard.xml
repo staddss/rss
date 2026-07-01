@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GL-AR300M16。OpenWrtプリインストールで WireGuard も動く小型ルーターか。現場のIoTゲートウェイに使えそうだ。 GL.iNetGL-AR300M16Wi-FiルーターOpenWrt対応有線無線 https://t.co/L2kDxRCNNR</title>
+      <link>https://x.com/ShinichiHaemj5/status/2072418795281633638</link>
+      <description>林 真一: GL-AR300M16。OpenWrtプリインストールで WireGuard も動く小型ルーターか。現場のIoTゲートウェイに使えそうだ。 GL.iNetGL-AR300M16Wi-FiルーターOpenWrt対応有線無線 https://t.co/L2kDxRCNNR</description>
+      <pubDate>Wed, 01 Jul 2026 20:35:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShinichiHaemj5/status/2072418795281633638</guid>
+    </item>
+    <item>
+      <title>今日は前のラボのNASと異動先のルーターを WireGuard で繋いだ。TrueNASだからLXCコンテナでWG繋いで内からNAS向きにNATして…みたいにちょっと大変だったけどClaude様のおかげでなんとかうまくできてよかった</title>
+      <link>https://x.com/endaaman/status/2072356546001133630</link>
+      <description>元・次世代AI博士人材: 今日は前のラボのNASと異動先のルーターを WireGuard で繋いだ。TrueNASだからLXCコンテナでWG繋いで内からNAS向きにNATして…みたいにちょっと大変だったけどClaude様のおかげでなんとかうまくできてよかった</description>
+      <pubDate>Wed, 01 Jul 2026 16:27:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/endaaman/status/2072356546001133630</guid>
+    </item>
+    <item>
       <title>VPPデータプレーン内で Wireguard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</title>
       <link>https://x.com/nick_mune0127/status/2072199247106392520</link>
       <description>MuNeNiCK: VPPデータプレーン内で Wireguard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</description>
@@ -262,20 +276,6 @@
       <description>りっか: @kobefs いまだったらヤマハRTX810中古ぐらいで十分なんですよね うちは wireguard とかstrongswan作ってますけど</description>
       <pubDate>Mon, 22 Jun 2026 13:34:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/7sistere2/status/2069051320368308366</guid>
-    </item>
-    <item>
-      <title>不安感が増したので各機器の前段にVPNを追加してみた 生→WARP→各機器へIP振り分け→各機器でMullvadVPNを使用 これで仮にMullvadからリークしても出てくるのはCloudflareのアドレス WireGuard 構成を切り替えればMullvadの上にMullvadを被せることも可能😎 DNSリークが赤なのはDoHを使っているせい https://t.co/aOHkaG2ebC</title>
-      <link>https://x.com/mutsukitan/status/2068994525952192677</link>
-      <description>Mutsuki: 不安感が増したので各機器の前段にVPNを追加してみた 生→WARP→各機器へIP振り分け→各機器でMullvadVPNを使用 これで仮にMullvadからリークしても出てくるのはCloudflareのアドレス WireGuard 構成を切り替えればMullvadの上にMullvadを被せることも可能😎 DNSリークが赤なのはDoHを使っているせい https://t.co/aOHkaG2ebC</description>
-      <pubDate>Mon, 22 Jun 2026 09:48:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mutsukitan/status/2068994525952192677</guid>
-    </item>
-    <item>
-      <title>WireGuard の設定、結構ムズいな。 仕組みを理解してないので、当然ではあるのだけど。</title>
-      <link>https://x.com/EXAM1319/status/2068993020008222968</link>
-      <description>craft: WireGuard の設定、結構ムズいな。 仕組みを理解してないので、当然ではあるのだけど。</description>
-      <pubDate>Mon, 22 Jun 2026 09:42:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2068993020008222968</guid>
     </item>
   </channel>
 </rss>

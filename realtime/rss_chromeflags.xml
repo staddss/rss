@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>重いページのChromeのスクロールがすごく重くて、Geminiちゃんに相談したら、 chrome :// flags でChoose ANGLE graphics backend をdefaultからD3D11にしてみろと。で、一度いじったらdefaultに戻しても高速に。なんで？ って聞いたら、よくあることらしい(w)。スクロールが重い方は一度チェックを。</title>
+      <link>https://x.com/KAWARAsan/status/2071940479911100797</link>
+      <description>KAWARA aka.ちくわソックスP: 重いページのChromeのスクロールがすごく重くて、Geminiちゃんに相談したら、 chrome :// flags でChoose ANGLE graphics backend をdefaultからD3D11にしてみろと。で、一度いじったらdefaultに戻しても高速に。なんで？ って聞いたら、よくあることらしい(w)。スクロールが重い方は一度チェックを。</description>
+      <pubDate>Tue, 30 Jun 2026 12:54:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KAWARAsan/status/2071940479911100797</guid>
+    </item>
+    <item>
       <title>chromeの右クリックメニューに「Geminiに相談」が出てきてすごく嫌だったんだけど chrome :// flags /#glic をDisabledにすると消えてくれた</title>
       <link>https://x.com/nrsw_app/status/2071775922337005845</link>
       <description>Narusawa: chromeの右クリックメニューに「Geminiに相談」が出てきてすごく嫌だったんだけど chrome :// flags /#glic をDisabledにすると消えてくれた</description>
@@ -206,13 +213,6 @@
       <description>マッシュルーム: 何かの表示にEnableにした chrome :// flags /#enable-experimental-web-platform-features をDisabledにしたら解消したかも…？</description>
       <pubDate>Tue, 02 Jun 2026 19:57:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mushroom080/status/2061899995654299713</guid>
-    </item>
-    <item>
-      <title>またSTATUS_ACCESS_VIOLATION頻発してたけど chrome : flags のExperimental Web Platform features変えたら治った</title>
-      <link>https://x.com/sasliwer/status/2061425960399028719</link>
-      <description>sas: またSTATUS_ACCESS_VIOLATION頻発してたけど chrome : flags のExperimental Web Platform features変えたら治った</description>
-      <pubDate>Mon, 01 Jun 2026 12:33:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sasliwer/status/2061425960399028719</guid>
     </item>
     <item>
       <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>

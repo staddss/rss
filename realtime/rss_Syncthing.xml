@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>https://t.co/9sbm6k3JjF こりゃ困りましたね🤔 AndroidのVMを立てて、泥VMに Syncthing で転送してバックアップする？</title>
+      <link>https://x.com/shigetoroku1010/status/2072155221544026419</link>
+      <description>重藤 六🐸ガジェットブロガー: https://t.co/9sbm6k3JjF こりゃ困りましたね🤔 AndroidのVMを立てて、泥VMに Syncthing で転送してバックアップする？</description>
+      <pubDate>Wed, 01 Jul 2026 03:07:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2072155221544026419</guid>
+    </item>
+    <item>
       <title>まだXigmaNASの Syncthing と格闘中 たぶんコマンドスクリプトで頑張ってコンフィグディレクトリをサルベージするしかないかな</title>
       <link>https://x.com/kazkuro/status/2071959705698947187</link>
       <description>kazkuro: ★: まだXigmaNASの Syncthing と格闘中 たぶんコマンドスクリプトで頑張ってコンフィグディレクトリをサルベージするしかないかな</description>
@@ -269,13 +276,6 @@
       <description>北光社: Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</description>
       <pubDate>Tue, 09 Jun 2026 14:30:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064354365167882303</guid>
-    </item>
-    <item>
-      <title>Syncthing はaptでインストールできるけど、Androidのストア版は更新止まってるから Syncthing -ForkをF-Droid版かgithubからAPK拾ってきてね。F-Droidがおすすめだよ！（そしてF-Droidで入れた）</title>
-      <link>https://x.com/Hokko_sha/status/2064353675657761227</link>
-      <description>北光社: Syncthing はaptでインストールできるけど、Androidのストア版は更新止まってるから Syncthing -ForkをF-Droid版かgithubからAPK拾ってきてね。F-Droidがおすすめだよ！（そしてF-Droidで入れた）</description>
-      <pubDate>Tue, 09 Jun 2026 14:27:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064353675657761227</guid>
     </item>
   </channel>
 </rss>

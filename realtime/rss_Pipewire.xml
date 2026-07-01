@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ArchLinux 2026.07.01続き Proxmoxで ArchLinux 2026.07.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加,KdeError *2 縮小表示 *3 hyprland.confError *4 pipewire 、--skip-version-checkで ま、OK〜😅 https://t.co/AWjACnKwbn</title>
+      <link>https://x.com/markun8633/status/2072397059966243246</link>
+      <description>まーくん: ArchLinux 2026.07.01続き Proxmoxで ArchLinux 2026.07.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加,KdeError *2 縮小表示 *3 hyprland.confError *4 pipewire 、--skip-version-checkで ま、OK〜😅 https://t.co/AWjACnKwbn</description>
+      <pubDate>Wed, 01 Jul 2026 19:08:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun8633/status/2072397059966243246</guid>
+    </item>
+    <item>
       <title>PipeWire でピッチシフト仮想マイクを作る https://t.co/HuHhhX7IgQ 書いた！</title>
       <link>https://x.com/vipper36/status/2071829065603178585</link>
       <description>やつで@世の中研究: PipeWire でピッチシフト仮想マイクを作る https://t.co/HuHhhX7IgQ 書いた！</description>
@@ -101,34 +108,6 @@
       <description>M.Futakawa: PipeWire をじんわり理解してきた ノードを各アプリケーションが自由に作れるからWindowsの感覚で考えると混乱する</description>
       <pubDate>Sat, 06 Jun 2026 08:52:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fm_fata_morgana/status/2063182177215623195</guid>
-    </item>
-    <item>
-      <title>ArchLinux 2026.06.01続き Proxmoxで ArchLinux 2026.06.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで OKですね〜😅 https://t.co/PGiysUjj1H</title>
-      <link>https://x.com/markun8633/status/2061535344991068243</link>
-      <description>まーくん: ArchLinux 2026.06.01続き Proxmoxで ArchLinux 2026.06.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示追加、 ブラウザ、レスOK *1 konsole追加 *2 縮小表示 *3 hyprland.conf変更 us→jp *4 pipewire 、--skip-version-checkで OKですね〜😅 https://t.co/PGiysUjj1H</description>
-      <pubDate>Mon, 01 Jun 2026 19:48:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/markun8633/status/2061535344991068243</guid>
-    </item>
-    <item>
-      <title>今のところこのパッチが Pipewire で頻発するout of buffers問題を解決してくれるのでは、と希望を持っています。まだビルドしてないけど。 https://t.co/nlHXqO4ohi</title>
-      <link>https://x.com/nobuto_m/status/2061479037667807555</link>
-      <description>Nobuto Murata: 今のところこのパッチが Pipewire で頻発するout of buffers問題を解決してくれるのでは、と希望を持っています。まだビルドしてないけど。 https://t.co/nlHXqO4ohi</description>
-      <pubDate>Mon, 01 Jun 2026 16:04:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nobuto_m/status/2061479037667807555</guid>
-    </item>
-    <item>
-      <title>Linux Mint の Hypnotix で音が出なくなったので、pavucontrol を入れて、設定を見たら、音量が x だった。そこを開けたら音が出た。 ~/.config/mpv/mpv.conf で明示的に PipeWire を指定しておく。</title>
-      <link>https://x.com/sc_ri66/status/2061428840799609208</link>
-      <description>scr: Linux Mint の Hypnotix で音が出なくなったので、pavucontrol を入れて、設定を見たら、音量が x だった。そこを開けたら音が出た。 ~/.config/mpv/mpv.conf で明示的に PipeWire を指定しておく。</description>
-      <pubDate>Mon, 01 Jun 2026 12:45:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sc_ri66/status/2061428840799609208</guid>
-    </item>
-    <item>
-      <title>Flatpak版の PipeWire をインストすればバージョンを上げられるのだが、巨大なKDE環境もついてくるので止めた。 ※ OS周りの肥大化は全体のパフォーマンス低下につながる。なにしろ、パワーが足りないミニPCなので。</title>
-      <link>https://x.com/duckygduck2023/status/2061397249960354084</link>
-      <description>あひる2023: Flatpak版の PipeWire をインストすればバージョンを上げられるのだが、巨大なKDE環境もついてくるので止めた。 ※ OS周りの肥大化は全体のパフォーマンス低下につながる。なにしろ、パワーが足りないミニPCなので。</description>
-      <pubDate>Mon, 01 Jun 2026 10:39:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/duckygduck2023/status/2061397249960354084</guid>
     </item>
   </channel>
 </rss>
