@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>いい話。個人的には共感します。とはいえ大学教育において学生さんたちのPCのサポートは結構大変なのです。今年から私の講義の演習は codespaces というかコンテナ環境でやることにしました。PCの環境依存のトラブルはゼロになりました（当たり前）。 https://t.co/FTCnToyXFf</title>
+      <link>https://x.com/nelnel/status/2071979791553831114</link>
+      <description>Kenji Hisazumi: いい話。個人的には共感します。とはいえ大学教育において学生さんたちのPCのサポートは結構大変なのです。今年から私の講義の演習は codespaces というかコンテナ環境でやることにしました。PCの環境依存のトラブルはゼロになりました（当たり前）。 https://t.co/FTCnToyXFf</description>
+      <pubDate>Tue, 30 Jun 2026 15:30:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nelnel/status/2071979791553831114</guid>
+    </item>
+    <item>
       <title>高速でプログラ厶書く時はずっとINSERTモードなのでvimである必要がないと判断し Codespaces とVSCodeに乗り換えた、vim触る機会がとても減って悲しい</title>
       <link>https://x.com/serna37serna37/status/2071949239488532584</link>
       <description>さーな: 高速でプログラ厶書く時はずっとINSERTモードなのでvimである必要がないと判断し Codespaces とVSCodeに乗り換えた、vim触る機会がとても減って悲しい</description>
@@ -269,13 +276,6 @@
       <description>かずき(Kazuki Ota) | CSA &amp; Evangelist at MS: DTSのローカル開発時にタスクハブがダッシュボードに自動登録されない問題突破！！GitHub Codespaces は駄目そう</description>
       <pubDate>Sat, 06 Jun 2026 07:20:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/okazuki/status/2063159134502232200</guid>
-    </item>
-    <item>
-      <title>国立国会図書館の「NDLOCR-Lite」を Codespaces で動かしてみたら、縦書きのパッケージ文字までめちゃくちゃ綺麗に読み取れて感動…！ 「ニンニク」が「ニソニク」になってるのだけちょっと愛嬌あるけど、この精度がローカルでサクッと動くの凄い。 #noderedjp #linedc https://t.co/g24Mgxuppb</title>
-      <link>https://x.com/tairasakaki_jp/status/2063142555043430601</link>
-      <description>榊原平 / Taira Sakakibara: 国立国会図書館の「NDLOCR-Lite」を Codespaces で動かしてみたら、縦書きのパッケージ文字までめちゃくちゃ綺麗に読み取れて感動…！ 「ニンニク」が「ニソニク」になってるのだけちょっと愛嬌あるけど、この精度がローカルでサクッと動くの凄い。 #noderedjp #linedc https://t.co/g24Mgxuppb</description>
-      <pubDate>Sat, 06 Jun 2026 06:14:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tairasakaki_jp/status/2063142555043430601</guid>
     </item>
   </channel>
 </rss>

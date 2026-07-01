@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>まだXigmaNASの Syncthing と格闘中 たぶんコマンドスクリプトで頑張ってコンフィグディレクトリをサルベージするしかないかな</title>
+      <link>https://x.com/kazkuro/status/2071959705698947187</link>
+      <description>kazkuro: ★: まだXigmaNASの Syncthing と格闘中 たぶんコマンドスクリプトで頑張ってコンフィグディレクトリをサルベージするしかないかな</description>
+      <pubDate>Tue, 30 Jun 2026 14:11:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kazkuro/status/2071959705698947187</guid>
+    </item>
+    <item>
       <title>Proxmox VE on N5 Pro NASの用途 ・PVEホストでSMBとZFSとRsyncを動かしNAS化 ・LXC Syncthing でPCや泥スマホのデータを1方向同期 ・ラデ890M＋Lemonade LXCでG4 26B A4Bを動かす ・AgentDVRなどで監視カメラの保存先として ・fnOSやWindows11を動かして遊ぶ PVE Helper Scriptが便利すぎて神 https://t.co/SoBY5fDYpN</title>
       <link>https://x.com/shigetoroku1010/status/2071857170967388528</link>
       <description>重藤 六🐸ガジェットブロガー: Proxmox VE on N5 Pro NASの用途 ・PVEホストでSMBとZFSとRsyncを動かしNAS化 ・LXC Syncthing でPCや泥スマホのデータを1方向同期 ・ラデ890M＋Lemonade LXCでG4 26B A4Bを動かす ・AgentDVRなどで監視カメラの保存先として ・fnOSやWindows11を動かして遊ぶ PVE Helper Scriptが便利すぎて神 https://t.co/SoBY5fDYpN</description>
@@ -269,13 +276,6 @@
       <description>北光社: Syncthing はaptでインストールできるけど、Androidのストア版は更新止まってるから Syncthing -ForkをF-Droid版かgithubからAPK拾ってきてね。F-Droidがおすすめだよ！（そしてF-Droidで入れた）</description>
       <pubDate>Tue, 09 Jun 2026 14:27:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064353675657761227</guid>
-    </item>
-    <item>
-      <title>ChatGPTに教わりながら、PC2台スマホ2台のObsidianの保管庫を SyncThing で同期するというのを2時間かけてやってみた。 なかなかいい感じ。 Github経由での同期は毎回同期操作するのが面倒で心折れたけど、こっちならObsidian使いこなせるかもしれない。</title>
-      <link>https://x.com/Hokko_sha/status/2064351446964068841</link>
-      <description>北光社: ChatGPTに教わりながら、PC2台スマホ2台のObsidianの保管庫を SyncThing で同期するというのを2時間かけてやってみた。 なかなかいい感じ。 Github経由での同期は毎回同期操作するのが面倒で心折れたけど、こっちならObsidian使いこなせるかもしれない。</description>
-      <pubDate>Tue, 09 Jun 2026 14:18:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064351446964068841</guid>
     </item>
   </channel>
 </rss>

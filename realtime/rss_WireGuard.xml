@@ -5,11 +5,53 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VPPデータプレーン内で Wireguard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</title>
+      <link>https://x.com/nick_mune0127/status/2072199247106392520</link>
+      <description>MuNeNiCK: VPPデータプレーン内で Wireguard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</description>
+      <pubDate>Wed, 01 Jul 2026 06:02:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nick_mune0127/status/2072199247106392520</guid>
+    </item>
+    <item>
+      <title>VPPデータプレーン内で WireGuard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</title>
+      <link>https://x.com/nick_mune0127/status/2072193640387256399</link>
+      <description>MuNeNiCK: VPPデータプレーン内で WireGuard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</description>
+      <pubDate>Wed, 01 Jul 2026 05:40:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nick_mune0127/status/2072193640387256399</guid>
+    </item>
+    <item>
+      <title>おうちには Wireguard でつなぎます</title>
+      <link>https://x.com/a636c6566z/status/2072169514834543025</link>
+      <description>物体X: おうちには Wireguard でつなぎます</description>
+      <pubDate>Wed, 01 Jul 2026 04:04:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/a636c6566z/status/2072169514834543025</guid>
+    </item>
+    <item>
+      <title>@jj1lfc @OrangeMorishita お疲れ様でした! 静岡～東京は4ms～6msです（TOKAI区間では2ms）。10msは大きいですが、なにかありますか？昔、TOKAIのBフレッツを使っていたときで、6ms以下でした。 wireguard をはるにしても、大きいような。</title>
+      <link>https://x.com/tomocha0/status/2072159734908813752</link>
+      <description>tomocha(とも ちゃ)@Job searching/無職＆就職活動中&amp;パパ活中: @jj1lfc @OrangeMorishita お疲れ様でした! 静岡～東京は4ms～6msです（TOKAI区間では2ms）。10msは大きいですが、なにかありますか？昔、TOKAIのBフレッツを使っていたときで、6ms以下でした。 wireguard をはるにしても、大きいような。</description>
+      <pubDate>Wed, 01 Jul 2026 03:25:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomocha0/status/2072159734908813752</guid>
+    </item>
+    <item>
+      <title>Userspaceで動作する Wireguard https://t.co/RhDHTcvh9g</title>
+      <link>https://x.com/nick_mune0127/status/2072112113825517655</link>
+      <description>MuNeNiCK: Userspaceで動作する Wireguard https://t.co/RhDHTcvh9g</description>
+      <pubDate>Wed, 01 Jul 2026 00:16:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nick_mune0127/status/2072112113825517655</guid>
+    </item>
+    <item>
       <title>@OrangeMorishita これは Wireguard のバグですか？それともシステム側のバグ？</title>
       <link>https://x.com/JonandJohns/status/2071934196046868569</link>
       <description>YuYasuda: @OrangeMorishita これは Wireguard のバグですか？それともシステム側のバグ？</description>
       <pubDate>Tue, 30 Jun 2026 12:29:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JonandJohns/status/2071934196046868569</guid>
+    </item>
+    <item>
+      <title>@OrangeMorishita WireGuard の約2分（120秒）毎に行うバックグラウンドで自動鍵交換の仕様による「 鍵（キーペア）の不整合」か「NATのセッション維持の競合」ぽいね。 こんなの見つかったよ 「6 Timers &amp; Stateless UX」 https://t.co/HN0UjaBrDA</title>
+      <link>https://x.com/higetomo/status/2071932698097332603</link>
+      <description>Tomoharu Sato: @OrangeMorishita WireGuard の約2分（120秒）毎に行うバックグラウンドで自動鍵交換の仕様による「 鍵（キーペア）の不整合」か「NATのセッション維持の競合」ぽいね。 こんなの見つかったよ 「6 Timers &amp; Stateless UX」 https://t.co/HN0UjaBrDA</description>
+      <pubDate>Tue, 30 Jun 2026 12:23:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/higetomo/status/2071932698097332603</guid>
     </item>
     <item>
       <title>@OrangeMorishita 本件． Wireguard の鍵を再生成することで直りました 明日は快適だと思います！</title>
@@ -234,48 +276,6 @@
       <description>craft: WireGuard の設定、結構ムズいな。 仕組みを理解してないので、当然ではあるのだけど。</description>
       <pubDate>Mon, 22 Jun 2026 09:42:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/EXAM1319/status/2068993020008222968</guid>
-    </item>
-    <item>
-      <title>海外ホテルで日本のテレビを見る方法 GL.iNetルータでwifiAP- wireguard -wifiクライアント-ホテルwifi のブリッジを作って(GUIで可能)日本の自宅へVPN接続 FirestickにNHKプラスとかのアプリ入れる ルータにwifi接続する Firestick本体でVPN貼ってもうまくいかなかったので要検討 https://t.co/pK04rmdH2e</title>
-      <link>https://x.com/Natsu_umidigi/status/2068636744279548400</link>
-      <description>Natsu🐷: 海外ホテルで日本のテレビを見る方法 GL.iNetルータでwifiAP- wireguard -wifiクライアント-ホテルwifi のブリッジを作って(GUIで可能)日本の自宅へVPN接続 FirestickにNHKプラスとかのアプリ入れる ルータにwifi接続する Firestick本体でVPN貼ってもうまくいかなかったので要検討 https://t.co/pK04rmdH2e</description>
-      <pubDate>Sun, 21 Jun 2026 10:06:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Natsu_umidigi/status/2068636744279548400</guid>
-    </item>
-    <item>
-      <title>Wireguard のトンネルインターフェースをVBAUDIOのVBANの通信先として直接指定できない softetherの時はできてたからインターフェースがトンネルだとダメなのか</title>
-      <link>https://x.com/Exass/status/2068611434595180863</link>
-      <description>ゑくさす: Wireguard のトンネルインターフェースをVBAUDIOのVBANの通信先として直接指定できない softetherの時はできてたからインターフェースがトンネルだとダメなのか</description>
-      <pubDate>Sun, 21 Jun 2026 08:26:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Exass/status/2068611434595180863</guid>
-    </item>
-    <item>
-      <title>Wireguard のバッテリー消費が妙に高いのが気になる、火曜高いし若干熱持つと思ってKeeparriveを無しに変えたがあまり…うちだけだろうか https://t.co/iL0GCEqcn2</title>
-      <link>https://x.com/s_z_hina/status/2068332029943681166</link>
-      <description>すずひな: Wireguard のバッテリー消費が妙に高いのが気になる、火曜高いし若干熱持つと思ってKeeparriveを無しに変えたがあまり…うちだけだろうか https://t.co/iL0GCEqcn2</description>
-      <pubDate>Sat, 20 Jun 2026 13:55:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/s_z_hina/status/2068332029943681166</guid>
-    </item>
-    <item>
-      <title>Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/RYldCGLAFz #zenn</title>
-      <link>https://x.com/green__go/status/2068303516771467659</link>
-      <description>グリンゴ: Minecraft自宅鯖がDDNSからKubernetesと WireGuard に進化した話｜アレク https://t.co/RYldCGLAFz #zenn</description>
-      <pubDate>Sat, 20 Jun 2026 12:02:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/green__go/status/2068303516771467659</guid>
-    </item>
-    <item>
-      <title>OPNsense、単純なPPPoEのアクセスルータとして、FW/DNS/DHCP/NAPT/NTP…etcをやらせる分には安定性に問題無さそうということは分かったので、あとは本命のVPN( WireGuard )を試しましょう。 DDNSはどうしましょうかね。 YAMAHAルータでは公式(ネットボランチDNSサービス)にお任せしてたし。</title>
-      <link>https://x.com/EXAM1319/status/2068295847947940133</link>
-      <description>craft: OPNsense、単純なPPPoEのアクセスルータとして、FW/DNS/DHCP/NAPT/NTP…etcをやらせる分には安定性に問題無さそうということは分かったので、あとは本命のVPN( WireGuard )を試しましょう。 DDNSはどうしましょうかね。 YAMAHAルータでは公式(ネットボランチDNSサービス)にお任せしてたし。</description>
-      <pubDate>Sat, 20 Jun 2026 11:32:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2068295847947940133</guid>
-    </item>
-    <item>
-      <title>MillenVPNは接続エラー（IKEv2）が出ても WireGuard に切替えれば即解決。TVer・ABEMAも視聴OKで速度34.6Mbps。申し込みから接続まで画像付きで解説👇 #MillenVPN https://t.co/TpP7Eu6Q6A</title>
-      <link>https://x.com/chloe_blog_2021/status/2068275425600848301</link>
-      <description>くろ絵: MillenVPNは接続エラー（IKEv2）が出ても WireGuard に切替えれば即解決。TVer・ABEMAも視聴OKで速度34.6Mbps。申し込みから接続まで画像付きで解説👇 #MillenVPN https://t.co/TpP7Eu6Q6A</description>
-      <pubDate>Sat, 20 Jun 2026 10:11:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chloe_blog_2021/status/2068275425600848301</guid>
     </item>
   </channel>
 </rss>
