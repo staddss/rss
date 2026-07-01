@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%22</link>
     <description>Latest search results for '&quot;Chromebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ただ、 Chromebook はGoogleがガチガチのHW仕様にしてるっぽく、Linuxだと映像・音声出力周りでトラブルに遭遇した とりあえずLinuxMintのxfce版でデュアルディスプレイOK 音は本体スピーカーからしか出ず、ALSAでSyntax 7が解釈できないのが原因だったので6に設定変えることでイヤホン/HDMI出力もOK https://t.co/BtJMVvVZN2</title>
+      <link>https://x.com/Mabo___PP/status/2072363408301998445</link>
+      <description>まーぼー: ただ、 Chromebook はGoogleがガチガチのHW仕様にしてるっぽく、Linuxだと映像・音声出力周りでトラブルに遭遇した とりあえずLinuxMintのxfce版でデュアルディスプレイOK 音は本体スピーカーからしか出ず、ALSAでSyntax 7が解釈できないのが原因だったので6に設定変えることでイヤホン/HDMI出力もOK https://t.co/BtJMVvVZN2</description>
+      <pubDate>Wed, 01 Jul 2026 16:55:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Mabo___PP/status/2072363408301998445</guid>
+    </item>
+    <item>
+      <title>中古 Chromebook なかなかいいな まず中古が安い、このくらいのマシンが1〜1.5万ほどで手にはいる ・Intel N100 (4コア 3.4Ghz) ・RAM 4GB ・SSD 64-128GB 有志が開発したファームを導入することでUSBブートができるようになり、ChromeOS→Windows、Linuxへの変更ができる つまり格安ノートPCに化ける</title>
+      <link>https://x.com/Mabo___PP/status/2072361292548178328</link>
+      <description>まーぼー: 中古 Chromebook なかなかいいな まず中古が安い、このくらいのマシンが1〜1.5万ほどで手にはいる ・Intel N100 (4コア 3.4Ghz) ・RAM 4GB ・SSD 64-128GB 有志が開発したファームを導入することでUSBブートができるようになり、ChromeOS→Windows、Linuxへの変更ができる つまり格安ノートPCに化ける</description>
+      <pubDate>Wed, 01 Jul 2026 16:46:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Mabo___PP/status/2072361292548178328</guid>
+    </item>
+    <item>
+      <title>そういえば、外での執筆用に ChromeBook を使ってるんだけど これめちゃくちゃ良いんだよね 何がいいって、それ以外に何も出来ないから集中できる 家で書いてるとどうしてもね……集中できない</title>
+      <link>https://x.com/Atynoux_Amaki/status/2072350544497348664</link>
+      <description>天樹: そういえば、外での執筆用に ChromeBook を使ってるんだけど これめちゃくちゃ良いんだよね 何がいいって、それ以外に何も出来ないから集中できる 家で書いてるとどうしてもね……集中できない</description>
+      <pubDate>Wed, 01 Jul 2026 16:04:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Atynoux_Amaki/status/2072350544497348664</guid>
+    </item>
+    <item>
       <title>@manabu_U021 そこは多分WindowsかMacにしておいたほうが幸せだと思う Chromebook はSJIS使えないし</title>
       <link>https://x.com/alexia_ayatsuki/status/2072337147508756732</link>
       <description>ギル.rh@トートバッグ集めの人: @manabu_U021 そこは多分WindowsかMacにしておいたほうが幸せだと思う Chromebook はSJIS使えないし</description>
@@ -66,13 +87,6 @@
       <description>mizoyuzu: @monruho &gt;&gt; 代々みんなUSBの中に書類を入れて、PCに指しっぱにして作業する 弊校まさにこれですね… レンタル鯖にNextcloudとか乗っけてやらせてるという意味で経過途中ではありますが あとプリンターは推奨 Chromebook なのが本当に厄介で…. Bluetooth PAN使えないですし(Google Cloud Printが悔やまれる)</description>
       <pubDate>Wed, 01 Jul 2026 13:31:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mizoserver/status/2072312039729709550</guid>
-    </item>
-    <item>
-      <title>キオスクやサイネージでもLinuxに取って代わられているし、ローエンドは ChromeBook 、ハイエンドはMacBookに蚕食されてるし、当のMicrosoftがWindows保たなくてもいい方向にピボットしてるし https://t.co/O4p7qs9Wrj</title>
-      <link>https://x.com/dankogai/status/2072308603931996632</link>
-      <description>Dan Kogai (小飼 弾): キオスクやサイネージでもLinuxに取って代わられているし、ローエンドは ChromeBook 、ハイエンドはMacBookに蚕食されてるし、当のMicrosoftがWindows保たなくてもいい方向にピボットしてるし https://t.co/O4p7qs9Wrj</description>
-      <pubDate>Wed, 01 Jul 2026 13:17:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dankogai/status/2072308603931996632</guid>
     </item>
     <item>
       <title>Updated! Windows 専用 2D タイトルがだいたい動くようになってきた。サウンドの音割れも解消できたようだ。 Chromebook で GeForce NOW 非対応な Steam のゲームがしたい！ https://t.co/B82GPd2lQJ</title>
@@ -262,27 +276,6 @@
       <description>Café_royal@I'm the problem: chromebook 買わないとかなぁ…ははは金がー</description>
       <pubDate>Wed, 01 Jul 2026 08:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gimlet_i/status/2072240687370981826</guid>
-    </item>
-    <item>
-      <title>HPのタッチ Chromebook 。通勤中にメモ取るのにええかもな。俺の古いやつより軽そう。 HKK04 ☆タッチ液晶 12世代 i5 1245U 16GB 256GB NV https://t.co/nGmQEHRzgN</title>
-      <link>https://x.com/AsaRanReset/status/2072238299557818523</link>
-      <description>朝ランでリセット: HPのタッチ Chromebook 。通勤中にメモ取るのにええかもな。俺の古いやつより軽そう。 HKK04 ☆タッチ液晶 12世代 i5 1245U 16GB 256GB NV https://t.co/nGmQEHRzgN</description>
-      <pubDate>Wed, 01 Jul 2026 08:38:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AsaRanReset/status/2072238299557818523</guid>
-    </item>
-    <item>
-      <title>【2026年6月】 Chromebook ニュースまとめ。ASUS CM14 / CM15 の国内発売、今後の ChromeOS バージョン採番変更など https://t.co/BNrg6r3cth # Chromebook</title>
-      <link>https://x.com/Helen_Tech/status/2072237836460519629</link>
-      <description>おむらまさひで(HelenTech): 【2026年6月】 Chromebook ニュースまとめ。ASUS CM14 / CM15 の国内発売、今後の ChromeOS バージョン採番変更など https://t.co/BNrg6r3cth # Chromebook</description>
-      <pubDate>Wed, 01 Jul 2026 08:36:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2072237836460519629</guid>
-    </item>
-    <item>
-      <title>私が #Amazonプライムデーでおトクに買いたい家具・家電 は【 Chromebook 】 👇お目当ての商品があれば #Amazon の商品ページを記載 #Amazonプライムデー で #dポイント がたまる！つかえる！ @dpoint_club で最大5️⃣万pt当たるキャンペーン毎日開催中🐥</title>
-      <link>https://x.com/mdpmdcm/status/2072230632424620498</link>
-      <description>m: 私が #Amazonプライムデーでおトクに買いたい家具・家電 は【 Chromebook 】 👇お目当ての商品があれば #Amazon の商品ページを記載 #Amazonプライムデー で #dポイント がたまる！つかえる！ @dpoint_club で最大5️⃣万pt当たるキャンペーン毎日開催中🐥</description>
-      <pubDate>Wed, 01 Jul 2026 08:07:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mdpmdcm/status/2072230632424620498</guid>
     </item>
   </channel>
 </rss>
