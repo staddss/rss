@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>書いてみました。これのおかげで、久しぶりにObsidianを使えています &gt; Syncthing でサーバー上のフォルダをローカルPCと同期する｜からあげ https://t.co/J05VOIGtai #zenn</title>
+      <link>https://x.com/karaage0703/status/2072335853440090297</link>
+      <description>からあげ: 書いてみました。これのおかげで、久しぶりにObsidianを使えています &gt; Syncthing でサーバー上のフォルダをローカルPCと同期する｜からあげ https://t.co/J05VOIGtai #zenn</description>
+      <pubDate>Wed, 01 Jul 2026 15:05:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/karaage0703/status/2072335853440090297</guid>
+    </item>
+    <item>
       <title>https://t.co/9sbm6k3JjF こりゃ困りましたね🤔 AndroidのVMを立てて、泥VMに Syncthing で転送してバックアップする？</title>
       <link>https://x.com/shigetoroku1010/status/2072155221544026419</link>
       <description>重藤 六🐸ガジェットブロガー: https://t.co/9sbm6k3JjF こりゃ困りましたね🤔 AndroidのVMを立てて、泥VMに Syncthing で転送してバックアップする？</description>
@@ -269,13 +276,6 @@
       <description>北光社: 同じネットワーク内では10秒ぐらいで編集が反映される。 Obsidianのついでに Syncthing でのファイル共有専用のフォルダをもう1個つくってしまった。 Googleドライブ経由しなくてもスマホのGPXログを簡単にPCに持ってこれてすばらしい。</description>
       <pubDate>Tue, 09 Jun 2026 14:32:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064354902747602947</guid>
-    </item>
-    <item>
-      <title>Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</title>
-      <link>https://x.com/Hokko_sha/status/2064354365167882303</link>
-      <description>北光社: Syncthing は自動付番される長ったらしいデバイスIDを手打ちするのか？！と思ったら、同じネットワークにいる他端末が候補として表示される仕様だった。 Android側で更新承認するのに毎回アプリからWeb GUIというのを開かないと進まないのが面倒。アプリで完結してよ。</description>
-      <pubDate>Tue, 09 Jun 2026 14:30:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064354365167882303</guid>
     </item>
   </channel>
 </rss>
