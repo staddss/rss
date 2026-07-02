@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</title>
+      <link>https://x.com/yamagu09/status/2072628247817568524</link>
+      <description>やまぐちだいすけ ％ 足元にはご注意を: Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</description>
+      <pubDate>Thu, 02 Jul 2026 10:27:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamagu09/status/2072628247817568524</guid>
+    </item>
+    <item>
+      <title>@daemon_hand 自宅サーバーからquartzでスマホ配信、いいですね。自分は書いた瞬間の検索インデックスを外でも走らせたくて、 Syncthing でNASに投げてCloudflare</title>
+      <link>https://x.com/simplememofast/status/2072509038500491730</link>
+      <description>Obsidian連携シンプルメモ: @daemon_hand 自宅サーバーからquartzでスマホ配信、いいですね。自分は書いた瞬間の検索インデックスを外でも走らせたくて、 Syncthing でNASに投げてCloudflare</description>
+      <pubDate>Thu, 02 Jul 2026 02:33:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/simplememofast/status/2072509038500491730</guid>
+    </item>
+    <item>
       <title>書いてみました。これのおかげで、久しぶりにObsidianを使えています &gt; Syncthing でサーバー上のフォルダをローカルPCと同期する｜からあげ https://t.co/J05VOIGtai #zenn</title>
       <link>https://x.com/karaage0703/status/2072335853440090297</link>
       <description>からあげ: 書いてみました。これのおかげで、久しぶりにObsidianを使えています &gt; Syncthing でサーバー上のフォルダをローカルPCと同期する｜からあげ https://t.co/J05VOIGtai #zenn</description>
@@ -262,20 +276,6 @@
       <description>青: syncthing 導入したいけどうまくいかない</description>
       <pubDate>Wed, 10 Jun 2026 02:50:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/KSin44/status/2064540760939307159</guid>
-    </item>
-    <item>
-      <title>Syncthing の環境整えた。Onedriveの代わりに使ってみる</title>
-      <link>https://x.com/madje301/status/2064388495314137243</link>
-      <description>madje: Syncthing の環境整えた。Onedriveの代わりに使ってみる</description>
-      <pubDate>Tue, 09 Jun 2026 16:45:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/madje301/status/2064388495314137243</guid>
-    </item>
-    <item>
-      <title>同じネットワーク内では10秒ぐらいで編集が反映される。 Obsidianのついでに Syncthing でのファイル共有専用のフォルダをもう1個つくってしまった。 Googleドライブ経由しなくてもスマホのGPXログを簡単にPCに持ってこれてすばらしい。</title>
-      <link>https://x.com/Hokko_sha/status/2064354902747602947</link>
-      <description>北光社: 同じネットワーク内では10秒ぐらいで編集が反映される。 Obsidianのついでに Syncthing でのファイル共有専用のフォルダをもう1個つくってしまった。 Googleドライブ経由しなくてもスマホのGPXログを簡単にPCに持ってこれてすばらしい。</description>
-      <pubDate>Tue, 09 Jun 2026 14:32:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064354902747602947</guid>
     </item>
   </channel>
 </rss>
