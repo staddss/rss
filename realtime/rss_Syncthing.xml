@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</title>
+      <link>https://x.com/karaage0703/status/2072636593920475271</link>
+      <description>からあげ: 【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</description>
+      <pubDate>Thu, 02 Jul 2026 11:00:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/karaage0703/status/2072636593920475271</guid>
+    </item>
+    <item>
       <title>Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</title>
       <link>https://x.com/yamagu09/status/2072628247817568524</link>
       <description>やまぐちだいすけ ％ 足元にはご注意を: Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</description>
@@ -269,13 +276,6 @@
       <description>もてぃ💪Engineer: はい、天才。 自宅のPCとスマホのObsidianをtailscale * Syncthing （ Syncthing -Fork）を使って自動同期させた。 これで気軽にスマホでメモ取れるようになった。 整理はPCでやればいいしな。</description>
       <pubDate>Thu, 11 Jun 2026 06:57:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nil_motty93/status/2064965130811834861</guid>
-    </item>
-    <item>
-      <title>syncthing 導入したいけどうまくいかない</title>
-      <link>https://x.com/KSin44/status/2064540760939307159</link>
-      <description>青: syncthing 導入したいけどうまくいかない</description>
-      <pubDate>Wed, 10 Jun 2026 02:50:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KSin44/status/2064540760939307159</guid>
     </item>
   </channel>
 </rss>

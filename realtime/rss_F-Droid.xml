@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>キモキモ。 What We Talk About When We Talk About Malware | F - Droid - 自由かつオープンソースのAndroidアプリ・リポジトリ https://t.co/SJJoqFk2G8</title>
+      <link>https://x.com/kinneko/status/2072863778107171083</link>
+      <description>kinneko: キモキモ。 What We Talk About When We Talk About Malware | F - Droid - 自由かつオープンソースのAndroidアプリ・リポジトリ https://t.co/SJJoqFk2G8</description>
+      <pubDate>Fri, 03 Jul 2026 02:03:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kinneko/status/2072863778107171083</guid>
+    </item>
+    <item>
       <title>F - Droid がGoogleのAndroid Developer Verification(ADV)を批判。全開発者に中央登録を課すADVは再犯を遅らせる程度でToSに定義もないと指摘。9/30にブラジル等4カ国から施行、開かれたアプリ配布が脅かされると主張 / What We Talk About When We Talk About Malware https://t.co/XJicuRkFuw</title>
       <link>https://x.com/__su888/status/2072804004732735989</link>
       <description>su8 / denchu: F - Droid がGoogleのAndroid Developer Verification(ADV)を批判。全開発者に中央登録を課すADVは再犯を遅らせる程度でToSに定義もないと指摘。9/30にブラジル等4カ国から施行、開かれたアプリ配布が脅かされると主張 / What We Talk About When We Talk About Malware https://t.co/XJicuRkFuw</description>
       <pubDate>Thu, 02 Jul 2026 22:06:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__su888/status/2072804004732735989</guid>
+    </item>
+    <item>
+      <title>これはマルウェア名の話ではなく、OS信頼境界を誰が握るかの話だ。 F - Droid がGoogleのAndroid Developer Verificationを「malware」と呼び、HN274/122コメントまで燃えている。対象はAndroid 8以上、 F - Droid 側は最大40億台に影響と主張。</title>
+      <link>https://x.com/connect24h/status/2072679363330592859</link>
+      <description>connect24h: これはマルウェア名の話ではなく、OS信頼境界を誰が握るかの話だ。 F - Droid がGoogleのAndroid Developer Verificationを「malware」と呼び、HN274/122コメントまで燃えている。対象はAndroid 8以上、 F - Droid 側は最大40億台に影響と主張。</description>
+      <pubDate>Thu, 02 Jul 2026 13:50:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/connect24h/status/2072679363330592859</guid>
     </item>
     <item>
       <title>@GuGuan123 @mubeitech F - Droid публикует только OSS и сам выполняет build apk. F - Droid はオープンソースソフトウェアのみを公開し、APKも独自にビルドします。</title>
@@ -262,20 +276,6 @@
       <description>北光社: Syncthingはaptでインストールできるけど、Androidのストア版は更新止まってるからSyncthing-Forkを F - Droid 版かgithubからAPK拾ってきてね。 F - Droid がおすすめだよ！（そして F - Droid で入れた）</description>
       <pubDate>Tue, 09 Jun 2026 14:27:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hokko_sha/status/2064353675657761227</guid>
-    </item>
-    <item>
-      <title>element x + ntfy (どっちも f - droid )で試してるけど通知テストは来るのに実際の通知は来ない ホームサーバーはまたいでないから関係ないはずだし</title>
-      <link>https://x.com/sashisashi569/status/2064239414726041969</link>
-      <description>sashisashi: element x + ntfy (どっちも f - droid )で試してるけど通知テストは来るのに実際の通知は来ない ホームサーバーはまたいでないから関係ないはずだし</description>
-      <pubDate>Tue, 09 Jun 2026 06:53:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2064239414726041969</guid>
-    </item>
-    <item>
-      <title>オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/trreRryjIb #KeepAndroidOpen</title>
-      <link>https://x.com/pato2k13/status/2064231856971849795</link>
-      <description>じゅん@: オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/trreRryjIb #KeepAndroidOpen</description>
-      <pubDate>Tue, 09 Jun 2026 06:23:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pato2k13/status/2064231856971849795</guid>
     </item>
   </channel>
 </rss>

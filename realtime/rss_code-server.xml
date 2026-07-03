@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflared: image: cloudflare/cloudflared:latest container_name: cloudflared command: tunnel --url http:// code - server :8443 --no-tls-verify restart: unless-stopped これを Code Server のyamlに書いてup -dするだけです。(dockerのログ見るとURLが発行されている)</title>
+      <link>https://x.com/WhaleOnSand/status/2072878378060054804</link>
+      <description>うみの藻屑: cloudflared: image: cloudflare/cloudflared:latest container_name: cloudflared command: tunnel --url http:// code - server :8443 --no-tls-verify restart: unless-stopped これを Code Server のyamlに書いてup -dするだけです。(dockerのログ見るとURLが発行されている)</description>
+      <pubDate>Fri, 03 Jul 2026 03:01:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/WhaleOnSand/status/2072878378060054804</guid>
+    </item>
+    <item>
+      <title>📢TechBlog新着記事の紹介🌟 Amazon EC2 で code - server + Claude Code の開発環境を構築する チームでの設定管理に便利なブラウザ用エディタ環境について、基盤となるインフラ構築からClaude Code 拡張機能の導入までをご紹介します✅ https://t.co/qNJFsIdEJE</title>
+      <link>https://x.com/techorus_inc/status/2072877733462659430</link>
+      <description>NHN テコラス【公式】: 📢TechBlog新着記事の紹介🌟 Amazon EC2 で code - server + Claude Code の開発環境を構築する チームでの設定管理に便利なブラウザ用エディタ環境について、基盤となるインフラ構築からClaude Code 拡張機能の導入までをご紹介します✅ https://t.co/qNJFsIdEJE</description>
+      <pubDate>Fri, 03 Jul 2026 02:58:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techorus_inc/status/2072877733462659430</guid>
+    </item>
+    <item>
+      <title>こないだの出張はiPadだけ持って行ってました。 構成はWindows11マシン上で立ち上げてるTailscaleとtmuxと code - server の三つです。簡単な構成図も載せているので試してみたい方は参考にしてみてください。 https://t.co/eqnKZZzTcX</title>
+      <link>https://x.com/motohasystem/status/2072594125187371212</link>
+      <description>M橋D輔キン担ラボ: こないだの出張はiPadだけ持って行ってました。 構成はWindows11マシン上で立ち上げてるTailscaleとtmuxと code - server の三つです。簡単な構成図も載せているので試してみたい方は参考にしてみてください。 https://t.co/eqnKZZzTcX</description>
+      <pubDate>Thu, 02 Jul 2026 08:12:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/motohasystem/status/2072594125187371212</guid>
+    </item>
+    <item>
       <title>あれ code - server って mcp 動かせないんだっけか？</title>
       <link>https://x.com/hawksnowlog/status/2071841939088150710</link>
       <description>hawksnowlog: あれ code - server って mcp 動かせないんだっけか？</description>
