@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Blogを作成しました ADHDエンジニアのためのバックアップ自動化ガイド：データ損失を防ぐ方法 ADHDエンジニアのバックアップ自動化：忘れがちな作業をresticや rclone 、GitHub Actionsで完全自動化し、監視・復旧手順まで含めてデータ損失リスクを実務的に低減するガイド https://t.co/hSmT0dNdOv</title>
+      <link>https://x.com/atueda/status/2072585623706468764</link>
+      <description>植田篤@Slackの人,ニンジャマスターヒロキ最後の弟子: Blogを作成しました ADHDエンジニアのためのバックアップ自動化ガイド：データ損失を防ぐ方法 ADHDエンジニアのバックアップ自動化：忘れがちな作業をresticや rclone 、GitHub Actionsで完全自動化し、監視・復旧手順まで含めてデータ損失リスクを実務的に低減するガイド https://t.co/hSmT0dNdOv</description>
+      <pubDate>Thu, 02 Jul 2026 07:38:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/atueda/status/2072585623706468764</guid>
+    </item>
+    <item>
       <title>認証なしでKestra（ワークフロー基盤）にRCEが可能なCVSS 10.0が2件。Docker環境ではホストへの侵害も。Fluentd、 rclone 、LiteLLMにもCriticalが複数あり確認推奨。</title>
       <link>https://x.com/tsumikasanedev/status/2071745937387712889</link>
       <description>つみかさね: 認証なしでKestra（ワークフロー基盤）にRCEが可能なCVSS 10.0が2件。Docker環境ではホストへの侵害も。Fluentd、 rclone 、LiteLLMにもCriticalが複数あり確認推奨。</description>

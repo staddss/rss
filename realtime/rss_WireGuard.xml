@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あれ wireguard 効かない</title>
+      <link>https://x.com/55_okamura/status/2072990256396484960</link>
+      <description>Okamura Seiya: あれ wireguard 効かない</description>
+      <pubDate>Fri, 03 Jul 2026 10:26:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/55_okamura/status/2072990256396484960</guid>
+    </item>
+    <item>
+      <title>自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</title>
+      <link>https://x.com/EXAM1319/status/2072984452821913644</link>
+      <description>craft: 自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</description>
+      <pubDate>Fri, 03 Jul 2026 10:03:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2072984452821913644</guid>
+    </item>
+    <item>
+      <title>昔から楽天のサービスを利用していて身近な会社で応援したくて株を買ってずっと保有しているのだが、やっと今年も優待SIMが届いた。 優待SIMの上手い使い方が無いか考えていたのだが、スマホにFRRoutingと Wireguard をインストールすれば自宅ラボとBGPで拠点間接続出来るのでは？ 試してみよう。</title>
+      <link>https://x.com/RA9c6wJOHr71538/status/2072983370230038552</link>
+      <description>有機体46B: 昔から楽天のサービスを利用していて身近な会社で応援したくて株を買ってずっと保有しているのだが、やっと今年も優待SIMが届いた。 優待SIMの上手い使い方が無いか考えていたのだが、スマホにFRRoutingと Wireguard をインストールすれば自宅ラボとBGPで拠点間接続出来るのでは？ 試してみよう。</description>
+      <pubDate>Fri, 03 Jul 2026 09:58:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2072983370230038552</guid>
+    </item>
+    <item>
       <title>Surfsharkってやたらとおすすめされてるけど90％でスタックする現象に誰も触れてないのはなぜ？ 1週間ほど使ってると接続時に90％でスタックして繋がらなくなりそのたびに最インストールする必要がある( WireGuard 以外なら繋がるけどこれ以外遅すぎて使い物にならない) https://t.co/MWtsDzNyQ4</title>
       <link>https://x.com/mmtluck/status/2072831202713907312</link>
       <description>zyo: Surfsharkってやたらとおすすめされてるけど90％でスタックする現象に誰も触れてないのはなぜ？ 1週間ほど使ってると接続時に90％でスタックして繋がらなくなりそのたびに最インストールする必要がある( WireGuard 以外なら繋がるけどこれ以外遅すぎて使い物にならない) https://t.co/MWtsDzNyQ4</description>
       <pubDate>Thu, 02 Jul 2026 23:54:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mmtluck/status/2072831202713907312</guid>
+    </item>
+    <item>
+      <title>ローカルネットワークで、IDaaS製品自体の障害による認証・認可のを避けたいという事で、 WireGuard トンネルの中をFireWall制限しつつ、SSHにしました。お手軽でいい！あとは、YAMAHA RTX1300が欲しい！</title>
+      <link>https://x.com/BankKeikei55/status/2072828582263681306</link>
+      <description>西村　将利: ローカルネットワークで、IDaaS製品自体の障害による認証・認可のを避けたいという事で、 WireGuard トンネルの中をFireWall制限しつつ、SSHにしました。お手軽でいい！あとは、YAMAHA RTX1300が欲しい！</description>
+      <pubDate>Thu, 02 Jul 2026 23:43:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BankKeikei55/status/2072828582263681306</guid>
     </item>
     <item>
       <title>ProtonVPNのいいところは、ProtonVPNアプリを入れなくても、各国サーバのOpenVPNや WireGuard の設定ファイルをダウンロードできる所が良い。</title>
@@ -248,34 +276,6 @@
       <description>VRネコ: “出張や旅行が多い人なら知っておきたい👇” GL.iNet GL-MT300N-V2 (Mango) ・超小型トラベルルーター ・OpenWrt搭載 ・OpenVPN／ WireGuard 対応 ・中継器／ブリッジモード対応 ・300Mbps無線LAN対応 ・日本語設定画面対応 ホテルやフリーWi-Fiを https://t.co/BpyV2hWdJW</description>
       <pubDate>Tue, 23 Jun 2026 13:20:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/VR862215243309/status/2069410321492545955</guid>
-    </item>
-    <item>
-      <title>windows向け wireguard クライアント作ろうとしてるけどカーネルドライバに必要なEV証明書が高すぎ</title>
-      <link>https://x.com/zerofrip/status/2069404258127237434</link>
-      <description>zerofrip: windows向け wireguard クライアント作ろうとしてるけどカーネルドライバに必要なEV証明書が高すぎ</description>
-      <pubDate>Tue, 23 Jun 2026 12:56:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zerofrip/status/2069404258127237434</guid>
-    </item>
-    <item>
-      <title>OPSsenseでの WireGuard 設定でまだ試行錯誤してる。 というか単純にファイアウォールを開けられてないや。 外部からルータまでは届いているけど、FWログ見たらブロックされたままだ。</title>
-      <link>https://x.com/EXAM1319/status/2069371326813569299</link>
-      <description>craft: OPSsenseでの WireGuard 設定でまだ試行錯誤してる。 というか単純にファイアウォールを開けられてないや。 外部からルータまでは届いているけど、FWログ見たらブロックされたままだ。</description>
-      <pubDate>Tue, 23 Jun 2026 10:45:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2069371326813569299</guid>
-    </item>
-    <item>
-      <title>よし、GL- iNetから、さくらインターネットの仮想ルータへ WireGuard で接続出来た。</title>
-      <link>https://x.com/tk4_jj/status/2069236022232420828</link>
-      <description>tatematsu_san: よし、GL- iNetから、さくらインターネットの仮想ルータへ WireGuard で接続出来た。</description>
-      <pubDate>Tue, 23 Jun 2026 01:48:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tk4_jj/status/2069236022232420828</guid>
-    </item>
-    <item>
-      <title>@MotoyasuYamada これはサーバーの設定、管理ができるやつで スマホアプリで使うためのConfigを作成するものです Wireguard のWebUIもあるんですか？</title>
-      <link>https://x.com/javagold2/status/2069196531140600181</link>
-      <description>ぽんちゃん@インフラ: @MotoyasuYamada これはサーバーの設定、管理ができるやつで スマホアプリで使うためのConfigを作成するものです Wireguard のWebUIもあるんですか？</description>
-      <pubDate>Mon, 22 Jun 2026 23:11:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/javagold2/status/2069196531140600181</guid>
     </item>
   </channel>
 </rss>
