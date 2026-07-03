@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/EXAM1319/status/2072984452821913644</guid>
     </item>
     <item>
+      <title>@10cube headscale というオープンソースの WireGuard サーバ (Tailscale クライアント互換) があるので、こちらを使ってみてもいいかもしれません https://t.co/6NYJECGnNZ</title>
+      <link>https://x.com/FmtWeisszwerg/status/2072983445735981259</link>
+      <description>Fomalhaut Weisszwerg: @10cube headscale というオープンソースの WireGuard サーバ (Tailscale クライアント互換) があるので、こちらを使ってみてもいいかもしれません https://t.co/6NYJECGnNZ</description>
+      <pubDate>Fri, 03 Jul 2026 09:59:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/FmtWeisszwerg/status/2072983445735981259</guid>
+    </item>
+    <item>
       <title>昔から楽天のサービスを利用していて身近な会社で応援したくて株を買ってずっと保有しているのだが、やっと今年も優待SIMが届いた。 優待SIMの上手い使い方が無いか考えていたのだが、スマホにFRRoutingと Wireguard をインストールすれば自宅ラボとBGPで拠点間接続出来るのでは？ 試してみよう。</title>
       <link>https://x.com/RA9c6wJOHr71538/status/2072983370230038552</link>
       <description>有機体46B: 昔から楽天のサービスを利用していて身近な会社で応援したくて株を買ってずっと保有しているのだが、やっと今年も優待SIMが届いた。 優待SIMの上手い使い方が無いか考えていたのだが、スマホにFRRoutingと Wireguard をインストールすれば自宅ラボとBGPで拠点間接続出来るのでは？ 試してみよう。</description>
@@ -269,13 +276,6 @@
       <description>なね: Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</description>
       <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/n4ne_3/status/2069622684724699449</guid>
-    </item>
-    <item>
-      <title>“出張や旅行が多い人なら知っておきたい👇” GL.iNet GL-MT300N-V2 (Mango) ・超小型トラベルルーター ・OpenWrt搭載 ・OpenVPN／ WireGuard 対応 ・中継器／ブリッジモード対応 ・300Mbps無線LAN対応 ・日本語設定画面対応 ホテルやフリーWi-Fiを https://t.co/BpyV2hWdJW</title>
-      <link>https://x.com/VR862215243309/status/2069410321492545955</link>
-      <description>VRネコ: “出張や旅行が多い人なら知っておきたい👇” GL.iNet GL-MT300N-V2 (Mango) ・超小型トラベルルーター ・OpenWrt搭載 ・OpenVPN／ WireGuard 対応 ・中継器／ブリッジモード対応 ・300Mbps無線LAN対応 ・日本語設定画面対応 ホテルやフリーWi-Fiを https://t.co/BpyV2hWdJW</description>
-      <pubDate>Tue, 23 Jun 2026 13:20:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/VR862215243309/status/2069410321492545955</guid>
     </item>
   </channel>
 </rss>
