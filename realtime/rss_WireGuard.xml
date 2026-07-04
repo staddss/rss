@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</title>
+      <link>https://x.com/d117z/status/2073263753232347285</link>
+      <description>しょぼっち: 闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</description>
+      <pubDate>Sat, 04 Jul 2026 04:32:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/d117z/status/2073263753232347285</guid>
+    </item>
+    <item>
+      <title>やっぱり wireguard が効かない 自宅のLANに入れない</title>
+      <link>https://x.com/55_okamura/status/2073255286115340728</link>
+      <description>Okamura Seiya: やっぱり wireguard が効かない 自宅のLANに入れない</description>
+      <pubDate>Sat, 04 Jul 2026 03:59:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/55_okamura/status/2073255286115340728</guid>
+    </item>
+    <item>
+      <title>国産ルーターも Wireguard とかそろそろサポートしてくれないかなぁ</title>
+      <link>https://x.com/NaNvidia/status/2073118608935600520</link>
+      <description>NaN: 国産ルーターも Wireguard とかそろそろサポートしてくれないかなぁ</description>
+      <pubDate>Fri, 03 Jul 2026 18:56:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NaNvidia/status/2073118608935600520</guid>
+    </item>
+    <item>
       <title>あれ wireguard 効かない</title>
       <link>https://x.com/55_okamura/status/2072990256396484960</link>
       <description>Okamura Seiya: あれ wireguard 効かない</description>
@@ -255,27 +276,6 @@
       <description>Ryoya🇯🇵KAWAI: 仕事で知った WireGuard を使って拠点間を繋いだけど手軽で良すぎる、今更だけど😅L2TPを維持しなければ！とか思ってたけど、全く不要になってしまったな。</description>
       <pubDate>Fri, 26 Jun 2026 11:51:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ryoyakawai/status/2070474972922028096</guid>
-    </item>
-    <item>
-      <title>WireGuard という暗号化技術を使っているらしい https://t.co/h2XgelLeXW VPNが挟まる分、通信も遅くなりますから 自宅で国内サイトしか見ない、調べ物はAIに聞く…… みたいな人には不要かもですが。 フリーWi-Fiをよく使う人や、検索エンジン等から 海外サイトを踏む人は、入れておくと少し安心です</title>
-      <link>https://x.com/n0o8BTzbdrUxMSi/status/2070336869716619664</link>
-      <description>ディペルハーブ: WireGuard という暗号化技術を使っているらしい https://t.co/h2XgelLeXW VPNが挟まる分、通信も遅くなりますから 自宅で国内サイトしか見ない、調べ物はAIに聞く…… みたいな人には不要かもですが。 フリーWi-Fiをよく使う人や、検索エンジン等から 海外サイトを踏む人は、入れておくと少し安心です</description>
-      <pubDate>Fri, 26 Jun 2026 02:42:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n0o8BTzbdrUxMSi/status/2070336869716619664</guid>
-    </item>
-    <item>
-      <title>pixelのターミナルって、vpn系と相性悪いのか… tsilscaleも wireguard も立ち上げたらターミナルが内部エラー吐いて止まった</title>
-      <link>https://x.com/2252tanabota/status/2069943739754381522</link>
-      <description>tanabota🍏: pixelのターミナルって、vpn系と相性悪いのか… tsilscaleも wireguard も立ち上げたらターミナルが内部エラー吐いて止まった</description>
-      <pubDate>Thu, 25 Jun 2026 00:40:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/2252tanabota/status/2069943739754381522</guid>
-    </item>
-    <item>
-      <title>Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</title>
-      <link>https://x.com/n4ne_3/status/2069622684724699449</link>
-      <description>なね: Official Wireguard クライアントを使いたいものだが ProtonVPNアプリみたくリージョンを気軽に変えれないのがネックだ</description>
-      <pubDate>Wed, 24 Jun 2026 03:24:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n4ne_3/status/2069622684724699449</guid>
     </item>
   </channel>
 </rss>

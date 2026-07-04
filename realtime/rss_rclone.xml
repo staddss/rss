@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Rclone ・IBM Langflow・Apache Tomcat利用者は影響バージョンの確認とアップデートを推奨。あなたの環境に該当するプロダクトはありますか？ #セキュリティ #CVE #脆弱性 https://t.co/Zm5n866Rmn</title>
+      <link>https://x.com/tsumikasanedev/status/2073276026495611127</link>
+      <description>つみかさね: Rclone ・IBM Langflow・Apache Tomcat利用者は影響バージョンの確認とアップデートを推奨。あなたの環境に該当するプロダクトはありますか？ #セキュリティ #CVE #脆弱性 https://t.co/Zm5n866Rmn</description>
+      <pubDate>Sat, 04 Jul 2026 05:21:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2073276026495611127</guid>
+    </item>
+    <item>
       <title>Blogを作成しました ADHDエンジニアのためのバックアップ自動化ガイド：データ損失を防ぐ方法 ADHDエンジニアのバックアップ自動化：忘れがちな作業をresticや rclone 、GitHub Actionsで完全自動化し、監視・復旧手順まで含めてデータ損失リスクを実務的に低減するガイド https://t.co/hSmT0dNdOv</title>
       <link>https://x.com/atueda/status/2072585623706468764</link>
       <description>植田篤@Slackの人,ニンジャマスターヒロキ最後の弟子: Blogを作成しました ADHDエンジニアのためのバックアップ自動化ガイド：データ損失を防ぐ方法 ADHDエンジニアのバックアップ自動化：忘れがちな作業をresticや rclone 、GitHub Actionsで完全自動化し、監視・復旧手順まで含めてデータ損失リスクを実務的に低減するガイド https://t.co/hSmT0dNdOv</description>
@@ -136,13 +143,6 @@
       <description>とらら: 重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</description>
       <pubDate>Thu, 04 Jun 2026 07:58:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/torara46/status/2062443895053836375</guid>
-    </item>
-    <item>
-      <title>情弱過ぎて、今ごろ rclone にgdrive連携させました スクショ（→編集可能）→自動gdrive→自動共有リンククリップボード化に成功しました https://t.co/oJFB3mMrwv</title>
-      <link>https://x.com/HarmNao/status/2062369512650051614</link>
-      <description>Naoの動画マーケ脳: 情弱過ぎて、今ごろ rclone にgdrive連携させました スクショ（→編集可能）→自動gdrive→自動共有リンククリップボード化に成功しました https://t.co/oJFB3mMrwv</description>
-      <pubDate>Thu, 04 Jun 2026 03:03:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/HarmNao/status/2062369512650051614</guid>
     </item>
   </channel>
 </rss>

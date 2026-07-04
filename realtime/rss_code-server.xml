@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/techorus_inc/status/2072877733462659430</guid>
     </item>
     <item>
+      <title>これでiPadでVSCode風にコーディングできるようになった。拡張機能も使える。 何をしたかって言うと、家のサーバに Code Server を構築。iPadのブラウザでアクセス、ホーム画面に追加するとこんな感じになります。 地味に困ったのがHTTPSにしないとコピペができない。 https://t.co/YO2CewAgik</title>
+      <link>https://x.com/WhaleOnSand/status/2072874502464352724</link>
+      <description>うみの藻屑: これでiPadでVSCode風にコーディングできるようになった。拡張機能も使える。 何をしたかって言うと、家のサーバに Code Server を構築。iPadのブラウザでアクセス、ホーム画面に追加するとこんな感じになります。 地味に困ったのがHTTPSにしないとコピペができない。 https://t.co/YO2CewAgik</description>
+      <pubDate>Fri, 03 Jul 2026 02:46:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/WhaleOnSand/status/2072874502464352724</guid>
+    </item>
+    <item>
       <title>こないだの出張はiPadだけ持って行ってました。 構成はWindows11マシン上で立ち上げてるTailscaleとtmuxと code - server の三つです。簡単な構成図も載せているので試してみたい方は参考にしてみてください。 https://t.co/eqnKZZzTcX</title>
       <link>https://x.com/motohasystem/status/2072594125187371212</link>
       <description>M橋D輔キン担ラボ: こないだの出張はiPadだけ持って行ってました。 構成はWindows11マシン上で立ち上げてるTailscaleとtmuxと code - server の三つです。簡単な構成図も載せているので試してみたい方は参考にしてみてください。 https://t.co/eqnKZZzTcX</description>
@@ -115,20 +122,6 @@
       <description>Takayuki Iwasaki: code - server 、Markdown プレビューだけすんなり動かない。https にする必要がある。試しにすでに上がってる nginx に reverse proxy してみて動くことを確認したが、ローカルではやらないね。。。 Markdown の時は普通の VSCode を使えばいいか。。。</description>
       <pubDate>Thu, 04 Jun 2026 08:34:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakisan_28/status/2062452860999406068</guid>
-    </item>
-    <item>
-      <title>Gemini cliやAntigravity cliもターミナルで動かすよりも、 code - server のターミナルでChrome内で動かす方が速い 全部エディター内部でできれば、クリップボードの問題も起きない</title>
-      <link>https://x.com/sakisan_28/status/2062407841290613220</link>
-      <description>Takayuki Iwasaki: Gemini cliやAntigravity cliもターミナルで動かすよりも、 code - server のターミナルでChrome内で動かす方が速い 全部エディター内部でできれば、クリップボードの問題も起きない</description>
-      <pubDate>Thu, 04 Jun 2026 05:35:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakisan_28/status/2062407841290613220</guid>
-    </item>
-    <item>
-      <title>Chromebook上のエディター、ちょっと変化球だが code - server がいいかもしれない VSCode派生で、httpサーバーとなり、UIはブラウザーにやってもらうもの 以前は公式にもサーバー機能あったけど、今は壊れてしまっている とにかくレンダリングが早くキレイで、日本語も安定</title>
-      <link>https://x.com/sakisan_28/status/2062406498739974145</link>
-      <description>Takayuki Iwasaki: Chromebook上のエディター、ちょっと変化球だが code - server がいいかもしれない VSCode派生で、httpサーバーとなり、UIはブラウザーにやってもらうもの 以前は公式にもサーバー機能あったけど、今は壊れてしまっている とにかくレンダリングが早くキレイで、日本語も安定</description>
-      <pubDate>Thu, 04 Jun 2026 05:30:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakisan_28/status/2062406498739974145</guid>
     </item>
   </channel>
 </rss>
