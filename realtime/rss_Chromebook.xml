@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%22</link>
     <description>Latest search results for '&quot;Chromebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今更だが Chromebook のLinux環境もなかなか癖があるなぁ。日本語ロケールが毎回リセットされちゃうとか。</title>
+      <link>https://x.com/dz11/status/2073474221964185678</link>
+      <description>Cats.Been Green: 今更だが Chromebook のLinux環境もなかなか癖があるなぁ。日本語ロケールが毎回リセットされちゃうとか。</description>
+      <pubDate>Sat, 04 Jul 2026 18:29:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dz11/status/2073474221964185678</guid>
+    </item>
+    <item>
+      <title>Chromebook の新しいLinux開発環境（Baguette）でDebianの隣でArch Linuxを起動できることを確認 旧Crostini環境のLXCコンテナとは違ってイメージ作成して仮想マシンとして起動してる感じ 元のtermina消してVM名terminaでArch Linux環境作成してもターミナルアプリから起動はできなさそう https://t.co/kDpzdZPBUU</title>
+      <link>https://x.com/staddss/status/2073473727086653732</link>
+      <description>ハタナカ: Chromebook の新しいLinux開発環境（Baguette）でDebianの隣でArch Linuxを起動できることを確認 旧Crostini環境のLXCコンテナとは違ってイメージ作成して仮想マシンとして起動してる感じ 元のtermina消してVM名terminaでArch Linux環境作成してもターミナルアプリから起動はできなさそう https://t.co/kDpzdZPBUU</description>
+      <pubDate>Sat, 04 Jul 2026 18:27:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/staddss/status/2073473727086653732</guid>
+    </item>
+    <item>
       <title>Lenovo Chromebook CT-X636F、2-in-1でタッチやん。軽いし動画見るのに良さげ。 Lenovo Chromebook CT-X636F https://t.co/8kAj3Dx6He</title>
       <link>https://x.com/kirarawavey13b/status/2073447685663969623</link>
       <description>波光キララ: Lenovo Chromebook CT-X636F、2-in-1でタッチやん。軽いし動画見るのに良さげ。 Lenovo Chromebook CT-X636F https://t.co/8kAj3Dx6He</description>
@@ -269,20 +283,6 @@
       <description>やま▲しゅん: 親のiPad air2がそろそろ限界を迎えつつあるから代用作考えてるけどwinタブを Chromebook にするのありかなと思ってきとる</description>
       <pubDate>Sat, 04 Jul 2026 05:53:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/syun_4696/status/2073284132906602987</guid>
-    </item>
-    <item>
-      <title>くそ、 chromebook のペンが認識しない。お絵描きできないではないか。</title>
-      <link>https://x.com/akishimo230f/status/2073282873684267377</link>
-      <description>しもあき@キャンプ用スマホアプリ作ってます: くそ、 chromebook のペンが認識しない。お絵描きできないではないか。</description>
-      <pubDate>Sat, 04 Jul 2026 05:48:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/akishimo230f/status/2073282873684267377</guid>
-    </item>
-    <item>
-      <title>それにしてもお子がChrome book苦手というか作業がいやすぎるみたいで頭抱えてる。 Chromebook でも、結局文字書かされるから、目が疲れない紙のほうががいいそう 確🦀</title>
-      <link>https://x.com/Emiria_Hare/status/2073279013662216419</link>
-      <description>しろウサギのおかーさんエミリア: それにしてもお子がChrome book苦手というか作業がいやすぎるみたいで頭抱えてる。 Chromebook でも、結局文字書かされるから、目が疲れない紙のほうががいいそう 確🦀</description>
-      <pubDate>Sat, 04 Jul 2026 05:33:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Emiria_Hare/status/2073279013662216419</guid>
     </item>
   </channel>
 </rss>
