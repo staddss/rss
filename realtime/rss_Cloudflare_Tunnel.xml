@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflare tunnel が不定期に切れるの、DS Liteな我が家でIPv4で凌いでいるのがだめそう…？ ログ見てると、そもそもUDPでトンネル張れていないっぽい</title>
+      <link>https://x.com/mame_77_/status/2072995245990768668</link>
+      <description>mame77: cloudflare tunnel が不定期に切れるの、DS Liteな我が家でIPv4で凌いでいるのがだめそう…？ ログ見てると、そもそもUDPでトンネル張れていないっぽい</description>
+      <pubDate>Fri, 03 Jul 2026 10:45:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mame_77_/status/2072995245990768668</guid>
+    </item>
+    <item>
       <title>ドメインを取って Cloudflare Tunnel を構築した</title>
       <link>https://x.com/alla__genovese/status/2072935366114562535</link>
       <description>ばじる: ドメインを取って Cloudflare Tunnel を構築した</description>
@@ -269,13 +276,6 @@
       <description>もぐの: Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる https://t.co/t0gZDWgXg7 安全って言葉はこの場合語弊が大きいので避けたいが、「ネットワーク的にセキュアな」とかだとパンチが弱いから難しいなと思った。</description>
       <pubDate>Tue, 23 Jun 2026 03:43:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/moguno/status/2069265168845136288</guid>
-    </item>
-    <item>
-      <title>“Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる” https://t.co/ICkQR2fCHe</title>
-      <link>https://x.com/yuumediatown/status/2069258256686743713</link>
-      <description>封神龍（新型コロナワクチン5回目接種仕様）: “Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる” https://t.co/ICkQR2fCHe</description>
-      <pubDate>Tue, 23 Jun 2026 03:16:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuumediatown/status/2069258256686743713</guid>
     </item>
   </channel>
 </rss>

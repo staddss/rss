@@ -137,12 +137,5 @@
       <pubDate>Sun, 07 Jun 2026 00:33:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/FP7714897/status/2063419055911133250</guid>
     </item>
-    <item>
-      <title>重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</title>
-      <link>https://x.com/torara46/status/2062443895053836375</link>
-      <description>とらら: 重要なデータのバックアップ、今までは最新の平文データだけをそのまま上げてたけど、これからは borg の暗号化 repo を google drive に rclone することにした</description>
-      <pubDate>Thu, 04 Jun 2026 07:58:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/torara46/status/2062443895053836375</guid>
-    </item>
   </channel>
 </rss>

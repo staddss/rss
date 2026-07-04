@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/55_okamura/status/2073255286115340728</guid>
     </item>
     <item>
+      <title>Wireguard + UDPホールパンチングでもポートフォワードなしで通信できるのかなもしかして。 どっちからもハートビートを出せば穴は開くだろうし。</title>
+      <link>https://x.com/moguno/status/2073218001957220684</link>
+      <description>もぐの: Wireguard + UDPホールパンチングでもポートフォワードなしで通信できるのかなもしかして。 どっちからもハートビートを出せば穴は開くだろうし。</description>
+      <pubDate>Sat, 04 Jul 2026 01:31:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2073218001957220684</guid>
+    </item>
+    <item>
       <title>国産ルーターも Wireguard とかそろそろサポートしてくれないかなぁ</title>
       <link>https://x.com/NaNvidia/status/2073118608935600520</link>
       <description>NaN: 国産ルーターも Wireguard とかそろそろサポートしてくれないかなぁ</description>
@@ -269,13 +276,6 @@
       <description>おやぐまさん: お勉強のために、割と勢いでさくらのVPSを借りてみた。とりあえず手元からVPSに Wireguard でVPN張るところまでやって、今夜は終了。 余録としてTailscaleへの理解も深まったと思う。</description>
       <pubDate>Fri, 26 Jun 2026 17:23:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oyaguma3/status/2070558592290422928</guid>
-    </item>
-    <item>
-      <title>仕事で知った WireGuard を使って拠点間を繋いだけど手軽で良すぎる、今更だけど😅L2TPを維持しなければ！とか思ってたけど、全く不要になってしまったな。</title>
-      <link>https://x.com/ryoyakawai/status/2070474972922028096</link>
-      <description>Ryoya🇯🇵KAWAI: 仕事で知った WireGuard を使って拠点間を繋いだけど手軽で良すぎる、今更だけど😅L2TPを維持しなければ！とか思ってたけど、全く不要になってしまったな。</description>
-      <pubDate>Fri, 26 Jun 2026 11:51:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryoyakawai/status/2070474972922028096</guid>
     </item>
   </channel>
 </rss>

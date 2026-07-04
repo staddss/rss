@@ -116,12 +116,5 @@
       <pubDate>Thu, 04 Jun 2026 13:16:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakisan_28/status/2062523868091457694</guid>
     </item>
-    <item>
-      <title>code - server 、Markdown プレビューだけすんなり動かない。https にする必要がある。試しにすでに上がってる nginx に reverse proxy してみて動くことを確認したが、ローカルではやらないね。。。 Markdown の時は普通の VSCode を使えばいいか。。。</title>
-      <link>https://x.com/sakisan_28/status/2062452860999406068</link>
-      <description>Takayuki Iwasaki: code - server 、Markdown プレビューだけすんなり動かない。https にする必要がある。試しにすでに上がってる nginx に reverse proxy してみて動くことを確認したが、ローカルではやらないね。。。 Markdown の時は普通の VSCode を使えばいいか。。。</description>
-      <pubDate>Thu, 04 Jun 2026 08:34:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakisan_28/status/2062452860999406068</guid>
-    </item>
   </channel>
 </rss>
