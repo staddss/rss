@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>PCとスマホ（Android）でObsidianを同期したくて、HomeNASに Syncthing を構築しました。 TP-Linkルーター内蔵のWireGuardでVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</title>
+      <link>https://x.com/plect_ol/status/2073435093557973189</link>
+      <description>平野ユキノリ｜クリエイターアカウント: PCとスマホ（Android）でObsidianを同期したくて、HomeNASに Syncthing を構築しました。 TP-Linkルーター内蔵のWireGuardでVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</description>
+      <pubDate>Sat, 04 Jul 2026 15:53:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/plect_ol/status/2073435093557973189</guid>
+    </item>
+    <item>
+      <title>ObsidianをiPhoneとも同期するため、アプリ導入。iCloud Driveに保管庫を作り、そこに既存mdファイルも移動。 この結果、Windows側での編集中、連番複製コピーの大量発生に苦しめられる私。 自宅内の Syncthing 運用に戻そうかしらね。😵💫 https://t.co/qFLMziZTuX</title>
+      <link>https://x.com/stimchn/status/2073277355536400395</link>
+      <description>さといもちゃん: ObsidianをiPhoneとも同期するため、アプリ導入。iCloud Driveに保管庫を作り、そこに既存mdファイルも移動。 この結果、Windows側での編集中、連番複製コピーの大量発生に苦しめられる私。 自宅内の Syncthing 運用に戻そうかしらね。😵💫 https://t.co/qFLMziZTuX</description>
+      <pubDate>Sat, 04 Jul 2026 05:26:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/stimchn/status/2073277355536400395</guid>
+    </item>
+    <item>
       <title>syncthing でいいじゃん</title>
       <link>https://x.com/SunacoV/status/2073249325984125309</link>
       <description>SUNACO@趣味3Dもでらー: syncthing でいいじゃん</description>
@@ -262,20 +276,6 @@
       <description>Gyroid: @_I__l__l__l__I_ Mac２台、スマホ、ラズパイ、ipadで syncthing 同期してます！問題ないです！</description>
       <pubDate>Sun, 14 Jun 2026 11:34:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shutoito/status/2066122110519726241</guid>
-    </item>
-    <item>
-      <title>最近急に syncthing アプリが通信できなくなり原因は avast だとわかったがどんな例外ルールを入れても改善せず悩んだ挙句原因が判明。 syncthing の使用するデフォルトlog出力先が問題だったぽい。--logfileで明示的にexeと同じpathに指定したら復旧した。こんなあり？</title>
-      <link>https://x.com/necoscard/status/2065366751312003127</link>
-      <description>猫’s Card: 最近急に syncthing アプリが通信できなくなり原因は avast だとわかったがどんな例外ルールを入れても改善せず悩んだ挙句原因が判明。 syncthing の使用するデフォルトlog出力先が問題だったぽい。--logfileで明示的にexeと同じpathに指定したら復旧した。こんなあり？</description>
-      <pubDate>Fri, 12 Jun 2026 09:33:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/necoscard/status/2065366751312003127</guid>
-    </item>
-    <item>
-      <title>Obsidian、やっと Syncthing での同期環境で本番運用出来るようになった… 別々の端末で作ってた.md達を同一ディレクトリにまとめるのに時間かかった。 でもこれでクラウド無しで無料同期できるぞー！ PCでもAndroidでもおんなじVaultや！ #obsidian #android</title>
-      <link>https://x.com/loopndayo/status/2065267855906533401</link>
-      <description>るーぷん@ITの学びを言語化: Obsidian、やっと Syncthing での同期環境で本番運用出来るようになった… 別々の端末で作ってた.md達を同一ディレクトリにまとめるのに時間かかった。 でもこれでクラウド無しで無料同期できるぞー！ PCでもAndroidでもおんなじVaultや！ #obsidian #android</description>
-      <pubDate>Fri, 12 Jun 2026 03:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/loopndayo/status/2065267855906533401</guid>
     </item>
   </channel>
 </rss>

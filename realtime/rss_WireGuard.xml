@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>PCとスマホ（Android）でObsidianを同期したくて、HomeNASにSyncthingを構築しました。 TP-Linkルーター内蔵の WireGuard でVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</title>
+      <link>https://x.com/plect_ol/status/2073435093557973189</link>
+      <description>平野ユキノリ｜クリエイターアカウント: PCとスマホ（Android）でObsidianを同期したくて、HomeNASにSyncthingを構築しました。 TP-Linkルーター内蔵の WireGuard でVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</description>
+      <pubDate>Sat, 04 Jul 2026 15:53:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/plect_ol/status/2073435093557973189</guid>
+    </item>
+    <item>
+      <title>やっぱり WireGuard とMASQUEがいい感じなのかな https://t.co/SvSQUfodsA</title>
+      <link>https://x.com/glyzinienet/status/2073388976040505684</link>
+      <description>Wis (Glyzinie): やっぱり WireGuard とMASQUEがいい感じなのかな https://t.co/SvSQUfodsA</description>
+      <pubDate>Sat, 04 Jul 2026 12:50:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/glyzinienet/status/2073388976040505684</guid>
+    </item>
+    <item>
+      <title>あれ？ wireguard 来る前にパッドを新規登録したのだがそっちは繋がる。 追加登録の筈が上書きしたのか?</title>
+      <link>https://x.com/55_okamura/status/2073336867114906012</link>
+      <description>Okamura Seiya: あれ？ wireguard 来る前にパッドを新規登録したのだがそっちは繋がる。 追加登録の筈が上書きしたのか?</description>
+      <pubDate>Sat, 04 Jul 2026 09:23:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/55_okamura/status/2073336867114906012</guid>
+    </item>
+    <item>
       <title>闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</title>
       <link>https://x.com/d117z/status/2073263753232347285</link>
       <description>しょぼっち: 闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</description>
@@ -255,27 +276,6 @@
       <description>ゑくさす: うおおおおお WireGuard の設定ミスって全通信VPNに流れて接続できなくなったPCをリモートから復旧できたあああ</description>
       <pubDate>Sat, 27 Jun 2026 16:22:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Exass/status/2070905740274061735</guid>
-    </item>
-    <item>
-      <title>しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</title>
-      <link>https://x.com/OiYasunori/status/2070820078262813132</link>
-      <description>大井 泰徳: しかし・・ wireguard のIPアドレスを脳内DNSで処理する負荷がきつくなってきたので、いい加減hostsか内向きDNS立てないとなあ・・ L2スイッチ入れたほうが早いし設定も楽なんだろうけれど・・</description>
-      <pubDate>Sat, 27 Jun 2026 10:42:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OiYasunori/status/2070820078262813132</guid>
-    </item>
-    <item>
-      <title>自宅のVPNを WireGuard に更新した。 とっつきにくいと思ったけど、やる事は結構単純だった。</title>
-      <link>https://x.com/ZUCCAZACCA/status/2070794150400962700</link>
-      <description>今日も明日もエンジニア: 自宅のVPNを WireGuard に更新した。 とっつきにくいと思ったけど、やる事は結構単純だった。</description>
-      <pubDate>Sat, 27 Jun 2026 08:59:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ZUCCAZACCA/status/2070794150400962700</guid>
-    </item>
-    <item>
-      <title>お勉強のために、割と勢いでさくらのVPSを借りてみた。とりあえず手元からVPSに Wireguard でVPN張るところまでやって、今夜は終了。 余録としてTailscaleへの理解も深まったと思う。</title>
-      <link>https://x.com/oyaguma3/status/2070558592290422928</link>
-      <description>おやぐまさん: お勉強のために、割と勢いでさくらのVPSを借りてみた。とりあえず手元からVPSに Wireguard でVPN張るところまでやって、今夜は終了。 余録としてTailscaleへの理解も深まったと思う。</description>
-      <pubDate>Fri, 26 Jun 2026 17:23:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oyaguma3/status/2070558592290422928</guid>
     </item>
   </channel>
 </rss>

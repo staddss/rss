@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2073276026495611127</guid>
     </item>
     <item>
+      <title>認証なしでOSコマンドが実行できる状態 — Rclone 1.74.3未満のrcdサーバー（CVSS 9.8）とIBM Langflow（CVSS 9.9）でRCEが確認。Apache Tomcat 2件のCriticalも同日公開。</title>
+      <link>https://x.com/tsumikasanedev/status/2073276025254093027</link>
+      <description>つみかさね: 認証なしでOSコマンドが実行できる状態 — Rclone 1.74.3未満のrcdサーバー（CVSS 9.8）とIBM Langflow（CVSS 9.9）でRCEが確認。Apache Tomcat 2件のCriticalも同日公開。</description>
+      <pubDate>Sat, 04 Jul 2026 05:21:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2073276025254093027</guid>
+    </item>
+    <item>
       <title>Blogを作成しました ADHDエンジニアのためのバックアップ自動化ガイド：データ損失を防ぐ方法 ADHDエンジニアのバックアップ自動化：忘れがちな作業をresticや rclone 、GitHub Actionsで完全自動化し、監視・復旧手順まで含めてデータ損失リスクを実務的に低減するガイド https://t.co/hSmT0dNdOv</title>
       <link>https://x.com/atueda/status/2072585623706468764</link>
       <description>植田篤@Slackの人,ニンジャマスターヒロキ最後の弟子: Blogを作成しました ADHDエンジニアのためのバックアップ自動化ガイド：データ損失を防ぐ方法 ADHDエンジニアのバックアップ自動化：忘れがちな作業をresticや rclone 、GitHub Actionsで完全自動化し、監視・復旧手順まで含めてデータ損失リスクを実務的に低減するガイド https://t.co/hSmT0dNdOv</description>

@@ -67,19 +67,5 @@
       <pubDate>Sun, 07 Jun 2026 10:08:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/DoAsYouLikeQOL/status/2063563775626846299</guid>
     </item>
-    <item>
-      <title>@Uliboooo 多分ですが、macOSでWKdm + LZ4によるメモリ圧縮をしてるからですかね？（Linuxでいう ZRAM ） Apple SiliconはLZ4をハードウェアレベルで最適化していて、SoCからOSまで垂直統合で最適化しているのが強そう...</title>
-      <link>https://x.com/stdio_world/status/2062491105460097034</link>
-      <description>DΙΟ: @Uliboooo 多分ですが、macOSでWKdm + LZ4によるメモリ圧縮をしてるからですかね？（Linuxでいう ZRAM ） Apple SiliconはLZ4をハードウェアレベルで最適化していて、SoCからOSまで垂直統合で最適化しているのが強そう...</description>
-      <pubDate>Thu, 04 Jun 2026 11:06:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/stdio_world/status/2062491105460097034</guid>
-    </item>
-    <item>
-      <title>zram もcpu使用率とトレードオフだしな。どうなんだろ 両方つかうといいかもしれんが https://t.co/0QgXTFYxs9</title>
-      <link>https://x.com/hacker_infra/status/2062489577244569829</link>
-      <description>OS開発者: zram もcpu使用率とトレードオフだしな。どうなんだろ 両方つかうといいかもしれんが https://t.co/0QgXTFYxs9</description>
-      <pubDate>Thu, 04 Jun 2026 11:00:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hacker_infra/status/2062489577244569829</guid>
-    </item>
   </channel>
 </rss>
