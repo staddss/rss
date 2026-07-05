@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>PC版Chromeブラウザでのタブの縦表示なかなか良いな。アドレスバーに以下入力→ chrome :// flags /#vertical-tabs</title>
+      <link>https://x.com/yamaken_/status/2073398679340499258</link>
+      <description>Kenji Yamauchi: PC版Chromeブラウザでのタブの縦表示なかなか良いな。アドレスバーに以下入力→ chrome :// flags /#vertical-tabs</description>
+      <pubDate>Sat, 04 Jul 2026 13:29:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamaken_/status/2073398679340499258</guid>
+    </item>
+    <item>
       <title>アドレスバーの「Googleに質問する」を消す chrome :// flags /#omnibox-contextual-suggestions disabled</title>
       <link>https://x.com/Geda_2/status/2072954594490216762</link>
       <description>ひし形: アドレスバーの「Googleに質問する」を消す chrome :// flags /#omnibox-contextual-suggestions disabled</description>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://x.com/hyado2025/status/2065610328101294191</guid>
     </item>
     <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
-    </item>
-    <item>
       <title>スマホ版chromeのタブを閉じるボタンの位置を左下に戻すメモ 検索バーに「 chrome :// flags 」 「tab switcher」で出てくる項目をdisabledにする chromeを再起動する https://t.co/SwL5qpGYMY</title>
       <link>https://x.com/sid_clannad/status/2065015671445160391</link>
       <description>つっちー: スマホ版chromeのタブを閉じるボタンの位置を左下に戻すメモ 検索バーに「 chrome :// flags 」 「tab switcher」で出てくる項目をdisabledにする chromeを再起動する https://t.co/SwL5qpGYMY</description>
@@ -164,13 +164,6 @@
       <description>cml5YQ==: isolated web appでcloudflare tcp/udp tunnelのdeserializerをつくろうと思ったけど、作ったとこでpublishもできないし、インスコするにも chrome flags を触るのは抵抗あるは</description>
       <pubDate>Sat, 06 Jun 2026 12:20:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cml5YQ/status/2063234488600301704</guid>
-    </item>
-    <item>
-      <title>chrome :// flags 機能を初めて使った😊 エッジPCネットワーク内で、発行した #QRコード の真偽を判定させる為に、スマホにブラウザーからエッジPCに入ってDBを使う流れで、#スマホのカメラ を使う時に iPhoneは、https:が必須で、運用が面倒でやめた Androideも、Chrome/Edge もhttp:では #getUserMedia https://t.co/8hGHd5Qovd</title>
-      <link>https://x.com/ov60clubs/status/2062930212577542430</link>
-      <description>閃きを知財に: chrome :// flags 機能を初めて使った😊 エッジPCネットワーク内で、発行した #QRコード の真偽を判定させる為に、スマホにブラウザーからエッジPCに入ってDBを使う流れで、#スマホのカメラ を使う時に iPhoneは、https:が必須で、運用が面倒でやめた Androideも、Chrome/Edge もhttp:では #getUserMedia https://t.co/8hGHd5Qovd</description>
-      <pubDate>Fri, 05 Jun 2026 16:11:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ov60clubs/status/2062930212577542430</guid>
     </item>
     <item>
       <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>
