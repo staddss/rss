@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@geekbb 俄羅斯也有VPN，是基於 WireGuard 開發的分支⋯⋯</title>
+      <link>https://x.com/YaJonhFK/status/2073690968923263072</link>
+      <description>Ethan: @geekbb 俄羅斯也有VPN，是基於 WireGuard 開發的分支⋯⋯</description>
+      <pubDate>Sun, 05 Jul 2026 08:50:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/YaJonhFK/status/2073690968923263072</guid>
+    </item>
+    <item>
       <title>前にやったUDPホールパンチングを用いてP2Pの実験 仮想IFでIPパケットをカプセル化(セキュリティ機能皆無)。 WireGuard も実装すればVPN作れそう TCP再送が多発しているのは仮想IFのMTUが65535でIP fragmentationが発生しているから(多分)。仮想IFにMTUを設定するか、プログラムでPMTUD送信とか必要そう https://t.co/iNFWCNDcVw</title>
       <link>https://x.com/sohui7927/status/2073634644671734034</link>
       <description>sohui: 前にやったUDPホールパンチングを用いてP2Pの実験 仮想IFでIPパケットをカプセル化(セキュリティ機能皆無)。 WireGuard も実装すればVPN作れそう TCP再送が多発しているのは仮想IFのMTUが65535でIP fragmentationが発生しているから(多分)。仮想IFにMTUを設定するか、プログラムでPMTUD送信とか必要そう https://t.co/iNFWCNDcVw</description>
       <pubDate>Sun, 05 Jul 2026 05:06:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sohui7927/status/2073634644671734034</guid>
+    </item>
+    <item>
+      <title>VPNのプロトコルは、 Wireguard かOpenVPNどっちがいいのかな？</title>
+      <link>https://x.com/kaede_sato_jp/status/2073629047821865238</link>
+      <description>さとうかえで: VPNのプロトコルは、 Wireguard かOpenVPNどっちがいいのかな？</description>
+      <pubDate>Sun, 05 Jul 2026 04:44:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kaede_sato_jp/status/2073629047821865238</guid>
     </item>
     <item>
       <title>よーし wireguard 設定復帰できた。 端末側を追加したつもりが、自宅の認証情報を新しくしてた 新規追加したパッドの情報を持っていって上書きしたら両方繋がった</title>
@@ -262,20 +276,6 @@
       <description>msweb: MSwebドタバタ開発状況 サブのWin11に、 Cakewalk Sonar、GIMP 3.2.4、Inkscape、FFFTP、 WireGuard 、Antigravity IDEを設定、はー、しんど。 まだ、だいぶ残ってる、あとは明日以降。</description>
       <pubDate>Mon, 29 Jun 2026 09:06:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/msweb652822/status/2071520750138429577</guid>
-    </item>
-    <item>
-      <title>WireGuard +RustDeskでリモートデスクトップ環境を構築したおかげで、外出先からでもクソデカスペックを要する作業ができる</title>
-      <link>https://x.com/async0x4c/status/2071368196700131734</link>
-      <description>0x4C: WireGuard +RustDeskでリモートデスクトップ環境を構築したおかげで、外出先からでもクソデカスペックを要する作業ができる</description>
-      <pubDate>Sun, 28 Jun 2026 23:00:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/async0x4c/status/2071368196700131734</guid>
-    </item>
-    <item>
-      <title>Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</title>
-      <link>https://x.com/nkyna_/status/2071221709206868186</link>
-      <description>もぺ: Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</description>
-      <pubDate>Sun, 28 Jun 2026 13:18:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nkyna_/status/2071221709206868186</guid>
     </item>
   </channel>
 </rss>

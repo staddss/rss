@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/_MIRACLE_PLANET/status/2073605193049293046</guid>
     </item>
     <item>
+      <title>Chromebookの新しいLinux開発環境（Baguette）でDebianの隣でArch Linuxを起動できることを確認 旧 Crostini 環境のLXCコンテナとは違ってイメージ作成して仮想マシンとして起動してる感じ 元のtermina消してVM名terminaでArch Linux環境作成してもターミナルアプリから起動はできなさそう https://t.co/kDpzdZPBUU</title>
+      <link>https://x.com/staddss/status/2073473727086653732</link>
+      <description>ハタナカ: Chromebookの新しいLinux開発環境（Baguette）でDebianの隣でArch Linuxを起動できることを確認 旧 Crostini 環境のLXCコンテナとは違ってイメージ作成して仮想マシンとして起動してる感じ 元のtermina消してVM名terminaでArch Linux環境作成してもターミナルアプリから起動はできなさそう https://t.co/kDpzdZPBUU</description>
+      <pubDate>Sat, 04 Jul 2026 18:27:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/staddss/status/2073473727086653732</guid>
+    </item>
+    <item>
       <title>Crostini でも無事インストール、起動できた。 これから何ができるか検証していきたい。 （現時点でもFableは使えなかった） https://t.co/uBzeCdPBsT https://t.co/ITj1waQL6t</title>
       <link>https://x.com/techs44576/status/2072526814677966914</link>
       <description>techs_targe: Crostini でも無事インストール、起動できた。 これから何ができるか検証していきたい。 （現時点でもFableは使えなかった） https://t.co/uBzeCdPBsT https://t.co/ITj1waQL6t</description>
@@ -115,13 +122,6 @@
       <description>hikalium: パンだけになるの… &gt; ChromeOS 上の Linux の次世代アーキテクチャである Baguette を発表します。Baguette は、コンテナの使用を削除することで、従来の Crostini エクスペリエンスとは異なります。Linux 開発環境は、仮想化されたゲストで直接実行されるようになります。 https://t.co/ULTbdG1nM7</description>
       <pubDate>Sun, 07 Jun 2026 08:06:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hikalium/status/2063532989947269513</guid>
-    </item>
-    <item>
-      <title>chromebookでvscode使うときに日本語入力できないのは、Linux上の日本語IMEの問題ではなくて、LinuxコンテナとchromeOS間でのグラフィック関係の通信の問題だそうです。 --ozone-platform=x11 オプションを付けて起動(waylandではなくx11を使う)すれば Crostini IME supportが機能します。</title>
-      <link>https://x.com/y_mikou/status/2062846307493191994</link>
-      <description>みこう悠長: chromebookでvscode使うときに日本語入力できないのは、Linux上の日本語IMEの問題ではなくて、LinuxコンテナとchromeOS間でのグラフィック関係の通信の問題だそうです。 --ozone-platform=x11 オプションを付けて起動(waylandではなくx11を使う)すれば Crostini IME supportが機能します。</description>
-      <pubDate>Fri, 05 Jun 2026 10:37:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_mikou/status/2062846307493191994</guid>
     </item>
   </channel>
 </rss>
