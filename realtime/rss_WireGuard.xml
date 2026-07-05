@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>前にやったUDPホールパンチングを用いてP2Pの実験 仮想IFでIPパケットをカプセル化(セキュリティ機能皆無)。 WireGuard も実装すればVPN作れそう TCP再送が多発しているのは仮想IFのMTUが65535でIP fragmentationが発生しているから(多分)。仮想IFにMTUを設定するか、プログラムでPMTUD送信とか必要そう https://t.co/iNFWCNDcVw</title>
+      <link>https://x.com/sohui7927/status/2073634644671734034</link>
+      <description>sohui: 前にやったUDPホールパンチングを用いてP2Pの実験 仮想IFでIPパケットをカプセル化(セキュリティ機能皆無)。 WireGuard も実装すればVPN作れそう TCP再送が多発しているのは仮想IFのMTUが65535でIP fragmentationが発生しているから(多分)。仮想IFにMTUを設定するか、プログラムでPMTUD送信とか必要そう https://t.co/iNFWCNDcVw</description>
+      <pubDate>Sun, 05 Jul 2026 05:06:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sohui7927/status/2073634644671734034</guid>
+    </item>
+    <item>
+      <title>よーし wireguard 設定復帰できた。 端末側を追加したつもりが、自宅の認証情報を新しくしてた 新規追加したパッドの情報を持っていって上書きしたら両方繋がった</title>
+      <link>https://x.com/55_okamura/status/2073601712020210049</link>
+      <description>Okamura Seiya: よーし wireguard 設定復帰できた。 端末側を追加したつもりが、自宅の認証情報を新しくしてた 新規追加したパッドの情報を持っていって上書きしたら両方繋がった</description>
+      <pubDate>Sun, 05 Jul 2026 02:55:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/55_okamura/status/2073601712020210049</guid>
+    </item>
+    <item>
+      <title>VPN本体： WireGuard 通信：全トラフィックをVPNへ DNS：VPN内DNSのみ IPv6：使うならVPN経由、無理なら無効化 キルスイッチ：有効 分割トンネル：無し WebRTC漏れ：ブラウザ側で制御</title>
+      <link>https://x.com/LsdogodsL/status/2073595032024871276</link>
+      <description>1-coyote-2-lysergsäure: VPN本体： WireGuard 通信：全トラフィックをVPNへ DNS：VPN内DNSのみ IPv6：使うならVPN経由、無理なら無効化 キルスイッチ：有効 分割トンネル：無し WebRTC漏れ：ブラウザ側で制御</description>
+      <pubDate>Sun, 05 Jul 2026 02:29:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LsdogodsL/status/2073595032024871276</guid>
+    </item>
+    <item>
+      <title>スマホ上にDebian Linux環境を構築してFRRoutingと wireguard のアプリケーションをインストール中。 モバイル回線で自宅のCiscoルーターやFortigate達とBGP over IPv6 GREで拠点間接続出来るかテストしてみよう。 https://t.co/ZoYCySfyhT</title>
+      <link>https://x.com/RA9c6wJOHr71538/status/2073493088925008180</link>
+      <description>有機体46B: スマホ上にDebian Linux環境を構築してFRRoutingと wireguard のアプリケーションをインストール中。 モバイル回線で自宅のCiscoルーターやFortigate達とBGP over IPv6 GREで拠点間接続出来るかテストしてみよう。 https://t.co/ZoYCySfyhT</description>
+      <pubDate>Sat, 04 Jul 2026 19:44:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2073493088925008180</guid>
+    </item>
+    <item>
       <title>PCとスマホ（Android）でObsidianを同期したくて、HomeNASにSyncthingを構築しました。 TP-Linkルーター内蔵の WireGuard でVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</title>
       <link>https://x.com/plect_ol/status/2073435093557973189</link>
       <description>平野ユキノリ｜クリエイターアカウント: PCとスマホ（Android）でObsidianを同期したくて、HomeNASにSyncthingを構築しました。 TP-Linkルーター内蔵の WireGuard でVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</description>
@@ -248,34 +276,6 @@
       <description>もぺ: Obscura感想 Linuxでは WireGuard しか使えないが、接続先はちゃんとObscuraのサーバっぽい Android版でLANバイパスやSplit Tunnelingできないのは不便</description>
       <pubDate>Sun, 28 Jun 2026 13:18:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nkyna_/status/2071221709206868186</guid>
-    </item>
-    <item>
-      <title>借りたVPSの固定IPに対してNAT配下のPC2台からそれぞれ Wireguard セッションを張って、NAT配下PC間のVPNトンネル（VPS上で一瞬平文になるので完全ではない）を作ってみた。ほぼお勉強目的だったんだけど、やっぱりTailscaleがお手軽だわ……。</title>
-      <link>https://x.com/oyaguma3/status/2071216282654146932</link>
-      <description>おやぐまさん: 借りたVPSの固定IPに対してNAT配下のPC2台からそれぞれ Wireguard セッションを張って、NAT配下PC間のVPNトンネル（VPS上で一瞬平文になるので完全ではない）を作ってみた。ほぼお勉強目的だったんだけど、やっぱりTailscaleがお手軽だわ……。</description>
-      <pubDate>Sun, 28 Jun 2026 12:56:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oyaguma3/status/2071216282654146932</guid>
-    </item>
-    <item>
-      <title>自宅ルータには RTX1210 を構えているが、モバイルルータ側が IPsec みたいな従来型 VPN じゃなくて、 OpenVPN とか WireGuard みたいなモダン VPN しか対応していない？っぽいので、サイト間張るときは Tailscale 入れちゃえ〜ってなった。ムズいんだよねモダン VPN。 https://t.co/pDBlJFIhr1</title>
-      <link>https://x.com/kishiwadapeople/status/2071176385390162385</link>
-      <description>岸和田市民: 自宅ルータには RTX1210 を構えているが、モバイルルータ側が IPsec みたいな従来型 VPN じゃなくて、 OpenVPN とか WireGuard みたいなモダン VPN しか対応していない？っぽいので、サイト間張るときは Tailscale 入れちゃえ〜ってなった。ムズいんだよねモダン VPN。 https://t.co/pDBlJFIhr1</description>
-      <pubDate>Sun, 28 Jun 2026 10:18:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kishiwadapeople/status/2071176385390162385</guid>
-    </item>
-    <item>
-      <title>出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</title>
-      <link>https://x.com/rrrrrrrr_ch/status/2070929632472490486</link>
-      <description>r-pe: 出先用では雑に WireGuard のインターフェース生やすことにした。最悪滅んだらTailscaleに戻るけど、とりあえずこれでいいな…</description>
-      <pubDate>Sat, 27 Jun 2026 17:57:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rrrrrrrr_ch/status/2070929632472490486</guid>
-    </item>
-    <item>
-      <title>うおおおおお WireGuard の設定ミスって全通信VPNに流れて接続できなくなったPCをリモートから復旧できたあああ</title>
-      <link>https://x.com/Exass/status/2070905740274061735</link>
-      <description>ゑくさす: うおおおおお WireGuard の設定ミスって全通信VPNに流れて接続できなくなったPCをリモートから復旧できたあああ</description>
-      <pubDate>Sat, 27 Jun 2026 16:22:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Exass/status/2070905740274061735</guid>
     </item>
   </channel>
 </rss>
