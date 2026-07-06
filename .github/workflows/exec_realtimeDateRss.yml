@@ -157,6 +157,8 @@ jobs:
           sleep 10
           python3 ./script/realtimeRss.py '"Cloudflare Tunnel"'
           sleep 10
+          python3 ./script/realtimeRss.py '"AtomMan"'
+          sleep 10
           python3 ./script/realtimeRss.py '"staddss"'
 
       - name: Commit
