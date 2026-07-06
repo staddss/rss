@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ferrarinoise 同感です。私もセルフホスト構築で最初にやったのは「何を動かすか」より「何を捨てるか」の判断でした。 WireGuard 経由のアクセス計画を諦めてSSHポートフォワードに絞ったのが、一番時間を節約した選択です。</title>
+      <link>https://x.com/n8nFlowMaster/status/2074111899986428067</link>
+      <description>陽向｜中小企業の「人手不足×サイバーリスク」をn8nで解決する自動化エンジニア: @ferrarinoise 同感です。私もセルフホスト構築で最初にやったのは「何を動かすか」より「何を捨てるか」の判断でした。 WireGuard 経由のアクセス計画を諦めてSSHポートフォワードに絞ったのが、一番時間を節約した選択です。</description>
+      <pubDate>Mon, 06 Jul 2026 12:43:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n8nFlowMaster/status/2074111899986428067</guid>
+    </item>
+    <item>
       <title>iphoneは wireguard で無理矢理DNSサーバー変更してるから、お行儀はあんま良くないけど</title>
       <link>https://x.com/mikan_seraph/status/2074005451352781045</link>
       <description>深瀬 悠: iphoneは wireguard で無理矢理DNSサーバー変更してるから、お行儀はあんま良くないけど</description>
@@ -269,13 +276,6 @@
       <description>tomocha(とも ちゃ)@Job searching/無職＆就職活動中&amp;パパ活中: @OrangeMorishita 長谷部さんの話で、グローバルとかいってたけど、 Wireguard がVPNはっている端末にグローバルIPが付与されているのか、それともNATなのか、その辺の話がお互いかみ合って無くてイミフだった.. #internetweek #iwsc</description>
       <pubDate>Tue, 30 Jun 2026 09:26:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tomocha0/status/2071888163895980480</guid>
-    </item>
-    <item>
-      <title>いつも安いルーターで WireGuard を立ててるけどタイ-日本で110msであればかなり優秀 https://t.co/oByfTf9g3P</title>
-      <link>https://x.com/2kd611/status/2071780712018284704</link>
-      <description>K: いつも安いルーターで WireGuard を立ててるけどタイ-日本で110msであればかなり優秀 https://t.co/oByfTf9g3P</description>
-      <pubDate>Tue, 30 Jun 2026 02:19:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/2kd611/status/2071780712018284704</guid>
     </item>
   </channel>
 </rss>
