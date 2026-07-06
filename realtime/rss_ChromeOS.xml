@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeos FlexのLinuxターミナル、copilot cliでShift+Enterでの改行が効かずに難儀していたが、ctrl+gで複数行の入力を $EDITOR で指定したエディタで入力/編集出来ることが分かり(これもcopilotに聞いたんだけど)、をを、そんな事ができるのかとちょっと感動した。</title>
+      <link>https://x.com/kabukawa/status/2074011041525318023</link>
+      <description>kabukawa: Chromeos FlexのLinuxターミナル、copilot cliでShift+Enterでの改行が効かずに難儀していたが、ctrl+gで複数行の入力を $EDITOR で指定したエディタで入力/編集出来ることが分かり(これもcopilotに聞いたんだけど)、をを、そんな事ができるのかとちょっと感動した。</description>
+      <pubDate>Mon, 06 Jul 2026 06:02:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kabukawa/status/2074011041525318023</guid>
+    </item>
+    <item>
+      <title>Chromeos Flexでリモートデスクトップ接続ができない問題をcopilot cliで調査/対応してみた。期待した結果(Remminaではなくxfreerdpでの接続になった)ではなかったけど問題は解消したので良かった。調査手順も見たけど、思考の過程が見えるのは面白い。</title>
+      <link>https://x.com/kabukawa/status/2074001588713316864</link>
+      <description>kabukawa: Chromeos Flexでリモートデスクトップ接続ができない問題をcopilot cliで調査/対応してみた。期待した結果(Remminaではなくxfreerdpでの接続になった)ではなかったけど問題は解消したので良かった。調査手順も見たけど、思考の過程が見えるのは面白い。</description>
+      <pubDate>Mon, 06 Jul 2026 05:24:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kabukawa/status/2074001588713316864</guid>
+    </item>
+    <item>
+      <title>富士通の小型PC… ChromeOS で軽く作業できそう 便利かも 富士通 FUTRO S740 J4105 8GB ChromeOS Flex ㉛ https://t.co/fqKZNtFaue</title>
+      <link>https://x.com/yukipeachnote/status/2073988498965807367</link>
+      <description>白峰雪菜: 富士通の小型PC… ChromeOS で軽く作業できそう 便利かも 富士通 FUTRO S740 J4105 8GB ChromeOS Flex ㉛ https://t.co/fqKZNtFaue</description>
+      <pubDate>Mon, 06 Jul 2026 04:32:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yukipeachnote/status/2073988498965807367</guid>
+    </item>
+    <item>
       <title>@dospara_ngn Windows11ProとWindows11homeと ChromeOS 使ってます👍</title>
       <link>https://x.com/kixyami112/status/2073782303449595992</link>
       <description>きゃみ: @dospara_ngn Windows11ProとWindows11homeと ChromeOS 使ってます👍</description>
@@ -194,6 +215,13 @@
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2072851110369612180</guid>
     </item>
     <item>
+      <title>水曜日のダウンタウン「ぼくらのバリケード戦争」各場面でなぜはっしーはっぴーがああいう言動や行動をとるのかについて、新津くんが完全解説してくれた。大変よく理解できたが、そんな彼もまた人が貸したWindowsPCに勝手に ChromeOS を入れて返却するタイプで、もちろん謝罪はありません。 #audiogalaxy</title>
+      <link>https://x.com/RAM_RIDER/status/2072844435499765839</link>
+      <description>RAM RIDER: 水曜日のダウンタウン「ぼくらのバリケード戦争」各場面でなぜはっしーはっぴーがああいう言動や行動をとるのかについて、新津くんが完全解説してくれた。大変よく理解できたが、そんな彼もまた人が貸したWindowsPCに勝手に ChromeOS を入れて返却するタイプで、もちろん謝罪はありません。 #audiogalaxy</description>
+      <pubDate>Fri, 03 Jul 2026 00:46:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RAM_RIDER/status/2072844435499765839</guid>
+    </item>
+    <item>
       <title>【再活用】満身創痍のノートPCに『 ChromeOS Flex』を入れてみたが、色々おかしい。｜aosagi @aosagi_journey https://t.co/aaSD2fl114</title>
       <link>https://x.com/aosagi_journey/status/2072612758848463189</link>
       <description>aosagi＠旅行記: 【再活用】満身創痍のノートPCに『 ChromeOS Flex』を入れてみたが、色々おかしい。｜aosagi @aosagi_journey https://t.co/aaSD2fl114</description>
@@ -248,34 +276,6 @@
       <description>ヒタチ･スイハンキ🍡( ˙꒳˙ ): パソコン初心者のフリして購入したから ChromeOS の操作ガイドとかバッグとか色々貰っちゃったw https://t.co/CVSV6VT63a</description>
       <pubDate>Wed, 01 Jul 2026 12:12:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aoi_0020/status/2072292271123529844</guid>
-    </item>
-    <item>
-      <title>ChromeOS 一覧 見つめ合うと 1954〜1961 素直に 1960〜1971 おしゃべり 1965〜 出来ない 1971〜 津波のような 1978〜 侘しさに 1980〜 I know 怯えてる 1990〜 Hoo 1996〜</title>
-      <link>https://x.com/QOCit5avL056313/status/2072288388619579646</link>
-      <description>出会い.com愛区2nd: ChromeOS 一覧 見つめ合うと 1954〜1961 素直に 1960〜1971 おしゃべり 1965〜 出来ない 1971〜 津波のような 1978〜 侘しさに 1980〜 I know 怯えてる 1990〜 Hoo 1996〜</description>
-      <pubDate>Wed, 01 Jul 2026 11:57:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/QOCit5avL056313/status/2072288388619579646</guid>
-    </item>
-    <item>
-      <title>Nape Proファームウェアアップデートされたので、 ChromeOS でボールスクロールしたらフリーズするの治ったかな！？と思ったけれど変わらずだった。がっくりくりくりくりっくり。</title>
-      <link>https://x.com/minpart2/status/2072245821308076233</link>
-      <description>†眠民†♎😇: Nape Proファームウェアアップデートされたので、 ChromeOS でボールスクロールしたらフリーズするの治ったかな！？と思ったけれど変わらずだった。がっくりくりくりくりっくり。</description>
-      <pubDate>Wed, 01 Jul 2026 09:07:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minpart2/status/2072245821308076233</guid>
-    </item>
-    <item>
-      <title>【2026年6月】Chromebook ニュースまとめ。ASUS CM14 / CM15 の国内発売、今後の ChromeOS バージョン採番変更など https://t.co/BNrg6r3cth #Chromebook</title>
-      <link>https://x.com/Helen_Tech/status/2072237836460519629</link>
-      <description>おむらまさひで(HelenTech): 【2026年6月】Chromebook ニュースまとめ。ASUS CM14 / CM15 の国内発売、今後の ChromeOS バージョン採番変更など https://t.co/BNrg6r3cth #Chromebook</description>
-      <pubDate>Wed, 01 Jul 2026 08:36:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2072237836460519629</guid>
-    </item>
-    <item>
-      <title>うちの ChromeOS Flex の Wine では、なんか、32bit版の方でないと動かんのだよな、7-Zip は。</title>
-      <link>https://x.com/nidomari/status/2072235147651695093</link>
-      <description>にどまりいちろう (岡山県 倉敷市): うちの ChromeOS Flex の Wine では、なんか、32bit版の方でないと動かんのだよな、7-Zip は。</description>
-      <pubDate>Wed, 01 Jul 2026 08:25:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nidomari/status/2072235147651695093</guid>
     </item>
   </channel>
 </rss>

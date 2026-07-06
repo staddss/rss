@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>SeaweedFS S3性能はよいけどメモリにキャッシュ載せようとしてるようで4並列 rclone copyしたら1.4GB食われて解放されない。軽量ストレージバックエンドとしては使えなさそう。データはカーネルに任せてほしいところ</title>
+      <link>https://x.com/cause_less/status/2073828655000912292</link>
+      <description>ko-zu: SeaweedFS S3性能はよいけどメモリにキャッシュ載せようとしてるようで4並列 rclone copyしたら1.4GB食われて解放されない。軽量ストレージバックエンドとしては使えなさそう。データはカーネルに任せてほしいところ</description>
+      <pubDate>Sun, 05 Jul 2026 17:57:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cause_less/status/2073828655000912292</guid>
+    </item>
+    <item>
       <title>データとコードを Rclone 経由で同期させる事で、ローカル環境を変えずにColab の計算資源を活用する構成を紹介しています。 VS Code × Google Colab × Rclone で作る、クラウドを活かした分析環境｜h.ito https://t.co/XCxh84aT7z #zenn</title>
       <link>https://x.com/hitopr05/status/2073768113040925144</link>
       <description>Hiroki Ito: データとコードを Rclone 経由で同期させる事で、ローカル環境を変えずにColab の計算資源を活用する構成を紹介しています。 VS Code × Google Colab × Rclone で作る、クラウドを活かした分析環境｜h.ito https://t.co/XCxh84aT7z #zenn</description>
