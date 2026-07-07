@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅にVPN接続したくてずっと格闘してたのだけど結論としてOpenVPNは無理、ということになった。 最近の流行はOpenVPNではなく、 WireGuard っつーツールらしいんだけど、こちらでやったらあっさり繋がりおった。 ここ数日の私の苦労はなんだったんだ。 まぁ繋がればよいとはいえ、がっくりきちゃうね。</title>
+      <link>https://x.com/tokitamiki/status/2074443180054090183</link>
+      <description>ときたみ: 自宅にVPN接続したくてずっと格闘してたのだけど結論としてOpenVPNは無理、ということになった。 最近の流行はOpenVPNではなく、 WireGuard っつーツールらしいんだけど、こちらでやったらあっさり繋がりおった。 ここ数日の私の苦労はなんだったんだ。 まぁ繋がればよいとはいえ、がっくりきちゃうね。</description>
+      <pubDate>Tue, 07 Jul 2026 10:39:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tokitamiki/status/2074443180054090183</guid>
+    </item>
+    <item>
       <title>@Cicada0001 畢竟 wireguard</title>
       <link>https://x.com/kuroroholumu/status/2074426613077549471</link>
       <description>クロロホルム: @Cicada0001 畢竟 wireguard</description>
@@ -269,13 +276,6 @@
       <description>YuYasuda: @OrangeMorishita これは Wireguard のバグですか？それともシステム側のバグ？</description>
       <pubDate>Tue, 30 Jun 2026 12:29:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JonandJohns/status/2071934196046868569</guid>
-    </item>
-    <item>
-      <title>@OrangeMorishita WireGuard の約2分（120秒）毎に行うバックグラウンドで自動鍵交換の仕様による「 鍵（キーペア）の不整合」か「NATのセッション維持の競合」ぽいね。 こんなの見つかったよ 「6 Timers &amp; Stateless UX」 https://t.co/HN0UjaBrDA</title>
-      <link>https://x.com/higetomo/status/2071932698097332603</link>
-      <description>Tomoharu Sato: @OrangeMorishita WireGuard の約2分（120秒）毎に行うバックグラウンドで自動鍵交換の仕様による「 鍵（キーペア）の不整合」か「NATのセッション維持の競合」ぽいね。 こんなの見つかったよ 「6 Timers &amp; Stateless UX」 https://t.co/HN0UjaBrDA</description>
-      <pubDate>Tue, 30 Jun 2026 12:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/higetomo/status/2071932698097332603</guid>
     </item>
   </channel>
 </rss>
