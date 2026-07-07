@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Cicada0001 畢竟 wireguard</title>
+      <link>https://x.com/kuroroholumu/status/2074426613077549471</link>
+      <description>クロロホルム: @Cicada0001 畢竟 wireguard</description>
+      <pubDate>Tue, 07 Jul 2026 09:33:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuroroholumu/status/2074426613077549471</guid>
+    </item>
+    <item>
+      <title>AmneziaWGなる WireGuard のフォークがあることを知った その他にもVLESS+REALITYとかHysteria2とか いろんなDPI対策があるんだな</title>
+      <link>https://x.com/sugattor_jz/status/2074329804523119094</link>
+      <description>シュガッター@規制: AmneziaWGなる WireGuard のフォークがあることを知った その他にもVLESS+REALITYとかHysteria2とか いろんなDPI対策があるんだな</description>
+      <pubDate>Tue, 07 Jul 2026 03:08:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sugattor_jz/status/2074329804523119094</guid>
+    </item>
+    <item>
       <title>Sophos、 WireGuard 対応しないかな</title>
       <link>https://x.com/abdda149/status/2074139729038348692</link>
       <description>Volk149: Sophos、 WireGuard 対応しないかな</description>
@@ -262,20 +276,6 @@
       <description>Tomoharu Sato: @OrangeMorishita WireGuard の約2分（120秒）毎に行うバックグラウンドで自動鍵交換の仕様による「 鍵（キーペア）の不整合」か「NATのセッション維持の競合」ぽいね。 こんなの見つかったよ 「6 Timers &amp; Stateless UX」 https://t.co/HN0UjaBrDA</description>
       <pubDate>Tue, 30 Jun 2026 12:23:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/higetomo/status/2071932698097332603</guid>
-    </item>
-    <item>
-      <title>@OrangeMorishita 本件． Wireguard の鍵を再生成することで直りました 明日は快適だと思います！</title>
-      <link>https://x.com/jj1lfc/status/2071909790347931855</link>
-      <description>alt: @OrangeMorishita 本件． Wireguard の鍵を再生成することで直りました 明日は快適だと思います！</description>
-      <pubDate>Tue, 30 Jun 2026 10:52:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jj1lfc/status/2071909790347931855</guid>
-    </item>
-    <item>
-      <title>確かに大体2分おきに再接続するけどiPhone(有線)→ Wireguard 搭載ルーター →iPhoneのWiFiテザリング(ドコモ)→インターネット→NAT→ Wireguard 搭載ルーター→ターゲットホストでPING打ち続けてもTimeoutは無かったけどなあ…。 Wireguard の問題ではないとか？？ https://t.co/mFSnPWEtV0</title>
-      <link>https://x.com/Yamar50/status/2071897729002016792</link>
-      <description>Yamar50 in Tokyo JP: 確かに大体2分おきに再接続するけどiPhone(有線)→ Wireguard 搭載ルーター →iPhoneのWiFiテザリング(ドコモ)→インターネット→NAT→ Wireguard 搭載ルーター→ターゲットホストでPING打ち続けてもTimeoutは無かったけどなあ…。 Wireguard の問題ではないとか？？ https://t.co/mFSnPWEtV0</description>
-      <pubDate>Tue, 30 Jun 2026 10:04:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yamar50/status/2071897729002016792</guid>
     </item>
   </channel>
 </rss>

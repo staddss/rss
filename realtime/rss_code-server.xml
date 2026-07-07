@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ZimaBoard2上でCodexCLIを動かしてスマホから開発できないかと考えてます。 チャッピーに相談中👇️ 結論：おすすめは「ZimaBoard2 + code - server 」です 一番バランスが良いのはこれです。 スマホのブラウザ ↓ code - server / VS Code Server ↓ ZimaBoard2上のVS Code画面 ↓ https://t.co/WcZaOKmAFq</title>
+      <link>https://x.com/murasametech/status/2074449570097254457</link>
+      <description>むらさん(Murasan): ZimaBoard2上でCodexCLIを動かしてスマホから開発できないかと考えてます。 チャッピーに相談中👇️ 結論：おすすめは「ZimaBoard2 + code - server 」です 一番バランスが良いのはこれです。 スマホのブラウザ ↓ code - server / VS Code Server ↓ ZimaBoard2上のVS Code画面 ↓ https://t.co/WcZaOKmAFq</description>
+      <pubDate>Tue, 07 Jul 2026 11:04:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2074449570097254457</guid>
+    </item>
+    <item>
       <title>cloudflared: image: cloudflare/cloudflared:latest container_name: cloudflared command: tunnel --url http:// code - server :8443 --no-tls-verify restart: unless-stopped これを Code Server のyamlに書いてup -dするだけです。(dockerのログ見るとURLが発行されている)</title>
       <link>https://x.com/WhaleOnSand/status/2072878378060054804</link>
       <description>うみの藻屑: cloudflared: image: cloudflare/cloudflared:latest container_name: cloudflared command: tunnel --url http:// code - server :8443 --no-tls-verify restart: unless-stopped これを Code Server のyamlに書いてup -dするだけです。(dockerのログ見るとURLが発行されている)</description>
