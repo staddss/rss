@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Dokanは知ってたけど今はWinFspなるものが活発になっているのか。 Rclone とかの名前は知ってたけどそちらでWinFspが活躍してる事を知らなかったわ…。</title>
+      <link>https://x.com/pochi_p/status/2074820349338976455</link>
+      <description>pochi-p★ニャーニャーなく猫: Dokanは知ってたけど今はWinFspなるものが活発になっているのか。 Rclone とかの名前は知ってたけどそちらでWinFspが活躍してる事を知らなかったわ…。</description>
+      <pubDate>Wed, 08 Jul 2026 11:38:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pochi_p/status/2074820349338976455</guid>
+    </item>
+    <item>
+      <title>NAS上でimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</title>
+      <link>https://x.com/touka_tt/status/2074763425264378243</link>
+      <description>Takayuki Tominaga: NAS上でimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</description>
+      <pubDate>Wed, 08 Jul 2026 07:52:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/touka_tt/status/2074763425264378243</guid>
+    </item>
+    <item>
       <title>NASでimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</title>
       <link>https://x.com/touka_tt/status/2074763325305671973</link>
       <description>Takayuki Tominaga: NASでimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</description>
@@ -192,13 +206,6 @@
       <description>たかふみ: それはそうと、家のNASが死んだのだけど、そもそも高機能NASのOSはおれにはちょっと使いこなせないので、NASを辞める予定。15年間のNAS運用おつかれさま。 ・バックアップ/同期: → rclone でpCloud cryptへ全データ、B2は小容量 これを正本とする ・キャッシュ的運用 ・ミニPC＋USB3.1 HDD [Toshiba</description>
       <pubDate>Tue, 09 Jun 2026 14:02:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/42spg/status/2064347406473503059</guid>
-    </item>
-    <item>
-      <title>最近win11インストールして最初にやるのがonedriveを滅することになってる OSの安定度と速度大分変わる気がする onedrive共有したいときは rclone でマウントすれば満足</title>
-      <link>https://x.com/torinikutw/status/2063977860445200874</link>
-      <description>鶏肉: 最近win11インストールして最初にやるのがonedriveを滅することになってる OSの安定度と速度大分変わる気がする onedrive共有したいときは rclone でマウントすれば満足</description>
-      <pubDate>Mon, 08 Jun 2026 13:34:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/torinikutw/status/2063977860445200874</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>HermesのホストPCが常時稼働しているので、Obsidian Vaultの共有はOneDriveから Syncthing に変更しようかな。Tailscaleを使えば外部ネットワークからでも共有できるっぽいし。結局スマホからVault内のノートを直接見ることはほぼなく、Hermesに探させて必要な部分だけ抜粋してもらえれば十分だし。</title>
+      <link>https://x.com/phasephi/status/2074847586650075256</link>
+      <description>のがみ: HermesのホストPCが常時稼働しているので、Obsidian Vaultの共有はOneDriveから Syncthing に変更しようかな。Tailscaleを使えば外部ネットワークからでも共有できるっぽいし。結局スマホからVault内のノートを直接見ることはほぼなく、Hermesに探させて必要な部分だけ抜粋してもらえれば十分だし。</description>
+      <pubDate>Wed, 08 Jul 2026 13:26:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/phasephi/status/2074847586650075256</guid>
+    </item>
+    <item>
       <title>Syncthing のセットアップができた これでスマホが自宅LANに接続するたびにNASにローカルデータをどんどん投げ込んでくれるはずだ</title>
       <link>https://x.com/kazkuro/status/2074119017716150327</link>
       <description>kazkuro: ★: Syncthing のセットアップができた これでスマホが自宅LANに接続するたびにNASにローカルデータをどんどん投げ込んでくれるはずだ</description>
@@ -269,20 +276,6 @@
       <description>猫町あいう: あとあれね、自前クラウドストレージとして今までNextcloudを使ってたんだけど、今回ほかのアプリはサーバー上の別のPoolへインストール先を移動できたのにNextcloudだけが独自仕様なのかどうしても出来なかった。 こういうの、いざというとき不便なので使うのやめます。今は Syncthing をためしてる。</description>
       <pubDate>Tue, 16 Jun 2026 18:51:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aiu_nekomachi/status/2066956818031804619</guid>
-    </item>
-    <item>
-      <title>えま様がスマホごと写真を喪失した話をなされていたので、自分のスマホの写真もなんとかしてバックアップを取らねばと思い、xigmanasの syncthing を試そうとしている むろんgoogleに預ける気など毛頭ない</title>
-      <link>https://x.com/kazkuro/status/2066907086978703648</link>
-      <description>kazkuro: ★: えま様がスマホごと写真を喪失した話をなされていたので、自分のスマホの写真もなんとかしてバックアップを取らねばと思い、xigmanasの syncthing を試そうとしている むろんgoogleに預ける気など毛頭ない</description>
-      <pubDate>Tue, 16 Jun 2026 15:33:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazkuro/status/2066907086978703648</guid>
-    </item>
-    <item>
-      <title>ラズパイ win mac スマホobsidian syncthing 連携完了 これでいいと思える</title>
-      <link>https://x.com/_I__l__l__l__I_/status/2066778829151170828</link>
-      <description>ナ: ラズパイ win mac スマホobsidian syncthing 連携完了 これでいいと思える</description>
-      <pubDate>Tue, 16 Jun 2026 07:04:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_I__l__l__l__I_/status/2066778829151170828</guid>
     </item>
   </channel>
 </rss>
