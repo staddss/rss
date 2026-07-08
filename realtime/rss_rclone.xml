@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NASでimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</title>
+      <link>https://x.com/touka_tt/status/2074763325305671973</link>
+      <description>Takayuki Tominaga: NASでimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</description>
+      <pubDate>Wed, 08 Jul 2026 07:51:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/touka_tt/status/2074763325305671973</guid>
+    </item>
+    <item>
       <title>や、消そうと思ったが Google Drive と rclone で定期的に同期しながら動いている SilverBullet を先にどうにかしないといけないな 単に rclone の向き先を変えればいい気はするけど、R2 にするのか自分のサーバに向けるのか</title>
       <link>https://x.com/public_yusuke/status/2074682320599265676</link>
       <description>public_yusuke: や、消そうと思ったが Google Drive と rclone で定期的に同期しながら動いている SilverBullet を先にどうにかしないといけないな 単に rclone の向き先を変えればいい気はするけど、R2 にするのか自分のサーバに向けるのか</description>
       <pubDate>Wed, 08 Jul 2026 02:29:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/public_yusuke/status/2074682320599265676</guid>
+    </item>
+    <item>
+      <title>じゃ、異なる 2 箇所に rclone でデータ引っ張ってきたから共有ドライブ消させてもらうね……</title>
+      <link>https://x.com/public_yusuke/status/2074485202022474077</link>
+      <description>public_yusuke: じゃ、異なる 2 箇所に rclone でデータ引っ張ってきたから共有ドライブ消させてもらうね……</description>
+      <pubDate>Tue, 07 Jul 2026 13:26:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/public_yusuke/status/2074485202022474077</guid>
     </item>
     <item>
       <title>WSLで rclone を動かして、外付けHDDにOneDriveのバックアップ取るとか。windows版もあるんじゃない？ https://t.co/XYwia9afvl</title>
