@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GameNative はSteam inputがあるのがいいよね。GameHubではなぜか廃止になってる。 GameNative は、コンポーネント入れられるのかな、見当たらないな。Visual C++ランタイムが無いとエラーが出るゲームもあるからさ。</title>
+      <link>https://x.com/8888EckhartT/status/2074689626246434973</link>
+      <description>どーもです@JRAの馬主🐴: GameNative はSteam inputがあるのがいいよね。GameHubではなぜか廃止になってる。 GameNative は、コンポーネント入れられるのかな、見当たらないな。Visual C++ランタイムが無いとエラーが出るゲームもあるからさ。</description>
+      <pubDate>Wed, 08 Jul 2026 02:58:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2074689626246434973</guid>
+    </item>
+    <item>
+      <title>GameNative はUIが苦手、あとMod使える様にしてくださいな。GameHubでゲーム9割動いてるのとModを使いたいから基本こっち。 GameNative はまだドライバが少ないからな。</title>
+      <link>https://x.com/8888EckhartT/status/2074681701822066804</link>
+      <description>どーもです@JRAの馬主🐴: GameNative はUIが苦手、あとMod使える様にしてくださいな。GameHubでゲーム9割動いてるのとModを使いたいから基本こっち。 GameNative はまだドライバが少ないからな。</description>
+      <pubDate>Wed, 08 Jul 2026 02:27:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2074681701822066804</guid>
+    </item>
+    <item>
+      <title>※注意： Gamenative だと多分ダメ 途中で Gamenative というエミュに変えたら、winhttp/versionどちらのオーバーライドを入れてもBepInExが一切起動せず、MODが効きませんでした（DLL注入がブロックされてる？） GameNative はMODの導入方式と相性が悪いっぽい 日本語化MOD目的ならWinlatorが確実そうです</title>
+      <link>https://x.com/X0362085466803/status/2074651275690721361</link>
+      <description>物体X: ※注意： Gamenative だと多分ダメ 途中で Gamenative というエミュに変えたら、winhttp/versionどちらのオーバーライドを入れてもBepInExが一切起動せず、MODが効きませんでした（DLL注入がブロックされてる？） GameNative はMODの導入方式と相性が悪いっぽい 日本語化MOD目的ならWinlatorが確実そうです</description>
+      <pubDate>Wed, 08 Jul 2026 00:26:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/X0362085466803/status/2074651275690721361</guid>
+    </item>
+    <item>
+      <title>MANGMI AIR X + GameNative だと24fps前後で結構苦しい STEAMAPPS_INTERFACE_VERSION009うんぬんって出ちゃうしお勧めはしない</title>
+      <link>https://x.com/orcinus_/status/2074517605877256540</link>
+      <description>orcinus: MANGMI AIR X + GameNative だと24fps前後で結構苦しい STEAMAPPS_INTERFACE_VERSION009うんぬんって出ちゃうしお勧めはしない</description>
+      <pubDate>Tue, 07 Jul 2026 15:35:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/orcinus_/status/2074517605877256540</guid>
+    </item>
+    <item>
       <title>Gamehub紹介している人をみると、 Gamenative 使いなよ…と思う 結局Box64でCPUエミュレーションして、ProtonでVulkanに変換してるだけだからどっちも対して変わらないのに。</title>
       <link>https://x.com/sashisashi569/status/2074489411111457227</link>
       <description>sashisashi: Gamehub紹介している人をみると、 Gamenative 使いなよ…と思う 結局Box64でCPUエミュレーションして、ProtonでVulkanに変換してるだけだからどっちも対して変わらないのに。</description>
@@ -248,34 +276,6 @@
       <description>orcinus: @relorah う～む GameNative かGameHubの方がオプション多いし、動く可能性があるかなぁ</description>
       <pubDate>Mon, 15 Jun 2026 22:02:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/orcinus_/status/2066642599826628848</guid>
-    </item>
-    <item>
-      <title>@honobono426 入れてるエミュレータはPS2用のNetherSX2とGCやWii向けのDolphinくらいです。 Steamのゲームとなれば、GameHubや GameNative での動作が今時の手段ですかね。インディー系タイトルであればほぼ何でも動くと思いますよ。</title>
-      <link>https://x.com/omochichi/status/2066452023911063866</link>
-      <description>もち: @honobono426 入れてるエミュレータはPS2用のNetherSX2とGCやWii向けのDolphinくらいです。 Steamのゲームとなれば、GameHubや GameNative での動作が今時の手段ですかね。インディー系タイトルであればほぼ何でも動くと思いますよ。</description>
-      <pubDate>Mon, 15 Jun 2026 09:25:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/omochichi/status/2066452023911063866</guid>
-    </item>
-    <item>
-      <title>AndroidのSteamエミュのおかげでPCの前に座るのがだるくてエタっていたノベルゲー（広義）が消化されている サンキューGalaxyS23フォーエバー GameNative</title>
-      <link>https://x.com/910mkr/status/2065669564458025102</link>
-      <description>。枕: AndroidのSteamエミュのおかげでPCの前に座るのがだるくてエタっていたノベルゲー（広義）が消化されている サンキューGalaxyS23フォーエバー GameNative</description>
-      <pubDate>Sat, 13 Jun 2026 05:36:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/910mkr/status/2065669564458025102</guid>
-    </item>
-    <item>
-      <title>GameNative をメタクエストにインストールすれば、PC不要でSteamゲームをプレイできます。 GameNative については、以下動画の8:42〜をご覧ください。 【最大活用】メタクエストをレベルアップするおすすめストア外アプリ 8選！ https://t.co/HJDv5WuXCr</title>
-      <link>https://x.com/orentame/status/2065373440819986888</link>
-      <description>むねりょ@VR好きの読書家元エンジニア: GameNative をメタクエストにインストールすれば、PC不要でSteamゲームをプレイできます。 GameNative については、以下動画の8:42〜をご覧ください。 【最大活用】メタクエストをレベルアップするおすすめストア外アプリ 8選！ https://t.co/HJDv5WuXCr</description>
-      <pubDate>Fri, 12 Jun 2026 09:59:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/orentame/status/2065373440819986888</guid>
-    </item>
-    <item>
-      <title>暇すぎて GameNative 使ってスマホでsteam遊んでみた https://t.co/KUpQrCUglc</title>
-      <link>https://x.com/keid_ms/status/2065069604150640891</link>
-      <description>KeiD / Abingdon: 暇すぎて GameNative 使ってスマホでsteam遊んでみた https://t.co/KUpQrCUglc</description>
-      <pubDate>Thu, 11 Jun 2026 13:52:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/keid_ms/status/2065069604150640891</guid>
     </item>
   </channel>
 </rss>

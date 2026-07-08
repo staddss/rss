@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Winlator%22</link>
     <description>Latest search results for '&quot;Winlator&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Winlator には思うところがあって(良い方に) 、もうちょい使いこなしたい。</title>
+      <link>https://x.com/8888EckhartT/status/2074708555144560885</link>
+      <description>どーもです@JRAの馬主🐴: Winlator には思うところがあって(良い方に) 、もうちょい使いこなしたい。</description>
+      <pubDate>Wed, 08 Jul 2026 04:14:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2074708555144560885</guid>
+    </item>
+    <item>
+      <title>※注意：Gamenativeだと多分ダメ 途中でGamenativeというエミュに変えたら、winhttp/versionどちらのオーバーライドを入れてもBepInExが一切起動せず、MODが効きませんでした（DLL注入がブロックされてる？） GameNativeはMODの導入方式と相性が悪いっぽい 日本語化MOD目的なら Winlator が確実そうです</title>
+      <link>https://x.com/X0362085466803/status/2074651275690721361</link>
+      <description>物体X: ※注意：Gamenativeだと多分ダメ 途中でGamenativeというエミュに変えたら、winhttp/versionどちらのオーバーライドを入れてもBepInExが一切起動せず、MODが効きませんでした（DLL注入がブロックされてる？） GameNativeはMODの導入方式と相性が悪いっぽい 日本語化MOD目的なら Winlator が確実そうです</description>
+      <pubDate>Wed, 08 Jul 2026 00:26:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/X0362085466803/status/2074651275690721361</guid>
+    </item>
+    <item>
+      <title>Winlator 内でWine Configuration→Librariesタブを開き、「winhttp」を追加（native, builtin）。 これをやらないとBepInEx自体が起動しません(LLM談) https://t.co/TzikNGj9IW</title>
+      <link>https://x.com/X0362085466803/status/2074650912732377162</link>
+      <description>物体X: Winlator 内でWine Configuration→Librariesタブを開き、「winhttp」を追加（native, builtin）。 これをやらないとBepInEx自体が起動しません(LLM談) https://t.co/TzikNGj9IW</description>
+      <pubDate>Wed, 08 Jul 2026 00:24:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/X0362085466803/status/2074650912732377162</guid>
+    </item>
+    <item>
+      <title>（実際どれが決め手だったかは正直あやふやですが、最終的に日本語で遊べてます） ■前提環境 ・端末：Galaxy S26 ・エミュ： Winlator （重要） ・Steamで活俠傳購入済み ・日本語化MODは「手動導入版(.zip)」を使用</title>
+      <link>https://x.com/X0362085466803/status/2074650809263128945</link>
+      <description>物体X: （実際どれが決め手だったかは正直あやふやですが、最終的に日本語で遊べてます） ■前提環境 ・端末：Galaxy S26 ・エミュ： Winlator （重要） ・Steamで活俠傳購入済み ・日本語化MODは「手動導入版(.zip)」を使用</description>
+      <pubDate>Wed, 08 Jul 2026 00:24:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/X0362085466803/status/2074650809263128945</guid>
+    </item>
+    <item>
+      <title>winlator でgstreamとdsoundとかテキトーにいじったら、ムービーの音は出るようになったけど、映像は出ないんだよなー どうすれば、、、 https://t.co/JsXe1uGKLN</title>
+      <link>https://x.com/daibakuhatulove/status/2074349673834520627</link>
+      <description>だいばくはつ愛好家: winlator でgstreamとdsoundとかテキトーにいじったら、ムービーの音は出るようになったけど、映像は出ないんだよなー どうすれば、、、 https://t.co/JsXe1uGKLN</description>
+      <pubDate>Tue, 07 Jul 2026 04:27:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/daibakuhatulove/status/2074349673834520627</guid>
+    </item>
+    <item>
       <title>Winlator /Gamehub系で十分ちゃんと動くところを見るに、ARM版SteamOSが出たらマジで革命起きるかもしれんね</title>
       <link>https://x.com/impress_zombie/status/2073118646164201562</link>
       <description>インプレゾンビ: Winlator /Gamehub系で十分ちゃんと動くところを見るに、ARM版SteamOSが出たらマジで革命起きるかもしれんね</description>
@@ -122,13 +157,6 @@
       <description>りゅーさん: アンドロイドに WINLATOR を入れてwindowsゲームを遊んでみる ウディタ編｜Τ督 @9cl6WxlbvB7ujCm https://t.co/HsL1aRjIi9</description>
       <pubDate>Thu, 11 Jun 2026 11:17:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cieciesterkes/status/2065030533248373237</guid>
-    </item>
-    <item>
-      <title>winlator は色々便利じゃな</title>
-      <link>https://x.com/daibakuhatulove/status/2063753573431914836</link>
-      <description>だいばくはつ愛好家: winlator は色々便利じゃな</description>
-      <pubDate>Sun, 07 Jun 2026 22:42:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/daibakuhatulove/status/2063753573431914836</guid>
     </item>
     <item>
       <title>暗闇を抜けたハッピーエンド。ハハハハハ 少なくともこれが最高の結末だ 🇯🇵🇬🇧シオン ～残酷な魔法の天使～ Shion ~Zankoku na Mahou no Tenshi~ 18+ Adult Visual Novel Japanese Hentai PC by Lilith Mist with English Translation Winlator Frost v10.0 ver 4.1 (Windows Emulator) Android https://t.co/HvDbjUUJ80</title>
