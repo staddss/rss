@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅への WireGuard 接続が不可能になってしまったので両方の作業マシンにCloudflare TunnelでSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</title>
+      <link>https://x.com/bit287/status/2074644463675420997</link>
+      <description>bit287: Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅への WireGuard 接続が不可能になってしまったので両方の作業マシンにCloudflare TunnelでSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</description>
+      <pubDate>Tue, 07 Jul 2026 23:59:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bit287/status/2074644463675420997</guid>
+    </item>
+    <item>
       <title>@Jbox_sandbag https://t.co/8B8kLfq2FDのサブドメインだとCloudflareに載せられないので、Tunnelだとホスト名が変わっちゃいますね、失礼しました🙏 ここから先は自分も実践したことがなくてClaudeに聞いた受け売りなんですが、ホスト名を維持したいならVPSを1台挟んでfrpや WireGuard でリバーストンネルを張る方式</title>
       <link>https://x.com/MyAYBCuZwxUTmMQ/status/2074622512819036560</link>
       <description>勝又@udowan合同会社: @Jbox_sandbag https://t.co/8B8kLfq2FDのサブドメインだとCloudflareに載せられないので、Tunnelだとホスト名が変わっちゃいますね、失礼しました🙏 ここから先は自分も実践したことがなくてClaudeに聞いた受け売りなんですが、ホスト名を維持したいならVPSを1台挟んでfrpや WireGuard でリバーストンネルを張る方式</description>
@@ -269,13 +276,6 @@
       <description>tomocha(とも ちゃ)@Job searching/無職＆就職活動中&amp;パパ活中: @jj1lfc @OrangeMorishita お疲れ様でした! 静岡～東京は4ms～6msです（TOKAI区間では2ms）。10msは大きいですが、なにかありますか？昔、TOKAIのBフレッツを使っていたときで、6ms以下でした。 wireguard をはるにしても、大きいような。</description>
       <pubDate>Wed, 01 Jul 2026 03:25:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tomocha0/status/2072159734908813752</guid>
-    </item>
-    <item>
-      <title>今日は快適になりました。 WireGuard の鍵を再生成したとのことでした。 #Internetweek_jp https://t.co/TDO7wxRboJ</title>
-      <link>https://x.com/OrangeMorishita/status/2072137154684387368</link>
-      <description>Yasuhiro Morishita: 今日は快適になりました。 WireGuard の鍵を再生成したとのことでした。 #Internetweek_jp https://t.co/TDO7wxRboJ</description>
-      <pubDate>Wed, 01 Jul 2026 01:56:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OrangeMorishita/status/2072137154684387368</guid>
     </item>
   </channel>
 </rss>
