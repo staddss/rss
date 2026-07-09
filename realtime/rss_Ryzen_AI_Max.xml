@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ryzen AI Max + 395マシン、Gemma4 31Bの生成が9.7tok/secはまあメモリ速度的にそうなんだけど、バッチ化しても26tok/secぐらいまでしか伸びないのは少しがっかり感ある・・？と思ったけど、これ1/3の値段だから全然アリか。 https://t.co/FSaeMLfk1x</title>
+      <link>https://x.com/horiuchi_dev/status/2075143085613621257</link>
+      <description>堀内暢之@SLM職人: Ryzen AI Max + 395マシン、Gemma4 31Bの生成が9.7tok/secはまあメモリ速度的にそうなんだけど、バッチ化しても26tok/secぐらいまでしか伸びないのは少しがっかり感ある・・？と思ったけど、これ1/3の値段だから全然アリか。 https://t.co/FSaeMLfk1x</description>
+      <pubDate>Thu, 09 Jul 2026 09:00:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075143085613621257</guid>
+    </item>
+    <item>
       <title>NVIDIA DGX Spark AMD Strix Halo AMD Ryzen AI Max + 395 が128GBメモリのようです</title>
       <link>https://x.com/Vengineer/status/2075095222389022742</link>
       <description>Vengineerの妄想: NVIDIA DGX Spark AMD Strix Halo AMD Ryzen AI Max + 395 が128GBメモリのようです</description>
       <pubDate>Thu, 09 Jul 2026 05:50:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Vengineer/status/2075095222389022742</guid>
+    </item>
+    <item>
+      <title>ゴジュウナナマンエン はにゃ？ ローカルAI特化の縦型ミニPC「EVO-X3」発売、 Ryzen AI Max + 395搭載 - PC Watch https://t.co/D9nmGxKmk1</title>
+      <link>https://x.com/MenBicycle/status/2075001532014326111</link>
+      <description>SURLY(ｻﾘｰ): ゴジュウナナマンエン はにゃ？ ローカルAI特化の縦型ミニPC「EVO-X3」発売、 Ryzen AI Max + 395搭載 - PC Watch https://t.co/D9nmGxKmk1</description>
+      <pubDate>Wed, 08 Jul 2026 23:38:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MenBicycle/status/2075001532014326111</guid>
     </item>
     <item>
       <title>Steam Machineって性能が微妙な上にオンライン系(アンチチートの為)のゲームがほぼ動かないって致命的では?まぁこちらはOSの制約だけど・・・ｗそれも入れても価格が高いCPUを Ryzen AI Max + 395にしたらよかったのに16Core32ThreadsでiGPUがRadeon8060SRAMをVRAMとして使うのでRAM搭載量でVRAM増えるし</title>
@@ -262,20 +276,6 @@
       <description>ryoppippi: macのfilesystemが遅いの初めて知った... worktree 作業はやっぱりlinuxじゃないといけないんかな 強いlinuxマシンが欲しい m5 max級のやつ ryzen ai max とか欲しい</description>
       <pubDate>Sat, 04 Jul 2026 13:45:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ryoppippi/status/2073402725308469285</guid>
-    </item>
-    <item>
-      <title>巨大AIの檻を破壊する192GBの暴力。AMD「 Ryzen AI Max 400」がx86に呼び込むローカルエージェントの夜明け https://t.co/O2eTjvglAx</title>
-      <link>https://x.com/S_u_i_t_o_u/status/2073321404754542659</link>
-      <description>すいとー: 巨大AIの檻を破壊する192GBの暴力。AMD「 Ryzen AI Max 400」がx86に呼び込むローカルエージェントの夜明け https://t.co/O2eTjvglAx</description>
-      <pubDate>Sat, 04 Jul 2026 08:21:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/S_u_i_t_o_u/status/2073321404754542659</guid>
-    </item>
-    <item>
-      <title>GMKTek「 Ryzen AI Max + 395に128GB RAM載せたらLLM動くやろ！」 AMD「えっ、誰が買うんですか」 逸般の皆様「よっしゃ！EVO-X2でLLM動かすぞ！」 AMD「売れるんだ……」 逸般のAMD社員「DGX Sparkみたいなやつ作ったんですけどどうすか」 一般のAMD「おぉ」 https://t.co/DR8ZtqDYlV</title>
-      <link>https://x.com/hawkymisc/status/2073312912786219183</link>
-      <description>ほーきー(Hawkie)🧹Vibe Coder &amp; Analytics: GMKTek「 Ryzen AI Max + 395に128GB RAM載せたらLLM動くやろ！」 AMD「えっ、誰が買うんですか」 逸般の皆様「よっしゃ！EVO-X2でLLM動かすぞ！」 AMD「売れるんだ……」 逸般のAMD社員「DGX Sparkみたいなやつ作ったんですけどどうすか」 一般のAMD「おぉ」 https://t.co/DR8ZtqDYlV</description>
-      <pubDate>Sat, 04 Jul 2026 07:48:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hawkymisc/status/2073312912786219183</guid>
     </item>
   </channel>
 </rss>

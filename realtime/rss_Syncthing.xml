@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>とりあえず以下の構成にそのうち変えよう Vault本体：HermesのホストPCのローカルディレクトリ PC間同期： Syncthing +Tailscale 履歴：GitHub バックアップ：NAS スマホ：Hermes経由</title>
+      <link>https://x.com/phasephi/status/2074849785648222563</link>
+      <description>のがみ: とりあえず以下の構成にそのうち変えよう Vault本体：HermesのホストPCのローカルディレクトリ PC間同期： Syncthing +Tailscale 履歴：GitHub バックアップ：NAS スマホ：Hermes経由</description>
+      <pubDate>Wed, 08 Jul 2026 13:35:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/phasephi/status/2074849785648222563</guid>
+    </item>
+    <item>
       <title>HermesのホストPCが常時稼働しているので、Obsidian Vaultの共有はOneDriveから Syncthing に変更しようかな。Tailscaleを使えば外部ネットワークからでも共有できるっぽいし。結局スマホからVault内のノートを直接見ることはほぼなく、Hermesに探させて必要な部分だけ抜粋してもらえれば十分だし。</title>
       <link>https://x.com/phasephi/status/2074847586650075256</link>
       <description>のがみ: HermesのホストPCが常時稼働しているので、Obsidian Vaultの共有はOneDriveから Syncthing に変更しようかな。Tailscaleを使えば外部ネットワークからでも共有できるっぽいし。結局スマホからVault内のノートを直接見ることはほぼなく、Hermesに探させて必要な部分だけ抜粋してもらえれば十分だし。</description>
@@ -269,13 +276,6 @@
       <description>けつ: syncthing 覚えた。</description>
       <pubDate>Tue, 16 Jun 2026 22:15:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/speed_stars/status/2067008277792313388</guid>
-    </item>
-    <item>
-      <title>あとあれね、自前クラウドストレージとして今までNextcloudを使ってたんだけど、今回ほかのアプリはサーバー上の別のPoolへインストール先を移動できたのにNextcloudだけが独自仕様なのかどうしても出来なかった。 こういうの、いざというとき不便なので使うのやめます。今は Syncthing をためしてる。</title>
-      <link>https://x.com/aiu_nekomachi/status/2066956818031804619</link>
-      <description>猫町あいう: あとあれね、自前クラウドストレージとして今までNextcloudを使ってたんだけど、今回ほかのアプリはサーバー上の別のPoolへインストール先を移動できたのにNextcloudだけが独自仕様なのかどうしても出来なかった。 こういうの、いざというとき不便なので使うのやめます。今は Syncthing をためしてる。</description>
-      <pubDate>Tue, 16 Jun 2026 18:51:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aiu_nekomachi/status/2066956818031804619</guid>
     </item>
   </channel>
 </rss>
