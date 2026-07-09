@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>うちの本番サーバーは机の上のRaspberry Pi。Flask+SQLiteをPM2で常駐させ、 Cloudflare Tunnel で公開している。固定IPもポート開放も不要で、維持費はほぼ電気代だけ。個人開発の規模ならこれで十分戦える。#個人開発 #RaspberryPi</title>
+      <link>https://x.com/chat_craft_web/status/2075203271304864038</link>
+      <description>poribake2 - アプリ個人開発: うちの本番サーバーは机の上のRaspberry Pi。Flask+SQLiteをPM2で常駐させ、 Cloudflare Tunnel で公開している。固定IPもポート開放も不要で、維持費はほぼ電気代だけ。個人開発の規模ならこれで十分戦える。#個人開発 #RaspberryPi</description>
+      <pubDate>Thu, 09 Jul 2026 12:59:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chat_craft_web/status/2075203271304864038</guid>
+    </item>
+    <item>
       <title>&quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/JIWcl4swKb</title>
       <link>https://x.com/attaka1/status/2075123131795263664</link>
       <description>attaka: &quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/JIWcl4swKb</description>
       <pubDate>Thu, 09 Jul 2026 07:41:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/attaka1/status/2075123131795263664</guid>
+    </item>
+    <item>
+      <title>業務で動画配信せい言われたから鯖は用意してくれるんかな思ったんやけど案の定動画は80MBまでです、とか寝言ほざかれて。 そんなんでどうやって動画配信すんねん💢 てなったけどまあ最初から何も期待してなかったんで古いPCに Ubuntu入れてnginxと cloudflare tunnel でmp4流すシステム構築したった。</title>
+      <link>https://x.com/arctor2010/status/2075103544957616320</link>
+      <description>あくとり（arctor）: 業務で動画配信せい言われたから鯖は用意してくれるんかな思ったんやけど案の定動画は80MBまでです、とか寝言ほざかれて。 そんなんでどうやって動画配信すんねん💢 てなったけどまあ最初から何も期待してなかったんで古いPCに Ubuntu入れてnginxと cloudflare tunnel でmp4流すシステム構築したった。</description>
+      <pubDate>Thu, 09 Jul 2026 06:23:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arctor2010/status/2075103544957616320</guid>
     </item>
     <item>
       <title>【外部AIからローカルを自律監視】 ポート開放ゼロでPCを安全に繋ぐ「 Cloudflare Tunnel ×リモートMCP」。外部AIにWSL内のログ監視や遠隔デバッグを任せるセキュアなインフラ構築手順を公開！ 自律開発の次ステップへ👇 https://t.co/d3J05ETbEg #AI自動化 #個人開発 https://t.co/pGV00RTWaY</title>
@@ -262,20 +276,6 @@
       <description>SEAHAL(Ja): Cloudflare Tunnel と Account で実装を楽するか。一部については IdP プロバイダを別途に用意が必要だけど、自前で実装するより楽やしななぁ。管理画面で苦労とかするくらいなら、PaaS の機構を積極的に使おうではないか。</description>
       <pubDate>Mon, 29 Jun 2026 13:59:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2071594417509835058</guid>
-    </item>
-    <item>
-      <title>【気になった記事】Raspberry Pi + Cloudflare Tunnel で安価で安… 元SEとして読んで思ったこと：元SEとして共感する部分が多かった https://t.co/3RRE55zbFz</title>
-      <link>https://x.com/nodence60159/status/2071536150628737428</link>
-      <description>nodence | IT・AI発信×生活保護から日常を綴る: 【気になった記事】Raspberry Pi + Cloudflare Tunnel で安価で安… 元SEとして読んで思ったこと：元SEとして共感する部分が多かった https://t.co/3RRE55zbFz</description>
-      <pubDate>Mon, 29 Jun 2026 10:08:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nodence60159/status/2071536150628737428</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel するのに3日もかかってしまって犬系彼女になってる</title>
-      <link>https://x.com/tukigime_ink/status/2071535356391113058</link>
-      <description>佐藤ぎめを🫩: cloudflare tunnel するのに3日もかかってしまって犬系彼女になってる</description>
-      <pubDate>Mon, 29 Jun 2026 10:04:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tukigime_ink/status/2071535356391113058</guid>
     </item>
   </channel>
 </rss>

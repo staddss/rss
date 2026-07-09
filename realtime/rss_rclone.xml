@@ -200,19 +200,5 @@
       <pubDate>Wed, 10 Jun 2026 03:35:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2064552118292558096</guid>
     </item>
-    <item>
-      <title>昨日ずっと裏で稼働させてた rclone でのGoogleDriveへのアップロード。GoogleTakeoutのデータだけど２０時間で８４GB程度だ。回線速度は２５０Mbps以上 上りもでてるけど もしかしたら公式アプリの方がいいのかもしれない 今日はHTS+が読めるというアプリをテスト 失敗したらUSBでLinuxをテスト</title>
-      <link>https://x.com/Hatsuseno_Y2/status/2064470931003912452</link>
-      <description>†Hatsuseno.Y.† @絵wip/Sandbox: 昨日ずっと裏で稼働させてた rclone でのGoogleDriveへのアップロード。GoogleTakeoutのデータだけど２０時間で８４GB程度だ。回線速度は２５０Mbps以上 上りもでてるけど もしかしたら公式アプリの方がいいのかもしれない 今日はHTS+が読めるというアプリをテスト 失敗したらUSBでLinuxをテスト</description>
-      <pubDate>Tue, 09 Jun 2026 22:13:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hatsuseno_Y2/status/2064470931003912452</guid>
-    </item>
-    <item>
-      <title>それはそうと、家のNASが死んだのだけど、そもそも高機能NASのOSはおれにはちょっと使いこなせないので、NASを辞める予定。15年間のNAS運用おつかれさま。 ・バックアップ/同期: → rclone でpCloud cryptへ全データ、B2は小容量 これを正本とする ・キャッシュ的運用 ・ミニPC＋USB3.1 HDD [Toshiba</title>
-      <link>https://x.com/42spg/status/2064347406473503059</link>
-      <description>たかふみ: それはそうと、家のNASが死んだのだけど、そもそも高機能NASのOSはおれにはちょっと使いこなせないので、NASを辞める予定。15年間のNAS運用おつかれさま。 ・バックアップ/同期: → rclone でpCloud cryptへ全データ、B2は小容量 これを正本とする ・キャッシュ的運用 ・ミニPC＋USB3.1 HDD [Toshiba</description>
-      <pubDate>Tue, 09 Jun 2026 14:02:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/42spg/status/2064347406473503059</guid>
-    </item>
   </channel>
 </rss>

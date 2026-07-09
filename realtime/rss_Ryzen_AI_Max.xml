@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ryzen AI Max + 395のllama、ほんの少しパッチするだけでsequence6~8のとこが1.6倍くらい速くなるっぽい。 sequence1~3のMMVQの差は小さいし、もはや全部MMQにしていいんじゃないかという気もする。 https://t.co/wVEUkLSq59</title>
+      <link>https://x.com/horiuchi_dev/status/2075330380778131801</link>
+      <description>堀内暢之@SLM職人: Ryzen AI Max + 395のllama、ほんの少しパッチするだけでsequence6~8のとこが1.6倍くらい速くなるっぽい。 sequence1~3のMMVQの差は小さいし、もはや全部MMQにしていいんじゃないかという気もする。 https://t.co/wVEUkLSq59</description>
+      <pubDate>Thu, 09 Jul 2026 21:24:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075330380778131801</guid>
+    </item>
+    <item>
+      <title>縦長・薄型EVO-X3発売 縦長・薄型EVO-X3をEVO-X2と比較し分析。 同じ高性能AMD Ryzen AI Max + 395搭載ミニAI PCだが縦長・薄型化により省スペース性が増し、高負荷AI処理でも長時間安定動作、AI能力追加可能なOCuLinkなど正常進化EVO-X3が判明。 https://t.co/hDdJJDchJX</title>
+      <link>https://x.com/HappyTechDigest/status/2075247086162137137</link>
+      <description>HappyTechブログ最新投稿【要約】: 縦長・薄型EVO-X3発売 縦長・薄型EVO-X3をEVO-X2と比較し分析。 同じ高性能AMD Ryzen AI Max + 395搭載ミニAI PCだが縦長・薄型化により省スペース性が増し、高負荷AI処理でも長時間安定動作、AI能力追加可能なOCuLinkなど正常進化EVO-X3が判明。 https://t.co/hDdJJDchJX</description>
+      <pubDate>Thu, 09 Jul 2026 15:53:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HappyTechDigest/status/2075247086162137137</guid>
+    </item>
+    <item>
+      <title>💻アリエク発！PCパーツ情報 #013｜2026/07/09 【今日のニュース】 AMDの次世代Zen 6アーキテクチャ採用モバイルCPU「Medusa Point」の10コア版がGeekbenchに登場。現行のRyzen AI 9 HX 370や Ryzen AI Max + https://t.co/zfxsYyNSIH</title>
+      <link>https://x.com/aliexp_store/status/2075218502903046425</link>
+      <description>アリエク推進同好会🗽: 💻アリエク発！PCパーツ情報 #013｜2026/07/09 【今日のニュース】 AMDの次世代Zen 6アーキテクチャ採用モバイルCPU「Medusa Point」の10コア版がGeekbenchに登場。現行のRyzen AI 9 HX 370や Ryzen AI Max + https://t.co/zfxsYyNSIH</description>
+      <pubDate>Thu, 09 Jul 2026 14:00:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aliexp_store/status/2075218502903046425</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max +は9割の人に過剰。7台買った結論｜ひろと@人生hack N100のマシン触ったことあるけどもたつきが酷かった https://t.co/79MyKbDScz</title>
+      <link>https://x.com/Yagami_Hayate/status/2075151225218277385</link>
+      <description>八神はやて: Ryzen AI Max +は9割の人に過剰。7台買った結論｜ひろと@人生hack N100のマシン触ったことあるけどもたつきが酷かった https://t.co/79MyKbDScz</description>
+      <pubDate>Thu, 09 Jul 2026 09:33:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yagami_Hayate/status/2075151225218277385</guid>
+    </item>
+    <item>
       <title>Ryzen AI Max + 395マシン、Gemma4 31Bの生成が9.7tok/secはまあメモリ速度的にそうなんだけど、バッチ化しても26tok/secぐらいまでしか伸びないのは少しがっかり感ある・・？と思ったけど、これ1/3の値段だから全然アリか。 https://t.co/FSaeMLfk1x</title>
       <link>https://x.com/horiuchi_dev/status/2075143085613621257</link>
       <description>堀内暢之@SLM職人: Ryzen AI Max + 395マシン、Gemma4 31Bの生成が9.7tok/secはまあメモリ速度的にそうなんだけど、バッチ化しても26tok/secぐらいまでしか伸びないのは少しがっかり感ある・・？と思ったけど、これ1/3の値段だから全然アリか。 https://t.co/FSaeMLfk1x</description>
@@ -248,34 +276,6 @@
       <description>Hideyuki Tanaka: Ryzen AI Max + 395の128GB機、一年前から普通に発売されてたのに、なんで今になって話題になってんだ？(´･_･`)ちなうちにもあるよ。</description>
       <pubDate>Sun, 05 Jul 2026 09:59:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tanakh/status/2073708413557830111</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 395はローカルLLM専用にして、追加でNvidiaのグラボ載せればええんと違うのか？ てか、 Ryzen AI Max + 395はライザーカードとか外付けボックスが光る気がする</title>
-      <link>https://x.com/madaraiwa/status/2073693161503981878</link>
-      <description>まだら岩: Ryzen AI Max + 395はローカルLLM専用にして、追加でNvidiaのグラボ載せればええんと違うのか？ てか、 Ryzen AI Max + 395はライザーカードとか外付けボックスが光る気がする</description>
-      <pubDate>Sun, 05 Jul 2026 08:59:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/madaraiwa/status/2073693161503981878</guid>
-    </item>
-    <item>
-      <title>Strix Halo（ Ryzen AI MAX シリーズ）搭載のAYANEO NEXTIIが「値段が高すぎる」と批判されているようだが、Strix Haloって高TDPでパフォーマンス発揮するのでそもそもUMPC向けじゃないんだよね 低TDPでもそれなりに強いのは認めるけど</title>
-      <link>https://x.com/GakuSakuragaoka/status/2073605821192368375</link>
-      <description>桜Library: Strix Halo（ Ryzen AI MAX シリーズ）搭載のAYANEO NEXTIIが「値段が高すぎる」と批判されているようだが、Strix Haloって高TDPでパフォーマンス発揮するのでそもそもUMPC向けじゃないんだよね 低TDPでもそれなりに強いのは認めるけど</description>
-      <pubDate>Sun, 05 Jul 2026 03:12:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GakuSakuragaoka/status/2073605821192368375</guid>
-    </item>
-    <item>
-      <title>NVIDIAの4000ドル級GPUがなくても、2350億パラメータ級モデルをデスクトップで回せる時代になってきた。 AMDの Ryzen AI Max 395は、CPUとGPUが同じ128GBメモリを共有し、うち110GBをGPUに振り切る設計になっている。 その結果、DeepSeek R1の推論でRTX https://t.co/foMtPGfdzR</title>
-      <link>https://x.com/h_a_t_a_r_a_k_e/status/2073432134552056056</link>
-      <description>働きたくない: NVIDIAの4000ドル級GPUがなくても、2350億パラメータ級モデルをデスクトップで回せる時代になってきた。 AMDの Ryzen AI Max 395は、CPUとGPUが同じ128GBメモリを共有し、うち110GBをGPUに振り切る設計になっている。 その結果、DeepSeek R1の推論でRTX https://t.co/foMtPGfdzR</description>
-      <pubDate>Sat, 04 Jul 2026 15:41:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_a_t_a_r_a_k_e/status/2073432134552056056</guid>
-    </item>
-    <item>
-      <title>macのfilesystemが遅いの初めて知った... worktree 作業はやっぱりlinuxじゃないといけないんかな 強いlinuxマシンが欲しい m5 max級のやつ ryzen ai max とか欲しい</title>
-      <link>https://x.com/ryoppippi/status/2073402725308469285</link>
-      <description>ryoppippi: macのfilesystemが遅いの初めて知った... worktree 作業はやっぱりlinuxじゃないといけないんかな 強いlinuxマシンが欲しい m5 max級のやつ ryzen ai max とか欲しい</description>
-      <pubDate>Sat, 04 Jul 2026 13:45:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryoppippi/status/2073402725308469285</guid>
     </item>
   </channel>
 </rss>
