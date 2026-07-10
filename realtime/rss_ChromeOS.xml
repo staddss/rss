@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そういえば「Android for PC」ってどうなったん？ Androidと ChromeOS の統合とかも言ってた気がするんだけど</title>
+      <link>https://x.com/MoonDoldo/status/2075670257445073046</link>
+      <description>ムーンドルド/瑠川 菜月🧚‍♀️: そういえば「Android for PC」ってどうなったん？ Androidと ChromeOS の統合とかも言ってた気がするんだけど</description>
+      <pubDate>Fri, 10 Jul 2026 19:55:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MoonDoldo/status/2075670257445073046</guid>
+    </item>
+    <item>
       <title>#securityupdate # chromeos Google が LTS-144 バージョンとして ChromeOS 144.0.7559.257 (Platform Version: 16503.90.0) をリリース． Critical 2 件 ・CVE-2026-8514 ・CVE-2026-12443 および High 8 件の脆弱性に対処． https://t.co/cljZcUSXqX</title>
       <link>https://x.com/kawn2020/status/2075426195316068391</link>
       <description>kawn: #securityupdate # chromeos Google が LTS-144 バージョンとして ChromeOS 144.0.7559.257 (Platform Version: 16503.90.0) をリリース． Critical 2 件 ・CVE-2026-8514 ・CVE-2026-12443 および High 8 件の脆弱性に対処． https://t.co/cljZcUSXqX</description>
@@ -269,13 +276,6 @@
       <description>らま: 外部ディスプレイの明るさ調整ってWindowsとMacはOSから操作できるアプリがあるのか。 ChromeOS もデフォルトで対応してほしいな。Linux開発環境からはほぼ無理みたいだし。</description>
       <pubDate>Mon, 06 Jul 2026 08:51:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/llama17/status/2074053614902063342</guid>
-    </item>
-    <item>
-      <title>Chromeos FlexのLinuxターミナル、copilot cliでShift+Enterでの改行が効かずに難儀していたが、ctrl+gで複数行の入力を $EDITOR で指定したエディタで入力/編集出来ることが分かり(これもcopilotに聞いたんだけど)、をを、そんな事ができるのかとちょっと感動した。</title>
-      <link>https://x.com/kabukawa/status/2074011041525318023</link>
-      <description>kabukawa: Chromeos FlexのLinuxターミナル、copilot cliでShift+Enterでの改行が効かずに難儀していたが、ctrl+gで複数行の入力を $EDITOR で指定したエディタで入力/編集出来ることが分かり(これもcopilotに聞いたんだけど)、をを、そんな事ができるのかとちょっと感動した。</description>
-      <pubDate>Mon, 06 Jul 2026 06:02:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kabukawa/status/2074011041525318023</guid>
     </item>
   </channel>
 </rss>

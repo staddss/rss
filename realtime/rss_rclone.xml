@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>@sh1ma これは rclone でマウントされたのでしょうか？それとも、ファイルシステムのマウントには別のツールを使われましたか？</title>
-      <link>https://x.com/azataiot/status/2075536101045854596</link>
-      <description>Azat: @sh1ma これは rclone でマウントされたのでしょうか？それとも、ファイルシステムのマウントには別のツールを使われましたか？</description>
-      <pubDate>Fri, 10 Jul 2026 11:02:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/azataiot/status/2075536101045854596</guid>
+      <title>rclone さん nfsmount とかもあるんだえらい。</title>
+      <link>https://x.com/potapoyo/status/2075602385138061624</link>
+      <description>ぽたぽよ（potapoyo）: rclone さん nfsmount とかもあるんだえらい。</description>
+      <pubDate>Fri, 10 Jul 2026 15:25:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/potapoyo/status/2075602385138061624</guid>
+    </item>
+    <item>
+      <title>@azataiot rclone だよ！</title>
+      <link>https://x.com/sh1ma/status/2075570080604405896</link>
+      <description>sh1ma: @azataiot rclone だよ！</description>
+      <pubDate>Fri, 10 Jul 2026 13:17:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sh1ma/status/2075570080604405896</guid>
+    </item>
+    <item>
+      <title>@Comamoca_ rclone 使うとファイルシステムとしてマウントできるのでFinderでみられます！</title>
+      <link>https://x.com/sh1ma/status/2075566660946427971</link>
+      <description>sh1ma: @Comamoca_ rclone 使うとファイルシステムとしてマウントできるのでFinderでみられます！</description>
+      <pubDate>Fri, 10 Jul 2026 13:03:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sh1ma/status/2075566660946427971</guid>
+    </item>
+    <item>
+      <title>（裏話） この画像投稿したときはFinder + Worker + WebDAVでやってたけどFinder + S3 Compatible API + Rclone に置き換えたよ どっちでもできるけどS3 APIのがいいかも Workerでは大規模なメディアを配信することはたしか規約違反なので</title>
+      <link>https://x.com/sh1ma/status/2075566247799103699</link>
+      <description>sh1ma: （裏話） この画像投稿したときはFinder + Worker + WebDAVでやってたけどFinder + S3 Compatible API + Rclone に置き換えたよ どっちでもできるけどS3 APIのがいいかも Workerでは大規模なメディアを配信することはたしか規約違反なので</description>
+      <pubDate>Fri, 10 Jul 2026 13:02:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sh1ma/status/2075566247799103699</guid>
+    </item>
+    <item>
+      <title>@Ethan_0x00 rclone !記事よければどうぞ https://t.co/a1QGzey9v1</title>
+      <link>https://x.com/sh1ma/status/2075564940640075944</link>
+      <description>sh1ma: @Ethan_0x00 rclone !記事よければどうぞ https://t.co/a1QGzey9v1</description>
+      <pubDate>Fri, 10 Jul 2026 12:56:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sh1ma/status/2075564940640075944</guid>
     </item>
     <item>
       <title>ということで rclone 使ってGoogle DriveのURL取得したらするスクリプト作った。これでGoogle Drive縛りなしでファイラーが選べる！</title>
@@ -17,6 +45,13 @@
       <description>Hiro Nishimiya: ということで rclone 使ってGoogle DriveのURL取得したらするスクリプト作った。これでGoogle Drive縛りなしでファイラーが選べる！</description>
       <pubDate>Fri, 10 Jul 2026 10:52:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hnishim/status/2075533634954805445</guid>
+    </item>
+    <item>
+      <title>惜しくも二軍 FreshRSS→RSSリーダ/ChangeDetection→変更検知/AgentDVR→多機能で使いやすいNVR。USBカメラも使える/ Rclone →pCloudで同期するとトラフィック爆発的増加するが、まあ便利なクラウドCLI連携/dockge or casaos どちらも使いやすいセルフホストツール。テキトーに使いやすいのは後者 https://t.co/5KarAxbqt8</title>
+      <link>https://x.com/shigetoroku1010/status/2075420178163417530</link>
+      <description>重藤 六🐸ガジェットブロガー: 惜しくも二軍 FreshRSS→RSSリーダ/ChangeDetection→変更検知/AgentDVR→多機能で使いやすいNVR。USBカメラも使える/ Rclone →pCloudで同期するとトラフィック爆発的増加するが、まあ便利なクラウドCLI連携/dockge or casaos どちらも使いやすいセルフホストツール。テキトーに使いやすいのは後者 https://t.co/5KarAxbqt8</description>
+      <pubDate>Fri, 10 Jul 2026 03:21:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2075420178163417530</guid>
     </item>
     <item>
       <title>Dokanは知ってたけど今はWinFspなるものが活発になっているのか。 Rclone とかの名前は知ってたけどそちらでWinFspが活躍してる事を知らなかったわ…。</title>
