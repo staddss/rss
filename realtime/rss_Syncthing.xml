@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kankitsu_mikan あっ、Linuxとは限りませんよね🤔 となると日時バックアップ処理を取らないのでわかりません‼️ AndroidとWindowsだったらば Syncthing +Version管理機能で無理やりやるのが一番楽ですかね</title>
+      <link>https://x.com/shigetoroku1010/status/2075425192646672792</link>
+      <description>重藤 六🐸ガジェットブロガー: @kankitsu_mikan あっ、Linuxとは限りませんよね🤔 となると日時バックアップ処理を取らないのでわかりません‼️ AndroidとWindowsだったらば Syncthing +Version管理機能で無理やりやるのが一番楽ですかね</description>
+      <pubDate>Fri, 10 Jul 2026 03:41:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2075425192646672792</guid>
+    </item>
+    <item>
       <title>結構格闘してWindowsとタブレットのObsidian同期を確立。 同期方法色々試して Syncthing に決定～ 特にPushとかPullとかしなくて良くなったのが良い。 勝手に同期してるくれるからメモをWin環境に送るのが簡単だ</title>
       <link>https://x.com/souha_1008/status/2075220426314408286</link>
       <description>souha: 結構格闘してWindowsとタブレットのObsidian同期を確立。 同期方法色々試して Syncthing に決定～ 特にPushとかPullとかしなくて良くなったのが良い。 勝手に同期してるくれるからメモをWin環境に送るのが簡単だ</description>
       <pubDate>Thu, 09 Jul 2026 14:08:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/souha_1008/status/2075220426314408286</guid>
+    </item>
+    <item>
+      <title>いま、ClaudeCodeとCodexをUIとして、裏側で4つのLLMを連携させる仕組みで動かしてます。共通のメモリ・ストレージとして使うのはObsidian。Dropbox・ Syncthing で同期することで複数PCで使えます https://t.co/teBroxkwTm</title>
+      <link>https://x.com/kuzyofire/status/2075212627517776130</link>
+      <description>九条@セミリタイア: いま、ClaudeCodeとCodexをUIとして、裏側で4つのLLMを連携させる仕組みで動かしてます。共通のメモリ・ストレージとして使うのはObsidian。Dropbox・ Syncthing で同期することで複数PCで使えます https://t.co/teBroxkwTm</description>
+      <pubDate>Thu, 09 Jul 2026 13:37:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuzyofire/status/2075212627517776130</guid>
     </item>
     <item>
       <title>Vibeコーディングが怖いというより、定番ソフトや王道のアプリがなくなることが怖い🐸です。 immichとか Syncthing とかそういうレベル感の定番ソフト的なものが弱くなるとなんか紹介しづらくなるというか(言語化至らず)</title>
@@ -262,20 +276,6 @@
       <description>kz14: Syncthing でスマホを同期するのにかなり手こずった。 試行錯誤の過程で同期したいファイルを消したりもしたけれどなんとか期待通りの動作に落ち着いた。</description>
       <pubDate>Sat, 20 Jun 2026 12:04:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kz14/status/2068304052283462105</guid>
-    </item>
-    <item>
-      <title>・OpenClawを使いこなすTips - OpenClawをアップデートすると必ずトラブルが発生するので、AIエージェントにデバッグさせる - API課金は危険だが、Codexのサブスクは使用可 - Tailscaleでプライベートネットワークを簡単に構築できる - Syncthing でP2Pファイル同期が可能</title>
-      <link>https://x.com/sam_murayama/status/2067447995789091282</link>
-      <description>村山 理: ・OpenClawを使いこなすTips - OpenClawをアップデートすると必ずトラブルが発生するので、AIエージェントにデバッグさせる - API課金は危険だが、Codexのサブスクは使用可 - Tailscaleでプライベートネットワークを簡単に構築できる - Syncthing でP2Pファイル同期が可能</description>
-      <pubDate>Thu, 18 Jun 2026 03:23:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sam_murayama/status/2067447995789091282</guid>
-    </item>
-    <item>
-      <title>きるのでAndroidの現状に合わせてる印象がありました。 とはいえ Syncthing に余計な機能がついてないのは大きな美点だと思う。スプレッドシートや動画やのプレビューどころか同期したフォルダを閲覧するファイラ機能がそもそもないですからね。同期するだけ。こういうのが良いんですよ…</title>
-      <link>https://x.com/aiu_nekomachi/status/2067374114227322905</link>
-      <description>猫町あいう: きるのでAndroidの現状に合わせてる印象がありました。 とはいえ Syncthing に余計な機能がついてないのは大きな美点だと思う。スプレッドシートや動画やのプレビューどころか同期したフォルダを閲覧するファイラ機能がそもそもないですからね。同期するだけ。こういうのが良いんですよ…</description>
-      <pubDate>Wed, 17 Jun 2026 22:29:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aiu_nekomachi/status/2067374114227322905</guid>
     </item>
   </channel>
 </rss>

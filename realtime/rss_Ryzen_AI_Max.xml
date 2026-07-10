@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>不思議な縁で @Tono_Ken3 さんより譲り受けた EVO-X2 の話。 GMKtec EVO-X2 Ryzen AI Max + 395 / 128GB統合メモリ DeepSeek V4 Flash 284B MoE をローカル実行。 IQ2XXS 2bit量子化で約81GB、推論エンジンは antirez 作の ds4。 ROCm環境で prefill 150〜246 tok/s、decode 15〜16 tok/s 程度。</title>
+      <link>https://x.com/NightMustEnd/status/2075382995385794627</link>
+      <description>NightMustEnd: 不思議な縁で @Tono_Ken3 さんより譲り受けた EVO-X2 の話。 GMKtec EVO-X2 Ryzen AI Max + 395 / 128GB統合メモリ DeepSeek V4 Flash 284B MoE をローカル実行。 IQ2XXS 2bit量子化で約81GB、推論エンジンは antirez 作の ds4。 ROCm環境で prefill 150〜246 tok/s、decode 15〜16 tok/s 程度。</description>
+      <pubDate>Fri, 10 Jul 2026 00:53:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NightMustEnd/status/2075382995385794627</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max + 395 x LLM の世の中のブログ、かなりいい加減だな。。明らかにGPUを使い切れてないのに「飽和」「最適」とか言いきってるし、使ったモデルを明示しないベンチマーク記事とかあるし・・ まあout of the boxならDGX</title>
+      <link>https://x.com/horiuchi_dev/status/2075356181145784804</link>
+      <description>堀内暢之@SLM職人: Ryzen AI Max + 395 x LLM の世の中のブログ、かなりいい加減だな。。明らかにGPUを使い切れてないのに「飽和」「最適」とか言いきってるし、使ったモデルを明示しないベンチマーク記事とかあるし・・ まあout of the boxならDGX</description>
+      <pubDate>Thu, 09 Jul 2026 23:07:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075356181145784804</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max + 395にメモリ128G搭載で50万切ってるなら現状ではだいぶ安いのでは？ と思ったけど既にグラボぽちってしまったので買うお金がない。 https://t.co/jdthQTpNox</title>
+      <link>https://x.com/hetaremania/status/2075355020082790634</link>
+      <description>TOMODA Masanori: Ryzen AI Max + 395にメモリ128G搭載で50万切ってるなら現状ではだいぶ安いのでは？ と思ったけど既にグラボぽちってしまったので買うお金がない。 https://t.co/jdthQTpNox</description>
+      <pubDate>Thu, 09 Jul 2026 23:02:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hetaremania/status/2075355020082790634</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max + 395の次の課題はむしろPP（プロンプト処理）がDenseだと300tok/secぐらいしかでないことだけど・・感覚的には倍とか3倍いっててもおかしくないと思うんだよな。これも最適化の問題なのか・・？</title>
+      <link>https://x.com/horiuchi_dev/status/2075352949904261321</link>
+      <description>堀内暢之@SLM職人: Ryzen AI Max + 395の次の課題はむしろPP（プロンプト処理）がDenseだと300tok/secぐらいしかでないことだけど・・感覚的には倍とか3倍いっててもおかしくないと思うんだよな。これも最適化の問題なのか・・？</description>
+      <pubDate>Thu, 09 Jul 2026 22:54:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075352949904261321</guid>
+    </item>
+    <item>
       <title>Ryzen AI Max + 395のllama、ほんの少しパッチするだけでsequence6~8のとこが1.6倍くらい速くなるっぽい。 sequence1~3のMMVQの差は小さいし、もはや全部MMQにしていいんじゃないかという気もする。 https://t.co/wVEUkLSq59</title>
       <link>https://x.com/horiuchi_dev/status/2075330380778131801</link>
       <description>堀内暢之@SLM職人: Ryzen AI Max + 395のllama、ほんの少しパッチするだけでsequence6~8のとこが1.6倍くらい速くなるっぽい。 sequence1~3のMMVQの差は小さいし、もはや全部MMQにしていいんじゃないかという気もする。 https://t.co/wVEUkLSq59</description>
@@ -17,6 +45,13 @@
       <description>HappyTechブログ最新投稿【要約】: 縦長・薄型EVO-X3発売 縦長・薄型EVO-X3をEVO-X2と比較し分析。 同じ高性能AMD Ryzen AI Max + 395搭載ミニAI PCだが縦長・薄型化により省スペース性が増し、高負荷AI処理でも長時間安定動作、AI能力追加可能なOCuLinkなど正常進化EVO-X3が判明。 https://t.co/hDdJJDchJX</description>
       <pubDate>Thu, 09 Jul 2026 15:53:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/HappyTechDigest/status/2075247086162137137</guid>
+    </item>
+    <item>
+      <title>モバイル系Ryzenの次世代Medusa Pointはシングルが非常に優秀というベンチマーク結果が出てきた模様 Ryzen AI Max + 395のシングルが2750くらいに対して新CPUは3174 https://t.co/ubNMPFwy7L 400番台がガッカリ性能だったので次こそはという期待感 #MedusaPoint #AMD</title>
+      <link>https://x.com/miniPCfunnel/status/2075231432335884362</link>
+      <description>miniPCfunnel: モバイル系Ryzenの次世代Medusa Pointはシングルが非常に優秀というベンチマーク結果が出てきた模様 Ryzen AI Max + 395のシングルが2750くらいに対して新CPUは3174 https://t.co/ubNMPFwy7L 400番台がガッカリ性能だったので次こそはという期待感 #MedusaPoint #AMD</description>
+      <pubDate>Thu, 09 Jul 2026 14:51:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/miniPCfunnel/status/2075231432335884362</guid>
     </item>
     <item>
       <title>💻アリエク発！PCパーツ情報 #013｜2026/07/09 【今日のニュース】 AMDの次世代Zen 6アーキテクチャ採用モバイルCPU「Medusa Point」の10コア版がGeekbenchに登場。現行のRyzen AI 9 HX 370や Ryzen AI Max + https://t.co/zfxsYyNSIH</title>
@@ -241,41 +276,6 @@
       <description>AKIBA PC Hotline! （秋葉原）: 更新： Ryzen AI Max + 395やメモリ128GB搭載のミニワークステーション「ER939-AI Pro」が発売、価格は約70万円 https://t.co/OHE3I0o8im https://t.co/OaZu0QC7R4</description>
       <pubDate>Sun, 05 Jul 2026 15:00:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/watch_akiba/status/2073784003614867567</guid>
-    </item>
-    <item>
-      <title>俺の2020年2月以降のメインPCよりも省電力でx86ベースで高性能なパソコン欲しい。 そろそろ Ryzen AI Max + Pro 495搭載のやつ出てくる？ ああいうのGPU込みでTDP55Wと今の俺のメインPCよりも圧倒的に電力効率が高いじゃん。</title>
-      <link>https://x.com/ToshiH14_8/status/2073754410795331619</link>
-      <description>藤永寿大/ToshiH14: 俺の2020年2月以降のメインPCよりも省電力でx86ベースで高性能なパソコン欲しい。 そろそろ Ryzen AI Max + Pro 495搭載のやつ出てくる？ ああいうのGPU込みでTDP55Wと今の俺のメインPCよりも圧倒的に電力効率が高いじゃん。</description>
-      <pubDate>Sun, 05 Jul 2026 13:02:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ToshiH14_8/status/2073754410795331619</guid>
-    </item>
-    <item>
-      <title>俺の2020年2月以降のメインPCよりも省電力でx86ベースで高性能なパソコン欲しい。 そろそろ Ryzen AI Max + 495搭載のやつ出てくる？ ああいうのGPU込みでTDP55Wと今の俺のメインPCよりも圧倒的に電力効率が高いじゃん。</title>
-      <link>https://x.com/ToshiH14_8/status/2073753406129438739</link>
-      <description>藤永寿大/ToshiH14: 俺の2020年2月以降のメインPCよりも省電力でx86ベースで高性能なパソコン欲しい。 そろそろ Ryzen AI Max + 495搭載のやつ出てくる？ ああいうのGPU込みでTDP55Wと今の俺のメインPCよりも圧倒的に電力効率が高いじゃん。</description>
-      <pubDate>Sun, 05 Jul 2026 12:58:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ToshiH14_8/status/2073753406129438739</guid>
-    </item>
-    <item>
-      <title>サイドデスク出来た(*‘ω‘ *) ちっこいノートだけど Ryzen AI MAX +395 / 128GBメモリのお化けスペックさ。 https://t.co/j1PAdxZmJN</title>
-      <link>https://x.com/nanomix_ltd/status/2073736897135096074</link>
-      <description>謎みくすちゃんは、カルドセプトに備えている。: サイドデスク出来た(*‘ω‘ *) ちっこいノートだけど Ryzen AI MAX +395 / 128GBメモリのお化けスペックさ。 https://t.co/j1PAdxZmJN</description>
-      <pubDate>Sun, 05 Jul 2026 11:52:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanomix_ltd/status/2073736897135096074</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max のUMA 128GBのやつ、x86_64なんだ</title>
-      <link>https://x.com/arclisp/status/2073709005025972673</link>
-      <description>若い男が雲にキレる: Ryzen AI Max のUMA 128GBのやつ、x86_64なんだ</description>
-      <pubDate>Sun, 05 Jul 2026 10:02:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arclisp/status/2073709005025972673</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 395の128GB機、一年前から普通に発売されてたのに、なんで今になって話題になってんだ？(´･_･`)ちなうちにもあるよ。</title>
-      <link>https://x.com/tanakh/status/2073708413557830111</link>
-      <description>Hideyuki Tanaka: Ryzen AI Max + 395の128GB機、一年前から普通に発売されてたのに、なんで今になって話題になってんだ？(´･_･`)ちなうちにもあるよ。</description>
-      <pubDate>Sun, 05 Jul 2026 09:59:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanakh/status/2073708413557830111</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@tokitamiki 河豚板というOpenBSDのライブシステムを開発・公開しています https://t.co/hVDpaPRsjH OpenBSDのお試しとしてどうぞ。そのまま常用もできます 私自身も WireGuard でVPNを動作させていますが、安定して使えています</title>
+      <link>https://x.com/yoshi_kaw/status/2075392015140044972</link>
+      <description>Yoshihiro Kawamata: @tokitamiki 河豚板というOpenBSDのライブシステムを開発・公開しています https://t.co/hVDpaPRsjH OpenBSDのお試しとしてどうぞ。そのまま常用もできます 私自身も WireGuard でVPNを動作させていますが、安定して使えています</description>
+      <pubDate>Fri, 10 Jul 2026 01:29:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yoshi_kaw/status/2075392015140044972</guid>
+    </item>
+    <item>
+      <title>大学の Wi-Fi から家の PC に WireGuard で繋げようとしたが，なんか外向き UDP が一部ポートとかを除いてブロックされてるっぽくて厳しい気持ちに</title>
+      <link>https://x.com/linuxmetel/status/2075063341417181625</link>
+      <description>Linuxmetel: 大学の Wi-Fi から家の PC に WireGuard で繋げようとしたが，なんか外向き UDP が一部ポートとかを除いてブロックされてるっぽくて厳しい気持ちに</description>
+      <pubDate>Thu, 09 Jul 2026 03:43:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/linuxmetel/status/2075063341417181625</guid>
+    </item>
+    <item>
       <title>Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅への WireGuard 接続が不可能になってしまったので両方の作業マシンにCloudflare TunnelでSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</title>
       <link>https://x.com/bit287/status/2074644463675420997</link>
       <description>bit287: Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅への WireGuard 接続が不可能になってしまったので両方の作業マシンにCloudflare TunnelでSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</description>
@@ -262,20 +276,6 @@
       <description>MuNeNiCK: VPPデータプレーン内で WireGuard 張れるやつ Wireguard vpp-plugin https://t.co/7caaN7npeS</description>
       <pubDate>Wed, 01 Jul 2026 05:40:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nick_mune0127/status/2072193640387256399</guid>
-    </item>
-    <item>
-      <title>おうちには Wireguard でつなぎます</title>
-      <link>https://x.com/a636c6566z/status/2072169514834543025</link>
-      <description>物体X: おうちには Wireguard でつなぎます</description>
-      <pubDate>Wed, 01 Jul 2026 04:04:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/a636c6566z/status/2072169514834543025</guid>
-    </item>
-    <item>
-      <title>@jj1lfc @OrangeMorishita お疲れ様でした! 静岡～東京は4ms～6msです（TOKAI区間では2ms）。10msは大きいですが、なにかありますか？昔、TOKAIのBフレッツを使っていたときで、6ms以下でした。 wireguard をはるにしても、大きいような。</title>
-      <link>https://x.com/tomocha0/status/2072159734908813752</link>
-      <description>tomocha(とも ちゃ)@Job searching/無職＆就職活動中&amp;パパ活中: @jj1lfc @OrangeMorishita お疲れ様でした! 静岡～東京は4ms～6msです（TOKAI区間では2ms）。10msは大きいですが、なにかありますか？昔、TOKAIのBフレッツを使っていたときで、6ms以下でした。 wireguard をはるにしても、大きいような。</description>
-      <pubDate>Wed, 01 Jul 2026 03:25:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomocha0/status/2072159734908813752</guid>
     </item>
   </channel>
 </rss>

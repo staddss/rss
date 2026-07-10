@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>#securityupdate # chromeos Google が LTS-144 バージョンとして ChromeOS 144.0.7559.257 (Platform Version: 16503.90.0) をリリース． Critical 2 件 ・CVE-2026-8514 ・CVE-2026-12443 および High 8 件の脆弱性に対処． https://t.co/cljZcUSXqX</title>
+      <link>https://x.com/kawn2020/status/2075426195316068391</link>
+      <description>kawn: #securityupdate # chromeos Google が LTS-144 バージョンとして ChromeOS 144.0.7559.257 (Platform Version: 16503.90.0) をリリース． Critical 2 件 ・CVE-2026-8514 ・CVE-2026-12443 および High 8 件の脆弱性に対処． https://t.co/cljZcUSXqX</description>
+      <pubDate>Fri, 10 Jul 2026 03:45:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawn2020/status/2075426195316068391</guid>
+    </item>
+    <item>
+      <title>FUTRO S740…起動したら画面端に知らない影🙏 富士通 FUTRO S740 J4105 8GB ChromeOS Flex ㊶ https://t.co/OEjVxT5VXD</title>
+      <link>https://x.com/kageyama0rei/status/2075403073166663858</link>
+      <description>影山零: FUTRO S740…起動したら画面端に知らない影🙏 富士通 FUTRO S740 J4105 8GB ChromeOS Flex ㊶ https://t.co/OEjVxT5VXD</description>
+      <pubDate>Fri, 10 Jul 2026 02:13:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kageyama0rei/status/2075403073166663858</guid>
+    </item>
+    <item>
+      <title>エセ ChromeOS を作っています https://t.co/MirnqMqjhE https://t.co/qlsxC1pQa7</title>
+      <link>https://x.com/z0uy1n/status/2075373679916245111</link>
+      <description>奏音 No.40 ☭ @z0uy1n 🏳️‍⚧️: エセ ChromeOS を作っています https://t.co/MirnqMqjhE https://t.co/qlsxC1pQa7</description>
+      <pubDate>Fri, 10 Jul 2026 00:16:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/z0uy1n/status/2075373679916245111</guid>
+    </item>
+    <item>
+      <title>🔒 ChromeOS ユーザーの私も「なるほど」と思った。 百聞は一見にしかず--「Windows」ユーザーに「Linux」を試してもらうコツ - ZDNET Japan https://t.co/n9a5C0opwq @zdnet_japanより</title>
+      <link>https://x.com/ttatsuoki/status/2075362754278646235</link>
+      <description>龍興 尚幸 (TATSUOKI Takayuki): 🔒 ChromeOS ユーザーの私も「なるほど」と思った。 百聞は一見にしかず--「Windows」ユーザーに「Linux」を試してもらうコツ - ZDNET Japan https://t.co/n9a5C0opwq @zdnet_japanより</description>
+      <pubDate>Thu, 09 Jul 2026 23:33:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2075362754278646235</guid>
+    </item>
+    <item>
       <title>ChromeOS がBeta 150.0.7871.118になった＝ｗ＝ #Chromebook</title>
       <link>https://x.com/Adelade_Lee/status/2075316730554138834</link>
       <description>アデラド・リー: ChromeOS がBeta 150.0.7871.118になった＝ｗ＝ #Chromebook</description>
@@ -138,13 +166,6 @@
       <guid isPermaLink="true">https://x.com/udonfurinkazan/status/2074448055424933972</guid>
     </item>
     <item>
-      <title>@DaRuma90081 流石、ダルマさんだな。 私の仕事、なんだと思っているのかしら… ubuntuOS、LinuxOS、macOS、WindowsOS、 chromeOS …</title>
-      <link>https://x.com/kitazo/status/2074433481514553661</link>
-      <description>キタゾー: @DaRuma90081 流石、ダルマさんだな。 私の仕事、なんだと思っているのかしら… ubuntuOS、LinuxOS、macOS、WindowsOS、 chromeOS …</description>
-      <pubDate>Tue, 07 Jul 2026 10:00:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kitazo/status/2074433481514553661</guid>
-    </item>
-    <item>
       <title>Bluetoothでレシーバー(アンプ)に電波を飛ばして音楽鑑賞中に突然Bluetooth切断。マウスも同じタイミングで切れた。 ChromeOS のUpdateからは時間が経っている。Bluetoothのチップの問題だろうか？今日は暑くはないのだが。 https://t.co/ygsT1PpBar</title>
       <link>https://x.com/newport8865/status/2074369529246032207</link>
       <description>MOCHI Takehito 望 岳人 (K N): Bluetoothでレシーバー(アンプ)に電波を飛ばして音楽鑑賞中に突然Bluetooth切断。マウスも同じタイミングで切れた。 ChromeOS のUpdateからは時間が経っている。Bluetoothのチップの問題だろうか？今日は暑くはないのだが。 https://t.co/ygsT1PpBar</description>
@@ -255,27 +276,6 @@
       <description>kabukawa: Chromeos FlexのLinuxターミナル、copilot cliでShift+Enterでの改行が効かずに難儀していたが、ctrl+gで複数行の入力を $EDITOR で指定したエディタで入力/編集出来ることが分かり(これもcopilotに聞いたんだけど)、をを、そんな事ができるのかとちょっと感動した。</description>
       <pubDate>Mon, 06 Jul 2026 06:02:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kabukawa/status/2074011041525318023</guid>
-    </item>
-    <item>
-      <title>Chromeos Flexでリモートデスクトップ接続ができない問題をcopilot cliで調査/対応してみた。期待した結果(Remminaではなくxfreerdpでの接続になった)ではなかったけど問題は解消したので良かった。調査手順も見たけど、思考の過程が見えるのは面白い。</title>
-      <link>https://x.com/kabukawa/status/2074001588713316864</link>
-      <description>kabukawa: Chromeos Flexでリモートデスクトップ接続ができない問題をcopilot cliで調査/対応してみた。期待した結果(Remminaではなくxfreerdpでの接続になった)ではなかったけど問題は解消したので良かった。調査手順も見たけど、思考の過程が見えるのは面白い。</description>
-      <pubDate>Mon, 06 Jul 2026 05:24:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kabukawa/status/2074001588713316864</guid>
-    </item>
-    <item>
-      <title>Adobe系のソフトを使う+Macは高いから仕方なくWindowsを使っているけど、adobeソフトがlinuxや ChromeOS などに対応したら、即乗り換えると思う https://t.co/4loEj8WwtH</title>
-      <link>https://x.com/kusamotokinoco/status/2073998267847971288</link>
-      <description>キノコファクトリー（くさもときのこ）: Adobe系のソフトを使う+Macは高いから仕方なくWindowsを使っているけど、adobeソフトがlinuxや ChromeOS などに対応したら、即乗り換えると思う https://t.co/4loEj8WwtH</description>
-      <pubDate>Mon, 06 Jul 2026 05:11:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kusamotokinoco/status/2073998267847971288</guid>
-    </item>
-    <item>
-      <title>富士通の小型PC… ChromeOS で軽く作業できそう 便利かも 富士通 FUTRO S740 J4105 8GB ChromeOS Flex ㉛ https://t.co/fqKZNtFaue</title>
-      <link>https://x.com/yukipeachnote/status/2073988498965807367</link>
-      <description>白峰雪菜: 富士通の小型PC… ChromeOS で軽く作業できそう 便利かも 富士通 FUTRO S740 J4105 8GB ChromeOS Flex ㉛ https://t.co/fqKZNtFaue</description>
-      <pubDate>Mon, 06 Jul 2026 04:32:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yukipeachnote/status/2073988498965807367</guid>
     </item>
   </channel>
 </rss>
