@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>@tokitamiki 河豚板というOpenBSDのライブシステムを開発・公開しています https://t.co/hVDpaPRsjH OpenBSDのお試しとしてどうぞ。そのまま常用もできます 私自身も WireGuard でVPNを動作させていますが、安定して使えています</title>
-      <link>https://x.com/yoshi_kaw/status/2075392015140044972</link>
-      <description>Yoshihiro Kawamata: @tokitamiki 河豚板というOpenBSDのライブシステムを開発・公開しています https://t.co/hVDpaPRsjH OpenBSDのお試しとしてどうぞ。そのまま常用もできます 私自身も WireGuard でVPNを動作させていますが、安定して使えています</description>
-      <pubDate>Fri, 10 Jul 2026 01:29:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yoshi_kaw/status/2075392015140044972</guid>
+      <title>@yoshi_kaw ありがとうございます。 OpenBSD は10年くらい前にちょろっと触ったので全く知らない訳ではないんですが、まぁほぼ知らないと同じですね。w せっかくだからVPNサーバ( WireGuard )はOpenBSDにしてみようと思います。</title>
+      <link>https://x.com/tokitamiki/status/2075404776456716735</link>
+      <description>ときたみ: @yoshi_kaw ありがとうございます。 OpenBSD は10年くらい前にちょろっと触ったので全く知らない訳ではないんですが、まぁほぼ知らないと同じですね。w せっかくだからVPNサーバ( WireGuard )はOpenBSDにしてみようと思います。</description>
+      <pubDate>Fri, 10 Jul 2026 02:20:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tokitamiki/status/2075404776456716735</guid>
     </item>
     <item>
       <title>大学の Wi-Fi から家の PC に WireGuard で繋げようとしたが，なんか外向き UDP が一部ポートとかを除いてブロックされてるっぽくて厳しい気持ちに</title>

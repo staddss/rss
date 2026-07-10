@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@sh1ma これは rclone でマウントされたのでしょうか？それとも、ファイルシステムのマウントには別のツールを使われましたか？</title>
+      <link>https://x.com/azataiot/status/2075536101045854596</link>
+      <description>Azat: @sh1ma これは rclone でマウントされたのでしょうか？それとも、ファイルシステムのマウントには別のツールを使われましたか？</description>
+      <pubDate>Fri, 10 Jul 2026 11:02:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/azataiot/status/2075536101045854596</guid>
+    </item>
+    <item>
+      <title>ということで rclone 使ってGoogle DriveのURL取得したらするスクリプト作った。これでGoogle Drive縛りなしでファイラーが選べる！</title>
+      <link>https://x.com/hnishim/status/2075533634954805445</link>
+      <description>Hiro Nishimiya: ということで rclone 使ってGoogle DriveのURL取得したらするスクリプト作った。これでGoogle Drive縛りなしでファイラーが選べる！</description>
+      <pubDate>Fri, 10 Jul 2026 10:52:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hnishim/status/2075533634954805445</guid>
+    </item>
+    <item>
       <title>Dokanは知ってたけど今はWinFspなるものが活発になっているのか。 Rclone とかの名前は知ってたけどそちらでWinFspが活躍してる事を知らなかったわ…。</title>
       <link>https://x.com/pochi_p/status/2074820349338976455</link>
       <description>pochi-p★ニャーニャーなく猫: Dokanは知ってたけど今はWinFspなるものが活発になっているのか。 Rclone とかの名前は知ってたけどそちらでWinFspが活躍してる事を知らなかったわ…。</description>
@@ -185,13 +199,6 @@
       <description>キタきつね: Rclone コマンド実行における重大なバグがクラウド環境を脅かす Critical Rclone Command Execution Bug Threatens Cloud Environments #DailyCyberSecurity (Jun 10) https://t.co/XyXTlUTdYq</description>
       <pubDate>Thu, 11 Jun 2026 00:48:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/foxbook/status/2064872248834429048</guid>
-    </item>
-    <item>
-      <title>クラウド同期ツール rclone で、認証不要のリモートコード実行につながる重大な脆弱性が見つかった。CVE-2026-49980として追跡されるこの問題は、特定構成のRemote Control（RC）機能に影響し、攻撃者がシステム上で任意のコマンドを実行できる可能性がある。</title>
-      <link>https://x.com/yousukezan/status/2064573224806224277</link>
-      <description>yousukezan: クラウド同期ツール rclone で、認証不要のリモートコード実行につながる重大な脆弱性が見つかった。CVE-2026-49980として追跡されるこの問題は、特定構成のRemote Control（RC）機能に影響し、攻撃者がシステム上で任意のコマンドを実行できる可能性がある。</description>
-      <pubDate>Wed, 10 Jun 2026 04:59:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yousukezan/status/2064573224806224277</guid>
     </item>
   </channel>
 </rss>
