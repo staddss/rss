@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これはあくまでllama.cppの最適化の問題（なので、改善可能性はある）けど、そこそこのコンテキスト長であってもかなり推論が遅くなるっぽい？( Ryzen AI MAX + PRO 395)</title>
+      <link>https://x.com/horiuchi_dev/status/2075861608342192151</link>
+      <description>堀内暢之@SLM職人: これはあくまでllama.cppの最適化の問題（なので、改善可能性はある）けど、そこそこのコンテキスト長であってもかなり推論が遅くなるっぽい？( Ryzen AI MAX + PRO 395)</description>
+      <pubDate>Sat, 11 Jul 2026 08:35:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075861608342192151</guid>
+    </item>
+    <item>
+      <title>ryzen ai max + 395/gfx1151のrocmでGaussian Splattingが正常に動作する環境をopus任せでつくってる これすごいんじゃないか https://t.co/21lAZLxr6A</title>
+      <link>https://x.com/TDontacos/status/2075806304292213067</link>
+      <description>DoritosDontacos: ryzen ai max + 395/gfx1151のrocmでGaussian Splattingが正常に動作する環境をopus任せでつくってる これすごいんじゃないか https://t.co/21lAZLxr6A</description>
+      <pubDate>Sat, 11 Jul 2026 04:56:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TDontacos/status/2075806304292213067</guid>
+    </item>
+    <item>
       <title>🏠💻 ローカルLLMをどのマシンで動かす？その悩み、EVO-X3で全て解決。 Ryzen AI Max + 395なら235Bモデルを自宅実行。月額課金ゼロでプライベートAI環境を構築する方法。#AIツール https://t.co/od1S22CZi1</title>
       <link>https://x.com/aitoollabo/status/2075731943489155491</link>
       <description>ラボ所長@AIツールガイド: 🏠💻 ローカルLLMをどのマシンで動かす？その悩み、EVO-X3で全て解決。 Ryzen AI Max + 395なら235Bモデルを自宅実行。月額課金ゼロでプライベートAI環境を構築する方法。#AIツール https://t.co/od1S22CZi1</description>
@@ -262,20 +276,6 @@
       <description>くろくも: Ryzen AI Max 、ノート型のフォームファクタの採用が少ないのはやっぱり熱的に厳しいからなんだろうか。探せばあると思うけど、HPのとか結構いいお値段だったんだよな・・・</description>
       <pubDate>Mon, 06 Jul 2026 05:22:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kurokumo/status/2074001114022994037</guid>
-    </item>
-    <item>
-      <title>AMD Ryzen AI Max + 395搭載「EVO-X3」発売 （さっそく売り切れ😇） ビデオカードが増設できるのは良いのだが、メモリがLPDDR5X-8000で 128GB 固定... バス幅は NVIDIA や Apple Silicon に及ばないので、せめて 192 ~ 256GB なら良かったのだが 冷却機構は向上してるがGPU増設せずにローカル LLM</title>
-      <link>https://x.com/old_pgmrs_will/status/2073976664867193075</link>
-      <description>いにしえ@AI Director &amp; Creator｜Will Oldgram: AMD Ryzen AI Max + 395搭載「EVO-X3」発売 （さっそく売り切れ😇） ビデオカードが増設できるのは良いのだが、メモリがLPDDR5X-8000で 128GB 固定... バス幅は NVIDIA や Apple Silicon に及ばないので、せめて 192 ~ 256GB なら良かったのだが 冷却機構は向上してるがGPU増設せずにローカル LLM</description>
-      <pubDate>Mon, 06 Jul 2026 03:45:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2073976664867193075</guid>
-    </item>
-    <item>
-      <title>これ買うくらいならデスクトップ組むわな。 Ryzen AI Max + 395やメモリ128GB搭載のミニワークステーション「ER939-AI Pro」が発売、価格は約70万円 - AKIBA PC Hotline! https://t.co/3H8b50ccIs</title>
-      <link>https://x.com/Asahi_PC_OTAKU/status/2073965346697179372</link>
-      <description>Asahi: これ買うくらいならデスクトップ組むわな。 Ryzen AI Max + 395やメモリ128GB搭載のミニワークステーション「ER939-AI Pro」が発売、価格は約70万円 - AKIBA PC Hotline! https://t.co/3H8b50ccIs</description>
-      <pubDate>Mon, 06 Jul 2026 03:00:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Asahi_PC_OTAKU/status/2073965346697179372</guid>
     </item>
   </channel>
 </rss>

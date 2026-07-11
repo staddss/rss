@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>iTunesとAndroidの同期どうやったの？っていうことも書かないのかい！（技術者のブログなのに技術的なことを書かない）って感じ。答えは Syncthing というサービスをインストールして実現したのだけど、そんなのこそ、チャッピーに聞けばいいでしょう😂</title>
+      <link>https://x.com/susumuis/status/2075659220528267303</link>
+      <description>susumuis / 石上晋: iTunesとAndroidの同期どうやったの？っていうことも書かないのかい！（技術者のブログなのに技術的なことを書かない）って感じ。答えは Syncthing というサービスをインストールして実現したのだけど、そんなのこそ、チャッピーに聞けばいいでしょう😂</description>
+      <pubDate>Fri, 10 Jul 2026 19:11:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/susumuis/status/2075659220528267303</guid>
+    </item>
+    <item>
       <title>@kankitsu_mikan あっ、Linuxとは限りませんよね🤔 となると日時バックアップ処理を取らないのでわかりません‼️ AndroidとWindowsだったらば Syncthing +Version管理機能で無理やりやるのが一番楽ですかね</title>
       <link>https://x.com/shigetoroku1010/status/2075425192646672792</link>
       <description>重藤 六🐸ガジェットブロガー: @kankitsu_mikan あっ、Linuxとは限りませんよね🤔 となると日時バックアップ処理を取らないのでわかりません‼️ AndroidとWindowsだったらば Syncthing +Version管理機能で無理やりやるのが一番楽ですかね</description>
@@ -269,13 +276,6 @@
       <description>kazkuro: ★: xigmanasの syncthing の設定がサーバのリスタートで初期化されてしまう問題について調査中</description>
       <pubDate>Mon, 22 Jun 2026 15:24:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kazkuro/status/2069079199592456315</guid>
-    </item>
-    <item>
-      <title>@shota_asai 『信じられんほど軽い』、最初の体感そこですよね。自分もNotion、Logseq、純正メモと試して結局Obsidianに戻ってきた側で、クラウドはiCloud→ Syncthing →Obsidian Syncの順で揺れて、結局Sync課金が一番事故が少なかった印象です。何で運用される予定ですか？</title>
-      <link>https://x.com/simplememofast/status/2069008443089027453</link>
-      <description>Obsidian連携シンプルメモ: @shota_asai 『信じられんほど軽い』、最初の体感そこですよね。自分もNotion、Logseq、純正メモと試して結局Obsidianに戻ってきた側で、クラウドはiCloud→ Syncthing →Obsidian Syncの順で揺れて、結局Sync課金が一番事故が少なかった印象です。何で運用される予定ですか？</description>
-      <pubDate>Mon, 22 Jun 2026 10:43:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/simplememofast/status/2069008443089027453</guid>
     </item>
   </channel>
 </rss>
