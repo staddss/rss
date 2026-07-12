@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Hermes AgentのホストPCが常時稼働しているのでObsidian Vaultの共有を Syncthing に変更した。これに伴い、GitへのプッシュもObsidian Gitで行いつつ、定期的にNASにもコピーされるようにした。</title>
+      <link>https://x.com/phasephi/status/2075840934496088537</link>
+      <description>のがみ: Hermes AgentのホストPCが常時稼働しているのでObsidian Vaultの共有を Syncthing に変更した。これに伴い、GitへのプッシュもObsidian Gitで行いつつ、定期的にNASにもコピーされるようにした。</description>
+      <pubDate>Sat, 11 Jul 2026 07:13:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/phasephi/status/2075840934496088537</guid>
+    </item>
+    <item>
       <title>iTunesとAndroidの同期どうやったの？っていうことも書かないのかい！（技術者のブログなのに技術的なことを書かない）って感じ。答えは Syncthing というサービスをインストールして実現したのだけど、そんなのこそ、チャッピーに聞けばいいでしょう😂</title>
       <link>https://x.com/susumuis/status/2075659220528267303</link>
       <description>susumuis / 石上晋: iTunesとAndroidの同期どうやったの？っていうことも書かないのかい！（技術者のブログなのに技術的なことを書かない）って感じ。答えは Syncthing というサービスをインストールして実現したのだけど、そんなのこそ、チャッピーに聞けばいいでしょう😂</description>

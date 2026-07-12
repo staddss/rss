@@ -47,6 +47,13 @@
       <guid isPermaLink="true">https://x.com/hideya_dev/status/2075847071249432600</guid>
     </item>
     <item>
+      <title>みんな大好き、価格帯系がバグってるCloudeflare！まだ「VPNを張るのが当たり前」と思っているなら、一度読んでほしい。自分もkali Linux環境はこれでどこからでも使えるようにしてる。注意が必要なのは、ドメイン持ってないとダメだけどね。 Cloudflare Tunnel × Accessを使えば、 ✅</title>
+      <link>https://x.com/connect24h/status/2075618672954187790</link>
+      <description>connect24h: みんな大好き、価格帯系がバグってるCloudeflare！まだ「VPNを張るのが当たり前」と思っているなら、一度読んでほしい。自分もkali Linux環境はこれでどこからでも使えるようにしてる。注意が必要なのは、ドメイン持ってないとダメだけどね。 Cloudflare Tunnel × Accessを使えば、 ✅</description>
+      <pubDate>Fri, 10 Jul 2026 16:30:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/connect24h/status/2075618672954187790</guid>
+    </item>
+    <item>
       <title>cloudflare tunnel 使えそうな気がしてきたから土日でやってみようかな</title>
       <link>https://x.com/yukix/status/2075591935818109112</link>
       <description>ゆきくす: cloudflare tunnel 使えそうな気がしてきたから土日でやってみようかな</description>
@@ -269,13 +276,6 @@
       <description>mame77: cloudflare tunnel が不定期に切れるの、DS Liteな我が家でIPv4で凌いでいるのがだめそう…？ ログ見てると、そもそもUDPでトンネル張れていないっぽい</description>
       <pubDate>Fri, 03 Jul 2026 10:45:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mame_77_/status/2072995245990768668</guid>
-    </item>
-    <item>
-      <title>ドメインを取って Cloudflare Tunnel を構築した</title>
-      <link>https://x.com/alla__genovese/status/2072935366114562535</link>
-      <description>ばじる: ドメインを取って Cloudflare Tunnel を構築した</description>
-      <pubDate>Fri, 03 Jul 2026 06:47:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/alla__genovese/status/2072935366114562535</guid>
     </item>
   </channel>
 </rss>
