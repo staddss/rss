@@ -95,26 +95,5 @@
       <pubDate>Sat, 13 Jun 2026 22:50:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuskesuzki/status/2065929929154519047</guid>
     </item>
-    <item>
-      <title>単にudevでCapsLockをCtrlキーとしてしまうと、Linux上でCtrlキーによるショートカットキーが機能してしまう。 xremap はvirtual modifierとして、CapsLockとして機能させたまま、修飾キーにできて区別できるのが便利だけども、高レイヤーが故、なんかの機会で効かなくなりそう。</title>
-      <link>https://x.com/yuskesuzki/status/2065235206882328675</link>
-      <description>すずき@ニセ道民: 単にudevでCapsLockをCtrlキーとしてしまうと、Linux上でCtrlキーによるショートカットキーが機能してしまう。 xremap はvirtual modifierとして、CapsLockとして機能させたまま、修飾キーにできて区別できるのが便利だけども、高レイヤーが故、なんかの機会で効かなくなりそう。</description>
-      <pubDate>Fri, 12 Jun 2026 00:50:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2065235206882328675</guid>
-    </item>
-    <item>
-      <title>Linuxはデバイスを司るudevが動いてて、ユーザが設定可能。 xremap だと上手く認識できないキー自体の入れ替えも力業でなんとかできる。この辺はmacやWindowsでできないこと。 https://t.co/KDRELPUfzn</title>
-      <link>https://x.com/yuskesuzki/status/2065212689077747812</link>
-      <description>すずき@ニセ道民: Linuxはデバイスを司るudevが動いてて、ユーザが設定可能。 xremap だと上手く認識できないキー自体の入れ替えも力業でなんとかできる。この辺はmacやWindowsでできないこと。 https://t.co/KDRELPUfzn</description>
-      <pubDate>Thu, 11 Jun 2026 23:20:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2065212689077747812</guid>
-    </item>
-    <item>
-      <title>日々のArch Linuxいじり。 LinuxはCtrlキーを修飾キーとして使うため、便利なmacOSのEmacsキーバインドをそのまんま適用できない。 なので、使ってないCapsLockキーを xremap で修飾キー扱いにし、CapsLock+AをHome, CapsLock+EをEnd...と割り当てて代替してる。</title>
-      <link>https://x.com/yuskesuzki/status/2065210550993453101</link>
-      <description>すずき@ニセ道民: 日々のArch Linuxいじり。 LinuxはCtrlキーを修飾キーとして使うため、便利なmacOSのEmacsキーバインドをそのまんま適用できない。 なので、使ってないCapsLockキーを xremap で修飾キー扱いにし、CapsLock+AをHome, CapsLock+EをEnd...と割り当てて代替してる。</description>
-      <pubDate>Thu, 11 Jun 2026 23:12:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2065210550993453101</guid>
-    </item>
   </channel>
 </rss>
