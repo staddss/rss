@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ん？Android版のProton昔からあった気がする... 私はProtonといえば wireguard を書き出して国指定してやってる https://t.co/AdObFYGGOT</title>
+      <link>https://x.com/L_port1194/status/2076450524342456503</link>
+      <description>一樹（openVpn）: ん？Android版のProton昔からあった気がする... 私はProtonといえば wireguard を書き出して国指定してやってる https://t.co/AdObFYGGOT</description>
+      <pubDate>Sun, 12 Jul 2026 23:35:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port1194/status/2076450524342456503</guid>
+    </item>
+    <item>
+      <title>ホテルのWi-Fi ，FREESPOT を自宅 WireGuard のVPN で計測。十分に速い，そして日曜に出張移動している現実 https://t.co/PbF1t83ee5</title>
+      <link>https://x.com/InatamaS/status/2076225711858405878</link>
+      <description>四の人(IoT): ホテルのWi-Fi ，FREESPOT を自宅 WireGuard のVPN で計測。十分に速い，そして日曜に出張移動している現実 https://t.co/PbF1t83ee5</description>
+      <pubDate>Sun, 12 Jul 2026 08:42:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/InatamaS/status/2076225711858405878</guid>
+    </item>
+    <item>
       <title>WireGuard からつながったので更改完了</title>
       <link>https://x.com/kumozaru_at_fa/status/2075867858161262860</link>
       <description>kumozaru: WireGuard からつながったので更改完了</description>
@@ -262,20 +276,6 @@
       <description>Fomalhaut Weisszwerg: @10cube headscale というオープンソースの WireGuard サーバ (Tailscale クライアント互換) があるので、こちらを使ってみてもいいかもしれません https://t.co/6NYJECGnNZ</description>
       <pubDate>Fri, 03 Jul 2026 09:59:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/FmtWeisszwerg/status/2072983445735981259</guid>
-    </item>
-    <item>
-      <title>昔から楽天のサービスを利用していて身近な会社で応援したくて株を買ってずっと保有しているのだが、やっと今年も優待SIMが届いた。 優待SIMの上手い使い方が無いか考えていたのだが、スマホにFRRoutingと Wireguard をインストールすれば自宅ラボとBGPで拠点間接続出来るのでは？ 試してみよう。</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2072983370230038552</link>
-      <description>有機体46B: 昔から楽天のサービスを利用していて身近な会社で応援したくて株を買ってずっと保有しているのだが、やっと今年も優待SIMが届いた。 優待SIMの上手い使い方が無いか考えていたのだが、スマホにFRRoutingと Wireguard をインストールすれば自宅ラボとBGPで拠点間接続出来るのでは？ 試してみよう。</description>
-      <pubDate>Fri, 03 Jul 2026 09:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2072983370230038552</guid>
-    </item>
-    <item>
-      <title>Surfsharkってやたらとおすすめされてるけど90％でスタックする現象に誰も触れてないのはなぜ？ 1週間ほど使ってると接続時に90％でスタックして繋がらなくなりそのたびに最インストールする必要がある( WireGuard 以外なら繋がるけどこれ以外遅すぎて使い物にならない) https://t.co/MWtsDzNyQ4</title>
-      <link>https://x.com/mmtluck/status/2072831202713907312</link>
-      <description>zyo: Surfsharkってやたらとおすすめされてるけど90％でスタックする現象に誰も触れてないのはなぜ？ 1週間ほど使ってると接続時に90％でスタックして繋がらなくなりそのたびに最インストールする必要がある( WireGuard 以外なら繋がるけどこれ以外遅すぎて使い物にならない) https://t.co/MWtsDzNyQ4</description>
-      <pubDate>Thu, 02 Jul 2026 23:54:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mmtluck/status/2072831202713907312</guid>
     </item>
   </channel>
 </rss>
