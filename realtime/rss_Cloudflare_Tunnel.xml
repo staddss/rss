@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</title>
+      <link>https://x.com/SES_ArraySan/status/2076618300281561507</link>
+      <description>炎上案件のArrayさん: 当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</description>
+      <pubDate>Mon, 13 Jul 2026 10:42:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SES_ArraySan/status/2076618300281561507</guid>
+    </item>
+    <item>
+      <title>有線LAN配下はパフォーマンス出ないと困るけど、Wi-Fi配下はOpenwrtなルーターで Cloudflare tunnel 使ってポート枯渇させないように…とか工夫いるんかな</title>
+      <link>https://x.com/Wolita_tk/status/2076330246299926866</link>
+      <description>ヲリちゃん 𝕒͛𝕥͛ ℙ͛𝕒͛𝕥͛.͛ℙ: 有線LAN配下はパフォーマンス出ないと困るけど、Wi-Fi配下はOpenwrtなルーターで Cloudflare tunnel 使ってポート枯渇させないように…とか工夫いるんかな</description>
+      <pubDate>Sun, 12 Jul 2026 15:38:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Wolita_tk/status/2076330246299926866</guid>
+    </item>
+    <item>
       <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/LSgg0s9f5s</title>
       <link>https://x.com/a_t_mosphere/status/2076179888172900501</link>
       <description>Akira: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/LSgg0s9f5s</description>
@@ -262,20 +276,6 @@
       <description>SEAHAL(Ja): 途中報告。Cloudflare Workers VPC で AWS にホストする予定の Rails の API をたたこうという計画自体は、Cloudflare Workers の設定を操作すれば Cloudflare Tunnel でホストしている Rails へとアクセスできるのではないか？という感触をえた。あとは、接続してしまえば PoC は完了するだろう。</description>
       <pubDate>Sat, 04 Jul 2026 14:46:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2073418186977161684</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 使えばいいんだろうけど 完璧に理解してないので人に説明が全くできない。</title>
-      <link>https://x.com/paramitsu/status/2073295337348055549</link>
-      <description>ぱらみつ: Cloudflare Tunnel 使えばいいんだろうけど 完璧に理解してないので人に説明が全くできない。</description>
-      <pubDate>Sat, 04 Jul 2026 06:38:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/paramitsu/status/2073295337348055549</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel が不定期に切れるの、DS Liteな我が家でIPv4で凌いでいるのがだめそう…？ ログ見てると、そもそもUDPでトンネル張れていないっぽい</title>
-      <link>https://x.com/mame_77_/status/2072995245990768668</link>
-      <description>mame77: cloudflare tunnel が不定期に切れるの、DS Liteな我が家でIPv4で凌いでいるのがだめそう…？ ログ見てると、そもそもUDPでトンネル張れていないっぽい</description>
-      <pubDate>Fri, 03 Jul 2026 10:45:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mame_77_/status/2072995245990768668</guid>
     </item>
   </channel>
 </rss>
