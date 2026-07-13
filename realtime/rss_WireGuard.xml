@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【VPN運用省力化】VPN運用でACLと端末管理に追われる人は これを待ってたはず SSO MFA付きの WireGuard 網に端末をつなぐだけでVPN設定の配布もACL穴あけも減らせる【⭐️2.7万⭐️】 netbirdio/netbird インフラ運用で効く点🔻 ・手作業のVPN設定なしで端末を追加できる ・SSO https://t.co/2wA7t4GE1u</title>
+      <link>https://x.com/YukkuriTech/status/2076654879289028981</link>
+      <description>OSS研｜ゆっくりテックウオッチ: 【VPN運用省力化】VPN運用でACLと端末管理に追われる人は これを待ってたはず SSO MFA付きの WireGuard 網に端末をつなぐだけでVPN設定の配布もACL穴あけも減らせる【⭐️2.7万⭐️】 netbirdio/netbird インフラ運用で効く点🔻 ・手作業のVPN設定なしで端末を追加できる ・SSO https://t.co/2wA7t4GE1u</description>
+      <pubDate>Mon, 13 Jul 2026 13:08:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/YukkuriTech/status/2076654879289028981</guid>
+    </item>
+    <item>
+      <title>@futamint WireGuard で繋げる検証して、繋がったのですけど実用性はほぼ無いなと... 工夫のしようはあるのかもしれないですが...</title>
+      <link>https://x.com/wata2candy/status/2076507012960252066</link>
+      <description>Kohei Sato: @futamint WireGuard で繋げる検証して、繋がったのですけど実用性はほぼ無いなと... 工夫のしようはあるのかもしれないですが...</description>
+      <pubDate>Mon, 13 Jul 2026 03:20:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wata2candy/status/2076507012960252066</guid>
+    </item>
+    <item>
       <title>ん？Android版のProton昔からあった気がする... 私はProtonといえば wireguard を書き出して国指定してやってる https://t.co/AdObFYGGOT</title>
       <link>https://x.com/L_port1194/status/2076450524342456503</link>
       <description>一樹（openVpn）: ん？Android版のProton昔からあった気がする... 私はProtonといえば wireguard を書き出して国指定してやってる https://t.co/AdObFYGGOT</description>
@@ -262,20 +276,6 @@
       <description>Okamura Seiya: あれ wireguard 効かない</description>
       <pubDate>Fri, 03 Jul 2026 10:26:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/55_okamura/status/2072990256396484960</guid>
-    </item>
-    <item>
-      <title>自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</title>
-      <link>https://x.com/EXAM1319/status/2072984452821913644</link>
-      <description>craft: 自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</description>
-      <pubDate>Fri, 03 Jul 2026 10:03:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2072984452821913644</guid>
-    </item>
-    <item>
-      <title>@10cube headscale というオープンソースの WireGuard サーバ (Tailscale クライアント互換) があるので、こちらを使ってみてもいいかもしれません https://t.co/6NYJECGnNZ</title>
-      <link>https://x.com/FmtWeisszwerg/status/2072983445735981259</link>
-      <description>Fomalhaut Weisszwerg: @10cube headscale というオープンソースの WireGuard サーバ (Tailscale クライアント互換) があるので、こちらを使ってみてもいいかもしれません https://t.co/6NYJECGnNZ</description>
-      <pubDate>Fri, 03 Jul 2026 09:59:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/FmtWeisszwerg/status/2072983445735981259</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</title>
+      <link>https://x.com/SeahalJa/status/2076784040028631430</link>
+      <description>SEAHAL(Ja): 睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</description>
+      <pubDate>Mon, 13 Jul 2026 21:41:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076784040028631430</guid>
+    </item>
+    <item>
       <title>当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</title>
       <link>https://x.com/SES_ArraySan/status/2076618300281561507</link>
       <description>炎上案件のArrayさん: 当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</description>
@@ -269,13 +276,6 @@
       <description>ゆきうさぎ＠フリーのシステム屋: 帰ったら Cloudflare Tunnel + Access の設定しかけて スマホから自宅の開発へRSSサーバー見れるようしましょう⸜( ᐛ )⸝</description>
       <pubDate>Sun, 05 Jul 2026 01:31:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__snow_rabbit__/status/2073580378338865490</guid>
-    </item>
-    <item>
-      <title>途中報告。Cloudflare Workers VPC で AWS にホストする予定の Rails の API をたたこうという計画自体は、Cloudflare Workers の設定を操作すれば Cloudflare Tunnel でホストしている Rails へとアクセスできるのではないか？という感触をえた。あとは、接続してしまえば PoC は完了するだろう。</title>
-      <link>https://x.com/SeahalJa/status/2073418186977161684</link>
-      <description>SEAHAL(Ja): 途中報告。Cloudflare Workers VPC で AWS にホストする予定の Rails の API をたたこうという計画自体は、Cloudflare Workers の設定を操作すれば Cloudflare Tunnel でホストしている Rails へとアクセスできるのではないか？という感触をえた。あとは、接続してしまえば PoC は完了するだろう。</description>
-      <pubDate>Sat, 04 Jul 2026 14:46:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2073418186977161684</guid>
     </item>
   </channel>
 </rss>
