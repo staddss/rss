@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>PoC が完了しました。 Cloudflare Tunnel 経由で Rails の動作しているコンテナに Cloudflare workers vpc を利用して、Cloudflare workers のうえでうごいている NextJS から fetch して情報がとりだせました。やったー。本当に嬉しいです。... 終業です。</title>
+      <link>https://x.com/SeahalJa/status/2076969510192685444</link>
+      <description>SEAHAL(Ja): PoC が完了しました。 Cloudflare Tunnel 経由で Rails の動作しているコンテナに Cloudflare workers vpc を利用して、Cloudflare workers のうえでうごいている NextJS から fetch して情報がとりだせました。やったー。本当に嬉しいです。... 終業です。</description>
+      <pubDate>Tue, 14 Jul 2026 09:58:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076969510192685444</guid>
+    </item>
+    <item>
+      <title>あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ... https://t.co/8P7gfutrTg</title>
+      <link>https://x.com/SeahalJa/status/2076965745825882343</link>
+      <description>SEAHAL(Ja): あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ... https://t.co/8P7gfutrTg</description>
+      <pubDate>Tue, 14 Jul 2026 09:43:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076965745825882343</guid>
+    </item>
+    <item>
+      <title>あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ...</title>
+      <link>https://x.com/SeahalJa/status/2076964238229397544</link>
+      <description>SEAHAL(Ja): あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ...</description>
+      <pubDate>Tue, 14 Jul 2026 09:37:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076964238229397544</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel を使ってみる</title>
+      <link>https://x.com/GISPHN/status/2076941717992099955</link>
+      <description>堀池諒｜GIS保健師(PHN, Ph.D.): Cloudflare Tunnel を使ってみる</description>
+      <pubDate>Tue, 14 Jul 2026 08:07:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GISPHN/status/2076941717992099955</guid>
+    </item>
+    <item>
       <title>Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</title>
       <link>https://x.com/SeahalJa/status/2076877367465955642</link>
       <description>SEAHAL(Ja): Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</description>
@@ -248,34 +276,6 @@
       <description>によた: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/zq4vrx0veI</description>
       <pubDate>Wed, 08 Jul 2026 14:13:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/niyota84/status/2074859511064756690</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた https://t.co/luKC59n2yU</title>
-      <link>https://x.com/gigazine/status/2074856121806786960</link>
-      <description>GIGAZINE(ギガジン): 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた https://t.co/luKC59n2yU</description>
-      <pubDate>Wed, 08 Jul 2026 14:00:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigazine/status/2074856121806786960</guid>
-    </item>
-    <item>
-      <title>早くNextCloudを自前の閉じたネットワークで運用したい 今の構成は cloudflare tunnel 使って外部からアクセスしてるけど 快適性に難あり..... 定期的にクライアント-サーバー間が切れるし、速度も遅いし....</title>
-      <link>https://x.com/megane736449/status/2074708237165973677</link>
-      <description>megane: 早くNextCloudを自前の閉じたネットワークで運用したい 今の構成は cloudflare tunnel 使って外部からアクセスしてるけど 快適性に難あり..... 定期的にクライアント-サーバー間が切れるし、速度も遅いし....</description>
-      <pubDate>Wed, 08 Jul 2026 04:12:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/megane736449/status/2074708237165973677</guid>
-    </item>
-    <item>
-      <title>@fadysan_rh 私なら、フル機能のターミナルを自宅に置いておき、外出時には hapi で作業用の harness を公開し、hapi hub を Cloudflare tunnel 経由で外部ネットワークに公開する。これにより、スマホから Claude Code などを操作するのがずっと楽になる。ただ、hapi</title>
-      <link>https://x.com/HarukaKunori/status/2074694887015075913</link>
-      <description>はるか: @fadysan_rh 私なら、フル機能のターミナルを自宅に置いておき、外出時には hapi で作業用の harness を公開し、hapi hub を Cloudflare tunnel 経由で外部ネットワークに公開する。これにより、スマホから Claude Code などを操作するのがずっと楽になる。ただ、hapi</description>
-      <pubDate>Wed, 08 Jul 2026 03:19:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/HarukaKunori/status/2074694887015075913</guid>
-    </item>
-    <item>
-      <title>Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅へのWireGuard接続が不可能になってしまったので両方の作業マシンに Cloudflare Tunnel でSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</title>
-      <link>https://x.com/bit287/status/2074644463675420997</link>
-      <description>bit287: Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅へのWireGuard接続が不可能になってしまったので両方の作業マシンに Cloudflare Tunnel でSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</description>
-      <pubDate>Tue, 07 Jul 2026 23:59:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bit287/status/2074644463675420997</guid>
     </item>
   </channel>
 </rss>

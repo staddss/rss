@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VPSのrfriendsで録音したデータを Syncthing でスマホに同期する運用に変えてみた。 これまではVPS上のrfriends+MPD+MyMPDでストリーミング再生していたけど無課金povo2.0ではやっぱり重いので。</title>
+      <link>https://x.com/kz14/status/2076691072395383020</link>
+      <description>kz14: VPSのrfriendsで録音したデータを Syncthing でスマホに同期する運用に変えてみた。 これまではVPS上のrfriends+MPD+MyMPDでストリーミング再生していたけど無課金povo2.0ではやっぱり重いので。</description>
+      <pubDate>Mon, 13 Jul 2026 15:31:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kz14/status/2076691072395383020</guid>
+    </item>
+    <item>
       <title>Hermes AgentのホストPCが常時稼働しているのでObsidian Vaultの共有を Syncthing に変更した。これに伴い、GitへのプッシュもObsidian Gitで行いつつ、定期的にNASにもコピーされるようにした。</title>
       <link>https://x.com/phasephi/status/2075840934496088537</link>
       <description>のがみ: Hermes AgentのホストPCが常時稼働しているのでObsidian Vaultの共有を Syncthing に変更した。これに伴い、GitへのプッシュもObsidian Gitで行いつつ、定期的にNASにもコピーされるようにした。</description>
@@ -269,13 +276,6 @@
       <description>錆人形/RE_DO: LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</description>
       <pubDate>Thu, 25 Jun 2026 09:05:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RE_DO/status/2070070925551427837</guid>
-    </item>
-    <item>
-      <title>全く需要無い情報だと思いますが、弊社はRustDeskを使っていて、Google Cloudに自社の中継サーバをインストールして使ってます。（ついでに、 Syncthing っていうファイル同期のサーバーもインストールしてる） https://t.co/8um8SQtAtn</title>
-      <link>https://x.com/Pharmacy_CEO/status/2069771418074804666</link>
-      <description>東京と埼玉の薬局の社長²さん: 全く需要無い情報だと思いますが、弊社はRustDeskを使っていて、Google Cloudに自社の中継サーバをインストールして使ってます。（ついでに、 Syncthing っていうファイル同期のサーバーもインストールしてる） https://t.co/8um8SQtAtn</description>
-      <pubDate>Wed, 24 Jun 2026 13:15:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Pharmacy_CEO/status/2069771418074804666</guid>
     </item>
   </channel>
 </rss>
