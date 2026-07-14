@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GameNative v1.1.1-prereleaseが出てるな https://t.co/oYhf7KU0p5 Mali vkd3dに対応したってんでZPG A1 Unicorn君にnightly入れてみたけど、ゲームスタートさせてもダウンロードから進まなかったのよね これは大丈夫かな？</title>
+      <link>https://x.com/orcinus_/status/2076986656444535013</link>
+      <description>orcinus: GameNative v1.1.1-prereleaseが出てるな https://t.co/oYhf7KU0p5 Mali vkd3dに対応したってんでZPG A1 Unicorn君にnightly入れてみたけど、ゲームスタートさせてもダウンロードから進まなかったのよね これは大丈夫かな？</description>
+      <pubDate>Tue, 14 Jul 2026 11:06:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/orcinus_/status/2076986656444535013</guid>
+    </item>
+    <item>
+      <title>Steam Frame上のFEX-Emuによるx86_64 to ARMの追加情報だけど、Android上の GameNative /GameHubと比較するとSteamOSはユーザーランドから叩けるシステムコールの制限(トラップしての迂回策の必要)がない純粋なLinux環境なので、Meta Quest等で同等の事を行うより更に高速。 https://t.co/LdUqzeeh40</title>
+      <link>https://x.com/hogehoge61/status/2076926197813166204</link>
+      <description>ほげ: Steam Frame上のFEX-Emuによるx86_64 to ARMの追加情報だけど、Android上の GameNative /GameHubと比較するとSteamOSはユーザーランドから叩けるシステムコールの制限(トラップしての迂回策の必要)がない純粋なLinux環境なので、Meta Quest等で同等の事を行うより更に高速。 https://t.co/LdUqzeeh40</description>
+      <pubDate>Tue, 14 Jul 2026 07:06:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hogehoge61/status/2076926197813166204</guid>
+    </item>
+    <item>
       <title>では実際x86_64 to ARMでモバイルSoCでx86_64 Windowsゲームが実行出来るのか？という問いには既に GameNative などProton(Wine, DXVK, VKD3D, etc)とFEX-Emuなどを組み合わせた「Androidスマートフォンでx86_64 Windowsゲーム」のアプリが答えている。既にかなり実用的に動く！ https://t.co/9xtBdK0jki</title>
       <link>https://x.com/hogehoge61/status/2076744514593853458</link>
       <description>ほげ: では実際x86_64 to ARMでモバイルSoCでx86_64 Windowsゲームが実行出来るのか？という問いには既に GameNative などProton(Wine, DXVK, VKD3D, etc)とFEX-Emuなどを組み合わせた「Androidスマートフォンでx86_64 Windowsゲーム」のアプリが答えている。既にかなり実用的に動く！ https://t.co/9xtBdK0jki</description>
@@ -262,20 +276,6 @@
       <description>Haru: @Retroid0fficial GameNative のアイコン！ 名前はともかくレトポケ6ミニだね</description>
       <pubDate>Thu, 25 Jun 2026 04:07:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Haru_desu/status/2069995851175669768</guid>
-    </item>
-    <item>
-      <title>4:3の高性能機ってPS2動かすくらいしか使い道が思いつかない GameNative でSteamのゲーム遊ぶとしても、4:3にあえて対応してるゲームなら過剰性能になりそう おいくらかしら…</title>
-      <link>https://x.com/orcinus_/status/2069736490809360682</link>
-      <description>orcinus: 4:3の高性能機ってPS2動かすくらいしか使い道が思いつかない GameNative でSteamのゲーム遊ぶとしても、4:3にあえて対応してるゲームなら過剰性能になりそう おいくらかしら…</description>
-      <pubDate>Wed, 24 Jun 2026 10:56:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/orcinus_/status/2069736490809360682</guid>
-    </item>
-    <item>
-      <title>4.5インチか、16:9で遊ぶのはPSPと動けば GameNative ぐらいだからPS2が狂ったように更新されてるARMSX2 Refreshでいい感じで動いてくれるんなら4:3全然OK。 やはりSOCと価格次第。。 https://t.co/nWM5YRXa7j</title>
-      <link>https://x.com/zabitan00/status/2069355167997419524</link>
-      <description>zabitan: 4.5インチか、16:9で遊ぶのはPSPと動けば GameNative ぐらいだからPS2が狂ったように更新されてるARMSX2 Refreshでいい感じで動いてくれるんなら4:3全然OK。 やはりSOCと価格次第。。 https://t.co/nWM5YRXa7j</description>
-      <pubDate>Tue, 23 Jun 2026 09:41:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zabitan00/status/2069355167997419524</guid>
     </item>
   </channel>
 </rss>

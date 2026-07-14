@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なるほど 勉強になる～ #ITシステム運用担当 Cloudflare Tunnel で 閉域内の Azure Container Apps を安全かつ低予算で公開する｜Aran https://t.co/h3bGoT5yty #zenn</title>
+      <link>https://x.com/tama_negi_com/status/2077016168217616580</link>
+      <description>tama negi@AKBで働くシステム運用担当: なるほど 勉強になる～ #ITシステム運用担当 Cloudflare Tunnel で 閉域内の Azure Container Apps を安全かつ低予算で公開する｜Aran https://t.co/h3bGoT5yty #zenn</description>
+      <pubDate>Tue, 14 Jul 2026 13:03:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tama_negi_com/status/2077016168217616580</guid>
+    </item>
+    <item>
+      <title>&quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/T0rKoZYLfD</title>
+      <link>https://x.com/OYAMAX_NEWS/status/2076986841488888262</link>
+      <description>なんくるないさぁ: &quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/T0rKoZYLfD</description>
+      <pubDate>Tue, 14 Jul 2026 11:07:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OYAMAX_NEWS/status/2076986841488888262</guid>
+    </item>
+    <item>
       <title>PoC が完了しました。 Cloudflare Tunnel 経由で Rails の動作しているコンテナに Cloudflare workers vpc を利用して、Cloudflare workers のうえでうごいている NextJS から fetch して情報がとりだせました。やったー。本当に嬉しいです。... 終業です。</title>
       <link>https://x.com/SeahalJa/status/2076969510192685444</link>
       <description>SEAHAL(Ja): PoC が完了しました。 Cloudflare Tunnel 経由で Rails の動作しているコンテナに Cloudflare workers vpc を利用して、Cloudflare workers のうえでうごいている NextJS から fetch して情報がとりだせました。やったー。本当に嬉しいです。... 終業です。</description>
@@ -262,20 +276,6 @@
       <description>ITニュース: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた #CloudflareTunnel #自宅サーバー #ITニュース https://t.co/ANB6jJaN32</description>
       <pubDate>Wed, 08 Jul 2026 15:38:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/it_news_it_news/status/2074880842447696382</guid>
-    </item>
-    <item>
-      <title>📰 Gigazine 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた https://t.co/KmwSRuyeSl #Gigazine #テクノロジー #IT</title>
-      <link>https://x.com/kenebeii/status/2074862063047028749</link>
-      <description>Cyberdark Impact: 📰 Gigazine 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた https://t.co/KmwSRuyeSl #Gigazine #テクノロジー #IT</description>
-      <pubDate>Wed, 08 Jul 2026 14:23:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kenebeii/status/2074862063047028749</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/zq4vrx0veI</title>
-      <link>https://x.com/niyota84/status/2074859511064756690</link>
-      <description>によた: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/zq4vrx0veI</description>
-      <pubDate>Wed, 08 Jul 2026 14:13:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/niyota84/status/2074859511064756690</guid>
     </item>
   </channel>
 </rss>

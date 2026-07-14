@@ -166,13 +166,6 @@
       <guid isPermaLink="true">https://x.com/whiteangel9999/status/2073957414555304416</guid>
     </item>
     <item>
-      <title>日本にmacbookでも置いて wireguard で操作すると良さそうですけれど、めんどくさいですわねぇ🙂</title>
-      <link>https://x.com/bba4872293/status/2073953622044598299</link>
-      <description>ヘタの極みBBA💛: 日本にmacbookでも置いて wireguard で操作すると良さそうですけれど、めんどくさいですわねぇ🙂</description>
-      <pubDate>Mon, 06 Jul 2026 02:14:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bba4872293/status/2073953622044598299</guid>
-    </item>
-    <item>
       <title>とりあえず ルーター入れ替えでとりあえず 今の状況でできるVLAN切り分け、IPv6での Wireguard まで確認済み。 IPv6の勉強まだまだ足りてないなーと思った次第。 Default VLANの番号指定はできなさそうなので とりあえずハード部分移行完了したらもう少し考えてみよう</title>
       <link>https://x.com/QokVa_koiniwa/status/2073727593350922543</link>
       <description>ばじるいずみー。: とりあえず ルーター入れ替えでとりあえず 今の状況でできるVLAN切り分け、IPv6での Wireguard まで確認済み。 IPv6の勉強まだまだ足りてないなーと思った次第。 Default VLANの番号指定はできなさそうなので とりあえずハード部分移行完了したらもう少し考えてみよう</description>
@@ -276,6 +269,13 @@
       <description>Okamura Seiya: あれ wireguard 効かない</description>
       <pubDate>Fri, 03 Jul 2026 10:26:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/55_okamura/status/2072990256396484960</guid>
+    </item>
+    <item>
+      <title>自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</title>
+      <link>https://x.com/EXAM1319/status/2072984452821913644</link>
+      <description>craft: 自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</description>
+      <pubDate>Fri, 03 Jul 2026 10:03:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2072984452821913644</guid>
     </item>
   </channel>
 </rss>
