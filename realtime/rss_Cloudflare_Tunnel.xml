@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</title>
+      <link>https://x.com/SeahalJa/status/2076877367465955642</link>
+      <description>SEAHAL(Ja): Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</description>
+      <pubDate>Tue, 14 Jul 2026 03:52:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076877367465955642</guid>
+    </item>
+    <item>
+      <title>ローカル環境の Podman(Docker) compose にホストしているのを、cloudflare access から独自ドメインを経由してホストしたいときには、まず cloudflare tunnel を通してから cloudflare access の設定をいれると、無事にアクセス制限をかけて、世界に公開ができるよ ... というので午前は終了だ。</title>
+      <link>https://x.com/SeahalJa/status/2076862853055934533</link>
+      <description>SEAHAL(Ja): ローカル環境の Podman(Docker) compose にホストしているのを、cloudflare access から独自ドメインを経由してホストしたいときには、まず cloudflare tunnel を通してから cloudflare access の設定をいれると、無事にアクセス制限をかけて、世界に公開ができるよ ... というので午前は終了だ。</description>
+      <pubDate>Tue, 14 Jul 2026 02:54:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076862853055934533</guid>
+    </item>
+    <item>
       <title>睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</title>
       <link>https://x.com/SeahalJa/status/2076784040028631430</link>
       <description>SEAHAL(Ja): 睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</description>
@@ -17,6 +31,13 @@
       <description>炎上案件のArrayさん: 当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</description>
       <pubDate>Mon, 13 Jul 2026 10:42:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SES_ArraySan/status/2076618300281561507</guid>
+    </item>
+    <item>
+      <title>【悲報】リアルタイムフィッシングツールEvilginxのフォークを操るエジプトの脅威主体codemadoさん、自分のサーバの中身をpython3 -m http.server 8080して晒してしまう。picis[.]netのドメイン配下でMicrosoft 365狙い。 Cloudflare Tunnel とNode.js製ボット対策を使用。 https://t.co/r1g0j3u3yK</title>
+      <link>https://x.com/__kokumoto/status/2076610747875172569</link>
+      <description>kokumօtօ: 【悲報】リアルタイムフィッシングツールEvilginxのフォークを操るエジプトの脅威主体codemadoさん、自分のサーバの中身をpython3 -m http.server 8080して晒してしまう。picis[.]netのドメイン配下でMicrosoft 365狙い。 Cloudflare Tunnel とNode.js製ボット対策を使用。 https://t.co/r1g0j3u3yK</description>
+      <pubDate>Mon, 13 Jul 2026 10:12:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__kokumoto/status/2076610747875172569</guid>
     </item>
     <item>
       <title>有線LAN配下はパフォーマンス出ないと困るけど、Wi-Fi配下はOpenwrtなルーターで Cloudflare tunnel 使ってポート枯渇させないように…とか工夫いるんかな</title>
@@ -255,27 +276,6 @@
       <description>bit287: Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅へのWireGuard接続が不可能になってしまったので両方の作業マシンに Cloudflare Tunnel でSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</description>
       <pubDate>Tue, 07 Jul 2026 23:59:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bit287/status/2074644463675420997</guid>
-    </item>
-    <item>
-      <title>配信の自動化、今日の実録。配信サーバを晒さず公開( Cloudflare Tunnel )→TikTokに何度も弾かれ真因はドメイン所有権。子(サブドメイン)で詰まったら親(ルート)を証明で開通。作るより配るが難しい。 🔗 https://t.co/DN60DVnoMi ※AIが会社を運営する実験</title>
-      <link>https://x.com/nariken/status/2074491879169872305</link>
-      <description>成田Ken｜会社をAIで作り替える経営者: 配信の自動化、今日の実録。配信サーバを晒さず公開( Cloudflare Tunnel )→TikTokに何度も弾かれ真因はドメイン所有権。子(サブドメイン)で詰まったら親(ルート)を証明で開通。作るより配るが難しい。 🔗 https://t.co/DN60DVnoMi ※AIが会社を運営する実験</description>
-      <pubDate>Tue, 07 Jul 2026 13:53:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nariken/status/2074491879169872305</guid>
-    </item>
-    <item>
-      <title>Windows を使う場合、慣れてる方なら OneDrive はアンインストールして、Nextcloud を入れればいいですよ。Nextcloud サーバを自宅に立てて、 Cloudflare Tunnel で外に見せれば、OneDrive とほぼ同じように使えます。バックアップや OS 更新などのサーバ運用は、自分ですることにはなりますが。</title>
-      <link>https://x.com/amanelab/status/2073999093790359628</link>
-      <description>あまね工研: Windows を使う場合、慣れてる方なら OneDrive はアンインストールして、Nextcloud を入れればいいですよ。Nextcloud サーバを自宅に立てて、 Cloudflare Tunnel で外に見せれば、OneDrive とほぼ同じように使えます。バックアップや OS 更新などのサーバ運用は、自分ですることにはなりますが。</description>
-      <pubDate>Mon, 06 Jul 2026 05:14:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amanelab/status/2073999093790359628</guid>
-    </item>
-    <item>
-      <title>帰ったら Cloudflare Tunnel + Access の設定しかけて スマホから自宅の開発へRSSサーバー見れるようしましょう⸜( ᐛ )⸝</title>
-      <link>https://x.com/__snow_rabbit__/status/2073580378338865490</link>
-      <description>ゆきうさぎ＠フリーのシステム屋: 帰ったら Cloudflare Tunnel + Access の設定しかけて スマホから自宅の開発へRSSサーバー見れるようしましょう⸜( ᐛ )⸝</description>
-      <pubDate>Sun, 05 Jul 2026 01:31:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__snow_rabbit__/status/2073580378338865490</guid>
     </item>
   </channel>
 </rss>

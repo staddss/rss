@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS アップデート バージョン 149.0.7827.238（公式ビルド） （64 ビット） https://t.co/sigNYFiLDB</title>
+      <link>https://x.com/newport8865/status/2076875187967185269</link>
+      <description>MOCHI Takehito 望 岳人 (K N): ChromeOS アップデート バージョン 149.0.7827.238（公式ビルド） （64 ビット） https://t.co/sigNYFiLDB</description>
+      <pubDate>Tue, 14 Jul 2026 03:43:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/newport8865/status/2076875187967185269</guid>
+    </item>
+    <item>
+      <title>【2026年最新】 ChromeOS Flex インストール時のトラブルシューティングガイド https://t.co/dhm2ND6k1h #Qiita @toropogyより 拡張機能からのダウンロードができず、ヘルプでも分からなかったインストーラーダウンロード後のやり方が詳しくて助かりました</title>
+      <link>https://x.com/Kei_20000/status/2076870301741425037</link>
+      <description>Kei⊿: 【2026年最新】 ChromeOS Flex インストール時のトラブルシューティングガイド https://t.co/dhm2ND6k1h #Qiita @toropogyより 拡張機能からのダウンロードができず、ヘルプでも分からなかったインストーラーダウンロード後のやり方が詳しくて助かりました</description>
+      <pubDate>Tue, 14 Jul 2026 03:24:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kei_20000/status/2076870301741425037</guid>
+    </item>
+    <item>
+      <title>その後、昨年買った中古のWindowsPCに ChromeOS Flexを積み、なかなか快適に作業ができています。 【No.220】作業環境の話 パソコンのシステムの引っ越しを検討 #余市の大物 #JCP余市 #おおもつ翔のアーカイブ #おおもつ翔ミニ通信 https://t.co/xHiLlCC2Me</title>
+      <link>https://x.com/D3LSZYeAEh2iWQv/status/2076852961997914432</link>
+      <description>おおもつ翔（余市町議会議員　日本共産党）: その後、昨年買った中古のWindowsPCに ChromeOS Flexを積み、なかなか快適に作業ができています。 【No.220】作業環境の話 パソコンのシステムの引っ越しを検討 #余市の大物 #JCP余市 #おおもつ翔のアーカイブ #おおもつ翔ミニ通信 https://t.co/xHiLlCC2Me</description>
+      <pubDate>Tue, 14 Jul 2026 02:15:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/D3LSZYeAEh2iWQv/status/2076852961997914432</guid>
+    </item>
+    <item>
       <title>PR ちょっと使うだけのPCが欲しくて、LenovoのChromebook 300e Yogaが気になってる。 軽くて持ち運びやすいし、 ChromeOS だから設定もシンプル。 プライムデーは本日が最終日 https://t.co/NRcrhKZFoW 7/13 23:30 Amazon</title>
       <link>https://x.com/katamarito/status/2076675519211536519</link>
       <description>カタマリ: PR ちょっと使うだけのPCが欲しくて、LenovoのChromebook 300e Yogaが気になってる。 軽くて持ち運びやすいし、 ChromeOS だから設定もシンプル。 プライムデーは本日が最終日 https://t.co/NRcrhKZFoW 7/13 23:30 Amazon</description>
       <pubDate>Mon, 13 Jul 2026 14:30:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/katamarito/status/2076675519211536519</guid>
+    </item>
+    <item>
+      <title>Google、 ChromeOS 150 管理者向けリリースノートを公開。管理対象デバイスでのローカル PIN 設定などが追加 https://t.co/QLuxdAzNs8 #Chromebook # ChromeOS</title>
+      <link>https://x.com/Helen_Tech/status/2076659563512914065</link>
+      <description>おむらまさひで(HelenTech): Google、 ChromeOS 150 管理者向けリリースノートを公開。管理対象デバイスでのローカル PIN 設定などが追加 https://t.co/QLuxdAzNs8 #Chromebook # ChromeOS</description>
+      <pubDate>Mon, 13 Jul 2026 13:26:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2076659563512914065</guid>
     </item>
     <item>
       <title>ChromeOS 150以降、Class Toolsでは、教師が授業時間中に生徒をGeminiのガイド付き学習モードに固定できるため、気が散る要素を減らし、生徒が課題に集中できるようになります。 #Chromebook</title>
@@ -248,34 +276,6 @@
       <description>ムーンドルド/瑠川 菜月🧚‍♀️: そういえば「Android for PC」ってどうなったん？ Androidと ChromeOS の統合とかも言ってた気がするんだけど</description>
       <pubDate>Fri, 10 Jul 2026 19:55:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MoonDoldo/status/2075670257445073046</guid>
-    </item>
-    <item>
-      <title>#securityupdate # chromeos Google が LTS-144 バージョンとして ChromeOS 144.0.7559.257 (Platform Version: 16503.90.0) をリリース． Critical 2 件 ・CVE-2026-8514 ・CVE-2026-12443 および High 8 件の脆弱性に対処． https://t.co/cljZcUSXqX</title>
-      <link>https://x.com/kawn2020/status/2075426195316068391</link>
-      <description>kawn: #securityupdate # chromeos Google が LTS-144 バージョンとして ChromeOS 144.0.7559.257 (Platform Version: 16503.90.0) をリリース． Critical 2 件 ・CVE-2026-8514 ・CVE-2026-12443 および High 8 件の脆弱性に対処． https://t.co/cljZcUSXqX</description>
-      <pubDate>Fri, 10 Jul 2026 03:45:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kawn2020/status/2075426195316068391</guid>
-    </item>
-    <item>
-      <title>エセ ChromeOS を作っています https://t.co/MirnqMqjhE https://t.co/qlsxC1pQa7</title>
-      <link>https://x.com/z0uy1n/status/2075373679916245111</link>
-      <description>奏音 No.40 ☭ @z0uy1n 🏳️‍⚧️: エセ ChromeOS を作っています https://t.co/MirnqMqjhE https://t.co/qlsxC1pQa7</description>
-      <pubDate>Fri, 10 Jul 2026 00:16:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/z0uy1n/status/2075373679916245111</guid>
-    </item>
-    <item>
-      <title>🔒 ChromeOS ユーザーの私も「なるほど」と思った。 百聞は一見にしかず--「Windows」ユーザーに「Linux」を試してもらうコツ - ZDNET Japan https://t.co/n9a5C0opwq @zdnet_japanより</title>
-      <link>https://x.com/ttatsuoki/status/2075362754278646235</link>
-      <description>龍興 尚幸 (TATSUOKI Takayuki): 🔒 ChromeOS ユーザーの私も「なるほど」と思った。 百聞は一見にしかず--「Windows」ユーザーに「Linux」を試してもらうコツ - ZDNET Japan https://t.co/n9a5C0opwq @zdnet_japanより</description>
-      <pubDate>Thu, 09 Jul 2026 23:33:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2075362754278646235</guid>
-    </item>
-    <item>
-      <title>ChromeOS がBeta 150.0.7871.118になった＝ｗ＝ #Chromebook</title>
-      <link>https://x.com/Adelade_Lee/status/2075316730554138834</link>
-      <description>アデラド・リー: ChromeOS がBeta 150.0.7871.118になった＝ｗ＝ #Chromebook</description>
-      <pubDate>Thu, 09 Jul 2026 20:30:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Adelade_Lee/status/2075316730554138834</guid>
     </item>
   </channel>
 </rss>
