@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Hamachiやら使ってAOE対戦やってた身としては、Tailscaleも認証基盤と WireGuard で使いやすくしただけで、別に革新的な物では無いんだよな。 通信そのものがP2Pで完結するから、運営側は巨大な帯域を用意しなくていい。</title>
+      <link>https://x.com/neojyoji12/status/2077383552946344261</link>
+      <description>*⋆꒰ঌ ねおぴっぴ ໒꒱⋆*（皮皮）: Hamachiやら使ってAOE対戦やってた身としては、Tailscaleも認証基盤と WireGuard で使いやすくしただけで、別に革新的な物では無いんだよな。 通信そのものがP2Pで完結するから、運営側は巨大な帯域を用意しなくていい。</description>
+      <pubDate>Wed, 15 Jul 2026 13:23:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/neojyoji12/status/2077383552946344261</guid>
+    </item>
+    <item>
       <title>まあTailscaleで十分といえば十分だけど、日本のサービスであるってことは結構良いのかなぁ。 WireGuard ベースだし、これでSyncThingつかえるなら有りだな。 https://t.co/iL9ZHj5buV</title>
       <link>https://x.com/psp_yarou/status/2077311274799755775</link>
       <description>からあげ半蔵＠毎月東京遠征: まあTailscaleで十分といえば十分だけど、日本のサービスであるってことは結構良いのかなぁ。 WireGuard ベースだし、これでSyncThingつかえるなら有りだな。 https://t.co/iL9ZHj5buV</description>
@@ -248,13 +255,6 @@
       <description>有機体46B: スマホ上にDebian Linux環境を構築してFRRoutingと wireguard のアプリケーションをインストール中。 モバイル回線で自宅のCiscoルーターやFortigate達とBGP over IPv6 GREで拠点間接続出来るかテストしてみよう。 https://t.co/ZoYCySfyhT</description>
       <pubDate>Sat, 04 Jul 2026 19:44:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2073493088925008180</guid>
-    </item>
-    <item>
-      <title>PCとスマホ（Android）でObsidianを同期したくて、HomeNASにSyncthingを構築しました。 TP-Linkルーター内蔵の WireGuard でVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</title>
-      <link>https://x.com/plect_ol/status/2073435093557973189</link>
-      <description>平野ユキノリ｜クリエイターアカウント: PCとスマホ（Android）でObsidianを同期したくて、HomeNASにSyncthingを構築しました。 TP-Linkルーター内蔵の WireGuard でVPN接続しているので、外出先からでもHomeNASにアクセス可能です。 Obsidianの保管庫はHomeNASを同期ハブにしつつ、PCやAndroidではローカルコピーを開く構成にしました。 https://t.co/NcIdezC4p1</description>
-      <pubDate>Sat, 04 Jul 2026 15:53:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/plect_ol/status/2073435093557973189</guid>
     </item>
     <item>
       <title>やっぱり WireGuard とMASQUEがいい感じなのかな https://t.co/SvSQUfodsA</title>
