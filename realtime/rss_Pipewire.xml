@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>PCに有線でDAC繋げて音楽聞いてるときって、スマホにつなげてるときより違和感ある音質だなーって思ってたんですけど、どうやら44.1kHz→48kHzの変換が挟まっちゃってたっぽい。 SpotifyのLosslessは44.1kHz、Linux内の Pipewire はデフォルトで44.1kHzが含まれていないので、追加してあげればOK。 https://t.co/RQLgW66LvC</title>
+      <link>https://x.com/ReBot_dev/status/2076918276144366071</link>
+      <description>れぼっと / ReBot: PCに有線でDAC繋げて音楽聞いてるときって、スマホにつなげてるときより違和感ある音質だなーって思ってたんですけど、どうやら44.1kHz→48kHzの変換が挟まっちゃってたっぽい。 SpotifyのLosslessは44.1kHz、Linux内の Pipewire はデフォルトで44.1kHzが含まれていないので、追加してあげればOK。 https://t.co/RQLgW66LvC</description>
+      <pubDate>Tue, 14 Jul 2026 06:34:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ReBot_dev/status/2076918276144366071</guid>
+    </item>
+    <item>
       <title>PipeWire , GStreamer, TensorRTと何とか和解しました。これでリアルタイムボイスチェンジャーをOBSにのせられる！</title>
       <link>https://x.com/reichtlhino/status/2076451517192892757</link>
       <description>うまかい: PipeWire , GStreamer, TensorRTと何とか和解しました。これでリアルタイムボイスチェンジャーをOBSにのせられる！</description>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>MacBook Airが起動時にWifiが接続できなかった原因、Adguard DNSwoAdguardのアプリでオンにしていたことの可能性が高そう。 NextDNS に移行したら消えたので</title>
+      <link>https://x.com/wn_n/status/2077267450052444252</link>
+      <description>wn: MacBook Airが起動時にWifiが接続できなかった原因、Adguard DNSwoAdguardのアプリでオンにしていたことの可能性が高そう。 NextDNS に移行したら消えたので</description>
+      <pubDate>Wed, 15 Jul 2026 05:42:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wn_n/status/2077267450052444252</guid>
+    </item>
+    <item>
+      <title>@suiren_uraaka まさかubuntuをインストールぎりぎり？ こっちはカスタムiso作ってUSBブートした でもOpenboxの互換性が最悪だった でもKDEやGNOMEしたら治った そして今では NextDNS で完全破壊</title>
+      <link>https://x.com/z0uy1n/status/2077262444142137447</link>
+      <description>奏音 No.40 ☭ @z0uy1n 🏳️‍⚧️: @suiren_uraaka まさかubuntuをインストールぎりぎり？ こっちはカスタムiso作ってUSBブートした でもOpenboxの互換性が最悪だった でもKDEやGNOMEしたら治った そして今では NextDNS で完全破壊</description>
+      <pubDate>Wed, 15 Jul 2026 05:22:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/z0uy1n/status/2077262444142137447</guid>
+    </item>
+    <item>
       <title>NextDNS 機能しました！！！ ドメイン出すと、 *.content-autofill.googleapis.com と *.safesearch.googleapis.com ちぎりました</title>
       <link>https://x.com/L_port53/status/2074642737891340771</link>
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: NextDNS 機能しました！！！ ドメイン出すと、 *.content-autofill.googleapis.com と *.safesearch.googleapis.com ちぎりました</description>
@@ -136,20 +150,6 @@
       <description>かたばみ☺︎: 何故か Nextdns のAI脅威検出でhttps://t.co/ea6PXWzji5がDeny対象になっていてキレそうになった（Allow listに追加した）</description>
       <pubDate>Sat, 20 Jun 2026 06:55:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/katabame/status/2068226279493783790</guid>
-    </item>
-    <item>
-      <title>NextDNS はセキュリティのみにして 端末ごとにadguardのDNSフィルターをONにしてたけど どの端末も同じサイトみるから NextDNS に adguardフィルターにして adguardのDNSフィルターはOFFにしてみた ついでにtlsからquicに戻した 前よりは表示速くなった気がする</title>
-      <link>https://x.com/imabarizine/status/2066365250753200314</link>
-      <description>IMABARIxZINE: NextDNS はセキュリティのみにして 端末ごとにadguardのDNSフィルターをONにしてたけど どの端末も同じサイトみるから NextDNS に adguardフィルターにして adguardのDNSフィルターはOFFにしてみた ついでにtlsからquicに戻した 前よりは表示速くなった気がする</description>
-      <pubDate>Mon, 15 Jun 2026 03:40:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imabarizine/status/2066365250753200314</guid>
-    </item>
-    <item>
-      <title>NextDNS の280blocker 前見たときはずっと日付が古いままだったのに 日付が更新されているので使えるようになったのかな</title>
-      <link>https://x.com/imabarizine/status/2066340847361392832</link>
-      <description>IMABARIxZINE: NextDNS の280blocker 前見たときはずっと日付が古いままだったのに 日付が更新されているので使えるようになったのかな</description>
-      <pubDate>Mon, 15 Jun 2026 02:03:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imabarizine/status/2066340847361392832</guid>
     </item>
   </channel>
 </rss>

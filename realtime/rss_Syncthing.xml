@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obsidianの使い方の資料と役出しそうな運用参考のURLのメモ 別端末の同期は ・Remotely Save でも良い ・ Syncthing に 月$5?位なら課金してもいいかな。けどAI使っている間は永続的に使いそうだし、いつかは別運用にしても良いかも。 運用参考： https://t.co/5348Ceqvua https://t.co/yCkir0GlYe</title>
+      <link>https://x.com/eisuke_travel/status/2077220973661880365</link>
+      <description>えいちゃん@民泊,投資兼AIエンジニア: Obsidianの使い方の資料と役出しそうな運用参考のURLのメモ 別端末の同期は ・Remotely Save でも良い ・ Syncthing に 月$5?位なら課金してもいいかな。けどAI使っている間は永続的に使いそうだし、いつかは別運用にしても良いかも。 運用参考： https://t.co/5348Ceqvua https://t.co/yCkir0GlYe</description>
+      <pubDate>Wed, 15 Jul 2026 02:37:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/eisuke_travel/status/2077220973661880365</guid>
+    </item>
+    <item>
+      <title>おそらく１年ぐらい、Obsidianをlivesyncとtasknotesで使ってきてたが、 syncthing とoperonに移行するかも</title>
+      <link>https://x.com/Netdebris/status/2076948070567399706</link>
+      <description>ネットデブリ: おそらく１年ぐらい、Obsidianをlivesyncとtasknotesで使ってきてたが、 syncthing とoperonに移行するかも</description>
+      <pubDate>Tue, 14 Jul 2026 08:33:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Netdebris/status/2076948070567399706</guid>
+    </item>
+    <item>
       <title>VPSのrfriendsで録音したデータを Syncthing でスマホに同期する運用に変えてみた。 これまではVPS上のrfriends+MPD+MyMPDでストリーミング再生していたけど無課金povo2.0ではやっぱり重いので。</title>
       <link>https://x.com/kz14/status/2076691072395383020</link>
       <description>kz14: VPSのrfriendsで録音したデータを Syncthing でスマホに同期する運用に変えてみた。 これまではVPS上のrfriends+MPD+MyMPDでストリーミング再生していたけど無課金povo2.0ではやっぱり重いので。</description>
@@ -262,20 +276,6 @@
       <description>錆人形/RE_DO: 駄目だ、今日も急激に気分が落ち込んで身動き取れなくなるぞ 布団の側から離れられん 頭の中がクソ重い いい加減にしてくれ Syncthing を再起動したらアカウント情報を求められたので、一旦アンインストールしてからユーザ情報を登録して、再起動する羽目になった</description>
       <pubDate>Fri, 26 Jun 2026 05:24:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RE_DO/status/2070377525419880857</guid>
-    </item>
-    <item>
-      <title>ハンドヘルドとメインPCのセーブデータの同期設定のために Syncthing 使い始めた クラウドセーブ無いゲームに便利</title>
-      <link>https://x.com/7Zip_san/status/2070175378732372176</link>
-      <description>7-Zipdeclair: ハンドヘルドとメインPCのセーブデータの同期設定のために Syncthing 使い始めた クラウドセーブ無いゲームに便利</description>
-      <pubDate>Thu, 25 Jun 2026 16:00:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/7Zip_san/status/2070175378732372176</guid>
-    </item>
-    <item>
-      <title>LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</title>
-      <link>https://x.com/RE_DO/status/2070070925551427837</link>
-      <description>錆人形/RE_DO: LogSeqのデータのバックアップをGit（一旦保留）を使わずに確実に（GUIで）取りたいので、 Syncthing に足してDuplicatiも導入しようとしてる それぐらいガチでLogSeqに入れ込んでるし、たかだか１日分データ吹っ飛んだだけでめっちゃダメージ食らった ランサムウェア対策にもなるらしいので憶えてこう</description>
-      <pubDate>Thu, 25 Jun 2026 09:05:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RE_DO/status/2070070925551427837</guid>
     </item>
   </channel>
 </rss>
