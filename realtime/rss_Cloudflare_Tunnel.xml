@@ -61,6 +61,13 @@
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2076862853055934533</guid>
     </item>
     <item>
+      <title>Cloudflare Tunnel で 閉域内の Azure Container Apps を安全かつ低予算で公開する｜Aran https://t.co/ZwluNFGE9p #zenn</title>
+      <link>https://x.com/AranSeshita/status/2076830914894831955</link>
+      <description>Aran@Developer: Cloudflare Tunnel で 閉域内の Azure Container Apps を安全かつ低予算で公開する｜Aran https://t.co/ZwluNFGE9p #zenn</description>
+      <pubDate>Tue, 14 Jul 2026 00:47:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AranSeshita/status/2076830914894831955</guid>
+    </item>
+    <item>
       <title>睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</title>
       <link>https://x.com/SeahalJa/status/2076784040028631430</link>
       <description>SEAHAL(Ja): 睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</description>
@@ -269,13 +276,6 @@
       <description>た: https://t.co/XMRIDpU5ZI #cloudnews #クラウド 「 Cloudflare Tunnel 」はローカル環境のアプリを簡単に外部へ公開できるサービスです。「自宅サーバ」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえCloudflare Accessと組み合わせれば複数ユーザでの認証も設定</description>
       <pubDate>Wed, 08 Jul 2026 22:16:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tontontonton/status/2074980850073280984</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた #CloudflareTunnel #自宅サーバー #ITニュース https://t.co/ANB6jJaN32</title>
-      <link>https://x.com/it_news_it_news/status/2074880842447696382</link>
-      <description>ITニュース: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた #CloudflareTunnel #自宅サーバー #ITニュース https://t.co/ANB6jJaN32</description>
-      <pubDate>Wed, 08 Jul 2026 15:38:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/it_news_it_news/status/2074880842447696382</guid>
     </item>
   </channel>
 </rss>

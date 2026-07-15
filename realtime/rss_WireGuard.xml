@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>まあTailscaleで十分といえば十分だけど、日本のサービスであるってことは結構良いのかなぁ。 WireGuard ベースだし、これでSyncThingつかえるなら有りだな。 https://t.co/iL9ZHj5buV</title>
+      <link>https://x.com/psp_yarou/status/2077311274799755775</link>
+      <description>からあげ半蔵＠毎月東京遠征: まあTailscaleで十分といえば十分だけど、日本のサービスであるってことは結構良いのかなぁ。 WireGuard ベースだし、これでSyncThingつかえるなら有りだな。 https://t.co/iL9ZHj5buV</description>
+      <pubDate>Wed, 15 Jul 2026 08:36:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/psp_yarou/status/2077311274799755775</guid>
+    </item>
+    <item>
+      <title>個人でも無料から使えて、AIエージェントが社内情報に安全にアクセスする土台にもなる、 WireGuard メッシュ接続の国産VPNサービスがリリースされたですって？？ https://t.co/vfrAH52EDw</title>
+      <link>https://x.com/tnmt/status/2077290680033087516</link>
+      <description>Shinya Tsunematsu: 個人でも無料から使えて、AIエージェントが社内情報に安全にアクセスする土台にもなる、 WireGuard メッシュ接続の国産VPNサービスがリリースされたですって？？ https://t.co/vfrAH52EDw</description>
+      <pubDate>Wed, 15 Jul 2026 07:14:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tnmt/status/2077290680033087516</guid>
+    </item>
+    <item>
+      <title>あー、 WireGuard ベースか。 https://t.co/FbuYoj0u4z</title>
+      <link>https://x.com/pen_senpai/status/2077281333311860750</link>
+      <description>📷ぺんSP@ver2026.Q2 ver5.0: あー、 WireGuard ベースか。 https://t.co/FbuYoj0u4z</description>
+      <pubDate>Wed, 15 Jul 2026 06:37:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pen_senpai/status/2077281333311860750</guid>
+    </item>
+    <item>
+      <title>@soichi1208tenko たまに Wireguard のconfファイル落ちてるの面白い なんでもあるよね（）</title>
+      <link>https://x.com/L_port53/status/2077279161350074483</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @soichi1208tenko たまに Wireguard のconfファイル落ちてるの面白い なんでもあるよね（）</description>
+      <pubDate>Wed, 15 Jul 2026 06:28:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2077279161350074483</guid>
+    </item>
+    <item>
+      <title>@Yui0471 TailscaleはP2Pだよ 同じネットワーク同士で Wireguard なメッシュVPNを構築する ただゆいちゃんほどのネットワーク強者なら癖をわかって使わないとはまるかも 設定系の強制書換がめちゃ雑だしDNS実装雑ぽいし(RFC違反のプロキシ実装とか)tailscale外の100.64/10からの通信全部dropするしその他諸々</title>
+      <link>https://x.com/_le_ciel_etoile/status/2076983637644591318</link>
+      <description>ciel -夜空-: @Yui0471 TailscaleはP2Pだよ 同じネットワーク同士で Wireguard なメッシュVPNを構築する ただゆいちゃんほどのネットワーク強者なら癖をわかって使わないとはまるかも 設定系の強制書換がめちゃ雑だしDNS実装雑ぽいし(RFC違反のプロキシ実装とか)tailscale外の100.64/10からの通信全部dropするしその他諸々</description>
+      <pubDate>Tue, 14 Jul 2026 10:54:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_le_ciel_etoile/status/2076983637644591318</guid>
+    </item>
+    <item>
       <title>つまりはそれってUDP通信がCDN↔Origin間疎通できれば良い話なのでは？となると WireGuard みたいなUDPのVPN内で隔離したネットワーク通信環境のCDN↔Origin設計の方が良さそうにも思える つまりはCF Tunnel型ガーってはなしになりそうだけどその間の通信全信頼するようなものだからなあ</title>
       <link>https://x.com/haturatutaro/status/2076735883567649101</link>
       <description>ハツラツ太郎: つまりはそれってUDP通信がCDN↔Origin間疎通できれば良い話なのでは？となると WireGuard みたいなUDPのVPN内で隔離したネットワーク通信環境のCDN↔Origin設計の方が良さそうにも思える つまりはCF Tunnel型ガーってはなしになりそうだけどその間の通信全信頼するようなものだからなあ</description>
@@ -241,41 +276,6 @@
       <description>しょぼっち: 闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</description>
       <pubDate>Sat, 04 Jul 2026 04:32:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/d117z/status/2073263753232347285</guid>
-    </item>
-    <item>
-      <title>やっぱり wireguard が効かない 自宅のLANに入れない</title>
-      <link>https://x.com/55_okamura/status/2073255286115340728</link>
-      <description>Okamura Seiya: やっぱり wireguard が効かない 自宅のLANに入れない</description>
-      <pubDate>Sat, 04 Jul 2026 03:59:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/55_okamura/status/2073255286115340728</guid>
-    </item>
-    <item>
-      <title>Wireguard + UDPホールパンチングでもポートフォワードなしで通信できるのかなもしかして。 どっちからもハートビートを出せば穴は開くだろうし。</title>
-      <link>https://x.com/moguno/status/2073218001957220684</link>
-      <description>もぐの: Wireguard + UDPホールパンチングでもポートフォワードなしで通信できるのかなもしかして。 どっちからもハートビートを出せば穴は開くだろうし。</description>
-      <pubDate>Sat, 04 Jul 2026 01:31:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2073218001957220684</guid>
-    </item>
-    <item>
-      <title>国産ルーターも Wireguard とかそろそろサポートしてくれないかなぁ</title>
-      <link>https://x.com/NaNvidia/status/2073118608935600520</link>
-      <description>NaN: 国産ルーターも Wireguard とかそろそろサポートしてくれないかなぁ</description>
-      <pubDate>Fri, 03 Jul 2026 18:56:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NaNvidia/status/2073118608935600520</guid>
-    </item>
-    <item>
-      <title>あれ wireguard 効かない</title>
-      <link>https://x.com/55_okamura/status/2072990256396484960</link>
-      <description>Okamura Seiya: あれ wireguard 効かない</description>
-      <pubDate>Fri, 03 Jul 2026 10:26:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/55_okamura/status/2072990256396484960</guid>
-    </item>
-    <item>
-      <title>自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</title>
-      <link>https://x.com/EXAM1319/status/2072984452821913644</link>
-      <description>craft: 自宅NWへのVPN接続を、YAMAHAルータ(RTX830)でのIKEv2でやってたのから、OPNsenseでの WireGuard (Tailscale)に変えたら、マジ快適だなー。 特に接続確立までが一瞬なのが良い。というかデフォルトでスプリットトンネルだから繋ぎっぱでよい。 WireGuard 、凄ぇや。</description>
-      <pubDate>Fri, 03 Jul 2026 10:03:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2072984452821913644</guid>
     </item>
   </channel>
 </rss>

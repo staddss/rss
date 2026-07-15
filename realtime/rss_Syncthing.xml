@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Link_2011A Gitやクラウドドライブ、 SyncThing 等で同期できる場合やローカル完結で問題ない場合はVSCodeやZed、notepad、mseditなど任意のテキストエディタでメモを取るのがもっとも手軽でポータブルです。 Markdownを使用すればObsidianのような複雑なnoteを作れます。</title>
+      <link>https://x.com/daizu_lab/status/2077322321489277236</link>
+      <description>だいずラボ: @Link_2011A Gitやクラウドドライブ、 SyncThing 等で同期できる場合やローカル完結で問題ない場合はVSCodeやZed、notepad、mseditなど任意のテキストエディタでメモを取るのがもっとも手軽でポータブルです。 Markdownを使用すればObsidianのような複雑なnoteを作れます。</description>
+      <pubDate>Wed, 15 Jul 2026 09:20:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/daizu_lab/status/2077322321489277236</guid>
+    </item>
+    <item>
       <title>Obsidianの使い方の資料と役出しそうな運用参考のURLのメモ 別端末の同期は ・Remotely Save でも良い ・ Syncthing に 月$5?位なら課金してもいいかな。けどAI使っている間は永続的に使いそうだし、いつかは別運用にしても良いかも。 運用参考： https://t.co/5348Ceqvua https://t.co/yCkir0GlYe</title>
       <link>https://x.com/eisuke_travel/status/2077220973661880365</link>
       <description>えいちゃん@民泊,投資兼AIエンジニア: Obsidianの使い方の資料と役出しそうな運用参考のURLのメモ 別端末の同期は ・Remotely Save でも良い ・ Syncthing に 月$5?位なら課金してもいいかな。けどAI使っている間は永続的に使いそうだし、いつかは別運用にしても良いかも。 運用参考： https://t.co/5348Ceqvua https://t.co/yCkir0GlYe</description>
       <pubDate>Wed, 15 Jul 2026 02:37:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/eisuke_travel/status/2077220973661880365</guid>
+    </item>
+    <item>
+      <title>Obsidianのvaultを Syncthing で同期すると使い勝手がいいぞい https://t.co/rBamirs1wW</title>
+      <link>https://x.com/lunaticlives/status/2077218850723250358</link>
+      <description>雷之電.rs@古明地ゲー体験版出ました: Obsidianのvaultを Syncthing で同期すると使い勝手がいいぞい https://t.co/rBamirs1wW</description>
+      <pubDate>Wed, 15 Jul 2026 02:29:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lunaticlives/status/2077218850723250358</guid>
     </item>
     <item>
       <title>おそらく１年ぐらい、Obsidianをlivesyncとtasknotesで使ってきてたが、 syncthing とoperonに移行するかも</title>
@@ -262,20 +276,6 @@
       <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</description>
       <pubDate>Sun, 28 Jun 2026 09:55:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/murasametech/status/2071170509413499229</guid>
-    </item>
-    <item>
-      <title>ファイル同期……というと、DropboxとかiCloudとかGoogleDriveとかイメージするけど、これらってクラウド同期で中身もベンダーにチェックされてるし容量上限もある で、 Syncthing 。これP2Pの同期ソフトでOSS。2つのPCでファイルが同期するのを見ると、ちょっと感動するね。</title>
-      <link>https://x.com/kuzyofire/status/2070438017869951361</link>
-      <description>九条@セミリタイア: ファイル同期……というと、DropboxとかiCloudとかGoogleDriveとかイメージするけど、これらってクラウド同期で中身もベンダーにチェックされてるし容量上限もある で、 Syncthing 。これP2Pの同期ソフトでOSS。2つのPCでファイルが同期するのを見ると、ちょっと感動するね。</description>
-      <pubDate>Fri, 26 Jun 2026 09:24:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuzyofire/status/2070438017869951361</guid>
-    </item>
-    <item>
-      <title>駄目だ、今日も急激に気分が落ち込んで身動き取れなくなるぞ 布団の側から離れられん 頭の中がクソ重い いい加減にしてくれ Syncthing を再起動したらアカウント情報を求められたので、一旦アンインストールしてからユーザ情報を登録して、再起動する羽目になった</title>
-      <link>https://x.com/RE_DO/status/2070377525419880857</link>
-      <description>錆人形/RE_DO: 駄目だ、今日も急激に気分が落ち込んで身動き取れなくなるぞ 布団の側から離れられん 頭の中がクソ重い いい加減にしてくれ Syncthing を再起動したらアカウント情報を求められたので、一旦アンインストールしてからユーザ情報を登録して、再起動する羽目になった</description>
-      <pubDate>Fri, 26 Jun 2026 05:24:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RE_DO/status/2070377525419880857</guid>
     </item>
   </channel>
 </rss>
