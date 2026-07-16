@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/daizu_lab/status/2077322321489277236</guid>
     </item>
     <item>
+      <title>まあTailscaleで十分といえば十分だけど、日本のサービスであるってことは結構良いのかなぁ。 WireGuardベースだし、これで SyncThing つかえるなら有りだな。 https://t.co/iL9ZHj5buV</title>
+      <link>https://x.com/psp_yarou/status/2077311274799755775</link>
+      <description>からあげ半蔵＠毎月東京遠征: まあTailscaleで十分といえば十分だけど、日本のサービスであるってことは結構良いのかなぁ。 WireGuardベースだし、これで SyncThing つかえるなら有りだな。 https://t.co/iL9ZHj5buV</description>
+      <pubDate>Wed, 15 Jul 2026 08:36:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/psp_yarou/status/2077311274799755775</guid>
+    </item>
+    <item>
       <title>Obsidianの使い方の資料と役出しそうな運用参考のURLのメモ 別端末の同期は ・Remotely Save でも良い ・ Syncthing に 月$5?位なら課金してもいいかな。けどAI使っている間は永続的に使いそうだし、いつかは別運用にしても良いかも。 運用参考： https://t.co/5348Ceqvua https://t.co/yCkir0GlYe</title>
       <link>https://x.com/eisuke_travel/status/2077220973661880365</link>
       <description>えいちゃん@民泊,投資兼AIエンジニア: Obsidianの使い方の資料と役出しそうな運用参考のURLのメモ 別端末の同期は ・Remotely Save でも良い ・ Syncthing に 月$5?位なら課金してもいいかな。けどAI使っている間は永続的に使いそうだし、いつかは別運用にしても良いかも。 運用参考： https://t.co/5348Ceqvua https://t.co/yCkir0GlYe</description>
@@ -269,13 +276,6 @@
       <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</description>
       <pubDate>Sun, 28 Jun 2026 09:55:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/murasametech/status/2071170509413499229</guid>
-    </item>
-    <item>
-      <title>ファイル同期……というと、DropboxとかiCloudとかGoogleDriveとかイメージするけど、これらってクラウド同期で中身もベンダーにチェックされてるし容量上限もある で、 Syncthing 。これP2Pの同期ソフトでOSS。2つのPCでファイルが同期するのを見ると、ちょっと感動するね。</title>
-      <link>https://x.com/kuzyofire/status/2070438017869951361</link>
-      <description>九条@セミリタイア: ファイル同期……というと、DropboxとかiCloudとかGoogleDriveとかイメージするけど、これらってクラウド同期で中身もベンダーにチェックされてるし容量上限もある で、 Syncthing 。これP2Pの同期ソフトでOSS。2つのPCでファイルが同期するのを見ると、ちょっと感動するね。</description>
-      <pubDate>Fri, 26 Jun 2026 09:24:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuzyofire/status/2070438017869951361</guid>
     </item>
   </channel>
 </rss>

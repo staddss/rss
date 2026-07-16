@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GMOあたりならTailscale使わずに wireguard からカスタマイズすると思ってたんだけどな。残念。</title>
+      <link>https://x.com/Amoritatsu/status/2077681107785671109</link>
+      <description>天降川達兵衛/Amorigawa Tatsubee: GMOあたりならTailscale使わずに wireguard からカスタマイズすると思ってたんだけどな。残念。</description>
+      <pubDate>Thu, 16 Jul 2026 09:05:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Amoritatsu/status/2077681107785671109</guid>
+    </item>
+    <item>
+      <title>WireGuard に乗っかるのは、何も思われないと思うんだけど （おそらく）まんまのやつをラップして提供するのはどうなんすか</title>
+      <link>https://x.com/Tesla_yoon/status/2077648320185680369</link>
+      <description>よ〜ん: WireGuard に乗っかるのは、何も思われないと思うんだけど （おそらく）まんまのやつをラップして提供するのはどうなんすか</description>
+      <pubDate>Thu, 16 Jul 2026 06:55:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tesla_yoon/status/2077648320185680369</guid>
+    </item>
+    <item>
       <title>「OpenWrt One」なんて製品もあるんだ。 https://t.co/vDiGDfgqcb 自前でSBC用意するより、大分安上がりだな。 H/Wスペックかなり抑えられているようなので、どこまでパフォーマンス出るか心配だけど、PPPoEな1G回線で WireGuard 使う分には充分かな？</title>
       <link>https://x.com/EXAM1319/status/2077577871481253929</link>
       <description>craft: 「OpenWrt One」なんて製品もあるんだ。 https://t.co/vDiGDfgqcb 自前でSBC用意するより、大分安上がりだな。 H/Wスペックかなり抑えられているようなので、どこまでパフォーマンス出るか心配だけど、PPPoEな1G回線で WireGuard 使う分には充分かな？</description>
@@ -262,20 +276,6 @@
       <description>さとうかえで: VPNのプロトコルは、 Wireguard かOpenVPNどっちがいいのかな？</description>
       <pubDate>Sun, 05 Jul 2026 04:44:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kaede_sato_jp/status/2073629047821865238</guid>
-    </item>
-    <item>
-      <title>よーし wireguard 設定復帰できた。 端末側を追加したつもりが、自宅の認証情報を新しくしてた 新規追加したパッドの情報を持っていって上書きしたら両方繋がった</title>
-      <link>https://x.com/55_okamura/status/2073601712020210049</link>
-      <description>Okamura Seiya: よーし wireguard 設定復帰できた。 端末側を追加したつもりが、自宅の認証情報を新しくしてた 新規追加したパッドの情報を持っていって上書きしたら両方繋がった</description>
-      <pubDate>Sun, 05 Jul 2026 02:55:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/55_okamura/status/2073601712020210049</guid>
-    </item>
-    <item>
-      <title>VPN本体： WireGuard 通信：全トラフィックをVPNへ DNS：VPN内DNSのみ IPv6：使うならVPN経由、無理なら無効化 キルスイッチ：有効 分割トンネル：無し WebRTC漏れ：ブラウザ側で制御</title>
-      <link>https://x.com/LsdogodsL/status/2073595032024871276</link>
-      <description>1-coyote-2-lysergsäure: VPN本体： WireGuard 通信：全トラフィックをVPNへ DNS：VPN内DNSのみ IPv6：使うならVPN経由、無理なら無効化 キルスイッチ：有効 分割トンネル：無し WebRTC漏れ：ブラウザ側で制御</description>
-      <pubDate>Sun, 05 Jul 2026 02:29:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LsdogodsL/status/2073595032024871276</guid>
     </item>
   </channel>
 </rss>
