@@ -256,12 +256,5 @@
       <pubDate>Wed, 17 Jun 2026 14:26:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ibs_3026/status/2067252666036883538</guid>
     </item>
-    <item>
-      <title>🔒ランサムウェアに暗号化されても「消せない・書き換えられない」バックアップを。 Object Lock＋rcloneで、クラウドに改ざん不能のバックアップ層を作る実装手順をQiitaに公開しました。自社のNAS→ Backblaze B2運用に基づく実務記事です。 ※以前HPでご紹介した内容を技術者向けに再構成</title>
-      <link>https://x.com/BrainDirection/status/2066715305183944786</link>
-      <description>株式会社ブレインディレクション公式: 🔒ランサムウェアに暗号化されても「消せない・書き換えられない」バックアップを。 Object Lock＋rcloneで、クラウドに改ざん不能のバックアップ層を作る実装手順をQiitaに公開しました。自社のNAS→ Backblaze B2運用に基づく実務記事です。 ※以前HPでご紹介した内容を技術者向けに再構成</description>
-      <pubDate>Tue, 16 Jun 2026 02:51:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/BrainDirection/status/2066715305183944786</guid>
-    </item>
   </channel>
 </rss>

@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>「OpenWrt One」なんて製品もあるんだ。 https://t.co/vDiGDfgqcb 自前でSBC用意するより、大分安上がりだな。 H/Wスペックかなり抑えられているようなので、どこまでパフォーマンス出るか心配だけど、PPPoEな1G回線で WireGuard 使う分には充分かな？</title>
+      <link>https://x.com/EXAM1319/status/2077577871481253929</link>
+      <description>craft: 「OpenWrt One」なんて製品もあるんだ。 https://t.co/vDiGDfgqcb 自前でSBC用意するより、大分安上がりだな。 H/Wスペックかなり抑えられているようなので、どこまでパフォーマンス出るか心配だけど、PPPoEな1G回線で WireGuard 使う分には充分かな？</description>
+      <pubDate>Thu, 16 Jul 2026 02:15:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EXAM1319/status/2077577871481253929</guid>
+    </item>
+    <item>
+      <title>結局どこもかしこも WireGuard やん。 なのになんで WireGuard 単体はもっとメジャーにならないんだろう GMOペパボ、無料で使えるVPN代替のP2Pゼロトラストサービスを本日開始 - PC Watch https://t.co/AWpRjFCagw</title>
+      <link>https://x.com/mabo_1126/status/2077553956717494592</link>
+      <description>まーぼー: 結局どこもかしこも WireGuard やん。 なのになんで WireGuard 単体はもっとメジャーにならないんだろう GMOペパボ、無料で使えるVPN代替のP2Pゼロトラストサービスを本日開始 - PC Watch https://t.co/AWpRjFCagw</description>
+      <pubDate>Thu, 16 Jul 2026 00:40:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mabo_1126/status/2077553956717494592</guid>
+    </item>
+    <item>
+      <title>本日10:15より、#JANOG58 の初心者LTに、外山と松下が登壇します。 📢タイトル： 「ネットワーク分析で「読むべきRFC」を探す」（外山） 「 WireGuard で始めるVPNパケットキャプチャ入門」（松下） 会場にいらっしゃる方は、ぜひ聴きにいらしてください！ https://t.co/bvIowUeGcN #JANOG #BBSakura</title>
+      <link>https://x.com/bbsakuranet/status/2077549075713642930</link>
+      <description>BBSakura Networks, Inc.: 本日10:15より、#JANOG58 の初心者LTに、外山と松下が登壇します。 📢タイトル： 「ネットワーク分析で「読むべきRFC」を探す」（外山） 「 WireGuard で始めるVPNパケットキャプチャ入門」（松下） 会場にいらっしゃる方は、ぜひ聴きにいらしてください！ https://t.co/bvIowUeGcN #JANOG #BBSakura</description>
+      <pubDate>Thu, 16 Jul 2026 00:21:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bbsakuranet/status/2077549075713642930</guid>
+    </item>
+    <item>
+      <title>🌍海外での研究生活でVPN速度が遅い時の即効対策：サーバー変更、 WireGuard 等の高速プロトコル、再起動、有線接続、バックグラウンド通信オフ。これらを試せば、通信環境が大幅に改善される可能性が高いです！✨#医学留学 #海外研究生活</title>
+      <link>https://x.com/NotforgetL/status/2077544492928758197</link>
+      <description>海凪（かいなぎ）@アメリカ研究留学ブログ: 🌍海外での研究生活でVPN速度が遅い時の即効対策：サーバー変更、 WireGuard 等の高速プロトコル、再起動、有線接続、バックグラウンド通信オフ。これらを試せば、通信環境が大幅に改善される可能性が高いです！✨#医学留学 #海外研究生活</description>
+      <pubDate>Thu, 16 Jul 2026 00:03:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NotforgetL/status/2077544492928758197</guid>
+    </item>
+    <item>
       <title>Hamachiやら使ってAOE対戦やってた身としては、Tailscaleも認証基盤と WireGuard で使いやすくしただけで、別に革新的な物では無いんだよな。 通信そのものがP2Pで完結するから、運営側は巨大な帯域を用意しなくていい。</title>
       <link>https://x.com/neojyoji12/status/2077383552946344261</link>
       <description>*⋆꒰ঌ ねおぴっぴ ໒꒱⋆*（皮皮）: Hamachiやら使ってAOE対戦やってた身としては、Tailscaleも認証基盤と WireGuard で使いやすくしただけで、別に革新的な物では無いんだよな。 通信そのものがP2Pで完結するから、運営側は巨大な帯域を用意しなくていい。</description>
@@ -248,34 +276,6 @@
       <description>1-coyote-2-lysergsäure: VPN本体： WireGuard 通信：全トラフィックをVPNへ DNS：VPN内DNSのみ IPv6：使うならVPN経由、無理なら無効化 キルスイッチ：有効 分割トンネル：無し WebRTC漏れ：ブラウザ側で制御</description>
       <pubDate>Sun, 05 Jul 2026 02:29:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/LsdogodsL/status/2073595032024871276</guid>
-    </item>
-    <item>
-      <title>スマホ上にDebian Linux環境を構築してFRRoutingと wireguard のアプリケーションをインストール中。 モバイル回線で自宅のCiscoルーターやFortigate達とBGP over IPv6 GREで拠点間接続出来るかテストしてみよう。 https://t.co/ZoYCySfyhT</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2073493088925008180</link>
-      <description>有機体46B: スマホ上にDebian Linux環境を構築してFRRoutingと wireguard のアプリケーションをインストール中。 モバイル回線で自宅のCiscoルーターやFortigate達とBGP over IPv6 GREで拠点間接続出来るかテストしてみよう。 https://t.co/ZoYCySfyhT</description>
-      <pubDate>Sat, 04 Jul 2026 19:44:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2073493088925008180</guid>
-    </item>
-    <item>
-      <title>やっぱり WireGuard とMASQUEがいい感じなのかな https://t.co/SvSQUfodsA</title>
-      <link>https://x.com/glyzinienet/status/2073388976040505684</link>
-      <description>Wis (Glyzinie): やっぱり WireGuard とMASQUEがいい感じなのかな https://t.co/SvSQUfodsA</description>
-      <pubDate>Sat, 04 Jul 2026 12:50:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/glyzinienet/status/2073388976040505684</guid>
-    </item>
-    <item>
-      <title>あれ？ wireguard 来る前にパッドを新規登録したのだがそっちは繋がる。 追加登録の筈が上書きしたのか?</title>
-      <link>https://x.com/55_okamura/status/2073336867114906012</link>
-      <description>Okamura Seiya: あれ？ wireguard 来る前にパッドを新規登録したのだがそっちは繋がる。 追加登録の筈が上書きしたのか?</description>
-      <pubDate>Sat, 04 Jul 2026 09:23:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/55_okamura/status/2073336867114906012</guid>
-    </item>
-    <item>
-      <title>闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</title>
-      <link>https://x.com/d117z/status/2073263753232347285</link>
-      <description>しょぼっち: 闇の情シスなので、無駄にガチガチな会社を見かけると破りたくなるのが人間の性である前提で動くべきだし、IP制限とか Wireguard とか当たり前にある時代に踏み台で簡単に突破されちゃうし前時代的にも程がある。</description>
-      <pubDate>Sat, 04 Jul 2026 04:32:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/d117z/status/2073263753232347285</guid>
     </item>
   </channel>
 </rss>
