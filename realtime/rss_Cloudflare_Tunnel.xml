@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VPSすら使わないで古いノートPCと Cloudflare Tunnel でサービス公開すればよくないか？ VPSやクラウドだと20,000円＋ネットワーク利用料がかかる。しかし32GBメモリのマシンなら電気代1ヶ月1,500円ぐらい。負荷高くなって落ちるぐらいのサービスになってからホスティングすればよい。</title>
+      <link>https://x.com/daikidomon/status/2078099938161172856</link>
+      <description>DOMON(どもん)@AIでシステム開発: VPSすら使わないで古いノートPCと Cloudflare Tunnel でサービス公開すればよくないか？ VPSやクラウドだと20,000円＋ネットワーク利用料がかかる。しかし32GBメモリのマシンなら電気代1ヶ月1,500円ぐらい。負荷高くなって落ちるぐらいのサービスになってからホスティングすればよい。</description>
+      <pubDate>Fri, 17 Jul 2026 12:50:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/daikidomon/status/2078099938161172856</guid>
+    </item>
+    <item>
       <title>無料の Cloudflare Tunnel 使ってサーバのポート１つも空けないようにしたらログがすっきりして良いな</title>
       <link>https://x.com/ichiro_j/status/2078042985921646683</link>
       <description>ichiro_j: 無料の Cloudflare Tunnel 使ってサーバのポート１つも空けないようにしたらログがすっきりして良いな</description>
@@ -269,13 +276,6 @@
       <description>🍓Mx_Issue🦑: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/gsZEi0KNNw</description>
       <pubDate>Wed, 08 Jul 2026 23:27:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Mx_Issue/status/2074998807709036851</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/zVLh4n2hPe</title>
-      <link>https://x.com/RYOYA30509687/status/2074991741783203917</link>
-      <description>AI大好き: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/zVLh4n2hPe</description>
-      <pubDate>Wed, 08 Jul 2026 22:59:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RYOYA30509687/status/2074991741783203917</guid>
     </item>
   </channel>
 </rss>

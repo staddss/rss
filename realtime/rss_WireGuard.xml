@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VaultwardenのセルフホストはNASの構築と同時にやるべきな気がする インターネットに晒すべきではないけど Wireguard のスプリットトンネリングできんのかなぁ。 認証はセキュリティキーかOSのパスキー管理で二段階認証させればよさそう。一度ログインしたらマスターパスワードでいいし。</title>
+      <link>https://x.com/sophia4172/status/2078089230388166937</link>
+      <description>セリ科: VaultwardenのセルフホストはNASの構築と同時にやるべきな気がする インターネットに晒すべきではないけど Wireguard のスプリットトンネリングできんのかなぁ。 認証はセキュリティキーかOSのパスキー管理で二段階認証させればよさそう。一度ログインしたらマスターパスワードでいいし。</description>
+      <pubDate>Fri, 17 Jul 2026 12:07:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sophia4172/status/2078089230388166937</guid>
+    </item>
+    <item>
       <title>あ～待て？ proxmoxを変な方法でインストールしたからか？ やでも本体側で wireguard 動いたから関係ないか…</title>
       <link>https://x.com/blackuro357/status/2078007725175513354</link>
       <description>ブラクロ: あ～待て？ proxmoxを変な方法でインストールしたからか？ やでも本体側で wireguard 動いたから関係ないか…</description>
@@ -269,13 +276,6 @@
       <description>陽向｜中小企業の「人手不足×サイバーリスク」をn8nで解決する自動化エンジニア: @ferrarinoise 同感です。私もセルフホスト構築で最初にやったのは「何を動かすか」より「何を捨てるか」の判断でした。 WireGuard 経由のアクセス計画を諦めてSSHポートフォワードに絞ったのが、一番時間を節約した選択です。</description>
       <pubDate>Mon, 06 Jul 2026 12:43:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/n8nFlowMaster/status/2074111899986428067</guid>
-    </item>
-    <item>
-      <title>iphoneは wireguard で無理矢理DNSサーバー変更してるから、お行儀はあんま良くないけど</title>
-      <link>https://x.com/mikan_seraph/status/2074005451352781045</link>
-      <description>深瀬 悠: iphoneは wireguard で無理矢理DNSサーバー変更してるから、お行儀はあんま良くないけど</description>
-      <pubDate>Mon, 06 Jul 2026 05:40:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mikan_seraph/status/2074005451352781045</guid>
     </item>
   </channel>
 </rss>
