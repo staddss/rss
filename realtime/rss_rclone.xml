@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>取り敢えず NetBirdと rclone あればめっちゃ簡単にお手軽NASもどきができちゃう。 もうSMBもNFSも要らない。</title>
+      <link>https://x.com/bigcooking/status/2077949798305677369</link>
+      <description>大料理: 取り敢えず NetBirdと rclone あればめっちゃ簡単にお手軽NASもどきができちゃう。 もうSMBもNFSも要らない。</description>
+      <pubDate>Fri, 17 Jul 2026 02:53:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bigcooking/status/2077949798305677369</guid>
+    </item>
+    <item>
       <title>rclone ってGoogle Driveのダウンロードできるの？？？マジで知らなかったんだけど</title>
       <link>https://x.com/cumuloworks/status/2076645583511826494</link>
       <description>Cumuloworks ( kumo™ · SeqLens ): rclone ってGoogle Driveのダウンロードできるの？？？マジで知らなかったんだけど</description>
@@ -206,20 +213,6 @@
       <description>ぷーさん＿元エンジ: よし、追加レイヤーの設定できた！ これで rclone で透過処理ができる🙂</description>
       <pubDate>Sat, 20 Jun 2026 06:38:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/plutoj1975/status/2068221894097355193</guid>
-    </item>
-    <item>
-      <title>影響を受けるバージョンと対策手順をまとめました。vLLMや Rclone を本番運用中の方、今すぐ確認を。 #セキュリティ #CVE #脆弱性 https://t.co/96ut57OA6v</title>
-      <link>https://x.com/tsumikasanedev/status/2067396512955691239</link>
-      <description>つみかさね: 影響を受けるバージョンと対策手順をまとめました。vLLMや Rclone を本番運用中の方、今すぐ確認を。 #セキュリティ #CVE #脆弱性 https://t.co/96ut57OA6v</description>
-      <pubDate>Wed, 17 Jun 2026 23:58:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2067396512955691239</guid>
-    </item>
-    <item>
-      <title>vLLM・Langflow・ Rclone に認証不要のRCE/コマンド実行（Critical）が確認。AI/MLインフラが標的になるケースが増加傾向。</title>
-      <link>https://x.com/tsumikasanedev/status/2067396511382863980</link>
-      <description>つみかさね: vLLM・Langflow・ Rclone に認証不要のRCE/コマンド実行（Critical）が確認。AI/MLインフラが標的になるケースが増加傾向。</description>
-      <pubDate>Wed, 17 Jun 2026 23:58:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2067396511382863980</guid>
     </item>
   </channel>
 </rss>
