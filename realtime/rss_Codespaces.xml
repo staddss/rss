@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ergo42のVialファームウェア作成に GitHub Codespaces を使ってみました。vial-qmkにdevconainer.jsonを追加するだけで開発コンテナとして、ブラウザでサクッと開発環境が作れて便利。既存のファームウェアを改造する分には無料枠で十分。https://t.co/794WedOP0o #自作キーボード</title>
+      <link>https://x.com/stnh0227/status/2078961688678973848</link>
+      <description>すとのふ: Ergo42のVialファームウェア作成に GitHub Codespaces を使ってみました。vial-qmkにdevconainer.jsonを追加するだけで開発コンテナとして、ブラウザでサクッと開発環境が作れて便利。既存のファームウェアを改造する分には無料枠で十分。https://t.co/794WedOP0o #自作キーボード</description>
+      <pubDate>Sun, 19 Jul 2026 21:54:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/stnh0227/status/2078961688678973848</guid>
+    </item>
+    <item>
       <title>GitHub Codespaces の深い意味知らなかった😱😭</title>
       <link>https://x.com/premiumc5g/status/2078245220672807360</link>
       <description>DIO: GitHub Codespaces の深い意味知らなかった😱😭</description>
@@ -199,27 +206,6 @@
       <description>serio（セーリオ）@Web制作・Web開発・福井・北陸: クラウド開発環境の進化で、開発スタイルが本当に身軽になりました。 昔は高スペックPCが必須でしたが、今はGitHub Codespaces 等のおかげで、回線さえあれば普通のPCでも十分。Chromebookや軽量Macでサクサク開発できる環境、技術の進歩にワクワクします。 https://t.co/FNEK70ioMt</description>
       <pubDate>Sun, 21 Jun 2026 09:55:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/serio_engineer/status/2068633888851931640</guid>
-    </item>
-    <item>
-      <title>8 優位 ➢: 大量AIエージェントでコード生成,反復希望 GitHubのスケール/パフォーマンス/レビュー限界不満 Cursor IDEメイン使い,E2EのAIネイティブプラットフォーム構築望み ✈: 既存GitHubワークフロー(Issue/PR/ Codespaces )活用 自然言語でタスク投げ,計画的に実装,検証希望(仕様/計画の修正易)</title>
-      <link>https://x.com/yuzuno_oobaka/status/2067967053995323820</link>
-      <description>yuzuno_oobaka: 8 優位 ➢: 大量AIエージェントでコード生成,反復希望 GitHubのスケール/パフォーマンス/レビュー限界不満 Cursor IDEメイン使い,E2EのAIネイティブプラットフォーム構築望み ✈: 既存GitHubワークフロー(Issue/PR/ Codespaces )活用 自然言語でタスク投げ,計画的に実装,検証希望(仕様/計画の修正易)</description>
-      <pubDate>Fri, 19 Jun 2026 13:45:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuzuno_oobaka/status/2067967053995323820</guid>
-    </item>
-    <item>
-      <title>6🦖 強み ✈: GitHubネイティブ(Issue/PR/ Codespaces 連携) 仕様,計画のステアラビリティ(編集,再生成) テスト/検証/共有がし易い スケール ➢:エージェント大量並行向けに再設計(GitHubの人間スケール超え) ✈:主に人間+AIの協働,大量エージェント並列はGitHubの既存制限に依存</title>
-      <link>https://x.com/yuzuno_oobaka/status/2067966519821447663</link>
-      <description>yuzuno_oobaka: 6🦖 強み ✈: GitHubネイティブ(Issue/PR/ Codespaces 連携) 仕様,計画のステアラビリティ(編集,再生成) テスト/検証/共有がし易い スケール ➢:エージェント大量並行向けに再設計(GitHubの人間スケール超え) ✈:主に人間+AIの協働,大量エージェント並列はGitHubの既存制限に依存</description>
-      <pubDate>Fri, 19 Jun 2026 13:43:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuzuno_oobaka/status/2067966519821447663</guid>
-    </item>
-    <item>
-      <title>＼AIエージェントに触れる技術研修／ 本日6/19、1〜5年目社員を中心とした 社内向け技術研修を実施しました✨ 今回のテーマは、 開発現場でのAIエージェント活用。 社員Hさんをチューターに、 GitHub Codespaces を使いながら、 AIエージェントに触れて成果物をつくりました。 福利厚生を活用して https://t.co/zA4xavCR5Q</title>
-      <link>https://x.com/comsoft_corp/status/2067883834805547241</link>
-      <description>コムソフト株式会社 【公式】: ＼AIエージェントに触れる技術研修／ 本日6/19、1〜5年目社員を中心とした 社内向け技術研修を実施しました✨ 今回のテーマは、 開発現場でのAIエージェント活用。 社員Hさんをチューターに、 GitHub Codespaces を使いながら、 AIエージェントに触れて成果物をつくりました。 福利厚生を活用して https://t.co/zA4xavCR5Q</description>
-      <pubDate>Fri, 19 Jun 2026 08:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/comsoft_corp/status/2067883834805547241</guid>
     </item>
     <item>
       <title>#github ●コラボレーションコーディング GitHub Codespaces , GitHub Copilot, プルリクエスト, ディスカッション, コード検索, コードレビュー ●自動化とCI/CD GitHub Actions, GitHub Packages, API, Webhooks, ワークフロー可視化 ●アプリケーションセキュリティ コードスキャン, https://t.co/fTQeGvYdQ7</title>

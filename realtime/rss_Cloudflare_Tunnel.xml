@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/__abelia/status/2078719013052698937</guid>
     </item>
     <item>
+      <title>Cloudflare Tunnel とかOtelのログ流れてるのを見ているだけでガシガシ攻撃試みてくるやつがいるのがわかる</title>
+      <link>https://x.com/negotoio/status/2078709787232178369</link>
+      <description>寝言の個人開発: Cloudflare Tunnel とかOtelのログ流れてるのを見ているだけでガシガシ攻撃試みてくるやつがいるのがわかる</description>
+      <pubDate>Sun, 19 Jul 2026 05:13:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/negotoio/status/2078709787232178369</guid>
+    </item>
+    <item>
       <title>ChatGPT→ Cloudflare Tunnel 経路用にIP Range自動更新するTerraform CI組んだ！これで403とおさらば https://t.co/29HCIyoEWa</title>
       <link>https://x.com/come25136/status/2078399678513909775</link>
       <description>こめ: ChatGPT→ Cloudflare Tunnel 経路用にIP Range自動更新するTerraform CI組んだ！これで403とおさらば https://t.co/29HCIyoEWa</description>
@@ -220,13 +227,6 @@
       <description>1.up: opensshインストールして cloudflare tunnel で外出先からsshしようと思って、今進めている。 眠いから続きは明日で</description>
       <pubDate>Thu, 09 Jul 2026 13:27:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Motorolove/status/2075210180372127856</guid>
-    </item>
-    <item>
-      <title>うちの本番サーバーは机の上のRaspberry Pi。Flask+SQLiteをPM2で常駐させ、 Cloudflare Tunnel で公開している。固定IPもポート開放も不要で、維持費はほぼ電気代だけ。個人開発の規模ならこれで十分戦える。#個人開発 #RaspberryPi</title>
-      <link>https://x.com/chat_craft_web/status/2075203271304864038</link>
-      <description>poribake2 - アプリ個人開発: うちの本番サーバーは机の上のRaspberry Pi。Flask+SQLiteをPM2で常駐させ、 Cloudflare Tunnel で公開している。固定IPもポート開放も不要で、維持費はほぼ電気代だけ。個人開発の規模ならこれで十分戦える。#個人開発 #RaspberryPi</description>
-      <pubDate>Thu, 09 Jul 2026 12:59:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chat_craft_web/status/2075203271304864038</guid>
     </item>
     <item>
       <title>&quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/JIWcl4swKb</title>
