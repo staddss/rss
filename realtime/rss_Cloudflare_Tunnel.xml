@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VPSを移行してついでにパブリックIPにバインドするのをやめて Cloudflare Tunnel でホストするようにした 管理用のコンソールやSSHはTailscaleで、公開は Cloudflare Tunnel でやることで公開IPアドレスを一切使わず、inboundもすべて拒否した運用にできてる 本当に数年で便利になった</title>
+      <link>https://x.com/__abelia/status/2078719013052698937</link>
+      <description>Abelia: VPSを移行してついでにパブリックIPにバインドするのをやめて Cloudflare Tunnel でホストするようにした 管理用のコンソールやSSHはTailscaleで、公開は Cloudflare Tunnel でやることで公開IPアドレスを一切使わず、inboundもすべて拒否した運用にできてる 本当に数年で便利になった</description>
+      <pubDate>Sun, 19 Jul 2026 05:50:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__abelia/status/2078719013052698937</guid>
+    </item>
+    <item>
+      <title>ChatGPT→ Cloudflare Tunnel 経路用にIP Range自動更新するTerraform CI組んだ！これで403とおさらば https://t.co/29HCIyoEWa</title>
+      <link>https://x.com/come25136/status/2078399678513909775</link>
+      <description>こめ: ChatGPT→ Cloudflare Tunnel 経路用にIP Range自動更新するTerraform CI組んだ！これで403とおさらば https://t.co/29HCIyoEWa</description>
+      <pubDate>Sat, 18 Jul 2026 08:41:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/come25136/status/2078399678513909775</guid>
+    </item>
+    <item>
       <title>VPSすら使わないで古いノートPCと Cloudflare Tunnel でサービス公開すればよくないか？ VPSやクラウドだと20,000円＋ネットワーク利用料がかかる。しかし32GBメモリのマシンなら電気代1ヶ月1,500円ぐらい。負荷高くなって落ちるぐらいのサービスになってからホスティングすればよい。</title>
       <link>https://x.com/daikidomon/status/2078099938161172856</link>
       <description>DOMON(どもん)@AIでシステム開発: VPSすら使わないで古いノートPCと Cloudflare Tunnel でサービス公開すればよくないか？ VPSやクラウドだと20,000円＋ネットワーク利用料がかかる。しかし32GBメモリのマシンなら電気代1ヶ月1,500円ぐらい。負荷高くなって落ちるぐらいのサービスになってからホスティングすればよい。</description>
@@ -262,20 +276,6 @@
       <description>a_tw: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/csbz00GogO</description>
       <pubDate>Thu, 09 Jul 2026 00:12:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/atw70008450/status/2075010168883228955</guid>
-    </item>
-    <item>
-      <title>&quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; https://t.co/scATxqKuhJ</title>
-      <link>https://x.com/te28/status/2075009675008098766</link>
-      <description>te28: &quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; https://t.co/scATxqKuhJ</description>
-      <pubDate>Thu, 09 Jul 2026 00:10:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/te28/status/2075009675008098766</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/gsZEi0KNNw</title>
-      <link>https://x.com/Mx_Issue/status/2074998807709036851</link>
-      <description>🍓Mx_Issue🦑: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/gsZEi0KNNw</description>
-      <pubDate>Wed, 08 Jul 2026 23:27:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Mx_Issue/status/2074998807709036851</guid>
     </item>
   </channel>
 </rss>
