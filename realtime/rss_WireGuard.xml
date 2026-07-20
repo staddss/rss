@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>App機能でnetwork-outgoing-access=noを設定すると、同ルータ上で動いている WireGuard のinbound通信がルーティングされなくなる事象に遭遇。 Firewall/Mangleに動的ルールが追加されて、そいつが WireGuard の通信まで捨てていた。 RouterOS 7.23.2</title>
+      <link>https://x.com/moog74898428/status/2079076753335890375</link>
+      <description>moog: App機能でnetwork-outgoing-access=noを設定すると、同ルータ上で動いている WireGuard のinbound通信がルーティングされなくなる事象に遭遇。 Firewall/Mangleに動的ルールが追加されて、そいつが WireGuard の通信まで捨てていた。 RouterOS 7.23.2</description>
+      <pubDate>Mon, 20 Jul 2026 05:31:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moog74898428/status/2079076753335890375</guid>
+    </item>
+    <item>
+      <title>openwrtに wireguard ぶっ挿して喜んでたけど、めちゃくちゃ生ispのdnsリークしてて笑った</title>
+      <link>https://x.com/yuyud1dej/status/2078992943114023292</link>
+      <description>Yuki: openwrtに wireguard ぶっ挿して喜んでたけど、めちゃくちゃ生ispのdnsリークしてて笑った</description>
+      <pubDate>Sun, 19 Jul 2026 23:58:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuyud1dej/status/2078992943114023292</guid>
+    </item>
+    <item>
       <title>@minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</title>
       <link>https://x.com/BonyChops/status/2078362340425425370</link>
       <description>BonyChops: @minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</description>
@@ -262,27 +276,6 @@
       <description>クロロホルム: @Cicada0001 畢竟 wireguard</description>
       <pubDate>Tue, 07 Jul 2026 09:33:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kuroroholumu/status/2074426613077549471</guid>
-    </item>
-    <item>
-      <title>AmneziaWGなる WireGuard のフォークがあることを知った その他にもVLESS+REALITYとかHysteria2とか いろんなDPI対策があるんだな</title>
-      <link>https://x.com/sugattor_jz/status/2074329804523119094</link>
-      <description>シュガッター@規制: AmneziaWGなる WireGuard のフォークがあることを知った その他にもVLESS+REALITYとかHysteria2とか いろんなDPI対策があるんだな</description>
-      <pubDate>Tue, 07 Jul 2026 03:08:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sugattor_jz/status/2074329804523119094</guid>
-    </item>
-    <item>
-      <title>Sophos、 WireGuard 対応しないかな</title>
-      <link>https://x.com/abdda149/status/2074139729038348692</link>
-      <description>Volk149: Sophos、 WireGuard 対応しないかな</description>
-      <pubDate>Mon, 06 Jul 2026 14:33:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/abdda149/status/2074139729038348692</guid>
-    </item>
-    <item>
-      <title>@ferrarinoise 同感です。私もセルフホスト構築で最初にやったのは「何を動かすか」より「何を捨てるか」の判断でした。 WireGuard 経由のアクセス計画を諦めてSSHポートフォワードに絞ったのが、一番時間を節約した選択です。</title>
-      <link>https://x.com/n8nFlowMaster/status/2074111899986428067</link>
-      <description>陽向｜中小企業の「人手不足×サイバーリスク」をn8nで解決する自動化エンジニア: @ferrarinoise 同感です。私もセルフホスト構築で最初にやったのは「何を動かすか」より「何を捨てるか」の判断でした。 WireGuard 経由のアクセス計画を諦めてSSHポートフォワードに絞ったのが、一番時間を節約した選択です。</description>
-      <pubDate>Mon, 06 Jul 2026 12:43:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n8nFlowMaster/status/2074111899986428067</guid>
     </item>
   </channel>
 </rss>

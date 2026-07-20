@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</title>
+      <link>https://x.com/inarizusi777/status/2079024419784335754</link>
+      <description>yuuk1: pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</description>
+      <pubDate>Mon, 20 Jul 2026 02:03:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/inarizusi777/status/2079024419784335754</guid>
+    </item>
+    <item>
+      <title>家にサーバもって cloudflare tunnel で公開するだけで QOL あがる</title>
+      <link>https://x.com/XiroGA3/status/2078867938472530187</link>
+      <description>しろがみちゃんーむやみに金を使わない: 家にサーバもって cloudflare tunnel で公開するだけで QOL あがる</description>
+      <pubDate>Sun, 19 Jul 2026 15:41:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/XiroGA3/status/2078867938472530187</guid>
+    </item>
+    <item>
       <title>VPSを移行してついでにパブリックIPにバインドするのをやめて Cloudflare Tunnel でホストするようにした 管理用のコンソールやSSHはTailscaleで、公開は Cloudflare Tunnel でやることで公開IPアドレスを一切使わず、inboundもすべて拒否した運用にできてる 本当に数年で便利になった</title>
       <link>https://x.com/__abelia/status/2078719013052698937</link>
       <description>Abelia: VPSを移行してついでにパブリックIPにバインドするのをやめて Cloudflare Tunnel でホストするようにした 管理用のコンソールやSSHはTailscaleで、公開は Cloudflare Tunnel でやることで公開IPアドレスを一切使わず、inboundもすべて拒否した運用にできてる 本当に数年で便利になった</description>
@@ -262,20 +276,6 @@
       <description>Hashimoto: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/WfP5sbkzHo</description>
       <pubDate>Thu, 09 Jul 2026 00:48:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Tk4Hsmt/status/2075019136514883667</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/2fGbLqImeF</title>
-      <link>https://x.com/dante_1005_/status/2075010931562872963</link>
-      <description>株式会社 DANTE: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/2fGbLqImeF</description>
-      <pubDate>Thu, 09 Jul 2026 00:15:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dante_1005_/status/2075010931562872963</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/csbz00GogO</title>
-      <link>https://x.com/atw70008450/status/2075010168883228955</link>
-      <description>a_tw: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/csbz00GogO</description>
-      <pubDate>Thu, 09 Jul 2026 00:12:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/atw70008450/status/2075010168883228955</guid>
     </item>
   </channel>
 </rss>
