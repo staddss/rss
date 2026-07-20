@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu https://t.co/YBbfNEegZL</title>
+      <link>https://x.com/PnktsN/status/2079216712847626390</link>
+      <description>ポンコツ@エンジニア: 中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu https://t.co/YBbfNEegZL</description>
+      <pubDate>Mon, 20 Jul 2026 14:47:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PnktsN/status/2079216712847626390</guid>
+    </item>
+    <item>
+      <title>Agents-A1 、Intern Science版の Agents-A1-Q4_K_M-GGUF を AMD Ryzen AI Max + 395 - 128GB で動かしてみたらチャットなら 70 t/s 出るぞ👍 これをエージェントで使うとかなり遅くなるけど、課金してるわけじゃないから作業を与えたら終わるまで放置しとけばいいだけの話😎 https://t.co/YxwoyoQF7t https://t.co/YAZdze51DS</title>
+      <link>https://x.com/old_pgmrs_will/status/2079192080543514807</link>
+      <description>いにしえ@AI Director / Creator / Engineer｜Will Oldgram: Agents-A1 、Intern Science版の Agents-A1-Q4_K_M-GGUF を AMD Ryzen AI Max + 395 - 128GB で動かしてみたらチャットなら 70 t/s 出るぞ👍 これをエージェントで使うとかなり遅くなるけど、課金してるわけじゃないから作業を与えたら終わるまで放置しとけばいいだけの話😎 https://t.co/YxwoyoQF7t https://t.co/YAZdze51DS</description>
+      <pubDate>Mon, 20 Jul 2026 13:09:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2079192080543514807</guid>
+    </item>
+    <item>
       <title>Local LLM EVOX2( Ryzen AI Max + 395)にはRDMA正式サポートがないので、複数クラスタリングを諦めました😌 https://t.co/iTLnP7Z6en</title>
       <link>https://x.com/UtaAoya/status/2079157512033701961</link>
       <description>A-Uta: Local LLM EVOX2( Ryzen AI Max + 395)にはRDMA正式サポートがないので、複数クラスタリングを諦めました😌 https://t.co/iTLnP7Z6en</description>
@@ -262,20 +276,6 @@
       <description>堀内暢之@SLM職人: これはあくまでllama.cppの最適化の問題（なので、改善可能性はある）けど、そこそこのコンテキスト長であってもかなり推論が遅くなるっぽい？( Ryzen AI MAX + PRO 395)</description>
       <pubDate>Sat, 11 Jul 2026 08:35:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075861608342192151</guid>
-    </item>
-    <item>
-      <title>ryzen ai max + 395/gfx1151のrocmでGaussian Splattingが正常に動作する環境をopus任せでつくってる これすごいんじゃないか https://t.co/21lAZLxr6A</title>
-      <link>https://x.com/TDontacos/status/2075806304292213067</link>
-      <description>DoritosDontacos: ryzen ai max + 395/gfx1151のrocmでGaussian Splattingが正常に動作する環境をopus任せでつくってる これすごいんじゃないか https://t.co/21lAZLxr6A</description>
-      <pubDate>Sat, 11 Jul 2026 04:56:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TDontacos/status/2075806304292213067</guid>
-    </item>
-    <item>
-      <title>🏠💻 ローカルLLMをどのマシンで動かす？その悩み、EVO-X3で全て解決。 Ryzen AI Max + 395なら235Bモデルを自宅実行。月額課金ゼロでプライベートAI環境を構築する方法。#AIツール https://t.co/od1S22CZi1</title>
-      <link>https://x.com/aitoollabo/status/2075731943489155491</link>
-      <description>ラボ所長@AIツールガイド: 🏠💻 ローカルLLMをどのマシンで動かす？その悩み、EVO-X3で全て解決。 Ryzen AI Max + 395なら235Bモデルを自宅実行。月額課金ゼロでプライベートAI環境を構築する方法。#AIツール https://t.co/od1S22CZi1</description>
-      <pubDate>Sat, 11 Jul 2026 00:00:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aitoollabo/status/2075731943489155491</guid>
     </item>
   </channel>
 </rss>

@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</title>
+      <link>https://x.com/SeahalJa/status/2079213947056730484</link>
+      <description>SEAHAL(Ja): 開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</description>
+      <pubDate>Mon, 20 Jul 2026 14:36:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079213947056730484</guid>
+    </item>
+    <item>
       <title>Tailscaleと Cloudflare Tunnel 、たぶん Cloudflare Tunnel というかCloudflare One（だっけ）に統一したほうがいいんだろうけど、よくわからないからやってない そもそもTailscaleと同じことができるのかもよくわかってない</title>
       <link>https://x.com/__abelia/status/2079118398915830109</link>
       <description>Abelia: Tailscaleと Cloudflare Tunnel 、たぶん Cloudflare Tunnel というかCloudflare One（だっけ）に統一したほうがいいんだろうけど、よくわからないからやってない そもそもTailscaleと同じことができるのかもよくわかってない</description>
       <pubDate>Mon, 20 Jul 2026 08:17:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__abelia/status/2079118398915830109</guid>
+    </item>
+    <item>
+      <title>claude code cloudflare tunnel playwright mcpで歩きながら開発</title>
+      <link>https://x.com/initialcommit0/status/2079118262374453705</link>
+      <description>Ryoya Itabashi@UE5開発: claude code cloudflare tunnel playwright mcpで歩きながら開発</description>
+      <pubDate>Mon, 20 Jul 2026 08:16:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/initialcommit0/status/2079118262374453705</guid>
     </item>
     <item>
       <title>カゴヤはAPIでFW設定ができなかったり、そもそもFWにTCPとUDPしかなかったりで（ICMPは？）完成度がややアレではあるんだけど、Tailscaleと Cloudflare Tunnel に一本化すれば全部塞げてしまえるので気になることはなかった</title>
@@ -262,20 +276,6 @@
       <description>1.up: opensshインストールして cloudflare tunnel で外出先からsshしようと思って、今進めている。 眠いから続きは明日で</description>
       <pubDate>Thu, 09 Jul 2026 13:27:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Motorolove/status/2075210180372127856</guid>
-    </item>
-    <item>
-      <title>&quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/JIWcl4swKb</title>
-      <link>https://x.com/attaka1/status/2075123131795263664</link>
-      <description>attaka: &quot;無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた&quot; - GIGAZINE（ギガジン） #SmartNews https://t.co/JIWcl4swKb</description>
-      <pubDate>Thu, 09 Jul 2026 07:41:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/attaka1/status/2075123131795263664</guid>
-    </item>
-    <item>
-      <title>業務で動画配信せい言われたから鯖は用意してくれるんかな思ったんやけど案の定動画は80MBまでです、とか寝言ほざかれて。 そんなんでどうやって動画配信すんねん💢 てなったけどまあ最初から何も期待してなかったんで古いPCに Ubuntu入れてnginxと cloudflare tunnel でmp4流すシステム構築したった。</title>
-      <link>https://x.com/arctor2010/status/2075103544957616320</link>
-      <description>あくとり（arctor）: 業務で動画配信せい言われたから鯖は用意してくれるんかな思ったんやけど案の定動画は80MBまでです、とか寝言ほざかれて。 そんなんでどうやって動画配信すんねん💢 てなったけどまあ最初から何も期待してなかったんで古いPCに Ubuntu入れてnginxと cloudflare tunnel でmp4流すシステム構築したった。</description>
-      <pubDate>Thu, 09 Jul 2026 06:23:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/arctor2010/status/2075103544957616320</guid>
     </item>
   </channel>
 </rss>

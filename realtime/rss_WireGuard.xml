@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/moog74898428/status/2079076753335890375</guid>
     </item>
     <item>
+      <title>ベランダ観測小屋は WireGuard でVPN接続、リブーターでの電源管理、ルーフモータ制御の冗長化、と色々やったら、今度は赤道儀制御のPCがダウンしたら、、と不安になったので、AstroEQ制御を止めOnStepX FYSETC E4に切り替え予定。これならUSB接続とWiFi接続が両立できる。 https://t.co/o2ezU6853m</title>
+      <link>https://x.com/yamagiri_K5/status/2079056087907803221</link>
+      <description>やまぎり: ベランダ観測小屋は WireGuard でVPN接続、リブーターでの電源管理、ルーフモータ制御の冗長化、と色々やったら、今度は赤道儀制御のPCがダウンしたら、、と不安になったので、AstroEQ制御を止めOnStepX FYSETC E4に切り替え予定。これならUSB接続とWiFi接続が両立できる。 https://t.co/o2ezU6853m</description>
+      <pubDate>Mon, 20 Jul 2026 04:09:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamagiri_K5/status/2079056087907803221</guid>
+    </item>
+    <item>
       <title>openwrtに wireguard ぶっ挿して喜んでたけど、めちゃくちゃ生ispのdnsリークしてて笑った</title>
       <link>https://x.com/yuyud1dej/status/2078992943114023292</link>
       <description>Yuki: openwrtに wireguard ぶっ挿して喜んでたけど、めちゃくちゃ生ispのdnsリークしてて笑った</description>
@@ -269,13 +276,6 @@
       <description>ときたみ: 自宅にVPN接続したくてずっと格闘してたのだけど結論としてOpenVPNは無理、ということになった。 最近の流行はOpenVPNではなく、 WireGuard っつーツールらしいんだけど、こちらでやったらあっさり繋がりおった。 ここ数日の私の苦労はなんだったんだ。 まぁ繋がればよいとはいえ、がっくりきちゃうね。</description>
       <pubDate>Tue, 07 Jul 2026 10:39:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tokitamiki/status/2074443180054090183</guid>
-    </item>
-    <item>
-      <title>@Cicada0001 畢竟 wireguard</title>
-      <link>https://x.com/kuroroholumu/status/2074426613077549471</link>
-      <description>クロロホルム: @Cicada0001 畢竟 wireguard</description>
-      <pubDate>Tue, 07 Jul 2026 09:33:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuroroholumu/status/2074426613077549471</guid>
     </item>
   </channel>
 </rss>
