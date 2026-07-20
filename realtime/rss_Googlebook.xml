@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Googlebook%22</link>
     <description>Latest search results for '&quot;Googlebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Googlebook 搭載予定の新 OS (流出情報によるコードネームは ALOS と私は記憶している) についての情報を得たいので、AOSP のリポジトリを見に行かんといかんな。ChromiumOS のリポジトリを見ているだけでは明らかに情報が足りないと考えられる。</title>
+      <link>https://x.com/ttatsuoki/status/2079013245193703520</link>
+      <description>龍興 尚幸 (TATSUOKI Takayuki): Googlebook 搭載予定の新 OS (流出情報によるコードネームは ALOS と私は記憶している) についての情報を得たいので、AOSP のリポジトリを見に行かんといかんな。ChromiumOS のリポジトリを見ているだけでは明らかに情報が足りないと考えられる。</description>
+      <pubDate>Mon, 20 Jul 2026 01:19:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2079013245193703520</guid>
+    </item>
+    <item>
       <title>Googlebook のHWが初期ラインナップの次にどうするのかは、Windowsと変わらないんじゃないかな。LLM処理能力の基準くらいはあっても、あとはメーカー任せ。それとOSの評価は2年待ち。でたばかりでは評価するに値しないのはいつものGoogleクオリティ。ブラッシュアップに2年。そこがスタート</title>
       <link>https://x.com/hiro_fk/status/2078869978447843571</link>
       <description>Donon @今日明日: Googlebook のHWが初期ラインナップの次にどうするのかは、Windowsと変わらないんじゃないかな。LLM処理能力の基準くらいはあっても、あとはメーカー任せ。それとOSの評価は2年待ち。でたばかりでは評価するに値しないのはいつものGoogleクオリティ。ブラッシュアップに2年。そこがスタート</description>
@@ -17,6 +24,13 @@
       <description>おむらまさひで(HelenTech): Acer Googlebook 14 GP714-91N も Core Ultra 7 355 と 32GB RAM、タッチスクリーン対応モデルがある。 # googlebook #acer #aluminiumos https://t.co/AsDVxqIFs5</description>
       <pubDate>Sun, 19 Jul 2026 14:53:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2078855668996657452</guid>
+    </item>
+    <item>
+      <title>ASUS Googlebook CX9406CAA とされるデバイスの底面はこんな感じ # googlebook https://t.co/c09dwCrhtc</title>
+      <link>https://x.com/Helen_Tech/status/2078851839135818093</link>
+      <description>おむらまさひで(HelenTech): ASUS Googlebook CX9406CAA とされるデバイスの底面はこんな感じ # googlebook https://t.co/c09dwCrhtc</description>
+      <pubDate>Sun, 19 Jul 2026 14:37:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2078851839135818093</guid>
     </item>
     <item>
       <title>ASUS Googlebook CX9406CAA とされるデバイスの底面はこんな感じ #goglebook https://t.co/qzqT9nyXIZ</title>
@@ -262,20 +276,6 @@
       <description>おむらまさひで(HelenTech): Android 17 Beta のバグレポートによると、これが Googlebook Mica らしい https://t.co/wrNMATJ2as</description>
       <pubDate>Thu, 16 Jul 2026 06:58:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2077649126297411711</guid>
-    </item>
-    <item>
-      <title>Android 17 Beta のレポートによると、これが Googlebook Mica らしい https://t.co/fU0A6oLHd5</title>
-      <link>https://x.com/Helen_Tech/status/2077648854061928721</link>
-      <description>おむらまさひで(HelenTech): Android 17 Beta のレポートによると、これが Googlebook Mica らしい https://t.co/fU0A6oLHd5</description>
-      <pubDate>Thu, 16 Jul 2026 06:57:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2077648854061928721</guid>
-    </item>
-    <item>
-      <title>新しい記事を投稿しました。 Googlebook 「Sapphire」向けの「Lenovo Pen Pro for Googlebook 」が FCC に登場 Lenovo が「Lenovo Pen Pro for Googlebook 」を FCC</title>
-      <link>https://x.com/GbookHub/status/2077600803767091652</link>
-      <description>GbookHub: 新しい記事を投稿しました。 Googlebook 「Sapphire」向けの「Lenovo Pen Pro for Googlebook 」が FCC に登場 Lenovo が「Lenovo Pen Pro for Googlebook 」を FCC</description>
-      <pubDate>Thu, 16 Jul 2026 03:46:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GbookHub/status/2077600803767091652</guid>
     </item>
   </channel>
 </rss>
