@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ZMK みたいに GitHub Actions でもいいっちゃいいんですが、GitHub Actions だとビルドに5分ぐらい待つ必要があって、試行錯誤したいときにはビルドが数十秒で完了する GitHub Codespaces のほうが使いやすかったです。</title>
+      <link>https://x.com/stnh0227/status/2078963148640633003</link>
+      <description>すとのふ: ZMK みたいに GitHub Actions でもいいっちゃいいんですが、GitHub Actions だとビルドに5分ぐらい待つ必要があって、試行錯誤したいときにはビルドが数十秒で完了する GitHub Codespaces のほうが使いやすかったです。</description>
+      <pubDate>Sun, 19 Jul 2026 22:00:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/stnh0227/status/2078963148640633003</guid>
+    </item>
+    <item>
       <title>Ergo42のVialファームウェア作成に GitHub Codespaces を使ってみました。vial-qmkにdevconainer.jsonを追加するだけで開発コンテナとして、ブラウザでサクッと開発環境が作れて便利。既存のファームウェアを改造する分には無料枠で十分。https://t.co/794WedOP0o #自作キーボード</title>
       <link>https://x.com/stnh0227/status/2078961688678973848</link>
       <description>すとのふ: Ergo42のVialファームウェア作成に GitHub Codespaces を使ってみました。vial-qmkにdevconainer.jsonを追加するだけで開発コンテナとして、ブラウザでサクッと開発環境が作れて便利。既存のファームウェアを改造する分には無料枠で十分。https://t.co/794WedOP0o #自作キーボード</description>

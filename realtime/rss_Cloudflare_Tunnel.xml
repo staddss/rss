@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscaleと Cloudflare Tunnel 、たぶん Cloudflare Tunnel というかCloudflare One（だっけ）に統一したほうがいいんだろうけど、よくわからないからやってない そもそもTailscaleと同じことができるのかもよくわかってない</title>
+      <link>https://x.com/__abelia/status/2079118398915830109</link>
+      <description>Abelia: Tailscaleと Cloudflare Tunnel 、たぶん Cloudflare Tunnel というかCloudflare One（だっけ）に統一したほうがいいんだろうけど、よくわからないからやってない そもそもTailscaleと同じことができるのかもよくわかってない</description>
+      <pubDate>Mon, 20 Jul 2026 08:17:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__abelia/status/2079118398915830109</guid>
+    </item>
+    <item>
+      <title>カゴヤはAPIでFW設定ができなかったり、そもそもFWにTCPとUDPしかなかったりで（ICMPは？）完成度がややアレではあるんだけど、Tailscaleと Cloudflare Tunnel に一本化すれば全部塞げてしまえるので気になることはなかった</title>
+      <link>https://x.com/__abelia/status/2079117665222979923</link>
+      <description>Abelia: カゴヤはAPIでFW設定ができなかったり、そもそもFWにTCPとUDPしかなかったりで（ICMPは？）完成度がややアレではあるんだけど、Tailscaleと Cloudflare Tunnel に一本化すれば全部塞げてしまえるので気になることはなかった</description>
+      <pubDate>Mon, 20 Jul 2026 08:14:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__abelia/status/2079117665222979923</guid>
+    </item>
+    <item>
+      <title>QiitaやZennでは今でも「自宅サーバーを外部公開してみた」系の記事が上位に出てくるけど、2026年現在、ワイにはもうルーターに穴を開けてポートを晒す勇気ない やるとしてもTailscaleか Cloudflare Tunnel 経由 みんな、自宅ネットワークを直接インターネットに晒す度胸、その蛮勇に素直に敬服する</title>
+      <link>https://x.com/harri_8964ak47/status/2079079373895045404</link>
+      <description>Harrison Sanada: QiitaやZennでは今でも「自宅サーバーを外部公開してみた」系の記事が上位に出てくるけど、2026年現在、ワイにはもうルーターに穴を開けてポートを晒す勇気ない やるとしてもTailscaleか Cloudflare Tunnel 経由 みんな、自宅ネットワークを直接インターネットに晒す度胸、その蛮勇に素直に敬服する</description>
+      <pubDate>Mon, 20 Jul 2026 05:42:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/harri_8964ak47/status/2079079373895045404</guid>
+    </item>
+    <item>
       <title>pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</title>
       <link>https://x.com/inarizusi777/status/2079024419784335754</link>
       <description>yuuk1: pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</description>
@@ -255,27 +276,6 @@
       <description>あくとり（arctor）: 業務で動画配信せい言われたから鯖は用意してくれるんかな思ったんやけど案の定動画は80MBまでです、とか寝言ほざかれて。 そんなんでどうやって動画配信すんねん💢 てなったけどまあ最初から何も期待してなかったんで古いPCに Ubuntu入れてnginxと cloudflare tunnel でmp4流すシステム構築したった。</description>
       <pubDate>Thu, 09 Jul 2026 06:23:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/arctor2010/status/2075103544957616320</guid>
-    </item>
-    <item>
-      <title>【外部AIからローカルを自律監視】 ポート開放ゼロでPCを安全に繋ぐ「 Cloudflare Tunnel ×リモートMCP」。外部AIにWSL内のログ監視や遠隔デバッグを任せるセキュアなインフラ構築手順を公開！ 自律開発の次ステップへ👇 https://t.co/d3J05ETbEg #AI自動化 #個人開発 https://t.co/pGV00RTWaY</title>
-      <link>https://x.com/9z8sEALyAn49627/status/2075037952212869480</link>
-      <description>崎上義将| ITテクニカルスペシャリスト×AI要約: 【外部AIからローカルを自律監視】 ポート開放ゼロでPCを安全に繋ぐ「 Cloudflare Tunnel ×リモートMCP」。外部AIにWSL内のログ監視や遠隔デバッグを任せるセキュアなインフラ構築手順を公開！ 自律開発の次ステップへ👇 https://t.co/d3J05ETbEg #AI自動化 #個人開発 https://t.co/pGV00RTWaY</description>
-      <pubDate>Thu, 09 Jul 2026 02:02:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/9z8sEALyAn49627/status/2075037952212869480</guid>
-    </item>
-    <item>
-      <title>”「 Cloudflare Tunnel 」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです” いまの時代、中々怖い技術ですね😅😅😅 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた https://t.co/Hwavx9lSSH</title>
-      <link>https://x.com/zeijak_engineer/status/2075028422171251081</link>
-      <description>脆弱なエンジニア: ”「 Cloudflare Tunnel 」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです” いまの時代、中々怖い技術ですね😅😅😅 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた https://t.co/Hwavx9lSSH</description>
-      <pubDate>Thu, 09 Jul 2026 01:25:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zeijak_engineer/status/2075028422171251081</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/WfP5sbkzHo</title>
-      <link>https://x.com/Tk4Hsmt/status/2075019136514883667</link>
-      <description>Hashimoto: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/WfP5sbkzHo</description>
-      <pubDate>Thu, 09 Jul 2026 00:48:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tk4Hsmt/status/2075019136514883667</guid>
     </item>
   </channel>
 </rss>
