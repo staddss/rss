@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>antix26の pipewire をアプデしたらAACコーデック消えたから、再ビルド。 自転車1時間くらい乗ってたけど、あまりに暑くて参った〜</title>
+      <link>https://x.com/GA70H/status/2079109372932964449</link>
+      <description>銀狐: antix26の pipewire をアプデしたらAACコーデック消えたから、再ビルド。 自転車1時間くらい乗ってたけど、あまりに暑くて参った〜</description>
+      <pubDate>Mon, 20 Jul 2026 07:41:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GA70H/status/2079109372932964449</guid>
+    </item>
+    <item>
       <title>PulseAudio消して PipeWire におきかえた https://t.co/gxrp82iwgs</title>
       <link>https://x.com/lostman/status/2078530606452085161</link>
       <description>ごる: PulseAudio消して PipeWire におきかえた https://t.co/gxrp82iwgs</description>
@@ -101,13 +108,6 @@
       <description>まりも: 今週は新しい環境を準備するなどした Xorg→Wayland PulseAudio→ PipeWire Openbox→Sway Tint2→Waybar https://t.co/itoVxevuWY</description>
       <pubDate>Fri, 26 Jun 2026 10:26:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/marimo_linux/status/2070453687991062655</guid>
-    </item>
-    <item>
-      <title>niri→独自コンポジタ、 PipeWire →独自サウンドエンジンに移行できたのが大きなインパクト</title>
-      <link>https://x.com/stdio_world/status/2068486518403199165</link>
-      <description>DΙΟ: niri→独自コンポジタ、 PipeWire →独自サウンドエンジンに移行できたのが大きなインパクト</description>
-      <pubDate>Sun, 21 Jun 2026 00:09:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/stdio_world/status/2068486518403199165</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>サイドカーパターンで利用できる Cloudflare Tunnel エージェントをコンテナ（Podman Compose のサービス）で動かして、より本版に近い環境で開発するための記事を書くか。① 概要 ② Tunnel の運用まで ③ 安全のために Access を使う、という3シリーズで。</title>
+      <link>https://x.com/SeahalJa/status/2079364178796827056</link>
+      <description>SEAHAL(Ja): サイドカーパターンで利用できる Cloudflare Tunnel エージェントをコンテナ（Podman Compose のサービス）で動かして、より本版に近い環境で開発するための記事を書くか。① 概要 ② Tunnel の運用まで ③ 安全のために Access を使う、という3シリーズで。</description>
+      <pubDate>Tue, 21 Jul 2026 00:33:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079364178796827056</guid>
+    </item>
+    <item>
       <title>開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</title>
       <link>https://x.com/SeahalJa/status/2079213947056730484</link>
       <description>SEAHAL(Ja): 開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</description>
@@ -269,13 +276,6 @@
       <description>rain1208酒カス: VMは金かかるし cloudflare tunnel について調べてみる</description>
       <pubDate>Fri, 10 Jul 2026 01:11:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rain1208_sake/status/2075387488273866788</guid>
-    </item>
-    <item>
-      <title>opensshインストールして cloudflare tunnel で外出先からsshしようと思って、今進めている。 眠いから続きは明日で</title>
-      <link>https://x.com/Motorolove/status/2075210180372127856</link>
-      <description>1.up: opensshインストールして cloudflare tunnel で外出先からsshしようと思って、今進めている。 眠いから続きは明日で</description>
-      <pubDate>Thu, 09 Jul 2026 13:27:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Motorolove/status/2075210180372127856</guid>
     </item>
   </channel>
 </rss>
