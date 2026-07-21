@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2079364178796827056</guid>
     </item>
     <item>
+      <title>さて、明日は Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用するみたいなのをリナックスホストから動作チェックして、内部に入ってパラメタを操作して、完遂させようではないか。これやってからでないと、ほかの作業が滞るしな。</title>
+      <link>https://x.com/SeahalJa/status/2079215916857115064</link>
+      <description>SEAHAL(Ja): さて、明日は Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用するみたいなのをリナックスホストから動作チェックして、内部に入ってパラメタを操作して、完遂させようではないか。これやってからでないと、ほかの作業が滞るしな。</description>
+      <pubDate>Mon, 20 Jul 2026 14:44:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079215916857115064</guid>
+    </item>
+    <item>
       <title>開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</title>
       <link>https://x.com/SeahalJa/status/2079213947056730484</link>
       <description>SEAHAL(Ja): 開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</description>
@@ -269,13 +276,6 @@
       <description>バチコリ茎🌱@とけいさん: 同じの作ってって言われたら作るけど OAuth複数連携(GitHub/Google/Discord/X)、投稿・ギャラリー・イベント・いいね・タグ、自宅サーバー運用( Cloudflare Tunnel 、fail2ban、ModSecurity、Zabbix監視) 価格帯:シンプル版5〜10万、フル機能10〜25万、運用代行込み25万〜+月額保守</description>
       <pubDate>Fri, 10 Jul 2026 09:24:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tokeisan4/status/2075511518456922295</guid>
-    </item>
-    <item>
-      <title>VMは金かかるし cloudflare tunnel について調べてみる</title>
-      <link>https://x.com/rain1208_sake/status/2075387488273866788</link>
-      <description>rain1208酒カス: VMは金かかるし cloudflare tunnel について調べてみる</description>
-      <pubDate>Fri, 10 Jul 2026 01:11:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rain1208_sake/status/2075387488273866788</guid>
     </item>
   </channel>
 </rss>

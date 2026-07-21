@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard まあよく使ってる</title>
+      <link>https://x.com/shiomiolog/status/2079615489802985646</link>
+      <description>汐猫みお🐾💻 / しおみお / SHIONE Mio: wireguard まあよく使ってる</description>
+      <pubDate>Tue, 21 Jul 2026 17:12:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiomiolog/status/2079615489802985646</guid>
+    </item>
+    <item>
+      <title>AIスウォーム帝国は、アバターの専門性を分散させ、Zero-Linkで収益を即時決済。 WireGuard とTorを重ねることで、IPやウォレットを一切紐付けない「自己主権」の仕組みを作り上げたのよ。</title>
+      <link>https://x.com/SofiWorks10611/status/2079573123582808550</link>
+      <description>sofi.works ⚡️ タイ生存ハック: AIスウォーム帝国は、アバターの専門性を分散させ、Zero-Linkで収益を即時決済。 WireGuard とTorを重ねることで、IPやウォレットを一切紐付けない「自己主権」の仕組みを作り上げたのよ。</description>
+      <pubDate>Tue, 21 Jul 2026 14:24:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SofiWorks10611/status/2079573123582808550</guid>
+    </item>
+    <item>
+      <title>QUIC transport mode in NymVPN WireGuard /AmneziaWGの接続をQUICレイヤーでラップします。これにより、ファイアウォールやDeep Packet Inspection（DPI：深層パケット検査）システムがVPNトラフィックを認識しにくくなります。 https://t.co/0B1qP4FyJ5</title>
+      <link>https://x.com/hanahanahflower/status/2079542037108433289</link>
+      <description>Hana Hana: QUIC transport mode in NymVPN WireGuard /AmneziaWGの接続をQUICレイヤーでラップします。これにより、ファイアウォールやDeep Packet Inspection（DPI：深層パケット検査）システムがVPNトラフィックを認識しにくくなります。 https://t.co/0B1qP4FyJ5</description>
+      <pubDate>Tue, 21 Jul 2026 12:20:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hanahanahflower/status/2079542037108433289</guid>
+    </item>
+    <item>
+      <title>WireGuard サーバをAmneziaWG（ WireGuard フォーク）に入れ替えてみた これが活きる機会が来るかどうかは未知数</title>
+      <link>https://x.com/sugattor_jz/status/2079217665852559648</link>
+      <description>シュガッター@規制: WireGuard サーバをAmneziaWG（ WireGuard フォーク）に入れ替えてみた これが活きる機会が来るかどうかは未知数</description>
+      <pubDate>Mon, 20 Jul 2026 14:51:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sugattor_jz/status/2079217665852559648</guid>
+    </item>
+    <item>
       <title>App機能でnetwork-outgoing-access=noを設定すると、同ルータ上で動いている WireGuard のinbound通信がルーティングされなくなる事象に遭遇。 Firewall/Mangleに動的ルールが追加されて、そいつが WireGuard の通信まで捨てていた。 RouterOS 7.23.2</title>
       <link>https://x.com/moog74898428/status/2079076753335890375</link>
       <description>moog: App機能でnetwork-outgoing-access=noを設定すると、同ルータ上で動いている WireGuard のinbound通信がルーティングされなくなる事象に遭遇。 Firewall/Mangleに動的ルールが追加されて、そいつが WireGuard の通信まで捨てていた。 RouterOS 7.23.2</description>
@@ -248,34 +276,6 @@
       <description>bit287: Nuro10ギガ契約に変更したら職場へのリモートVPS接続と自宅への WireGuard 接続が不可能になってしまったので両方の作業マシンにCloudflare TunnelでSSH接続できるようにしてみた。俺の場合は常時起動マシンが存在する環境だからまだいいが…。</description>
       <pubDate>Tue, 07 Jul 2026 23:59:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bit287/status/2074644463675420997</guid>
-    </item>
-    <item>
-      <title>@Jbox_sandbag https://t.co/8B8kLfq2FDのサブドメインだとCloudflareに載せられないので、Tunnelだとホスト名が変わっちゃいますね、失礼しました🙏 ここから先は自分も実践したことがなくてClaudeに聞いた受け売りなんですが、ホスト名を維持したいならVPSを1台挟んでfrpや WireGuard でリバーストンネルを張る方式</title>
-      <link>https://x.com/MyAYBCuZwxUTmMQ/status/2074622512819036560</link>
-      <description>勝又@udowan合同会社: @Jbox_sandbag https://t.co/8B8kLfq2FDのサブドメインだとCloudflareに載せられないので、Tunnelだとホスト名が変わっちゃいますね、失礼しました🙏 ここから先は自分も実践したことがなくてClaudeに聞いた受け売りなんですが、ホスト名を維持したいならVPSを1台挟んでfrpや WireGuard でリバーストンネルを張る方式</description>
-      <pubDate>Tue, 07 Jul 2026 22:32:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MyAYBCuZwxUTmMQ/status/2074622512819036560</guid>
-    </item>
-    <item>
-      <title>@taitai2661dayo protonの wireguard かWindscribeまたはノーログ有料VPNとTor使ってproton垢作ればいいじゃない？ 不安ならノーログー&gt;仮想環境でopenvpnのVPNgate+Torとかでも</title>
-      <link>https://x.com/L_port53/status/2074467928485896681</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @taitai2661dayo protonの wireguard かWindscribeまたはノーログ有料VPNとTor使ってproton垢作ればいいじゃない？ 不安ならノーログー&gt;仮想環境でopenvpnのVPNgate+Torとかでも</description>
-      <pubDate>Tue, 07 Jul 2026 12:17:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2074467928485896681</guid>
-    </item>
-    <item>
-      <title>自宅にVPN接続したくてずっと格闘してたのだけど結論としてOpenVPNは無理、ということになった。 最近の流行はOpenVPNではなく、 WireGuard っつーツールらしいんだけど、こちらでやったらあっさり繋がりおった。 ここ数日の私の苦労はなんだったんだ。 まぁ繋がればよいとはいえ、がっくりきちゃうね。</title>
-      <link>https://x.com/tokitamiki/status/2074443180054090183</link>
-      <description>ときたみ: 自宅にVPN接続したくてずっと格闘してたのだけど結論としてOpenVPNは無理、ということになった。 最近の流行はOpenVPNではなく、 WireGuard っつーツールらしいんだけど、こちらでやったらあっさり繋がりおった。 ここ数日の私の苦労はなんだったんだ。 まぁ繋がればよいとはいえ、がっくりきちゃうね。</description>
-      <pubDate>Tue, 07 Jul 2026 10:39:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokitamiki/status/2074443180054090183</guid>
-    </item>
-    <item>
-      <title>@Cicada0001 畢竟 wireguard</title>
-      <link>https://x.com/kuroroholumu/status/2074426613077549471</link>
-      <description>クロロホルム: @Cicada0001 畢竟 wireguard</description>
-      <pubDate>Tue, 07 Jul 2026 09:33:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuroroholumu/status/2074426613077549471</guid>
     </item>
   </channel>
 </rss>
