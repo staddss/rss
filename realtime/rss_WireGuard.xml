@@ -19,13 +19,6 @@
       <guid isPermaLink="true">https://x.com/yamagiri_K5/status/2079056087907803221</guid>
     </item>
     <item>
-      <title>openwrtに wireguard ぶっ挿して喜んでたけど、めちゃくちゃ生ispのdnsリークしてて笑った</title>
-      <link>https://x.com/yuyud1dej/status/2078992943114023292</link>
-      <description>Yuki: openwrtに wireguard ぶっ挿して喜んでたけど、めちゃくちゃ生ispのdnsリークしてて笑った</description>
-      <pubDate>Sun, 19 Jul 2026 23:58:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuyud1dej/status/2078992943114023292</guid>
-    </item>
-    <item>
       <title>@minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</title>
       <link>https://x.com/BonyChops/status/2078362340425425370</link>
       <description>BonyChops: @minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</description>
@@ -276,6 +269,13 @@
       <description>ときたみ: 自宅にVPN接続したくてずっと格闘してたのだけど結論としてOpenVPNは無理、ということになった。 最近の流行はOpenVPNではなく、 WireGuard っつーツールらしいんだけど、こちらでやったらあっさり繋がりおった。 ここ数日の私の苦労はなんだったんだ。 まぁ繋がればよいとはいえ、がっくりきちゃうね。</description>
       <pubDate>Tue, 07 Jul 2026 10:39:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tokitamiki/status/2074443180054090183</guid>
+    </item>
+    <item>
+      <title>@Cicada0001 畢竟 wireguard</title>
+      <link>https://x.com/kuroroholumu/status/2074426613077549471</link>
+      <description>クロロホルム: @Cicada0001 畢竟 wireguard</description>
+      <pubDate>Tue, 07 Jul 2026 09:33:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuroroholumu/status/2074426613077549471</guid>
     </item>
   </channel>
 </rss>
