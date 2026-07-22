@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>停電でRaspberry Pi 4BのmicroSDが故障。書込寿命を教訓に、 zram swap・tmpfs・journald volatile・noatimeで書込を最小化し、古いHDD 2台でbtrfs raid1プールを構築、resticでS3バックアップ。NixOSで宣言的に再構築 / The death and rebirth of my home server https://t.co/OzMJ8r9G5u</title>
+      <link>https://x.com/__su888/status/2079329502891503752</link>
+      <description>su8 / denchu: 停電でRaspberry Pi 4BのmicroSDが故障。書込寿命を教訓に、 zram swap・tmpfs・journald volatile・noatimeで書込を最小化し、古いHDD 2台でbtrfs raid1プールを構築、resticでS3バックアップ。NixOSで宣言的に再構築 / The death and rebirth of my home server https://t.co/OzMJ8r9G5u</description>
+      <pubDate>Mon, 20 Jul 2026 22:16:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2079329502891503752</guid>
+    </item>
+    <item>
       <title>@1unarw zram 駆使すればギリいけそう</title>
       <link>https://x.com/Ado_tann/status/2077650047450394913</link>
       <description>🧅あどたん❯❯❯❯❄🧁🐌☄️🌽（みょみょん会）: @1unarw zram 駆使すればギリいけそう</description>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今さらながら Syncthing を使ってみたり。これ、かなり便利ですごく良くね？ Σ(°ε° ) 自分的には、もはや完全にDropBoxが不要になる感覚だったなぁ。</title>
+      <link>https://x.com/tange777/status/2079702133142880727</link>
+      <description>𓃠たんげ𓃠　ゆるゲ部公式: 今さらながら Syncthing を使ってみたり。これ、かなり便利ですごく良くね？ Σ(°ε° ) 自分的には、もはや完全にDropBoxが不要になる感覚だったなぁ。</description>
+      <pubDate>Tue, 21 Jul 2026 22:56:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tange777/status/2079702133142880727</guid>
+    </item>
+    <item>
       <title>出陣準備中に、如何にしてClaude Codeの開発環境を持ち出すかを思案 Syncthing なるものがあることを知る ある意味３台にバックアップ取ることになるしこれ良いな…！</title>
       <link>https://x.com/FolsFoster339/status/2079068121705615617</link>
       <description>フォスター: 出陣準備中に、如何にしてClaude Codeの開発環境を持ち出すかを思案 Syncthing なるものがあることを知る ある意味３台にバックアップ取ることになるしこれ良いな…！</description>
@@ -269,20 +276,6 @@
       <description>重藤 六🐸ガジェットブロガー: error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</description>
       <pubDate>Mon, 29 Jun 2026 07:55:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071502893778432278</guid>
-    </item>
-    <item>
-      <title>Raspberry Piで動かすサービスの入口として、 Syncthing は分かりやすいです。 できることは、 指定したフォルダを複数端末で同期すること。 使いどころは3つです。 ① 作業メモをPCとラズパイでそろえる ② 実験ログを別端末へ集める ③ 小さい設定ファイルを手元で管理する https://t.co/ORRLY6l1Fb</title>
-      <link>https://x.com/murasametech/status/2071458651248984082</link>
-      <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing は分かりやすいです。 できることは、 指定したフォルダを複数端末で同期すること。 使いどころは3つです。 ① 作業メモをPCとラズパイでそろえる ② 実験ログを別端末へ集める ③ 小さい設定ファイルを手元で管理する https://t.co/ORRLY6l1Fb</description>
-      <pubDate>Mon, 29 Jun 2026 05:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/murasametech/status/2071458651248984082</guid>
-    </item>
-    <item>
-      <title>持ち出しPCと自宅PCのデータ同期って、 Syncthing 使うのがベスト？</title>
-      <link>https://x.com/yuzu_curiosity/status/2071249833453932877</link>
-      <description>タマキユウスケ🍊ClaudeCode活用: 持ち出しPCと自宅PCのデータ同期って、 Syncthing 使うのがベスト？</description>
-      <pubDate>Sun, 28 Jun 2026 15:10:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuzu_curiosity/status/2071249833453932877</guid>
     </item>
   </channel>
 </rss>

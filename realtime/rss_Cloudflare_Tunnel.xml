@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</title>
+      <link>https://x.com/linuxmetel/status/2079758246693539900</link>
+      <description>Linuxmetel: @Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</description>
+      <pubDate>Wed, 22 Jul 2026 02:39:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/linuxmetel/status/2079758246693539900</guid>
+    </item>
+    <item>
+      <title>おはようございます。 1) 開発支援系は Tailscale や cloudflare tunnel の最終チェック 2)いま途中のままになっている実装系をやって、終わり次第にソーシャルログインの強化、通知系のビルドアップします。 ３) テック系のブログの仕組みの DNS 関連を構築します というのを午前はやります。</title>
+      <link>https://x.com/SeahalJa/status/2079704203921137733</link>
+      <description>SEAHAL(Ja): おはようございます。 1) 開発支援系は Tailscale や cloudflare tunnel の最終チェック 2)いま途中のままになっている実装系をやって、終わり次第にソーシャルログインの強化、通知系のビルドアップします。 ３) テック系のブログの仕組みの DNS 関連を構築します というのを午前はやります。</description>
+      <pubDate>Tue, 21 Jul 2026 23:04:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079704203921137733</guid>
+    </item>
+    <item>
+      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/JLlnfmxyVa あとで見る</title>
+      <link>https://x.com/kuuga_zeba/status/2079655889687236931</link>
+      <description>ﾏﾁｭｰ: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/JLlnfmxyVa あとで見る</description>
+      <pubDate>Tue, 21 Jul 2026 19:52:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuuga_zeba/status/2079655889687236931</guid>
+    </item>
+    <item>
       <title>サイドカーパターンで利用できる Cloudflare Tunnel エージェントをコンテナ（Podman Compose のサービス）で動かして、より本版に近い環境で開発するための記事を書くか。① 概要 ② Tunnel の運用まで ③ 安全のために Access を使う、という3シリーズで。</title>
       <link>https://x.com/SeahalJa/status/2079364178796827056</link>
       <description>SEAHAL(Ja): サイドカーパターンで利用できる Cloudflare Tunnel エージェントをコンテナ（Podman Compose のサービス）で動かして、より本版に近い環境で開発するための記事を書くか。① 概要 ② Tunnel の運用まで ③ 安全のために Access を使う、という3シリーズで。</description>
@@ -255,27 +276,6 @@
       <description>connect24h: みんな大好き、価格帯系がバグってるCloudeflare！まだ「VPNを張るのが当たり前」と思っているなら、一度読んでほしい。自分もkali Linux環境はこれでどこからでも使えるようにしてる。注意が必要なのは、ドメイン持ってないとダメだけどね。 Cloudflare Tunnel × Accessを使えば、 ✅</description>
       <pubDate>Fri, 10 Jul 2026 16:30:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/connect24h/status/2075618672954187790</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel 使えそうな気がしてきたから土日でやってみようかな</title>
-      <link>https://x.com/yukix/status/2075591935818109112</link>
-      <description>ゆきくす: cloudflare tunnel 使えそうな気がしてきたから土日でやってみようかな</description>
-      <pubDate>Fri, 10 Jul 2026 14:44:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yukix/status/2075591935818109112</guid>
-    </item>
-    <item>
-      <title>OAuth複数連携(GitHub/Google/Discord/X)、投稿・ギャラリー・イベント・いいね・タグ、自宅サーバー運用( Cloudflare Tunnel 、fail2ban、ModSecurity、Zabbix監視) 価格帯:シンプル版5〜10万、フル機能10〜25万、運用代行込み25万〜+月額保守が相場だと診断されて これコスパ良いかも知れない</title>
-      <link>https://x.com/tokeisan4/status/2075512821966840072</link>
-      <description>バチコリ茎🌱@とけいさん: OAuth複数連携(GitHub/Google/Discord/X)、投稿・ギャラリー・イベント・いいね・タグ、自宅サーバー運用( Cloudflare Tunnel 、fail2ban、ModSecurity、Zabbix監視) 価格帯:シンプル版5〜10万、フル機能10〜25万、運用代行込み25万〜+月額保守が相場だと診断されて これコスパ良いかも知れない</description>
-      <pubDate>Fri, 10 Jul 2026 09:29:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokeisan4/status/2075512821966840072</guid>
-    </item>
-    <item>
-      <title>同じの作ってって言われたら作るけど OAuth複数連携(GitHub/Google/Discord/X)、投稿・ギャラリー・イベント・いいね・タグ、自宅サーバー運用( Cloudflare Tunnel 、fail2ban、ModSecurity、Zabbix監視) 価格帯:シンプル版5〜10万、フル機能10〜25万、運用代行込み25万〜+月額保守</title>
-      <link>https://x.com/tokeisan4/status/2075511518456922295</link>
-      <description>バチコリ茎🌱@とけいさん: 同じの作ってって言われたら作るけど OAuth複数連携(GitHub/Google/Discord/X)、投稿・ギャラリー・イベント・いいね・タグ、自宅サーバー運用( Cloudflare Tunnel 、fail2ban、ModSecurity、Zabbix監視) 価格帯:シンプル版5〜10万、フル機能10〜25万、運用代行込み25万〜+月額保守</description>
-      <pubDate>Fri, 10 Jul 2026 09:24:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokeisan4/status/2075511518456922295</guid>
     </item>
   </channel>
 </rss>
