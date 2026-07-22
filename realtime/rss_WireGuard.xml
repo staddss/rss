@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>他のをアレコレ使わない WireGuard が一番。組み合わせる毎に信頼性が落ちる。</title>
+      <link>https://x.com/yunzojm_open/status/2079875717232505045</link>
+      <description>ゆんぞ/Yunzo: 他のをアレコレ使わない WireGuard が一番。組み合わせる毎に信頼性が落ちる。</description>
+      <pubDate>Wed, 22 Jul 2026 10:26:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2079875717232505045</guid>
+    </item>
+    <item>
+      <title>@glyzinienet 以前はengage.で引けるのが100:だったのでしょうか？d0:はMeshの WireGuard は通らなそうでした。 https://t.co/8ifMmGfIHx 辺りの更新待ちですかねぇ</title>
+      <link>https://x.com/shibanyan_1/status/2079852067515236541</link>
+      <description>しばにゃん: @glyzinienet 以前はengage.で引けるのが100:だったのでしょうか？d0:はMeshの WireGuard は通らなそうでした。 https://t.co/8ifMmGfIHx 辺りの更新待ちですかねぇ</description>
+      <pubDate>Wed, 22 Jul 2026 08:52:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2079852067515236541</guid>
+    </item>
+    <item>
+      <title>@linuxmetel WireGuard ではできなかった気がするけど、OpenVPNとかはport 443に向けられたはず</title>
+      <link>https://x.com/Bitrate0/status/2079757351196987587</link>
+      <description>bitrate: @linuxmetel WireGuard ではできなかった気がするけど、OpenVPNとかはport 443に向けられたはず</description>
+      <pubDate>Wed, 22 Jul 2026 02:36:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Bitrate0/status/2079757351196987587</guid>
+    </item>
+    <item>
       <title>【新着記事】さくらのクラウドのVPNルータで WireGuard を使い、PCやLinuxサーバからVPN接続する方法を検証。前編では仕組みと設定手順を解説します。 https://t.co/CEkLqS93SM #さくらのクラウド # WireGuard #さくらのクラウドラボ</title>
       <link>https://x.com/NETASSIST_/status/2079755812332081234</link>
       <description>株式会社ネットアシスト【公式】: 【新着記事】さくらのクラウドのVPNルータで WireGuard を使い、PCやLinuxサーバからVPN接続する方法を検証。前編では仕組みと設定手順を解説します。 https://t.co/CEkLqS93SM #さくらのクラウド # WireGuard #さくらのクラウドラボ</description>
@@ -255,27 +276,6 @@
       <description>なね: 負荷状況によって使用サーバーを切り替えれるwg.confあればそっち使ってるくらいにはﾅﾝﾄﾓ ベータ機能とはいえProton Wireguard はパケロス酷すぎて使い物にならなかったし</description>
       <pubDate>Sat, 11 Jul 2026 02:42:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/n4ne_3/status/2075772602535284980</guid>
-    </item>
-    <item>
-      <title>WSL2上からお勉強用VPSに Wireguard で繫げようとしてたんだけど、handshakeで失敗してたので原因切り分けたら、handshake responseはWindows NICまで到達してたけど、Hyper-Vファイアウォールがinbound UDPを弾いてた。AIに特定ポートを開けるPowershellコマンドを聞いて解決、事無きを得た。</title>
-      <link>https://x.com/oyaguma3/status/2075565974242439270</link>
-      <description>おやぐまさん: WSL2上からお勉強用VPSに Wireguard で繫げようとしてたんだけど、handshakeで失敗してたので原因切り分けたら、handshake responseはWindows NICまで到達してたけど、Hyper-Vファイアウォールがinbound UDPを弾いてた。AIに特定ポートを開けるPowershellコマンドを聞いて解決、事無きを得た。</description>
-      <pubDate>Fri, 10 Jul 2026 13:01:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oyaguma3/status/2075565974242439270</guid>
-    </item>
-    <item>
-      <title>@yoshi_kaw ありがとうございます。 OpenBSD は10年くらい前にちょろっと触ったので全く知らない訳ではないんですが、まぁほぼ知らないと同じですね。w せっかくだからVPNサーバ( WireGuard )はOpenBSDにしてみようと思います。</title>
-      <link>https://x.com/tokitamiki/status/2075404776456716735</link>
-      <description>ときたみ: @yoshi_kaw ありがとうございます。 OpenBSD は10年くらい前にちょろっと触ったので全く知らない訳ではないんですが、まぁほぼ知らないと同じですね。w せっかくだからVPNサーバ( WireGuard )はOpenBSDにしてみようと思います。</description>
-      <pubDate>Fri, 10 Jul 2026 02:20:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokitamiki/status/2075404776456716735</guid>
-    </item>
-    <item>
-      <title>@tokitamiki 河豚板というOpenBSDのライブシステムを開発・公開しています https://t.co/hVDpaPRsjH OpenBSDのお試しとしてどうぞ。そのまま常用もできます 私自身も WireGuard でVPNを動作させていますが、安定して使えています</title>
-      <link>https://x.com/yoshi_kaw/status/2075392015140044972</link>
-      <description>Yoshihiro Kawamata: @tokitamiki 河豚板というOpenBSDのライブシステムを開発・公開しています https://t.co/hVDpaPRsjH OpenBSDのお試しとしてどうぞ。そのまま常用もできます 私自身も WireGuard でVPNを動作させていますが、安定して使えています</description>
-      <pubDate>Fri, 10 Jul 2026 01:29:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yoshi_kaw/status/2075392015140044972</guid>
     </item>
   </channel>
 </rss>

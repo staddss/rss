@@ -221,12 +221,5 @@
       <pubDate>Tue, 30 Jun 2026 00:01:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2071745937387712889</guid>
     </item>
-    <item>
-      <title>どうやら rclone mountとwatchdogのInotifyObserverは相性が悪いらしい</title>
-      <link>https://x.com/RasPython3/status/2068994654499139939</link>
-      <description>らすぴー / RasPython3: どうやら rclone mountとwatchdogのInotifyObserverは相性が悪いらしい</description>
-      <pubDate>Mon, 22 Jun 2026 09:49:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RasPython3/status/2068994654499139939</guid>
-    </item>
   </channel>
 </rss>
