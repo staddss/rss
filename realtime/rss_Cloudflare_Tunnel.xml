@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kh1k1ta せっかくmTLS捨ててまで、Tailscaleのみにしたのに台無しです Cloudflare Tunnel 経由も整備するかー</title>
+      <link>https://x.com/etouK_Krelumo/status/2079925174397554716</link>
+      <description>えとこー☕🇬🇧🎷: @kh1k1ta せっかくmTLS捨ててまで、Tailscaleのみにしたのに台無しです Cloudflare Tunnel 経由も整備するかー</description>
+      <pubDate>Wed, 22 Jul 2026 13:42:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/etouK_Krelumo/status/2079925174397554716</guid>
+    </item>
+    <item>
+      <title>なんか、サイドカーパターンとかそんなの不要で Rails の開発コンテナのサービスイメージに tailscale のエージェントを入れておいて、環境変数のみでアクセスの可否ができるようにしておけばよかった？これは、 Cloudflare Tunnel もそうだけど。</title>
+      <link>https://x.com/SeahalJa/status/2079782127756075511</link>
+      <description>SEAHAL(Ja): なんか、サイドカーパターンとかそんなの不要で Rails の開発コンテナのサービスイメージに tailscale のエージェントを入れておいて、環境変数のみでアクセスの可否ができるようにしておけばよかった？これは、 Cloudflare Tunnel もそうだけど。</description>
+      <pubDate>Wed, 22 Jul 2026 04:14:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079782127756075511</guid>
+    </item>
+    <item>
       <title>@Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</title>
       <link>https://x.com/linuxmetel/status/2079758246693539900</link>
       <description>Linuxmetel: @Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</description>
@@ -262,20 +276,6 @@
       <description>堀内暢之@SLM職人: うーむ？ Cloudflare tunnel とprefill の沈黙の相性が悪いな。。</description>
       <pubDate>Sat, 11 Jul 2026 07:44:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075848635649310934</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/5xn8NjdSfD</title>
-      <link>https://x.com/hideya_dev/status/2075847071249432600</link>
-      <description>hideya: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/5xn8NjdSfD</description>
-      <pubDate>Sat, 11 Jul 2026 07:38:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hideya_dev/status/2075847071249432600</guid>
-    </item>
-    <item>
-      <title>みんな大好き、価格帯系がバグってるCloudeflare！まだ「VPNを張るのが当たり前」と思っているなら、一度読んでほしい。自分もkali Linux環境はこれでどこからでも使えるようにしてる。注意が必要なのは、ドメイン持ってないとダメだけどね。 Cloudflare Tunnel × Accessを使えば、 ✅</title>
-      <link>https://x.com/connect24h/status/2075618672954187790</link>
-      <description>connect24h: みんな大好き、価格帯系がバグってるCloudeflare！まだ「VPNを張るのが当たり前」と思っているなら、一度読んでほしい。自分もkali Linux環境はこれでどこからでも使えるようにしてる。注意が必要なのは、ドメイン持ってないとダメだけどね。 Cloudflare Tunnel × Accessを使えば、 ✅</description>
-      <pubDate>Fri, 10 Jul 2026 16:30:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/connect24h/status/2075618672954187790</guid>
     </item>
   </channel>
 </rss>
