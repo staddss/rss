@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>「Raspberry Piに WireGuard をインストールして自宅にVPN環境を作成しました」 https://t.co/REf2rTbU9n</title>
+      <link>https://x.com/shige_cycle/status/2080127011591279024</link>
+      <description>しげ@BRM未定: 「Raspberry Piに WireGuard をインストールして自宅にVPN環境を作成しました」 https://t.co/REf2rTbU9n</description>
+      <pubDate>Thu, 23 Jul 2026 03:05:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shige_cycle/status/2080127011591279024</guid>
+    </item>
+    <item>
+      <title>@L_port53 クライアント← Wireguard など→踏み台VPS1←nftables DNAT→踏み台VPS2←DNAT→インターネット みたいな感じで設計すればまぁかなり秘匿はできるんじゃないの?使うソフトウェアも少なくて済むから覚えること少量で済むだろうし。オーバーヘッドは多少大きくなりやすいかもだが。</title>
+      <link>https://x.com/shumaikun0716/status/2080070005425922536</link>
+      <description>shumaikun0716: @L_port53 クライアント← Wireguard など→踏み台VPS1←nftables DNAT→踏み台VPS2←DNAT→インターネット みたいな感じで設計すればまぁかなり秘匿はできるんじゃないの?使うソフトウェアも少なくて済むから覚えること少量で済むだろうし。オーバーヘッドは多少大きくなりやすいかもだが。</description>
+      <pubDate>Wed, 22 Jul 2026 23:18:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2080070005425922536</guid>
+    </item>
+    <item>
+      <title>@shumaikun0716 暗号化なかったんだあれ... wireguard 入れる前ずっとスマホで使ってた(( 流石に今更IPv6リークがあるとかは怖すぎる</title>
+      <link>https://x.com/L_port53/status/2080068228752273556</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 暗号化なかったんだあれ... wireguard 入れる前ずっとスマホで使ってた(( 流石に今更IPv6リークがあるとかは怖すぎる</description>
+      <pubDate>Wed, 22 Jul 2026 23:11:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2080068228752273556</guid>
+    </item>
+    <item>
+      <title>wireguard ラズパイのやつ教えて、Macで繋がらない</title>
+      <link>https://x.com/twkoko844/status/2079968052037464349</link>
+      <description>つここ: wireguard ラズパイのやつ教えて、Macで繋がらない</description>
+      <pubDate>Wed, 22 Jul 2026 16:33:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/twkoko844/status/2079968052037464349</guid>
+    </item>
+    <item>
       <title>ルーターが逝きかけてたので買い替えました wireguard 機能付きが欲しかったけど結局buffalo</title>
       <link>https://x.com/amiaminamename/status/2079883923753255130</link>
       <description>なめ🧶: ルーターが逝きかけてたので買い替えました wireguard 機能付きが欲しかったけど結局buffalo</description>
@@ -248,34 +276,6 @@
       <description>一樹（openVpn）: ん？Android版のProton昔からあった気がする... 私はProtonといえば wireguard を書き出して国指定してやってる https://t.co/AdObFYGGOT</description>
       <pubDate>Sun, 12 Jul 2026 23:35:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port1194/status/2076450524342456503</guid>
-    </item>
-    <item>
-      <title>ホテルのWi-Fi ，FREESPOT を自宅 WireGuard のVPN で計測。十分に速い，そして日曜に出張移動している現実 https://t.co/PbF1t83ee5</title>
-      <link>https://x.com/InatamaS/status/2076225711858405878</link>
-      <description>四の人(IoT): ホテルのWi-Fi ，FREESPOT を自宅 WireGuard のVPN で計測。十分に速い，そして日曜に出張移動している現実 https://t.co/PbF1t83ee5</description>
-      <pubDate>Sun, 12 Jul 2026 08:42:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/InatamaS/status/2076225711858405878</guid>
-    </item>
-    <item>
-      <title>WireGuard からつながったので更改完了</title>
-      <link>https://x.com/kumozaru_at_fa/status/2075867858161262860</link>
-      <description>kumozaru: WireGuard からつながったので更改完了</description>
-      <pubDate>Sat, 11 Jul 2026 09:00:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kumozaru_at_fa/status/2075867858161262860</guid>
-    </item>
-    <item>
-      <title>wireguard のポート番号かと思った(51820) https://t.co/1UJ2dlbqsc</title>
-      <link>https://x.com/L_port1194/status/2075858427293942143</link>
-      <description>一樹（openVpn）: wireguard のポート番号かと思った(51820) https://t.co/1UJ2dlbqsc</description>
-      <pubDate>Sat, 11 Jul 2026 08:23:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port1194/status/2075858427293942143</guid>
-    </item>
-    <item>
-      <title>prに限った話じゃないけど変な挙動する独自クライアント作るくらいなら普通にconfig発行だけして Wireguard for Androidにタダ乗りしときなよという感じはある</title>
-      <link>https://x.com/n4ne_3/status/2075773179155616087</link>
-      <description>なね: prに限った話じゃないけど変な挙動する独自クライアント作るくらいなら普通にconfig発行だけして Wireguard for Androidにタダ乗りしときなよという感じはある</description>
-      <pubDate>Sat, 11 Jul 2026 02:44:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n4ne_3/status/2075773179155616087</guid>
     </item>
   </channel>
 </rss>

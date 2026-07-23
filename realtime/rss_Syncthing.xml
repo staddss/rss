@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>複数のPCでファイルを同期する「 Syncthing 」を使ってみた #Linux - Qiita https://t.co/rOYfH0gfz0</title>
+      <link>https://x.com/otemoto_stinger/status/2079771076431904903</link>
+      <description>おてもと⛩️: 複数のPCでファイルを同期する「 Syncthing 」を使ってみた #Linux - Qiita https://t.co/rOYfH0gfz0</description>
+      <pubDate>Wed, 22 Jul 2026 03:30:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/otemoto_stinger/status/2079771076431904903</guid>
+    </item>
+    <item>
       <title>今さらながら Syncthing を使ってみたり。これ、かなり便利ですごく良くね？ Σ(°ε° ) 自分的には、もはや完全にDropBoxが不要になる感覚だったなぁ。</title>
       <link>https://x.com/tange777/status/2079702133142880727</link>
       <description>𓃠たんげ𓃠　ゆるゲ部公式: 今さらながら Syncthing を使ってみたり。これ、かなり便利ですごく良くね？ Σ(°ε° ) 自分的には、もはや完全にDropBoxが不要になる感覚だったなぁ。</description>
@@ -269,13 +276,6 @@
       <description>Catty: 今までメモは紙にとって notepc上のhowmに転記・閲覧してたんだけど、emacsでメモ読む仕草は現代ではイカレ扱いっぽいので Joplinに移行したんぬ。同期手段をファイルシステムにして Syncthing で作った共有領域を指定すれば容量無限＆同期台数無限、OSS,E2E暗号化のevern◯te互換システムの完成なんぬ！</description>
       <pubDate>Mon, 29 Jun 2026 09:40:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ca_tty/status/2071529157633396745</guid>
-    </item>
-    <item>
-      <title>error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</title>
-      <link>https://x.com/shigetoroku1010/status/2071502893778432278</link>
-      <description>重藤 六🐸ガジェットブロガー: error=&quot;remote expects to exchange plain data, but local data is encrypted (folder-type receive-encrypted)&quot; log.pkg=model) Syncthing で上記エラーがでて同期されず困ってましたが、ブラウザのFirefoxのパスワードマネージャーがパスワードを設定してたようです👀</description>
-      <pubDate>Mon, 29 Jun 2026 07:55:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071502893778432278</guid>
     </item>
   </channel>
 </rss>
