@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>だいぶ手間取ったけど、AndroidでGrok Build CLIでつくったローカルPCの文章を校閲する仕組みが用意できた。 Syncthing でWin/Androidを双方向同期し、Obsidianアプリで閲覧、校正依頼は任意のAIに投げて、Obsidianにコピペ、次にローカルPCを起動すれば自動で文章が同期される https://t.co/3ucFrE3chW</title>
+      <link>https://x.com/D_Fens_DF/status/2080073771617251545</link>
+      <description>D-Fens@DeltaForce攻略Wiki管理人: だいぶ手間取ったけど、AndroidでGrok Build CLIでつくったローカルPCの文章を校閲する仕組みが用意できた。 Syncthing でWin/Androidを双方向同期し、Obsidianアプリで閲覧、校正依頼は任意のAIに投げて、Obsidianにコピペ、次にローカルPCを起動すれば自動で文章が同期される https://t.co/3ucFrE3chW</description>
+      <pubDate>Wed, 22 Jul 2026 23:33:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/D_Fens_DF/status/2080073771617251545</guid>
+    </item>
+    <item>
       <title>複数のPCでファイルを同期する「 Syncthing 」を使ってみた #Linux - Qiita https://t.co/rOYfH0gfz0</title>
       <link>https://x.com/otemoto_stinger/status/2079771076431904903</link>
       <description>おてもと⛩️: 複数のPCでファイルを同期する「 Syncthing 」を使ってみた #Linux - Qiita https://t.co/rOYfH0gfz0</description>
@@ -269,13 +276,6 @@
       <description>Catty: Joplin, Syncthing どちらもAndroidにあるので、スマホやタブレットからでも使用できるんぬ。その際はgoogle playでなくF-Droidで入れよう。しかしgoogleが平文に戻ってる状態の文字列をAPI経由で盗んでる可能性が高いので、重要なメモはファイル名を調べて同期対象から外したほうが良いかもしれんぬ。</description>
       <pubDate>Mon, 29 Jun 2026 09:46:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ca_tty/status/2071530736856060009</guid>
-    </item>
-    <item>
-      <title>今までメモは紙にとって notepc上のhowmに転記・閲覧してたんだけど、emacsでメモ読む仕草は現代ではイカレ扱いっぽいので Joplinに移行したんぬ。同期手段をファイルシステムにして Syncthing で作った共有領域を指定すれば容量無限＆同期台数無限、OSS,E2E暗号化のevern◯te互換システムの完成なんぬ！</title>
-      <link>https://x.com/ca_tty/status/2071529157633396745</link>
-      <description>Catty: 今までメモは紙にとって notepc上のhowmに転記・閲覧してたんだけど、emacsでメモ読む仕草は現代ではイカレ扱いっぽいので Joplinに移行したんぬ。同期手段をファイルシステムにして Syncthing で作った共有領域を指定すれば容量無限＆同期台数無限、OSS,E2E暗号化のevern◯te互換システムの完成なんぬ！</description>
-      <pubDate>Mon, 29 Jun 2026 09:40:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ca_tty/status/2071529157633396745</guid>
     </item>
   </channel>
 </rss>

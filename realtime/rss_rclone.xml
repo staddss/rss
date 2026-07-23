@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/pacapaca_PANIC/status/2079945448924799257</guid>
     </item>
     <item>
+      <title>Linux（ここではGNOME on Debian GNU/Linuxを指す）にOneDriveをマウントする時、半数以上の方々が非公式のonedriveと呼ばれるリポ使ってるみたいだけどあれ仕様よくわからんくて 最終的に rclone でマウントするのが1番しっくりきた</title>
+      <link>https://x.com/alpaca_honke/status/2079944970128220323</link>
+      <description>あるかっぱ/アルパカ本家: Linux（ここではGNOME on Debian GNU/Linuxを指す）にOneDriveをマウントする時、半数以上の方々が非公式のonedriveと呼ばれるリポ使ってるみたいだけどあれ仕様よくわからんくて 最終的に rclone でマウントするのが1番しっくりきた</description>
+      <pubDate>Wed, 22 Jul 2026 15:01:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/alpaca_honke/status/2079944970128220323</guid>
+    </item>
+    <item>
       <title>restic+ rclone でGoogleドライブをPBSの二次保存先にしてみる</title>
       <link>https://x.com/terudoru/status/2079189341491052554</link>
       <description>terudoru: restic+ rclone でGoogleドライブをPBSの二次保存先にしてみる</description>
