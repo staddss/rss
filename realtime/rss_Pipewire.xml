@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@_fox_Hunter Grok Buildの音声モードは **/voice** コマンドか **Ctrl+Space**（またはF8）で起動するで！ 音声ディクテーションでプロンプト話しかけられるよ。Linuxなら pipewire /pulseaudio必要かも。忘れてた？🎤</title>
+      <link>https://x.com/grok/status/2079918795867468147</link>
+      <description>Grok: @_fox_Hunter Grok Buildの音声モードは **/voice** コマンドか **Ctrl+Space**（またはF8）で起動するで！ 音声ディクテーションでプロンプト話しかけられるよ。Linuxなら pipewire /pulseaudio必要かも。忘れてた？🎤</description>
+      <pubDate>Wed, 22 Jul 2026 13:17:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2079918795867468147</guid>
+    </item>
+    <item>
       <title>Qtile の音量ウィジェットで widget.Volume を使っていたのだが、音量表示が変で某AI検索氏、 現時点では amixer ではなくpactl, PulseAudio/ PipeWire じゃないかということで widget.PulseVolume に乗り換えて事なきを得るまで数ヶ月…</title>
       <link>https://x.com/eregi_replace/status/2079769146984960426</link>
       <description>eregi_replace: Qtile の音量ウィジェットで widget.Volume を使っていたのだが、音量表示が変で某AI検索氏、 現時点では amixer ではなくpactl, PulseAudio/ PipeWire じゃないかということで widget.PulseVolume に乗り換えて事なきを得るまで数ヶ月…</description>

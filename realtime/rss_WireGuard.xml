@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自治体側の運用想定は PC起動 ↓ WireGuard サービス起動 ↓ VPSへVPN接続 ↓ 利用者ログイン ↓ ブラウザ利用 ↓ 利用者ログアウト ↓ ユーザープロファイル削除 ↓ WireGuard 接続は維持 紛失時のリモート対策は要検討</title>
+      <link>https://x.com/ponsllc/status/2080257664798577044</link>
+      <description>羽鳥達郎@合同会社pons: 自治体側の運用想定は PC起動 ↓ WireGuard サービス起動 ↓ VPSへVPN接続 ↓ 利用者ログイン ↓ ブラウザ利用 ↓ 利用者ログアウト ↓ ユーザープロファイル削除 ↓ WireGuard 接続は維持 紛失時のリモート対策は要検討</description>
+      <pubDate>Thu, 23 Jul 2026 11:44:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ponsllc/status/2080257664798577044</guid>
+    </item>
+    <item>
+      <title>誰か wireguard 使った固定IP提供サービスやってくれませんかねぇ… めっちゃ売れると思います 固定IP接続サービス 調達仕様書（案） 第1章 調達の目的 1.1 背景</title>
+      <link>https://x.com/ponsllc/status/2080254461595853075</link>
+      <description>羽鳥達郎@合同会社pons: 誰か wireguard 使った固定IP提供サービスやってくれませんかねぇ… めっちゃ売れると思います 固定IP接続サービス 調達仕様書（案） 第1章 調達の目的 1.1 背景</description>
+      <pubDate>Thu, 23 Jul 2026 11:31:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ponsllc/status/2080254461595853075</guid>
+    </item>
+    <item>
+      <title>一言でまとめると wireguard は帯域幅出したいならuserspace実装しか使えないmacではなくkernel実装使えるlinuxを使えって感じらしい</title>
+      <link>https://x.com/meetaco_/status/2080197123069599878</link>
+      <description>みーたこ🐙🌙: 一言でまとめると wireguard は帯域幅出したいならuserspace実装しか使えないmacではなくkernel実装使えるlinuxを使えって感じらしい</description>
+      <pubDate>Thu, 23 Jul 2026 07:43:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/meetaco_/status/2080197123069599878</guid>
+    </item>
+    <item>
       <title>もうなんか wireguard client書き換え始めて草</title>
       <link>https://x.com/meetaco_/status/2080171945665102045</link>
       <description>みーたこ🐙🌙: もうなんか wireguard client書き換え始めて草</description>
@@ -255,27 +276,6 @@
       <description>ciel -夜空-: @Yui0471 TailscaleはP2Pだよ 同じネットワーク同士で Wireguard なメッシュVPNを構築する ただゆいちゃんほどのネットワーク強者なら癖をわかって使わないとはまるかも 設定系の強制書換がめちゃ雑だしDNS実装雑ぽいし(RFC違反のプロキシ実装とか)tailscale外の100.64/10からの通信全部dropするしその他諸々</description>
       <pubDate>Tue, 14 Jul 2026 10:54:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_le_ciel_etoile/status/2076983637644591318</guid>
-    </item>
-    <item>
-      <title>つまりはそれってUDP通信がCDN↔Origin間疎通できれば良い話なのでは？となると WireGuard みたいなUDPのVPN内で隔離したネットワーク通信環境のCDN↔Origin設計の方が良さそうにも思える つまりはCF Tunnel型ガーってはなしになりそうだけどその間の通信全信頼するようなものだからなあ</title>
-      <link>https://x.com/haturatutaro/status/2076735883567649101</link>
-      <description>ハツラツ太郎: つまりはそれってUDP通信がCDN↔Origin間疎通できれば良い話なのでは？となると WireGuard みたいなUDPのVPN内で隔離したネットワーク通信環境のCDN↔Origin設計の方が良さそうにも思える つまりはCF Tunnel型ガーってはなしになりそうだけどその間の通信全信頼するようなものだからなあ</description>
-      <pubDate>Mon, 13 Jul 2026 18:29:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2076735883567649101</guid>
-    </item>
-    <item>
-      <title>【VPN運用省力化】VPN運用でACLと端末管理に追われる人は これを待ってたはず SSO MFA付きの WireGuard 網に端末をつなぐだけでVPN設定の配布もACL穴あけも減らせる【⭐️2.7万⭐️】 netbirdio/netbird インフラ運用で効く点🔻 ・手作業のVPN設定なしで端末を追加できる ・SSO https://t.co/2wA7t4GE1u</title>
-      <link>https://x.com/YukkuriTech/status/2076654879289028981</link>
-      <description>OSS研｜ゆっくりテックウオッチ: 【VPN運用省力化】VPN運用でACLと端末管理に追われる人は これを待ってたはず SSO MFA付きの WireGuard 網に端末をつなぐだけでVPN設定の配布もACL穴あけも減らせる【⭐️2.7万⭐️】 netbirdio/netbird インフラ運用で効く点🔻 ・手作業のVPN設定なしで端末を追加できる ・SSO https://t.co/2wA7t4GE1u</description>
-      <pubDate>Mon, 13 Jul 2026 13:08:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YukkuriTech/status/2076654879289028981</guid>
-    </item>
-    <item>
-      <title>@futamint WireGuard で繋げる検証して、繋がったのですけど実用性はほぼ無いなと... 工夫のしようはあるのかもしれないですが...</title>
-      <link>https://x.com/wata2candy/status/2076507012960252066</link>
-      <description>Kohei Sato: @futamint WireGuard で繋げる検証して、繋がったのですけど実用性はほぼ無いなと... 工夫のしようはあるのかもしれないですが...</description>
-      <pubDate>Mon, 13 Jul 2026 03:20:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wata2candy/status/2076507012960252066</guid>
     </item>
   </channel>
 </rss>

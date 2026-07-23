@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kyeshimizu @rosso_dev &gt; Workers VPC -&gt; hyper drive -&gt; planetscale いただいたドキュメントからは↑でhyperdrive - PlanetScale間で内部通信できるように読めませんでした。 別のCloudflareのドキュメントで書かれているように、 Cloudflare Tunnel をPlanetScale側で用意したり（添付画像）、あらかじめWorkers VPC - https://t.co/sB5v8zF1Ui</title>
+      <link>https://x.com/yuyu_hf/status/2080307261239689246</link>
+      <description>いっぬ: @kyeshimizu @rosso_dev &gt; Workers VPC -&gt; hyper drive -&gt; planetscale いただいたドキュメントからは↑でhyperdrive - PlanetScale間で内部通信できるように読めませんでした。 別のCloudflareのドキュメントで書かれているように、 Cloudflare Tunnel をPlanetScale側で用意したり（添付画像）、あらかじめWorkers VPC - https://t.co/sB5v8zF1Ui</description>
+      <pubDate>Thu, 23 Jul 2026 15:01:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuyu_hf/status/2080307261239689246</guid>
+    </item>
+    <item>
+      <title>個人的webサービスを作るときの構成 頑張ってアプリいい感じに作って、AIに自宅のk8s環境にデプロイするyaml書かせたら終わり cloudflare tunnel も書いてもらえるしGUIぽちぽちもいらない https://t.co/P3kcUiPcmB</title>
+      <link>https://x.com/accord_11/status/2080009712184234023</link>
+      <description>𝓐𝓬𝓬𝓸𝓻𝓭𝟯𝟯: 個人的webサービスを作るときの構成 頑張ってアプリいい感じに作って、AIに自宅のk8s環境にデプロイするyaml書かせたら終わり cloudflare tunnel も書いてもらえるしGUIぽちぽちもいらない https://t.co/P3kcUiPcmB</description>
+      <pubDate>Wed, 22 Jul 2026 19:18:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/accord_11/status/2080009712184234023</guid>
+    </item>
+    <item>
       <title>@kh1k1ta せっかくmTLS捨ててまで、Tailscaleのみにしたのに台無しです Cloudflare Tunnel 経由も整備するかー</title>
       <link>https://x.com/etouK_Krelumo/status/2079925174397554716</link>
       <description>えとこー☕🇬🇧🎷: @kh1k1ta せっかくmTLS捨ててまで、Tailscaleのみにしたのに台無しです Cloudflare Tunnel 経由も整備するかー</description>
@@ -262,20 +276,6 @@
       <description>玉糸シロア@VR: Cloudflare Tunnel 使えばセキュアで簡単にマイクラのマルチプレイができそう！と思ったけど調べてみたらtailscale使う方が簡単な気がしてきた</description>
       <pubDate>Sat, 11 Jul 2026 17:03:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tamaitosiroa_VR/status/2075989340807905387</guid>
-    </item>
-    <item>
-      <title>今さらかもしれないけど、cloudflare worker + cloudflare tunnel + honoにフロント移行しよう。やっとrailsのフロントから解放されるw</title>
-      <link>https://x.com/yubele/status/2075858475939467721</link>
-      <description>あべちゃん | テキストでスライド slidict.io 個人開発: 今さらかもしれないけど、cloudflare worker + cloudflare tunnel + honoにフロント移行しよう。やっとrailsのフロントから解放されるw</description>
-      <pubDate>Sat, 11 Jul 2026 08:23:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yubele/status/2075858475939467721</guid>
-    </item>
-    <item>
-      <title>うーむ？ Cloudflare tunnel とprefill の沈黙の相性が悪いな。。</title>
-      <link>https://x.com/horiuchi_dev/status/2075848635649310934</link>
-      <description>堀内暢之@SLM職人: うーむ？ Cloudflare tunnel とprefill の沈黙の相性が悪いな。。</description>
-      <pubDate>Sat, 11 Jul 2026 07:44:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/horiuchi_dev/status/2075848635649310934</guid>
     </item>
   </channel>
 </rss>

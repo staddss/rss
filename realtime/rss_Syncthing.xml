@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>obsidianってデバイス間のファイル同期には課金が必要だけど、 Syncthing を使ってwindowsとandoroidのファイルを常に同期させておくことに成功した。もうこれだけで記事書けそう</title>
+      <link>https://x.com/wahowahochan/status/2080224625372598779</link>
+      <description>プルースト読破をめざすチャンネル: obsidianってデバイス間のファイル同期には課金が必要だけど、 Syncthing を使ってwindowsとandoroidのファイルを常に同期させておくことに成功した。もうこれだけで記事書けそう</description>
+      <pubDate>Thu, 23 Jul 2026 09:32:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wahowahochan/status/2080224625372598779</guid>
+    </item>
+    <item>
       <title>だいぶ手間取ったけど、AndroidでGrok Build CLIでつくったローカルPCの文章を校閲する仕組みが用意できた。 Syncthing でWin/Androidを双方向同期し、Obsidianアプリで閲覧、校正依頼は任意のAIに投げて、Obsidianにコピペ、次にローカルPCを起動すれば自動で文章が同期される https://t.co/3ucFrE3chW</title>
       <link>https://x.com/D_Fens_DF/status/2080073771617251545</link>
       <description>D-Fens@DeltaForce攻略Wiki管理人: だいぶ手間取ったけど、AndroidでGrok Build CLIでつくったローカルPCの文章を校閲する仕組みが用意できた。 Syncthing でWin/Androidを双方向同期し、Obsidianアプリで閲覧、校正依頼は任意のAIに投げて、Obsidianにコピペ、次にローカルPCを起動すれば自動で文章が同期される https://t.co/3ucFrE3chW</description>
@@ -269,13 +276,6 @@
       <description>重藤 六🐸ガジェットブロガー: @soyaakinohara4 ぜひぜひ😁 immich Syncthing 並に便利なツールなので入れて損はないかと🐸👍</description>
       <pubDate>Mon, 29 Jun 2026 22:39:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2071725227281904029</guid>
-    </item>
-    <item>
-      <title>Joplin, Syncthing どちらもAndroidにあるので、スマホやタブレットからでも使用できるんぬ。その際はgoogle playでなくF-Droidで入れよう。しかしgoogleが平文に戻ってる状態の文字列をAPI経由で盗んでる可能性が高いので、重要なメモはファイル名を調べて同期対象から外したほうが良いかもしれんぬ。</title>
-      <link>https://x.com/ca_tty/status/2071530736856060009</link>
-      <description>Catty: Joplin, Syncthing どちらもAndroidにあるので、スマホやタブレットからでも使用できるんぬ。その際はgoogle playでなくF-Droidで入れよう。しかしgoogleが平文に戻ってる状態の文字列をAPI経由で盗んでる可能性が高いので、重要なメモはファイル名を調べて同期対象から外したほうが良いかもしれんぬ。</description>
-      <pubDate>Mon, 29 Jun 2026 09:46:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ca_tty/status/2071530736856060009</guid>
     </item>
   </channel>
 </rss>
