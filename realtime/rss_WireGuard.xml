@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/8ongadget01/status/2080461713229730170</guid>
     </item>
     <item>
+      <title>まだ wireguard 上手くできません。本当に何故壊れたのか</title>
+      <link>https://x.com/twkoko844/status/2080281166570226161</link>
+      <description>つここ: まだ wireguard 上手くできません。本当に何故壊れたのか</description>
+      <pubDate>Thu, 23 Jul 2026 13:17:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/twkoko844/status/2080281166570226161</guid>
+    </item>
+    <item>
       <title>自治体側の運用想定は PC起動 ↓ WireGuard サービス起動 ↓ VPSへVPN接続 ↓ 利用者ログイン ↓ ブラウザ利用 ↓ 利用者ログアウト ↓ ユーザープロファイル削除 ↓ WireGuard 接続は維持 紛失時のリモート対策は要検討</title>
       <link>https://x.com/ponsllc/status/2080257664798577044</link>
       <description>羽鳥達郎@合同会社pons: 自治体側の運用想定は PC起動 ↓ WireGuard サービス起動 ↓ VPSへVPN接続 ↓ 利用者ログイン ↓ ブラウザ利用 ↓ 利用者ログアウト ↓ ユーザープロファイル削除 ↓ WireGuard 接続は維持 紛失時のリモート対策は要検討</description>
@@ -269,13 +276,6 @@
       <description>📷ぺんSP@ver2026.Q2 ver5.0: あー、 WireGuard ベースか。 https://t.co/FbuYoj0u4z</description>
       <pubDate>Wed, 15 Jul 2026 06:37:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pen_senpai/status/2077281333311860750</guid>
-    </item>
-    <item>
-      <title>@soichi1208tenko たまに Wireguard のconfファイル落ちてるの面白い なんでもあるよね（）</title>
-      <link>https://x.com/L_port53/status/2077279161350074483</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @soichi1208tenko たまに Wireguard のconfファイル落ちてるの面白い なんでもあるよね（）</description>
-      <pubDate>Wed, 15 Jul 2026 06:28:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2077279161350074483</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>個人サービスを cloudflare tunnel でセルフホストにしたけど 特に困ることないなぁ vps解約するか</title>
+      <link>https://x.com/U_Not_401/status/2080438034986910056</link>
+      <description>U-Not: 個人サービスを cloudflare tunnel でセルフホストにしたけど 特に困ることないなぁ vps解約するか</description>
+      <pubDate>Thu, 23 Jul 2026 23:40:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/U_Not_401/status/2080438034986910056</guid>
+    </item>
+    <item>
       <title>@kyeshimizu @rosso_dev &gt; Workers VPC -&gt; hyper drive -&gt; planetscale いただいたドキュメントからは↑でhyperdrive - PlanetScale間で内部通信できるように読めませんでした。 別のCloudflareのドキュメントで書かれているように、 Cloudflare Tunnel をPlanetScale側で用意したり（添付画像）、あらかじめWorkers VPC - https://t.co/sB5v8zF1Ui</title>
       <link>https://x.com/yuyu_hf/status/2080307261239689246</link>
       <description>いっぬ: @kyeshimizu @rosso_dev &gt; Workers VPC -&gt; hyper drive -&gt; planetscale いただいたドキュメントからは↑でhyperdrive - PlanetScale間で内部通信できるように読めませんでした。 別のCloudflareのドキュメントで書かれているように、 Cloudflare Tunnel をPlanetScale側で用意したり（添付画像）、あらかじめWorkers VPC - https://t.co/sB5v8zF1Ui</description>
@@ -269,13 +276,6 @@
       <description>Akira: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/LSgg0s9f5s</description>
       <pubDate>Sun, 12 Jul 2026 05:40:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/a_t_mosphere/status/2076179888172900501</guid>
-    </item>
-    <item>
-      <title>なんで俺k3s api叩く cloudflare tunnel をk3s内に立ててるんやろ.</title>
-      <link>https://x.com/cml5YQ/status/2076048938021666984</link>
-      <description>cml5YQ==: なんで俺k3s api叩く cloudflare tunnel をk3s内に立ててるんやろ.</description>
-      <pubDate>Sat, 11 Jul 2026 21:00:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cml5YQ/status/2076048938021666984</guid>
     </item>
   </channel>
 </rss>
