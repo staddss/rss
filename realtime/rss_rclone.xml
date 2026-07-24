@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>アプリ開発してて一番ビビったこと rclone のバイナリ（外部ツール）をMacに同梱しようとしたら、アーキテクチャが違うやつ（x86-64 Linux）が入ってて動かなかった しかもAppleの隔離フラグも外さないといけなくて、2日溶かした</title>
+      <link>https://x.com/skgc0123/status/2080231450155377081</link>
+      <description>坂口亮介: アプリ開発してて一番ビビったこと rclone のバイナリ（外部ツール）をMacに同梱しようとしたら、アーキテクチャが違うやつ（x86-64 Linux）が入ってて動かなかった しかもAppleの隔離フラグも外さないといけなくて、2日溶かした</description>
+      <pubDate>Thu, 23 Jul 2026 10:00:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/skgc0123/status/2080231450155377081</guid>
+    </item>
+    <item>
       <title>rclone configした上で、 rclone GUIからファイルシステムにマウント 多分GUI使わなくてもやりようありそうだったけどわからなかった https://t.co/i2qY9SPQuJ</title>
       <link>https://x.com/pacapaca_PANIC/status/2079945448924799257</link>
       <description>パカ (JL1FHS): rclone configした上で、 rclone GUIからファイルシステムにマウント 多分GUI使わなくてもやりようありそうだったけどわからなかった https://t.co/i2qY9SPQuJ</description>
