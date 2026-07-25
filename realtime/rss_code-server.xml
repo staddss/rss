@@ -130,19 +130,5 @@
       <pubDate>Fri, 26 Jun 2026 14:29:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakisan_28/status/2070514712920699006</guid>
     </item>
-    <item>
-      <title>Termux, proot を入れるもんだと思っていたけど、 code - server とか fresh で環境作れば node, python とかネイティブコンパイラの類は入るから、遊ぶ分には意外とこれだけでもいけるのかもな。nginx とかは面倒だけど、ちょっと http したいだけなら node の http-server とかでいいし</title>
-      <link>https://x.com/sakisan_28/status/2070061988152267067</link>
-      <description>Takayuki Iwasaki: Termux, proot を入れるもんだと思っていたけど、 code - server とか fresh で環境作れば node, python とかネイティブコンパイラの類は入るから、遊ぶ分には意外とこれだけでもいけるのかもな。nginx とかは面倒だけど、ちょっと http したいだけなら node の http-server とかでいいし</description>
-      <pubDate>Thu, 25 Jun 2026 08:30:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakisan_28/status/2070061988152267067</guid>
-    </item>
-    <item>
-      <title>Termux での code - server (VSCodeのブラウザ版)は pkg install tur-repo pkg install code - server code - server --auth none だけで起動まで行けるな</title>
-      <link>https://x.com/sakisan_28/status/2070059945094230407</link>
-      <description>Takayuki Iwasaki: Termux での code - server (VSCodeのブラウザ版)は pkg install tur-repo pkg install code - server code - server --auth none だけで起動まで行けるな</description>
-      <pubDate>Thu, 25 Jun 2026 08:22:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakisan_28/status/2070059945094230407</guid>
-    </item>
   </channel>
 </rss>
