@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Laguna S 2.1、4-bit 量子化版（約63GB）なら AMD Ryzen AI Max + 395 / 128GB 環境でも動いた！ 入力プロンプトは英文にして出力を日本語でと指定、チャットだと 37 tok/s くらい モデル情報を聞く度に異なるモデル名を返してくるので出自がよくわからんけど、とりあえずエージェントで回してみるか https://t.co/AFtSKB04b9 https://t.co/q8VH1tlIYM</title>
+      <link>https://x.com/old_pgmrs_will/status/2081013564618547590</link>
+      <description>いにしえ@AI Director / Creator / Engineer｜Will Oldgram: Laguna S 2.1、4-bit 量子化版（約63GB）なら AMD Ryzen AI Max + 395 / 128GB 環境でも動いた！ 入力プロンプトは英文にして出力を日本語でと指定、チャットだと 37 tok/s くらい モデル情報を聞く度に異なるモデル名を返してくるので出自がよくわからんけど、とりあえずエージェントで回してみるか https://t.co/AFtSKB04b9 https://t.co/q8VH1tlIYM</description>
+      <pubDate>Sat, 25 Jul 2026 13:47:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2081013564618547590</guid>
+    </item>
+    <item>
+      <title>Laguna S 2.1、2-bit 量子化版を AMD Ryzen AI Max + 395 / 128GB 環境で動かそうとしてみたが 2-bit だと llama.cpp のチャットUI使った日本語会話で HTTP 500 エラーで落ちまくる（英語だとたぶん大丈夫） LLM側のログ見るとリーズニング自体は完走してるっぽいのだが、最低 4-bit 版が必要になりそう https://t.co/AilZ1RZDr8</title>
+      <link>https://x.com/old_pgmrs_will/status/2080988630345273666</link>
+      <description>いにしえ@AI Director / Creator / Engineer｜Will Oldgram: Laguna S 2.1、2-bit 量子化版を AMD Ryzen AI Max + 395 / 128GB 環境で動かそうとしてみたが 2-bit だと llama.cpp のチャットUI使った日本語会話で HTTP 500 エラーで落ちまくる（英語だとたぶん大丈夫） LLM側のログ見るとリーズニング自体は完走してるっぽいのだが、最低 4-bit 版が必要になりそう https://t.co/AilZ1RZDr8</description>
+      <pubDate>Sat, 25 Jul 2026 12:08:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2080988630345273666</guid>
+    </item>
+    <item>
+      <title>［ITmedia PC USER］64GBメモリ／2TBストレージ／ Ryzen AI Max + 395搭載のハイエンドミニPC「MINISFORUM MS-S1 MAX」がタイムセールで27％オフの43万2799円に https://t.co/ZiPrFHIzFV</title>
+      <link>https://x.com/itmedia/status/2080983926450094343</link>
+      <description>ITmedia: ［ITmedia PC USER］64GBメモリ／2TBストレージ／ Ryzen AI Max + 395搭載のハイエンドミニPC「MINISFORUM MS-S1 MAX」がタイムセールで27％オフの43万2799円に https://t.co/ZiPrFHIzFV</description>
+      <pubDate>Sat, 25 Jul 2026 11:50:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/itmedia/status/2080983926450094343</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max + 395＋128GBメモリ搭載のGMKtec EVO-X2 AIミニPC。126TOPSの数字だけで選ぶと失敗する？AI開発・ローカルAI用途で本当に価値がある人を解説 GMKtec EVO-X2 AI ミニPCが気になる人へ｜ Ryzen AI Max + 395搭載機を買う前に確認したいこと｜pc_masami @s_houhinlab https://t.co/YSdrYPY9vY</title>
+      <link>https://x.com/shouhinlab/status/2080982036966469885</link>
+      <description>shouhinlab: Ryzen AI Max + 395＋128GBメモリ搭載のGMKtec EVO-X2 AIミニPC。126TOPSの数字だけで選ぶと失敗する？AI開発・ローカルAI用途で本当に価値がある人を解説 GMKtec EVO-X2 AI ミニPCが気になる人へ｜ Ryzen AI Max + 395搭載機を買う前に確認したいこと｜pc_masami @s_houhinlab https://t.co/YSdrYPY9vY</description>
+      <pubDate>Sat, 25 Jul 2026 11:42:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shouhinlab/status/2080982036966469885</guid>
+    </item>
+    <item>
+      <title>284Bパラメータの巨大モデル「DeepSeek V4 Flash」を、外付けGPUなしのAI PC(AMD Ryzen AI MAX +)だけで動かした実験が話題に。独自の圧縮方式でメモリに収めて32トークン/秒まで出せたらしい。手順もGitHubで公開されてて再現できる仕組み。</title>
+      <link>https://x.com/naru9624/status/2080846247036965038</link>
+      <description>ナルフラ: 284Bパラメータの巨大モデル「DeepSeek V4 Flash」を、外付けGPUなしのAI PC(AMD Ryzen AI MAX +)だけで動かした実験が話題に。独自の圧縮方式でメモリに収めて32トークン/秒まで出せたらしい。手順もGitHubで公開されてて再現できる仕組み。</description>
+      <pubDate>Sat, 25 Jul 2026 02:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/naru9624/status/2080846247036965038</guid>
+    </item>
+    <item>
       <title>🖥 ローカル/オープンLLM が実務級に。DeepSeek V4 Flash(284B)を Ryzen AI MAX + 395(Strix Halo)上で完全ローカル32tok/s（混合量子化で102GB化＋投機的デコード）。Ollama創業者も Fortune500 のオープンモデル移行を証言。 https://t.co/fJvolvMwGv https://t.co/NMsRZq5VEE</title>
       <link>https://x.com/rsensui/status/2080790880248910041</link>
       <description>泉水亮介 │ 大学でVibe Codingを教えてます。: 🖥 ローカル/オープンLLM が実務級に。DeepSeek V4 Flash(284B)を Ryzen AI MAX + 395(Strix Halo)上で完全ローカル32tok/s（混合量子化で102GB化＋投機的デコード）。Ollama創業者も Fortune500 のオープンモデル移行を証言。 https://t.co/fJvolvMwGv https://t.co/NMsRZq5VEE</description>
@@ -241,41 +276,6 @@
       <description>mukaken: “中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu” https://t.co/3eWQCjNUjB</description>
       <pubDate>Sun, 19 Jul 2026 02:16:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mukaken/status/2078665254343713145</guid>
-    </item>
-    <item>
-      <title>🎖️ Ryzen AI Max でのローカルLLM環境構築、Qwen Codeの導入が進むけど、やはり高性能PCが求められる時代か。YDKでもAI活用進んでるけど、手持ちのマシン性能でできることは限られる。あなたはどこまで進めてる？ #AI活用 #技術系</title>
-      <link>https://x.com/YDK_CO_Ltd/status/2078634968901931343</link>
-      <description>株式会社YDK／北田祐大／ゆーでぃーUD: 🎖️ Ryzen AI Max でのローカルLLM環境構築、Qwen Codeの導入が進むけど、やはり高性能PCが求められる時代か。YDKでもAI活用進んでるけど、手持ちのマシン性能でできることは限られる。あなたはどこまで進めてる？ #AI活用 #技術系</description>
-      <pubDate>Sun, 19 Jul 2026 00:16:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YDK_CO_Ltd/status/2078634968901931343</guid>
-    </item>
-    <item>
-      <title>中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu @tks https://t.co/gCywveK8cE</title>
-      <link>https://x.com/daisuke/status/2078630573564997888</link>
-      <description>original だいすけ: 中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu @tks https://t.co/gCywveK8cE</description>
-      <pubDate>Sat, 18 Jul 2026 23:58:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/daisuke/status/2078630573564997888</guid>
-    </item>
-    <item>
-      <title>📑 中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu 🅱 はてなブックマーク テクノロジー新着 より https://t.co/vFF0eel6VQ</title>
-      <link>https://x.com/mohritaroh/status/2078613696322908315</link>
-      <description>技術ブログのモーリタロー: 📑 中国のAIエージェントQwen Codeで、 Ryzen AI Max のローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu 🅱 はてなブックマーク テクノロジー新着 より https://t.co/vFF0eel6VQ</description>
-      <pubDate>Sat, 18 Jul 2026 22:51:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mohritaroh/status/2078613696322908315</guid>
-    </item>
-    <item>
-      <title>@joho_no_todai そもそも Ryzen AI Max + 395なのでメモリアクセス構造自体が別物です</title>
-      <link>https://x.com/k0t0ner/status/2078562854907920480</link>
-      <description>Kotoner: @joho_no_todai そもそも Ryzen AI Max + 395なのでメモリアクセス構造自体が別物です</description>
-      <pubDate>Sat, 18 Jul 2026 19:29:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k0t0ner/status/2078562854907920480</guid>
-    </item>
-    <item>
-      <title>Z2 Miniの高スペックPC。Ryzen AIで生成AIやってたんや。作業用BGM流しながら動かすには良さそうやけど自分にはオーバースペック。 Z2 Mini G1a 128GB Ryzen AI MAX + PRO 395 https://t.co/5dceD9U4Oz</title>
-      <link>https://x.com/yumebitopiano/status/2078553664566722921</link>
-      <description>ゆめびと: Z2 Miniの高スペックPC。Ryzen AIで生成AIやってたんや。作業用BGM流しながら動かすには良さそうやけど自分にはオーバースペック。 Z2 Mini G1a 128GB Ryzen AI MAX + PRO 395 https://t.co/5dceD9U4Oz</description>
-      <pubDate>Sat, 18 Jul 2026 18:53:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yumebitopiano/status/2078553664566722921</guid>
     </item>
   </channel>
 </rss>
