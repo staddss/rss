@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あと出先で使えるMCPサーバーを Cloudflare Tunnel でどうにか実装しとこう</title>
+      <link>https://x.com/LunarHealWisdom/status/2081417184925081711</link>
+      <description>🦊Yomi Watanuki: あと出先で使えるMCPサーバーを Cloudflare Tunnel でどうにか実装しとこう</description>
+      <pubDate>Sun, 26 Jul 2026 16:31:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2081417184925081711</guid>
+    </item>
+    <item>
+      <title>Codexの開発環境でShopifyアプリのUIテストをしようとして詰まった shopify app dev shopify theme dev ビルドまでできているのに、Codexブラウザからlocalhostや Cloudflare Tunnel のURLを開けず、UI操作ができなかった 原因はShopifyでもCloudflareでもなく、Codex側のネットワーク設定 https://t.co/EA1BUEYkhy</title>
+      <link>https://x.com/yoshimaru_ec/status/2081342195148485085</link>
+      <description>よしまる@Shopify × EC改善: Codexの開発環境でShopifyアプリのUIテストをしようとして詰まった shopify app dev shopify theme dev ビルドまでできているのに、Codexブラウザからlocalhostや Cloudflare Tunnel のURLを開けず、UI操作ができなかった 原因はShopifyでもCloudflareでもなく、Codex側のネットワーク設定 https://t.co/EA1BUEYkhy</description>
+      <pubDate>Sun, 26 Jul 2026 11:33:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yoshimaru_ec/status/2081342195148485085</guid>
+    </item>
+    <item>
       <title>Switchbot買って、宅内にサーバー用意して、 Cloudflare Tunnel で開いて、宅外から家の中すべて制御できる&amp;AIが自動制御するスマートホームにするんだ〜 出来ればCore Ultra手に入れてローカルLLMであらゆる情報を一元管理したいよ〜</title>
       <link>https://x.com/hinokinoske/status/2080693952571916731</link>
       <description>檜木ノ介: Switchbot買って、宅内にサーバー用意して、 Cloudflare Tunnel で開いて、宅外から家の中すべて制御できる&amp;AIが自動制御するスマートホームにするんだ〜 出来ればCore Ultra手に入れてローカルLLMであらゆる情報を一元管理したいよ〜</description>
@@ -262,27 +276,6 @@
       <description>炎上案件のArrayさん: 当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</description>
       <pubDate>Mon, 13 Jul 2026 10:42:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SES_ArraySan/status/2076618300281561507</guid>
-    </item>
-    <item>
-      <title>【悲報】リアルタイムフィッシングツールEvilginxのフォークを操るエジプトの脅威主体codemadoさん、自分のサーバの中身をpython3 -m http.server 8080して晒してしまう。picis[.]netのドメイン配下でMicrosoft 365狙い。 Cloudflare Tunnel とNode.js製ボット対策を使用。 https://t.co/r1g0j3u3yK</title>
-      <link>https://x.com/__kokumoto/status/2076610747875172569</link>
-      <description>kokumօtօ: 【悲報】リアルタイムフィッシングツールEvilginxのフォークを操るエジプトの脅威主体codemadoさん、自分のサーバの中身をpython3 -m http.server 8080して晒してしまう。picis[.]netのドメイン配下でMicrosoft 365狙い。 Cloudflare Tunnel とNode.js製ボット対策を使用。 https://t.co/r1g0j3u3yK</description>
-      <pubDate>Mon, 13 Jul 2026 10:12:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__kokumoto/status/2076610747875172569</guid>
-    </item>
-    <item>
-      <title>有線LAN配下はパフォーマンス出ないと困るけど、Wi-Fi配下はOpenwrtなルーターで Cloudflare tunnel 使ってポート枯渇させないように…とか工夫いるんかな</title>
-      <link>https://x.com/Wolita_tk/status/2076330246299926866</link>
-      <description>ヲリちゃん 𝕒͛𝕥͛ ℙ͛𝕒͛𝕥͛.͛ℙ: 有線LAN配下はパフォーマンス出ないと困るけど、Wi-Fi配下はOpenwrtなルーターで Cloudflare tunnel 使ってポート枯渇させないように…とか工夫いるんかな</description>
-      <pubDate>Sun, 12 Jul 2026 15:38:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Wolita_tk/status/2076330246299926866</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/LSgg0s9f5s</title>
-      <link>https://x.com/a_t_mosphere/status/2076179888172900501</link>
-      <description>Akira: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/LSgg0s9f5s</description>
-      <pubDate>Sun, 12 Jul 2026 05:40:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/a_t_mosphere/status/2076179888172900501</guid>
     </item>
   </channel>
 </rss>
