@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard のServer建てないといけないとかあるから、ちゃんと下調べしよう。</title>
+      <link>https://x.com/DIGIUSAGI/status/2081827075284164893</link>
+      <description>コレサワシゲユキ／でこうさぎ: 無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard のServer建てないといけないとかあるから、ちゃんと下調べしよう。</description>
+      <pubDate>Mon, 27 Jul 2026 19:40:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2081827075284164893</guid>
+    </item>
+    <item>
+      <title>GitHub Trending 2位。Amnezia VPNは独自のVPNサーバーを簡単に構築できるオープンソースクライアントです。OpenVPNや WireGuard に加え、トラフィックを隠蔽する各種プロトコルやスプリットトンネリングに対応しています。 https://t.co/xJTz9ap0Mf</title>
+      <link>https://x.com/github_trendjp/status/2081725970927730898</link>
+      <description>Githubトレンド: GitHub Trending 2位。Amnezia VPNは独自のVPNサーバーを簡単に構築できるオープンソースクライアントです。OpenVPNや WireGuard に加え、トラフィックを隠蔽する各種プロトコルやスプリットトンネリングに対応しています。 https://t.co/xJTz9ap0Mf</description>
+      <pubDate>Mon, 27 Jul 2026 12:58:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/github_trendjp/status/2081725970927730898</guid>
+    </item>
+    <item>
+      <title>流石にProton wireguard はつける Mullvadあればそっちがいいけど</title>
+      <link>https://x.com/Tsukiha_404/status/2081610348461699152</link>
+      <description>葉樹: 流石にProton wireguard はつける Mullvadあればそっちがいいけど</description>
+      <pubDate>Mon, 27 Jul 2026 05:19:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2081610348461699152</guid>
+    </item>
+    <item>
       <title>アルテリア・ネットワークスのシステムを使ってる快活クラブはUDPを1Mbpsに制限しているの？( WireGuard だと遅い）</title>
       <link>https://x.com/softb_sin/status/2081412471446012104</link>
       <description>しん＠「庭屋一如」: アルテリア・ネットワークスのシステムを使ってる快活クラブはUDPを1Mbpsに制限しているの？( WireGuard だと遅い）</description>
@@ -255,27 +276,6 @@
       <description>imtaplet@元駆け出しエンジニア: ビットコインエンジニア？としてライトな層かどうかは、「Tailscaleは使えるけど WireGuard は使えない」あたりが境目かなと思います。</description>
       <pubDate>Thu, 16 Jul 2026 11:33:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/imtaplet/status/2077718262536880511</guid>
-    </item>
-    <item>
-      <title>WireGuard に乗っかるのは、何も思われないと思うんだけど （おそらく）まんまのやつをラップして提供するのはどうなんすか</title>
-      <link>https://x.com/Tesla_yoon/status/2077648320185680369</link>
-      <description>よ〜ん: WireGuard に乗っかるのは、何も思われないと思うんだけど （おそらく）まんまのやつをラップして提供するのはどうなんすか</description>
-      <pubDate>Thu, 16 Jul 2026 06:55:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tesla_yoon/status/2077648320185680369</guid>
-    </item>
-    <item>
-      <title>「OpenWrt One」なんて製品もあるんだ。 https://t.co/vDiGDfgqcb 自前でSBC用意するより、大分安上がりだな。 H/Wスペックかなり抑えられているようなので、どこまでパフォーマンス出るか心配だけど、PPPoEな1G回線で WireGuard 使う分には充分かな？</title>
-      <link>https://x.com/EXAM1319/status/2077577871481253929</link>
-      <description>craft: 「OpenWrt One」なんて製品もあるんだ。 https://t.co/vDiGDfgqcb 自前でSBC用意するより、大分安上がりだな。 H/Wスペックかなり抑えられているようなので、どこまでパフォーマンス出るか心配だけど、PPPoEな1G回線で WireGuard 使う分には充分かな？</description>
-      <pubDate>Thu, 16 Jul 2026 02:15:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2077577871481253929</guid>
-    </item>
-    <item>
-      <title>結局どこもかしこも WireGuard やん。 なのになんで WireGuard 単体はもっとメジャーにならないんだろう GMOペパボ、無料で使えるVPN代替のP2Pゼロトラストサービスを本日開始 - PC Watch https://t.co/AWpRjFCagw</title>
-      <link>https://x.com/mabo_1126/status/2077553956717494592</link>
-      <description>まーぼー: 結局どこもかしこも WireGuard やん。 なのになんで WireGuard 単体はもっとメジャーにならないんだろう GMOペパボ、無料で使えるVPN代替のP2Pゼロトラストサービスを本日開始 - PC Watch https://t.co/AWpRjFCagw</description>
-      <pubDate>Thu, 16 Jul 2026 00:40:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mabo_1126/status/2077553956717494592</guid>
     </item>
   </channel>
 </rss>
