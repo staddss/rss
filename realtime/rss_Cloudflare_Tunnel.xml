@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</title>
+      <link>https://x.com/tojikomorin/status/2081551420457938968</link>
+      <description>TOJIKOMORIN: 結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</description>
+      <pubDate>Mon, 27 Jul 2026 01:25:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tojikomorin/status/2081551420457938968</guid>
+    </item>
+    <item>
       <title>あと出先で使えるMCPサーバーを Cloudflare Tunnel でどうにか実装しとこう</title>
       <link>https://x.com/LunarHealWisdom/status/2081417184925081711</link>
       <description>🦊Yomi Watanuki: あと出先で使えるMCPサーバーを Cloudflare Tunnel でどうにか実装しとこう</description>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): 睡眠薬で6時まで寝れんので、始業しますか。本日は Cloudflare Access と Cloudflare Tunnel で Podman の上に構築した Rails を外部から見れるようにして、Cloudflare Workers VPC で Cloudflare Workers の上にある Nextjs から Rails にアクセスできるようにしたいです。</description>
       <pubDate>Mon, 13 Jul 2026 21:41:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2076784040028631430</guid>
-    </item>
-    <item>
-      <title>当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</title>
-      <link>https://x.com/SES_ArraySan/status/2076618300281561507</link>
-      <description>炎上案件のArrayさん: 当面ポチったミニPCを自宅サーバ化して Cloudflare Tunnel で外からNextCloudとOpenWebUIにアクセスできるようにするのと、ESP32のこれでサーバの状態を見れるようにしたりとか色々遊べるのだ https://t.co/iqjtTygJd0</description>
-      <pubDate>Mon, 13 Jul 2026 10:42:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SES_ArraySan/status/2076618300281561507</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>#softwareupdate # chromeos Google が LTC-150 バージョンとして ChromeOS 150.0.7871.150 (Platform Version: 16700.46.0) をリリース． LTS-144 バージョンのサポートは 2026.10. 6 まで． https://t.co/AYdxVTcpEG</title>
+      <link>https://x.com/kawn2020/status/2081555392803508609</link>
+      <description>kawn: #softwareupdate # chromeos Google が LTC-150 バージョンとして ChromeOS 150.0.7871.150 (Platform Version: 16700.46.0) をリリース． LTS-144 バージョンのサポートは 2026.10. 6 まで． https://t.co/AYdxVTcpEG</description>
+      <pubDate>Mon, 27 Jul 2026 01:40:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawn2020/status/2081555392803508609</guid>
+    </item>
+    <item>
+      <title>#securityupdate # chromeos Google が ChromeOS OS version 16700.46.0 (Browser version 150.0.7871.150) をリリース． Critical 21 件 High 98 件 Medium 130 件 Low 97 件 の脆弱性に対処． https://t.co/mW1jM4JuS8</title>
+      <link>https://x.com/kawn2020/status/2081548886758609062</link>
+      <description>kawn: #securityupdate # chromeos Google が ChromeOS OS version 16700.46.0 (Browser version 150.0.7871.150) をリリース． Critical 21 件 High 98 件 Medium 130 件 Low 97 件 の脆弱性に対処． https://t.co/mW1jM4JuS8</description>
+      <pubDate>Mon, 27 Jul 2026 01:15:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawn2020/status/2081548886758609062</guid>
+    </item>
+    <item>
+      <title>最新版の ChromeOS で Crostini のバックアップと復元を行うと VM type が Baguette になるので起動に失敗して何もできなくなるバグがある。 オンラインではどこにも解決策載ってなかったけど ChatGPT と壁打ちして手動で VM type を Crostini に上書きしたら起動できるようになったので流石すぎる。</title>
+      <link>https://x.com/sangraal123/status/2081511775565156429</link>
+      <description>sangraal: 最新版の ChromeOS で Crostini のバックアップと復元を行うと VM type が Baguette になるので起動に失敗して何もできなくなるバグがある。 オンラインではどこにも解決策載ってなかったけど ChatGPT と壁打ちして手動で VM type を Crostini に上書きしたら起動できるようになったので流石すぎる。</description>
+      <pubDate>Sun, 26 Jul 2026 22:47:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sangraal123/status/2081511775565156429</guid>
+    </item>
+    <item>
       <title>@cherylnatsu 所以我買了 Framework Laptop 但當然，Firmware 用不了 Coreboot，其他的法律上能開源的 Framework 全開源了，EC Firmware 也是從 ChromeOS 那邊來改的</title>
       <link>https://x.com/XLionc/status/2081305550873350265</link>
       <description>XLion: @cherylnatsu 所以我買了 Framework Laptop 但當然，Firmware 用不了 Coreboot，其他的法律上能開源的 Framework 全開源了，EC Firmware 也是從 ChromeOS 那邊來改的</description>
@@ -250,32 +271,11 @@
       <guid isPermaLink="true">https://x.com/hai2g/status/2079983780115501522</guid>
     </item>
     <item>
-      <title>うん、やっぱり ChromeOS の方が使いやすいっすわ。 https://t.co/GE7X754vCo</title>
-      <link>https://x.com/ho99withu_TS13/status/2079955790589546539</link>
-      <description>hok(ホク)@WithU🐿️🌈: うん、やっぱり ChromeOS の方が使いやすいっすわ。 https://t.co/GE7X754vCo</description>
-      <pubDate>Wed, 22 Jul 2026 15:44:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ho99withu_TS13/status/2079955790589546539</guid>
-    </item>
-    <item>
       <title>@BobsFortni15688 正直１０に更新できないのでゴミです 今は chromeos 入れてます</title>
       <link>https://x.com/Nubia_ZUltra/status/2079950024105218193</link>
       <description>XP＠ニコニコeR📱🚴🥁: @BobsFortni15688 正直１０に更新できないのでゴミです 今は chromeos 入れてます</description>
       <pubDate>Wed, 22 Jul 2026 15:21:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Nubia_ZUltra/status/2079950024105218193</guid>
-    </item>
-    <item>
-      <title>chromeOS のデスクトップ何のためにあんの❓️❓️❓️ てか ChromeOS １日使ったけど普通にゴミだわ、Googleアカウントの容量ないとドキュメントすら作れないのゴミすぎる 良いのはセキュリティと動作が軽いことくらい https://t.co/OKDtBYGm80</title>
-      <link>https://x.com/Nubia_ZUltra/status/2079948503007342772</link>
-      <description>XP＠ニコニコeR📱🚴🥁: chromeOS のデスクトップ何のためにあんの❓️❓️❓️ てか ChromeOS １日使ったけど普通にゴミだわ、Googleアカウントの容量ないとドキュメントすら作れないのゴミすぎる 良いのはセキュリティと動作が軽いことくらい https://t.co/OKDtBYGm80</description>
-      <pubDate>Wed, 22 Jul 2026 15:15:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Nubia_ZUltra/status/2079948503007342772</guid>
-    </item>
-    <item>
-      <title>格闘しながら古いMacBookAirにLinux Mint入れてみたが… 思ったより使いづらくて ChromeOS Flexに戻すことが確定。 https://t.co/tAKXLvpGzQ</title>
-      <link>https://x.com/ho99withu_TS13/status/2079945728596795679</link>
-      <description>hok(ホク)@WithU🐿️🌈: 格闘しながら古いMacBookAirにLinux Mint入れてみたが… 思ったより使いづらくて ChromeOS Flexに戻すことが確定。 https://t.co/tAKXLvpGzQ</description>
-      <pubDate>Wed, 22 Jul 2026 15:04:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ho99withu_TS13/status/2079945728596795679</guid>
     </item>
   </channel>
 </rss>

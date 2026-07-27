@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>“ケビン・ボウリング（Kevin Bowling）氏はPulseAudioを捨てて PipeWire に切り替えることを推奨し自身が作成したFreeBSD向けOSSバックエンド pipewire -spa-oss-ngの導入手順を詳細に共有した。PulseAudioの自動起動を無効化し、。” / “FreeBSDの音が壊れた。メーリングリス…” https://t.co/GwbscCE7SC</title>
+      <link>https://x.com/RE_DO/status/2081580412451913904</link>
+      <description>錆人形/RE_DO: “ケビン・ボウリング（Kevin Bowling）氏はPulseAudioを捨てて PipeWire に切り替えることを推奨し自身が作成したFreeBSD向けOSSバックエンド pipewire -spa-oss-ngの導入手順を詳細に共有した。PulseAudioの自動起動を無効化し、。” / “FreeBSDの音が壊れた。メーリングリス…” https://t.co/GwbscCE7SC</description>
+      <pubDate>Mon, 27 Jul 2026 03:20:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RE_DO/status/2081580412451913904</guid>
+    </item>
+    <item>
+      <title>Debian13 上の scnvim から s.boot; で scsynth を起動するには、その前に Server.program = &quot;pw-jack scsynth&quot;; を定義しておかないと Pipewire 経由にならないことを知る。</title>
+      <link>https://x.com/Inqb8tr_jp/status/2081183436950413601</link>
+      <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: Debian13 上の scnvim から s.boot; で scsynth を起動するには、その前に Server.program = &quot;pw-jack scsynth&quot;; を定義しておかないと Pipewire 経由にならないことを知る。</description>
+      <pubDate>Sun, 26 Jul 2026 01:02:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2081183436950413601</guid>
+    </item>
+    <item>
       <title>dwproton-11.0-9 ゼンレスゾーンゼロ PipeWire ドライバーを使用している環境でに問題が発生するのでデフォルトのオーディオドライバーを winepulse.drv にリセット エンド不イールド ディスク書き込みによるロード時間を改善するためのカスタムfixが追加 https://t.co/VHYrIpuCFh</title>
       <link>https://x.com/MY87739/status/2080472819977355664</link>
       <description>MY: dwproton-11.0-9 ゼンレスゾーンゼロ PipeWire ドライバーを使用している環境でに問題が発生するのでデフォルトのオーディオドライバーを winepulse.drv にリセット エンド不イールド ディスク書き込みによるロード時間を改善するためのカスタムfixが追加 https://t.co/VHYrIpuCFh</description>
