@@ -5,18 +5,18 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>まずはYahoo FinanceのData Engine を作成します。 以下のコマンドを実行してください。 mkdir -p src/data touch src/data/yahoo.py touch https://t.co/TmoLksfoP2 その後、code . で VS Code を開いてください（ Codespaces なら通常は既に開いています）。</title>
-      <link>https://x.com/kotsudokan/status/2082012506739056982</link>
-      <description>AIスーパーカ～ブ: まずはYahoo FinanceのData Engine を作成します。 以下のコマンドを実行してください。 mkdir -p src/data touch src/data/yahoo.py touch https://t.co/TmoLksfoP2 その後、code . で VS Code を開いてください（ Codespaces なら通常は既に開いています）。</description>
-      <pubDate>Tue, 28 Jul 2026 07:57:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kotsudokan/status/2082012506739056982</guid>
-    </item>
-    <item>
       <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2081902776896958933</link>
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</description>
       <pubDate>Tue, 28 Jul 2026 00:41:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2081902776896958933</guid>
+    </item>
+    <item>
+      <title>これからの環境構成の方向性を検討。 現在は Codespaces でDockerビルドし重いPC負荷を回避、その他はWindowsで実行と環境が分散しています。 最終的にはGitHub Actions化は理想だが、その前にまずWindows環境に統一し、これまでの作業、ソースの整理を行う予定。 #AWS #EKS #マルチクラウド</title>
+      <link>https://x.com/Python410386/status/2081756655725990052</link>
+      <description>わた| Python: これからの環境構成の方向性を検討。 現在は Codespaces でDockerビルドし重いPC負荷を回避、その他はWindowsで実行と環境が分散しています。 最終的にはGitHub Actions化は理想だが、その前にまずWindows環境に統一し、これまでの作業、ソースの整理を行う予定。 #AWS #EKS #マルチクラウド</description>
+      <pubDate>Mon, 27 Jul 2026 15:00:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Python410386/status/2081756655725990052</guid>
     </item>
     <item>
       <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces / Gitpod / Cloud9 の選び方と現場で失敗しないPoC手順 https://t.co/l0sjCFidD4 #エンジニア #ChatGPT #AI</title>
@@ -234,27 +234,6 @@
       <description>AEON TECH HUB（イオンテックハブ）: GitHub Codespaces は全員の開発環境を移行するより、レビューと短期支援にピンポイントで使う。 - Enterprise環境で Codespaces が刺さる場面 - 常用でなくレビュー・短期支援に限る理由 - Dev Containerの活用とコストキャップの設定 https://t.co/tEuSaGfWln</description>
       <pubDate>Mon, 29 Jun 2026 03:00:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aeontechhub/status/2071428447843311696</guid>
-    </item>
-    <item>
-      <title>@Python410386 わたさん Codespaces 便利ですよね！ ローカル環境に依存せず開発できるのは大きなメリットですが、おっしゃる通りセキュリティを意識した運用は欠かせないですね。</title>
-      <link>https://x.com/climbdoor_com/status/2071251128164184347</link>
-      <description>松下健太郎｜㍿クライムドア代表: @Python410386 わたさん Codespaces 便利ですよね！ ローカル環境に依存せず開発できるのは大きなメリットですが、おっしゃる通りセキュリティを意識した運用は欠かせないですね。</description>
-      <pubDate>Sun, 28 Jun 2026 15:15:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/climbdoor_com/status/2071251128164184347</guid>
-    </item>
-    <item>
-      <title>本日は GitHub の Codespaces を使用しました。 最近は自分の PC で Docker を実行するとかなり重いので、今後は Codespaces を使ってみようと思います。 クラウド処理でPCは快適ですが、セキュリティ面をおろそかにすると危険なので注意していきます。 #GitHub # Codespaces #Docker</title>
-      <link>https://x.com/Python410386/status/2071232363254992927</link>
-      <description>わた| Python: 本日は GitHub の Codespaces を使用しました。 最近は自分の PC で Docker を実行するとかなり重いので、今後は Codespaces を使ってみようと思います。 クラウド処理でPCは快適ですが、セキュリティ面をおろそかにすると危険なので注意していきます。 #GitHub # Codespaces #Docker</description>
-      <pubDate>Sun, 28 Jun 2026 14:00:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Python410386/status/2071232363254992927</guid>
-    </item>
-    <item>
-      <title>・gh-900追い込み gist,wiki, codespaces ,pr,issue,git,github,copilot,,,, ・台風それた ・鶏鍋うまい https://t.co/3zT8Th8RhK</title>
-      <link>https://x.com/kk_927509/status/2070892128423800839</link>
-      <description>何者@JTC5年目: ・gh-900追い込み gist,wiki, codespaces ,pr,issue,git,github,copilot,,,, ・台風それた ・鶏鍋うまい https://t.co/3zT8Th8RhK</description>
-      <pubDate>Sat, 27 Jun 2026 15:28:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kk_927509/status/2070892128423800839</guid>
     </item>
     <item>
       <title>#github ●コラボレーションコーディング GitHub Codespaces , GitHub Copilot, プルリクエスト, ディスカッション, コード検索, コードレビュー ●自動化とCI/CD GitHub Actions, GitHub Packages, API, Webhooks, ワークフロー可視化 ●アプリケーションセキュリティ コードスキャン, https://t.co/fTQeGvYdQ7</title>

@@ -5,11 +5,18 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard 等のVPNを建てないといけなくなるから、ちゃんと下調べしよう。</title>
-      <link>https://x.com/DIGIUSAGI/status/2081827660788076744</link>
-      <description>コレサワシゲユキ／でこうさぎ: 無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard 等のVPNを建てないといけなくなるから、ちゃんと下調べしよう。</description>
-      <pubDate>Mon, 27 Jul 2026 19:42:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2081827660788076744</guid>
+      <title>wireguard は設定は簡単だけど速度出ねぇ。</title>
+      <link>https://x.com/ShilverJagd/status/2082089688995876922</link>
+      <description>Shilver@Garuda: wireguard は設定は簡単だけど速度出ねぇ。</description>
+      <pubDate>Tue, 28 Jul 2026 13:03:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShilverJagd/status/2082089688995876922</guid>
+    </item>
+    <item>
+      <title>おー。MAP-EとPPPoEの契約してて穴あけしてるしテーブル作ってネットワーク分けるなんて逸般の誤家庭みたいな環境にしてるんだけど、ルーター内で動いてるAIに相談しながら構築したら WireGuard をルーターに仕込めたぞ。結構すごいなこれ https://t.co/cejwc2KxZR</title>
+      <link>https://x.com/Digital_Core/status/2082004943830126618</link>
+      <description>山田かつてない技術部: おー。MAP-EとPPPoEの契約してて穴あけしてるしテーブル作ってネットワーク分けるなんて逸般の誤家庭みたいな環境にしてるんだけど、ルーター内で動いてるAIに相談しながら構築したら WireGuard をルーターに仕込めたぞ。結構すごいなこれ https://t.co/cejwc2KxZR</description>
+      <pubDate>Tue, 28 Jul 2026 07:27:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Digital_Core/status/2082004943830126618</guid>
     </item>
     <item>
       <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard のServer建てないといけないとかあるから、ちゃんと下調べしよう。</title>
@@ -269,13 +276,6 @@
       <description>海凪（かいなぎ）@アメリカ研究留学ブログ: VPN速度改善法📡 プロトコル( WireGuard )変更・有線LAN・再起動で対応可能。無料版は帯域制限が課題。対策後も遅い場合は乗り換え検討。海外医学留学・研究生活での通信環境構築のコツ🌍 #医学留学 #海外研究生活</description>
       <pubDate>Fri, 17 Jul 2026 00:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NotforgetL/status/2077916193382420983</guid>
-    </item>
-    <item>
-      <title>PTCGLをProtonVPM＋ WireGuard をやっている人に質問です。 自分は最近やり始めたのですが添付スクショのように、通信が頻繁に切れてしまい、1試合を最後まで出来ない事はしばしば発生します。改善策があるようでしたら、教えていただきたいです🙇よろしくお願いします🙇 https://t.co/u0ScOCzhO2</title>
-      <link>https://x.com/KawaSow/status/2077742230748737991</link>
-      <description>かわしぃ（ゆうぱぱ）: PTCGLをProtonVPM＋ WireGuard をやっている人に質問です。 自分は最近やり始めたのですが添付スクショのように、通信が頻繁に切れてしまい、1試合を最後まで出来ない事はしばしば発生します。改善策があるようでしたら、教えていただきたいです🙇よろしくお願いします🙇 https://t.co/u0ScOCzhO2</description>
-      <pubDate>Thu, 16 Jul 2026 13:08:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KawaSow/status/2077742230748737991</guid>
     </item>
   </channel>
 </rss>

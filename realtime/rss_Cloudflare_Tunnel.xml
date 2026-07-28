@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今日やること。 ローカルLLMのローカルモデルとリソースを Cloudflare Tunnel 経由でネットワーク伝達して利用可能な状態にする。Cloudflare Accessで自分しか使えないようにする。 ぐらいかな…SteamOSはちょっとびっくりしたけどね…😓</title>
+      <link>https://x.com/LunarHealWisdom/status/2081691841649652129</link>
+      <description>🦊Yomi Watanuki: 今日やること。 ローカルLLMのローカルモデルとリソースを Cloudflare Tunnel 経由でネットワーク伝達して利用可能な状態にする。Cloudflare Accessで自分しか使えないようにする。 ぐらいかな…SteamOSはちょっとびっくりしたけどね…😓</description>
+      <pubDate>Mon, 27 Jul 2026 10:43:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2081691841649652129</guid>
+    </item>
+    <item>
       <title>結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</title>
       <link>https://x.com/tojikomorin/status/2081551420457938968</link>
       <description>TOJIKOMORIN: 結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</description>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): ローカル環境の Podman(Docker) compose にホストしているのを、cloudflare access から独自ドメインを経由してホストしたいときには、まず cloudflare tunnel を通してから cloudflare access の設定をいれると、無事にアクセス制限をかけて、世界に公開ができるよ ... というので午前は終了だ。</description>
       <pubDate>Tue, 14 Jul 2026 02:54:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2076862853055934533</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel で 閉域内の Azure Container Apps を安全かつ低予算で公開する｜Aran https://t.co/ZwluNFGE9p #zenn</title>
-      <link>https://x.com/AranSeshita/status/2076830914894831955</link>
-      <description>Aran@Developer: Cloudflare Tunnel で 閉域内の Azure Container Apps を安全かつ低予算で公開する｜Aran https://t.co/ZwluNFGE9p #zenn</description>
-      <pubDate>Tue, 14 Jul 2026 00:47:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AranSeshita/status/2076830914894831955</guid>
     </item>
   </channel>
 </rss>

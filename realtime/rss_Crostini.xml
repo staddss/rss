@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chromeOS上の crostini 環境のことです。＞debianな環境 crostini な方とかubuntuな方はこの手順で動くのでは。 https://t.co/goXfdPRiO5</title>
+      <link>https://x.com/teteten/status/2081739835300266261</link>
+      <description>【bot】てててん™: chromeOS上の crostini 環境のことです。＞debianな環境 crostini な方とかubuntuな方はこの手順で動くのでは。 https://t.co/goXfdPRiO5</description>
+      <pubDate>Mon, 27 Jul 2026 13:53:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teteten/status/2081739835300266261</guid>
+    </item>
+    <item>
       <title>最新版の ChromeOS で Crostini のバックアップと復元を行うと VM type が Baguette になるので起動に失敗して何もできなくなるバグがある。 オンラインではどこにも解決策載ってなかったけど ChatGPT と壁打ちして手動で VM type を Crostini に上書きしたら起動できるようになったので流石すぎる。</title>
       <link>https://x.com/sangraal123/status/2081511775565156429</link>
       <description>sangraal: 最新版の ChromeOS で Crostini のバックアップと復元を行うと VM type が Baguette になるので起動に失敗して何もできなくなるバグがある。 オンラインではどこにも解決策載ってなかったけど ChatGPT と壁打ちして手動で VM type を Crostini に上書きしたら起動できるようになったので流石すぎる。</description>
@@ -80,13 +87,6 @@
       <description>techs_targe: Crostini でも無事インストール、起動できた。 これから何ができるか検証していきたい。 （現時点でもFableは使えなかった） https://t.co/uBzeCdPBsT https://t.co/ITj1waQL6t</description>
       <pubDate>Thu, 02 Jul 2026 03:44:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techs44576/status/2072526814677966914</guid>
-    </item>
-    <item>
-      <title>@acclimal @araisan_narou 全然知らないアプリなので何を持って正常な動作なのかは不明ですが、ChroneOS上の crostini コンテナで動くwineでもWindows用バイナリ（SLADE.exe）は起動しているように見えますね。 https://t.co/vIguXZlucR</title>
-      <link>https://x.com/teteten/status/2071316961347436645</link>
-      <description>【bot】てててｎ ™: @acclimal @araisan_narou 全然知らないアプリなので何を持って正常な動作なのかは不明ですが、ChroneOS上の crostini コンテナで動くwineでもWindows用バイナリ（SLADE.exe）は起動しているように見えますね。 https://t.co/vIguXZlucR</description>
-      <pubDate>Sun, 28 Jun 2026 19:37:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/teteten/status/2071316961347436645</guid>
     </item>
   </channel>
 </rss>
