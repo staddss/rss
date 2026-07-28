@@ -173,13 +173,6 @@
       <guid isPermaLink="true">https://x.com/Geda_2/status/2071148217019076741</guid>
     </item>
     <item>
-      <title>M4 Macminiで、Chromeをアップデートしてから動画が勝手に止まる症状が出てたんだけど、以下で治ったよ。😀 1. アドレスバーに chrome :// flags と入力して、出てきた検索窓に「Hardware-accelerated video decode」と入力して検索。 2. 設定を Disabled（無効化）に変更し、ブラウザを再起動。</title>
-      <link>https://x.com/kansuke58/status/2071071671822504182</link>
-      <description>kansuke: M4 Macminiで、Chromeをアップデートしてから動画が勝手に止まる症状が出てたんだけど、以下で治ったよ。😀 1. アドレスバーに chrome :// flags と入力して、出てきた検索窓に「Hardware-accelerated video decode」と入力して検索。 2. 設定を Disabled（無効化）に変更し、ブラウザを再起動。</description>
-      <pubDate>Sun, 28 Jun 2026 03:22:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kansuke58/status/2071071671822504182</guid>
-    </item>
-    <item>
       <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
       <link>https://x.com/cotodaman/status/2065536945976140248</link>
       <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
