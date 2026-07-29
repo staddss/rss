@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@igniken1 @nash_su Tailscale 底層就是 wireguard</title>
+      <link>https://x.com/G36_maid/status/2082465147998859387</link>
+      <description>G36_maid: @igniken1 @nash_su Tailscale 底層就是 wireguard</description>
+      <pubDate>Wed, 29 Jul 2026 13:55:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/G36_maid/status/2082465147998859387</guid>
+    </item>
+    <item>
       <title>liqoってvirtual nodeベースのOSSで podを（ある程度）透過的にoffloadingする感じか。 wireguard でcross cluster networkingまでやっててServiceもoffloaded podに飛ぶ感じかな？良さそう。 https://t.co/rZIOmzhBu3</title>
       <link>https://x.com/everpeace/status/2082379844470653206</link>
       <description>Shingo Omura ⎈: liqoってvirtual nodeベースのOSSで podを（ある程度）透過的にoffloadingする感じか。 wireguard でcross cluster networkingまでやっててServiceもoffloaded podに飛ぶ感じかな？良さそう。 https://t.co/rZIOmzhBu3</description>
@@ -269,13 +276,6 @@
       <description>BonyChops: @minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</description>
       <pubDate>Sat, 18 Jul 2026 06:12:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/BonyChops/status/2078362340425425370</guid>
-    </item>
-    <item>
-      <title>VaultwardenのセルフホストはNASの構築と同時にやるべきな気がする インターネットに晒すべきではないけど Wireguard のスプリットトンネリングできんのかなぁ。 認証はセキュリティキーかOSのパスキー管理で二段階認証させればよさそう。一度ログインしたらマスターパスワードでいいし。</title>
-      <link>https://x.com/sophia4172/status/2078089230388166937</link>
-      <description>セリ科: VaultwardenのセルフホストはNASの構築と同時にやるべきな気がする インターネットに晒すべきではないけど Wireguard のスプリットトンネリングできんのかなぁ。 認証はセキュリティキーかOSのパスキー管理で二段階認証させればよさそう。一度ログインしたらマスターパスワードでいいし。</description>
-      <pubDate>Fri, 17 Jul 2026 12:07:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sophia4172/status/2078089230388166937</guid>
     </item>
   </channel>
 </rss>
