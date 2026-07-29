@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2082265209444466991</guid>
     </item>
     <item>
+      <title>まずはYahoo FinanceのData Engine を作成します。 以下のコマンドを実行してください。 mkdir -p src/data touch src/data/yahoo.py touch https://t.co/TmoLksfoP2 その後、code . で VS Code を開いてください（ Codespaces なら通常は既に開いています）。</title>
+      <link>https://x.com/kotsudokan/status/2082012506739056982</link>
+      <description>AIスーパーカ～ブ: まずはYahoo FinanceのData Engine を作成します。 以下のコマンドを実行してください。 mkdir -p src/data touch src/data/yahoo.py touch https://t.co/TmoLksfoP2 その後、code . で VS Code を開いてください（ Codespaces なら通常は既に開いています）。</description>
+      <pubDate>Tue, 28 Jul 2026 07:57:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kotsudokan/status/2082012506739056982</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2081902776896958933</link>
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</description>

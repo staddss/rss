@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@hrbiebtowb @IJ4R3NF 使ってるから読んだら納得しかなかった MagicDNSオフで使っているのでもはやTailscaleである意味がないと感じ、 Cloudflare tunnel （warp）に切り替えを検討してます</title>
+      <link>https://x.com/taqyan/status/2082389782299320431</link>
+      <description>taqyA: @hrbiebtowb @IJ4R3NF 使ってるから読んだら納得しかなかった MagicDNSオフで使っているのでもはやTailscaleである意味がないと感じ、 Cloudflare tunnel （warp）に切り替えを検討してます</description>
+      <pubDate>Wed, 29 Jul 2026 08:56:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taqyan/status/2082389782299320431</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</title>
       <link>https://x.com/YumNumm/status/2082164072829853742</link>
       <description>もぐもぐ: Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</description>
@@ -269,13 +276,6 @@
       <description>堀池諒｜GIS保健師(PHN, Ph.D.): Cloudflare Tunnel を使ってみる</description>
       <pubDate>Tue, 14 Jul 2026 08:07:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/GISPHN/status/2076941717992099955</guid>
-    </item>
-    <item>
-      <title>Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</title>
-      <link>https://x.com/SeahalJa/status/2076877367465955642</link>
-      <description>SEAHAL(Ja): Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</description>
-      <pubDate>Tue, 14 Jul 2026 03:52:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076877367465955642</guid>
     </item>
   </channel>
 </rss>

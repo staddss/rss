@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>liqoってvirtual nodeベースのOSSで podを（ある程度）透過的にoffloadingする感じか。 wireguard でcross cluster networkingまでやっててServiceもoffloaded podに飛ぶ感じかな？良さそう。 https://t.co/rZIOmzhBu3</title>
+      <link>https://x.com/everpeace/status/2082379844470653206</link>
+      <description>Shingo Omura ⎈: liqoってvirtual nodeベースのOSSで podを（ある程度）透過的にoffloadingする感じか。 wireguard でcross cluster networkingまでやっててServiceもoffloaded podに飛ぶ感じかな？良さそう。 https://t.co/rZIOmzhBu3</description>
+      <pubDate>Wed, 29 Jul 2026 08:16:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/everpeace/status/2082379844470653206</guid>
+    </item>
+    <item>
       <title>@Latte72R @hrbiebtowb ありがとうございます。 便利そうですが、私には合いそうもありません。 しばらくは、生 wireguard を使います。 #ITネタ</title>
       <link>https://x.com/shonanlitore/status/2082273420574937244</link>
       <description>横浜のIT屋: @Latte72R @hrbiebtowb ありがとうございます。 便利そうですが、私には合いそうもありません。 しばらくは、生 wireguard を使います。 #ITネタ</description>
@@ -24,6 +31,13 @@
       <description>山田かつてない技術部: おー。MAP-EとPPPoEの契約してて穴あけしてるしテーブル作ってネットワーク分けるなんて逸般の誤家庭みたいな環境にしてるんだけど、ルーター内で動いてるAIに相談しながら構築したら WireGuard をルーターに仕込めたぞ。結構すごいなこれ https://t.co/cejwc2KxZR</description>
       <pubDate>Tue, 28 Jul 2026 07:27:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Digital_Core/status/2082004943830126618</guid>
+    </item>
+    <item>
+      <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard 等のVPNを建てないといけなくなるから、ちゃんと下調べしよう。</title>
+      <link>https://x.com/DIGIUSAGI/status/2081827660788076744</link>
+      <description>コレサワシゲユキ／でこうさぎ: 無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard 等のVPNを建てないといけなくなるから、ちゃんと下調べしよう。</description>
+      <pubDate>Mon, 27 Jul 2026 19:42:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2081827660788076744</guid>
     </item>
     <item>
       <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard のServer建てないといけないとかあるから、ちゃんと下調べしよう。</title>
@@ -262,20 +276,6 @@
       <description>セリ科: VaultwardenのセルフホストはNASの構築と同時にやるべきな気がする インターネットに晒すべきではないけど Wireguard のスプリットトンネリングできんのかなぁ。 認証はセキュリティキーかOSのパスキー管理で二段階認証させればよさそう。一度ログインしたらマスターパスワードでいいし。</description>
       <pubDate>Fri, 17 Jul 2026 12:07:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sophia4172/status/2078089230388166937</guid>
-    </item>
-    <item>
-      <title>あ～待て？ proxmoxを変な方法でインストールしたからか？ やでも本体側で wireguard 動いたから関係ないか…</title>
-      <link>https://x.com/blackuro357/status/2078007725175513354</link>
-      <description>ブラクロ: あ～待て？ proxmoxを変な方法でインストールしたからか？ やでも本体側で wireguard 動いたから関係ないか…</description>
-      <pubDate>Fri, 17 Jul 2026 06:43:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/blackuro357/status/2078007725175513354</guid>
-    </item>
-    <item>
-      <title>10G回線でのソフトウェアルータのプラットフォームは、IPv4 over IPv6やSQM、 WireGuard を使うなら、さすがにx86なんかね？ ARMやらのSBCでパフォーマンスでる感じのハード構成あったりする？</title>
-      <link>https://x.com/EXAM1319/status/2077951544167977424</link>
-      <description>craft: 10G回線でのソフトウェアルータのプラットフォームは、IPv4 over IPv6やSQM、 WireGuard を使うなら、さすがにx86なんかね？ ARMやらのSBCでパフォーマンスでる感じのハード構成あったりする？</description>
-      <pubDate>Fri, 17 Jul 2026 03:00:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EXAM1319/status/2077951544167977424</guid>
     </item>
   </channel>
 </rss>
