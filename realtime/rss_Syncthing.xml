@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Tenmon_E7 大抵のアプリがネットワークディレクトリ対応してるから用途毎のアプリに設定してます 未対応アプリ使うなら Syncthing 、CX File Explorer、X-ploreとかでネットワークディレクトリをローカルディレクトリにして自動同期設定して読み込ませるが正義 ＼( ´･ω･`)┐</title>
+      <link>https://x.com/tonsaman18/status/2081892811272802573</link>
+      <description>トンサ@つぶやけないなまもの 規制中: @Tenmon_E7 大抵のアプリがネットワークディレクトリ対応してるから用途毎のアプリに設定してます 未対応アプリ使うなら Syncthing 、CX File Explorer、X-ploreとかでネットワークディレクトリをローカルディレクトリにして自動同期設定して読み込ませるが正義 ＼( ´･ω･`)┐</description>
+      <pubDate>Tue, 28 Jul 2026 00:01:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tonsaman18/status/2081892811272802573</guid>
+    </item>
+    <item>
       <title>Linuxホスト用意してNextcloud/ syncthing でファイル同期し、クライアントをMesh VPNで常時接続するようにしておくと容量関係なく好きなように同期できるし、勝手にファイル覗かれてBANされる心配もないのでとっても健全</title>
       <link>https://x.com/straycycler/status/2081754169569116514</link>
       <description>ちくろ: Linuxホスト用意してNextcloud/ syncthing でファイル同期し、クライアントをMesh VPNで常時接続するようにしておくと容量関係なく好きなように同期できるし、勝手にファイル覗かれてBANされる心配もないのでとっても健全</description>
@@ -269,13 +276,6 @@
       <description>重藤 六🐸ガジェットブロガー: https://t.co/9sbm6k3JjF こりゃ困りましたね🤔 AndroidのVMを立てて、泥VMに Syncthing で転送してバックアップする？</description>
       <pubDate>Wed, 01 Jul 2026 03:07:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2072155221544026419</guid>
-    </item>
-    <item>
-      <title>まだXigmaNASの Syncthing と格闘中 たぶんコマンドスクリプトで頑張ってコンフィグディレクトリをサルベージするしかないかな</title>
-      <link>https://x.com/kazkuro/status/2071959705698947187</link>
-      <description>kazkuro: ★: まだXigmaNASの Syncthing と格闘中 たぶんコマンドスクリプトで頑張ってコンフィグディレクトリをサルベージするしかないかな</description>
-      <pubDate>Tue, 30 Jun 2026 14:11:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazkuro/status/2071959705698947187</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</title>
+      <link>https://x.com/YumNumm/status/2082164072829853742</link>
+      <description>もぐもぐ: Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</description>
+      <pubDate>Tue, 28 Jul 2026 17:59:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/YumNumm/status/2082164072829853742</guid>
+    </item>
+    <item>
       <title>今日やること。 ローカルLLMのローカルモデルとリソースを Cloudflare Tunnel 経由でネットワーク伝達して利用可能な状態にする。Cloudflare Accessで自分しか使えないようにする。 ぐらいかな…SteamOSはちょっとびっくりしたけどね…😓</title>
       <link>https://x.com/LunarHealWisdom/status/2081691841649652129</link>
       <description>🦊Yomi Watanuki: 今日やること。 ローカルLLMのローカルモデルとリソースを Cloudflare Tunnel 経由でネットワーク伝達して利用可能な状態にする。Cloudflare Accessで自分しか使えないようにする。 ぐらいかな…SteamOSはちょっとびっくりしたけどね…😓</description>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): Cloudflare Access をガチで習得したいなぁ。基盤の技術は Cloudflare Tunnel っぽいけど、これはマァマァ理解したので、Cloudflare Access までガッチリしたら、もうゼロトラストの初歩を構築できるってわけだしな。</description>
       <pubDate>Tue, 14 Jul 2026 03:52:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2076877367465955642</guid>
-    </item>
-    <item>
-      <title>ローカル環境の Podman(Docker) compose にホストしているのを、cloudflare access から独自ドメインを経由してホストしたいときには、まず cloudflare tunnel を通してから cloudflare access の設定をいれると、無事にアクセス制限をかけて、世界に公開ができるよ ... というので午前は終了だ。</title>
-      <link>https://x.com/SeahalJa/status/2076862853055934533</link>
-      <description>SEAHAL(Ja): ローカル環境の Podman(Docker) compose にホストしているのを、cloudflare access から独自ドメインを経由してホストしたいときには、まず cloudflare tunnel を通してから cloudflare access の設定をいれると、無事にアクセス制限をかけて、世界に公開ができるよ ... というので午前は終了だ。</description>
-      <pubDate>Tue, 14 Jul 2026 02:54:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076862853055934533</guid>
     </item>
   </channel>
 </rss>
