@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@L_port53 L2TPは暗号化ないので普通は暗号化掛けるためにIPSecと併用することが多い。ただIPv4の場合はヘッダーにIPSecが入ってないからオーバーヘッドが肥大化しがちだし, L2TPと組み合わせたら余計に肥大化するので Wireguard 単体の方がオーバーヘッドは小さいと思う。IPv6はIPSecがヘッダに入ってるから良き。</title>
+      <link>https://x.com/shumaikun0716/status/2082950455349649820</link>
+      <description>shumaikun0716: @L_port53 L2TPは暗号化ないので普通は暗号化掛けるためにIPSecと併用することが多い。ただIPv4の場合はヘッダーにIPSecが入ってないからオーバーヘッドが肥大化しがちだし, L2TPと組み合わせたら余計に肥大化するので Wireguard 単体の方がオーバーヘッドは小さいと思う。IPv6はIPSecがヘッダに入ってるから良き。</description>
+      <pubDate>Thu, 30 Jul 2026 22:04:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2082950455349649820</guid>
+    </item>
+    <item>
+      <title>wireguard つけれた(ChromeBook) 色々コピペしすぎてた https://t.co/hWKZ2efSS3</title>
+      <link>https://x.com/L_port53/status/2082940359433183698</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: wireguard つけれた(ChromeBook) 色々コピペしすぎてた https://t.co/hWKZ2efSS3</description>
+      <pubDate>Thu, 30 Jul 2026 21:24:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2082940359433183698</guid>
+    </item>
+    <item>
+      <title>やっぱ Wireguard にしようかなぁ Tailscale もうあかん</title>
+      <link>https://x.com/jptakiR813/status/2082929883433599076</link>
+      <description>takidem: やっぱ Wireguard にしようかなぁ Tailscale もうあかん</description>
+      <pubDate>Thu, 30 Jul 2026 20:42:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jptakiR813/status/2082929883433599076</guid>
+    </item>
+    <item>
+      <title>ルーターの動作モード変更するのに時間かかったり、 WireGuard の接続が上手くいかなかったりで、参加したかった集会いけなかった；；</title>
+      <link>https://x.com/kemofi_su/status/2082891734099619869</link>
+      <description>けもふぃーす@C107 東ヤ40a 12/30(火) 売り子ﾁｬﾝﾃﾞｽ: ルーターの動作モード変更するのに時間かかったり、 WireGuard の接続が上手くいかなかったりで、参加したかった集会いけなかった；；</description>
+      <pubDate>Thu, 30 Jul 2026 18:11:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kemofi_su/status/2082891734099619869</guid>
+    </item>
+    <item>
+      <title>もしかして wireguard の流儀が気持ち悪いのかな。 https://t.co/0ur0XvtEnL</title>
+      <link>https://x.com/takuya_1st/status/2082873827558916411</link>
+      <description>takuya@osaka(令和最新版): もしかして wireguard の流儀が気持ち悪いのかな。 https://t.co/0ur0XvtEnL</description>
+      <pubDate>Thu, 30 Jul 2026 16:59:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takuya_1st/status/2082873827558916411</guid>
+    </item>
+    <item>
       <title>@umaiyo_ajiman ChromeBookも一応OpenVPNと Wireguard も選べるんだけどね、何故かうまく接続できない 秘密鍵のハッシュいじったりしないとダメなんかま</title>
       <link>https://x.com/L_port53/status/2082751639136419944</link>
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @umaiyo_ajiman ChromeBookも一応OpenVPNと Wireguard も選べるんだけどね、何故かうまく接続できない 秘密鍵のハッシュいじったりしないとダメなんかま</description>
@@ -17,6 +52,13 @@
       <description>一樹（第二拠点）: 無いよりはマシだな ただWARPもログは取ってるから不安ならTorでProtonアカウント作って wireguard とか openvpn出力して使えばいい https://t.co/hIBwam9uau</description>
       <pubDate>Thu, 30 Jul 2026 08:52:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8080/status/2082751090966057092</guid>
+    </item>
+    <item>
+      <title>@L_port53 どうせVPNやるなら WireGuard がおすすめ ChromebookとかだとOpenVPNになるかもしれんけど</title>
+      <link>https://x.com/umaiyo_ajiman/status/2082750709314031790</link>
+      <description>右腕の唐揚げ: @L_port53 どうせVPNやるなら WireGuard がおすすめ ChromebookとかだとOpenVPNになるかもしれんけど</description>
+      <pubDate>Thu, 30 Jul 2026 08:50:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/umaiyo_ajiman/status/2082750709314031790</guid>
     </item>
     <item>
       <title>1ヶ月ぶりに自宅に WireGuard 接続できるようになった。最高や。</title>
@@ -234,48 +276,6 @@
       <description>ゆんぞ/Yunzo: 他のをアレコレ使わない WireGuard が一番。組み合わせる毎に信頼性が落ちる。</description>
       <pubDate>Wed, 22 Jul 2026 10:26:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yunzojm_open/status/2079875717232505045</guid>
-    </item>
-    <item>
-      <title>@glyzinienet 以前はengage.で引けるのが100:だったのでしょうか？d0:はMeshの WireGuard は通らなそうでした。 https://t.co/8ifMmGfIHx 辺りの更新待ちですかねぇ</title>
-      <link>https://x.com/shibanyan_1/status/2079852067515236541</link>
-      <description>しばにゃん: @glyzinienet 以前はengage.で引けるのが100:だったのでしょうか？d0:はMeshの WireGuard は通らなそうでした。 https://t.co/8ifMmGfIHx 辺りの更新待ちですかねぇ</description>
-      <pubDate>Wed, 22 Jul 2026 08:52:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2079852067515236541</guid>
-    </item>
-    <item>
-      <title>@linuxmetel WireGuard ではできなかった気がするけど、OpenVPNとかはport 443に向けられたはず</title>
-      <link>https://x.com/Bitrate0/status/2079757351196987587</link>
-      <description>bitrate: @linuxmetel WireGuard ではできなかった気がするけど、OpenVPNとかはport 443に向けられたはず</description>
-      <pubDate>Wed, 22 Jul 2026 02:36:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Bitrate0/status/2079757351196987587</guid>
-    </item>
-    <item>
-      <title>【新着記事】さくらのクラウドのVPNルータで WireGuard を使い、PCやLinuxサーバからVPN接続する方法を検証。前編では仕組みと設定手順を解説します。 https://t.co/CEkLqS93SM #さくらのクラウド # WireGuard #さくらのクラウドラボ</title>
-      <link>https://x.com/NETASSIST_/status/2079755812332081234</link>
-      <description>株式会社ネットアシスト【公式】: 【新着記事】さくらのクラウドのVPNルータで WireGuard を使い、PCやLinuxサーバからVPN接続する方法を検証。前編では仕組みと設定手順を解説します。 https://t.co/CEkLqS93SM #さくらのクラウド # WireGuard #さくらのクラウドラボ</description>
-      <pubDate>Wed, 22 Jul 2026 02:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NETASSIST_/status/2079755812332081234</guid>
-    </item>
-    <item>
-      <title>wireguard まあよく使ってる</title>
-      <link>https://x.com/shiomiolog/status/2079615489802985646</link>
-      <description>汐猫みお🐾💻 / しおみお / SHIONE Mio: wireguard まあよく使ってる</description>
-      <pubDate>Tue, 21 Jul 2026 17:12:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shiomiolog/status/2079615489802985646</guid>
-    </item>
-    <item>
-      <title>wireguard 便利すぎ(n番煎じ)をやっています（たすかる）</title>
-      <link>https://x.com/hikalium/status/2079589819521659342</link>
-      <description>hikalium: wireguard 便利すぎ(n番煎じ)をやっています（たすかる）</description>
-      <pubDate>Tue, 21 Jul 2026 15:30:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hikalium/status/2079589819521659342</guid>
-    </item>
-    <item>
-      <title>AIスウォーム帝国は、アバターの専門性を分散させ、Zero-Linkで収益を即時決済。 WireGuard とTorを重ねることで、IPやウォレットを一切紐付けない「自己主権」の仕組みを作り上げたのよ。</title>
-      <link>https://x.com/SofiWorks10611/status/2079573123582808550</link>
-      <description>sofi.works ⚡️ タイ生存ハック: AIスウォーム帝国は、アバターの専門性を分散させ、Zero-Linkで収益を即時決済。 WireGuard とTorを重ねることで、IPやウォレットを一切紐付けない「自己主権」の仕組みを作り上げたのよ。</description>
-      <pubDate>Tue, 21 Jul 2026 14:24:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SofiWorks10611/status/2079573123582808550</guid>
     </item>
   </channel>
 </rss>

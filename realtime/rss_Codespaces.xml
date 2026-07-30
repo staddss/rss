@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2082626401996300686</guid>
     </item>
     <item>
+      <title>GitHubの Codespaces みたいなやつ、手元でセルフホストしたい気持ちがある。</title>
+      <link>https://x.com/lkjsxc/status/2082606776214794731</link>
+      <description>lkjsxc / スク: GitHubの Codespaces みたいなやつ、手元でセルフホストしたい気持ちがある。</description>
+      <pubDate>Wed, 29 Jul 2026 23:18:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lkjsxc/status/2082606776214794731</guid>
+    </item>
+    <item>
       <title>【新着記事】結論先出しで選ぶクラウドIDE： Codespaces ・Gitpod・Cloud9 の最短選定ガイド（導入手順とコスト試算つき） https://t.co/pdcbACVMpI #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2082265209444466991</link>
       <description>EngiNear: 【新着記事】結論先出しで選ぶクラウドIDE： Codespaces ・Gitpod・Cloud9 の最短選定ガイド（導入手順とコスト試算つき） https://t.co/pdcbACVMpI #エンジニア #ChatGPT #AI</description>
@@ -206,20 +213,6 @@
       <description>Kenji Hisazumi: @kuboaki codespaces がある程度無料で使えるので安心してやれるというのはありますね。今でもdockerとかを学生PCにインストールしてもらうのはちょっと気が引けます。 トラブルは原因がわかりにくくなることもありますし、枠使い切ったとかそういう別のトラブルが導入されたりもしますね。</description>
       <pubDate>Wed, 01 Jul 2026 01:33:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nelnel/status/2072131336660513243</guid>
-    </item>
-    <item>
-      <title>いい話。個人的には共感します。とはいえ大学教育において学生さんたちのPCのサポートは結構大変なのです。今年から私の講義の演習は codespaces というかコンテナ環境でやることにしました。PCの環境依存のトラブルはゼロになりました（当たり前）。 https://t.co/FTCnToyXFf</title>
-      <link>https://x.com/nelnel/status/2071979791553831114</link>
-      <description>Kenji Hisazumi: いい話。個人的には共感します。とはいえ大学教育において学生さんたちのPCのサポートは結構大変なのです。今年から私の講義の演習は codespaces というかコンテナ環境でやることにしました。PCの環境依存のトラブルはゼロになりました（当たり前）。 https://t.co/FTCnToyXFf</description>
-      <pubDate>Tue, 30 Jun 2026 15:30:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nelnel/status/2071979791553831114</guid>
-    </item>
-    <item>
-      <title>高速でプログラ厶書く時はずっとINSERTモードなのでvimである必要がないと判断し Codespaces とVSCodeに乗り換えた、vim触る機会がとても減って悲しい</title>
-      <link>https://x.com/serna37serna37/status/2071949239488532584</link>
-      <description>さーな: 高速でプログラ厶書く時はずっとINSERTモードなのでvimである必要がないと判断し Codespaces とVSCodeに乗り換えた、vim触る機会がとても減って悲しい</description>
-      <pubDate>Tue, 30 Jun 2026 13:29:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/serna37serna37/status/2071949239488532584</guid>
     </item>
     <item>
       <title>#github ●コラボレーションコーディング GitHub Codespaces , GitHub Copilot, プルリクエスト, ディスカッション, コード検索, コードレビュー ●自動化とCI/CD GitHub Actions, GitHub Packages, API, Webhooks, ワークフロー可視化 ●アプリケーションセキュリティ コードスキャン, https://t.co/fTQeGvYdQ7</title>
