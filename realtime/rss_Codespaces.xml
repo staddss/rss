@@ -19,13 +19,6 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2082265209444466991</guid>
     </item>
     <item>
-      <title>まずはYahoo FinanceのData Engine を作成します。 以下のコマンドを実行してください。 mkdir -p src/data touch src/data/yahoo.py touch https://t.co/TmoLksfoP2 その後、code . で VS Code を開いてください（ Codespaces なら通常は既に開いています）。</title>
-      <link>https://x.com/kotsudokan/status/2082012506739056982</link>
-      <description>AIスーパーカ～ブ: まずはYahoo FinanceのData Engine を作成します。 以下のコマンドを実行してください。 mkdir -p src/data touch src/data/yahoo.py touch https://t.co/TmoLksfoP2 その後、code . で VS Code を開いてください（ Codespaces なら通常は既に開いています）。</description>
-      <pubDate>Tue, 28 Jul 2026 07:57:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kotsudokan/status/2082012506739056982</guid>
-    </item>
-    <item>
       <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2081902776896958933</link>
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</description>
@@ -227,13 +220,6 @@
       <description>さーな: 高速でプログラ厶書く時はずっとINSERTモードなのでvimである必要がないと判断し Codespaces とVSCodeに乗り換えた、vim触る機会がとても減って悲しい</description>
       <pubDate>Tue, 30 Jun 2026 13:29:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/serna37serna37/status/2071949239488532584</guid>
-    </item>
-    <item>
-      <title>えっ！？ GitHub Codespaces ってVSCode拡張機能入れられるの！？ これもうVSCodeじゃん！！ えっ、めっちゃくちゃ良いんだけど！？</title>
-      <link>https://x.com/kamsakihiyuuma/status/2071847836497670499</link>
-      <description>Azure Kamsaki oSushi: えっ！？ GitHub Codespaces ってVSCode拡張機能入れられるの！？ これもうVSCodeじゃん！！ えっ、めっちゃくちゃ良いんだけど！？</description>
-      <pubDate>Tue, 30 Jun 2026 06:46:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kamsakihiyuuma/status/2071847836497670499</guid>
     </item>
     <item>
       <title>#github ●コラボレーションコーディング GitHub Codespaces , GitHub Copilot, プルリクエスト, ディスカッション, コード検索, コードレビュー ●自動化とCI/CD GitHub Actions, GitHub Packages, API, Webhooks, ワークフロー可視化 ●アプリケーションセキュリティ コードスキャン, https://t.co/fTQeGvYdQ7</title>

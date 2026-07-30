@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflare tunnel -&gt; k8sをつなげたから簡単にアプリ公開できるようになった</title>
+      <link>https://x.com/Imissdjj/status/2082695794105446621</link>
+      <description>夢見るデリジョン: cloudflare tunnel -&gt; k8sをつなげたから簡単にアプリ公開できるようになった</description>
+      <pubDate>Thu, 30 Jul 2026 05:12:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Imissdjj/status/2082695794105446621</guid>
+    </item>
+    <item>
       <title>接続しっぱなしでよければ Cloudflare Tunnel でもできる https://t.co/c3wMxOD6Bh</title>
       <link>https://x.com/tsuyutaku/status/2082473985279918391</link>
       <description>ツユタク(tsuyutaku): 接続しっぱなしでよければ Cloudflare Tunnel でもできる https://t.co/c3wMxOD6Bh</description>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): PoC が完了しました。 Cloudflare Tunnel 経由で Rails の動作しているコンテナに Cloudflare workers vpc を利用して、Cloudflare workers のうえでうごいている NextJS から fetch して情報がとりだせました。やったー。本当に嬉しいです。... 終業です。</description>
       <pubDate>Tue, 14 Jul 2026 09:58:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2076969510192685444</guid>
-    </item>
-    <item>
-      <title>あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ... https://t.co/8P7gfutrTg</title>
-      <link>https://x.com/SeahalJa/status/2076965745825882343</link>
-      <description>SEAHAL(Ja): あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ... https://t.co/8P7gfutrTg</description>
-      <pubDate>Tue, 14 Jul 2026 09:43:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076965745825882343</guid>
     </item>
   </channel>
 </rss>

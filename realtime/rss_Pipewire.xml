@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>CachyOSが時々DACを見失うようになった．特にALSA直結にした後に発生する．以下のコマンドを打つくことで復旧するのでスクリプトにしてメニューから実行できるようした．systemctl --user restart pipewire pipewire -pulse wireplumber</title>
+      <link>https://x.com/cobocobo/status/2082406930354671738</link>
+      <description>cobo4u: CachyOSが時々DACを見失うようになった．特にALSA直結にした後に発生する．以下のコマンドを打つくことで復旧するのでスクリプトにしてメニューから実行できるようした．systemctl --user restart pipewire pipewire -pulse wireplumber</description>
+      <pubDate>Wed, 29 Jul 2026 10:04:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cobocobo/status/2082406930354671738</guid>
+    </item>
+    <item>
       <title>“ケビン・ボウリング（Kevin Bowling）氏はPulseAudioを捨てて PipeWire に切り替えることを推奨し自身が作成したFreeBSD向けOSSバックエンド pipewire -spa-oss-ngの導入手順を詳細に共有した。PulseAudioの自動起動を無効化し、。” / “FreeBSDの音が壊れた。メーリングリス…” https://t.co/GwbscCE7SC</title>
       <link>https://x.com/RE_DO/status/2081580412451913904</link>
       <description>錆人形/RE_DO: “ケビン・ボウリング（Kevin Bowling）氏はPulseAudioを捨てて PipeWire に切り替えることを推奨し自身が作成したFreeBSD向けOSSバックエンド pipewire -spa-oss-ngの導入手順を詳細に共有した。PulseAudioの自動起動を無効化し、。” / “FreeBSDの音が壊れた。メーリングリス…” https://t.co/GwbscCE7SC</description>

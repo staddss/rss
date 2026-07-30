@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@umaiyo_ajiman ChromeBookも一応OpenVPNと Wireguard も選べるんだけどね、何故かうまく接続できない 秘密鍵のハッシュいじったりしないとダメなんかま</title>
+      <link>https://x.com/L_port53/status/2082751639136419944</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @umaiyo_ajiman ChromeBookも一応OpenVPNと Wireguard も選べるんだけどね、何故かうまく接続できない 秘密鍵のハッシュいじったりしないとダメなんかま</description>
+      <pubDate>Thu, 30 Jul 2026 08:54:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2082751639136419944</guid>
+    </item>
+    <item>
+      <title>無いよりはマシだな ただWARPもログは取ってるから不安ならTorでProtonアカウント作って wireguard とか openvpn出力して使えばいい https://t.co/hIBwam9uau</title>
+      <link>https://x.com/L_port8080/status/2082751090966057092</link>
+      <description>一樹（第二拠点）: 無いよりはマシだな ただWARPもログは取ってるから不安ならTorでProtonアカウント作って wireguard とか openvpn出力して使えばいい https://t.co/hIBwam9uau</description>
+      <pubDate>Thu, 30 Jul 2026 08:52:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2082751090966057092</guid>
+    </item>
+    <item>
+      <title>1ヶ月ぶりに自宅に WireGuard 接続できるようになった。最高や。</title>
+      <link>https://x.com/bit287/status/2082746171081330948</link>
+      <description>bit287: 1ヶ月ぶりに自宅に WireGuard 接続できるようになった。最高や。</description>
+      <pubDate>Thu, 30 Jul 2026 08:32:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bit287/status/2082746171081330948</guid>
+    </item>
+    <item>
+      <title>#FreeBSD SA-26:52.if_wg WireGuard のカーネルドライバwg(4)はメッセージ認証符号(MAC)を使用。OCFフレームワークに復号させた結果をwg(4)でMACの成否を確認しない問題。遠隔からトンネルにデータを挿入できる可能性や中間者が暗号文を変更しても発覚しない可能性。 https://t.co/R16lsQZLxP</title>
+      <link>https://x.com/motok2501/status/2082603978911817995</link>
+      <description>moto kawasaki: #FreeBSD SA-26:52.if_wg WireGuard のカーネルドライバwg(4)はメッセージ認証符号(MAC)を使用。OCFフレームワークに復号させた結果をwg(4)でMACの成否を確認しない問題。遠隔からトンネルにデータを挿入できる可能性や中間者が暗号文を変更しても発覚しない可能性。 https://t.co/R16lsQZLxP</description>
+      <pubDate>Wed, 29 Jul 2026 23:07:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/motok2501/status/2082603978911817995</guid>
+    </item>
+    <item>
       <title>@igniken1 @nash_su Tailscale 底層就是 wireguard</title>
       <link>https://x.com/G36_maid/status/2082465147998859387</link>
       <description>G36_maid: @igniken1 @nash_su Tailscale 底層就是 wireguard</description>
@@ -248,34 +276,6 @@
       <description>sofi.works ⚡️ タイ生存ハック: AIスウォーム帝国は、アバターの専門性を分散させ、Zero-Linkで収益を即時決済。 WireGuard とTorを重ねることで、IPやウォレットを一切紐付けない「自己主権」の仕組みを作り上げたのよ。</description>
       <pubDate>Tue, 21 Jul 2026 14:24:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SofiWorks10611/status/2079573123582808550</guid>
-    </item>
-    <item>
-      <title>QUIC transport mode in NymVPN WireGuard /AmneziaWGの接続をQUICレイヤーでラップします。これにより、ファイアウォールやDeep Packet Inspection（DPI：深層パケット検査）システムがVPNトラフィックを認識しにくくなります。 https://t.co/0B1qP4FyJ5</title>
-      <link>https://x.com/hanahanahflower/status/2079542037108433289</link>
-      <description>Hana Hana: QUIC transport mode in NymVPN WireGuard /AmneziaWGの接続をQUICレイヤーでラップします。これにより、ファイアウォールやDeep Packet Inspection（DPI：深層パケット検査）システムがVPNトラフィックを認識しにくくなります。 https://t.co/0B1qP4FyJ5</description>
-      <pubDate>Tue, 21 Jul 2026 12:20:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hanahanahflower/status/2079542037108433289</guid>
-    </item>
-    <item>
-      <title>WireGuard サーバをAmneziaWG（ WireGuard フォーク）に入れ替えてみた これが活きる機会が来るかどうかは未知数</title>
-      <link>https://x.com/sugattor_jz/status/2079217665852559648</link>
-      <description>シュガッター@規制: WireGuard サーバをAmneziaWG（ WireGuard フォーク）に入れ替えてみた これが活きる機会が来るかどうかは未知数</description>
-      <pubDate>Mon, 20 Jul 2026 14:51:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sugattor_jz/status/2079217665852559648</guid>
-    </item>
-    <item>
-      <title>App機能でnetwork-outgoing-access=noを設定すると、同ルータ上で動いている WireGuard のinbound通信がルーティングされなくなる事象に遭遇。 Firewall/Mangleに動的ルールが追加されて、そいつが WireGuard の通信まで捨てていた。 RouterOS 7.23.2</title>
-      <link>https://x.com/moog74898428/status/2079076753335890375</link>
-      <description>moog: App機能でnetwork-outgoing-access=noを設定すると、同ルータ上で動いている WireGuard のinbound通信がルーティングされなくなる事象に遭遇。 Firewall/Mangleに動的ルールが追加されて、そいつが WireGuard の通信まで捨てていた。 RouterOS 7.23.2</description>
-      <pubDate>Mon, 20 Jul 2026 05:31:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moog74898428/status/2079076753335890375</guid>
-    </item>
-    <item>
-      <title>ベランダ観測小屋は WireGuard でVPN接続、リブーターでの電源管理、ルーフモータ制御の冗長化、と色々やったら、今度は赤道儀制御のPCがダウンしたら、、と不安になったので、AstroEQ制御を止めOnStepX FYSETC E4に切り替え予定。これならUSB接続とWiFi接続が両立できる。 https://t.co/o2ezU6853m</title>
-      <link>https://x.com/yamagiri_K5/status/2079056087907803221</link>
-      <description>やまぎり: ベランダ観測小屋は WireGuard でVPN接続、リブーターでの電源管理、ルーフモータ制御の冗長化、と色々やったら、今度は赤道儀制御のPCがダウンしたら、、と不安になったので、AstroEQ制御を止めOnStepX FYSETC E4に切り替え予定。これならUSB接続とWiFi接続が両立できる。 https://t.co/o2ezU6853m</description>
-      <pubDate>Mon, 20 Jul 2026 04:09:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamagiri_K5/status/2079056087907803221</guid>
     </item>
   </channel>
 </rss>
