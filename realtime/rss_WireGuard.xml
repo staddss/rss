@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/G36_maid/status/2082465147998859387</guid>
     </item>
     <item>
+      <title>tailscaleの汚染がひどいからやめとけって見たんだけど、VPSと自宅鯖間の通信って wireguard の方が良いのかな。 そもそも何が悪いんやろ</title>
+      <link>https://x.com/1nim5_love/status/2082410182852919592</link>
+      <description>しぐれ🍬: tailscaleの汚染がひどいからやめとけって見たんだけど、VPSと自宅鯖間の通信って wireguard の方が良いのかな。 そもそも何が悪いんやろ</description>
+      <pubDate>Wed, 29 Jul 2026 10:17:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/1nim5_love/status/2082410182852919592</guid>
+    </item>
+    <item>
       <title>liqoってvirtual nodeベースのOSSで podを（ある程度）透過的にoffloadingする感じか。 wireguard でcross cluster networkingまでやっててServiceもoffloaded podに飛ぶ感じかな？良さそう。 https://t.co/rZIOmzhBu3</title>
       <link>https://x.com/everpeace/status/2082379844470653206</link>
       <description>Shingo Omura ⎈: liqoってvirtual nodeベースのOSSで podを（ある程度）透過的にoffloadingする感じか。 wireguard でcross cluster networkingまでやっててServiceもoffloaded podに飛ぶ感じかな？良さそう。 https://t.co/rZIOmzhBu3</description>
@@ -269,13 +276,6 @@
       <description>やまぎり: ベランダ観測小屋は WireGuard でVPN接続、リブーターでの電源管理、ルーフモータ制御の冗長化、と色々やったら、今度は赤道儀制御のPCがダウンしたら、、と不安になったので、AstroEQ制御を止めOnStepX FYSETC E4に切り替え予定。これならUSB接続とWiFi接続が両立できる。 https://t.co/o2ezU6853m</description>
       <pubDate>Mon, 20 Jul 2026 04:09:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yamagiri_K5/status/2079056087907803221</guid>
-    </item>
-    <item>
-      <title>@minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</title>
-      <link>https://x.com/BonyChops/status/2078362340425425370</link>
-      <description>BonyChops: @minagi_yu できます！ 自分はOpenWrtのルーターに入ってもらって、現状の設定をAnsibleに起こしてもらう作業で使ってみました 謎に Wireguard が起動しない(管理画面上では落ちているがゾンビ化したプロセスがいた)みたいな時もスルッと直してくれたりします</description>
-      <pubDate>Sat, 18 Jul 2026 06:12:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/BonyChops/status/2078362340425425370</guid>
     </item>
   </channel>
 </rss>

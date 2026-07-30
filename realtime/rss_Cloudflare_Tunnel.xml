@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>接続しっぱなしでよければ Cloudflare Tunnel でもできる https://t.co/c3wMxOD6Bh</title>
+      <link>https://x.com/tsuyutaku/status/2082473985279918391</link>
+      <description>ツユタク(tsuyutaku): 接続しっぱなしでよければ Cloudflare Tunnel でもできる https://t.co/c3wMxOD6Bh</description>
+      <pubDate>Wed, 29 Jul 2026 14:31:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsuyutaku/status/2082473985279918391</guid>
+    </item>
+    <item>
       <title>@hrbiebtowb @IJ4R3NF 使ってるから読んだら納得しかなかった MagicDNSオフで使っているのでもはやTailscaleである意味がないと感じ、 Cloudflare tunnel （warp）に切り替えを検討してます</title>
       <link>https://x.com/taqyan/status/2082389782299320431</link>
       <description>taqyA: @hrbiebtowb @IJ4R3NF 使ってるから読んだら納得しかなかった MagicDNSオフで使っているのでもはやTailscaleである意味がないと感じ、 Cloudflare tunnel （warp）に切り替えを検討してます</description>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ... https://t.co/8P7gfutrTg</description>
       <pubDate>Tue, 14 Jul 2026 09:43:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2076965745825882343</guid>
-    </item>
-    <item>
-      <title>あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ...</title>
-      <link>https://x.com/SeahalJa/status/2076964238229397544</link>
-      <description>SEAHAL(Ja): あぁ、ダメだ。Cloudflare Workers VPC から cloudflare Tunnel を経由して Rails のエントリポイントに到達しない。くそぉ ...</description>
-      <pubDate>Tue, 14 Jul 2026 09:37:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2076964238229397544</guid>
     </item>
   </channel>
 </rss>
