@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</title>
-      <link>https://x.com/connect24h/status/2083147442715828606</link>
-      <description>connect24h: 勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</description>
-      <pubDate>Fri, 31 Jul 2026 11:07:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/connect24h/status/2083147442715828606</guid>
+      <title>完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</title>
+      <link>https://x.com/vorotamoroz/status/2083185742613020879</link>
+      <description>vorotamoroz aka きみのぶ: 完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</description>
+      <pubDate>Fri, 31 Jul 2026 13:39:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/vorotamoroz/status/2083185742613020879</guid>
     </item>
     <item>
       <title>Wireguard でなんかなってるんかな ちなみに管理画面からだと正常な速度でダウンロードできる</title>
@@ -45,6 +45,13 @@
       <description>テコタク-techotakulab: 【VPN速度の話】 VPNの速度は“サービスの素の速さ”だけでは決まりません。 ①プロトコル（ WireGuard 系はOpenVPN比57%高速） ②サーバー距離 ③混雑 ④元回線 この4要因を押さえるだけで体感が変わります👇 https://t.co/tRIEyj0ZhE</description>
       <pubDate>Fri, 31 Jul 2026 03:04:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/techotakulab/status/2083025913025871934</guid>
+    </item>
+    <item>
+      <title>何も考えずに雑に使えるからですよ。考えて使うには向いてない。Tailscale はあくまでもゼロコンフィグ wireguard ソリューション的な何かなので、当然得手不得手はある。 ただ、アクセス経路のバックアップ手段として忍ばせておくにはクッソ便利よ。 https://t.co/5d42A6NJWD</title>
+      <link>https://x.com/HarusameTech/status/2083024513869250635</link>
+      <description>はるさめ🎥: 何も考えずに雑に使えるからですよ。考えて使うには向いてない。Tailscale はあくまでもゼロコンフィグ wireguard ソリューション的な何かなので、当然得手不得手はある。 ただ、アクセス経路のバックアップ手段として忍ばせておくにはクッソ便利よ。 https://t.co/5d42A6NJWD</description>
+      <pubDate>Fri, 31 Jul 2026 02:58:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HarusameTech/status/2083024513869250635</guid>
     </item>
     <item>
       <title>Wireguard とParsecとTightVNC止めたら解決してしまった。 どれだ。</title>
@@ -269,13 +276,6 @@
       <description>羽鳥達郎@合同会社pons: 誰か wireguard 使った固定IP提供サービスやってくれませんかねぇ… めっちゃ売れると思います 固定IP接続サービス 調達仕様書（案） 第1章 調達の目的 1.1 背景</description>
       <pubDate>Thu, 23 Jul 2026 11:31:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ponsllc/status/2080254461595853075</guid>
-    </item>
-    <item>
-      <title>一言でまとめると wireguard は帯域幅出したいならuserspace実装しか使えないmacではなくkernel実装使えるlinuxを使えって感じらしい</title>
-      <link>https://x.com/meetaco_/status/2080197123069599878</link>
-      <description>みーたこ🐙🌙: 一言でまとめると wireguard は帯域幅出したいならuserspace実装しか使えないmacではなくkernel実装使えるlinuxを使えって感じらしい</description>
-      <pubDate>Thu, 23 Jul 2026 07:43:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/meetaco_/status/2080197123069599878</guid>
     </item>
   </channel>
 </rss>
