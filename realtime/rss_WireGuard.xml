@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</title>
+      <link>https://x.com/connect24h/status/2083147442715828606</link>
+      <description>connect24h: 勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</description>
+      <pubDate>Fri, 31 Jul 2026 11:07:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/connect24h/status/2083147442715828606</guid>
+    </item>
+    <item>
+      <title>Wireguard でなんかなってるんかな ちなみに管理画面からだと正常な速度でダウンロードできる</title>
+      <link>https://x.com/_yakisugita_/status/2083088318045225153</link>
+      <description>焼きすぎた鮭: Wireguard でなんかなってるんかな ちなみに管理画面からだと正常な速度でダウンロードできる</description>
+      <pubDate>Fri, 31 Jul 2026 07:12:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_yakisugita_/status/2083088318045225153</guid>
+    </item>
+    <item>
       <title>tailscale関連で WireGuard も少し気になる</title>
       <link>https://x.com/FluidTofu/status/2083039675523211526</link>
       <description>Redwheat: tailscale関連で WireGuard も少し気になる</description>
@@ -262,20 +276,6 @@
       <description>みーたこ🐙🌙: 一言でまとめると wireguard は帯域幅出したいならuserspace実装しか使えないmacではなくkernel実装使えるlinuxを使えって感じらしい</description>
       <pubDate>Thu, 23 Jul 2026 07:43:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/meetaco_/status/2080197123069599878</guid>
-    </item>
-    <item>
-      <title>もうなんか wireguard client書き換え始めて草</title>
-      <link>https://x.com/meetaco_/status/2080171945665102045</link>
-      <description>みーたこ🐙🌙: もうなんか wireguard client書き換え始めて草</description>
-      <pubDate>Thu, 23 Jul 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/meetaco_/status/2080171945665102045</guid>
-    </item>
-    <item>
-      <title>「Raspberry Piに WireGuard をインストールして自宅にVPN環境を作成しました」 https://t.co/REf2rTbU9n</title>
-      <link>https://x.com/shige_cycle/status/2080127011591279024</link>
-      <description>しげ@BRM未定: 「Raspberry Piに WireGuard をインストールして自宅にVPN環境を作成しました」 https://t.co/REf2rTbU9n</description>
-      <pubDate>Thu, 23 Jul 2026 03:05:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shige_cycle/status/2080127011591279024</guid>
     </item>
   </channel>
 </rss>

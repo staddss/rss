@@ -250,13 +250,6 @@
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2072862760225132885</guid>
     </item>
     <item>
-      <title>【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</title>
-      <link>https://x.com/karaage0703/status/2072636593920475271</link>
-      <description>からあげ: 【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</description>
-      <pubDate>Thu, 02 Jul 2026 11:00:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/karaage0703/status/2072636593920475271</guid>
-    </item>
-    <item>
       <title>Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</title>
       <link>https://x.com/yamagu09/status/2072628247817568524</link>
       <description>やまぐちだいすけ ％ 足元にはご注意を: Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</description>
@@ -271,18 +264,18 @@
       <guid isPermaLink="true">https://x.com/simplememofast/status/2072509038500491730</guid>
     </item>
     <item>
-      <title>書いてみました。これのおかげで、久しぶりにObsidianを使えています &gt; Syncthing でサーバー上のフォルダをローカルPCと同期する｜からあげ https://t.co/J05VOIGtai #zenn</title>
-      <link>https://x.com/karaage0703/status/2072335853440090297</link>
-      <description>からあげ: 書いてみました。これのおかげで、久しぶりにObsidianを使えています &gt; Syncthing でサーバー上のフォルダをローカルPCと同期する｜からあげ https://t.co/J05VOIGtai #zenn</description>
-      <pubDate>Wed, 01 Jul 2026 15:05:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/karaage0703/status/2072335853440090297</guid>
-    </item>
-    <item>
       <title>Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</title>
       <link>https://x.com/murasametech/status/2071170509413499229</link>
       <description>むらさん(Murasan): Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</description>
       <pubDate>Sun, 28 Jun 2026 09:55:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/murasametech/status/2071170509413499229</guid>
+    </item>
+    <item>
+      <title>Syncthing 、要はマルチプラットフォームかつ、P2Pで直接他のマシンのフォルダ同期を行うOSSで、常時稼働のストレージサーバ生やせば容量無限のDropboxみたいな使い方が出来る。 初期設定だと、P2P接続が確立できなければ公式/有志で公開されてるリレーサーバ経由で転送を行ったりNAT越えの支援もある</title>
+      <link>https://x.com/Ranas_Genoa/status/1605510211623591937</link>
+      <description>げのあ: Syncthing 、要はマルチプラットフォームかつ、P2Pで直接他のマシンのフォルダ同期を行うOSSで、常時稼働のストレージサーバ生やせば容量無限のDropboxみたいな使い方が出来る。 初期設定だと、P2P接続が確立できなければ公式/有志で公開されてるリレーサーバ経由で転送を行ったりNAT越えの支援もある</description>
+      <pubDate>Wed, 21 Dec 2022 10:27:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ranas_Genoa/status/1605510211623591937</guid>
     </item>
   </channel>
 </rss>

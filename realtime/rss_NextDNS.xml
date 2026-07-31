@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/daizu_lab/status/2082816273256440136</guid>
     </item>
     <item>
+      <title>というのも学タブで NextDNS をL2TPに付けて、Wi-Fiの方からDNS送らないようにしてるんだよね でも暗号化してなかったらあんまり意味ないかもとお思い始めた ちなみにプロキシ拡張機能を加えると そのVPNのあとにプロキシがついてDNSが変わります（）</title>
+      <link>https://x.com/L_port53/status/2082716458518507540</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: というのも学タブで NextDNS をL2TPに付けて、Wi-Fiの方からDNS送らないようにしてるんだよね でも暗号化してなかったらあんまり意味ないかもとお思い始めた ちなみにプロキシ拡張機能を加えると そのVPNのあとにプロキシがついてDNSが変わります（）</description>
+      <pubDate>Thu, 30 Jul 2026 06:34:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2082716458518507540</guid>
+    </item>
+    <item>
       <title>@melponn 広告ブロック自体が目的じゃないけど、 NextDNS でまぁまぁ解決してるw</title>
       <link>https://x.com/voluntas/status/2081913069295530072</link>
       <description>V: @melponn 広告ブロック自体が目的じゃないけど、 NextDNS でまぁまぁ解決してるw</description>
@@ -269,13 +276,6 @@
       <description>みやこ: 今の広告ってそんな酷いのか NextDNS で広告消去、おすすめです</description>
       <pubDate>Thu, 16 Jul 2026 08:36:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MiyacoZero/status/2077673746970927505</guid>
-    </item>
-    <item>
-      <title>MacBook Airが起動時にWifiが接続できなかった原因、Adguard DNSwoAdguardのアプリでオンにしていたことの可能性が高そう。 NextDNS に移行したら消えたので</title>
-      <link>https://x.com/wn_n/status/2077267450052444252</link>
-      <description>wn: MacBook Airが起動時にWifiが接続できなかった原因、Adguard DNSwoAdguardのアプリでオンにしていたことの可能性が高そう。 NextDNS に移行したら消えたので</description>
-      <pubDate>Wed, 15 Jul 2026 05:42:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wn_n/status/2077267450052444252</guid>
     </item>
   </channel>
 </rss>
