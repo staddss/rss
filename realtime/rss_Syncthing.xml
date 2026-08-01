@@ -250,20 +250,6 @@
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2072862760225132885</guid>
     </item>
     <item>
-      <title>【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</title>
-      <link>https://x.com/karaage0703/status/2072636593920475271</link>
-      <description>からあげ: 【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</description>
-      <pubDate>Thu, 02 Jul 2026 11:00:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/karaage0703/status/2072636593920475271</guid>
-    </item>
-    <item>
-      <title>Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</title>
-      <link>https://x.com/yamagu09/status/2072628247817568524</link>
-      <description>やまぐちだいすけ ％ 足元にはご注意を: Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</description>
-      <pubDate>Thu, 02 Jul 2026 10:27:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamagu09/status/2072628247817568524</guid>
-    </item>
-    <item>
       <title>Syncthing 、要はマルチプラットフォームかつ、P2Pで直接他のマシンのフォルダ同期を行うOSSで、常時稼働のストレージサーバ生やせば容量無限のDropboxみたいな使い方が出来る。 初期設定だと、P2P接続が確立できなければ公式/有志で公開されてるリレーサーバ経由で転送を行ったりNAT越えの支援もある</title>
       <link>https://x.com/Ranas_Genoa/status/1605510211623591937</link>
       <description>げのあ: Syncthing 、要はマルチプラットフォームかつ、P2Pで直接他のマシンのフォルダ同期を行うOSSで、常時稼働のストレージサーバ生やせば容量無限のDropboxみたいな使い方が出来る。 初期設定だと、P2P接続が確立できなければ公式/有志で公開されてるリレーサーバ経由で転送を行ったりNAT越えの支援もある</description>

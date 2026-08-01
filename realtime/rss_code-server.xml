@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>出先でも開発を継続したいけどノートPC持ってないしなぁ、と思ったがTailscale + RustDeskで自宅PC遠隔操作するか、Visual Studio Code + code - server でSafariからVS Codeを開くか もちろん理想はAIに「全部やっといて」ではあるが😌(そんな金はない)</title>
+      <link>https://x.com/nayoreco/status/2083353560650338695</link>
+      <description>なよ: 出先でも開発を継続したいけどノートPC持ってないしなぁ、と思ったがTailscale + RustDeskで自宅PC遠隔操作するか、Visual Studio Code + code - server でSafariからVS Codeを開くか もちろん理想はAIに「全部やっといて」ではあるが😌(そんな金はない)</description>
+      <pubDate>Sat, 01 Aug 2026 00:46:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nayoreco/status/2083353560650338695</guid>
+    </item>
+    <item>
       <title>@bio4eta_ 思い計算でWSLのCPU食いつくされる ↓ VS Code Server にCPU回ってこなくてheartbeat の返事遅れる ↓ Windows側が「あ、コイツ死んだな」と勘違いして再接続トリガー</title>
       <link>https://x.com/YYYYYul1/status/2082311194594144409</link>
       <description>いのりのおにぎり: @bio4eta_ 思い計算でWSLのCPU食いつくされる ↓ VS Code Server にCPU回ってこなくてheartbeat の返事遅れる ↓ Windows側が「あ、コイツ死んだな」と勘違いして再接続トリガー</description>
