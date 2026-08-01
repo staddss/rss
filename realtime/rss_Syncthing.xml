@@ -250,18 +250,18 @@
       <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2072862760225132885</guid>
     </item>
     <item>
+      <title>【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</title>
+      <link>https://x.com/karaage0703/status/2072636593920475271</link>
+      <description>からあげ: 【#からあげ帝国放送局 120】 Syncthing から考える「同期」と「バックアップ」の違い Syncthing でサーバーとローカルPCを同期するようにした話から、同期とバックアップの違いを掘り下げます。 https://t.co/Mr2CO51oFP</description>
+      <pubDate>Thu, 02 Jul 2026 11:00:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/karaage0703/status/2072636593920475271</guid>
+    </item>
+    <item>
       <title>Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</title>
       <link>https://x.com/yamagu09/status/2072628247817568524</link>
       <description>やまぐちだいすけ ％ 足元にはご注意を: Obsidianのディレクトリを syncthing で同期してたらclaudianのセッション情報とかも同期されちゃって、問題を起こしてたらしい。厄介な。</description>
       <pubDate>Thu, 02 Jul 2026 10:27:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yamagu09/status/2072628247817568524</guid>
-    </item>
-    <item>
-      <title>@daemon_hand 自宅サーバーからquartzでスマホ配信、いいですね。自分は書いた瞬間の検索インデックスを外でも走らせたくて、 Syncthing でNASに投げてCloudflare</title>
-      <link>https://x.com/simplememofast/status/2072509038500491730</link>
-      <description>Obsidian連携シンプルメモ: @daemon_hand 自宅サーバーからquartzでスマホ配信、いいですね。自分は書いた瞬間の検索インデックスを外でも走らせたくて、 Syncthing でNASに投げてCloudflare</description>
-      <pubDate>Thu, 02 Jul 2026 02:33:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/simplememofast/status/2072509038500491730</guid>
     </item>
     <item>
       <title>Raspberry Piで動かすサービスの入口として、 Syncthing はかなり分かりやすいです。 できることはシンプルです。 PC、スマホ、ラズパイの間で、 指定したフォルダを同期できます。 使いどころは3つ。 ① 作業メモを複数端末で見る ② 実験ログをPCへ集める ③ 写真や設定ファイルを手元で整理する https://t.co/2MneR2LkvR</title>

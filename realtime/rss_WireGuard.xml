@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ガストのフリーWiFiでCloudFlare Oneが繋がらない問題に長年悩まされていたが、 WireGuard -&gt; MASQUEへプロトコルを変更して繋がるようになった。</title>
+      <link>https://x.com/tabimoba/status/2083371056451170757</link>
+      <description>tabimoba: ガストのフリーWiFiでCloudFlare Oneが繋がらない問題に長年悩まされていたが、 WireGuard -&gt; MASQUEへプロトコルを変更して繋がるようになった。</description>
+      <pubDate>Sat, 01 Aug 2026 01:55:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tabimoba/status/2083371056451170757</guid>
+    </item>
+    <item>
+      <title>QNAP機能での WireGuard 実装にこないだ失敗したから、別個にVPNサーバー機器を繋ぐ方向でやってみようかな･･･🤔 https://t.co/LbVr3jPR8B</title>
+      <link>https://x.com/mahatarukaja/status/2083330317226852852</link>
+      <description>TARUKAJA: QNAP機能での WireGuard 実装にこないだ失敗したから、別個にVPNサーバー機器を繋ぐ方向でやってみようかな･･･🤔 https://t.co/LbVr3jPR8B</description>
+      <pubDate>Fri, 31 Jul 2026 23:13:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mahatarukaja/status/2083330317226852852</guid>
+    </item>
+    <item>
+      <title>VPNをつなぐと動画がカクつく…で困っていませんか？ 対策は4つ。①プロトコルを WireGuard 系に②近いサーバーを選ぶ③有線接続④夜のピークを避ける。これだけで速度低下の多くは防げます👇 https://t.co/tRIEyj0ZhE</title>
+      <link>https://x.com/techotakulab/status/2083320350360687098</link>
+      <description>テコタク-techotakulab: VPNをつなぐと動画がカクつく…で困っていませんか？ 対策は4つ。①プロトコルを WireGuard 系に②近いサーバーを選ぶ③有線接続④夜のピークを避ける。これだけで速度低下の多くは防げます👇 https://t.co/tRIEyj0ZhE</description>
+      <pubDate>Fri, 31 Jul 2026 22:34:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techotakulab/status/2083320350360687098</guid>
+    </item>
+    <item>
       <title>完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</title>
       <link>https://x.com/vorotamoroz/status/2083185742613020879</link>
       <description>vorotamoroz aka きみのぶ: 完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</description>
@@ -201,13 +222,6 @@
       <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2081610348461699152</guid>
     </item>
     <item>
-      <title>アルテリア・ネットワークスのシステムを使ってる快活クラブはUDPを1Mbpsに制限しているの？( WireGuard だと遅い）</title>
-      <link>https://x.com/softb_sin/status/2081412471446012104</link>
-      <description>しん＠「庭屋一如」: アルテリア・ネットワークスのシステムを使ってる快活クラブはUDPを1Mbpsに制限しているの？( WireGuard だと遅い）</description>
-      <pubDate>Sun, 26 Jul 2026 16:12:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/softb_sin/status/2081412471446012104</guid>
-    </item>
-    <item>
       <title>面白そうだが良い値段だった。 👀 GL.iNet Slate 7 Pro（GL-BE10000）トリバンドWi-Fi 7 トラベルルーター – 6GHz/5.7Gbps、MLO対応、2.8型タッチスクリーン、1.1Gbps WireGuard VPN、DPIセキュリティ、デュアル2.5Gポート＋Mwan3、OpenWrt搭載 https://t.co/rSqbdiX4sU</title>
       <link>https://x.com/s_ryuuki/status/2081287655678197924</link>
       <description>NAMIKI: 面白そうだが良い値段だった。 👀 GL.iNet Slate 7 Pro（GL-BE10000）トリバンドWi-Fi 7 トラベルルーター – 6GHz/5.7Gbps、MLO対応、2.8型タッチスクリーン、1.1Gbps WireGuard VPN、DPIセキュリティ、デュアル2.5Gポート＋Mwan3、OpenWrt搭載 https://t.co/rSqbdiX4sU</description>
@@ -262,20 +276,6 @@
       <description>つここ: まだ wireguard 上手くできません。本当に何故壊れたのか</description>
       <pubDate>Thu, 23 Jul 2026 13:17:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/twkoko844/status/2080281166570226161</guid>
-    </item>
-    <item>
-      <title>自治体側の運用想定は PC起動 ↓ WireGuard サービス起動 ↓ VPSへVPN接続 ↓ 利用者ログイン ↓ ブラウザ利用 ↓ 利用者ログアウト ↓ ユーザープロファイル削除 ↓ WireGuard 接続は維持 紛失時のリモート対策は要検討</title>
-      <link>https://x.com/ponsllc/status/2080257664798577044</link>
-      <description>羽鳥達郎@合同会社pons: 自治体側の運用想定は PC起動 ↓ WireGuard サービス起動 ↓ VPSへVPN接続 ↓ 利用者ログイン ↓ ブラウザ利用 ↓ 利用者ログアウト ↓ ユーザープロファイル削除 ↓ WireGuard 接続は維持 紛失時のリモート対策は要検討</description>
-      <pubDate>Thu, 23 Jul 2026 11:44:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ponsllc/status/2080257664798577044</guid>
-    </item>
-    <item>
-      <title>誰か wireguard 使った固定IP提供サービスやってくれませんかねぇ… めっちゃ売れると思います 固定IP接続サービス 調達仕様書（案） 第1章 調達の目的 1.1 背景</title>
-      <link>https://x.com/ponsllc/status/2080254461595853075</link>
-      <description>羽鳥達郎@合同会社pons: 誰か wireguard 使った固定IP提供サービスやってくれませんかねぇ… めっちゃ売れると思います 固定IP接続サービス 調達仕様書（案） 第1章 調達の目的 1.1 背景</description>
-      <pubDate>Thu, 23 Jul 2026 11:31:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ponsllc/status/2080254461595853075</guid>
     </item>
   </channel>
 </rss>
