@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://x.com/K8ZfwpTPT140520/status/2083241686285840774</guid>
     </item>
     <item>
+      <title>なんか、Chromebook というか ChromeOS 150.0.7871.213 にしてから、ウィンドウを分割表示しているときに、アクティブにしているウィンドウとは逆のウィンドウを操作しようとすると、ブックマークバーやページのクリックが効かないことが増えた。気がする</title>
+      <link>https://x.com/Helen_Tech/status/2083215171301060613</link>
+      <description>おむらまさひで(HelenTech): なんか、Chromebook というか ChromeOS 150.0.7871.213 にしてから、ウィンドウを分割表示しているときに、アクティブにしているウィンドウとは逆のウィンドウを操作しようとすると、ブックマークバーやページのクリックが効かないことが増えた。気がする</description>
+      <pubDate>Fri, 31 Jul 2026 15:36:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2083215171301060613</guid>
+    </item>
+    <item>
       <title>なんか、Chromebook というか ChromeOS 150.0.7871.213 にしてから、ウィンドウを分割表示しているときに、アクティブにしているタブとは逆のタブを操作しようとすると、ブックマークバーやページのクリックが効かないことが増えた。気がする</title>
       <link>https://x.com/Helen_Tech/status/2083215086244814968</link>
       <description>おむらまさひで(HelenTech): なんか、Chromebook というか ChromeOS 150.0.7871.213 にしてから、ウィンドウを分割表示しているときに、アクティブにしているタブとは逆のタブを操作しようとすると、ブックマークバーやページのクリックが効かないことが増えた。気がする</description>
@@ -269,13 +276,6 @@
       <description>おむらまさひで(HelenTech): Chromebook / ChromeOS 150.0.7871.150 で Google Play ストアが消える、という報告があった。 消えたようには見えないけども、影響が出た人いる？ 管理対象デバイスなのかどうかは分からない。 https://t.co/c9HChQdn6G #chromebook #googlebook</description>
       <pubDate>Tue, 28 Jul 2026 03:22:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2081943245601587286</guid>
-    </item>
-    <item>
-      <title>Chromebook / ChromeOS 150.0.7871.185 で、U+02C8 (修飾文字の縦線) が次の文字と誤って結合/重複する、という報告。 https://t.co/ZxefOQuQ6H #chromebook # chromeos https://t.co/GYvuIkPpXe</title>
-      <link>https://x.com/Helen_Tech/status/2081942514903474496</link>
-      <description>おむらまさひで(HelenTech): Chromebook / ChromeOS 150.0.7871.185 で、U+02C8 (修飾文字の縦線) が次の文字と誤って結合/重複する、という報告。 https://t.co/ZxefOQuQ6H #chromebook # chromeos https://t.co/GYvuIkPpXe</description>
-      <pubDate>Tue, 28 Jul 2026 03:19:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2081942514903474496</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ずっと前は最低二週間ログを保持する筑波VのL2TPで全く暗号化がなかった馬鹿ですどうも（） んでその次は拡張機能プロキシオンリー（ 今は Wireguard 就いたから結構良くなったよね..</title>
+      <link>https://x.com/L_port53/status/2083503245373190312</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: ずっと前は最低二週間ログを保持する筑波VのL2TPで全く暗号化がなかった馬鹿ですどうも（） んでその次は拡張機能プロキシオンリー（ 今は Wireguard 就いたから結構良くなったよね..</description>
+      <pubDate>Sat, 01 Aug 2026 10:40:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2083503245373190312</guid>
+    </item>
+    <item>
+      <title>他に何必要？ WireGuard て一応途中でネットワーク監視されないようにはしたけど、、</title>
+      <link>https://x.com/L_port53/status/2083493989303382286</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: 他に何必要？ WireGuard て一応途中でネットワーク監視されないようにはしたけど、、</description>
+      <pubDate>Sat, 01 Aug 2026 10:04:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2083493989303382286</guid>
+    </item>
+    <item>
+      <title>学タブをとりあえず Wi-FiのDNSは消せるものはすべて0.0.0.0に置き換える Wireguard を接続 Wireguard のDNSにNextDNSとサブで1.1.1.2を割り当て 規制突破を必要としない場合は拡張機能プロキシも追加してブラウザはマルチホップ (可能であればWi-FiとVPNの間にSOCKS5またはHTTPS, HTTPプロキシが欲しい)</title>
+      <link>https://x.com/L_port53/status/2083493669340938396</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: 学タブをとりあえず Wi-FiのDNSは消せるものはすべて0.0.0.0に置き換える Wireguard を接続 Wireguard のDNSにNextDNSとサブで1.1.1.2を割り当て 規制突破を必要としない場合は拡張機能プロキシも追加してブラウザはマルチホップ (可能であればWi-FiとVPNの間にSOCKS5またはHTTPS, HTTPプロキシが欲しい)</description>
+      <pubDate>Sat, 01 Aug 2026 10:02:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2083493669340938396</guid>
+    </item>
+    <item>
+      <title>できた～ 中古のDynabookでサーバーを動かし、Oracle Cloudから受け取った通信を WireGuard でDynabookへ中継し……という形 https://t.co/MjLy0Aq5gc</title>
+      <link>https://x.com/epEAUAekqt79043/status/2083485463122513983</link>
+      <description>末​⁠͏⁠⁠端​⁠͏⁠⁠消​⁠͏⁠⁠費​⁠͏⁠⁠者: できた～ 中古のDynabookでサーバーを動かし、Oracle Cloudから受け取った通信を WireGuard でDynabookへ中継し……という形 https://t.co/MjLy0Aq5gc</description>
+      <pubDate>Sat, 01 Aug 2026 09:30:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/epEAUAekqt79043/status/2083485463122513983</guid>
+    </item>
+    <item>
+      <title>購入したトラベルルーターのセットアップ中。 wireguard 準備しないと</title>
+      <link>https://x.com/ria_uv/status/2083453686349742356</link>
+      <description>uv_melo_ria: 購入したトラベルルーターのセットアップ中。 wireguard 準備しないと</description>
+      <pubDate>Sat, 01 Aug 2026 07:24:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ria_uv/status/2083453686349742356</guid>
+    </item>
+    <item>
       <title>ガストのフリーWiFiでCloudFlare Oneが繋がらない問題に長年悩まされていたが、 WireGuard -&gt; MASQUEへプロトコルを変更して繋がるようになった。</title>
       <link>https://x.com/tabimoba/status/2083371056451170757</link>
       <description>tabimoba: ガストのフリーWiFiでCloudFlare Oneが繋がらない問題に長年悩まされていたが、 WireGuard -&gt; MASQUEへプロトコルを変更して繋がるようになった。</description>
@@ -241,41 +276,6 @@
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @wat123c1c 多分自動割り当てだろうし wireguard なのかすら分からん</description>
       <pubDate>Sun, 26 Jul 2026 03:56:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2081227060782240023</guid>
-    </item>
-    <item>
-      <title>【自宅AIサーバーのコツ】 外から使うならポート開放はNG。Tailscaleや WireGuard のVPN経由が鉄則です。 認証なしで推論エンドポイントを公開すると、勝手に使われたり踏み台にされます。VPN＋認証を必ず挿みましょう👇 https://t.co/GI9ycxxYPy</title>
-      <link>https://x.com/techotakulab/status/2081213972208812458</link>
-      <description>テコタク-techotakulab: 【自宅AIサーバーのコツ】 外から使うならポート開放はNG。Tailscaleや WireGuard のVPN経由が鉄則です。 認証なしで推論エンドポイントを公開すると、勝手に使われたり踏み台にされます。VPN＋認証を必ず挿みましょう👇 https://t.co/GI9ycxxYPy</description>
-      <pubDate>Sun, 26 Jul 2026 03:04:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techotakulab/status/2081213972208812458</guid>
-    </item>
-    <item>
-      <title>中国から日本のVPNサーバーに接続するには、どのVPN方式が安定しているか？ SoftEther、Shadowsocks、 WireGuard 、OPENVPN、IKEv2等 Chatgptの回答⇩ https://t.co/HZmA4ij6HM</title>
-      <link>https://x.com/taniyan1215/status/2080842467696599418</link>
-      <description>ぐ～さん🇯🇵 @粒あん党: 中国から日本のVPNサーバーに接続するには、どのVPN方式が安定しているか？ SoftEther、Shadowsocks、 WireGuard 、OPENVPN、IKEv2等 Chatgptの回答⇩ https://t.co/HZmA4ij6HM</description>
-      <pubDate>Sat, 25 Jul 2026 02:27:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taniyan1215/status/2080842467696599418</guid>
-    </item>
-    <item>
-      <title>【Amazon人気商品】＜口コミ数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 📂パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #ad https://t.co/PoRvHjpB8E</title>
-      <link>https://x.com/9mazgadget03/status/2080642907535519798</link>
-      <description>スイッチングハブや内蔵メモリカードリーダーの注目集: 【Amazon人気商品】＜口コミ数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 📂パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #ad https://t.co/PoRvHjpB8E</description>
-      <pubDate>Fri, 24 Jul 2026 13:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/9mazgadget03/status/2080642907535519798</guid>
-    </item>
-    <item>
-      <title>【アマゾン人気商品】＜レビュー数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 📁パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #広告 https://t.co/FFswaLzuRo</title>
-      <link>https://x.com/8ongadget01/status/2080461713229730170</link>
-      <description>ゲーミングキーボードやスマホアクセの注目一覧: 【アマゾン人気商品】＜レビュー数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 📁パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #広告 https://t.co/FFswaLzuRo</description>
-      <pubDate>Fri, 24 Jul 2026 01:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8ongadget01/status/2080461713229730170</guid>
-    </item>
-    <item>
-      <title>まだ wireguard 上手くできません。本当に何故壊れたのか</title>
-      <link>https://x.com/twkoko844/status/2080281166570226161</link>
-      <description>つここ: まだ wireguard 上手くできません。本当に何故壊れたのか</description>
-      <pubDate>Thu, 23 Jul 2026 13:17:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/twkoko844/status/2080281166570226161</guid>
     </item>
   </channel>
 </rss>

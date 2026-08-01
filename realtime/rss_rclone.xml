@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</title>
+      <link>https://x.com/ht164/status/2083281009622282411</link>
+      <description>ht164: 家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</description>
+      <pubDate>Fri, 31 Jul 2026 19:57:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ht164/status/2083281009622282411</guid>
+    </item>
+    <item>
       <title>Proton Driveと rclone のチューニングはできた 初回読み込みが遅いのはまぁ仕方がない。</title>
       <link>https://x.com/sophia4172/status/2082465749160116268</link>
       <description>セリ科: Proton Driveと rclone のチューニングはできた 初回読み込みが遅いのはまぁ仕方がない。</description>
@@ -269,13 +276,6 @@
       <description>つみかさね: Rclone ・IBM Langflow・Apache Tomcat利用者は影響バージョンの確認とアップデートを推奨。あなたの環境に該当するプロダクトはありますか？ #セキュリティ #CVE #脆弱性 https://t.co/Zm5n866Rmn</description>
       <pubDate>Sat, 04 Jul 2026 05:21:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2073276026495611127</guid>
-    </item>
-    <item>
-      <title>認証なしでOSコマンドが実行できる状態 — Rclone 1.74.3未満のrcdサーバー（CVSS 9.8）とIBM Langflow（CVSS 9.9）でRCEが確認。Apache Tomcat 2件のCriticalも同日公開。</title>
-      <link>https://x.com/tsumikasanedev/status/2073276025254093027</link>
-      <description>つみかさね: 認証なしでOSコマンドが実行できる状態 — Rclone 1.74.3未満のrcdサーバー（CVSS 9.8）とIBM Langflow（CVSS 9.9）でRCEが確認。Apache Tomcat 2件のCriticalも同日公開。</description>
-      <pubDate>Sat, 04 Jul 2026 05:21:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2073276025254093027</guid>
     </item>
   </channel>
 </rss>
