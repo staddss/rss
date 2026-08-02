@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone +Flyleaf+FFmpeg+DirectX ('ω')ﾋﾟｷｨｰﾝ</title>
+      <link>https://x.com/GadgEndosan/status/2083467319637090307</link>
+      <description>金だけが欲しいK: rclone +Flyleaf+FFmpeg+DirectX ('ω')ﾋﾟｷｨｰﾝ</description>
+      <pubDate>Sat, 01 Aug 2026 08:18:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GadgEndosan/status/2083467319637090307</guid>
+    </item>
+    <item>
       <title>家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</title>
       <link>https://x.com/ht164/status/2083281009622282411</link>
       <description>ht164: 家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</description>
@@ -269,13 +276,6 @@
       <description>Saito Go: Cloudflare R2からBlackblaze B2に rclone を使って定期バックアップをするDocker Composeを作った。 https://t.co/V9WlHBpkM6</description>
       <pubDate>Sat, 04 Jul 2026 17:20:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/saitogo555/status/2073456937019289615</guid>
-    </item>
-    <item>
-      <title>Rclone ・IBM Langflow・Apache Tomcat利用者は影響バージョンの確認とアップデートを推奨。あなたの環境に該当するプロダクトはありますか？ #セキュリティ #CVE #脆弱性 https://t.co/Zm5n866Rmn</title>
-      <link>https://x.com/tsumikasanedev/status/2073276026495611127</link>
-      <description>つみかさね: Rclone ・IBM Langflow・Apache Tomcat利用者は影響バージョンの確認とアップデートを推奨。あなたの環境に該当するプロダクトはありますか？ #セキュリティ #CVE #脆弱性 https://t.co/Zm5n866Rmn</description>
-      <pubDate>Sat, 04 Jul 2026 05:21:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2073276026495611127</guid>
     </item>
   </channel>
 </rss>
