@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard 設定完了。ついでにスマホのusbデザリングも動作確認完了。これな引っ越し時も怖くないね。 Tailerscale 使えばvpnいけるわね</title>
+      <link>https://x.com/ria_uv/status/2083924043129061650</link>
+      <description>uv_melo_ria: Wireguard 設定完了。ついでにスマホのusbデザリングも動作確認完了。これな引っ越し時も怖くないね。 Tailerscale 使えばvpnいけるわね</description>
+      <pubDate>Sun, 02 Aug 2026 14:33:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ria_uv/status/2083924043129061650</guid>
+    </item>
+    <item>
+      <title>GL.iNet GL-MT3000 (Beryl AX)用の WireGuard のアカウントを自宅サーバに作成しないと…</title>
+      <link>https://x.com/ria_uv/status/2083881939434717369</link>
+      <description>uv_melo_ria: GL.iNet GL-MT3000 (Beryl AX)用の WireGuard のアカウントを自宅サーバに作成しないと…</description>
+      <pubDate>Sun, 02 Aug 2026 11:45:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ria_uv/status/2083881939434717369</guid>
+    </item>
+    <item>
+      <title>本当はモバイルルータに WireGuard の設定を仕込むはずだったのに、。どうしてこんなめんどくさいことに。</title>
+      <link>https://x.com/ria_uv/status/2083878506589766094</link>
+      <description>uv_melo_ria: 本当はモバイルルータに WireGuard の設定を仕込むはずだったのに、。どうしてこんなめんどくさいことに。</description>
+      <pubDate>Sun, 02 Aug 2026 11:32:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ria_uv/status/2083878506589766094</guid>
+    </item>
+    <item>
       <title>ChromeOSの WireGuard 実装がカスな可能性が高い</title>
       <link>https://x.com/akku1139/status/2083778730946871348</link>
       <description>-akku-: ChromeOSの WireGuard 実装がカスな可能性が高い</description>
@@ -87,6 +108,13 @@
       <description>vorotamoroz aka きみのぶ: 完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</description>
       <pubDate>Fri, 31 Jul 2026 13:39:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/vorotamoroz/status/2083185742613020879</guid>
+    </item>
+    <item>
+      <title>勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</title>
+      <link>https://x.com/connect24h/status/2083147442715828606</link>
+      <description>connect24h: 勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</description>
+      <pubDate>Fri, 31 Jul 2026 11:07:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/connect24h/status/2083147442715828606</guid>
     </item>
     <item>
       <title>Wireguard でなんかなってるんかな ちなみに管理画面からだと正常な速度でダウンロードできる</title>
@@ -248,34 +276,6 @@
       <description>山田かつてない技術部: おー。MAP-EとPPPoEの契約してて穴あけしてるしテーブル作ってネットワーク分けるなんて逸般の誤家庭みたいな環境にしてるんだけど、ルーター内で動いてるAIに相談しながら構築したら WireGuard をルーターに仕込めたぞ。結構すごいなこれ https://t.co/cejwc2KxZR</description>
       <pubDate>Tue, 28 Jul 2026 07:27:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Digital_Core/status/2082004943830126618</guid>
-    </item>
-    <item>
-      <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard 等のVPNを建てないといけなくなるから、ちゃんと下調べしよう。</title>
-      <link>https://x.com/DIGIUSAGI/status/2081827660788076744</link>
-      <description>コレサワシゲユキ／でこうさぎ: 無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard 等のVPNを建てないといけなくなるから、ちゃんと下調べしよう。</description>
-      <pubDate>Mon, 27 Jul 2026 19:42:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2081827660788076744</guid>
-    </item>
-    <item>
-      <title>無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard のServer建てないといけないとかあるから、ちゃんと下調べしよう。</title>
-      <link>https://x.com/DIGIUSAGI/status/2081827075284164893</link>
-      <description>コレサワシゲユキ／でこうさぎ: 無料で光回線を高速化できるからIPv6 IPoE方式に切り替えて混雑を回避しよう的なネット記事を目にした。 VPNが通らなくなることが多いのでリモートワークしてる人は安易に切り替えたらダメ！ 会社側に WireGuard のServer建てないといけないとかあるから、ちゃんと下調べしよう。</description>
-      <pubDate>Mon, 27 Jul 2026 19:40:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DIGIUSAGI/status/2081827075284164893</guid>
-    </item>
-    <item>
-      <title>GitHub Trending 2位。Amnezia VPNは独自のVPNサーバーを簡単に構築できるオープンソースクライアントです。OpenVPNや WireGuard に加え、トラフィックを隠蔽する各種プロトコルやスプリットトンネリングに対応しています。 https://t.co/xJTz9ap0Mf</title>
-      <link>https://x.com/github_trendjp/status/2081725970927730898</link>
-      <description>Githubトレンド: GitHub Trending 2位。Amnezia VPNは独自のVPNサーバーを簡単に構築できるオープンソースクライアントです。OpenVPNや WireGuard に加え、トラフィックを隠蔽する各種プロトコルやスプリットトンネリングに対応しています。 https://t.co/xJTz9ap0Mf</description>
-      <pubDate>Mon, 27 Jul 2026 12:58:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/github_trendjp/status/2081725970927730898</guid>
-    </item>
-    <item>
-      <title>流石にProton wireguard はつける Mullvadあればそっちがいいけど</title>
-      <link>https://x.com/Tsukiha_404/status/2081610348461699152</link>
-      <description>葉樹: 流石にProton wireguard はつける Mullvadあればそっちがいいけど</description>
-      <pubDate>Mon, 27 Jul 2026 05:19:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2081610348461699152</guid>
     </item>
   </channel>
 </rss>

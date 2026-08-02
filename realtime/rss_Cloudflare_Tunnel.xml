@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@grandpianosn cloudflare tunnel を使っています</title>
+      <link>https://x.com/dumblepytech1/status/2083925072570692048</link>
+      <description>medy.nim 🐍👑 ∞♦️: @grandpianosn cloudflare tunnel を使っています</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dumblepytech1/status/2083925072570692048</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel さいきょう！！ #Xtalk26</title>
+      <link>https://x.com/itojum1230/status/2083822896426913960</link>
+      <description>いとじゅん: Cloudflare Tunnel さいきょう！！ #Xtalk26</description>
+      <pubDate>Sun, 02 Aug 2026 07:51:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/itojum1230/status/2083822896426913960</guid>
+    </item>
+    <item>
       <title>netbird reverse proxy意外と便利かもしれない CNAMEレコード登録したら証明書発行とVPN越しのピアへのルーティングができる 単純なHTTPSなら cloudflare tunnel でいいんだけど、多段ドメインの証明書発行とHTTP(S)以外のTCP/UDPアプリもルーティングできるので割と使い道がある</title>
       <link>https://x.com/kapibara19/status/2083575682395971688</link>
       <description>かぴばら: netbird reverse proxy意外と便利かもしれない CNAMEレコード登録したら証明書発行とVPN越しのピアへのルーティングができる 単純なHTTPSなら cloudflare tunnel でいいんだけど、多段ドメインの証明書発行とHTTP(S)以外のTCP/UDPアプリもルーティングできるので割と使い道がある</description>
@@ -262,20 +276,6 @@
       <description>yuuk1: pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</description>
       <pubDate>Mon, 20 Jul 2026 02:03:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/inarizusi777/status/2079024419784335754</guid>
-    </item>
-    <item>
-      <title>家にサーバもって cloudflare tunnel で公開するだけで QOL あがる</title>
-      <link>https://x.com/XiroGA3/status/2078867938472530187</link>
-      <description>しろがみちゃんーむやみに金を使わない: 家にサーバもって cloudflare tunnel で公開するだけで QOL あがる</description>
-      <pubDate>Sun, 19 Jul 2026 15:41:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/XiroGA3/status/2078867938472530187</guid>
-    </item>
-    <item>
-      <title>VPSを移行してついでにパブリックIPにバインドするのをやめて Cloudflare Tunnel でホストするようにした 管理用のコンソールやSSHはTailscaleで、公開は Cloudflare Tunnel でやることで公開IPアドレスを一切使わず、inboundもすべて拒否した運用にできてる 本当に数年で便利になった</title>
-      <link>https://x.com/__abelia/status/2078719013052698937</link>
-      <description>Abelia: VPSを移行してついでにパブリックIPにバインドするのをやめて Cloudflare Tunnel でホストするようにした 管理用のコンソールやSSHはTailscaleで、公開は Cloudflare Tunnel でやることで公開IPアドレスを一切使わず、inboundもすべて拒否した運用にできてる 本当に数年で便利になった</description>
-      <pubDate>Sun, 19 Jul 2026 05:50:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__abelia/status/2078719013052698937</guid>
     </item>
   </channel>
 </rss>
