@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOSの WireGuard 実装がカスな可能性が高い</title>
+      <link>https://x.com/akku1139/status/2083778730946871348</link>
+      <description>-akku-: ChromeOSの WireGuard 実装がカスな可能性が高い</description>
+      <pubDate>Sun, 02 Aug 2026 04:55:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akku1139/status/2083778730946871348</guid>
+    </item>
+    <item>
+      <title>オンプレでAD建てると外出先でwindowsログインできんくなるんよなぁ。タスクスケジューラーで wireguard をローカルアカウントで起動させるっていうのもあるけどなんか美しくないんだよな。専用回線引っ張るしか方法ないのかなぁ？</title>
+      <link>https://x.com/tatsumi_dora/status/2083706918783381938</link>
+      <description>ドラ/ Dora: オンプレでAD建てると外出先でwindowsログインできんくなるんよなぁ。タスクスケジューラーで wireguard をローカルアカウントで起動させるっていうのもあるけどなんか美しくないんだよな。専用回線引っ張るしか方法ないのかなぁ？</description>
+      <pubDate>Sun, 02 Aug 2026 00:10:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tatsumi_dora/status/2083706918783381938</guid>
+    </item>
+    <item>
+      <title>2026年夏のノマド装備（ゼロトラスト・ポータブルセキュリティ）：パスワード認証を完全廃止し物理タッチで乗っ取りを遮断する「YubiKey 5C NFC」や、通信を軍事級に暗号化する「 WireGuard VPN内蔵の極小ポータブルWi-Fi 7ルーター」</title>
+      <link>https://x.com/Nomad_Movement/status/2083694480889422315</link>
+      <description>Nomad Movement: 2026年夏のノマド装備（ゼロトラスト・ポータブルセキュリティ）：パスワード認証を完全廃止し物理タッチで乗っ取りを遮断する「YubiKey 5C NFC」や、通信を軍事級に暗号化する「 WireGuard VPN内蔵の極小ポータブルWi-Fi 7ルーター」</description>
+      <pubDate>Sat, 01 Aug 2026 23:20:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Nomad_Movement/status/2083694480889422315</guid>
+    </item>
+    <item>
       <title>ずっと前は最低二週間ログを保持する筑波VのL2TPで全く暗号化がなかった馬鹿ですどうも（） んでその次は拡張機能プロキシオンリー（ 今は Wireguard 就いたから結構良くなったよね..</title>
       <link>https://x.com/L_port53/status/2083503245373190312</link>
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: ずっと前は最低二週間ログを保持する筑波VのL2TPで全く暗号化がなかった馬鹿ですどうも（） んでその次は拡張機能プロキシオンリー（ 今は Wireguard 就いたから結構良くなったよね..</description>
@@ -255,27 +276,6 @@
       <description>葉樹: 流石にProton wireguard はつける Mullvadあればそっちがいいけど</description>
       <pubDate>Mon, 27 Jul 2026 05:19:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2081610348461699152</guid>
-    </item>
-    <item>
-      <title>面白そうだが良い値段だった。 👀 GL.iNet Slate 7 Pro（GL-BE10000）トリバンドWi-Fi 7 トラベルルーター – 6GHz/5.7Gbps、MLO対応、2.8型タッチスクリーン、1.1Gbps WireGuard VPN、DPIセキュリティ、デュアル2.5Gポート＋Mwan3、OpenWrt搭載 https://t.co/rSqbdiX4sU</title>
-      <link>https://x.com/s_ryuuki/status/2081287655678197924</link>
-      <description>NAMIKI: 面白そうだが良い値段だった。 👀 GL.iNet Slate 7 Pro（GL-BE10000）トリバンドWi-Fi 7 トラベルルーター – 6GHz/5.7Gbps、MLO対応、2.8型タッチスクリーン、1.1Gbps WireGuard VPN、DPIセキュリティ、デュアル2.5Gポート＋Mwan3、OpenWrt搭載 https://t.co/rSqbdiX4sU</description>
-      <pubDate>Sun, 26 Jul 2026 07:57:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/s_ryuuki/status/2081287655678197924</guid>
-    </item>
-    <item>
-      <title>@wat123c1c 純正かどうか確認する方法ってある? wireguard 組み立てみたけど サーバIPもMullvadにしたし</title>
-      <link>https://x.com/L_port53/status/2081229202817462684</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @wat123c1c 純正かどうか確認する方法ってある? wireguard 組み立てみたけど サーバIPもMullvadにしたし</description>
-      <pubDate>Sun, 26 Jul 2026 04:04:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2081229202817462684</guid>
-    </item>
-    <item>
-      <title>@wat123c1c 多分自動割り当てだろうし wireguard なのかすら分からん</title>
-      <link>https://x.com/L_port53/status/2081227060782240023</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @wat123c1c 多分自動割り当てだろうし wireguard なのかすら分からん</description>
-      <pubDate>Sun, 26 Jul 2026 03:56:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2081227060782240023</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>直ったわ。 chrome :// flags に入ってChoose ANGLE graphics backendを検索。 ここがD3D11WARPになってた。D3D11固定してたはずなんやけどね。 D3D11or12かD3D11固定にしてた方がいいかも。 WARPだとCPUのみになるんで跳ねた理由も納得だわ</title>
+      <link>https://x.com/unata_izumiya/status/2083533024319398145</link>
+      <description>泉宮雨南(うなん)@PSO2NGS勢: 直ったわ。 chrome :// flags に入ってChoose ANGLE graphics backendを検索。 ここがD3D11WARPになってた。D3D11固定してたはずなんやけどね。 D3D11or12かD3D11固定にしてた方がいいかも。 WARPだとCPUのみになるんで跳ねた理由も納得だわ</description>
+      <pubDate>Sat, 01 Aug 2026 12:39:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/unata_izumiya/status/2083533024319398145</guid>
+    </item>
+    <item>
       <title>「Chrome右クリック『Geminiに相談』を消す方法」 対象：Gemini in Chrome（Glic）の追加項目 手順 ① chrome :// flags ② 検索欄に glic ③ Glicの項目を探す ④ Default→Disabled ⑤ Chrome再起動 ※chrome://settings/ai の設定変更では「Geminiに相談」は消えませんでした</title>
       <link>https://x.com/my_chan_1919/status/2083483644505755943</link>
       <description>Royalanthem_2008: 「Chrome右クリック『Geminiに相談』を消す方法」 対象：Gemini in Chrome（Glic）の追加項目 手順 ① chrome :// flags ② 検索欄に glic ③ Glicの項目を探す ④ Default→Disabled ⑤ Chrome再起動 ※chrome://settings/ai の設定変更では「Geminiに相談」は消えませんでした</description>

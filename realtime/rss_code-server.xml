@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>#PagesWiki 開発 code - server とvim.wasmを実装に入れて、ルーティングした。native appの実装はchrome拡張でいくか、local bridge用のtoolsetを用意するか。 https://t.co/zSk2ijcfZ7</title>
+      <link>https://x.com/anya_tokugawa/status/2083631898589544685</link>
+      <description>anya: #PagesWiki 開発 code - server とvim.wasmを実装に入れて、ルーティングした。native appの実装はchrome拡張でいくか、local bridge用のtoolsetを用意するか。 https://t.co/zSk2ijcfZ7</description>
+      <pubDate>Sat, 01 Aug 2026 19:12:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/anya_tokugawa/status/2083631898589544685</guid>
+    </item>
+    <item>
       <title>出先でも開発を継続したいけどノートPC持ってないしなぁ、と思ったがTailscale + RustDeskで自宅PC遠隔操作するか、Visual Studio Code + code - server でSafariからVS Codeを開くか もちろん理想はAIに「全部やっといて」ではあるが😌(そんな金はない)</title>
       <link>https://x.com/nayoreco/status/2083353560650338695</link>
       <description>なよ: 出先でも開発を継続したいけどノートPC持ってないしなぁ、と思ったがTailscale + RustDeskで自宅PC遠隔操作するか、Visual Studio Code + code - server でSafariからVS Codeを開くか もちろん理想はAIに「全部やっといて」ではあるが😌(そんな金はない)</description>
@@ -94,27 +101,6 @@
       <description>hawksnowlog: hawksnowlog: code - server でファイルを開く際に必ず新しいタブで開くようにする方法 https://t.co/gwIgArNrrx</description>
       <pubDate>Mon, 06 Jul 2026 22:35:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hawksnowlog/status/2074261065589022905</guid>
-    </item>
-    <item>
-      <title>cloudflared: image: cloudflare/cloudflared:latest container_name: cloudflared command: tunnel --url http:// code - server :8443 --no-tls-verify restart: unless-stopped これを Code Server のyamlに書いてup -dするだけです。(dockerのログ見るとURLが発行されている)</title>
-      <link>https://x.com/WhaleOnSand/status/2072878378060054804</link>
-      <description>うみの藻屑: cloudflared: image: cloudflare/cloudflared:latest container_name: cloudflared command: tunnel --url http:// code - server :8443 --no-tls-verify restart: unless-stopped これを Code Server のyamlに書いてup -dするだけです。(dockerのログ見るとURLが発行されている)</description>
-      <pubDate>Fri, 03 Jul 2026 03:01:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/WhaleOnSand/status/2072878378060054804</guid>
-    </item>
-    <item>
-      <title>📢TechBlog新着記事の紹介🌟 Amazon EC2 で code - server + Claude Code の開発環境を構築する チームでの設定管理に便利なブラウザ用エディタ環境について、基盤となるインフラ構築からClaude Code 拡張機能の導入までをご紹介します✅ https://t.co/qNJFsIdEJE</title>
-      <link>https://x.com/techorus_inc/status/2072877733462659430</link>
-      <description>NHN テコラス【公式】: 📢TechBlog新着記事の紹介🌟 Amazon EC2 で code - server + Claude Code の開発環境を構築する チームでの設定管理に便利なブラウザ用エディタ環境について、基盤となるインフラ構築からClaude Code 拡張機能の導入までをご紹介します✅ https://t.co/qNJFsIdEJE</description>
-      <pubDate>Fri, 03 Jul 2026 02:58:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techorus_inc/status/2072877733462659430</guid>
-    </item>
-    <item>
-      <title>これでiPadでVSCode風にコーディングできるようになった。拡張機能も使える。 何をしたかって言うと、家のサーバに Code Server を構築。iPadのブラウザでアクセス、ホーム画面に追加するとこんな感じになります。 地味に困ったのがHTTPSにしないとコピペができない。 https://t.co/YO2CewAgik</title>
-      <link>https://x.com/WhaleOnSand/status/2072874502464352724</link>
-      <description>うみの藻屑: これでiPadでVSCode風にコーディングできるようになった。拡張機能も使える。 何をしたかって言うと、家のサーバに Code Server を構築。iPadのブラウザでアクセス、ホーム画面に追加するとこんな感じになります。 地味に困ったのがHTTPSにしないとコピペができない。 https://t.co/YO2CewAgik</description>
-      <pubDate>Fri, 03 Jul 2026 02:46:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/WhaleOnSand/status/2072874502464352724</guid>
     </item>
   </channel>
 </rss>
