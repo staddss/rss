@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>日本語入力は出来なくても、この古いネットブックをエミュ専用機にすることは出来た。 xbps-query -Rs emu にて、いろいろな機種のものが揃っていた。 xbps-install -S にて、すべてぶち込んだら遊べるネットブックに変身。 音も alsa pulseaudio pipewire あたりを結構念入りに入れたので何でも鳴る。</title>
+      <link>https://x.com/CafeZgok/status/2084182451346366671</link>
+      <description>CafeZgok: 日本語入力は出来なくても、この古いネットブックをエミュ専用機にすることは出来た。 xbps-query -Rs emu にて、いろいろな機種のものが揃っていた。 xbps-install -S にて、すべてぶち込んだら遊べるネットブックに変身。 音も alsa pulseaudio pipewire あたりを結構念入りに入れたので何でも鳴る。</description>
+      <pubDate>Mon, 03 Aug 2026 07:39:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CafeZgok/status/2084182451346366671</guid>
+    </item>
+    <item>
       <title>ArchLinux 2026.08.01続き Proxmoxで ArchLinux 2026.08.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.3-Waylandのみ,konsole追加 *2 縮小表示 *3 hyprland.confError *4 pipewire ,--skip-version-check OK〜😅 https://t.co/6QAMhx0uzV</title>
       <link>https://x.com/markun8633/status/2083831098120049131</link>
       <description>まーくん: ArchLinux 2026.08.01続き Proxmoxで ArchLinux 2026.08.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.3-Waylandのみ,konsole追加 *2 縮小表示 *3 hyprland.confError *4 pipewire ,--skip-version-check OK〜😅 https://t.co/6QAMhx0uzV</description>

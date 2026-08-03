@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22crosh%22</link>
     <description>Latest search results for '&quot;crosh&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOSのアップデートが10回以上失敗してたけど crosh からのautestで成功した。何が違うのか知らんけど。</title>
+      <link>https://x.com/llama17/status/2083875996659601490</link>
+      <description>らま: ChromeOSのアップデートが10回以上失敗してたけど crosh からのautestで成功した。何が違うのか知らんけど。</description>
+      <pubDate>Sun, 02 Aug 2026 11:22:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2083875996659601490</guid>
+    </item>
+    <item>
       <title>【ISGCの解除方法】 まず初期化をする セットアップをし、パスワード入力後の「お待ちください」でWi-Fiを切る その状態でログオンすると拡張機能が削除される Crosh を開き、以下のコマンドを実行する。 vmc logs Extensions /home/chronos/user/Extensions 参考Blogbooks library #ISGC</title>
       <link>https://x.com/glass_0916/status/2075219130471604468</link>
       <description>それは草: 【ISGCの解除方法】 まず初期化をする セットアップをし、パスワード入力後の「お待ちください」でWi-Fiを切る その状態でログオンすると拡張機能が削除される Crosh を開き、以下のコマンドを実行する。 vmc logs Extensions /home/chronos/user/Extensions 参考Blogbooks library #ISGC</description>

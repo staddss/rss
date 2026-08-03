@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@riverleaf88 端口映射接 wireguard</title>
+      <link>https://x.com/BooBooCola/status/2084218788657176714</link>
+      <description>BuBu: @riverleaf88 端口映射接 wireguard</description>
+      <pubDate>Mon, 03 Aug 2026 10:04:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BooBooCola/status/2084218788657176714</guid>
+    </item>
+    <item>
+      <title>Wireguard は苦手だけどTailscaleは好き https://t.co/k4s6VM8hRL</title>
+      <link>https://x.com/moguno/status/2084194311001026647</link>
+      <description>もぐの: Wireguard は苦手だけどTailscaleは好き https://t.co/k4s6VM8hRL</description>
+      <pubDate>Mon, 03 Aug 2026 08:27:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2084194311001026647</guid>
+    </item>
+    <item>
+      <title>ChromeOSの組み込みVPNのセットアップヘルパーです！ ちょっと使いづらかったので書きました 雑ですがご自由にどうぞ！ WireGuard 、OpenVPN、L2TP/IPsec 対応です！ #ChromeOS #組み込みのVPN https://t.co/u1zTMbxF16</title>
+      <link>https://x.com/L_port8080/status/2084176560324550890</link>
+      <description>一樹（第二拠点）: ChromeOSの組み込みVPNのセットアップヘルパーです！ ちょっと使いづらかったので書きました 雑ですがご自由にどうぞ！ WireGuard 、OpenVPN、L2TP/IPsec 対応です！ #ChromeOS #組み込みのVPN https://t.co/u1zTMbxF16</description>
+      <pubDate>Mon, 03 Aug 2026 07:16:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2084176560324550890</guid>
+    </item>
+    <item>
       <title>Starlink+OpenWrt IPv6 WireGuard サーバ立てる 記事になんかやべーリファラー来てるなと思ったら警視庁ドメインから見られてるんだけどなにこれ… digしてもなにもレコード引けないし怖すぎるｗ https://t.co/d6hL02dXQA</title>
       <link>https://x.com/haturatutaro/status/2084165070314230263</link>
       <description>ハツラツ太郎: Starlink+OpenWrt IPv6 WireGuard サーバ立てる 記事になんかやべーリファラー来てるなと思ったら警視庁ドメインから見られてるんだけどなにこれ… digしてもなにもレコード引けないし怖すぎるｗ https://t.co/d6hL02dXQA</description>
@@ -255,27 +276,6 @@
       <description>takidem: やっぱ Wireguard にしようかなぁ Tailscale もうあかん</description>
       <pubDate>Thu, 30 Jul 2026 20:42:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/jptakiR813/status/2082929883433599076</guid>
-    </item>
-    <item>
-      <title>ルーターの動作モード変更するのに時間かかったり、 WireGuard の接続が上手くいかなかったりで、参加したかった集会いけなかった；；</title>
-      <link>https://x.com/kemofi_su/status/2082891734099619869</link>
-      <description>けもふぃーす@C107 東ヤ40a 12/30(火) 売り子ﾁｬﾝﾃﾞｽ: ルーターの動作モード変更するのに時間かかったり、 WireGuard の接続が上手くいかなかったりで、参加したかった集会いけなかった；；</description>
-      <pubDate>Thu, 30 Jul 2026 18:11:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kemofi_su/status/2082891734099619869</guid>
-    </item>
-    <item>
-      <title>もしかして wireguard の流儀が気持ち悪いのかな。 https://t.co/0ur0XvtEnL</title>
-      <link>https://x.com/takuya_1st/status/2082873827558916411</link>
-      <description>takuya@osaka(令和最新版): もしかして wireguard の流儀が気持ち悪いのかな。 https://t.co/0ur0XvtEnL</description>
-      <pubDate>Thu, 30 Jul 2026 16:59:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takuya_1st/status/2082873827558916411</guid>
-    </item>
-    <item>
-      <title>@umaiyo_ajiman ChromeBookも一応OpenVPNと Wireguard も選べるんだけどね、何故かうまく接続できない 秘密鍵のハッシュいじったりしないとダメなんかま</title>
-      <link>https://x.com/L_port53/status/2082751639136419944</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @umaiyo_ajiman ChromeBookも一応OpenVPNと Wireguard も選べるんだけどね、何故かうまく接続できない 秘密鍵のハッシュいじったりしないとダメなんかま</description>
-      <pubDate>Thu, 30 Jul 2026 08:54:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2082751639136419944</guid>
     </item>
   </channel>
 </rss>
