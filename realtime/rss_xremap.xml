@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22xremap%22</link>
     <description>Latest search results for '&quot;xremap&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>uConsole … トラックパッドキーボードのコントローラーボタンを有効活用（ xremap ＋fuzzel＋wlogout） 短押し／長押しでの起動アプリ選択もOK。 これで一段と使い勝手が良くなった。 https://t.co/q6OgTkiPCP</title>
+      <link>https://x.com/Ryo3JP/status/2083712568238231845</link>
+      <description>ᒎᖇ੫ᗯᗪᑌ / ᖇƳᗝ🇯🇵: uConsole … トラックパッドキーボードのコントローラーボタンを有効活用（ xremap ＋fuzzel＋wlogout） 短押し／長押しでの起動アプリ選択もOK。 これで一段と使い勝手が良くなった。 https://t.co/q6OgTkiPCP</description>
+      <pubDate>Sun, 02 Aug 2026 00:32:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ryo3JP/status/2083712568238231845</guid>
+    </item>
+    <item>
       <title>evtestを使用していた処理を xremap 使用に変更して、ひとまず意図した通りの機能は実現出来たかな。 まだ細かい調整は必要だけど実用的には十分。</title>
       <link>https://x.com/Ryo3JP/status/2081673797762204059</link>
       <description>ᒎᖇ੫ᗯᗪᑌ / ᖇƳᗝ🇯🇵: evtestを使用していた処理を xremap 使用に変更して、ひとまず意図した通りの機能は実現出来たかな。 まだ細かい調整は必要だけど実用的には十分。</description>
@@ -66,13 +73,6 @@
       <description>すずき@ニセ道民: Omarchy の環境。Wayland環境で日本語より英語配列の方が好きなので、キーを入れ替え。 xremap で空いてるキーにチルダを割り当て。使うかわかんないけどAlt + SPACEにより日本語キー配列に切り替えもできるように設定。 キーボードだけで操作できるよう、もうちょい変更したい。</description>
       <pubDate>Mon, 06 Jul 2026 01:56:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuskesuzki/status/2073949201512472910</guid>
-    </item>
-    <item>
-      <title>そういえば今頃になってWaylandに移行したんだけど、 xremap で割り当てたctrl-h:backspace押下するとGUIアプリ上で単語ごとごっそり削除されちゃう問題が発生するようになってしまった…</title>
-      <link>https://x.com/komamitsu_tw/status/2073224498535641091</link>
-      <description>komamitsu: そういえば今頃になってWaylandに移行したんだけど、 xremap で割り当てたctrl-h:backspace押下するとGUIアプリ上で単語ごとごっそり削除されちゃう問題が発生するようになってしまった…</description>
-      <pubDate>Sat, 04 Jul 2026 01:56:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/komamitsu_tw/status/2073224498535641091</guid>
     </item>
   </channel>
 </rss>

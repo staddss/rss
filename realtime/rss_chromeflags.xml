@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>一応 chrome flags でGlic関連をEnableにしました</title>
+      <link>https://x.com/chakkun1121/status/2083698904005320897</link>
+      <description>chakkun1121 @AI絵巻物プロジェクト: 一応 chrome flags でGlic関連をEnableにしました</description>
+      <pubDate>Sat, 01 Aug 2026 23:38:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chakkun1121/status/2083698904005320897</guid>
+    </item>
+    <item>
       <title>直ったわ。 chrome :// flags に入ってChoose ANGLE graphics backendを検索。 ここがD3D11WARPになってた。D3D11固定してたはずなんやけどね。 D3D11or12かD3D11固定にしてた方がいいかも。 WARPだとCPUのみになるんで跳ねた理由も納得だわ</title>
       <link>https://x.com/unata_izumiya/status/2083533024319398145</link>
       <description>泉宮雨南(うなん)@PSO2NGS勢: 直ったわ。 chrome :// flags に入ってChoose ANGLE graphics backendを検索。 ここがD3D11WARPになってた。D3D11固定してたはずなんやけどね。 D3D11or12かD3D11固定にしてた方がいいかも。 WARPだとCPUのみになるんで跳ねた理由も納得だわ</description>
@@ -150,13 +157,6 @@
       <description>楠悠一｜クレーン降りたら人生上がった｜AI講師: @deliciousair_ Chromeの話ですか？？ Windows でもフラグで有効化すればできます！ 違うかったらごめんなさい🤣 以下をアドレスバーに入力 chrome :// flags /#vertical-tabs Vertical Tabs を Enabled に変更し、右下の再起動ボタンクリック https://t.co/pxkthb8PX5</description>
       <pubDate>Mon, 29 Jun 2026 10:23:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kusunoki_u1/status/2071540067659845872</guid>
-    </item>
-    <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
     <item>
       <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>
