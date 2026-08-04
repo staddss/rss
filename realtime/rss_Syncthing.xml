@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@10cube 自分の子供や孫が元気に遊んでいる様子を撮影した写真が原因でBANされたという事例が複数報道されていますから、冤罪リスクでしかないクラウドストレージは可能な限り使わないようにしています。 あとTailScale+ Syncthing が強すぎる</title>
+      <link>https://x.com/FmtWeisszwerg/status/2084224158788125060</link>
+      <description>Fomalhaut Weisszwerg: @10cube 自分の子供や孫が元気に遊んでいる様子を撮影した写真が原因でBANされたという事例が複数報道されていますから、冤罪リスクでしかないクラウドストレージは可能な限り使わないようにしています。 あとTailScale+ Syncthing が強すぎる</description>
+      <pubDate>Mon, 03 Aug 2026 10:25:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/FmtWeisszwerg/status/2084224158788125060</guid>
+    </item>
+    <item>
       <title>スマホの買い替えで syncthing をまた設定し直さなきゃいけないのがひじょーにダルい</title>
       <link>https://x.com/lunaticlives/status/2082310166868009321</link>
       <description>雷之電.rs@古明地ゲー体験版出ました: スマホの買い替えで syncthing をまた設定し直さなきゃいけないのがひじょーにダルい</description>
@@ -206,13 +213,6 @@
       <description>kazkuro: ★: Syncthing のセットアップができた これでスマホが自宅LANに接続するたびにNASにローカルデータをどんどん投げ込んでくれるはずだ</description>
       <pubDate>Mon, 06 Jul 2026 13:11:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kazkuro/status/2074119017716150327</guid>
-    </item>
-    <item>
-      <title>@hawkymisc @izutorishima Googleメールも鍵付きzipでも不安感出てきたので友人に聞いたら Syncthing やTailscaleが良いと聞いた。 ピュアP2Pってこういう時のためにあるのね、、、</title>
-      <link>https://x.com/O221N278/status/2073688105736130953</link>
-      <description>弧蒼ソタ(ゲームもやる垢): @hawkymisc @izutorishima Googleメールも鍵付きzipでも不安感出てきたので友人に聞いたら Syncthing やTailscaleが良いと聞いた。 ピュアP2Pってこういう時のためにあるのね、、、</description>
-      <pubDate>Sun, 05 Jul 2026 08:39:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/O221N278/status/2073688105736130953</guid>
     </item>
     <item>
       <title>Syncthing 、要はマルチプラットフォームかつ、P2Pで直接他のマシンのフォルダ同期を行うOSSで、常時稼働のストレージサーバ生やせば容量無限のDropboxみたいな使い方が出来る。 初期設定だと、P2P接続が確立できなければ公式/有志で公開されてるリレーサーバ経由で転送を行ったりNAT越えの支援もある</title>

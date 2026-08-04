@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2084438293521772660</guid>
     </item>
     <item>
+      <title>github codespaces のvscodeの見た目が変わりすぎてない？</title>
+      <link>https://x.com/keita_sprint/status/2084425843582054722</link>
+      <description>Ke!ta Kawase: github codespaces のvscodeの見た目が変わりすぎてない？</description>
+      <pubDate>Mon, 03 Aug 2026 23:47:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/keita_sprint/status/2084425843582054722</guid>
+    </item>
+    <item>
       <title>Azure Functions 向けの Dev Container / GitHub Codespaces 用テンプレートが App Service 全体の Ubuntu 移行に追従した結果、初回起動が凄く遅くなっていたのを Base Image を Prebuild することで大幅に解消したという話 https://t.co/hsBKw81RJi</title>
       <link>https://x.com/shibayan/status/2084131434684678539</link>
       <description>Tatsuro Shibamura: Azure Functions 向けの Dev Container / GitHub Codespaces 用テンプレートが App Service 全体の Ubuntu 移行に追従した結果、初回起動が凄く遅くなっていたのを Base Image を Prebuild することで大幅に解消したという話 https://t.co/hsBKw81RJi</description>
@@ -248,13 +255,6 @@
       <description>まだない🜸🏌️‍♂️目標270y: webアプリをgithub+Geminiで直に編集 ⬇ replitに環境変更、即無料クレジット使い切る ⬇ Codespaces とVercel存在を知る、またもやCopilot使い切る ⬇ Cline使うが即使、replitの環境だったためグチャグチャにされる ⬇ NotebookLM+Gemini+github Copilotに落ち着く(👈ｲﾏｺｺ) #バイブコーディング https://t.co/275hqrAIrj</description>
       <pubDate>Sun, 05 Jul 2026 18:08:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/madanai23/status/2073831408578212151</guid>
-    </item>
-    <item>
-      <title>iPad air m4 11inchで codespaces を使ってkaggleに挑戦できた。まだtitanicではあるけど、徐々になれていこう。</title>
-      <link>https://x.com/ShunaLatte/status/2073645180146921542</link>
-      <description>mslatte: iPad air m4 11inchで codespaces を使ってkaggleに挑戦できた。まだtitanicではあるけど、徐々になれていこう。</description>
-      <pubDate>Sun, 05 Jul 2026 05:48:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ShunaLatte/status/2073645180146921542</guid>
     </item>
   </channel>
 </rss>

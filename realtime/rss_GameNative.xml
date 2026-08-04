@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VITAの引数の内容と全然違うので気が付くのが遅れてしまったんですねー。ロム（この場合ダミーファイルになるんだけど）の認識と、引数をエミュに渡す命令が上手くいかなくて苦労したわ 普通に GAMEnative 単体で起動してそこからDIVA選べばできますよ？でも俺はランチャーから起動したいの！！！</title>
+      <link>https://x.com/Sigma_Z/status/2084552680681447594</link>
+      <description>風呂場の人: VITAの引数の内容と全然違うので気が付くのが遅れてしまったんですねー。ロム（この場合ダミーファイルになるんだけど）の認識と、引数をエミュに渡す命令が上手くいかなくて苦労したわ 普通に GAMEnative 単体で起動してそこからDIVA選べばできますよ？でも俺はランチャーから起動したいの！！！</description>
+      <pubDate>Tue, 04 Aug 2026 08:11:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084552680681447594</guid>
+    </item>
+    <item>
+      <title>んで結局 GAMEnative の起動方法はVITAと同じだった JSONファイルからプレイヤー読み込ませて中身見たら。 GAMEnative の所の引数にTAGって表記があったので。 あー。これまえにやったことあるなん。とあてずっぽにやったらあっさりできました。ここにたどり着くまでまる1日かかりましたけどｗ</title>
+      <link>https://x.com/Sigma_Z/status/2084552084490449141</link>
+      <description>風呂場の人: んで結局 GAMEnative の起動方法はVITAと同じだった JSONファイルからプレイヤー読み込ませて中身見たら。 GAMEnative の所の引数にTAGって表記があったので。 あー。これまえにやったことあるなん。とあてずっぽにやったらあっさりできました。ここにたどり着くまでまる1日かかりましたけどｗ</description>
+      <pubDate>Tue, 04 Aug 2026 08:08:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084552084490449141</guid>
+    </item>
+    <item>
+      <title>GAMEnative はすぐ見て分かったけど絶対ランチャーから起動するの大ごとだろうなあ、って思ったけど予想通り中々上手くいかんかった。そもそもニッチなんでネットに簡単に情報も転がっていないから毎回苦労するんだよね。AIに聞いたり、引数コマンド書き換えたり。色々したけどなかなか正解にたどり着け</title>
+      <link>https://x.com/Sigma_Z/status/2084550226543870041</link>
+      <description>風呂場の人: GAMEnative はすぐ見て分かったけど絶対ランチャーから起動するの大ごとだろうなあ、って思ったけど予想通り中々上手くいかんかった。そもそもニッチなんでネットに簡単に情報も転がっていないから毎回苦労するんだよね。AIに聞いたり、引数コマンド書き換えたり。色々したけどなかなか正解にたどり着け</description>
+      <pubDate>Tue, 04 Aug 2026 08:01:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084550226543870041</guid>
+    </item>
+    <item>
+      <title>カスタムドライバは色々入れたけどスティーブンMXZ氏のTurinp Gen8 V33が一番よさげだった。当然 GAMEnative もカスタムドライバ使えるのでこれを。 俺はエミュ機にはランチャーを使うんだけど。日本語が使えるという事でDaijisho一択である。特殊エミュの起動が少し癖があってそこがネックなんだがね</title>
+      <link>https://x.com/Sigma_Z/status/2084549622416953348</link>
+      <description>風呂場の人: カスタムドライバは色々入れたけどスティーブンMXZ氏のTurinp Gen8 V33が一番よさげだった。当然 GAMEnative もカスタムドライバ使えるのでこれを。 俺はエミュ機にはランチャーを使うんだけど。日本語が使えるという事でDaijisho一択である。特殊エミュの起動が少し癖があってそこがネックなんだがね</description>
+      <pubDate>Tue, 04 Aug 2026 07:58:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084549622416953348</guid>
+    </item>
+    <item>
+      <title>この GAMEnative の他にGAMEHUBとかWinlatorとかあるんだけど。全部試して圧倒的に GAMEnative が最強ですね 正直現状これ一択でしょう。steamならね 普通にPCゲームだったら他がいいかもしれない</title>
+      <link>https://x.com/Sigma_Z/status/2084548531160039679</link>
+      <description>風呂場の人: この GAMEnative の他にGAMEHUBとかWinlatorとかあるんだけど。全部試して圧倒的に GAMEnative が最強ですね 正直現状これ一択でしょう。steamならね 普通にPCゲームだったら他がいいかもしれない</description>
+      <pubDate>Tue, 04 Aug 2026 07:54:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084548531160039679</guid>
+    </item>
+    <item>
+      <title>あれもそこそこだからどうかなーって思ったけども。 ふっつーに動きますね。驚きだわ。android機なのにね あ、これはsteamのログインもするんで。ちゃんと起動もするし、セーブデータも本物？のsteamに保存されて共有されます。勿論オフラインでもできる。使ったアプリは GAMEnative ってやつね</title>
+      <link>https://x.com/Sigma_Z/status/2084548074907787365</link>
+      <description>風呂場の人: あれもそこそこだからどうかなーって思ったけども。 ふっつーに動きますね。驚きだわ。android機なのにね あ、これはsteamのログインもするんで。ちゃんと起動もするし、セーブデータも本物？のsteamに保存されて共有されます。勿論オフラインでもできる。使ったアプリは GAMEnative ってやつね</description>
+      <pubDate>Tue, 04 Aug 2026 07:52:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084548074907787365</guid>
+    </item>
+    <item>
+      <title>ポータブルゲーミングPCはこれも現状だけど、もういいかなあ…と思ってる 結局、外出先への持ち運びや取り回しはなかなか気楽ではなかったし（自分のしたい使い方には） 加えて GameNative でスマホでPCゲームが遊べるようになったのは大きくて、自分には向かないデバイスだったのかも、と今は思う</title>
+      <link>https://x.com/mori8969/status/2084461707204935755</link>
+      <description>モーリー 89: ポータブルゲーミングPCはこれも現状だけど、もういいかなあ…と思ってる 結局、外出先への持ち運びや取り回しはなかなか気楽ではなかったし（自分のしたい使い方には） 加えて GameNative でスマホでPCゲームが遊べるようになったのは大きくて、自分には向かないデバイスだったのかも、と今は思う</description>
+      <pubDate>Tue, 04 Aug 2026 02:09:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mori8969/status/2084461707204935755</guid>
+    </item>
+    <item>
       <title>KONKR POCKET FITにて GameNative DDI Rally GameNative 1.1.1 画質をハイクオリティー設定にしても、結構快適？ 製品版を首を長くして待ってます！ https://t.co/ONBtJzFdKa</title>
       <link>https://x.com/omochichi/status/2084250712662520153</link>
       <description>もち: KONKR POCKET FITにて GameNative DDI Rally GameNative 1.1.1 画質をハイクオリティー設定にしても、結構快適？ 製品版を首を長くして待ってます！ https://t.co/ONBtJzFdKa</description>
@@ -227,55 +276,6 @@
       <description>モーリー 89: 壊れてしまったGPD WIN3の総括は、忘れないうちに供養も兼ねてnoteあたりでやってあげたい気持ちはある 併せてAndroidのデスクトップモードで GameNative を使えば一部の軽いゲームは動いてWindowsPCみたいに使えなくもない…あくまで「使えなくもない」ってことも</description>
       <pubDate>Sun, 19 Jul 2026 04:53:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mori8969/status/2078704857377345618</guid>
-    </item>
-    <item>
-      <title>wolf、吉里吉里、unityは gamenative で動いた 後は・・んにゃぴ・・</title>
-      <link>https://x.com/Eyeless774/status/2078496449562829270</link>
-      <description>Gardenia: wolf、吉里吉里、unityは gamenative で動いた 後は・・んにゃぴ・・</description>
-      <pubDate>Sat, 18 Jul 2026 15:05:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Eyeless774/status/2078496449562829270</guid>
-    </item>
-    <item>
-      <title>既に GameNative /GameHubやArmadaOSがあるように今後「ARM SoCでLinux/Androidな中華ゲーム機でPCゲーム」はどんどんゲキアツに…… てかArmadaOSの日本語での言及X/Twitterに見つからんのマジ？ 既にARM中華ゲーム機でx86_64のWindows PCゲーム (Steam)動くOSあるんよ？ https://t.co/1dx3u0m6wm</title>
-      <link>https://x.com/hogehoge61/status/2078147386271219813</link>
-      <description>ほげ: 既に GameNative /GameHubやArmadaOSがあるように今後「ARM SoCでLinux/Androidな中華ゲーム機でPCゲーム」はどんどんゲキアツに…… てかArmadaOSの日本語での言及X/Twitterに見つからんのマジ？ 既にARM中華ゲーム機でx86_64のWindows PCゲーム (Steam)動くOSあるんよ？ https://t.co/1dx3u0m6wm</description>
-      <pubDate>Fri, 17 Jul 2026 15:58:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hogehoge61/status/2078147386271219813</guid>
-    </item>
-    <item>
-      <title>Rev Sweeper Revolved https://t.co/d9Jm8CTIEt GameNative だと動かなかったけどGameHubならOK Arcadeなら2ボスまでは進めるけど、 Endlessモードむずいな(;´Д`) https://t.co/T8JNKHPxtB</title>
-      <link>https://x.com/orcinus_/status/2078137376627679700</link>
-      <description>orcinus: Rev Sweeper Revolved https://t.co/d9Jm8CTIEt GameNative だと動かなかったけどGameHubならOK Arcadeなら2ボスまでは進めるけど、 Endlessモードむずいな(;´Д`) https://t.co/T8JNKHPxtB</description>
-      <pubDate>Fri, 17 Jul 2026 15:18:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/orcinus_/status/2078137376627679700</guid>
-    </item>
-    <item>
-      <title>これまさに正しい↓ GameHubは、要求の厳しいAAAゲームでしばしば優位性を持っています。 GameNative は、安定性とコミュニティでテストされたプロファイルで優れています。 https://t.co/ktNFkcybbB</title>
-      <link>https://x.com/8888EckhartT/status/2078114590475653599</link>
-      <description>どーもです@JRAの馬主🐴: これまさに正しい↓ GameHubは、要求の厳しいAAAゲームでしばしば優位性を持っています。 GameNative は、安定性とコミュニティでテストされたプロファイルで優れています。 https://t.co/ktNFkcybbB</description>
-      <pubDate>Fri, 17 Jul 2026 13:48:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2078114590475653599</guid>
-    </item>
-    <item>
-      <title>Modについては、登録されたら楽な gamenative 。入れるの面倒だけどすぐ対応可能なgamehubさあどっちというところ。</title>
-      <link>https://x.com/8888EckhartT/status/2078104716643545284</link>
-      <description>どーもです@JRAの馬主🐴: Modについては、登録されたら楽な gamenative 。入れるの面倒だけどすぐ対応可能なgamehubさあどっちというところ。</description>
-      <pubDate>Fri, 17 Jul 2026 13:09:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2078104716643545284</guid>
-    </item>
-    <item>
-      <title>gamenative 1.1.1 のModは登録されればダウンロード出来ますよという楽な機能みたい。登録されれば楽なんだけど、登録されるまで指を咥えて見てるしかないようだな。他機種メディアから吸い出した言語Modを入れるみたいなのには問題があるので対応しないのでは。</title>
-      <link>https://x.com/8888EckhartT/status/2078102156406841731</link>
-      <description>どーもです@JRAの馬主🐴: gamenative 1.1.1 のModは登録されればダウンロード出来ますよという楽な機能みたい。登録されれば楽なんだけど、登録されるまで指を咥えて見てるしかないようだな。他機種メディアから吸い出した言語Modを入れるみたいなのには問題があるので対応しないのでは。</description>
-      <pubDate>Fri, 17 Jul 2026 12:58:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2078102156406841731</guid>
-    </item>
-    <item>
-      <title>gamenative 1.1.1 はModが使えるようになったが、やはりコレじゃない感じだった。自前で吸い出して作成したパッチなどには不向きだね。オープンソースだけど、亜種を出してはいけない空気があるんだろうな。GameHubはそこは何でもアリだから。Antutu版、Pubg版みたいなごった煮。</title>
-      <link>https://x.com/8888EckhartT/status/2078097467338617314</link>
-      <description>どーもです@JRAの馬主🐴: gamenative 1.1.1 はModが使えるようになったが、やはりコレじゃない感じだった。自前で吸い出して作成したパッチなどには不向きだね。オープンソースだけど、亜種を出してはいけない空気があるんだろうな。GameHubはそこは何でもアリだから。Antutu版、Pubg版みたいなごった煮。</description>
-      <pubDate>Fri, 17 Jul 2026 12:40:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2078097467338617314</guid>
     </item>
   </channel>
 </rss>
