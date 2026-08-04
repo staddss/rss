@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>@NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</title>
-      <link>https://x.com/LunarHealWisdom/status/2084503603000332426</link>
-      <description>🦊Yomi Watanuki: @NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</description>
-      <pubDate>Tue, 04 Aug 2026 04:56:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2084503603000332426</guid>
+      <title>各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</title>
+      <link>https://x.com/y_mikou/status/2084676676576002539</link>
+      <description>みこう悠長: 各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</description>
+      <pubDate>Tue, 04 Aug 2026 16:23:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/y_mikou/status/2084676676576002539</guid>
+    </item>
+    <item>
+      <title>ラズパイに入れていたcaddyをリバースプロキシに切り替えて、gunicorn+bottleの疎通ができた。 cloudflare tunnel +caddyリバプロ+gunicorn+bottleの構成ができたので、今度はSSの退避所をbottleで動作するようにしていこう。</title>
+      <link>https://x.com/y_mikou/status/2084675742869405861</link>
+      <description>みこう悠長: ラズパイに入れていたcaddyをリバースプロキシに切り替えて、gunicorn+bottleの疎通ができた。 cloudflare tunnel +caddyリバプロ+gunicorn+bottleの構成ができたので、今度はSSの退避所をbottleで動作するようにしていこう。</description>
+      <pubDate>Tue, 04 Aug 2026 16:20:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/y_mikou/status/2084675742869405861</guid>
+    </item>
+    <item>
+      <title>1 万 7 千円台の中古ノート PC と Cloudflare Tunnel で、外出先から AI に開発させる｜AME Tarmin @AMETaitoAnemiya https://t.co/gJiQTVEPFL</title>
+      <link>https://x.com/AMETaitoAnemiya/status/2084645704325279880</link>
+      <description>AME Tarmin: 1 万 7 千円台の中古ノート PC と Cloudflare Tunnel で、外出先から AI に開発させる｜AME Tarmin @AMETaitoAnemiya https://t.co/gJiQTVEPFL</description>
+      <pubDate>Tue, 04 Aug 2026 14:20:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AMETaitoAnemiya/status/2084645704325279880</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel で自宅にVPNできた～</title>
@@ -17,6 +31,13 @@
       <description>syousuke: Cloudflare Tunnel で自宅にVPNできた～</description>
       <pubDate>Mon, 03 Aug 2026 16:44:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/syousuke1104/status/2084319618198606225</guid>
+    </item>
+    <item>
+      <title>tailscale か cloudflare tunnel 入れて外出先からでもopencode に指示出したい！！ 明日かな…</title>
+      <link>https://x.com/dot__ningen__/status/2084315893233029428</link>
+      <description>ningen: tailscale か cloudflare tunnel 入れて外出先からでもopencode に指示出したい！！ 明日かな…</description>
+      <pubDate>Mon, 03 Aug 2026 16:30:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dot__ningen__/status/2084315893233029428</guid>
     </item>
     <item>
       <title>まさに今作ってて、Tan Stackで無駄に作り込んで自宅鯖にデプロイして Cloudflare Tunnel で公開してる。 なお人件費と電気代は考えないものとする。 https://t.co/1hggqEMWFZ</title>
@@ -255,27 +276,6 @@
       <description>SEAHAL(Ja): さて、明日は Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用するみたいなのをリナックスホストから動作チェックして、内部に入ってパラメタを操作して、完遂させようではないか。これやってからでないと、ほかの作業が滞るしな。</description>
       <pubDate>Mon, 20 Jul 2026 14:44:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2079215916857115064</guid>
-    </item>
-    <item>
-      <title>開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</title>
-      <link>https://x.com/SeahalJa/status/2079213947056730484</link>
-      <description>SEAHAL(Ja): 開発に必須とはいえ、 Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用してるけど、どう考えてもシャドー IT と AI です。仕方ないじゃん。これしないと開発できないんだもん。</description>
-      <pubDate>Mon, 20 Jul 2026 14:36:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079213947056730484</guid>
-    </item>
-    <item>
-      <title>Tailscaleと Cloudflare Tunnel 、たぶん Cloudflare Tunnel というかCloudflare One（だっけ）に統一したほうがいいんだろうけど、よくわからないからやってない そもそもTailscaleと同じことができるのかもよくわかってない</title>
-      <link>https://x.com/__abelia/status/2079118398915830109</link>
-      <description>Abelia: Tailscaleと Cloudflare Tunnel 、たぶん Cloudflare Tunnel というかCloudflare One（だっけ）に統一したほうがいいんだろうけど、よくわからないからやってない そもそもTailscaleと同じことができるのかもよくわかってない</description>
-      <pubDate>Mon, 20 Jul 2026 08:17:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__abelia/status/2079118398915830109</guid>
-    </item>
-    <item>
-      <title>claude code cloudflare tunnel playwright mcpで歩きながら開発</title>
-      <link>https://x.com/initialcommit0/status/2079118262374453705</link>
-      <description>Ryoya Itabashi@UE5開発: claude code cloudflare tunnel playwright mcpで歩きながら開発</description>
-      <pubDate>Mon, 20 Jul 2026 08:16:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/initialcommit0/status/2079118262374453705</guid>
     </item>
   </channel>
 </rss>

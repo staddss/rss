@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ちょっと社内ネットワークのVPNやら認証やらを見直さねばならず 現行はIPSecとバックアップとして WireGuard でやってるけど、半歩進めてゼロトラスト化もこの際やっておきたい。 Cloudflareはお手軽でいいんだけど、やはり第三者ベンダーに社内リソースを晒す事になるしなぁ セルフホストがいいなぁ</title>
+      <link>https://x.com/CABIN_D/status/2084755649775501476</link>
+      <description>CABIN: ちょっと社内ネットワークのVPNやら認証やらを見直さねばならず 現行はIPSecとバックアップとして WireGuard でやってるけど、半歩進めてゼロトラスト化もこの際やっておきたい。 Cloudflareはお手軽でいいんだけど、やはり第三者ベンダーに社内リソースを晒す事になるしなぁ セルフホストがいいなぁ</description>
+      <pubDate>Tue, 04 Aug 2026 21:37:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CABIN_D/status/2084755649775501476</guid>
+    </item>
+    <item>
+      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ytnnvfqDzp</title>
+      <link>https://x.com/fagai/status/2084621675090575554</link>
+      <description>ファガイ: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ytnnvfqDzp</description>
+      <pubDate>Tue, 04 Aug 2026 12:45:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fagai/status/2084621675090575554</guid>
+    </item>
+    <item>
       <title>@liru_55 TorGuard メリット ・ポート開放可能 ・独自IPを複数持てる ・昼間は1Gbps以上出せる ・何度でも独自IP変更可能 デメリット ・夜は20Mbpsくらいまで速度落ちる ・ WireGuard だとconfがひとつしか生成できないので複数台数繋げない</title>
       <link>https://x.com/neco_vr/status/2084565902285234190</link>
       <description>𝓝eco222: @liru_55 TorGuard メリット ・ポート開放可能 ・独自IPを複数持てる ・昼間は1Gbps以上出せる ・何度でも独自IP変更可能 デメリット ・夜は20Mbpsくらいまで速度落ちる ・ WireGuard だとconfがひとつしか生成できないので複数台数繋げない</description>
@@ -145,6 +159,13 @@
       <guid isPermaLink="true">https://x.com/rararararauuuuu/status/2084063038655930381</guid>
     </item>
     <item>
+      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 https://t.co/wTsZztJZla https://t.co/4rjUMUg0SN</title>
+      <link>https://x.com/internet_watch/status/2084021444640661851</link>
+      <description>INTERNET Watch: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 https://t.co/wTsZztJZla https://t.co/4rjUMUg0SN</description>
+      <pubDate>Sun, 02 Aug 2026 21:00:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/internet_watch/status/2084021444640661851</guid>
+    </item>
+    <item>
       <title>Wireguard 設定完了。ついでにスマホのusbデザリングも動作確認完了。これな引っ越し時も怖くないね。 Tailerscale 使えばvpnいけるわね</title>
       <link>https://x.com/ria_uv/status/2083924043129061650</link>
       <description>uv_melo_ria: Wireguard 設定完了。ついでにスマホのusbデザリングも動作確認完了。これな引っ越し時も怖くないね。 Tailerscale 使えばvpnいけるわね</description>
@@ -255,27 +276,6 @@
       <description>connect24h: 勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</description>
       <pubDate>Fri, 31 Jul 2026 11:07:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/connect24h/status/2083147442715828606</guid>
-    </item>
-    <item>
-      <title>Wireguard でなんかなってるんかな ちなみに管理画面からだと正常な速度でダウンロードできる</title>
-      <link>https://x.com/_yakisugita_/status/2083088318045225153</link>
-      <description>焼きすぎた鮭: Wireguard でなんかなってるんかな ちなみに管理画面からだと正常な速度でダウンロードできる</description>
-      <pubDate>Fri, 31 Jul 2026 07:12:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_yakisugita_/status/2083088318045225153</guid>
-    </item>
-    <item>
-      <title>tailscale関連で WireGuard も少し気になる</title>
-      <link>https://x.com/FluidTofu/status/2083039675523211526</link>
-      <description>Redwheat: tailscale関連で WireGuard も少し気になる</description>
-      <pubDate>Fri, 31 Jul 2026 03:58:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/FluidTofu/status/2083039675523211526</guid>
-    </item>
-    <item>
-      <title>Tailscaleにはお世話になってるので何も言えないが WireGuard に移行までの覚悟はしてる</title>
-      <link>https://x.com/kirecat/status/2083036162508443852</link>
-      <description>キレ猫: Tailscaleにはお世話になってるので何も言えないが WireGuard に移行までの覚悟はしてる</description>
-      <pubDate>Fri, 31 Jul 2026 03:44:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kirecat/status/2083036162508443852</guid>
     </item>
   </channel>
 </rss>
