@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>unifiで wireguard が無難か</title>
+      <link>https://x.com/Izumi_sig176/status/2084488986496778629</link>
+      <description>Izumi: unifiで wireguard が無難か</description>
+      <pubDate>Tue, 04 Aug 2026 03:57:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Izumi_sig176/status/2084488986496778629</guid>
+    </item>
+    <item>
+      <title>Starlink環境では別にMTU値1500でも問題なさそうだな WireGuard の仮想NIC上だとやっぱちょっと引き下げた方がよさそう もちろんフォークされたClouflare WARP, Tailscaleも同様だけど。。。</title>
+      <link>https://x.com/haturatutaro/status/2084364213984878791</link>
+      <description>ハツラツ太郎: Starlink環境では別にMTU値1500でも問題なさそうだな WireGuard の仮想NIC上だとやっぱちょっと引き下げた方がよさそう もちろんフォークされたClouflare WARP, Tailscaleも同様だけど。。。</description>
+      <pubDate>Mon, 03 Aug 2026 19:42:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084364213984878791</guid>
+    </item>
+    <item>
+      <title>nnんー。。。やっぱ WireGuard はMTU値ちょっと引き下げた方がいいか・・・ https://t.co/WyrelvQAKo</title>
+      <link>https://x.com/haturatutaro/status/2084363540618694689</link>
+      <description>ハツラツ太郎: nnんー。。。やっぱ WireGuard はMTU値ちょっと引き下げた方がいいか・・・ https://t.co/WyrelvQAKo</description>
+      <pubDate>Mon, 03 Aug 2026 19:39:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084363540618694689</guid>
+    </item>
+    <item>
+      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/7WRkqwQMd2</title>
+      <link>https://x.com/_jackson/status/2084261344015241523</link>
+      <description>ぢゃくそん: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/7WRkqwQMd2</description>
+      <pubDate>Mon, 03 Aug 2026 12:53:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_jackson/status/2084261344015241523</guid>
+    </item>
+    <item>
       <title>@riverleaf88 端口映射接 wireguard</title>
       <link>https://x.com/BooBooCola/status/2084218788657176714</link>
       <description>BuBu: @riverleaf88 端口映射接 wireguard</description>
@@ -248,34 +276,6 @@
       <description>はるさめ🎥: 何も考えずに雑に使えるからですよ。考えて使うには向いてない。Tailscale はあくまでもゼロコンフィグ wireguard ソリューション的な何かなので、当然得手不得手はある。 ただ、アクセス経路のバックアップ手段として忍ばせておくにはクッソ便利よ。 https://t.co/5d42A6NJWD</description>
       <pubDate>Fri, 31 Jul 2026 02:58:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/HarusameTech/status/2083024513869250635</guid>
-    </item>
-    <item>
-      <title>Wireguard とParsecとTightVNC止めたら解決してしまった。 どれだ。</title>
-      <link>https://x.com/yanorei32/status/2082951670024290784</link>
-      <description>あねてあ™ @ yr32.net: Wireguard とParsecとTightVNC止めたら解決してしまった。 どれだ。</description>
-      <pubDate>Thu, 30 Jul 2026 22:09:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yanorei32/status/2082951670024290784</guid>
-    </item>
-    <item>
-      <title>@L_port53 L2TPは暗号化ないので普通は暗号化掛けるためにIPSecと併用することが多い。ただIPv4の場合はヘッダーにIPSecが入ってないからオーバーヘッドが肥大化しがちだし, L2TPと組み合わせたら余計に肥大化するので Wireguard 単体の方がオーバーヘッドは小さいと思う。IPv6はIPSecがヘッダに入ってるから良き。</title>
-      <link>https://x.com/shumaikun0716/status/2082950455349649820</link>
-      <description>shumaikun0716: @L_port53 L2TPは暗号化ないので普通は暗号化掛けるためにIPSecと併用することが多い。ただIPv4の場合はヘッダーにIPSecが入ってないからオーバーヘッドが肥大化しがちだし, L2TPと組み合わせたら余計に肥大化するので Wireguard 単体の方がオーバーヘッドは小さいと思う。IPv6はIPSecがヘッダに入ってるから良き。</description>
-      <pubDate>Thu, 30 Jul 2026 22:04:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2082950455349649820</guid>
-    </item>
-    <item>
-      <title>wireguard つけれた(ChromeBook) 色々コピペしすぎてた https://t.co/hWKZ2efSS3</title>
-      <link>https://x.com/L_port53/status/2082940359433183698</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: wireguard つけれた(ChromeBook) 色々コピペしすぎてた https://t.co/hWKZ2efSS3</description>
-      <pubDate>Thu, 30 Jul 2026 21:24:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2082940359433183698</guid>
-    </item>
-    <item>
-      <title>やっぱ Wireguard にしようかなぁ Tailscale もうあかん</title>
-      <link>https://x.com/jptakiR813/status/2082929883433599076</link>
-      <description>takidem: やっぱ Wireguard にしようかなぁ Tailscale もうあかん</description>
-      <pubDate>Thu, 30 Jul 2026 20:42:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jptakiR813/status/2082929883433599076</guid>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/CafeZgok/status/2084182451346366671</guid>
     </item>
     <item>
+      <title>Linuxの PipeWire に、Flatpakアプリのサンドボックスエスケープに使用可能な脆弱性。CVE-2026-5674はCVSSスコア8.8で、PluseAudio互換レイヤーにおける不具合3件を連鎖させるもの。 Pipewire 1.0.5で修正されており、各ディストロで順次修正。 https://t.co/BaZvV9W53a</title>
+      <link>https://x.com/__kokumoto/status/2084120916846415934</link>
+      <description>kokumօtօ: Linuxの PipeWire に、Flatpakアプリのサンドボックスエスケープに使用可能な脆弱性。CVE-2026-5674はCVSSスコア8.8で、PluseAudio互換レイヤーにおける不具合3件を連鎖させるもの。 Pipewire 1.0.5で修正されており、各ディストロで順次修正。 https://t.co/BaZvV9W53a</description>
+      <pubDate>Mon, 03 Aug 2026 03:35:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__kokumoto/status/2084120916846415934</guid>
+    </item>
+    <item>
       <title>ArchLinux 2026.08.01続き Proxmoxで ArchLinux 2026.08.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.3-Waylandのみ,konsole追加 *2 縮小表示 *3 hyprland.confError *4 pipewire ,--skip-version-check OK〜😅 https://t.co/6QAMhx0uzV</title>
       <link>https://x.com/markun8633/status/2083831098120049131</link>
       <description>まーくん: ArchLinux 2026.08.01続き Proxmoxで ArchLinux 2026.08.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.3-Waylandのみ,konsole追加 *2 縮小表示 *3 hyprland.confError *4 pipewire ,--skip-version-check OK〜😅 https://t.co/6QAMhx0uzV</description>

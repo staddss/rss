@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</title>
+      <link>https://x.com/LunarHealWisdom/status/2084503603000332426</link>
+      <description>🦊Yomi Watanuki: @NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</description>
+      <pubDate>Tue, 04 Aug 2026 04:56:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2084503603000332426</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel で自宅にVPNできた～</title>
+      <link>https://x.com/syousuke1104/status/2084319618198606225</link>
+      <description>syousuke: Cloudflare Tunnel で自宅にVPNできた～</description>
+      <pubDate>Mon, 03 Aug 2026 16:44:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/syousuke1104/status/2084319618198606225</guid>
+    </item>
+    <item>
+      <title>まさに今作ってて、Tan Stackで無駄に作り込んで自宅鯖にデプロイして Cloudflare Tunnel で公開してる。 なお人件費と電気代は考えないものとする。 https://t.co/1hggqEMWFZ</title>
+      <link>https://x.com/toshimaru0123/status/2083973396283756788</link>
+      <description>トシ丸: まさに今作ってて、Tan Stackで無駄に作り込んで自宅鯖にデプロイして Cloudflare Tunnel で公開してる。 なお人件費と電気代は考えないものとする。 https://t.co/1hggqEMWFZ</description>
+      <pubDate>Sun, 02 Aug 2026 17:49:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/toshimaru0123/status/2083973396283756788</guid>
+    </item>
+    <item>
       <title>@grandpianosn cloudflare tunnel を使っています</title>
       <link>https://x.com/dumblepytech1/status/2083925072570692048</link>
       <description>medy.nim 🐍👑 ∞♦️: @grandpianosn cloudflare tunnel を使っています</description>
@@ -255,27 +276,6 @@
       <description>Ryoya Itabashi@UE5開発: claude code cloudflare tunnel playwright mcpで歩きながら開発</description>
       <pubDate>Mon, 20 Jul 2026 08:16:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/initialcommit0/status/2079118262374453705</guid>
-    </item>
-    <item>
-      <title>カゴヤはAPIでFW設定ができなかったり、そもそもFWにTCPとUDPしかなかったりで（ICMPは？）完成度がややアレではあるんだけど、Tailscaleと Cloudflare Tunnel に一本化すれば全部塞げてしまえるので気になることはなかった</title>
-      <link>https://x.com/__abelia/status/2079117665222979923</link>
-      <description>Abelia: カゴヤはAPIでFW設定ができなかったり、そもそもFWにTCPとUDPしかなかったりで（ICMPは？）完成度がややアレではあるんだけど、Tailscaleと Cloudflare Tunnel に一本化すれば全部塞げてしまえるので気になることはなかった</description>
-      <pubDate>Mon, 20 Jul 2026 08:14:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__abelia/status/2079117665222979923</guid>
-    </item>
-    <item>
-      <title>QiitaやZennでは今でも「自宅サーバーを外部公開してみた」系の記事が上位に出てくるけど、2026年現在、ワイにはもうルーターに穴を開けてポートを晒す勇気ない やるとしてもTailscaleか Cloudflare Tunnel 経由 みんな、自宅ネットワークを直接インターネットに晒す度胸、その蛮勇に素直に敬服する</title>
-      <link>https://x.com/harri_8964ak47/status/2079079373895045404</link>
-      <description>Harrison Sanada: QiitaやZennでは今でも「自宅サーバーを外部公開してみた」系の記事が上位に出てくるけど、2026年現在、ワイにはもうルーターに穴を開けてポートを晒す勇気ない やるとしてもTailscaleか Cloudflare Tunnel 経由 みんな、自宅ネットワークを直接インターネットに晒す度胸、その蛮勇に素直に敬服する</description>
-      <pubDate>Mon, 20 Jul 2026 05:42:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/harri_8964ak47/status/2079079373895045404</guid>
-    </item>
-    <item>
-      <title>pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</title>
-      <link>https://x.com/inarizusi777/status/2079024419784335754</link>
-      <description>yuuk1: pterodactylの設定を公式ページ見て cloudflare tunnel つかってやってたけどinstall scriptのほうが圧倒的に楽で草 頑張ってやった十数時間はなんやったんや</description>
-      <pubDate>Mon, 20 Jul 2026 02:03:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/inarizusi777/status/2079024419784335754</guid>
     </item>
   </channel>
 </rss>

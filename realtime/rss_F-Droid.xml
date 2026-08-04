@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今まで Openkeychainとpassword-storeを使ってたけど、機種変更の機会に Valutwarden に移行しようかなぁ…。 知らんかったけど、 ・Openkeychain: 2018/06/27 ・password-store: 2024/10/14 が最終リリースなのか(password-storeはforkが F - Droid にあるけど)。</title>
+      <link>https://x.com/uwabami_frozen/status/2084114277326311660</link>
+      <description>Youhei SASAKI: 今まで Openkeychainとpassword-storeを使ってたけど、機種変更の機会に Valutwarden に移行しようかなぁ…。 知らんかったけど、 ・Openkeychain: 2018/06/27 ・password-store: 2024/10/14 が最終リリースなのか(password-storeはforkが F - Droid にあるけど)。</description>
+      <pubDate>Mon, 03 Aug 2026 03:08:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/uwabami_frozen/status/2084114277326311660</guid>
+    </item>
+    <item>
       <title>f - droid とaurora storeで当分凌いでみる。</title>
       <link>https://x.com/saxo2000/status/2083876735410733283</link>
       <description>毎日が日曜日: f - droid とaurora storeで当分凌いでみる。</description>
@@ -164,34 +171,6 @@
       <description>五十鈴お嬢様(𝗥𝗲:𝗩𝗜𝗩𝗘): F - droid 開いたらAndroidの野良アプリ締め出しについてめちゃくちゃキレてるサイトに案内された 一応野良アプリ入れる抜け道が用意されてるとはいえ24時間無駄に待たないと入れられない嫌がらせはなあ https://t.co/0OoHYoa3Sb</description>
       <pubDate>Sun, 05 Jul 2026 16:44:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/50radish/status/2073810153250623953</guid>
-    </item>
-    <item>
-      <title>Android開発者認証は「保護を装った脅威」だと F - Droid が主張 - GIGAZINE https://t.co/TT8QSmSkGS</title>
-      <link>https://x.com/NWaka_1415/status/2073628160001036431</link>
-      <description>Nわか🔞: Android開発者認証は「保護を装った脅威」だと F - Droid が主張 - GIGAZINE https://t.co/TT8QSmSkGS</description>
-      <pubDate>Sun, 05 Jul 2026 04:40:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NWaka_1415/status/2073628160001036431</guid>
-    </item>
-    <item>
-      <title>とても速いペースですが、v1.1.0を出します。 dependabotから@ capacitor/cli,tarなどを更新してくださいと言われ、それの依存でNode.jsが22以上になります。 また、ビルド方法が変わった為、 F - Droid に.ymlのsudoを変更するMRを出し、すでにマージ済みです。 #AudioVisualizerFDroid https://t.co/wawktP1Sef</title>
-      <link>https://x.com/Rinoprogram/status/2073577196099358731</link>
-      <description>りの/Rino-program🟢: とても速いペースですが、v1.1.0を出します。 dependabotから@ capacitor/cli,tarなどを更新してくださいと言われ、それの依存でNode.jsが22以上になります。 また、ビルド方法が変わった為、 F - Droid に.ymlのsudoを変更するMRを出し、すでにマージ済みです。 #AudioVisualizerFDroid https://t.co/wawktP1Sef</description>
-      <pubDate>Sun, 05 Jul 2026 01:18:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rinoprogram/status/2073577196099358731</guid>
-    </item>
-    <item>
-      <title>| Android開発者認証は「保護を装った脅威」だと F - Droid が主張 - GIGAZINE https://t.co/rdlb3ob3YB</title>
-      <link>https://x.com/knoike/status/2073540808574394640</link>
-      <description>knoike: | Android開発者認証は「保護を装った脅威」だと F - Droid が主張 - GIGAZINE https://t.co/rdlb3ob3YB</description>
-      <pubDate>Sat, 04 Jul 2026 22:53:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/knoike/status/2073540808574394640</guid>
-    </item>
-    <item>
-      <title>v1.0.12のビルドが終わったよと F - Droid から連絡を受けましたので、v1.1.0の準備を至急進めます。</title>
-      <link>https://x.com/Rinoprogram/status/2073419408954003474</link>
-      <description>りの/Rino-program🟢: v1.0.12のビルドが終わったよと F - Droid から連絡を受けましたので、v1.1.0の準備を至急進めます。</description>
-      <pubDate>Sat, 04 Jul 2026 14:51:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rinoprogram/status/2073419408954003474</guid>
     </item>
     <item>
       <title>オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/JFuK5K5Rip #KeepAndroidOpen</title>
