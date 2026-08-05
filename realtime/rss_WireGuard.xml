@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@taitai2661dayo 私はnordvpnを使ってますが、nordvpnでも通常の wireguard を使えば共存できます！ ただnordvpnアプリだと不可...</title>
+      <link>https://x.com/hittdesu/status/2084841835500011984</link>
+      <description>人: @taitai2661dayo 私はnordvpnを使ってますが、nordvpnでも通常の wireguard を使えば共存できます！ ただnordvpnアプリだと不可...</description>
+      <pubDate>Wed, 05 Aug 2026 03:20:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hittdesu/status/2084841835500011984</guid>
+    </item>
+    <item>
+      <title>@NeoPhoenixPC それからお互いのデバイスは wireguard というp2pの仮想ネットワークを使っていて、UDPで通信するので、セキュアで非常に高速です。</title>
+      <link>https://x.com/guredora403/status/2084803708903477593</link>
+      <description>グレドラ: @NeoPhoenixPC それからお互いのデバイスは wireguard というp2pの仮想ネットワークを使っていて、UDPで通信するので、セキュアで非常に高速です。</description>
+      <pubDate>Wed, 05 Aug 2026 00:48:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/guredora403/status/2084803708903477593</guid>
+    </item>
+    <item>
       <title>ちょっと社内ネットワークのVPNやら認証やらを見直さねばならず 現行はIPSecとバックアップとして WireGuard でやってるけど、半歩進めてゼロトラスト化もこの際やっておきたい。 Cloudflareはお手軽でいいんだけど、やはり第三者ベンダーに社内リソースを晒す事になるしなぁ セルフホストがいいなぁ</title>
       <link>https://x.com/CABIN_D/status/2084755649775501476</link>
       <description>CABIN: ちょっと社内ネットワークのVPNやら認証やらを見直さねばならず 現行はIPSecとバックアップとして WireGuard でやってるけど、半歩進めてゼロトラスト化もこの際やっておきたい。 Cloudflareはお手軽でいいんだけど、やはり第三者ベンダーに社内リソースを晒す事になるしなぁ セルフホストがいいなぁ</description>
       <pubDate>Tue, 04 Aug 2026 21:37:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CABIN_D/status/2084755649775501476</guid>
+    </item>
+    <item>
+      <title>@taitai2661dayo 普通に Wireguard とTailscaleみたいなの普段から併用してるけど</title>
+      <link>https://x.com/TRX9800_/status/2084655275349516394</link>
+      <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @taitai2661dayo 普通に Wireguard とTailscaleみたいなの普段から併用してるけど</description>
+      <pubDate>Tue, 04 Aug 2026 14:58:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TRX9800_/status/2084655275349516394</guid>
     </item>
     <item>
       <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ytnnvfqDzp</title>
@@ -255,27 +276,6 @@
       <description>TARUKAJA: QNAP機能での WireGuard 実装にこないだ失敗したから、別個にVPNサーバー機器を繋ぐ方向でやってみようかな･･･🤔 https://t.co/LbVr3jPR8B</description>
       <pubDate>Fri, 31 Jul 2026 23:13:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mahatarukaja/status/2083330317226852852</guid>
-    </item>
-    <item>
-      <title>VPNをつなぐと動画がカクつく…で困っていませんか？ 対策は4つ。①プロトコルを WireGuard 系に②近いサーバーを選ぶ③有線接続④夜のピークを避ける。これだけで速度低下の多くは防げます👇 https://t.co/tRIEyj0ZhE</title>
-      <link>https://x.com/techotakulab/status/2083320350360687098</link>
-      <description>テコタク-techotakulab: VPNをつなぐと動画がカクつく…で困っていませんか？ 対策は4つ。①プロトコルを WireGuard 系に②近いサーバーを選ぶ③有線接続④夜のピークを避ける。これだけで速度低下の多くは防げます👇 https://t.co/tRIEyj0ZhE</description>
-      <pubDate>Fri, 31 Jul 2026 22:34:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techotakulab/status/2083320350360687098</guid>
-    </item>
-    <item>
-      <title>完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</title>
-      <link>https://x.com/vorotamoroz/status/2083185742613020879</link>
-      <description>vorotamoroz aka きみのぶ: 完全にこれ。 いうて wireguard そこまでめんどくさくないとはいえ、そのエンドポイントを露出するのが面倒で嫌という感じがする。 ルーティングも、まぁ困る人は困ると思うがそこまでど直球で困ることはない。 adversiseを安易に受けないという他ないな… https://t.co/SY5raRH4w2</description>
-      <pubDate>Fri, 31 Jul 2026 13:39:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/vorotamoroz/status/2083185742613020879</guid>
-    </item>
-    <item>
-      <title>勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</title>
-      <link>https://x.com/connect24h/status/2083147442715828606</link>
-      <description>connect24h: 勘弁してほしい。VPNの秘密鍵が平文で抜ける。 CVE-2026-14227（CVSS 4.9）は、APIを有効化したMikroTik RouterOSの全versionが対象。権限を下げても既存sessionが旧権限を保持し、 WireGuard private keyへ届く。CISAはVPN</description>
-      <pubDate>Fri, 31 Jul 2026 11:07:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/connect24h/status/2083147442715828606</guid>
     </item>
   </channel>
 </rss>

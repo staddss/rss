@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>書きました。 --- Cloudflare Tunnel +Accessで自宅LLM公開、CF WorkerでOpenAI/Anthropic互換に｜greendrop https://t.co/fZ2oA19b2p</title>
+      <link>https://x.com/greendrop269/status/2084771465812206055</link>
+      <description>greendrop: 書きました。 --- Cloudflare Tunnel +Accessで自宅LLM公開、CF WorkerでOpenAI/Anthropic互換に｜greendrop https://t.co/fZ2oA19b2p</description>
+      <pubDate>Tue, 04 Aug 2026 22:40:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/greendrop269/status/2084771465812206055</guid>
+    </item>
+    <item>
       <title>各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</title>
       <link>https://x.com/y_mikou/status/2084676676576002539</link>
       <description>みこう悠長: 各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</description>
@@ -24,6 +31,13 @@
       <description>AME Tarmin: 1 万 7 千円台の中古ノート PC と Cloudflare Tunnel で、外出先から AI に開発させる｜AME Tarmin @AMETaitoAnemiya https://t.co/gJiQTVEPFL</description>
       <pubDate>Tue, 04 Aug 2026 14:20:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AMETaitoAnemiya/status/2084645704325279880</guid>
+    </item>
+    <item>
+      <title>@NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</title>
+      <link>https://x.com/LunarHealWisdom/status/2084503603000332426</link>
+      <description>🦊Yomi Watanuki: @NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</description>
+      <pubDate>Tue, 04 Aug 2026 04:56:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2084503603000332426</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel で自宅にVPNできた～</title>
@@ -262,20 +276,6 @@
       <description>ﾏﾁｭｰ: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/JLlnfmxyVa あとで見る</description>
       <pubDate>Tue, 21 Jul 2026 19:52:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kuuga_zeba/status/2079655889687236931</guid>
-    </item>
-    <item>
-      <title>サイドカーパターンで利用できる Cloudflare Tunnel エージェントをコンテナ（Podman Compose のサービス）で動かして、より本版に近い環境で開発するための記事を書くか。① 概要 ② Tunnel の運用まで ③ 安全のために Access を使う、という3シリーズで。</title>
-      <link>https://x.com/SeahalJa/status/2079364178796827056</link>
-      <description>SEAHAL(Ja): サイドカーパターンで利用できる Cloudflare Tunnel エージェントをコンテナ（Podman Compose のサービス）で動かして、より本版に近い環境で開発するための記事を書くか。① 概要 ② Tunnel の運用まで ③ 安全のために Access を使う、という3シリーズで。</description>
-      <pubDate>Tue, 21 Jul 2026 00:33:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079364178796827056</guid>
-    </item>
-    <item>
-      <title>さて、明日は Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用するみたいなのをリナックスホストから動作チェックして、内部に入ってパラメタを操作して、完遂させようではないか。これやってからでないと、ほかの作業が滞るしな。</title>
-      <link>https://x.com/SeahalJa/status/2079215916857115064</link>
-      <description>SEAHAL(Ja): さて、明日は Cloudflare Tunnel + Access と Tailscale のコンテナをサイドカーパターンで Podman Compose にて利用するみたいなのをリナックスホストから動作チェックして、内部に入ってパラメタを操作して、完遂させようではないか。これやってからでないと、ほかの作業が滞るしな。</description>
-      <pubDate>Mon, 20 Jul 2026 14:44:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079215916857115064</guid>
     </item>
   </channel>
 </rss>
