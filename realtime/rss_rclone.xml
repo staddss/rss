@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>失敗したらSlack に通知するようにしてマシンの死活監視はhttps://t.co/4ssiXW5uT9 で監視やー Rclone https://t.co/gQiGJO2fPu</title>
+      <link>https://x.com/tbshiki/status/2084846783042343222</link>
+      <description>つぶ: 失敗したらSlack に通知するようにしてマシンの死活監視はhttps://t.co/4ssiXW5uT9 で監視やー Rclone https://t.co/gQiGJO2fPu</description>
+      <pubDate>Wed, 05 Aug 2026 03:39:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tbshiki/status/2084846783042343222</guid>
+    </item>
+    <item>
       <title>特定のDropbox フォルダを定期的にGoogle Drive へ同期したくてLXC コンテナを立てて rclone 使って実装したぞー✊️ rclone めっちゃ便利や……</title>
       <link>https://x.com/tbshiki/status/2084846063052271963</link>
       <description>つぶ: 特定のDropbox フォルダを定期的にGoogle Drive へ同期したくてLXC コンテナを立てて rclone 使って実装したぞー✊️ rclone めっちゃ便利や……</description>
@@ -269,13 +276,6 @@
       <description>Hiroki Ito: データとコードを Rclone 経由で同期させる事で、ローカル環境を変えずにColab の計算資源を活用する構成を紹介しています。 VS Code × Google Colab × Rclone で作る、クラウドを活かした分析環境｜h.ito https://t.co/XCxh84aT7z #zenn</description>
       <pubDate>Sun, 05 Jul 2026 13:57:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hitopr05/status/2073768113040925144</guid>
-    </item>
-    <item>
-      <title>既存の分析環境への変更を最小限に抑えながら、クラウドを活用したデータ管理方法を紹介しています。 # Rclone Rclone × Google Driveで構築する、ローカル容量に悩まされないデータ管理｜h.ito https://t.co/p6xAe42e6H #zenn</title>
-      <link>https://x.com/kkktttkkkttt55/status/2073759315211522064</link>
-      <description>Hiroki Ito: 既存の分析環境への変更を最小限に抑えながら、クラウドを活用したデータ管理方法を紹介しています。 # Rclone Rclone × Google Driveで構築する、ローカル容量に悩まされないデータ管理｜h.ito https://t.co/p6xAe42e6H #zenn</description>
-      <pubDate>Sun, 05 Jul 2026 13:22:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kkktttkkkttt55/status/2073759315211522064</guid>
     </item>
   </channel>
 </rss>
