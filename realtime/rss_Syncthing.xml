@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>盆栽はさらに進み、今日はSplunkのOTelを進めたり Syncthing の設定をしました</title>
+      <link>https://x.com/chiryu______/status/2085024330849898728</link>
+      <description>ちりゅ: 盆栽はさらに進み、今日はSplunkのOTelを進めたり Syncthing の設定をしました</description>
+      <pubDate>Wed, 05 Aug 2026 15:25:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chiryu______/status/2085024330849898728</guid>
+    </item>
+    <item>
+      <title>syncthing 良いね</title>
+      <link>https://x.com/gdtsyscity/status/2084983751910818008</link>
+      <description>taka@ガジェット、システムそして都市: syncthing 良いね</description>
+      <pubDate>Wed, 05 Aug 2026 12:43:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gdtsyscity/status/2084983751910818008</guid>
+    </item>
+    <item>
+      <title>win-ubuntuはファイルでの共有のほうが助かるので、 syncthing でちょうど良かったんだけど、iPad-win/ubuntuは syncthing 使えなくてどうしよう？</title>
+      <link>https://x.com/fuyuton/status/2084919152163348666</link>
+      <description>冬斗(ふゆとん): win-ubuntuはファイルでの共有のほうが助かるので、 syncthing でちょうど良かったんだけど、iPad-win/ubuntuは syncthing 使えなくてどうしよう？</description>
+      <pubDate>Wed, 05 Aug 2026 08:27:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fuyuton/status/2084919152163348666</guid>
+    </item>
+    <item>
       <title>ということで、obsidianで書いたものをubuntuにシンクロするために syncthing 入れたので、設定中</title>
       <link>https://x.com/fuyuton/status/2084918339344937396</link>
       <description>冬斗(ふゆとん): ということで、obsidianで書いたものをubuntuにシンクロするために syncthing 入れたので、設定中</description>
@@ -220,13 +241,6 @@
       <description>のがみ: HermesのホストPCが常時稼働しているので、Obsidian Vaultの共有はOneDriveから Syncthing に変更しようかな。Tailscaleを使えば外部ネットワークからでも共有できるっぽいし。結局スマホからVault内のノートを直接見ることはほぼなく、Hermesに探させて必要な部分だけ抜粋してもらえれば十分だし。</description>
       <pubDate>Wed, 08 Jul 2026 13:26:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/phasephi/status/2074847586650075256</guid>
-    </item>
-    <item>
-      <title>Syncthing のセットアップができた これでスマホが自宅LANに接続するたびにNASにローカルデータをどんどん投げ込んでくれるはずだ</title>
-      <link>https://x.com/kazkuro/status/2074119017716150327</link>
-      <description>kazkuro: ★: Syncthing のセットアップができた これでスマホが自宅LANに接続するたびにNASにローカルデータをどんどん投げ込んでくれるはずだ</description>
-      <pubDate>Mon, 06 Jul 2026 13:11:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazkuro/status/2074119017716150327</guid>
     </item>
     <item>
       <title>Syncthing 、要はマルチプラットフォームかつ、P2Pで直接他のマシンのフォルダ同期を行うOSSで、常時稼働のストレージサーバ生やせば容量無限のDropboxみたいな使い方が出来る。 初期設定だと、P2P接続が確立できなければ公式/有志で公開されてるリレーサーバ経由で転送を行ったりNAT越えの支援もある</title>

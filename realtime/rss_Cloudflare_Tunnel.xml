@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</title>
+      <link>https://x.com/hogehoge1600/status/2084773021185912999</link>
+      <description>mr.Bones: 当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</description>
+      <pubDate>Tue, 04 Aug 2026 22:46:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hogehoge1600/status/2084773021185912999</guid>
+    </item>
+    <item>
       <title>書きました。 --- Cloudflare Tunnel +Accessで自宅LLM公開、CF WorkerでOpenAI/Anthropic互換に｜greendrop https://t.co/fZ2oA19b2p</title>
       <link>https://x.com/greendrop269/status/2084771465812206055</link>
       <description>greendrop: 書きました。 --- Cloudflare Tunnel +Accessで自宅LLM公開、CF WorkerでOpenAI/Anthropic互換に｜greendrop https://t.co/fZ2oA19b2p</description>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): おはようございます。 1) 開発支援系は Tailscale や cloudflare tunnel の最終チェック 2)いま途中のままになっている実装系をやって、終わり次第にソーシャルログインの強化、通知系のビルドアップします。 ３) テック系のブログの仕組みの DNS 関連を構築します というのを午前はやります。</description>
       <pubDate>Tue, 21 Jul 2026 23:04:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2079704203921137733</guid>
-    </item>
-    <item>
-      <title>無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/JLlnfmxyVa あとで見る</title>
-      <link>https://x.com/kuuga_zeba/status/2079655889687236931</link>
-      <description>ﾏﾁｭｰ: 無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「 Cloudflare Tunnel 」を使ってみた - GIGAZINE https://t.co/JLlnfmxyVa あとで見る</description>
-      <pubDate>Tue, 21 Jul 2026 19:52:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuuga_zeba/status/2079655889687236931</guid>
     </item>
   </channel>
 </rss>

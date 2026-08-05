@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>にしても、CDN用の出口IP固定の方の手順情報が少な過ぎるな CloudFlare Zero Trustの WireGuard フォークのVPNの方の出口IP固定化の方は割と情報あるけど</title>
+      <link>https://x.com/haturatutaro/status/2084982637136171292</link>
+      <description>今も元気ハツラツ太郎: にしても、CDN用の出口IP固定の方の手順情報が少な過ぎるな CloudFlare Zero Trustの WireGuard フォークのVPNの方の出口IP固定化の方は割と情報あるけど</description>
+      <pubDate>Wed, 05 Aug 2026 12:39:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084982637136171292</guid>
+    </item>
+    <item>
       <title>“つまり本サービスは、オープンソースとして公開されているTailscaleのクライアントコードを土台としていることになる。” / “これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】” https://t.co/XBH5kgDogl</title>
       <link>https://x.com/kogure/status/2084899640856735776</link>
       <description>˗ˋˏ コグレマサト|ネタフル ˎˊ˗: “つまり本サービスは、オープンソースとして公開されているTailscaleのクライアントコードを土台としていることになる。” / “これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】” https://t.co/XBH5kgDogl</description>
       <pubDate>Wed, 05 Aug 2026 07:09:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kogure/status/2084899640856735776</guid>
+    </item>
+    <item>
+      <title>Proxmox VE、Nginx Proxy Manager、Docker、 WireGuard 、Cloudflaredのせっていちゅー...</title>
+      <link>https://x.com/Soryu_VRC/status/2084859603557458115</link>
+      <description>そぉりゅぅ。/VRChat: Proxmox VE、Nginx Proxy Manager、Docker、 WireGuard 、Cloudflaredのせっていちゅー...</description>
+      <pubDate>Wed, 05 Aug 2026 04:30:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Soryu_VRC/status/2084859603557458115</guid>
     </item>
     <item>
       <title>@taitai2661dayo 私はnordvpnを使ってますが、nordvpnでも通常の wireguard を使えば共存できます！ ただnordvpnアプリだと不可...</title>
@@ -262,20 +276,6 @@
       <description>末​⁠͏⁠⁠端​⁠͏⁠⁠消​⁠͏⁠⁠費​⁠͏⁠⁠者: できた～ 中古のDynabookでサーバーを動かし、Oracle Cloudから受け取った通信を WireGuard でDynabookへ中継し……という形 https://t.co/MjLy0Aq5gc</description>
       <pubDate>Sat, 01 Aug 2026 09:30:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/epEAUAekqt79043/status/2083485463122513983</guid>
-    </item>
-    <item>
-      <title>購入したトラベルルーターのセットアップ中。 wireguard 準備しないと</title>
-      <link>https://x.com/ria_uv/status/2083453686349742356</link>
-      <description>uv_melo_ria: 購入したトラベルルーターのセットアップ中。 wireguard 準備しないと</description>
-      <pubDate>Sat, 01 Aug 2026 07:24:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ria_uv/status/2083453686349742356</guid>
-    </item>
-    <item>
-      <title>ガストのフリーWiFiでCloudFlare Oneが繋がらない問題に長年悩まされていたが、 WireGuard -&gt; MASQUEへプロトコルを変更して繋がるようになった。</title>
-      <link>https://x.com/tabimoba/status/2083371056451170757</link>
-      <description>tabimoba: ガストのフリーWiFiでCloudFlare Oneが繋がらない問題に長年悩まされていたが、 WireGuard -&gt; MASQUEへプロトコルを変更して繋がるようになった。</description>
-      <pubDate>Sat, 01 Aug 2026 01:55:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tabimoba/status/2083371056451170757</guid>
     </item>
   </channel>
 </rss>
