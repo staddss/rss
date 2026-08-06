@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard などを動かしてるホストだとipコマンドじゃないと経路情報とか分からないと思う</title>
+      <link>https://x.com/m_akihiro/status/2085227716731883574</link>
+      <description>まきひろ: wireguard などを動かしてるホストだとipコマンドじゃないと経路情報とか分からないと思う</description>
+      <pubDate>Thu, 06 Aug 2026 04:53:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_akihiro/status/2085227716731883574</guid>
+    </item>
+    <item>
+      <title>自宅サーバーって固定IP足りない問題が絶対あるけど wireguard とIPレンタルできるvps借りてフルNATすればスループットは微妙かもしれんが解決はするよな</title>
+      <link>https://x.com/movingemoji/status/2085225348581785808</link>
+      <description>MovingEmoji | クラウドの人: 自宅サーバーって固定IP足りない問題が絶対あるけど wireguard とIPレンタルできるvps借りてフルNATすればスループットは微妙かもしれんが解決はするよな</description>
+      <pubDate>Thu, 06 Aug 2026 04:43:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/movingemoji/status/2085225348581785808</guid>
+    </item>
+    <item>
+      <title>仕事で wireguard やopenVPNを使うようになっちゃったので日頃使っているtailScaleとの比較や各仕組みを勉強しよう まだ、豆知識は下記だけ IPv6側に映像等のリアルタイム系は逃がしがちなこと</title>
+      <link>https://x.com/kenimo49/status/2085167007419576484</link>
+      <description>井本賢 | kenimo49: 仕事で wireguard やopenVPNを使うようになっちゃったので日頃使っているtailScaleとの比較や各仕組みを勉強しよう まだ、豆知識は下記だけ IPv6側に映像等のリアルタイム系は逃がしがちなこと</description>
+      <pubDate>Thu, 06 Aug 2026 00:52:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kenimo49/status/2085167007419576484</guid>
+    </item>
+    <item>
+      <title>私的な気持ちの良い構成は WireGuard サーバー内、ここで言うとCloudflare Tunnelのプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</title>
+      <link>https://x.com/haturatutaro/status/2084988316286668862</link>
+      <description>今も元気ハツラツ太郎: 私的な気持ちの良い構成は WireGuard サーバー内、ここで言うとCloudflare Tunnelのプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</description>
+      <pubDate>Wed, 05 Aug 2026 13:02:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084988316286668862</guid>
+    </item>
+    <item>
       <title>にしても、CDN用の出口IP固定の方の手順情報が少な過ぎるな CloudFlare Zero Trustの WireGuard フォークのVPNの方の出口IP固定化の方は割と情報あるけど</title>
       <link>https://x.com/haturatutaro/status/2084982637136171292</link>
       <description>今も元気ハツラツ太郎: にしても、CDN用の出口IP固定の方の手順情報が少な過ぎるな CloudFlare Zero Trustの WireGuard フォークのVPNの方の出口IP固定化の方は割と情報あるけど</description>
@@ -248,34 +276,6 @@
       <description>Nomad Movement: 2026年夏のノマド装備（ゼロトラスト・ポータブルセキュリティ）：パスワード認証を完全廃止し物理タッチで乗っ取りを遮断する「YubiKey 5C NFC」や、通信を軍事級に暗号化する「 WireGuard VPN内蔵の極小ポータブルWi-Fi 7ルーター」</description>
       <pubDate>Sat, 01 Aug 2026 23:20:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Nomad_Movement/status/2083694480889422315</guid>
-    </item>
-    <item>
-      <title>ずっと前は最低二週間ログを保持する筑波VのL2TPで全く暗号化がなかった馬鹿ですどうも（） んでその次は拡張機能プロキシオンリー（ 今は Wireguard 就いたから結構良くなったよね..</title>
-      <link>https://x.com/L_port53/status/2083503245373190312</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: ずっと前は最低二週間ログを保持する筑波VのL2TPで全く暗号化がなかった馬鹿ですどうも（） んでその次は拡張機能プロキシオンリー（ 今は Wireguard 就いたから結構良くなったよね..</description>
-      <pubDate>Sat, 01 Aug 2026 10:40:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2083503245373190312</guid>
-    </item>
-    <item>
-      <title>他に何必要？ WireGuard て一応途中でネットワーク監視されないようにはしたけど、、</title>
-      <link>https://x.com/L_port53/status/2083493989303382286</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: 他に何必要？ WireGuard て一応途中でネットワーク監視されないようにはしたけど、、</description>
-      <pubDate>Sat, 01 Aug 2026 10:04:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2083493989303382286</guid>
-    </item>
-    <item>
-      <title>学タブをとりあえず Wi-FiのDNSは消せるものはすべて0.0.0.0に置き換える Wireguard を接続 Wireguard のDNSにNextDNSとサブで1.1.1.2を割り当て 規制突破を必要としない場合は拡張機能プロキシも追加してブラウザはマルチホップ (可能であればWi-FiとVPNの間にSOCKS5またはHTTPS, HTTPプロキシが欲しい)</title>
-      <link>https://x.com/L_port53/status/2083493669340938396</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: 学タブをとりあえず Wi-FiのDNSは消せるものはすべて0.0.0.0に置き換える Wireguard を接続 Wireguard のDNSにNextDNSとサブで1.1.1.2を割り当て 規制突破を必要としない場合は拡張機能プロキシも追加してブラウザはマルチホップ (可能であればWi-FiとVPNの間にSOCKS5またはHTTPS, HTTPプロキシが欲しい)</description>
-      <pubDate>Sat, 01 Aug 2026 10:02:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2083493669340938396</guid>
-    </item>
-    <item>
-      <title>できた～ 中古のDynabookでサーバーを動かし、Oracle Cloudから受け取った通信を WireGuard でDynabookへ中継し……という形 https://t.co/MjLy0Aq5gc</title>
-      <link>https://x.com/epEAUAekqt79043/status/2083485463122513983</link>
-      <description>末​⁠͏⁠⁠端​⁠͏⁠⁠消​⁠͏⁠⁠費​⁠͏⁠⁠者: できた～ 中古のDynabookでサーバーを動かし、Oracle Cloudから受け取った通信を WireGuard でDynabookへ中継し……という形 https://t.co/MjLy0Aq5gc</description>
-      <pubDate>Sat, 01 Aug 2026 09:30:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/epEAUAekqt79043/status/2083485463122513983</guid>
     </item>
   </channel>
 </rss>

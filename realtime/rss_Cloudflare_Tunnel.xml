@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>私的な気持ちの良い構成はWireGuardサーバー内、ここで言うと Cloudflare Tunnel のプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</title>
+      <link>https://x.com/haturatutaro/status/2084988316286668862</link>
+      <description>今も元気ハツラツ太郎: 私的な気持ちの良い構成はWireGuardサーバー内、ここで言うと Cloudflare Tunnel のプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</description>
+      <pubDate>Wed, 05 Aug 2026 13:02:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084988316286668862</guid>
+    </item>
+    <item>
       <title>当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</title>
       <link>https://x.com/hogehoge1600/status/2084773021185912999</link>
       <description>mr.Bones: 当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</description>
@@ -269,13 +276,6 @@
       <description>Linuxmetel: @Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</description>
       <pubDate>Wed, 22 Jul 2026 02:39:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/linuxmetel/status/2079758246693539900</guid>
-    </item>
-    <item>
-      <title>おはようございます。 1) 開発支援系は Tailscale や cloudflare tunnel の最終チェック 2)いま途中のままになっている実装系をやって、終わり次第にソーシャルログインの強化、通知系のビルドアップします。 ３) テック系のブログの仕組みの DNS 関連を構築します というのを午前はやります。</title>
-      <link>https://x.com/SeahalJa/status/2079704203921137733</link>
-      <description>SEAHAL(Ja): おはようございます。 1) 開発支援系は Tailscale や cloudflare tunnel の最終チェック 2)いま途中のままになっている実装系をやって、終わり次第にソーシャルログインの強化、通知系のビルドアップします。 ３) テック系のブログの仕組みの DNS 関連を構築します というのを午前はやります。</description>
-      <pubDate>Tue, 21 Jul 2026 23:04:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079704203921137733</guid>
     </item>
   </channel>
 </rss>
