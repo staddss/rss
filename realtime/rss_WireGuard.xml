@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>XServerを契約済みなので、固定IPにXServerのサービスを使おうと思ったら、Pop!_OSから全く接続できず。 どうやらこれのネットワークGUIがPSK設定をドロップするらしい。 という記事を書かせました。 Pop!_OS の設定画面から WireGuard を読み込むと繋がらない https://t.co/30gw6PYTdG https://t.co/PGzmmln3eC</title>
+      <link>https://x.com/kkotaro0111/status/2085246566915563941</link>
+      <description>川嶋光太郎 - ウェブデザイナー / フロントエンドエンジニア: XServerを契約済みなので、固定IPにXServerのサービスを使おうと思ったら、Pop!_OSから全く接続できず。 どうやらこれのネットワークGUIがPSK設定をドロップするらしい。 という記事を書かせました。 Pop!_OS の設定画面から WireGuard を読み込むと繋がらない https://t.co/30gw6PYTdG https://t.co/PGzmmln3eC</description>
+      <pubDate>Thu, 06 Aug 2026 06:08:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kkotaro0111/status/2085246566915563941</guid>
+    </item>
+    <item>
       <title>wireguard などを動かしてるホストだとipコマンドじゃないと経路情報とか分からないと思う</title>
       <link>https://x.com/m_akihiro/status/2085227716731883574</link>
       <description>まきひろ: wireguard などを動かしてるホストだとipコマンドじゃないと経路情報とか分からないと思う</description>
@@ -269,13 +276,6 @@
       <description>ドラ/ Dora: オンプレでAD建てると外出先でwindowsログインできんくなるんよなぁ。タスクスケジューラーで wireguard をローカルアカウントで起動させるっていうのもあるけどなんか美しくないんだよな。専用回線引っ張るしか方法ないのかなぁ？</description>
       <pubDate>Sun, 02 Aug 2026 00:10:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tatsumi_dora/status/2083706918783381938</guid>
-    </item>
-    <item>
-      <title>2026年夏のノマド装備（ゼロトラスト・ポータブルセキュリティ）：パスワード認証を完全廃止し物理タッチで乗っ取りを遮断する「YubiKey 5C NFC」や、通信を軍事級に暗号化する「 WireGuard VPN内蔵の極小ポータブルWi-Fi 7ルーター」</title>
-      <link>https://x.com/Nomad_Movement/status/2083694480889422315</link>
-      <description>Nomad Movement: 2026年夏のノマド装備（ゼロトラスト・ポータブルセキュリティ）：パスワード認証を完全廃止し物理タッチで乗っ取りを遮断する「YubiKey 5C NFC」や、通信を軍事級に暗号化する「 WireGuard VPN内蔵の極小ポータブルWi-Fi 7ルーター」</description>
-      <pubDate>Sat, 01 Aug 2026 23:20:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Nomad_Movement/status/2083694480889422315</guid>
     </item>
   </channel>
 </rss>

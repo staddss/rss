@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>#Qiita ブログ公開！ 本記事では、 rclone unionのcreate_policy = allを使うことで、1回のアップロード操作でAkamai Object Storageの東京・大阪両方のバケットに同時に複製できることを、実際のAkamai Cloud環境で検証してみました。 https://t.co/OXYNOgwqG5 @Qiita #テックブログ #クラウド https://t.co/aQL6R5er0s</title>
+      <link>https://x.com/akamai_jp/status/2085274827422675401</link>
+      <description>アカマイ･テクノロジーズ: #Qiita ブログ公開！ 本記事では、 rclone unionのcreate_policy = allを使うことで、1回のアップロード操作でAkamai Object Storageの東京・大阪両方のバケットに同時に複製できることを、実際のAkamai Cloud環境で検証してみました。 https://t.co/OXYNOgwqG5 @Qiita #テックブログ #クラウド https://t.co/aQL6R5er0s</description>
+      <pubDate>Thu, 06 Aug 2026 08:00:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akamai_jp/status/2085274827422675401</guid>
+    </item>
+    <item>
+      <title>NixOSでのGoogle Grive、 rclone で頑張ってたけどInsync買ったら調子良すぎて有料プロダクトってすげ〜〜〜〜〜になってる</title>
+      <link>https://x.com/fly_2_fake/status/2084952086643626369</link>
+      <description>fly_2_fake: NixOSでのGoogle Grive、 rclone で頑張ってたけどInsync買ったら調子良すぎて有料プロダクトってすげ〜〜〜〜〜になってる</description>
+      <pubDate>Wed, 05 Aug 2026 10:38:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fly_2_fake/status/2084952086643626369</guid>
+    </item>
+    <item>
       <title>失敗したらSlack に通知するようにしてマシンの死活監視はhttps://t.co/4ssiXW5uT9 で監視やー Rclone https://t.co/gQiGJO2fPu</title>
       <link>https://x.com/tbshiki/status/2084846783042343222</link>
       <description>つぶ: 失敗したらSlack に通知するようにしてマシンの死活監視はhttps://t.co/4ssiXW5uT9 で監視やー Rclone https://t.co/gQiGJO2fPu</description>
@@ -255,13 +269,6 @@
       <description>public_yusuke: じゃ、異なる 2 箇所に rclone でデータ引っ張ってきたから共有ドライブ消させてもらうね……</description>
       <pubDate>Tue, 07 Jul 2026 13:26:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/public_yusuke/status/2074485202022474077</guid>
-    </item>
-    <item>
-      <title>WSLで rclone を動かして、外付けHDDにOneDriveのバックアップ取るとか。windows版もあるんじゃない？ https://t.co/XYwia9afvl</title>
-      <link>https://x.com/_salt_and_light/status/2074402250232156178</link>
-      <description>SL: WSLで rclone を動かして、外付けHDDにOneDriveのバックアップ取るとか。windows版もあるんじゃない？ https://t.co/XYwia9afvl</description>
-      <pubDate>Tue, 07 Jul 2026 07:56:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_salt_and_light/status/2074402250232156178</guid>
     </item>
   </channel>
 </rss>
