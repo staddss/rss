@@ -5,11 +5,18 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>私的な気持ちの良い構成はWireGuardサーバー内、ここで言うと Cloudflare Tunnel のプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</title>
-      <link>https://x.com/haturatutaro/status/2084988316286668862</link>
-      <description>今も元気ハツラツ太郎: 私的な気持ちの良い構成はWireGuardサーバー内、ここで言うと Cloudflare Tunnel のプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</description>
-      <pubDate>Wed, 05 Aug 2026 13:02:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084988316286668862</guid>
+      <title>帰ったら復旧用に cloudflare tunnel 作っとくかあ</title>
+      <link>https://x.com/UtimiaAurai/status/2085487584176923067</link>
+      <description>𝚄𝚝𝚒𝚖𝚒𝚊 𝙰𝚞𝚛𝚊𝚒 🜸🐉: 帰ったら復旧用に cloudflare tunnel 作っとくかあ</description>
+      <pubDate>Thu, 06 Aug 2026 22:06:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UtimiaAurai/status/2085487584176923067</guid>
+    </item>
+    <item>
+      <title>Cloudflare tunnel はHTTPしか通らないのが残念 https://t.co/diGw4Lyr3Y</title>
+      <link>https://x.com/boxfish_jp/status/2085209197847961730</link>
+      <description>ふぐお: Cloudflare tunnel はHTTPしか通らないのが残念 https://t.co/diGw4Lyr3Y</description>
+      <pubDate>Thu, 06 Aug 2026 03:39:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/boxfish_jp/status/2085209197847961730</guid>
     </item>
     <item>
       <title>当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</title>
@@ -269,13 +276,6 @@
       <description>SEAHAL(Ja): なんか、サイドカーパターンとかそんなの不要で Rails の開発コンテナのサービスイメージに tailscale のエージェントを入れておいて、環境変数のみでアクセスの可否ができるようにしておけばよかった？これは、 Cloudflare Tunnel もそうだけど。</description>
       <pubDate>Wed, 22 Jul 2026 04:14:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2079782127756075511</guid>
-    </item>
-    <item>
-      <title>@Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</title>
-      <link>https://x.com/linuxmetel/status/2079758246693539900</link>
-      <description>Linuxmetel: @Bitrate0 NAT 越えをしているので結構大きなポート番号しか使えない、まあ Cloudflare Tunnel とか使うのが正しいかも</description>
-      <pubDate>Wed, 22 Jul 2026 02:39:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/linuxmetel/status/2079758246693539900</guid>
     </item>
   </channel>
 </rss>

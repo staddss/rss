@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</title>
+      <link>https://x.com/Septe_l/status/2085254671351021794</link>
+      <description>せぷてる: 最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</description>
+      <pubDate>Thu, 06 Aug 2026 06:40:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Septe_l/status/2085254671351021794</guid>
+    </item>
+    <item>
       <title>XServerを契約済みなので、固定IPにXServerのサービスを使おうと思ったら、Pop!_OSから全く接続できず。 どうやらこれのネットワークGUIがPSK設定をドロップするらしい。 という記事を書かせました。 Pop!_OS の設定画面から WireGuard を読み込むと繋がらない https://t.co/30gw6PYTdG https://t.co/PGzmmln3eC</title>
       <link>https://x.com/kkotaro0111/status/2085246566915563941</link>
       <description>川嶋光太郎 - ウェブデザイナー / フロントエンドエンジニア: XServerを契約済みなので、固定IPにXServerのサービスを使おうと思ったら、Pop!_OSから全く接続できず。 どうやらこれのネットワークGUIがPSK設定をドロップするらしい。 という記事を書かせました。 Pop!_OS の設定画面から WireGuard を読み込むと繋がらない https://t.co/30gw6PYTdG https://t.co/PGzmmln3eC</description>
@@ -31,13 +38,6 @@
       <description>井本賢 | kenimo49: 仕事で wireguard やopenVPNを使うようになっちゃったので日頃使っているtailScaleとの比較や各仕組みを勉強しよう まだ、豆知識は下記だけ IPv6側に映像等のリアルタイム系は逃がしがちなこと</description>
       <pubDate>Thu, 06 Aug 2026 00:52:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kenimo49/status/2085167007419576484</guid>
-    </item>
-    <item>
-      <title>私的な気持ちの良い構成は WireGuard サーバー内、ここで言うとCloudflare Tunnelのプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</title>
-      <link>https://x.com/haturatutaro/status/2084988316286668862</link>
-      <description>今も元気ハツラツ太郎: 私的な気持ちの良い構成は WireGuard サーバー内、ここで言うとCloudflare Tunnelのプライベートネットワーク内でアプリ間疎通でパブリックなものだけを露呈して展開するのが構成的に好きだけど、結局そのwgピアノードのデーモンをどこで立てるかなんだよな</description>
-      <pubDate>Wed, 05 Aug 2026 13:02:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084988316286668862</guid>
     </item>
     <item>
       <title>にしても、CDN用の出口IP固定の方の手順情報が少な過ぎるな CloudFlare Zero Trustの WireGuard フォークのVPNの方の出口IP固定化の方は割と情報あるけど</title>

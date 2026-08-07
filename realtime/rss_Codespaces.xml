@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短選び方： Codespaces / Gitpod / Cloud9 を目的別に比較して今すぐPoCを始める方法 https://t.co/mMYAU45QJr #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2085526728500265362</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短選び方： Codespaces / Gitpod / Cloud9 を目的別に比較して今すぐPoCを始める方法 https://t.co/mMYAU45QJr #エンジニア #ChatGPT #AI</description>
+      <pubDate>Fri, 07 Aug 2026 00:41:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2085526728500265362</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と30日POC手順 https://t.co/7ZrUsqAL7C #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2085164218194534634</link>
       <description>EngiNear: 【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と30日POC手順 https://t.co/7ZrUsqAL7C #エンジニア #ChatGPT #AI</description>
       <pubDate>Thu, 06 Aug 2026 00:41:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2085164218194534634</guid>
+    </item>
+    <item>
+      <title>By the way GitHub Codespaces のタブの見た目って変わった？ちょっと境界が見えにくくて辛いんだが。</title>
+      <link>https://x.com/ymd65536/status/2085007335169347983</link>
+      <description>Kento.Yamada: By the way GitHub Codespaces のタブの見た目って変わった？ちょっと境界が見えにくくて辛いんだが。</description>
+      <pubDate>Wed, 05 Aug 2026 14:17:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ymd65536/status/2085007335169347983</guid>
     </item>
     <item>
       <title>@pkm_tk111 8GBだとAgent並列は確かにきついね。Cloud IDEやGitHub Codespaces で環境を外に出す選択肢もあるよ。ローカルのスペックに依存しなくなると、automationも安定するし開発体験が全然違う。</title>
@@ -262,20 +276,6 @@
       <description>Koichi Yamada: GH-900 GitHub Foundations 対策問題集を更新しました。 GitHub の基本操作、コラボレーション、Projects、Actions、 Codespaces 、Copilot まで幅広く復習できます。 本番前の総仕上げにどうぞ。 特別クーポンはこちら👇 https://t.co/F87D5c7lbR #udemy #GH900 #GitHub</description>
       <pubDate>Tue, 14 Jul 2026 09:21:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_koichiyamada/status/2076960140453179484</guid>
-    </item>
-    <item>
-      <title>ちなみに今回 GitHub Codespaces でやるのですが、（GitHub Copilot など）コーディングエージェントとの効率的な連携も実践できればと思ってます！</title>
-      <link>https://x.com/himarin269/status/2076893295779905613</link>
-      <description>ひらりん (Takumasa Hirabayashi): ちなみに今回 GitHub Codespaces でやるのですが、（GitHub Copilot など）コーディングエージェントとの効率的な連携も実践できればと思ってます！</description>
-      <pubDate>Tue, 14 Jul 2026 04:55:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/himarin269/status/2076893295779905613</guid>
-    </item>
-    <item>
-      <title>2026071[0-3] - Plaud ちょっと気になってる - GitHub Codespaces 便利ではある - ONNXRuntime-Web 気になる - Vercel AI Gateway 良さげ - Loop Engineering 気になる - Agent Skills について改めて学んでみる - Instant Navigations 気になる - 私はもう少し私を諦めるべきだ - Ollama 触ってみた</title>
-      <link>https://x.com/TOMOQ8192/status/2076688252455809139</link>
-      <description>tomoq: 2026071[0-3] - Plaud ちょっと気になってる - GitHub Codespaces 便利ではある - ONNXRuntime-Web 気になる - Vercel AI Gateway 良さげ - Loop Engineering 気になる - Agent Skills について改めて学んでみる - Instant Navigations 気になる - 私はもう少し私を諦めるべきだ - Ollama 触ってみた</description>
-      <pubDate>Mon, 13 Jul 2026 15:20:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TOMOQ8192/status/2076688252455809139</guid>
     </item>
   </channel>
 </rss>
