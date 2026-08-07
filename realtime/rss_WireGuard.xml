@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromebook duet 11の設定を続けている WireGuard がシステムに組み込みなのは助かった キーボードはJIS配列だし、打鍵感もいまいちだったので速攻で外し箱にしまった</title>
+      <link>https://x.com/h_araki/status/2085465199725941140</link>
+      <description>荒木 宏之: Chromebook duet 11の設定を続けている WireGuard がシステムに組み込みなのは助かった キーボードはJIS配列だし、打鍵感もいまいちだったので速攻で外し箱にしまった</description>
+      <pubDate>Thu, 06 Aug 2026 20:37:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/h_araki/status/2085465199725941140</guid>
+    </item>
+    <item>
       <title>最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</title>
       <link>https://x.com/Septe_l/status/2085254671351021794</link>
       <description>せぷてる: 最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</description>
@@ -269,13 +276,6 @@
       <description>-akku-: ChromeOSの WireGuard 実装がカスな可能性が高い</description>
       <pubDate>Sun, 02 Aug 2026 04:55:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akku1139/status/2083778730946871348</guid>
-    </item>
-    <item>
-      <title>オンプレでAD建てると外出先でwindowsログインできんくなるんよなぁ。タスクスケジューラーで wireguard をローカルアカウントで起動させるっていうのもあるけどなんか美しくないんだよな。専用回線引っ張るしか方法ないのかなぁ？</title>
-      <link>https://x.com/tatsumi_dora/status/2083706918783381938</link>
-      <description>ドラ/ Dora: オンプレでAD建てると外出先でwindowsログインできんくなるんよなぁ。タスクスケジューラーで wireguard をローカルアカウントで起動させるっていうのもあるけどなんか美しくないんだよな。専用回線引っ張るしか方法ないのかなぁ？</description>
-      <pubDate>Sun, 02 Aug 2026 00:10:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tatsumi_dora/status/2083706918783381938</guid>
     </item>
   </channel>
 </rss>
