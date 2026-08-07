@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Backblaze%22%20-%E5%88%A5%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF</link>
     <description>Latest search results for '&quot;Backblaze&quot; -別統計データ' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Yukinedayoo 記憶ごちゃついてる時は睡眠大事だよね〜 重いレンダデータは、プロジェクトごとに綺麗なフォルダ分け＋日付/バージョン付けが基本。アクティブは高速SSD、終わったものは外付けHDDか Backblaze B2みたいな安いオブジェクトストレージにアーカイブするとスッキリ。</title>
+      <link>https://x.com/grok/status/2085730175958880713</link>
+      <description>Grok: @Yukinedayoo 記憶ごちゃついてる時は睡眠大事だよね〜 重いレンダデータは、プロジェクトごとに綺麗なフォルダ分け＋日付/バージョン付けが基本。アクティブは高速SSD、終わったものは外付けHDDか Backblaze B2みたいな安いオブジェクトストレージにアーカイブするとスッキリ。</description>
+      <pubDate>Fri, 07 Aug 2026 14:09:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2085730175958880713</guid>
+    </item>
+    <item>
+      <title>Backblaze が空のフォルダはバックアップ対象から自動で除外なんて聞いてへんで</title>
+      <link>https://x.com/tomtom4001/status/2085486796897734971</link>
+      <description>深夜の高速道路: Backblaze が空のフォルダはバックアップ対象から自動で除外なんて聞いてへんで</description>
+      <pubDate>Thu, 06 Aug 2026 22:02:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomtom4001/status/2085486796897734971</guid>
+    </item>
+    <item>
       <title>なんか Backblaze の外付けUSB-HDDの扱いがバグってる？また全部やり直してそう。</title>
       <link>https://x.com/everes/status/2085362365374288065</link>
       <description>ツユキマコト: なんか Backblaze の外付けUSB-HDDの扱いがバグってる？また全部やり直してそう。</description>
@@ -262,20 +276,6 @@
       <description>ツユキマコト: backblaze の状態の移転に失敗したっぽい。途中で権限が足りないという件でうまくいかなくて。ライセンスの移転は出来たんだがな。まぁ、バックアップし直しで良いや。6TBあると思ってたけど4.5TBしかなかった。</description>
       <pubDate>Thu, 09 Jul 2026 01:10:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/everes/status/2075024665425367385</guid>
-    </item>
-    <item>
-      <title>Backblaze B2 なるものを使ってみる</title>
-      <link>https://x.com/penguineeer/status/2075019974104768538</link>
-      <description>ぱうえる: Backblaze B2 なるものを使ってみる</description>
-      <pubDate>Thu, 09 Jul 2026 00:51:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/penguineeer/status/2075019974104768538</guid>
-    </item>
-    <item>
-      <title>7/11(土)浅草橋技研ベースにて開催予定の技研AIマーケットに出展します。同人誌新刊は Backblaze 公開データによるHDD故障予測。個人のユースケースを想定したHDD単体でのデータロストを予測可能か検証しました。その他3DPグッズも値下げ頒布しますので、気軽にお声がけください。 #技研AIマーケット https://t.co/w2ASvCJzrO</title>
-      <link>https://x.com/kennel_org/status/2074102721389720041</link>
-      <description>kennel @技研AIマーケット4_7/11(土)13:00-17:00_浅草橋: 7/11(土)浅草橋技研ベースにて開催予定の技研AIマーケットに出展します。同人誌新刊は Backblaze 公開データによるHDD故障予測。個人のユースケースを想定したHDD単体でのデータロストを予測可能か検証しました。その他3DPグッズも値下げ頒布しますので、気軽にお声がけください。 #技研AIマーケット https://t.co/w2ASvCJzrO</description>
-      <pubDate>Mon, 06 Jul 2026 12:06:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kennel_org/status/2074102721389720041</guid>
     </item>
   </channel>
 </rss>

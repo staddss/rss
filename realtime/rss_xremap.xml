@@ -67,12 +67,5 @@
       <pubDate>Fri, 10 Jul 2026 08:28:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ncaq/status/2075497331953402330</guid>
     </item>
-    <item>
-      <title>Omarchy環境の xremap 。 SPACEキーを長押しにしたときはShiftキーとして機能させる。 英数キーの場合、長押しはF13キーとし、 xremap の virtual-modifierにF13キーを定義。英数キーと組み合わせることでemacsキーバインドを実現させてみた。</title>
-      <link>https://x.com/yuskesuzki/status/2074879878160335145</link>
-      <description>すずき@ニセ道民: Omarchy環境の xremap 。 SPACEキーを長押しにしたときはShiftキーとして機能させる。 英数キーの場合、長押しはF13キーとし、 xremap の virtual-modifierにF13キーを定義。英数キーと組み合わせることでemacsキーバインドを実現させてみた。</description>
-      <pubDate>Wed, 08 Jul 2026 15:34:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2074879878160335145</guid>
-    </item>
   </channel>
 </rss>
