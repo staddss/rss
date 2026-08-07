@@ -242,19 +242,5 @@
       <pubDate>Wed, 08 Jul 2026 11:26:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NonbiNon/status/2074817504774594941</guid>
     </item>
-    <item>
-      <title>NAS上でimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</title>
-      <link>https://x.com/touka_tt/status/2074763425264378243</link>
-      <description>Takayuki Tominaga: NAS上でimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</description>
-      <pubDate>Wed, 08 Jul 2026 07:52:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/touka_tt/status/2074763425264378243</guid>
-    </item>
-    <item>
-      <title>NASでimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</title>
-      <link>https://x.com/touka_tt/status/2074763325305671973</link>
-      <description>Takayuki Tominaga: NASでimmich稼働させて写真と映像はimmichで管理しつつ、 rclone でS3 Glacier Deep Archiveにバックアップする構成にする。</description>
-      <pubDate>Wed, 08 Jul 2026 07:51:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/touka_tt/status/2074763325305671973</guid>
-    </item>
   </channel>
 </rss>

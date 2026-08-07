@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>Crostini の運用において、ターミナルソフトがCtrl+Spaceを食ってしまい、IMEのON/OFFができない問題は、ちょっとどうにもならなそうなので、fcitx5-hazkey + gnome-terminal で運用することでかわすことにした。</title>
-      <link>https://x.com/h_araki/status/2085537350650822660</link>
-      <description>荒木 宏之: Crostini の運用において、ターミナルソフトがCtrl+Spaceを食ってしまい、IMEのON/OFFができない問題は、ちょっとどうにもならなそうなので、fcitx5-hazkey + gnome-terminal で運用することでかわすことにした。</description>
+      <title>想像もしていなかったのだけれど、WireGuardで自宅にVPNのセッションをはった状態では Crostini 側がこれを認識できておらず、うまく接続できない状態に＿ﾉ乙(､ﾝ､)_ これは想定外。</title>
+      <link>https://x.com/h_araki/status/2085537352127295522</link>
+      <description>荒木 宏之: 想像もしていなかったのだけれど、WireGuardで自宅にVPNのセッションをはった状態では Crostini 側がこれを認識できておらず、うまく接続できない状態に＿ﾉ乙(､ﾝ､)_ これは想定外。</description>
       <pubDate>Fri, 07 Aug 2026 01:23:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_araki/status/2085537350650822660</guid>
+      <guid isPermaLink="true">https://x.com/h_araki/status/2085537352127295522</guid>
     </item>
     <item>
       <title>盆休みの小旅行に携行出来るのはChromebook CX1のみだ。旅行半ば頃からはChromebookでRAW現像するしかない。ところがRaw TherapeeはChromeOSネイティブになっていない。てことで Crostini を導入して(10GBも占有した!!)sudo apt installしたけれど、このRaw Therapeeに慣れていない。やれやれ。</title>
@@ -66,13 +66,6 @@
       <description>KGNINJA: Codex Desktopの日本語表示はNoto CJKとFontconfigにより正常化できた。一方、日本語の直接入力は、Debian 13 Trixie上でChromeOSの Crostini https://t.co/RcXY4yWqEn</description>
       <pubDate>Mon, 20 Jul 2026 14:28:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/FuwaCocoOwnerKG/status/2079211734364303658</guid>
-    </item>
-    <item>
-      <title>水曜日。水牛100%モッツァレラのクロスティーニ。Mozzarella di Bufala Crostini . 今夜のMusic Spinは19:00▶️ てぃ武男 a.k.a. ROCK-Teeさんと、てぃ塚治虫 a.k.a. TATSUTAさんがお散歩スタイル？で登場する 「てぃ散歩」です🚶♂️🚶♂️🎶 本日も宜しくお願いいたします。 #mspin #musicspin https://t.co/3DGJsZpRcu</title>
-      <link>https://x.com/mspin_shimokita/status/2074766169782051102</link>
-      <description>mspin: 水曜日。水牛100%モッツァレラのクロスティーニ。Mozzarella di Bufala Crostini . 今夜のMusic Spinは19:00▶️ てぃ武男 a.k.a. ROCK-Teeさんと、てぃ塚治虫 a.k.a. TATSUTAさんがお散歩スタイル？で登場する 「てぃ散歩」です🚶♂️🚶♂️🎶 本日も宜しくお願いいたします。 #mspin #musicspin https://t.co/3DGJsZpRcu</description>
-      <pubDate>Wed, 08 Jul 2026 08:02:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mspin_shimokita/status/2074766169782051102</guid>
     </item>
   </channel>
 </rss>

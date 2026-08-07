@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/UtimiaAurai/status/2085487584176923067</guid>
     </item>
     <item>
+      <title>ローカルでWebhookサーバー起動 ↓ Cloudflare Tunnel 起動 ↓ 管理画面で商品情報を更新 ↓ Webhook受信 データをとれるって面白い～ #Shopify #StorefrontAPIお勉強中</title>
+      <link>https://x.com/eita_todokel/status/2085484171624161551</link>
+      <description>エイタ / 福岡でShopify: ローカルでWebhookサーバー起動 ↓ Cloudflare Tunnel 起動 ↓ 管理画面で商品情報を更新 ↓ Webhook受信 データをとれるって面白い～ #Shopify #StorefrontAPIお勉強中</description>
+      <pubDate>Thu, 06 Aug 2026 21:52:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/eita_todokel/status/2085484171624161551</guid>
+    </item>
+    <item>
       <title>Cloudflare tunnel はHTTPしか通らないのが残念 https://t.co/diGw4Lyr3Y</title>
       <link>https://x.com/boxfish_jp/status/2085209197847961730</link>
       <description>ふぐお: Cloudflare tunnel はHTTPしか通らないのが残念 https://t.co/diGw4Lyr3Y</description>
@@ -269,13 +276,6 @@
       <description>えとこー☕🇬🇧🎷: @kh1k1ta せっかくmTLS捨ててまで、Tailscaleのみにしたのに台無しです Cloudflare Tunnel 経由も整備するかー</description>
       <pubDate>Wed, 22 Jul 2026 13:42:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/etouK_Krelumo/status/2079925174397554716</guid>
-    </item>
-    <item>
-      <title>なんか、サイドカーパターンとかそんなの不要で Rails の開発コンテナのサービスイメージに tailscale のエージェントを入れておいて、環境変数のみでアクセスの可否ができるようにしておけばよかった？これは、 Cloudflare Tunnel もそうだけど。</title>
-      <link>https://x.com/SeahalJa/status/2079782127756075511</link>
-      <description>SEAHAL(Ja): なんか、サイドカーパターンとかそんなの不要で Rails の開発コンテナのサービスイメージに tailscale のエージェントを入れておいて、環境変数のみでアクセスの可否ができるようにしておけばよかった？これは、 Cloudflare Tunnel もそうだけど。</description>
-      <pubDate>Wed, 22 Jul 2026 04:14:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2079782127756075511</guid>
     </item>
   </channel>
 </rss>
