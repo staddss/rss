@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/h_araki/status/2085537352127295522</guid>
     </item>
     <item>
+      <title>Crostini の運用において、ターミナルソフトがCtrl+Spaceを食ってしまい、IMEのON/OFFができない問題は、ちょっとどうにもならなそうなので、fcitx5-hazkey + gnome-terminal で運用することでかわすことにした。</title>
+      <link>https://x.com/h_araki/status/2085537350650822660</link>
+      <description>荒木 宏之: Crostini の運用において、ターミナルソフトがCtrl+Spaceを食ってしまい、IMEのON/OFFができない問題は、ちょっとどうにもならなそうなので、fcitx5-hazkey + gnome-terminal で運用することでかわすことにした。</description>
+      <pubDate>Fri, 07 Aug 2026 01:23:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/h_araki/status/2085537350650822660</guid>
+    </item>
+    <item>
       <title>盆休みの小旅行に携行出来るのはChromebook CX1のみだ。旅行半ば頃からはChromebookでRAW現像するしかない。ところがRaw TherapeeはChromeOSネイティブになっていない。てことで Crostini を導入して(10GBも占有した!!)sudo apt installしたけれど、このRaw Therapeeに慣れていない。やれやれ。</title>
       <link>https://x.com/tohru_nishimura/status/2085235577319006260</link>
       <description>NISHIMURA Tohru: 盆休みの小旅行に携行出来るのはChromebook CX1のみだ。旅行半ば頃からはChromebookでRAW現像するしかない。ところがRaw TherapeeはChromeOSネイティブになっていない。てことで Crostini を導入して(10GBも占有した!!)sudo apt installしたけれど、このRaw Therapeeに慣れていない。やれやれ。</description>
