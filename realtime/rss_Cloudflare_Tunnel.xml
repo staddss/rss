@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</title>
+      <link>https://x.com/comocc/status/2086035397361250724</link>
+      <description>Akihiro Komori: ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</description>
+      <pubDate>Sat, 08 Aug 2026 10:22:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/comocc/status/2086035397361250724</guid>
+    </item>
+    <item>
       <title>あと、 Cloudflare Tunnel の一本化にともなって、Rails と Edge の NextJS と Hono たちに Access 制御をつけて、かつドメインも再設定する。そうすりゃ、開発とプロダクションのネットワークを完全に分離できちゃう。嬉しいね。</title>
       <link>https://x.com/SeahalJa/status/2086016758947987738</link>
       <description>SEAHAL(Ja): あと、 Cloudflare Tunnel の一本化にともなって、Rails と Edge の NextJS と Hono たちに Access 制御をつけて、かつドメインも再設定する。そうすりゃ、開発とプロダクションのネットワークを完全に分離できちゃう。嬉しいね。</description>
       <pubDate>Sat, 08 Aug 2026 09:08:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2086016758947987738</guid>
+    </item>
+    <item>
+      <title>PVEとImmichと Cloudflare Tunnel のアップグレードやっとおわった、、、、長い道のりだった...... https://t.co/3PUog47GCy</title>
+      <link>https://x.com/kakaka__082/status/2086005594155282821</link>
+      <description>かか化@C108|2日目東3㍁メ22b: PVEとImmichと Cloudflare Tunnel のアップグレードやっとおわった、、、、長い道のりだった...... https://t.co/3PUog47GCy</description>
+      <pubDate>Sat, 08 Aug 2026 08:24:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kakaka__082/status/2086005594155282821</guid>
     </item>
     <item>
       <title>今使ってるさくらのVPS からそろそろ cloudflare tunnel に入れ替えようかな。</title>
@@ -262,20 +276,6 @@
       <description>U-Not: 個人サービスを cloudflare tunnel でセルフホストにしたけど 特に困ることないなぁ vps解約するか</description>
       <pubDate>Thu, 23 Jul 2026 23:40:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/U_Not_401/status/2080438034986910056</guid>
-    </item>
-    <item>
-      <title>@kyeshimizu @rosso_dev &gt; Workers VPC -&gt; hyper drive -&gt; planetscale いただいたドキュメントからは↑でhyperdrive - PlanetScale間で内部通信できるように読めませんでした。 別のCloudflareのドキュメントで書かれているように、 Cloudflare Tunnel をPlanetScale側で用意したり（添付画像）、あらかじめWorkers VPC - https://t.co/sB5v8zF1Ui</title>
-      <link>https://x.com/yuyu_hf/status/2080307261239689246</link>
-      <description>いっぬ: @kyeshimizu @rosso_dev &gt; Workers VPC -&gt; hyper drive -&gt; planetscale いただいたドキュメントからは↑でhyperdrive - PlanetScale間で内部通信できるように読めませんでした。 別のCloudflareのドキュメントで書かれているように、 Cloudflare Tunnel をPlanetScale側で用意したり（添付画像）、あらかじめWorkers VPC - https://t.co/sB5v8zF1Ui</description>
-      <pubDate>Thu, 23 Jul 2026 15:01:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuyu_hf/status/2080307261239689246</guid>
-    </item>
-    <item>
-      <title>ササッと Cloudflare tunnel でcode-server介してagent接続にすっか。 これならスマホでいつでもどこでもイケるな。</title>
-      <link>https://x.com/yomoyamado/status/2080299426678263962</link>
-      <description>四方山堂: ササッと Cloudflare tunnel でcode-server介してagent接続にすっか。 これならスマホでいつでもどこでもイケるな。</description>
-      <pubDate>Thu, 23 Jul 2026 14:30:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yomoyamado/status/2080299426678263962</guid>
     </item>
   </channel>
 </rss>
