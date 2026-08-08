@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</title>
+      <link>https://x.com/haturatutaro/status/2085987381178445872</link>
+      <description>今も元気ハツラツ太郎: ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</description>
+      <pubDate>Sat, 08 Aug 2026 07:12:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2085987381178445872</guid>
+    </item>
+    <item>
+      <title>自分の従来のやり方だとLACP on VXLAN on WireGuard だったんだけど、これはMTUが1280まで削られてしまうので、そこそこ問題が起きていた。 そこで、改善策の予備調査として実装してみた。 OSPF+BIRD+BFD on WireGuard で、MTUは1420。</title>
+      <link>https://x.com/harishimizu/status/2085964229253935603</link>
+      <description>針泉@大鏡路地: 自分の従来のやり方だとLACP on VXLAN on WireGuard だったんだけど、これはMTUが1280まで削られてしまうので、そこそこ問題が起きていた。 そこで、改善策の予備調査として実装してみた。 OSPF+BIRD+BFD on WireGuard で、MTUは1420。</description>
+      <pubDate>Sat, 08 Aug 2026 05:40:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/harishimizu/status/2085964229253935603</guid>
+    </item>
+    <item>
+      <title>WireGuard の接続先をhostで指定していたら、 WireGuard 接続先にも配るDNSサーバとのブートストラップ問題が発生した</title>
+      <link>https://x.com/numanonu/status/2085785277663182998</link>
+      <description>ぬまのぬ: WireGuard の接続先をhostで指定していたら、 WireGuard 接続先にも配るDNSサーバとのブートストラップ問題が発生した</description>
+      <pubDate>Fri, 07 Aug 2026 17:48:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/numanonu/status/2085785277663182998</guid>
+    </item>
+    <item>
       <title>開発に関する全リソースをサーバに配置しMacを完全にシンクライアント化することに成功したけど、 WireGuard などのゼロトラスト技術の進歩したことをしみじみ。</title>
       <link>https://x.com/smdmts/status/2085670848728559837</link>
       <description>Masatoshi Shimada: 開発に関する全リソースをサーバに配置しMacを完全にシンクライアント化することに成功したけど、 WireGuard などのゼロトラスト技術の進歩したことをしみじみ。</description>
@@ -255,27 +276,6 @@
       <description>とーふ: 日本語で使えるのは便利 手順書作る手間が省ける でも Ansibleで構築できるようになるまで様子見かな これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Ldpr417ssj</description>
       <pubDate>Sun, 02 Aug 2026 23:48:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bjsoftab4/status/2084063941043593502</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ZT3RAGhybf</title>
-      <link>https://x.com/rararararauuuuu/status/2084063038655930381</link>
-      <description>らららうう: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ZT3RAGhybf</description>
-      <pubDate>Sun, 02 Aug 2026 23:45:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rararararauuuuu/status/2084063038655930381</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 https://t.co/wTsZztJZla https://t.co/4rjUMUg0SN</title>
-      <link>https://x.com/internet_watch/status/2084021444640661851</link>
-      <description>INTERNET Watch: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 https://t.co/wTsZztJZla https://t.co/4rjUMUg0SN</description>
-      <pubDate>Sun, 02 Aug 2026 21:00:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/internet_watch/status/2084021444640661851</guid>
-    </item>
-    <item>
-      <title>Wireguard 設定完了。ついでにスマホのusbデザリングも動作確認完了。これな引っ越し時も怖くないね。 Tailerscale 使えばvpnいけるわね</title>
-      <link>https://x.com/ria_uv/status/2083924043129061650</link>
-      <description>uv_melo_ria: Wireguard 設定完了。ついでにスマホのusbデザリングも動作確認完了。これな引っ越し時も怖くないね。 Tailerscale 使えばvpnいけるわね</description>
-      <pubDate>Sun, 02 Aug 2026 14:33:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ria_uv/status/2083924043129061650</guid>
     </item>
   </channel>
 </rss>

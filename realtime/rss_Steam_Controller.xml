@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Steam%20Controller%22</link>
     <description>Latest search results for '&quot;Steam Controller&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Linux 上の Steam クライアントだと Steam Controller のファームウェア更新が永遠に失敗し続けるので、CLI ( hardwareupdater --update-by-serial) から強制的にファームウェアをアップデートした。 コントローラーを使いたいだけなのにハードモードすぎない？</title>
+      <link>https://x.com/blauerberg/status/2086020426728345697</link>
+      <description>Yoshikazu Aoyama: Linux 上の Steam クライアントだと Steam Controller のファームウェア更新が永遠に失敗し続けるので、CLI ( hardwareupdater --update-by-serial) から強制的にファームウェアをアップデートした。 コントローラーを使いたいだけなのにハードモードすぎない？</description>
+      <pubDate>Sat, 08 Aug 2026 09:23:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/blauerberg/status/2086020426728345697</guid>
+    </item>
+    <item>
       <title>タルコフは今やsteamのゲームだから、 steam controller でプレイできなくなった！ってsteamに言えば対処してくれるかも？ 言ってみるか</title>
       <link>https://x.com/steamabil/status/2085917849680548349</link>
       <description>Clobam Steamabil: タルコフは今やsteamのゲームだから、 steam controller でプレイできなくなった！ってsteamに言えば対処してくれるかも？ 言ってみるか</description>
@@ -269,13 +276,6 @@
       <description>Rᶒᶐ・Ɗƍᶅƈᶒ @🍾🥂🍻⚫🍊: えーーーい売切れぇ Steam controller</description>
       <pubDate>Tue, 04 Aug 2026 03:30:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rea_dolce_003/status/2084482107460686183</guid>
-    </item>
-    <item>
-      <title>Steam Controller 未開封。タッチパッド付きだな。 Valve Steam Controller スチームコントローラー 2026 https://t.co/RyoRXg82U8</title>
-      <link>https://x.com/yutogamechronic/status/2084476744812363878</link>
-      <description>悠斗: Steam Controller 未開封。タッチパッド付きだな。 Valve Steam Controller スチームコントローラー 2026 https://t.co/RyoRXg82U8</description>
-      <pubDate>Tue, 04 Aug 2026 03:09:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yutogamechronic/status/2084476744812363878</guid>
     </item>
   </channel>
 </rss>
