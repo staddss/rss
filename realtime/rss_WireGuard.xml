@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</title>
+      <link>https://x.com/harishimizu/status/2086121907628413438</link>
+      <description>針泉@大鏡路地: OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</description>
+      <pubDate>Sat, 08 Aug 2026 16:06:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/harishimizu/status/2086121907628413438</guid>
+    </item>
+    <item>
       <title>なお、NATはVPSでの1回で済ませています。 LAN -&gt; Bridge -&gt; WireGuard (Point-to-Point) -&gt; VPS(ここでSNAT) ULAにした時、IPv4とIPv6どっちが優先になるか未知数だけど、何となくULAの常としてIPv4が優先されそう……</title>
       <link>https://x.com/harishimizu/status/2086043520893321384</link>
       <description>針泉@大鏡路地: なお、NATはVPSでの1回で済ませています。 LAN -&gt; Bridge -&gt; WireGuard (Point-to-Point) -&gt; VPS(ここでSNAT) ULAにした時、IPv4とIPv6どっちが優先になるか未知数だけど、何となくULAの常としてIPv4が優先されそう……</description>
@@ -269,13 +276,6 @@
       <description>アキ: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/zSUk6AIu35</description>
       <pubDate>Mon, 03 Aug 2026 01:25:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Evhemary/status/2084088324902486443</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/YpqjfnqrBV Tailscaleの方が入りやすいからこれは使わないな</title>
-      <link>https://x.com/isle01x/status/2084082277567615192</link>
-      <description>あいる🌟: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/YpqjfnqrBV Tailscaleの方が入りやすいからこれは使わないな</description>
-      <pubDate>Mon, 03 Aug 2026 01:01:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/isle01x/status/2084082277567615192</guid>
     </item>
   </channel>
 </rss>

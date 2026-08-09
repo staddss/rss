@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>すっげえ今更だけどObsidianをPCとスマホで同期させたぞ！ GoogleDriveはやめたほうがいい。 Syncthing でファイル共有がGood！</title>
+      <link>https://x.com/lDrckP6LaM54778/status/2085902534980644912</link>
+      <description>iiinno: すっげえ今更だけどObsidianをPCとスマホで同期させたぞ！ GoogleDriveはやめたほうがいい。 Syncthing でファイル共有がGood！</description>
+      <pubDate>Sat, 08 Aug 2026 01:34:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lDrckP6LaM54778/status/2085902534980644912</guid>
+    </item>
+    <item>
       <title>syncthing で、ubuntu側の共有ディレクトリにシンボリックリンクを置いたんだけど、そのままでは共有されなかった。</title>
       <link>https://x.com/fuyuton/status/2085618728176328722</link>
       <description>冬斗(ふゆとん): syncthing で、ubuntu側の共有ディレクトリにシンボリックリンクを置いたんだけど、そのままでは共有されなかった。</description>
@@ -213,20 +220,6 @@
       <description>susumuis / 石上晋: iTunesとAndroidの同期どうやったの？っていうことも書かないのかい！（技術者のブログなのに技術的なことを書かない）って感じ。答えは Syncthing というサービスをインストールして実現したのだけど、そんなのこそ、チャッピーに聞けばいいでしょう😂</description>
       <pubDate>Fri, 10 Jul 2026 19:11:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/susumuis/status/2075659220528267303</guid>
-    </item>
-    <item>
-      <title>@kankitsu_mikan あっ、Linuxとは限りませんよね🤔 となると日時バックアップ処理を取らないのでわかりません‼️ AndroidとWindowsだったらば Syncthing +Version管理機能で無理やりやるのが一番楽ですかね</title>
-      <link>https://x.com/shigetoroku1010/status/2075425192646672792</link>
-      <description>重藤 六🐸ガジェットブロガー: @kankitsu_mikan あっ、Linuxとは限りませんよね🤔 となると日時バックアップ処理を取らないのでわかりません‼️ AndroidとWindowsだったらば Syncthing +Version管理機能で無理やりやるのが一番楽ですかね</description>
-      <pubDate>Fri, 10 Jul 2026 03:41:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2075425192646672792</guid>
-    </item>
-    <item>
-      <title>自宅鯖の有能アプリ一覧 Hister→ブラウザ拡張と連携。訪問Webサイトの素材を自動で取れる的な immich→Googleフォト代替。ローカルだけでも有能 Syncthing →最強。バックアップ、同期、フィルタ、何でもできる。神。 Etherpad→シンプルなメモ書き。Google翻訳をテキストエディタにするよりこっち</title>
-      <link>https://x.com/shigetoroku1010/status/2075419558429753529</link>
-      <description>重藤 六🐸ガジェットブロガー: 自宅鯖の有能アプリ一覧 Hister→ブラウザ拡張と連携。訪問Webサイトの素材を自動で取れる的な immich→Googleフォト代替。ローカルだけでも有能 Syncthing →最強。バックアップ、同期、フィルタ、何でもできる。神。 Etherpad→シンプルなメモ書き。Google翻訳をテキストエディタにするよりこっち</description>
-      <pubDate>Fri, 10 Jul 2026 03:19:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2075419558429753529</guid>
     </item>
     <item>
       <title>いま、ClaudeCodeとCodexをUIとして、裏側で4つのLLMを連携させる仕組みで動かしてます。共通のメモリ・ストレージとして使うのはObsidian。Dropbox・ Syncthing で同期することで複数PCで使えます https://t.co/teBroxkwTm</title>
