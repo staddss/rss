@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>さっそく、Androidアプリで、Amazonのアプリがダウンロードできない罠。 仕方ないのでプラウザ版を開いてからホーム画面にボタン作り、表示もおかしいので chrome :// flags から、「Request Desktop Site by Default for Tablets」という項目を探し、「Disabled」に変更 でタブレット表示にできた。</title>
+      <link>https://x.com/shogiyuuca/status/2086365548724863437</link>
+      <description>ゆーか/@45歩: さっそく、Androidアプリで、Amazonのアプリがダウンロードできない罠。 仕方ないのでプラウザ版を開いてからホーム画面にボタン作り、表示もおかしいので chrome :// flags から、「Request Desktop Site by Default for Tablets」という項目を探し、「Disabled」に変更 でタブレット表示にできた。</description>
+      <pubDate>Sun, 09 Aug 2026 08:14:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shogiyuuca/status/2086365548724863437</guid>
+    </item>
+    <item>
       <title>PC版GoogleChromeの垂直タブバー。マウスオーバーで勝手に広がる設定があるのを知った。 アドレスバーに chrome :// flags /#vertical-tabsと入力して、Vertical Tabs とVertical Tabs Expand On Hover の項目をEnabledに変更して再起動するとEdgeみたいな使用感にできる。</title>
       <link>https://x.com/nokorihanbun/status/2085843728078717116</link>
       <description>はんぶん: PC版GoogleChromeの垂直タブバー。マウスオーバーで勝手に広がる設定があるのを知った。 アドレスバーに chrome :// flags /#vertical-tabsと入力して、Vertical Tabs とVertical Tabs Expand On Hover の項目をEnabledに変更して再起動するとEdgeみたいな使用感にできる。</description>
@@ -152,11 +159,11 @@
       <guid isPermaLink="true">https://x.com/sarasiru/status/2075411887454556649</guid>
     </item>
     <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
+      <title>これを機にWebMCPを触る Chromeの実験機能だったのか ロードマップ 1)ここで早期アクセスに申し込むとドキュメント見れる https://t.co/LIclgweqQO 2)Chromeの設定で以下にアクセスしてオンにする chrome :// flags /#enable-webmcp-testing 3)拡張機能から試す https://t.co/w22NDqXlI9 https://t.co/7tkkeycvzV https://t.co/btHiWno4wa</title>
+      <link>https://x.com/riku720720/status/2051239442183307355</link>
+      <description>Rikuo: これを機にWebMCPを触る Chromeの実験機能だったのか ロードマップ 1)ここで早期アクセスに申し込むとドキュメント見れる https://t.co/LIclgweqQO 2)Chromeの設定で以下にアクセスしてオンにする chrome :// flags /#enable-webmcp-testing 3)拡張機能から試す https://t.co/w22NDqXlI9 https://t.co/7tkkeycvzV https://t.co/btHiWno4wa</description>
+      <pubDate>Mon, 04 May 2026 09:56:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/riku720720/status/2051239442183307355</guid>
     </item>
     <item>
       <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>

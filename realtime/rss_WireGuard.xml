@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GMO というだけで使わない理由には十分過ぎる | これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Xq8n9QZzNX</title>
+      <link>https://x.com/heartfield/status/2086312767079006255</link>
+      <description>heartfield: GMO というだけで使わない理由には十分過ぎる | これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Xq8n9QZzNX</description>
+      <pubDate>Sun, 09 Aug 2026 04:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/heartfield/status/2086312767079006255</guid>
+    </item>
+    <item>
+      <title>あれ？ Wireguard 接続してる端末で Wireguard 自身の更新ってどうするんだ？ と、思ったけど普通にパッチダウンロードがかかるから問題ないのか</title>
+      <link>https://x.com/one_asuka/status/2086278288507646329</link>
+      <description>一平魔人: あれ？ Wireguard 接続してる端末で Wireguard 自身の更新ってどうするんだ？ と、思ったけど普通にパッチダウンロードがかかるから問題ないのか</description>
+      <pubDate>Sun, 09 Aug 2026 02:27:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/one_asuka/status/2086278288507646329</guid>
+    </item>
+    <item>
       <title>OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</title>
       <link>https://x.com/harishimizu/status/2086121907628413438</link>
       <description>針泉@大鏡路地: OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</description>
@@ -262,20 +276,6 @@
       <description>封神龍（新型コロナワクチン5回目接種仕様）: “これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】” https://t.co/tGh22ULfJF</description>
       <pubDate>Mon, 03 Aug 2026 02:36:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuumediatown/status/2084106077067788465</guid>
-    </item>
-    <item>
-      <title>WireGuard 今更ながら素晴らしいなって思った。 もうOpenVPNは要らなそう。</title>
-      <link>https://x.com/seiyastsm/status/2084104397328621880</link>
-      <description>ふっくん＠ｸｿﾈﾐ族: WireGuard 今更ながら素晴らしいなって思った。 もうOpenVPNは要らなそう。</description>
-      <pubDate>Mon, 03 Aug 2026 02:29:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/seiyastsm/status/2084104397328621880</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/zSUk6AIu35</title>
-      <link>https://x.com/Evhemary/status/2084088324902486443</link>
-      <description>アキ: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/zSUk6AIu35</description>
-      <pubDate>Mon, 03 Aug 2026 01:25:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Evhemary/status/2084088324902486443</guid>
     </item>
   </channel>
 </rss>
