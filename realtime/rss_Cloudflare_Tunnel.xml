@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</title>
+      <link>https://x.com/SeahalJa/status/2086672833854538211</link>
+      <description>SEAHAL(Ja): 本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</description>
+      <pubDate>Mon, 10 Aug 2026 04:35:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086672833854538211</guid>
+    </item>
+    <item>
+      <title>午前の成果ですが、FrontEnd 部品で Cloudflare Workers VPC を経由して別の Podman でアクセスしている Rails に NextJS からフェッチして、情報を収集するというのは完全になりました。午後は、ローカル開発環境を Cloudflare Tunnel で外部に公開して、独自ドメインを添付して、それを Access ...</title>
+      <link>https://x.com/SeahalJa/status/2086648508338291086</link>
+      <description>SEAHAL(Ja): 午前の成果ですが、FrontEnd 部品で Cloudflare Workers VPC を経由して別の Podman でアクセスしている Rails に NextJS からフェッチして、情報を収集するというのは完全になりました。午後は、ローカル開発環境を Cloudflare Tunnel で外部に公開して、独自ドメインを添付して、それを Access ...</description>
+      <pubDate>Mon, 10 Aug 2026 02:59:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086648508338291086</guid>
+    </item>
+    <item>
+      <title>VPS代を惜しみ、放置していたCMF Phone 1（8コアARM/8GB RAM）を自宅サーバー化。postmarketOSは失敗し、stock AndroidのままTermuxをホストにrunitとCaddyを運用。PRootのオーバーヘッドを避けchroot化し、 Cloudflare Tunnel で公開 / my server is a phone now https://t.co/2Kzgzr07pr</title>
+      <link>https://x.com/__su888/status/2086574743755407632</link>
+      <description>su8 / denchu: VPS代を惜しみ、放置していたCMF Phone 1（8コアARM/8GB RAM）を自宅サーバー化。postmarketOSは失敗し、stock AndroidのままTermuxをホストにrunitとCaddyを運用。PRootのオーバーヘッドを避けchroot化し、 Cloudflare Tunnel で公開 / my server is a phone now https://t.co/2Kzgzr07pr</description>
+      <pubDate>Sun, 09 Aug 2026 22:06:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2086574743755407632</guid>
+    </item>
+    <item>
       <title>おはようございます。今日は、午後から街散策します。午前中は Astro の改修と Cloudflare Tunnel と Access と Workers VPC のセットアップします。つまり、Rails と Edge のローカル開発環境は完全分離とします。夜は AWS の組織について学習しようと思います。それでは皆さん、本日もご安全に！</title>
       <link>https://x.com/SeahalJa/status/2086223033824633098</link>
       <description>SEAHAL(Ja): おはようございます。今日は、午後から街散策します。午前中は Astro の改修と Cloudflare Tunnel と Access と Workers VPC のセットアップします。つまり、Rails と Edge のローカル開発環境は完全分離とします。夜は AWS の組織について学習しようと思います。それでは皆さん、本日もご安全に！</description>
@@ -17,6 +38,13 @@
       <description>ゎぃゎぃ: Cloudflare Tunnel 便利すぎるね ローカルテスト(スマホ)のCORS問題が一気に解消された</description>
       <pubDate>Sat, 08 Aug 2026 14:48:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yy_kuso/status/2086102229069729895</guid>
+    </item>
+    <item>
+      <title>ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</title>
+      <link>https://x.com/comocc/status/2086035397361250724</link>
+      <description>Akihiro Komori: ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</description>
+      <pubDate>Sat, 08 Aug 2026 10:22:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/comocc/status/2086035397361250724</guid>
     </item>
     <item>
       <title>あと、 Cloudflare Tunnel の一本化にともなって、Rails と Edge の NextJS と Hono たちに Access 制御をつけて、かつドメインも再設定する。そうすりゃ、開発とプロダクションのネットワークを完全に分離できちゃう。嬉しいね。</title>
@@ -248,34 +276,6 @@
       <description>TOJIKOMORIN: 結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</description>
       <pubDate>Mon, 27 Jul 2026 01:25:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tojikomorin/status/2081551420457938968</guid>
-    </item>
-    <item>
-      <title>中国だと Tailscale 経由で繋げないと Claude Code に教えてもらったので、 Cloudflare Tunnel に切り替え</title>
-      <link>https://x.com/nukonuko/status/2081474982845231414</link>
-      <description>ぬこぬこ / NUKO 🇯🇵: 中国だと Tailscale 経由で繋げないと Claude Code に教えてもらったので、 Cloudflare Tunnel に切り替え</description>
-      <pubDate>Sun, 26 Jul 2026 20:21:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nukonuko/status/2081474982845231414</guid>
-    </item>
-    <item>
-      <title>あと出先で使えるMCPサーバーを Cloudflare Tunnel でどうにか実装しとこう</title>
-      <link>https://x.com/LunarHealWisdom/status/2081417184925081711</link>
-      <description>🦊Yomi Watanuki: あと出先で使えるMCPサーバーを Cloudflare Tunnel でどうにか実装しとこう</description>
-      <pubDate>Sun, 26 Jul 2026 16:31:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2081417184925081711</guid>
-    </item>
-    <item>
-      <title>Codexの開発環境でShopifyアプリのUIテストをしようとして詰まった shopify app dev shopify theme dev ビルドまでできているのに、Codexブラウザからlocalhostや Cloudflare Tunnel のURLを開けず、UI操作ができなかった 原因はShopifyでもCloudflareでもなく、Codex側のネットワーク設定 https://t.co/EA1BUEYkhy</title>
-      <link>https://x.com/yoshimaru_ec/status/2081342195148485085</link>
-      <description>よしまる@Shopify × EC改善: Codexの開発環境でShopifyアプリのUIテストをしようとして詰まった shopify app dev shopify theme dev ビルドまでできているのに、Codexブラウザからlocalhostや Cloudflare Tunnel のURLを開けず、UI操作ができなかった 原因はShopifyでもCloudflareでもなく、Codex側のネットワーク設定 https://t.co/EA1BUEYkhy</description>
-      <pubDate>Sun, 26 Jul 2026 11:33:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yoshimaru_ec/status/2081342195148485085</guid>
-    </item>
-    <item>
-      <title>Switchbot買って、宅内にサーバー用意して、 Cloudflare Tunnel で開いて、宅外から家の中すべて制御できる&amp;AIが自動制御するスマートホームにするんだ〜 出来ればCore Ultra手に入れてローカルLLMであらゆる情報を一元管理したいよ〜</title>
-      <link>https://x.com/hinokinoske/status/2080693952571916731</link>
-      <description>檜木ノ介: Switchbot買って、宅内にサーバー用意して、 Cloudflare Tunnel で開いて、宅外から家の中すべて制御できる&amp;AIが自動制御するスマートホームにするんだ〜 出来ればCore Ultra手に入れてローカルLLMであらゆる情報を一元管理したいよ〜</description>
-      <pubDate>Fri, 24 Jul 2026 16:37:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hinokinoske/status/2080693952571916731</guid>
     </item>
   </channel>
 </rss>
