@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@L_port8000 OpenVPNと WireGuard を任意に選択可能NordVPNはプリセットにある。 https://t.co/xUYQ44P0Ru</title>
+      <link>https://x.com/liru_55/status/2086785948554293621</link>
+      <description>璃琉＠コミケ参加予定: @L_port8000 OpenVPNと WireGuard を任意に選択可能NordVPNはプリセットにある。 https://t.co/xUYQ44P0Ru</description>
+      <pubDate>Mon, 10 Aug 2026 12:05:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/liru_55/status/2086785948554293621</guid>
+    </item>
+    <item>
       <title>自分の環境で起きうるMITM攻撃で考えると WireGuard のインターフェイス立ち上げてVPNをスマホで有効化したとかに公共Wi-Fiとか〜でそのプライベートネットワーク内のHTTP通信ならまあ割とHTTPS化の意味あるかとおもうけど公共Wi-Fi使わんからな…</title>
       <link>https://x.com/haturatutaro/status/2086705299193573693</link>
       <description>今も元気ハツラツ太郎: 自分の環境で起きうるMITM攻撃で考えると WireGuard のインターフェイス立ち上げてVPNをスマホで有効化したとかに公共Wi-Fiとか〜でそのプライベートネットワーク内のHTTP通信ならまあ割とHTTPS化の意味あるかとおもうけど公共Wi-Fi使わんからな…</description>
@@ -269,13 +276,6 @@
       <description>一樹（第二拠点）: ChromeOSの組み込みVPNのセットアップヘルパーです！ ちょっと使いづらかったので書きました 雑ですがご自由にどうぞ！ WireGuard 、OpenVPN、L2TP/IPsec 対応です！ #ChromeOS #組み込みのVPN https://t.co/u1zTMbxF16</description>
       <pubDate>Mon, 03 Aug 2026 07:16:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8080/status/2084176560324550890</guid>
-    </item>
-    <item>
-      <title>Starlink+OpenWrt IPv6 WireGuard サーバ立てる 記事になんかやべーリファラー来てるなと思ったら警視庁ドメインから見られてるんだけどなにこれ… digしてもなにもレコード引けないし怖すぎるｗ https://t.co/d6hL02dXQA</title>
-      <link>https://x.com/haturatutaro/status/2084165070314230263</link>
-      <description>ハツラツ太郎: Starlink+OpenWrt IPv6 WireGuard サーバ立てる 記事になんかやべーリファラー来てるなと思ったら警視庁ドメインから見られてるんだけどなにこれ… digしてもなにもレコード引けないし怖すぎるｗ https://t.co/d6hL02dXQA</description>
-      <pubDate>Mon, 03 Aug 2026 06:30:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084165070314230263</guid>
     </item>
   </channel>
 </rss>

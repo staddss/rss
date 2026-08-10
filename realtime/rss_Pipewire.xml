@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/RE_DO/status/2086539023204712758</guid>
     </item>
     <item>
+      <title>Linuxの音声基盤 PipeWire で、音声の権限しか持たないアプリがサンドボックスの外へ出られるとする脆弱性「CVE-2026-5674」の報告。アプリごとに権限を絞って配るLinuxのパッケージ形式Flatpakで、音声用のソケットを許可しただけのアプリが、ホスト側の利用者権限でコードを実行できたとされています。</title>
+      <link>https://x.com/MalwareBibleJP/status/2086487426277724536</link>
+      <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: Linuxの音声基盤 PipeWire で、音声の権限しか持たないアプリがサンドボックスの外へ出られるとする脆弱性「CVE-2026-5674」の報告。アプリごとに権限を絞って配るLinuxのパッケージ形式Flatpakで、音声用のソケットを許可しただけのアプリが、ホスト側の利用者権限でコードを実行できたとされています。</description>
+      <pubDate>Sun, 09 Aug 2026 16:19:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2086487426277724536</guid>
+    </item>
+    <item>
       <title>日本語入力は出来なくても、この古いネットブックをエミュ専用機にすることは出来た。 xbps-query -Rs emu にて、いろいろな機種のものが揃っていた。 xbps-install -S にて、すべてぶち込んだら遊べるネットブックに変身。 音も alsa pulseaudio pipewire あたりを結構念入りに入れたので何でも鳴る。</title>
       <link>https://x.com/CafeZgok/status/2084182451346366671</link>
       <description>CafeZgok: 日本語入力は出来なくても、この古いネットブックをエミュ専用機にすることは出来た。 xbps-query -Rs emu にて、いろいろな機種のものが揃っていた。 xbps-install -S にて、すべてぶち込んだら遊べるネットブックに変身。 音も alsa pulseaudio pipewire あたりを結構念入りに入れたので何でも鳴る。</description>

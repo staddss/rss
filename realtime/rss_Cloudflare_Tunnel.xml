@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2086763436063776852</guid>
     </item>
     <item>
+      <title>cloudflare tunnel x k8sが結局最強なんだよな</title>
+      <link>https://x.com/Imissdjj/status/2086762494585106698</link>
+      <description>夢見るデリジョン: cloudflare tunnel x k8sが結局最強なんだよな</description>
+      <pubDate>Mon, 10 Aug 2026 10:32:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Imissdjj/status/2086762494585106698</guid>
+    </item>
+    <item>
       <title>本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</title>
       <link>https://x.com/SeahalJa/status/2086672833854538211</link>
       <description>SEAHAL(Ja): 本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</description>
@@ -136,13 +143,6 @@
       <description>AME Tarmin: 1 万 7 千円台の中古ノート PC と Cloudflare Tunnel で、外出先から AI に開発させる｜AME Tarmin @AMETaitoAnemiya https://t.co/gJiQTVEPFL</description>
       <pubDate>Tue, 04 Aug 2026 14:20:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AMETaitoAnemiya/status/2084645704325279880</guid>
-    </item>
-    <item>
-      <title>@NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</title>
-      <link>https://x.com/LunarHealWisdom/status/2084503603000332426</link>
-      <description>🦊Yomi Watanuki: @NAITOTokihiro ああ、すみません、それもそうですね… 何か小物とかだとレンタルサーバー借りるよりかは @Cloudflare で安価なドメイン借りて Cloudflare Tunnel で ルーターのポート開放不要な設定で 適当なミニPCに @Ubuntu と @Docker 入れて Self-hostedした @ownCloud (Google Driveの代替) https://t.co/sRQA19carx</description>
-      <pubDate>Tue, 04 Aug 2026 04:56:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2084503603000332426</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel で自宅にVPNできた～</title>

@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>夏休みになったので学会発表の予稿を書いているが、気がついたらLaTeXのフォーマットを（AIで）作成し、devcontainerと codespaces で動く設定を(AI)で生成する作業に従事する時間がやたら長くなってしまっている。 やっぱり本質が環境構築おじさんなんだよなあ。</title>
+      <link>https://x.com/CUEICHI/status/2086816457556689131</link>
+      <description>きゅういち: 夏休みになったので学会発表の予稿を書いているが、気がついたらLaTeXのフォーマットを（AIで）作成し、devcontainerと codespaces で動く設定を(AI)で生成する作業に従事する時間がやたら長くなってしまっている。 やっぱり本質が環境構築おじさんなんだよなあ。</description>
+      <pubDate>Mon, 10 Aug 2026 14:06:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CUEICHI/status/2086816457556689131</guid>
+    </item>
+    <item>
+      <title>dev containerは業務だと今でも手堅いけど、個人だと面倒なのと足回りが重たいのでV8 Isolateみたいな軽量隔離環境の機運を感じるというかGH Codespaces は高すぎんねん</title>
+      <link>https://x.com/oubakiou/status/2086788716669104427</link>
+      <description>oubakiou: dev containerは業務だと今でも手堅いけど、個人だと面倒なのと足回りが重たいのでV8 Isolateみたいな軽量隔離環境の機運を感じるというかGH Codespaces は高すぎんねん</description>
+      <pubDate>Mon, 10 Aug 2026 12:16:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oubakiou/status/2086788716669104427</guid>
+    </item>
+    <item>
+      <title>localで動くVScodeと Codespaces が繋がることは確認できた。 Imageは持ってこれないっぽいので、ローカルで Codespaces で動かす相当のことをコンテナで実現せねば。</title>
+      <link>https://x.com/bgnori/status/2086768824070934796</link>
+      <description>Nori（情報ブロイラー）: localで動くVScodeと Codespaces が繋がることは確認できた。 Imageは持ってこれないっぽいので、ローカルで Codespaces で動かす相当のことをコンテナで実現せねば。</description>
+      <pubDate>Mon, 10 Aug 2026 10:57:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bgnori/status/2086768824070934796</guid>
+    </item>
+    <item>
+      <title>・Dropboxはおそらく意図した方向性で設定できた。完了するまではわからないが。 ・DockerとVSCodeをインストールした。 Codespaces にあるImageを持ってこれるかはまだ検証できていない。</title>
+      <link>https://x.com/bgnori/status/2086765402215059607</link>
+      <description>Nori（情報ブロイラー）: ・Dropboxはおそらく意図した方向性で設定できた。完了するまではわからないが。 ・DockerとVSCodeをインストールした。 Codespaces にあるImageを持ってこれるかはまだ検証できていない。</description>
+      <pubDate>Mon, 10 Aug 2026 10:43:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bgnori/status/2086765402215059607</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE 比較ガイド： Codespaces / Gitpod / AWS Cloud9 の選び方と実践PoC手順 https://t.co/9WfL6dU0gF #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2086612593125273672</link>
       <description>EngiNear: 【新着記事】クラウドIDE 比較ガイド： Codespaces / Gitpod / AWS Cloud9 の選び方と実践PoC手順 https://t.co/9WfL6dU0gF #エンジニア #ChatGPT #AI</description>
@@ -248,41 +276,6 @@
       <description>EngiNear: 【新着記事】クラウドIDEの選び方（短縮結論付き）— GitHub Codespaces / Gitpod / AWS Cloud9 の実務比較と導入手順 https://t.co/pPhmyM6W1h #エンジニア #ChatGPT #AI</description>
       <pubDate>Thu, 23 Jul 2026 00:41:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2080090890639450503</guid>
-    </item>
-    <item>
-      <title>「PC-LABO」を更新しました。 GitHubとは？（第2回）～ Codespaces でコードを書いて動かしてみる（超初心者向け）～ https://t.co/jKiGOSY4Xu</title>
-      <link>https://x.com/me1cy2lj/status/2079612105087664470</link>
-      <description>Rocky-Seven: 「PC-LABO」を更新しました。 GitHubとは？（第2回）～ Codespaces でコードを書いて動かしてみる（超初心者向け）～ https://t.co/jKiGOSY4Xu</description>
-      <pubDate>Tue, 21 Jul 2026 16:58:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/me1cy2lj/status/2079612105087664470</guid>
-    </item>
-    <item>
-      <title>Claude Codeのログ、 Codespaces を消したら一緒に消えました。 そこで、Claude codeセッションをプライベートGitHubリポジトリへ自動バックアップするclaude-logkeeperを作りました。 会話ログは読みやすく保存し、完全なJSONLは暗号化。 https://t.co/uXf0PIIYaa MIT #ClaudeCode # Codespaces https://t.co/My3jLRKzQh</title>
-      <link>https://x.com/markmatsu/status/2079399842917576942</link>
-      <description>Mark Matsu.: Claude Codeのログ、 Codespaces を消したら一緒に消えました。 そこで、Claude codeセッションをプライベートGitHubリポジトリへ自動バックアップするclaude-logkeeperを作りました。 会話ログは読みやすく保存し、完全なJSONLは暗号化。 https://t.co/uXf0PIIYaa MIT #ClaudeCode # Codespaces https://t.co/My3jLRKzQh</description>
-      <pubDate>Tue, 21 Jul 2026 02:55:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/markmatsu/status/2079399842917576942</guid>
-    </item>
-    <item>
-      <title>Codespaces を使った開発、あまりに不便</title>
-      <link>https://x.com/ryo_vibecoding/status/2079152541745786942</link>
-      <description>Ryo｜雰囲気エンジニア / Vibe Engineer: Codespaces を使った開発、あまりに不便</description>
-      <pubDate>Mon, 20 Jul 2026 10:32:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryo_vibecoding/status/2079152541745786942</guid>
-    </item>
-    <item>
-      <title>ZMK みたいに GitHub Actions でもいいっちゃいいんですが、GitHub Actions だとビルドに5分ぐらい待つ必要があって、試行錯誤したいときにはビルドが数十秒で完了する GitHub Codespaces のほうが使いやすかったです。</title>
-      <link>https://x.com/stnh0227/status/2078963148640633003</link>
-      <description>すとのふ: ZMK みたいに GitHub Actions でもいいっちゃいいんですが、GitHub Actions だとビルドに5分ぐらい待つ必要があって、試行錯誤したいときにはビルドが数十秒で完了する GitHub Codespaces のほうが使いやすかったです。</description>
-      <pubDate>Sun, 19 Jul 2026 22:00:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/stnh0227/status/2078963148640633003</guid>
-    </item>
-    <item>
-      <title>Ergo42のVialファームウェア作成に GitHub Codespaces を使ってみました。vial-qmkにdevconainer.jsonを追加するだけで開発コンテナとして、ブラウザでサクッと開発環境が作れて便利。既存のファームウェアを改造する分には無料枠で十分。https://t.co/794WedOP0o #自作キーボード</title>
-      <link>https://x.com/stnh0227/status/2078961688678973848</link>
-      <description>すとのふ: Ergo42のVialファームウェア作成に GitHub Codespaces を使ってみました。vial-qmkにdevconainer.jsonを追加するだけで開発コンテナとして、ブラウザでサクッと開発環境が作れて便利。既存のファームウェアを改造する分には無料枠で十分。https://t.co/794WedOP0o #自作キーボード</description>
-      <pubDate>Sun, 19 Jul 2026 21:54:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/stnh0227/status/2078961688678973848</guid>
     </item>
   </channel>
 </rss>
