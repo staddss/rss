@@ -89,13 +89,6 @@
       <guid isPermaLink="true">https://x.com/yoneji_t/status/2086754308520042959</guid>
     </item>
     <item>
-      <title>ASUSの Chromebook なら使ってみたくなるな。着脱式 ASUS Chromebook Detachable CZ1 本体 https://t.co/EWmAchJvSK</title>
-      <link>https://x.com/risatakahai5fc/status/2086747870670295489</link>
-      <description>高橋りさ: ASUSの Chromebook なら使ってみたくなるな。着脱式 ASUS Chromebook Detachable CZ1 本体 https://t.co/EWmAchJvSK</description>
-      <pubDate>Mon, 10 Aug 2026 09:33:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/risatakahai5fc/status/2086747870670295489</guid>
-    </item>
-    <item>
       <title>Chromebook のUSBサムドライブにnode.jsを入れる。間が空くとnpm-cli.jsの格納先を忘れてしまうので、シンボリックリンク代わりのシェルスクリプトを書く。下記の通り。 #!/bin/sh node_path=&quot;$(realpath $(dirname $(realpath $0))/..)&quot; $node_path/lib/node_modules/npm/bin/npm-cli.js &quot;$@&quot;</title>
       <link>https://x.com/im97u1/status/2086734635627917693</link>
       <description>佐とう: Chromebook のUSBサムドライブにnode.jsを入れる。間が空くとnpm-cli.jsの格納先を忘れてしまうので、シンボリックリンク代わりのシェルスクリプトを書く。下記の通り。 #!/bin/sh node_path=&quot;$(realpath $(dirname $(realpath $0))/..)&quot; $node_path/lib/node_modules/npm/bin/npm-cli.js &quot;$@&quot;</description>
@@ -276,6 +269,13 @@
       <description>msonrm（なるなる）: 縦書きは当然として、、、テキスト面の文字属性（色、フォント種類、サイズ、方向）に連動するIME、iPadと Chromebook で同等の軽快動作、文字数と行数と原稿用紙枚数の常時表示、入力中文字の右側に傍線、文字方向とカーソルキー方向の一致、行長指定と画面外はみ出しの警告、あたりが実装できてます</description>
       <pubDate>Sun, 09 Aug 2026 23:43:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/msonrm/status/2086599339108151768</guid>
+    </item>
+    <item>
+      <title>#広告 アフィリエイトリンクつきPOST -15% OFF ASUS Chromebook クロームブック Detachable CM30... https://t.co/0nJAA05q1k</title>
+      <link>https://x.com/raku10808/status/2086596372359532970</link>
+      <description>八百万セレクト: #広告 アフィリエイトリンクつきPOST -15% OFF ASUS Chromebook クロームブック Detachable CM30... https://t.co/0nJAA05q1k</description>
+      <pubDate>Sun, 09 Aug 2026 23:31:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/raku10808/status/2086596372359532970</guid>
     </item>
   </channel>
 </rss>
