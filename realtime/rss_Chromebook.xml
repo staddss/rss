@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chromebook%22</link>
     <description>Latest search results for '&quot;Chromebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromebook のUSBサムドライブにnode.jsを入れる。間が空くとnpm-cli.jsの格納先を忘れてしまうので、シンボリックリンク代わりのシェルスクリプトを書く。下記の通り。 #!/bin/sh node_path=&quot;$(realpath $(dirname $(realpath $0))/..)&quot; $node_path/lib/node_modules/npm/bin/npm-cli.js &quot;$@&quot;</title>
+      <link>https://x.com/im97u1/status/2086734635627917693</link>
+      <description>佐とう: Chromebook のUSBサムドライブにnode.jsを入れる。間が空くとnpm-cli.jsの格納先を忘れてしまうので、シンボリックリンク代わりのシェルスクリプトを書く。下記の通り。 #!/bin/sh node_path=&quot;$(realpath $(dirname $(realpath $0))/..)&quot; $node_path/lib/node_modules/npm/bin/npm-cli.js &quot;$@&quot;</description>
+      <pubDate>Mon, 10 Aug 2026 08:41:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/im97u1/status/2086734635627917693</guid>
+    </item>
+    <item>
+      <title>大4女子、ドイツ研修発前レポートを作成。入学時に大学指定で買った Chromebook がすぐWi-Fiを見失うらしく､むきーむきー唸っていたが､昨日図書館でドイツ本をたくさん借りてきて、 「本、Wi-Fi要らない。すごい」 と無表情で言い、夜中にレポートを仕上げていた。 そうか、すごいのか……。</title>
+      <link>https://x.com/takoguruguru/status/2086734104696135748</link>
+      <description>瀬戸内: 大4女子、ドイツ研修発前レポートを作成。入学時に大学指定で買った Chromebook がすぐWi-Fiを見失うらしく､むきーむきー唸っていたが､昨日図書館でドイツ本をたくさん借りてきて、 「本、Wi-Fi要らない。すごい」 と無表情で言い、夜中にレポートを仕上げていた。 そうか、すごいのか……。</description>
+      <pubDate>Mon, 10 Aug 2026 08:39:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takoguruguru/status/2086734104696135748</guid>
+    </item>
+    <item>
+      <title>Chromebook のUSBサムドライブにnode.jsを入れる。試行錯誤した結果、node.jsのフォルダ直下のbinにパスを通し、同フォルダ下にあるnpmに代えてリンク先のスクリプトlib/node_modules/npm/bin/npm-cli.jsを叩いたらnpmが動いた。</title>
+      <link>https://x.com/im97u1/status/2086733200756469891</link>
+      <description>佐とう: Chromebook のUSBサムドライブにnode.jsを入れる。試行錯誤した結果、node.jsのフォルダ直下のbinにパスを通し、同フォルダ下にあるnpmに代えてリンク先のスクリプトlib/node_modules/npm/bin/npm-cli.jsを叩いたらnpmが動いた。</description>
+      <pubDate>Mon, 10 Aug 2026 08:35:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/im97u1/status/2086733200756469891</guid>
+    </item>
+    <item>
+      <title>絵は基本学校で買った Chromebook で描いてるんだけどスマホと見え方が結構違くてびっくり</title>
+      <link>https://x.com/towa04221228/status/2086731290599108736</link>
+      <description>トワ: 絵は基本学校で買った Chromebook で描いてるんだけどスマホと見え方が結構違くてびっくり</description>
+      <pubDate>Mon, 10 Aug 2026 08:28:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/towa04221228/status/2086731290599108736</guid>
+    </item>
+    <item>
+      <title>アマゾンで「 Chromebook 」2機種がセール、最安3.9万円［本日のPICK UP］-ケータイ Watch https://t.co/oslAWf9Hlh</title>
+      <link>https://x.com/ktai_watch/status/2086728780190802248</link>
+      <description>ケータイ Watch: アマゾンで「 Chromebook 」2機種がセール、最安3.9万円［本日のPICK UP］-ケータイ Watch https://t.co/oslAWf9Hlh</description>
+      <pubDate>Mon, 10 Aug 2026 08:18:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ktai_watch/status/2086728780190802248</guid>
+    </item>
+    <item>
       <title>2回ジャスト2年でぶっ壊れたから( うち1回は私の不手際 )心折れたけど iPadは最強だったんだな 繋がらないなんてことなかったもの 安いとはいえさすがに半年ぐらいしかインターネットに繋げられなくなるのはさすがにおかしいだろ Chromebook</title>
       <link>https://x.com/eternallyforest/status/2086699902399307987</link>
       <description>VeinGhost.: 2回ジャスト2年でぶっ壊れたから( うち1回は私の不手際 )心折れたけど iPadは最強だったんだな 繋がらないなんてことなかったもの 安いとはいえさすがに半年ぐらいしかインターネットに繋げられなくなるのはさすがにおかしいだろ Chromebook</description>
@@ -241,41 +276,6 @@
       <description>タケイマコト: Chromebook でも遊べます ソースネクストの早撃ちガンマン 景品あり https://t.co/cIT0Jin8ft</description>
       <pubDate>Sun, 09 Aug 2026 14:24:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pcefancom/status/2086458687120609647</guid>
-    </item>
-    <item>
-      <title>ほーーーーー chromebook って外付けHDDつかえるんだ</title>
-      <link>https://x.com/rizaadou/status/2086458568635773414</link>
-      <description>たけ@造型りざあ堂(WF2027w参加する予定): ほーーーーー chromebook って外付けHDDつかえるんだ</description>
-      <pubDate>Sun, 09 Aug 2026 14:24:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rizaadou/status/2086458568635773414</guid>
-    </item>
-    <item>
-      <title>@wild_fridge 自分で買ったわけじゃないですが、安価なのにこだわりつつ、ある程度安全保証を考えるなら、ノートもアリかと思います うちの大学生スタッフが使っていたLenovoの Chromebook はオフィス付きで10万しないでセールもあったらしいですからねぇ 良き執筆で楽しい作品の提供待ってます！</title>
-      <link>https://x.com/UoiSz27E1bgR30d/status/2086450172259868912</link>
-      <description>セルジュ＠ヲタ活: @wild_fridge 自分で買ったわけじゃないですが、安価なのにこだわりつつ、ある程度安全保証を考えるなら、ノートもアリかと思います うちの大学生スタッフが使っていたLenovoの Chromebook はオフィス付きで10万しないでセールもあったらしいですからねぇ 良き執筆で楽しい作品の提供待ってます！</description>
-      <pubDate>Sun, 09 Aug 2026 13:51:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UoiSz27E1bgR30d/status/2086450172259868912</guid>
-    </item>
-    <item>
-      <title>@rinnrinnkarinn そっちでしたか…(笑)私は Chromebook が主なので後で探して見ます。 為になりましたわ、Geminiは質問で問い詰めて組み方探る位しかしてなかったので。</title>
-      <link>https://x.com/49400496/status/2086444305208758632</link>
-      <description>緑の石: @rinnrinnkarinn そっちでしたか…(笑)私は Chromebook が主なので後で探して見ます。 為になりましたわ、Geminiは質問で問い詰めて組み方探る位しかしてなかったので。</description>
-      <pubDate>Sun, 09 Aug 2026 13:27:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/49400496/status/2086444305208758632</guid>
-    </item>
-    <item>
-      <title>Chromebook もといGooglebookをメイン機にしたいのだ</title>
-      <link>https://x.com/osanaicorn/status/2086440103103345079</link>
-      <description>ろりこーん→→→♡: Chromebook もといGooglebookをメイン機にしたいのだ</description>
-      <pubDate>Sun, 09 Aug 2026 13:10:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/osanaicorn/status/2086440103103345079</guid>
-    </item>
-    <item>
-      <title>ipadからメイン機リモートして使い倒してやるぞってところで、マウスの挙動が反対で腹立つ。 Chromebook も許さん。</title>
-      <link>https://x.com/rindopenguin/status/2086437067006116086</link>
-      <description>りんどー: ipadからメイン機リモートして使い倒してやるぞってところで、マウスの挙動が反対で腹立つ。 Chromebook も許さん。</description>
-      <pubDate>Sun, 09 Aug 2026 12:58:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rindopenguin/status/2086437067006116086</guid>
     </item>
   </channel>
 </rss>
