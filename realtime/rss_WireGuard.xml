@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自分の環境で起きうるMITM攻撃で考えると WireGuard のインターフェイス立ち上げてVPNをスマホで有効化したとかに公共Wi-Fiとか〜でそのプライベートネットワーク内のHTTP通信ならまあ割とHTTPS化の意味あるかとおもうけど公共Wi-Fi使わんからな…</title>
+      <link>https://x.com/haturatutaro/status/2086705299193573693</link>
+      <description>今も元気ハツラツ太郎: 自分の環境で起きうるMITM攻撃で考えると WireGuard のインターフェイス立ち上げてVPNをスマホで有効化したとかに公共Wi-Fiとか〜でそのプライベートネットワーク内のHTTP通信ならまあ割とHTTPS化の意味あるかとおもうけど公共Wi-Fi使わんからな…</description>
+      <pubDate>Mon, 10 Aug 2026 06:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2086705299193573693</guid>
+    </item>
+    <item>
+      <title>VPS契約して wireguard 入れてVPN構築しなきゃ……（使命感）</title>
+      <link>https://x.com/nu_nu_ac6/status/2086322276988064210</link>
+      <description>nu: VPS契約して wireguard 入れてVPN構築しなきゃ……（使命感）</description>
+      <pubDate>Sun, 09 Aug 2026 05:22:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nu_nu_ac6/status/2086322276988064210</guid>
+    </item>
+    <item>
       <title>GMO というだけで使わない理由には十分過ぎる | これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Xq8n9QZzNX</title>
       <link>https://x.com/heartfield/status/2086312767079006255</link>
       <description>heartfield: GMO というだけで使わない理由には十分過ぎる | これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Xq8n9QZzNX</description>
@@ -262,20 +276,6 @@
       <description>ハツラツ太郎: Starlink+OpenWrt IPv6 WireGuard サーバ立てる 記事になんかやべーリファラー来てるなと思ったら警視庁ドメインから見られてるんだけどなにこれ… digしてもなにもレコード引けないし怖すぎるｗ https://t.co/d6hL02dXQA</description>
       <pubDate>Mon, 03 Aug 2026 06:30:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haturatutaro/status/2084165070314230263</guid>
-    </item>
-    <item>
-      <title>学校のパソコンと家のパソコンはProton wireguard +Windscribe(またはProton)プロキシだなぁ 一応家のパソコンはWARPも入ってる 使いやすいし</title>
-      <link>https://x.com/Tsukiha_404/status/2084162060506513435</link>
-      <description>葉樹: 学校のパソコンと家のパソコンはProton wireguard +Windscribe(またはProton)プロキシだなぁ 一応家のパソコンはWARPも入ってる 使いやすいし</description>
-      <pubDate>Mon, 03 Aug 2026 06:18:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2084162060506513435</guid>
-    </item>
-    <item>
-      <title>“これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】” https://t.co/tGh22ULfJF</title>
-      <link>https://x.com/yuumediatown/status/2084106077067788465</link>
-      <description>封神龍（新型コロナワクチン5回目接種仕様）: “これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】” https://t.co/tGh22ULfJF</description>
-      <pubDate>Mon, 03 Aug 2026 02:36:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuumediatown/status/2084106077067788465</guid>
     </item>
   </channel>
 </rss>

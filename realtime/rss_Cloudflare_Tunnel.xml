@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</title>
+      <link>https://x.com/SeahalJa/status/2086763436063776852</link>
+      <description>SEAHAL(Ja): いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</description>
+      <pubDate>Mon, 10 Aug 2026 10:35:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086763436063776852</guid>
+    </item>
+    <item>
       <title>本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</title>
       <link>https://x.com/SeahalJa/status/2086672833854538211</link>
       <description>SEAHAL(Ja): 本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</description>
       <pubDate>Mon, 10 Aug 2026 04:35:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2086672833854538211</guid>
+    </item>
+    <item>
+      <title>@kakaka__082 そもそも cloudflare tunnel のコア数のシステム要件満たしてないかも？ https://t.co/ib8URkUYXb</title>
+      <link>https://x.com/b1U9O0DCwp66992/status/2086665564676915472</link>
+      <description>でかモナド: @kakaka__082 そもそも cloudflare tunnel のコア数のシステム要件満たしてないかも？ https://t.co/ib8URkUYXb</description>
+      <pubDate>Mon, 10 Aug 2026 04:06:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/b1U9O0DCwp66992/status/2086665564676915472</guid>
     </item>
     <item>
       <title>午前の成果ですが、FrontEnd 部品で Cloudflare Workers VPC を経由して別の Podman でアクセスしている Rails に NextJS からフェッチして、情報を収集するというのは完全になりました。午後は、ローカル開発環境を Cloudflare Tunnel で外部に公開して、独自ドメインを添付して、それを Access ...</title>
@@ -262,20 +276,6 @@
       <description>もぐもぐ: Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</description>
       <pubDate>Tue, 28 Jul 2026 17:59:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/YumNumm/status/2082164072829853742</guid>
-    </item>
-    <item>
-      <title>今日やること。 ローカルLLMのローカルモデルとリソースを Cloudflare Tunnel 経由でネットワーク伝達して利用可能な状態にする。Cloudflare Accessで自分しか使えないようにする。 ぐらいかな…SteamOSはちょっとびっくりしたけどね…😓</title>
-      <link>https://x.com/LunarHealWisdom/status/2081691841649652129</link>
-      <description>🦊Yomi Watanuki: 今日やること。 ローカルLLMのローカルモデルとリソースを Cloudflare Tunnel 経由でネットワーク伝達して利用可能な状態にする。Cloudflare Accessで自分しか使えないようにする。 ぐらいかな…SteamOSはちょっとびっくりしたけどね…😓</description>
-      <pubDate>Mon, 27 Jul 2026 10:43:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2081691841649652129</guid>
-    </item>
-    <item>
-      <title>結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</title>
-      <link>https://x.com/tojikomorin/status/2081551420457938968</link>
-      <description>TOJIKOMORIN: 結局 port forward で解決して Cloudflare tunnel をずっと採用してる 物理/バーチャル問わずに集中管理できるの最高だわ Cloudflare tunnel 便利過ぎる https://t.co/vObvBsu75t</description>
-      <pubDate>Mon, 27 Jul 2026 01:25:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tojikomorin/status/2081551420457938968</guid>
     </item>
   </channel>
 </rss>

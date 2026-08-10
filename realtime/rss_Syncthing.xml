@@ -215,13 +215,6 @@
       <guid isPermaLink="true">https://x.com/kz14/status/2076691072395383020</guid>
     </item>
     <item>
-      <title>Hermes AgentのホストPCが常時稼働しているのでObsidian Vaultの共有を Syncthing に変更した。これに伴い、GitへのプッシュもObsidian Gitで行いつつ、定期的にNASにもコピーされるようにした。</title>
-      <link>https://x.com/phasephi/status/2075840934496088537</link>
-      <description>のがみ: Hermes AgentのホストPCが常時稼働しているのでObsidian Vaultの共有を Syncthing に変更した。これに伴い、GitへのプッシュもObsidian Gitで行いつつ、定期的にNASにもコピーされるようにした。</description>
-      <pubDate>Sat, 11 Jul 2026 07:13:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/phasephi/status/2075840934496088537</guid>
-    </item>
-    <item>
       <title>いま、ClaudeCodeとCodexをUIとして、裏側で4つのLLMを連携させる仕組みで動かしてます。共通のメモリ・ストレージとして使うのはObsidian。Dropbox・ Syncthing で同期することで複数PCで使えます https://t.co/teBroxkwTm</title>
       <link>https://x.com/kuzyofire/status/2075212627517776130</link>
       <description>九条@セミリタイア: いま、ClaudeCodeとCodexをUIとして、裏側で4つのLLMを連携させる仕組みで動かしてます。共通のメモリ・ストレージとして使うのはObsidian。Dropbox・ Syncthing で同期することで複数PCで使えます https://t.co/teBroxkwTm</description>

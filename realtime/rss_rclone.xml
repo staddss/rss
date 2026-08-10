@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>個人で作成するナレッジはバージョン管理の必要性は低い。 なのでGithub に置くより、クラウドストレージの方が制限が緩くてよいのではとも思う。 もし、バージョン管理したいなら、 rclone のバックアップオプション使えばよい気もする。 同期対象だけを指定のフォルダにバックアップとれる。 https://t.co/Q1Iti7KlsF</title>
-      <link>https://x.com/Mx_Issue/status/2086338926063870027</link>
-      <description>🍓Mx_Issue🦑: 個人で作成するナレッジはバージョン管理の必要性は低い。 なのでGithub に置くより、クラウドストレージの方が制限が緩くてよいのではとも思う。 もし、バージョン管理したいなら、 rclone のバックアップオプション使えばよい気もする。 同期対象だけを指定のフォルダにバックアップとれる。 https://t.co/Q1Iti7KlsF</description>
-      <pubDate>Sun, 09 Aug 2026 06:28:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Mx_Issue/status/2086338926063870027</guid>
+      <title>Obsidian の保存ディレクトリ（Vault）を rclone でGoogle Drive で同期。 https://t.co/A6HWoYXVkX</title>
+      <link>https://x.com/Mx_Issue/status/2086348865570304190</link>
+      <description>🍓Mx_Issue🦑: Obsidian の保存ディレクトリ（Vault）を rclone でGoogle Drive で同期。 https://t.co/A6HWoYXVkX</description>
+      <pubDate>Sun, 09 Aug 2026 07:08:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Mx_Issue/status/2086348865570304190</guid>
     </item>
     <item>
       <title>#Qiita ブログ公開！ 本記事では、 rclone unionのcreate_policy = allを使うことで、1回のアップロード操作でAkamai Object Storageの東京・大阪両方のバケットに同時に複製できることを、実際のAkamai Cloud環境で検証してみました。 https://t.co/OXYNOgwqG5 @Qiita #テックブログ #クラウド https://t.co/aQL6R5er0s</title>
