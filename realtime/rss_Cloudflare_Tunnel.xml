@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</title>
+      <link>https://x.com/YaJonhFK/status/2087028638466388100</link>
+      <description>Ethan: Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</description>
+      <pubDate>Tue, 11 Aug 2026 04:09:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/YaJonhFK/status/2087028638466388100</guid>
+    </item>
+    <item>
       <title>いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</title>
       <link>https://x.com/SeahalJa/status/2086763436063776852</link>
       <description>SEAHAL(Ja): いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</description>
@@ -269,13 +276,6 @@
       <description>内科医グスク🧠: こちら Cloudflare tunnel で解決しました アドバイス頂いたスキマさん@1RRhcSB6HSUu9hF ありがとうございました https://t.co/WxsAqDigiW</description>
       <pubDate>Tue, 28 Jul 2026 23:49:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/youngneurol/status/2082252219714507173</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</title>
-      <link>https://x.com/YumNumm/status/2082164072829853742</link>
-      <description>もぐもぐ: Cloudflare Tunnel がデグレしているみたい https://t.co/9juuaR6kYD &gt; Cloudflare Critical Incident: (Investigating) Cloudflare Tunnel Availability Issues Message: Investigating Cloudflare Tunnel availability issues. Multiple customers reporting tunnels degraded or fully down,</description>
-      <pubDate>Tue, 28 Jul 2026 17:59:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YumNumm/status/2082164072829853742</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Kubernetesがスワップを拒否していた時代が終わった。 v1.34でスワップサポートが安定版に達しFedora CoreOSがようやく他のバリアントと足並みを揃える。 zRAM スワップとsystemd-oomdのデフォルト有効化をFESCoが全会一致で承認した。 https://t.co/onqSWmlcQS</title>
+      <link>https://x.com/joho_no_todai/status/2086960552660828548</link>
+      <description>情報の灯台: Kubernetesがスワップを拒否していた時代が終わった。 v1.34でスワップサポートが安定版に達しFedora CoreOSがようやく他のバリアントと足並みを揃える。 zRAM スワップとsystemd-oomdのデフォルト有効化をFESCoが全会一致で承認した。 https://t.co/onqSWmlcQS</description>
+      <pubDate>Mon, 10 Aug 2026 23:39:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2086960552660828548</guid>
+    </item>
+    <item>
       <title>linuxで zram を導入したが、 飛躍的に動作が軽くなった。</title>
       <link>https://x.com/z68itx_b_e/status/2086343218330063080</link>
       <description>飛鳥: linuxで zram を導入したが、 飛躍的に動作が軽くなった。</description>
