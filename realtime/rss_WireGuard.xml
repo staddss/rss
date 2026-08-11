@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</title>
+      <link>https://x.com/kizawa2020/status/2087030363587817740</link>
+      <description>t.kizawa: @tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</description>
+      <pubDate>Tue, 11 Aug 2026 04:16:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kizawa2020/status/2087030363587817740</guid>
+    </item>
+    <item>
       <title>ローカルのNASにTailscale入れて Wireguard でsamba接続して自動でバックアップする。までがなかなか面倒だけど不可能ではないギリギリの線かなぁ</title>
       <link>https://x.com/one_asuka/status/2086991390127620498</link>
       <description>一平魔人: ローカルのNASにTailscale入れて Wireguard でsamba接続して自動でバックアップする。までがなかなか面倒だけど不可能ではないギリギリの線かなぁ</description>
@@ -269,13 +276,6 @@
       <description>ハツラツ太郎: nnんー。。。やっぱ WireGuard はMTU値ちょっと引き下げた方がいいか・・・ https://t.co/WyrelvQAKo</description>
       <pubDate>Mon, 03 Aug 2026 19:39:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haturatutaro/status/2084363540618694689</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/7WRkqwQMd2</title>
-      <link>https://x.com/_jackson/status/2084261344015241523</link>
-      <description>ぢゃくそん: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/7WRkqwQMd2</description>
-      <pubDate>Mon, 03 Aug 2026 12:53:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_jackson/status/2084261344015241523</guid>
     </item>
   </channel>
 </rss>
