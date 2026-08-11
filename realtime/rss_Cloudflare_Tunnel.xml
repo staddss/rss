@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/YaJonhFK/status/2087028638466388100</guid>
     </item>
     <item>
+      <title>うーん、バックエンド側までは Cloudflare Tunnel + Access の設定が完了したけど、フロントエンドは実行不可でした。環境構築のほうは、明日はここからかな。今日の反省ポイントは、環境構築の変更を思いだってすぐしないってことだな。というのも、５時間くらい溶けたんで。</title>
+      <link>https://x.com/SeahalJa/status/2086811548266410061</link>
+      <description>SEAHAL(Ja): うーん、バックエンド側までは Cloudflare Tunnel + Access の設定が完了したけど、フロントエンドは実行不可でした。環境構築のほうは、明日はここからかな。今日の反省ポイントは、環境構築の変更を思いだってすぐしないってことだな。というのも、５時間くらい溶けたんで。</description>
+      <pubDate>Mon, 10 Aug 2026 13:46:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086811548266410061</guid>
+    </item>
+    <item>
       <title>いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</title>
       <link>https://x.com/SeahalJa/status/2086763436063776852</link>
       <description>SEAHAL(Ja): いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</description>

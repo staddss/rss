@@ -12,34 +12,6 @@
       <guid isPermaLink="true">https://x.com/ToYamaSoujin/status/2084502035295244799</guid>
     </item>
     <item>
-      <title>uConsole … トラックパッドキーボードのコントローラーボタンを有効活用（ xremap ＋fuzzel＋wlogout） 短押し／長押しでの起動アプリ選択もOK。 これで一段と使い勝手が良くなった。 https://t.co/q6OgTkiPCP</title>
-      <link>https://x.com/Ryo3JP/status/2083712568238231845</link>
-      <description>ᒎᖇ੫ᗯᗪᑌ / ᖇƳᗝ🇯🇵: uConsole … トラックパッドキーボードのコントローラーボタンを有効活用（ xremap ＋fuzzel＋wlogout） 短押し／長押しでの起動アプリ選択もOK。 これで一段と使い勝手が良くなった。 https://t.co/q6OgTkiPCP</description>
-      <pubDate>Sun, 02 Aug 2026 00:32:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ryo3JP/status/2083712568238231845</guid>
-    </item>
-    <item>
-      <title>evtestを使用していた処理を xremap 使用に変更して、ひとまず意図した通りの機能は実現出来たかな。 まだ細かい調整は必要だけど実用的には十分。</title>
-      <link>https://x.com/Ryo3JP/status/2081673797762204059</link>
-      <description>ᒎᖇ੫ᗯᗪᑌ / ᖇƳᗝ🇯🇵: evtestを使用していた処理を xremap 使用に変更して、ひとまず意図した通りの機能は実現出来たかな。 まだ細かい調整は必要だけど実用的には十分。</description>
-      <pubDate>Mon, 27 Jul 2026 09:31:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ryo3JP/status/2081673797762204059</guid>
-    </item>
-    <item>
-      <title>evtestと xremap の共存はかなり難しそう（もしかして無理？）なので xremap 単独で機能するように処理を検討中。 xremap って単なるキー置換だけかと思っていたけれどかなり高機能。</title>
-      <link>https://x.com/Ryo3JP/status/2081658004697674020</link>
-      <description>ᒎᖇ੫ᗯᗪᑌ / ᖇƳᗝ🇯🇵: evtestと xremap の共存はかなり難しそう（もしかして無理？）なので xremap 単独で機能するように処理を検討中。 xremap って単なるキー置換だけかと思っていたけれどかなり高機能。</description>
-      <pubDate>Mon, 27 Jul 2026 08:28:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ryo3JP/status/2081658004697674020</guid>
-    </item>
-    <item>
-      <title>evtestと xremap の共存で大ハマり中。 xremap でキーを置き換えて、その結果をevtestで判定して…という流れだけど、両者の起動の仕方でどちらか一方がキーボードを占有してしまう。</title>
-      <link>https://x.com/Ryo3JP/status/2081649292343980422</link>
-      <description>ᒎᖇ੫ᗯᗪᑌ / ᖇƳᗝ🇯🇵: evtestと xremap の共存で大ハマり中。 xremap でキーを置き換えて、その結果をevtestで判定して…という流れだけど、両者の起動の仕方でどちらか一方がキーボードを占有してしまう。</description>
-      <pubDate>Mon, 27 Jul 2026 07:54:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ryo3JP/status/2081649292343980422</guid>
-    </item>
-    <item>
       <title>@Uliboooo あれ、macOS配列なら標準の設定でxkb_layoutとかxkb_variantみたいなので指定できた気がしますね。 ちなみに、自分はリマップにはi3wm時代からずっと xremap 使ってます</title>
       <link>https://x.com/YKirin0418/status/2079954517093994984</link>
       <description>yasunori🫖@loglass🐳: @Uliboooo あれ、macOS配列なら標準の設定でxkb_layoutとかxkb_variantみたいなので指定できた気がしますね。 ちなみに、自分はリマップにはi3wm時代からずっと xremap 使ってます</description>

@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そんな自分は自宅にimmichとSMBを立てて、VPSと自宅のラズパイで wireguard トンネル張って運用 クラウド系との連携は全てカット これくらいしか回避策がない</title>
+      <link>https://x.com/mikan_seraph/status/2087260521598947387</link>
+      <description>深瀬 悠: そんな自分は自宅にimmichとSMBを立てて、VPSと自宅のラズパイで wireguard トンネル張って運用 クラウド系との連携は全てカット これくらいしか回避策がない</description>
+      <pubDate>Tue, 11 Aug 2026 19:31:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mikan_seraph/status/2087260521598947387</guid>
+    </item>
+    <item>
+      <title>ポート開放がされてなかったとしても、 wireguard で相互通信させたクラウド⇔自宅サーバーをポート転送することでゲームサーバーを建てれた…気がする</title>
+      <link>https://x.com/bm9kb2thaGE/status/2087179879683178788</link>
+      <description>のどかは: ポート開放がされてなかったとしても、 wireguard で相互通信させたクラウド⇔自宅サーバーをポート転送することでゲームサーバーを建てれた…気がする</description>
+      <pubDate>Tue, 11 Aug 2026 14:10:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bm9kb2thaGE/status/2087179879683178788</guid>
+    </item>
+    <item>
+      <title>WireGuard 対応のルーター買った 外出先でもVDを接続したい</title>
+      <link>https://x.com/aosanVRChat/status/2087126943603007531</link>
+      <description>あおさん@︎︎VR: WireGuard 対応のルーター買った 外出先でもVDを接続したい</description>
+      <pubDate>Tue, 11 Aug 2026 10:40:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aosanVRChat/status/2087126943603007531</guid>
+    </item>
+    <item>
+      <title>WireGuard のDNS変えてたら意外と快適になった AdGuardよかったぜ ( 94.140.14.14 ) OpenDNSも早いぜ ( 208.67.222.222 ) https://t.co/9nQ5YaTlkO</title>
+      <link>https://x.com/L_port8000/status/2087088167744909378</link>
+      <description>一樹（いつき）: WireGuard のDNS変えてたら意外と快適になった AdGuardよかったぜ ( 94.140.14.14 ) OpenDNSも早いぜ ( 208.67.222.222 ) https://t.co/9nQ5YaTlkO</description>
+      <pubDate>Tue, 11 Aug 2026 08:06:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2087088167744909378</guid>
+    </item>
+    <item>
       <title>@tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</title>
       <link>https://x.com/kizawa2020/status/2087030363587817740</link>
       <description>t.kizawa: @tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</description>
@@ -248,34 +276,6 @@
       <description>ねこさんなのです: ┌(┌ ｀ヮ´)┐＜ずんきりかりん、FreeBSD 14.4R-p8 が登場しており、 セマフォのメモリ領域外アクセスや wg(4) における WireGuard VPN の検証不備の修正等が 行われています https://t.co/FrlyaRnBIr</description>
       <pubDate>Tue, 04 Aug 2026 08:57:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/neko3nano/status/2084564375520874711</guid>
-    </item>
-    <item>
-      <title>モバイル通信だと WireGuard のVPN通らないのがよく分からん</title>
-      <link>https://x.com/Exass/status/2084561367365800265</link>
-      <description>ゑくさす: モバイル通信だと WireGuard のVPN通らないのがよく分からん</description>
-      <pubDate>Tue, 04 Aug 2026 08:45:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Exass/status/2084561367365800265</guid>
-    </item>
-    <item>
-      <title>unifiで wireguard が無難か</title>
-      <link>https://x.com/Izumi_sig176/status/2084488986496778629</link>
-      <description>Izumi: unifiで wireguard が無難か</description>
-      <pubDate>Tue, 04 Aug 2026 03:57:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Izumi_sig176/status/2084488986496778629</guid>
-    </item>
-    <item>
-      <title>Starlink環境では別にMTU値1500でも問題なさそうだな WireGuard の仮想NIC上だとやっぱちょっと引き下げた方がよさそう もちろんフォークされたClouflare WARP, Tailscaleも同様だけど。。。</title>
-      <link>https://x.com/haturatutaro/status/2084364213984878791</link>
-      <description>ハツラツ太郎: Starlink環境では別にMTU値1500でも問題なさそうだな WireGuard の仮想NIC上だとやっぱちょっと引き下げた方がよさそう もちろんフォークされたClouflare WARP, Tailscaleも同様だけど。。。</description>
-      <pubDate>Mon, 03 Aug 2026 19:42:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084364213984878791</guid>
-    </item>
-    <item>
-      <title>nnんー。。。やっぱ WireGuard はMTU値ちょっと引き下げた方がいいか・・・ https://t.co/WyrelvQAKo</title>
-      <link>https://x.com/haturatutaro/status/2084363540618694689</link>
-      <description>ハツラツ太郎: nnんー。。。やっぱ WireGuard はMTU値ちょっと引き下げた方がいいか・・・ https://t.co/WyrelvQAKo</description>
-      <pubDate>Mon, 03 Aug 2026 19:39:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2084363540618694689</guid>
     </item>
   </channel>
 </rss>
