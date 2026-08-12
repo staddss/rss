@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>楽天モバイルで IPv4 な WireGuard のエンドポイントに接続するとき MTU を小さくしないと通信が流れないみたい。 うちの環境では 1320 まで小さくした。</title>
+      <link>https://x.com/ShokugonoOyatsu/status/2087551448091664625</link>
+      <description>ShokugonoOyatsu: 楽天モバイルで IPv4 な WireGuard のエンドポイントに接続するとき MTU を小さくしないと通信が流れないみたい。 うちの環境では 1320 まで小さくした。</description>
+      <pubDate>Wed, 12 Aug 2026 14:47:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShokugonoOyatsu/status/2087551448091664625</guid>
+    </item>
+    <item>
+      <title>OSPF + BIRD + BFD on WireGuard がかなり良いことが判明したので、今、NetplanとUFWを色々書き直しているけど、これUbuntu24.04代のままのさくらのVPSとVultrをOS入れ直すついでにあれこれした方が良くねえ……？ ってなってる あとPBR先にやれ（それはそう</title>
+      <link>https://x.com/harishimizu/status/2087508661677744135</link>
+      <description>針泉@大鏡路地: OSPF + BIRD + BFD on WireGuard がかなり良いことが判明したので、今、NetplanとUFWを色々書き直しているけど、これUbuntu24.04代のままのさくらのVPSとVultrをOS入れ直すついでにあれこれした方が良くねえ……？ ってなってる あとPBR先にやれ（それはそう</description>
+      <pubDate>Wed, 12 Aug 2026 11:57:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/harishimizu/status/2087508661677744135</guid>
+    </item>
+    <item>
       <title>Sandworm、偽の求人面接でトロイの木馬化した WireGuard VPNをIT担当者に配布 https://t.co/pRTgM1OPjS</title>
       <link>https://x.com/TYOBlackHatNews/status/2087433079467983083</link>
       <description>TokyoBlackHatNews: Sandworm、偽の求人面接でトロイの木馬化した WireGuard VPNをIT担当者に配布 https://t.co/pRTgM1OPjS</description>
       <pubDate>Wed, 12 Aug 2026 06:56:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2087433079467983083</guid>
+    </item>
+    <item>
+      <title>久しぶり過ぎて、デフォで wireguard 起きてるの忘れてて、最初繋がらなくて悩みまくったのは秘密だ。</title>
+      <link>https://x.com/takemontakashi/status/2087429681515745599</link>
+      <description>takemon GO: 久しぶり過ぎて、デフォで wireguard 起きてるの忘れてて、最初繋がらなくて悩みまくったのは秘密だ。</description>
+      <pubDate>Wed, 12 Aug 2026 06:43:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takemontakashi/status/2087429681515745599</guid>
     </item>
     <item>
       <title>学校のパソコンにも WireGuard つけれたから満足 ついでにChromeに拡張機能からプロキシつける 標準検索エンジンはDuckDuckGo DNSはNextDNSがメイン でも後でAdGuardも試したい</title>
@@ -255,27 +276,6 @@
       <description>˗ˋˏ コグレマサト|ネタフル ˎˊ˗: “つまり本サービスは、オープンソースとして公開されているTailscaleのクライアントコードを土台としていることになる。” / “これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】” https://t.co/XBH5kgDogl</description>
       <pubDate>Wed, 05 Aug 2026 07:09:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kogure/status/2084899640856735776</guid>
-    </item>
-    <item>
-      <title>Proxmox VE、Nginx Proxy Manager、Docker、 WireGuard 、Cloudflaredのせっていちゅー...</title>
-      <link>https://x.com/Soryu_VRC/status/2084859603557458115</link>
-      <description>そぉりゅぅ。/VRChat: Proxmox VE、Nginx Proxy Manager、Docker、 WireGuard 、Cloudflaredのせっていちゅー...</description>
-      <pubDate>Wed, 05 Aug 2026 04:30:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Soryu_VRC/status/2084859603557458115</guid>
-    </item>
-    <item>
-      <title>@taitai2661dayo 私はnordvpnを使ってますが、nordvpnでも通常の wireguard を使えば共存できます！ ただnordvpnアプリだと不可...</title>
-      <link>https://x.com/hittdesu/status/2084841835500011984</link>
-      <description>人: @taitai2661dayo 私はnordvpnを使ってますが、nordvpnでも通常の wireguard を使えば共存できます！ ただnordvpnアプリだと不可...</description>
-      <pubDate>Wed, 05 Aug 2026 03:20:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hittdesu/status/2084841835500011984</guid>
-    </item>
-    <item>
-      <title>@NeoPhoenixPC それからお互いのデバイスは wireguard というp2pの仮想ネットワークを使っていて、UDPで通信するので、セキュアで非常に高速です。</title>
-      <link>https://x.com/guredora403/status/2084803708903477593</link>
-      <description>グレドラ: @NeoPhoenixPC それからお互いのデバイスは wireguard というp2pの仮想ネットワークを使っていて、UDPで通信するので、セキュアで非常に高速です。</description>
-      <pubDate>Wed, 05 Aug 2026 00:48:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/guredora403/status/2084803708903477593</guid>
     </item>
   </channel>
 </rss>

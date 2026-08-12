@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obsidian Vaultを端末間で同期したいことが増えてきたのでひとまず Syncthing を導入した</title>
+      <link>https://x.com/satzz/status/2087192581465850298</link>
+      <description>satzz: Obsidian Vaultを端末間で同期したいことが増えてきたのでひとまず Syncthing を導入した</description>
+      <pubDate>Tue, 11 Aug 2026 15:01:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/satzz/status/2087192581465850298</guid>
+    </item>
+    <item>
       <title>@uchikun2493 syncthing 良いよ</title>
       <link>https://x.com/Ezomo_Daniel/status/2086595644509376615</link>
       <description>Daniel Ezomo: @uchikun2493 syncthing 良いよ</description>
@@ -213,13 +220,6 @@
       <description>ネットデブリ: おそらく１年ぐらい、Obsidianをlivesyncとtasknotesで使ってきてたが、 syncthing とoperonに移行するかも</description>
       <pubDate>Tue, 14 Jul 2026 08:33:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Netdebris/status/2076948070567399706</guid>
-    </item>
-    <item>
-      <title>VPSのrfriendsで録音したデータを Syncthing でスマホに同期する運用に変えてみた。 これまではVPS上のrfriends+MPD+MyMPDでストリーミング再生していたけど無課金povo2.0ではやっぱり重いので。</title>
-      <link>https://x.com/kz14/status/2076691072395383020</link>
-      <description>kz14: VPSのrfriendsで録音したデータを Syncthing でスマホに同期する運用に変えてみた。 これまではVPS上のrfriends+MPD+MyMPDでストリーミング再生していたけど無課金povo2.0ではやっぱり重いので。</description>
-      <pubDate>Mon, 13 Jul 2026 15:31:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kz14/status/2076691072395383020</guid>
     </item>
     <item>
       <title>私は消えたら困るデータをRAID1の外付けディスクに入れているのですけれど、それも家が燃えたら終わりなので、対策として関西に住んでいる友達のPCと syncthing で常に同期しています。 互いに深く考えずに放り込んでいるので、数TBあります。</title>

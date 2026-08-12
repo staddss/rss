@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@unilabo Chromeのアドレスバーに以下をコピペして Enter を押下 chrome :// flags /#disable-accelerated-video-decodeminto.tech 「Hardware-accelerated video decode」 の項目を探します。右側の設定値を Disabled (停止)に変更します。画面右下に表示される 「Relaunch（再起動）」</title>
+      <link>https://x.com/hiroscom/status/2087369103418024225</link>
+      <description>長坂信宏: @unilabo Chromeのアドレスバーに以下をコピペして Enter を押下 chrome :// flags /#disable-accelerated-video-decodeminto.tech 「Hardware-accelerated video decode」 の項目を探します。右側の設定値を Disabled (停止)に変更します。画面右下に表示される 「Relaunch（再起動）」</description>
+      <pubDate>Wed, 12 Aug 2026 02:42:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiroscom/status/2087369103418024225</guid>
+    </item>
+    <item>
       <title>Google Chrome の起動時のゴミ、 chrome :// flags を開いて Default Browser Prompt Surfaces を Disabled にしたら出なくなったぞ✌ https://t.co/w9gNrQ9Hz6 .</title>
       <link>https://x.com/mikecat_mixc/status/2086969263932535066</link>
       <description>みけCAT: Google Chrome の起動時のゴミ、 chrome :// flags を開いて Default Browser Prompt Surfaces を Disabled にしたら出なくなったぞ✌ https://t.co/w9gNrQ9Hz6 .</description>
@@ -17,13 +24,6 @@
       <description>立花卿音: メディア欄のイラスト見てると違和感あったからモニターの不調か目の不調を疑ったけどブラウザ以外は問題ないことが確認できるから多分合ってると思う 色は【 chrome :// flags /#force-color-profile】からsRGBにすると自分の環境では元に戻った</description>
       <pubDate>Mon, 10 Aug 2026 16:39:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tachibanasatone/status/2086854884452929721</guid>
-    </item>
-    <item>
-      <title>僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</title>
-      <link>https://x.com/kentaro/status/2086805595995386016</link>
-      <description>栗林健太郎 🎨💙 AI時代の生きかた考察: 僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</description>
-      <pubDate>Mon, 10 Aug 2026 13:23:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kentaro/status/2086805595995386016</guid>
     </item>
     <item>
       <title>少し前にChromeに出現した「このページについてgoogleに質問する」ってボタンが音声の邪魔をしてて、「 chrome :// flags /」にアクセスして、検索欄に「Omnibox contextual suggestions」って入れて、出てきた項目を「Disabled」にしたら、消せたんだけど、最近復活してきた。しかもこの手段が使えない。</title>
