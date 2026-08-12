@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>学校のパソコンにも WireGuard つけれたから満足 ついでにChromeに拡張機能からプロキシつける 標準検索エンジンはDuckDuckGo DNSはNextDNSがメイン でも後でAdGuardも試したい</title>
+      <link>https://x.com/Tsukiha_404/status/2087339927105319007</link>
+      <description>葉樹: 学校のパソコンにも WireGuard つけれたから満足 ついでにChromeに拡張機能からプロキシつける 標準検索エンジンはDuckDuckGo DNSはNextDNSがメイン でも後でAdGuardも試したい</description>
+      <pubDate>Wed, 12 Aug 2026 00:46:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2087339927105319007</guid>
+    </item>
+    <item>
+      <title>採用面接の「事前準備」でVPNを入れさせる。 入れた瞬間に支配される。 GRU系UAC-0145が採用担当者を装いITエンジニアに接触。偽 WireGuard をインストールさせリモート実行権を奪う手口をCERT-UAが確認。 IT系には「VPN入れて」が刺さる。そこを突くやつですね。 #セキュリティ #ゆるセキュ</title>
+      <link>https://x.com/yuru_sec/status/2087315346701025376</link>
+      <description>ゆるいセキュリティニュース: 採用面接の「事前準備」でVPNを入れさせる。 入れた瞬間に支配される。 GRU系UAC-0145が採用担当者を装いITエンジニアに接触。偽 WireGuard をインストールさせリモート実行権を奪う手口をCERT-UAが確認。 IT系には「VPN入れて」が刺さる。そこを突くやつですね。 #セキュリティ #ゆるセキュ</description>
+      <pubDate>Tue, 11 Aug 2026 23:08:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuru_sec/status/2087315346701025376</guid>
+    </item>
+    <item>
+      <title>直接インターネットに公開されずに wireguard ネットワークに公開鍵認証して接続するホワイトリスト方式なので、適切な運用をすればだいぶ安全です</title>
+      <link>https://x.com/mikan_seraph/status/2087260988659974328</link>
+      <description>深瀬 悠: 直接インターネットに公開されずに wireguard ネットワークに公開鍵認証して接続するホワイトリスト方式なので、適切な運用をすればだいぶ安全です</description>
+      <pubDate>Tue, 11 Aug 2026 19:32:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mikan_seraph/status/2087260988659974328</guid>
+    </item>
+    <item>
       <title>そんな自分は自宅にimmichとSMBを立てて、VPSと自宅のラズパイで wireguard トンネル張って運用 クラウド系との連携は全てカット これくらいしか回避策がない</title>
       <link>https://x.com/mikan_seraph/status/2087260521598947387</link>
       <description>深瀬 悠: そんな自分は自宅にimmichとSMBを立てて、VPSと自宅のラズパイで wireguard トンネル張って運用 クラウド系との連携は全てカット これくらいしか回避策がない</description>
@@ -255,27 +276,6 @@
       <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @taitai2661dayo 普通に Wireguard とTailscaleみたいなの普段から併用してるけど</description>
       <pubDate>Tue, 04 Aug 2026 14:58:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TRX9800_/status/2084655275349516394</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ytnnvfqDzp</title>
-      <link>https://x.com/fagai/status/2084621675090575554</link>
-      <description>ファガイ: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/ytnnvfqDzp</description>
-      <pubDate>Tue, 04 Aug 2026 12:45:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fagai/status/2084621675090575554</guid>
-    </item>
-    <item>
-      <title>@liru_55 TorGuard メリット ・ポート開放可能 ・独自IPを複数持てる ・昼間は1Gbps以上出せる ・何度でも独自IP変更可能 デメリット ・夜は20Mbpsくらいまで速度落ちる ・ WireGuard だとconfがひとつしか生成できないので複数台数繋げない</title>
-      <link>https://x.com/neco_vr/status/2084565902285234190</link>
-      <description>𝓝eco222: @liru_55 TorGuard メリット ・ポート開放可能 ・独自IPを複数持てる ・昼間は1Gbps以上出せる ・何度でも独自IP変更可能 デメリット ・夜は20Mbpsくらいまで速度落ちる ・ WireGuard だとconfがひとつしか生成できないので複数台数繋げない</description>
-      <pubDate>Tue, 04 Aug 2026 09:03:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/neco_vr/status/2084565902285234190</guid>
-    </item>
-    <item>
-      <title>┌(┌ ｀ヮ´)┐＜ずんきりかりん、FreeBSD 14.4R-p8 が登場しており、 セマフォのメモリ領域外アクセスや wg(4) における WireGuard VPN の検証不備の修正等が 行われています https://t.co/FrlyaRnBIr</title>
-      <link>https://x.com/neko3nano/status/2084564375520874711</link>
-      <description>ねこさんなのです: ┌(┌ ｀ヮ´)┐＜ずんきりかりん、FreeBSD 14.4R-p8 が登場しており、 セマフォのメモリ領域外アクセスや wg(4) における WireGuard VPN の検証不備の修正等が 行われています https://t.co/FrlyaRnBIr</description>
-      <pubDate>Tue, 04 Aug 2026 08:57:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/neko3nano/status/2084564375520874711</guid>
     </item>
   </channel>
 </rss>

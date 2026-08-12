@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@4tsxml 今使ってるのは * 株関係を ai に調べさせたことをまとめたり指標を確認するためのダッシュボード * cloudflare のモックサーバー * 特許関係の生成や確認をするサーバー とかとかです、こういうのを常駐させて cloudflare tunnel つかって外部インターネットからでも見える（認証付き）にするの良き</title>
+      <link>https://x.com/XiroGA3/status/2087401144708743562</link>
+      <description>しろがみちゃんーむやみに金を使わない: @4tsxml 今使ってるのは * 株関係を ai に調べさせたことをまとめたり指標を確認するためのダッシュボード * cloudflare のモックサーバー * 特許関係の生成や確認をするサーバー とかとかです、こういうのを常駐させて cloudflare tunnel つかって外部インターネットからでも見える（認証付き）にするの良き</description>
+      <pubDate>Wed, 12 Aug 2026 04:49:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/XiroGA3/status/2087401144708743562</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</title>
       <link>https://x.com/YaJonhFK/status/2087028638466388100</link>
       <description>Ethan: Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</description>
@@ -269,20 +276,6 @@
       <description>ツユタク(tsuyutaku): 接続しっぱなしでよければ Cloudflare Tunnel でもできる https://t.co/c3wMxOD6Bh</description>
       <pubDate>Wed, 29 Jul 2026 14:31:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsuyutaku/status/2082473985279918391</guid>
-    </item>
-    <item>
-      <title>@hrbiebtowb @IJ4R3NF 使ってるから読んだら納得しかなかった MagicDNSオフで使っているのでもはやTailscaleである意味がないと感じ、 Cloudflare tunnel （warp）に切り替えを検討してます</title>
-      <link>https://x.com/taqyan/status/2082389782299320431</link>
-      <description>taqyA: @hrbiebtowb @IJ4R3NF 使ってるから読んだら納得しかなかった MagicDNSオフで使っているのでもはやTailscaleである意味がないと感じ、 Cloudflare tunnel （warp）に切り替えを検討してます</description>
-      <pubDate>Wed, 29 Jul 2026 08:56:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taqyan/status/2082389782299320431</guid>
-    </item>
-    <item>
-      <title>こちら Cloudflare tunnel で解決しました アドバイス頂いたスキマさん@1RRhcSB6HSUu9hF ありがとうございました https://t.co/WxsAqDigiW</title>
-      <link>https://x.com/youngneurol/status/2082252219714507173</link>
-      <description>内科医グスク🧠: こちら Cloudflare tunnel で解決しました アドバイス頂いたスキマさん@1RRhcSB6HSUu9hF ありがとうございました https://t.co/WxsAqDigiW</description>
-      <pubDate>Tue, 28 Jul 2026 23:49:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/youngneurol/status/2082252219714507173</guid>
     </item>
   </channel>
 </rss>

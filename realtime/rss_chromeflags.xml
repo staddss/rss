@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/tachibanasatone/status/2086854884452929721</guid>
     </item>
     <item>
+      <title>僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</title>
+      <link>https://x.com/kentaro/status/2086805595995386016</link>
+      <description>栗林健太郎 🎨💙 AI時代の生きかた考察: 僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</description>
+      <pubDate>Mon, 10 Aug 2026 13:23:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kentaro/status/2086805595995386016</guid>
+    </item>
+    <item>
       <title>少し前にChromeに出現した「このページについてgoogleに質問する」ってボタンが音声の邪魔をしてて、「 chrome :// flags /」にアクセスして、検索欄に「Omnibox contextual suggestions」って入れて、出てきた項目を「Disabled」にしたら、消せたんだけど、最近復活してきた。しかもこの手段が使えない。</title>
       <link>https://x.com/floorvolley/status/2086754507216830920</link>
       <description>げん: 少し前にChromeに出現した「このページについてgoogleに質問する」ってボタンが音声の邪魔をしてて、「 chrome :// flags /」にアクセスして、検索欄に「Omnibox contextual suggestions」って入れて、出てきた項目を「Disabled」にしたら、消せたんだけど、最近復活してきた。しかもこの手段が使えない。</description>
@@ -164,13 +171,6 @@
       <description>りすざる: Chromeの新規タブのロゴがサッカーのせいでくねくねアニメして不快すぎるので chrome :// flags でNTP Animated Doodlesを無効にした</description>
       <pubDate>Tue, 14 Jul 2026 19:31:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rszrkn/status/2077113845571871184</guid>
-    </item>
-    <item>
-      <title>お仕事macのChromeになかなか垂直タブが降ってこないので怒りにまかせて chrome :// flags / → verticalで検索→Vertical TabsをEnabledしてChrome再起動→タブバーで右クリしたら「垂直に」が出現しようやく垂直タブに。 そもそも垂直側が狭いPCで縦方向を消費するUIはダメだよな</title>
-      <link>https://x.com/muota_here/status/2076475956223713751</link>
-      <description>魚田雅彦: お仕事macのChromeになかなか垂直タブが降ってこないので怒りにまかせて chrome :// flags / → verticalで検索→Vertical TabsをEnabledしてChrome再起動→タブバーで右クリしたら「垂直に」が出現しようやく垂直タブに。 そもそも垂直側が狭いPCで縦方向を消費するUIはダメだよな</description>
-      <pubDate>Mon, 13 Jul 2026 01:17:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/muota_here/status/2076475956223713751</guid>
     </item>
     <item>
       <title>備忘録 chromeの右クリックのGeminiに相談を消す方法 chrome :// flags でGlicを検索してDisabledにして再起動</title>
