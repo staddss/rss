@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Sandworm、偽の求人面接でトロイの木馬化した WireGuard VPNをIT担当者に配布 https://t.co/pRTgM1OPjS</title>
+      <link>https://x.com/TYOBlackHatNews/status/2087433079467983083</link>
+      <description>TokyoBlackHatNews: Sandworm、偽の求人面接でトロイの木馬化した WireGuard VPNをIT担当者に配布 https://t.co/pRTgM1OPjS</description>
+      <pubDate>Wed, 12 Aug 2026 06:56:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2087433079467983083</guid>
+    </item>
+    <item>
       <title>学校のパソコンにも WireGuard つけれたから満足 ついでにChromeに拡張機能からプロキシつける 標準検索エンジンはDuckDuckGo DNSはNextDNSがメイン でも後でAdGuardも試したい</title>
       <link>https://x.com/Tsukiha_404/status/2087339927105319007</link>
       <description>葉樹: 学校のパソコンにも WireGuard つけれたから満足 ついでにChromeに拡張機能からプロキシつける 標準検索エンジンはDuckDuckGo DNSはNextDNSがメイン でも後でAdGuardも試したい</description>
       <pubDate>Wed, 12 Aug 2026 00:46:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Tsukiha_404/status/2087339927105319007</guid>
+    </item>
+    <item>
+      <title>WireGuard で実家から自宅に繋いでるけど、充分に速くていいなこれ 設定もシンプルだし</title>
+      <link>https://x.com/oh_sky/status/2087338897223401940</link>
+      <description>よ。しー: WireGuard で実家から自宅に繋いでるけど、充分に速くていいなこれ 設定もシンプルだし</description>
+      <pubDate>Wed, 12 Aug 2026 00:42:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oh_sky/status/2087338897223401940</guid>
     </item>
     <item>
       <title>採用面接の「事前準備」でVPNを入れさせる。 入れた瞬間に支配される。 GRU系UAC-0145が採用担当者を装いITエンジニアに接触。偽 WireGuard をインストールさせリモート実行権を奪う手口をCERT-UAが確認。 IT系には「VPN入れて」が刺さる。そこを突くやつですね。 #セキュリティ #ゆるセキュ</title>
@@ -262,20 +276,6 @@
       <description>グレドラ: @NeoPhoenixPC それからお互いのデバイスは wireguard というp2pの仮想ネットワークを使っていて、UDPで通信するので、セキュアで非常に高速です。</description>
       <pubDate>Wed, 05 Aug 2026 00:48:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/guredora403/status/2084803708903477593</guid>
-    </item>
-    <item>
-      <title>ちょっと社内ネットワークのVPNやら認証やらを見直さねばならず 現行はIPSecとバックアップとして WireGuard でやってるけど、半歩進めてゼロトラスト化もこの際やっておきたい。 Cloudflareはお手軽でいいんだけど、やはり第三者ベンダーに社内リソースを晒す事になるしなぁ セルフホストがいいなぁ</title>
-      <link>https://x.com/CABIN_D/status/2084755649775501476</link>
-      <description>CABIN: ちょっと社内ネットワークのVPNやら認証やらを見直さねばならず 現行はIPSecとバックアップとして WireGuard でやってるけど、半歩進めてゼロトラスト化もこの際やっておきたい。 Cloudflareはお手軽でいいんだけど、やはり第三者ベンダーに社内リソースを晒す事になるしなぁ セルフホストがいいなぁ</description>
-      <pubDate>Tue, 04 Aug 2026 21:37:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CABIN_D/status/2084755649775501476</guid>
-    </item>
-    <item>
-      <title>@taitai2661dayo 普通に Wireguard とTailscaleみたいなの普段から併用してるけど</title>
-      <link>https://x.com/TRX9800_/status/2084655275349516394</link>
-      <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @taitai2661dayo 普通に Wireguard とTailscaleみたいなの普段から併用してるけど</description>
-      <pubDate>Tue, 04 Aug 2026 14:58:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TRX9800_/status/2084655275349516394</guid>
     </item>
   </channel>
 </rss>
