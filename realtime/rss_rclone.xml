@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Drive MCP の download_file_content が Service Account だと 403 になることがあるんですよ My Drive 配下のファイルは SA に明示共有してないと取れない rclone .conf の OAuth トークンを流用して googleapiclient で取得するのが fallback として安定してます</title>
+      <link>https://x.com/e2life040321/status/2087735904580542630</link>
+      <description>たくや: Drive MCP の download_file_content が Service Account だと 403 になることがあるんですよ My Drive 配下のファイルは SA に明示共有してないと取れない rclone .conf の OAuth トークンを流用して googleapiclient で取得するのが fallback として安定してます</description>
+      <pubDate>Thu, 13 Aug 2026 03:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/e2life040321/status/2087735904580542630</guid>
+    </item>
+    <item>
       <title>Rclone 使ってNASからBoxへの同期を試しているのだが、このツール謎が多い。どうして --dry-run で事前チェック sync を走らせた直後に --dry-run だけ消したコマンドで本番 sync を走らせたら、チェック数が何倍も膨れあがるのか？</title>
       <link>https://x.com/Dr_Roylott/status/2087468854733860876</link>
       <description>ロイロット博士: Rclone 使ってNASからBoxへの同期を試しているのだが、このツール謎が多い。どうして --dry-run で事前チェック sync を走らせた直後に --dry-run だけ消したコマンドで本番 sync を走らせたら、チェック数が何倍も膨れあがるのか？</description>
