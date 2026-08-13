@@ -130,12 +130,5 @@
       <pubDate>Tue, 14 Jul 2026 22:57:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gardenpapa/status/2077165561319215219</guid>
     </item>
-    <item>
-      <title>PCに有線でDAC繋げて音楽聞いてるときって、スマホにつなげてるときより違和感ある音質だなーって思ってたんですけど、どうやら44.1kHz→48kHzの変換が挟まっちゃってたっぽい。 SpotifyのLosslessは44.1kHz、Linux内の Pipewire はデフォルトで44.1kHzが含まれていないので、追加してあげればOK。 https://t.co/RQLgW66LvC</title>
-      <link>https://x.com/ReBot_dev/status/2076918276144366071</link>
-      <description>れぼっと / ReBot: PCに有線でDAC繋げて音楽聞いてるときって、スマホにつなげてるときより違和感ある音質だなーって思ってたんですけど、どうやら44.1kHz→48kHzの変換が挟まっちゃってたっぽい。 SpotifyのLosslessは44.1kHz、Linux内の Pipewire はデフォルトで44.1kHzが含まれていないので、追加してあげればOK。 https://t.co/RQLgW66LvC</description>
-      <pubDate>Tue, 14 Jul 2026 06:34:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ReBot_dev/status/2076918276144366071</guid>
-    </item>
   </channel>
 </rss>
