@@ -12,13 +12,6 @@
       <guid isPermaLink="true">https://x.com/Microsoft_6666/status/2086918493098955133</guid>
     </item>
     <item>
-      <title>なんかノートPCが音声デバイス認識しなくなっちゃった Pipewire とかそういう何かの調子が悪いんだろうが分かりません</title>
-      <link>https://x.com/Hue_215/status/2086616612007006577</link>
-      <description>ℕ𝕚𝕚𝕘𝕠​‌: なんかノートPCが音声デバイス認識しなくなっちゃった Pipewire とかそういう何かの調子が悪いんだろうが分かりません</description>
-      <pubDate>Mon, 10 Aug 2026 00:52:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hue_215/status/2086616612007006577</guid>
-    </item>
-    <item>
       <title>PipeWire で権限昇格するとか理由の分からない攻撃手法が出てきて腰を抜かしている お前⋯ あれサウンドドライバだろう もしくはサウンドドライバの統合層 それを使って権限昇格するとかどういうアイデアだよ 一体どこから掘り出してくるんだ</title>
       <link>https://x.com/RE_DO/status/2086539023204712758</link>
       <description>錆人形/RE_DO: PipeWire で権限昇格するとか理由の分からない攻撃手法が出てきて腰を抜かしている お前⋯ あれサウンドドライバだろう もしくはサウンドドライバの統合層 それを使って権限昇格するとかどういうアイデアだよ 一体どこから掘り出してくるんだ</description>
@@ -122,13 +115,6 @@
       <description>ごる: PulseAudio消して PipeWire におきかえた https://t.co/gxrp82iwgs</description>
       <pubDate>Sat, 18 Jul 2026 17:21:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lostman/status/2078530606452085161</guid>
-    </item>
-    <item>
-      <title>pipewire のjack tunnelに関する記述は古くないですか？archlinuxの pipewire -jack-clientではhttps://t.co/VQDTvTOSDyになっています。jack-tunnel.confが見つけられません。 https://t.co/SxjwNB4w4r</title>
-      <link>https://x.com/gardenpapa/status/2077165561319215219</link>
-      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: pipewire のjack tunnelに関する記述は古くないですか？archlinuxの pipewire -jack-clientではhttps://t.co/VQDTvTOSDyになっています。jack-tunnel.confが見つけられません。 https://t.co/SxjwNB4w4r</description>
-      <pubDate>Tue, 14 Jul 2026 22:57:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gardenpapa/status/2077165561319215219</guid>
     </item>
   </channel>
 </rss>
