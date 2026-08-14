@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</title>
+      <link>https://x.com/Ckurai/status/2088236331743002809</link>
+      <description>倉井: なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</description>
+      <pubDate>Fri, 14 Aug 2026 12:08:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2088236331743002809</guid>
+    </item>
+    <item>
       <title>WARP Connector、今は WireGuard の他にMASQUEが選べるらしい！！理論上オーバーヘッドが大きい割にQoEが良さそうで、CDN屋の本領発揮かな。 warp-cli tunnel endpointよりColo(Mesh -&gt; Edge Location)ガチャっぽい感じがするのと、PQC(warp-cli tunnel stats -&gt; Post-Quantum enabled)ガチャもあるｗ https://t.co/UTlft6grHO https://t.co/QituJaYulH</title>
       <link>https://x.com/shibanyan_1/status/2088187381350645847</link>
       <description>しばにゃん: WARP Connector、今は WireGuard の他にMASQUEが選べるらしい！！理論上オーバーヘッドが大きい割にQoEが良さそうで、CDN屋の本領発揮かな。 warp-cli tunnel endpointよりColo(Mesh -&gt; Edge Location)ガチャっぽい感じがするのと、PQC(warp-cli tunnel stats -&gt; Post-Quantum enabled)ガチャもあるｗ https://t.co/UTlft6grHO https://t.co/QituJaYulH</description>
@@ -17,6 +24,13 @@
       <description>sashisashi: いろんなサブネットに直接接続するせいで Wireguard のAllowed IP設定がめんどくさくて放置してたデバイスをようやく設定した。ローカル接続以外はちゃんとトンネリングされてる。</description>
       <pubDate>Fri, 14 Aug 2026 08:21:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sashisashi569/status/2088179249882734945</guid>
+    </item>
+    <item>
+      <title>@zk8027 軽くGemiったところ、 wireguard の設定ファイル編集できるようならそこでVPN適用する範囲を設定できるみたいなので、プライベートIPの範囲を外す設定入れるだけで解決する可能性はありそうだった その他の可能性もありそうだったから、agentに聞いて進めてもらうのが確実かもしれん https://t.co/2OF2zaPG72</title>
+      <link>https://x.com/sghr61/status/2088167316441948424</link>
+      <description>shigeho: @zk8027 軽くGemiったところ、 wireguard の設定ファイル編集できるようならそこでVPN適用する範囲を設定できるみたいなので、プライベートIPの範囲を外す設定入れるだけで解決する可能性はありそうだった その他の可能性もありそうだったから、agentに聞いて進めてもらうのが確実かもしれん https://t.co/2OF2zaPG72</description>
+      <pubDate>Fri, 14 Aug 2026 07:34:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sghr61/status/2088167316441948424</guid>
     </item>
     <item>
       <title>iPhoneがeSIMになって、今までのドコモのhome5Gルータが使えないので、以前買っていたトラベルルータを使いました。 当初使った際は接続がイマイチでしたが設定が悪かっただけみたいでど安定でした。 Wireguard で活躍してくれました。 https://t.co/HwTMJTGnvI</title>
@@ -262,20 +276,6 @@
       <description>せぷてる: 最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</description>
       <pubDate>Thu, 06 Aug 2026 06:40:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Septe_l/status/2085254671351021794</guid>
-    </item>
-    <item>
-      <title>XServerを契約済みなので、固定IPにXServerのサービスを使おうと思ったら、Pop!_OSから全く接続できず。 どうやらこれのネットワークGUIがPSK設定をドロップするらしい。 という記事を書かせました。 Pop!_OS の設定画面から WireGuard を読み込むと繋がらない https://t.co/30gw6PYTdG https://t.co/PGzmmln3eC</title>
-      <link>https://x.com/kkotaro0111/status/2085246566915563941</link>
-      <description>川嶋光太郎 - ウェブデザイナー / フロントエンドエンジニア: XServerを契約済みなので、固定IPにXServerのサービスを使おうと思ったら、Pop!_OSから全く接続できず。 どうやらこれのネットワークGUIがPSK設定をドロップするらしい。 という記事を書かせました。 Pop!_OS の設定画面から WireGuard を読み込むと繋がらない https://t.co/30gw6PYTdG https://t.co/PGzmmln3eC</description>
-      <pubDate>Thu, 06 Aug 2026 06:08:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kkotaro0111/status/2085246566915563941</guid>
-    </item>
-    <item>
-      <title>wireguard などを動かしてるホストだとipコマンドじゃないと経路情報とか分からないと思う</title>
-      <link>https://x.com/m_akihiro/status/2085227716731883574</link>
-      <description>まきひろ: wireguard などを動かしてるホストだとipコマンドじゃないと経路情報とか分からないと思う</description>
-      <pubDate>Thu, 06 Aug 2026 04:53:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m_akihiro/status/2085227716731883574</guid>
     </item>
   </channel>
 </rss>
