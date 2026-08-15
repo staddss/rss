@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・AWS Cloud9を実務でどう選ぶか（PoCチェックリスト付き） https://t.co/YUIWqZamLw #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2088425807010013453</link>
+      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・AWS Cloud9を実務でどう選ぶか（PoCチェックリスト付き） https://t.co/YUIWqZamLw #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 15 Aug 2026 00:41:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2088425807010013453</guid>
+    </item>
+    <item>
       <title>PCぶっ壊れてiPad&amp; CodeSpaces で凌いでいるが限界が近い</title>
       <link>https://x.com/koyachito/status/2088065572571631737</link>
       <description>こーや: PCぶっ壊れてiPad&amp; CodeSpaces で凌いでいるが限界が近い</description>
@@ -269,13 +276,6 @@
       <description>わた| Python: これからの環境構成の方向性を検討。 現在は Codespaces でDockerビルドし重いPC負荷を回避、その他はWindowsで実行と環境が分散しています。 最終的にはGitHub Actions化は理想だが、その前にまずWindows環境に統一し、これまでの作業、ソースの整理を行う予定。 #AWS #EKS #マルチクラウド</description>
       <pubDate>Mon, 27 Jul 2026 15:00:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Python410386/status/2081756655725990052</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces / Gitpod / Cloud9 の選び方と現場で失敗しないPoC手順 https://t.co/l0sjCFidD4 #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2081539215016284660</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces / Gitpod / Cloud9 の選び方と現場で失敗しないPoC手順 https://t.co/l0sjCFidD4 #エンジニア #ChatGPT #AI</description>
-      <pubDate>Mon, 27 Jul 2026 00:36:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2081539215016284660</guid>
     </item>
   </channel>
 </rss>

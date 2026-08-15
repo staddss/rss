@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Local LLM - Qwen3.8-27B EVO-X2で「Qwen3.8-27Bが最大24.5 tok/s」という話。この速度なら単体でも使えそう😃 ・チャッピー解説 Qwen3.8-27B、EVO-X2でもかなり期待できそうです。 AMDがDay 0検証に使ったのは、なんと私と同じ環境「GMKtec EVO-X2 / Ryzen AI Max + 395 / 128GB」。llama.cpp + https://t.co/LrY1dydqH6</title>
+      <link>https://x.com/UtaAoya/status/2088459184337752468</link>
+      <description>A-Uta: Local LLM - Qwen3.8-27B EVO-X2で「Qwen3.8-27Bが最大24.5 tok/s」という話。この速度なら単体でも使えそう😃 ・チャッピー解説 Qwen3.8-27B、EVO-X2でもかなり期待できそうです。 AMDがDay 0検証に使ったのは、なんと私と同じ環境「GMKtec EVO-X2 / Ryzen AI Max + 395 / 128GB」。llama.cpp + https://t.co/LrY1dydqH6</description>
+      <pubDate>Sat, 15 Aug 2026 02:54:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UtaAoya/status/2088459184337752468</guid>
+    </item>
+    <item>
+      <title>AMD公式も Qwen3.8-27B + AMD Ryzen AI Max + の Day-0 サポート言ってる 現状 24 t/s くらいかな？ https://t.co/VYA53dGYF6 https://t.co/idSbfnDF6V</title>
+      <link>https://x.com/old_pgmrs_will/status/2088384625886585291</link>
+      <description>いにしえ@AI Director / Creator / Engineer｜Will Oldgram: AMD公式も Qwen3.8-27B + AMD Ryzen AI Max + の Day-0 サポート言ってる 現状 24 t/s くらいかな？ https://t.co/VYA53dGYF6 https://t.co/idSbfnDF6V</description>
+      <pubDate>Fri, 14 Aug 2026 21:57:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2088384625886585291</guid>
+    </item>
+    <item>
       <title>@Aurtas_Nine 8TB SSDは本当にものの弾みで買っちゃったんですが、まさかひと財産になるとは思わず、、、(まあ使い倒しますけど笑 3950使いでしたら、記事の最初に載せたEVO-X2マジでおススメです！ Ryzen AI MAX +系はハイブリッド構成じゃない純粋な16コア仕様なので、PCIバスが必要なければめちゃアリです！</title>
       <link>https://x.com/kagome_p/status/2088264400662856148</link>
       <description>かごめPはミックス・マスタリングやってます！: @Aurtas_Nine 8TB SSDは本当にものの弾みで買っちゃったんですが、まさかひと財産になるとは思わず、、、(まあ使い倒しますけど笑 3950使いでしたら、記事の最初に載せたEVO-X2マジでおススメです！ Ryzen AI MAX +系はハイブリッド構成じゃない純粋な16コア仕様なので、PCIバスが必要なければめちゃアリです！</description>
@@ -262,20 +276,6 @@
       <description>クロカワ・バッキャム: Deepseek FlashでローカルLLMも試したいけど、 Ryzen AI Max PRO 400 192GBを待った方がいいとなった。おれの使い方だと並列にLLMをたくさん使うので、DGX Sparkだとかなり遅くなりそう。</description>
       <pubDate>Sun, 09 Aug 2026 07:38:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/masahiro8/status/2086356411827769730</guid>
-    </item>
-    <item>
-      <title>NVIDIA RTX SparkのGeekbench 7スコアが登場。 Ryzen AI Max + 395を上回るもM5 Maxには大差 https://t.co/qDzhhZgnUz</title>
-      <link>https://x.com/tenhoumaru800/status/2086327273595326546</link>
-      <description>天雀助: NVIDIA RTX SparkのGeekbench 7スコアが登場。 Ryzen AI Max + 395を上回るもM5 Maxには大差 https://t.co/qDzhhZgnUz</description>
-      <pubDate>Sun, 09 Aug 2026 05:42:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tenhoumaru800/status/2086327273595326546</guid>
-    </item>
-    <item>
-      <title>「GPD Win Max 3」全スペック公開！ Ryzen AI Max +と165Hz有機EL搭載 - デイリーガジェット https://t.co/bfPs2g15qa</title>
-      <link>https://x.com/GUREN016/status/2086295370435621348</link>
-      <description>グレン: 「GPD Win Max 3」全スペック公開！ Ryzen AI Max +と165Hz有機EL搭載 - デイリーガジェット https://t.co/bfPs2g15qa</description>
-      <pubDate>Sun, 09 Aug 2026 03:35:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GUREN016/status/2086295370435621348</guid>
     </item>
   </channel>
 </rss>

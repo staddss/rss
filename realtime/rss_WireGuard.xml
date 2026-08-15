@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>SORACOM Arc＋SORACOM CLI使って、AIからM5Stackを操作する環境作ってみた。 M5Stackが別のネットワークにいても、 WireGuard でSORACOM側から到達できるようにして、Remote Commandで操作できるのが良い。 https://t.co/BuziKY2HP8</title>
+      <link>https://x.com/GomiHgy/status/2088236346175295700</link>
+      <description>五味: SORACOM Arc＋SORACOM CLI使って、AIからM5Stackを操作する環境作ってみた。 M5Stackが別のネットワークにいても、 WireGuard でSORACOM側から到達できるようにして、Remote Commandで操作できるのが良い。 https://t.co/BuziKY2HP8</description>
+      <pubDate>Fri, 14 Aug 2026 12:08:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GomiHgy/status/2088236346175295700</guid>
+    </item>
+    <item>
       <title>なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</title>
       <link>https://x.com/Ckurai/status/2088236331743002809</link>
       <description>倉井: なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</description>
@@ -269,13 +276,6 @@
       <description>荒木 宏之: Chromebook duet 11の設定を続けている WireGuard がシステムに組み込みなのは助かった キーボードはJIS配列だし、打鍵感もいまいちだったので速攻で外し箱にしまった</description>
       <pubDate>Thu, 06 Aug 2026 20:37:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/h_araki/status/2085465199725941140</guid>
-    </item>
-    <item>
-      <title>最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</title>
-      <link>https://x.com/Septe_l/status/2085254671351021794</link>
-      <description>せぷてる: 最近Tailscaleよく聞くからなんだと思ったら WireGuard の亜種か 今のIKEv2環境捨てて切り替える必要はなさそうね</description>
-      <pubDate>Thu, 06 Aug 2026 06:40:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Septe_l/status/2085254671351021794</guid>
     </item>
   </channel>
 </rss>
