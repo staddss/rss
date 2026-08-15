@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>めっちゃニッチな話だけど、 Cloudflare Tunnel とTailscaleで自宅のUbuntuサーバーを繋いで、Caddyでリバースプロキシしてる Next.jsのアプリも ドメイン名:3000 でそのまま外部から開けるようにしてある デメリットはあのサービスは何番だっけ？となること https://t.co/JBS9XAmKUU</title>
+      <link>https://x.com/aviate_takumi/status/2088199419523199010</link>
+      <description>Takumi Ueno / AVIATE CTO: めっちゃニッチな話だけど、 Cloudflare Tunnel とTailscaleで自宅のUbuntuサーバーを繋いで、Caddyでリバースプロキシしてる Next.jsのアプリも ドメイン名:3000 でそのまま外部から開けるようにしてある デメリットはあのサービスは何番だっけ？となること https://t.co/JBS9XAmKUU</description>
+      <pubDate>Fri, 14 Aug 2026 09:41:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aviate_takumi/status/2088199419523199010</guid>
+    </item>
+    <item>
       <title>cloudflare tunnel どんなもんなんだろう</title>
       <link>https://x.com/34paBcTByNTe/status/2088182117893345478</link>
       <description>ほろろ: cloudflare tunnel どんなもんなんだろう</description>
@@ -269,13 +276,6 @@
       <description>ゆあ: @Latte72R dnsを変更するのは知ってたけど何が不満なんだろう この不具合というか問題は cloudflare tunnel でも発生するんですかね？</description>
       <pubDate>Fri, 31 Jul 2026 05:10:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/DanfuncL/status/2083057632047440209</guid>
-    </item>
-    <item>
-      <title>Cloudflare tunnel は1リクエストあたりのアップロード上限が100mbしかないからTailscaleなんだ</title>
-      <link>https://x.com/okdesuyone/status/2083032433906331790</link>
-      <description>kenny: Cloudflare tunnel は1リクエストあたりのアップロード上限が100mbしかないからTailscaleなんだ</description>
-      <pubDate>Fri, 31 Jul 2026 03:30:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/okdesuyone/status/2083032433906331790</guid>
     </item>
   </channel>
 </rss>

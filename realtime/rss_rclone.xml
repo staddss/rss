@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://x.com/7sistere2/status/2088318324484805089</guid>
     </item>
     <item>
+      <title>「OneDriveのオンラインファイルをローカルに同期せずに一括ダウンロードしたい」って調べたら rclone とか便利なCLIのツール見つけた素晴らしい！ ※標準機能でzip圧縮で一括ダウンロードできるけどサイズやファイル数制限があって面倒くさいんですよね https://t.co/MrPzxpDOf2</title>
+      <link>https://x.com/emutyworks/status/2088205849991032875</link>
+      <description>emuty: 「OneDriveのオンラインファイルをローカルに同期せずに一括ダウンロードしたい」って調べたら rclone とか便利なCLIのツール見つけた素晴らしい！ ※標準機能でzip圧縮で一括ダウンロードできるけどサイズやファイル数制限があって面倒くさいんですよね https://t.co/MrPzxpDOf2</description>
+      <pubDate>Fri, 14 Aug 2026 10:07:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/emutyworks/status/2088205849991032875</guid>
+    </item>
+    <item>
       <title>【WAFログ速報】 35.245.44.249（3回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを3回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/ZAzPhdcA9U</title>
       <link>https://x.com/zerizerizeri_bl/status/2087887338697621550</link>
       <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 35.245.44.249（3回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを3回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/ZAzPhdcA9U</description>

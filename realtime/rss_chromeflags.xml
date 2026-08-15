@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</title>
+      <link>https://x.com/littleq0903/status/2088522629905015066</link>
+      <description>Colin: Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</description>
+      <pubDate>Sat, 15 Aug 2026 07:06:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/littleq0903/status/2088522629905015066</guid>
+    </item>
+    <item>
       <title>@unilabo Chromeのアドレスバーに以下をコピペして Enter を押下 chrome :// flags /#disable-accelerated-video-decodeminto.tech 「Hardware-accelerated video decode」 の項目を探します。右側の設定値を Disabled (停止)に変更します。画面右下に表示される 「Relaunch（再起動）」</title>
       <link>https://x.com/hiroscom/status/2087369103418024225</link>
       <description>長坂信宏: @unilabo Chromeのアドレスバーに以下をコピペして Enter を押下 chrome :// flags /#disable-accelerated-video-decodeminto.tech 「Hardware-accelerated video decode」 の項目を探します。右側の設定値を Disabled (停止)に変更します。画面右下に表示される 「Relaunch（再起動）」</description>

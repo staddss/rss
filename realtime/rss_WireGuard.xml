@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</title>
+      <link>https://x.com/nanase_oikawa/status/2088529216329613819</link>
+      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</description>
+      <pubDate>Sat, 15 Aug 2026 07:32:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2088529216329613819</guid>
+    </item>
+    <item>
+      <title>@Soarray02 wireguard かOpenVPNにすれば位置指定できるだろ！！ なんならdnsも自由にできるだろ！！ ↓Proton https://t.co/i01o3aWkj3</title>
+      <link>https://x.com/L_port8000/status/2088523094881423692</link>
+      <description>一樹（いつき）: @Soarray02 wireguard かOpenVPNにすれば位置指定できるだろ！！ なんならdnsも自由にできるだろ！！ ↓Proton https://t.co/i01o3aWkj3</description>
+      <pubDate>Sat, 15 Aug 2026 07:08:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2088523094881423692</guid>
+    </item>
+    <item>
+      <title>面接で渡されたVPNクライアントを、そのまま実行してしまう手口があります。Sandworm(UAC-0145)が、コマンド実行可能な偽 WireGuard でIT技術者やシステム管理者を狙っていると、CERT-UAが2026年8月11日に開示しました。インストールを求められても、その場で実行せず、正規窓口で確認しましょう。</title>
+      <link>https://x.com/teiji_lab/status/2088385391258685895</link>
+      <description>定時ラボ: 面接で渡されたVPNクライアントを、そのまま実行してしまう手口があります。Sandworm(UAC-0145)が、コマンド実行可能な偽 WireGuard でIT技術者やシステム管理者を狙っていると、CERT-UAが2026年8月11日に開示しました。インストールを求められても、その場で実行せず、正規窓口で確認しましょう。</description>
+      <pubDate>Fri, 14 Aug 2026 22:00:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teiji_lab/status/2088385391258685895</guid>
+    </item>
+    <item>
       <title>SORACOM Arc＋SORACOM CLI使って、AIからM5Stackを操作する環境作ってみた。 M5Stackが別のネットワークにいても、 WireGuard でSORACOM側から到達できるようにして、Remote Commandで操作できるのが良い。 https://t.co/BuziKY2HP8</title>
       <link>https://x.com/GomiHgy/status/2088236346175295700</link>
       <description>五味: SORACOM Arc＋SORACOM CLI使って、AIからM5Stackを操作する環境作ってみた。 M5Stackが別のネットワークにいても、 WireGuard でSORACOM側から到達できるようにして、Remote Commandで操作できるのが良い。 https://t.co/BuziKY2HP8</description>
@@ -255,27 +276,6 @@
       <description>Masatoshi Shimada: 開発に関する全リソースをサーバに配置しMacを完全にシンクライアント化することに成功したけど、 WireGuard などのゼロトラスト技術の進歩したことをしみじみ。</description>
       <pubDate>Fri, 07 Aug 2026 10:14:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/smdmts/status/2085670848728559837</guid>
-    </item>
-    <item>
-      <title>WireGuard なあ</title>
-      <link>https://x.com/rlysleepynick/status/2085628253310706060</link>
-      <description>ﾆｯｸ: WireGuard なあ</description>
-      <pubDate>Fri, 07 Aug 2026 07:24:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rlysleepynick/status/2085628253310706060</guid>
-    </item>
-    <item>
-      <title>想像もしていなかったのだけれど、 WireGuard で自宅にVPNのセッションをはった状態ではCrostini側がこれを認識できておらず、うまく接続できない状態に＿ﾉ乙(､ﾝ､)_ これは想定外。</title>
-      <link>https://x.com/h_araki/status/2085537352127295522</link>
-      <description>荒木 宏之: 想像もしていなかったのだけれど、 WireGuard で自宅にVPNのセッションをはった状態ではCrostini側がこれを認識できておらず、うまく接続できない状態に＿ﾉ乙(､ﾝ､)_ これは想定外。</description>
-      <pubDate>Fri, 07 Aug 2026 01:23:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_araki/status/2085537352127295522</guid>
-    </item>
-    <item>
-      <title>Chromebook duet 11の設定を続けている WireGuard がシステムに組み込みなのは助かった キーボードはJIS配列だし、打鍵感もいまいちだったので速攻で外し箱にしまった</title>
-      <link>https://x.com/h_araki/status/2085465199725941140</link>
-      <description>荒木 宏之: Chromebook duet 11の設定を続けている WireGuard がシステムに組み込みなのは助かった キーボードはJIS配列だし、打鍵感もいまいちだったので速攻で外し箱にしまった</description>
-      <pubDate>Thu, 06 Aug 2026 20:37:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_araki/status/2085465199725941140</guid>
     </item>
   </channel>
 </rss>
