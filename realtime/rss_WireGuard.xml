@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@nanase_oikawa 手抜きか～🤔おうちの鍵なのになぁ。 WireGuard は結構前にLinuxカーネルに組み込まれてますね。</title>
+      <link>https://x.com/kinkuman_net/status/2088632383398617357</link>
+      <description>kinkuman: @nanase_oikawa 手抜きか～🤔おうちの鍵なのになぁ。 WireGuard は結構前にLinuxカーネルに組み込まれてますね。</description>
+      <pubDate>Sat, 15 Aug 2026 14:22:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088632383398617357</guid>
+    </item>
+    <item>
+      <title>@nanase_oikawa WireGuard の時点で驚くほど簡単なのに、なぜtailscaleを経由させるのか私も不思議におもっていました🤔</title>
+      <link>https://x.com/kinkuman_net/status/2088598266728640632</link>
+      <description>kinkuman: @nanase_oikawa WireGuard の時点で驚くほど簡単なのに、なぜtailscaleを経由させるのか私も不思議におもっていました🤔</description>
+      <pubDate>Sat, 15 Aug 2026 12:06:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088598266728640632</guid>
+    </item>
+    <item>
+      <title>Protonの無料の wireguard とか使う時は スイス(CH)とシンガポール(SG)はいいぞ あとアメリカ(US)と日本(JP)がサブ 鯖が多いのでオランダ(NL)も予備で置いとくとかもあり https://t.co/BhJKrSholm</title>
+      <link>https://x.com/L_port8000/status/2088545508692460003</link>
+      <description>一樹（いつき）: Protonの無料の wireguard とか使う時は スイス(CH)とシンガポール(SG)はいいぞ あとアメリカ(US)と日本(JP)がサブ 鯖が多いのでオランダ(NL)も予備で置いとくとかもあり https://t.co/BhJKrSholm</description>
+      <pubDate>Sat, 15 Aug 2026 08:37:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2088545508692460003</guid>
+    </item>
+    <item>
       <title>tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</title>
       <link>https://x.com/nanase_oikawa/status/2088529216329613819</link>
       <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</description>
@@ -255,27 +276,6 @@
       <description>USUTANI Yasuhiro: Linux カーネルに WireGuard のコードがマージされているのね。</description>
       <pubDate>Sat, 08 Aug 2026 06:34:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/usutani/status/2085978009086111881</guid>
-    </item>
-    <item>
-      <title>自分の従来のやり方だとLACP on VXLAN on WireGuard だったんだけど、これはMTUが1280まで削られてしまうので、そこそこ問題が起きていた。 そこで、改善策の予備調査として実装してみた。 OSPF+BIRD+BFD on WireGuard で、MTUは1420。</title>
-      <link>https://x.com/harishimizu/status/2085964229253935603</link>
-      <description>針泉@大鏡路地: 自分の従来のやり方だとLACP on VXLAN on WireGuard だったんだけど、これはMTUが1280まで削られてしまうので、そこそこ問題が起きていた。 そこで、改善策の予備調査として実装してみた。 OSPF+BIRD+BFD on WireGuard で、MTUは1420。</description>
-      <pubDate>Sat, 08 Aug 2026 05:40:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/harishimizu/status/2085964229253935603</guid>
-    </item>
-    <item>
-      <title>WireGuard の接続先をhostで指定していたら、 WireGuard 接続先にも配るDNSサーバとのブートストラップ問題が発生した</title>
-      <link>https://x.com/numanonu/status/2085785277663182998</link>
-      <description>ぬまのぬ: WireGuard の接続先をhostで指定していたら、 WireGuard 接続先にも配るDNSサーバとのブートストラップ問題が発生した</description>
-      <pubDate>Fri, 07 Aug 2026 17:48:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/numanonu/status/2085785277663182998</guid>
-    </item>
-    <item>
-      <title>開発に関する全リソースをサーバに配置しMacを完全にシンクライアント化することに成功したけど、 WireGuard などのゼロトラスト技術の進歩したことをしみじみ。</title>
-      <link>https://x.com/smdmts/status/2085670848728559837</link>
-      <description>Masatoshi Shimada: 開発に関する全リソースをサーバに配置しMacを完全にシンクライアント化することに成功したけど、 WireGuard などのゼロトラスト技術の進歩したことをしみじみ。</description>
-      <pubDate>Fri, 07 Aug 2026 10:14:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/smdmts/status/2085670848728559837</guid>
     </item>
   </channel>
 </rss>
