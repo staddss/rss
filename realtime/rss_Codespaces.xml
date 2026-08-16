@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@_handle_name @ymd65536 何の開発しているかにもよりますけども例えばVS Codeを使って開発しているのでしたらたいていはGitHub Codespaces でクラウド側での開発ができるのではと思います。 ※一定までは無料で行けますが課金体系は確認してください</title>
+      <link>https://x.com/tomo_kusaba/status/2088776451957096485</link>
+      <description>くさば: @_handle_name @ymd65536 何の開発しているかにもよりますけども例えばVS Codeを使って開発しているのでしたらたいていはGitHub Codespaces でクラウド側での開発ができるのではと思います。 ※一定までは無料で行けますが課金体系は確認してください</description>
+      <pubDate>Sat, 15 Aug 2026 23:54:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomo_kusaba/status/2088776451957096485</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・AWS Cloud9を実務でどう選ぶか（PoCチェックリスト付き） https://t.co/YUIWqZamLw #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2088425807010013453</link>
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・AWS Cloud9を実務でどう選ぶか（PoCチェックリスト付き） https://t.co/YUIWqZamLw #エンジニア #ChatGPT #AI</description>
@@ -269,20 +276,6 @@
       <description>EngiNear: 【新着記事】結論先出しで選ぶクラウドIDE： Codespaces ・Gitpod・Cloud9 の最短選定ガイド（導入手順とコスト試算つき） https://t.co/pdcbACVMpI #エンジニア #ChatGPT #AI</description>
       <pubDate>Wed, 29 Jul 2026 00:41:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2082265209444466991</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2081902776896958933</link>
-      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の選び方と2週間PoCテンプレ（運用チェックリスト付） https://t.co/BYw0RlnwFp #エンジニア #ChatGPT #AI</description>
-      <pubDate>Tue, 28 Jul 2026 00:41:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2081902776896958933</guid>
-    </item>
-    <item>
-      <title>これからの環境構成の方向性を検討。 現在は Codespaces でDockerビルドし重いPC負荷を回避、その他はWindowsで実行と環境が分散しています。 最終的にはGitHub Actions化は理想だが、その前にまずWindows環境に統一し、これまでの作業、ソースの整理を行う予定。 #AWS #EKS #マルチクラウド</title>
-      <link>https://x.com/Python410386/status/2081756655725990052</link>
-      <description>わた| Python: これからの環境構成の方向性を検討。 現在は Codespaces でDockerビルドし重いPC負荷を回避、その他はWindowsで実行と環境が分散しています。 最終的にはGitHub Actions化は理想だが、その前にまずWindows環境に統一し、これまでの作業、ソースの整理を行う予定。 #AWS #EKS #マルチクラウド</description>
-      <pubDate>Mon, 27 Jul 2026 15:00:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Python410386/status/2081756655725990052</guid>
     </item>
   </channel>
 </rss>

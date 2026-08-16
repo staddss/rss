@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</title>
+      <link>https://x.com/uniyume/status/2088814604025815475</link>
+      <description>かなまる: あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</description>
+      <pubDate>Sun, 16 Aug 2026 02:26:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/uniyume/status/2088814604025815475</guid>
+    </item>
+    <item>
       <title>続いて試したのがNocoDBというもの。Notionよりも関数強い。なにしろ裏ではSQLそのものが動いている。 また、セルフサーバーを立てた場合は完全無料。当然、その方法を用いた。外部から第三者にアクセスしてもらう場合は Cloudflare Tunnel を使用する方法がベスト。UIは好みによるけどNotionが上かな。</title>
       <link>https://x.com/flzroche/status/2088477630941315077</link>
       <description>玄 律暁（げん りつあき）@ノベルゲーム制作サークルのメンバー募集中！: 続いて試したのがNocoDBというもの。Notionよりも関数強い。なにしろ裏ではSQLそのものが動いている。 また、セルフサーバーを立てた場合は完全無料。当然、その方法を用いた。外部から第三者にアクセスしてもらう場合は Cloudflare Tunnel を使用する方法がベスト。UIは好みによるけどNotionが上かな。</description>
@@ -269,13 +276,6 @@
       <description>つうこ0: tailscaleはiptables書き換えるから訳分からなくなる Cloudflare Tunnel はただのリバプロだから環境汚さなくて便利</description>
       <pubDate>Fri, 31 Jul 2026 05:23:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_Tsuuko_2/status/2083061086711132283</guid>
-    </item>
-    <item>
-      <title>@DanfuncL Tailscaleは100.*.*.*を全部Tailscaleに振る設定をDNSの先頭に入れるので企業内で100.*.*.*を使ってるところだと接続不可になったりするとか で、設定でこのアドレス範囲を変更することができないらしい 自分は Cloudflare Tunnel はTailscaleほどひどくないという認識</title>
-      <link>https://x.com/Latte72R/status/2083058441149628578</link>
-      <description>Latte72: @DanfuncL Tailscaleは100.*.*.*を全部Tailscaleに振る設定をDNSの先頭に入れるので企業内で100.*.*.*を使ってるところだと接続不可になったりするとか で、設定でこのアドレス範囲を変更することができないらしい 自分は Cloudflare Tunnel はTailscaleほどひどくないという認識</description>
-      <pubDate>Fri, 31 Jul 2026 05:13:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Latte72R/status/2083058441149628578</guid>
     </item>
   </channel>
 </rss>

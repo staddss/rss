@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</title>
+      <link>https://x.com/littleq0903/status/2088522629905015066</link>
+      <description>Colin: Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</description>
+      <pubDate>Sat, 15 Aug 2026 07:06:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/littleq0903/status/2088522629905015066</guid>
+    </item>
+    <item>
       <title>@unilabo Chromeのアドレスバーに以下をコピペして Enter を押下 chrome :// flags /#disable-accelerated-video-decodeminto.tech 「Hardware-accelerated video decode」 の項目を探します。右側の設定値を Disabled (停止)に変更します。画面右下に表示される 「Relaunch（再起動）」</title>
       <link>https://x.com/hiroscom/status/2087369103418024225</link>
       <description>長坂信宏: @unilabo Chromeのアドレスバーに以下をコピペして Enter を押下 chrome :// flags /#disable-accelerated-video-decodeminto.tech 「Hardware-accelerated video decode」 の項目を探します。右側の設定値を Disabled (停止)に変更します。画面右下に表示される 「Relaunch（再起動）」</description>
@@ -152,32 +159,11 @@
       <guid isPermaLink="true">https://x.com/KasuyaMofu/status/2077936177483808838</guid>
     </item>
     <item>
-      <title>クロームアドレスバーのAIが邪魔な場合のオフり方 ①アドレスバー chrome :// flags →Enter ②ページ上部検索窓に AI mode 該当項目（「AI Mode Omnibox entrypoint」など）全て「Disabled」 ③続いて NTP と検索し、該当項目全て「Disabled」 ④右下Relaunchを押し、ブラウザ再起動 #忘備録</title>
-      <link>https://x.com/mofnekoski/status/2077897575391457608</link>
-      <description>モフネコスキー: クロームアドレスバーのAIが邪魔な場合のオフり方 ①アドレスバー chrome :// flags →Enter ②ページ上部検索窓に AI mode 該当項目（「AI Mode Omnibox entrypoint」など）全て「Disabled」 ③続いて NTP と検索し、該当項目全て「Disabled」 ④右下Relaunchを押し、ブラウザ再起動 #忘備録</description>
-      <pubDate>Thu, 16 Jul 2026 23:26:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mofnekoski/status/2077897575391457608</guid>
-    </item>
-    <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
-    </item>
-    <item>
       <title>これを機にWebMCPを触る Chromeの実験機能だったのか ロードマップ 1)ここで早期アクセスに申し込むとドキュメント見れる https://t.co/LIclgweqQO 2)Chromeの設定で以下にアクセスしてオンにする chrome :// flags /#enable-webmcp-testing 3)拡張機能から試す https://t.co/w22NDqXlI9 https://t.co/7tkkeycvzV https://t.co/btHiWno4wa</title>
       <link>https://x.com/riku720720/status/2051239442183307355</link>
       <description>Rikuo: これを機にWebMCPを触る Chromeの実験機能だったのか ロードマップ 1)ここで早期アクセスに申し込むとドキュメント見れる https://t.co/LIclgweqQO 2)Chromeの設定で以下にアクセスしてオンにする chrome :// flags /#enable-webmcp-testing 3)拡張機能から試す https://t.co/w22NDqXlI9 https://t.co/7tkkeycvzV https://t.co/btHiWno4wa</description>
       <pubDate>Mon, 04 May 2026 09:56:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/riku720720/status/2051239442183307355</guid>
-    </item>
-    <item>
-      <title>ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</title>
-      <link>https://x.com/MatoToushi/status/2042160640349855824</link>
-      <description>まと｜AI×デザイン部: ついにGoogleChromeにも垂直タブバーが導入されたってばよ！！ ①ここにアクセスする（アドレスバーにコピペ） chrome :// flags /#vertical-tabs ②Vertical Tabs（一番上にある）を「Enabled」に変更する ③再起動する ④右上「三」から設定→デザインを開く ⑤タブの位置 を 縦 に変更する https://t.co/YVPQ8wm4HV</description>
-      <pubDate>Thu, 09 Apr 2026 08:40:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MatoToushi/status/2042160640349855824</guid>
     </item>
   </channel>
 </rss>
