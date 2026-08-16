@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>表に公開するものがなくて cloudflare tunnel 経由だからという意</title>
+      <link>https://x.com/MiutakuTech/status/2088859390124466415</link>
+      <description>みてうく: 表に公開するものがなくて cloudflare tunnel 経由だからという意</description>
+      <pubDate>Sun, 16 Aug 2026 05:24:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MiutakuTech/status/2088859390124466415</guid>
+    </item>
+    <item>
       <title>あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</title>
       <link>https://x.com/uniyume/status/2088814604025815475</link>
       <description>かなまる: あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</description>
       <pubDate>Sun, 16 Aug 2026 02:26:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/uniyume/status/2088814604025815475</guid>
+    </item>
+    <item>
+      <title>Nextcloudを自宅サーバーに立てました。Docker Compose 1枚で動くのに、 Cloudflare Tunnel で外に出してから4か所で詰まりました。 信頼されていないドメイン、HTTPSなのに崩れる、権限エラー、再起動後に上がってこない。 https://t.co/DRLCsvL47y #Nextcloud #自宅サーバー #CloudflareTunnel</title>
+      <link>https://x.com/mooncommit_dev/status/2088719194347200537</link>
+      <description>MOON: Nextcloudを自宅サーバーに立てました。Docker Compose 1枚で動くのに、 Cloudflare Tunnel で外に出してから4か所で詰まりました。 信頼されていないドメイン、HTTPSなのに崩れる、権限エラー、再起動後に上がってこない。 https://t.co/DRLCsvL47y #Nextcloud #自宅サーバー #CloudflareTunnel</description>
+      <pubDate>Sat, 15 Aug 2026 20:07:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mooncommit_dev/status/2088719194347200537</guid>
     </item>
     <item>
       <title>続いて試したのがNocoDBというもの。Notionよりも関数強い。なにしろ裏ではSQLそのものが動いている。 また、セルフサーバーを立てた場合は完全無料。当然、その方法を用いた。外部から第三者にアクセスしてもらう場合は Cloudflare Tunnel を使用する方法がベスト。UIは好みによるけどNotionが上かな。</title>
@@ -262,20 +276,6 @@
       <description>みこう悠長: まあ今はいっか。急いでるわけでもなし。 cloudflare tunnel の使い方もわかっ……ってねえけど、出来たにゃ出来た</description>
       <pubDate>Fri, 31 Jul 2026 10:35:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/y_mikou/status/2083139541335253168</guid>
-    </item>
-    <item>
-      <title>折角ラズパイ400があるので、 cloudflare tunnel を使ってcaddyのサーバーを外から見えるようにしてみた。</title>
-      <link>https://x.com/y_mikou/status/2083136319375753665</link>
-      <description>みこう悠長: 折角ラズパイ400があるので、 cloudflare tunnel を使ってcaddyのサーバーを外から見えるようにしてみた。</description>
-      <pubDate>Fri, 31 Jul 2026 10:22:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_mikou/status/2083136319375753665</guid>
-    </item>
-    <item>
-      <title>tailscaleはiptables書き換えるから訳分からなくなる Cloudflare Tunnel はただのリバプロだから環境汚さなくて便利</title>
-      <link>https://x.com/_Tsuuko_2/status/2083061086711132283</link>
-      <description>つうこ0: tailscaleはiptables書き換えるから訳分からなくなる Cloudflare Tunnel はただのリバプロだから環境汚さなくて便利</description>
-      <pubDate>Fri, 31 Jul 2026 05:23:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Tsuuko_2/status/2083061086711132283</guid>
     </item>
   </channel>
 </rss>
