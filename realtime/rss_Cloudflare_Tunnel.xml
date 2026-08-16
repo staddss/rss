@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel 使って自宅サーバに接続成功。 これでOCRサービス用のec2止めれる。 S3とかは使うがサーバ代は電気代のみ。 CloudflareはTunnelとCDN(ボット対策)とSSL終端やってくれて年間のドメイン代($10ぐらい)のみ。 Cloudflareさん安すぎる。潰れないで…🙏</title>
+      <link>https://x.com/u1tnk/status/2089029599250510047</link>
+      <description>ゆーいち: Cloudflare Tunnel 使って自宅サーバに接続成功。 これでOCRサービス用のec2止めれる。 S3とかは使うがサーバ代は電気代のみ。 CloudflareはTunnelとCDN(ボット対策)とSSL終端やってくれて年間のドメイン代($10ぐらい)のみ。 Cloudflareさん安すぎる。潰れないで…🙏</description>
+      <pubDate>Sun, 16 Aug 2026 16:40:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/u1tnk/status/2089029599250510047</guid>
+    </item>
+    <item>
+      <title>tailscale経由でリモート環境からssh繋いでたのを cloudflare tunnel 経由にするとラグく感じる。 おまかんか？</title>
+      <link>https://x.com/kawaseXL/status/2088937605069242835</link>
+      <description>川瀬: tailscale経由でリモート環境からssh繋いでたのを cloudflare tunnel 経由にするとラグく感じる。 おまかんか？</description>
+      <pubDate>Sun, 16 Aug 2026 10:35:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawaseXL/status/2088937605069242835</guid>
+    </item>
+    <item>
       <title>表に公開するものがなくて cloudflare tunnel 経由だからという意</title>
       <link>https://x.com/MiutakuTech/status/2088859390124466415</link>
       <description>みてうく: 表に公開するものがなくて cloudflare tunnel 経由だからという意</description>
@@ -262,20 +276,6 @@
       <description>かぴばら: netbird reverse proxy意外と便利かもしれない CNAMEレコード登録したら証明書発行とVPN越しのピアへのルーティングができる 単純なHTTPSなら cloudflare tunnel でいいんだけど、多段ドメインの証明書発行とHTTP(S)以外のTCP/UDPアプリもルーティングできるので割と使い道がある</description>
       <pubDate>Sat, 01 Aug 2026 15:28:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kapibara19/status/2083575682395971688</guid>
-    </item>
-    <item>
-      <title>Tailscaleや Cloudflare Tunnel がそんなあかんの？</title>
-      <link>https://x.com/kamsakihiyuuma/status/2083302932045615256</link>
-      <description>Azure Kamsaki oSushi: Tailscaleや Cloudflare Tunnel がそんなあかんの？</description>
-      <pubDate>Fri, 31 Jul 2026 21:24:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kamsakihiyuuma/status/2083302932045615256</guid>
-    </item>
-    <item>
-      <title>まあ今はいっか。急いでるわけでもなし。 cloudflare tunnel の使い方もわかっ……ってねえけど、出来たにゃ出来た</title>
-      <link>https://x.com/y_mikou/status/2083139541335253168</link>
-      <description>みこう悠長: まあ今はいっか。急いでるわけでもなし。 cloudflare tunnel の使い方もわかっ……ってねえけど、出来たにゃ出来た</description>
-      <pubDate>Fri, 31 Jul 2026 10:35:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_mikou/status/2083139541335253168</guid>
     </item>
   </channel>
 </rss>
