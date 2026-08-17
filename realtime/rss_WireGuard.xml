@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Workers VPC - origin間もHTTPSするにはMASQUEじゃないとダメなんだってさ &gt; Configure the Mesh node's device profile to use MASQUE. Hostname routing does not work if the device profile uses WireGuard instead. https://t.co/Lu1tG3LMQh</title>
+      <link>https://x.com/shibanyan_1/status/2089252907539698015</link>
+      <description>しばにゃん: Workers VPC - origin間もHTTPSするにはMASQUEじゃないとダメなんだってさ &gt; Configure the Mesh node's device profile to use MASQUE. Hostname routing does not work if the device profile uses WireGuard instead. https://t.co/Lu1tG3LMQh</description>
+      <pubDate>Mon, 17 Aug 2026 07:28:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2089252907539698015</guid>
+    </item>
+    <item>
       <title>NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</title>
       <link>https://x.com/fox_aki310ooooo/status/2089004921593229533</link>
       <description>aki310: NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</description>
@@ -269,13 +276,6 @@
       <description>今も元気ハツラツ太郎: ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</description>
       <pubDate>Sat, 08 Aug 2026 07:12:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haturatutaro/status/2085987381178445872</guid>
-    </item>
-    <item>
-      <title>Linux カーネルに WireGuard のコードがマージされているのね。</title>
-      <link>https://x.com/usutani/status/2085978009086111881</link>
-      <description>USUTANI Yasuhiro: Linux カーネルに WireGuard のコードがマージされているのね。</description>
-      <pubDate>Sat, 08 Aug 2026 06:34:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/usutani/status/2085978009086111881</guid>
     </item>
   </channel>
 </rss>
