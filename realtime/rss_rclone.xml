@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Google ColabをCLIだけで完結させるスキルを作ったぞ🔥 セットアップ後はブラウザを開かずに、 Colab起動 → Colab内でDriveを rclone マウント → 実験実行 → 成果物をDriveへ保存・読み戻し → 自分のセッションだけ停止。 別PCでもゼロから組み直せるように、 https://t.co/v4zLK1T5xd</title>
+      <link>https://x.com/hAru_mAki_ch/status/2089364485773705680</link>
+      <description>Maki@Sunwood AI Labs.: Google ColabをCLIだけで完結させるスキルを作ったぞ🔥 セットアップ後はブラウザを開かずに、 Colab起動 → Colab内でDriveを rclone マウント → 実験実行 → 成果物をDriveへ保存・読み戻し → 自分のセッションだけ停止。 別PCでもゼロから組み直せるように、 https://t.co/v4zLK1T5xd</description>
+      <pubDate>Mon, 17 Aug 2026 14:51:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hAru_mAki_ch/status/2089364485773705680</guid>
+    </item>
+    <item>
+      <title>☁️ Akamai Object Storageで東京・大阪バケットの冗長化、アップロード漏れに悩んでいませんか？ CDNのオリジンを複数リージョンで組む際、同期機能がないと両方のバケットへのアップロード作業が手間ですよね。 そこで役立つのが rclone union の活用です！💡 ⚠️ ここが最大の落とし穴！</title>
+      <link>https://x.com/akamai_jp/status/2089140218574037133</link>
+      <description>アカマイ･テクノロジーズ: ☁️ Akamai Object Storageで東京・大阪バケットの冗長化、アップロード漏れに悩んでいませんか？ CDNのオリジンを複数リージョンで組む際、同期機能がないと両方のバケットへのアップロード作業が手間ですよね。 そこで役立つのが rclone union の活用です！💡 ⚠️ ここが最大の落とし穴！</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akamai_jp/status/2089140218574037133</guid>
+    </item>
+    <item>
       <title>今更ながら初投稿 Googleドライブアプリがあるじゃん、といわれそうですが、あいつ好きくない＋ターミナルでやりたかったんです macのローカルディレクトリを rclone を使ってGoogleドライブへ退避する https://t.co/ibPSE9vXF4 #Qiita @takterより</title>
       <link>https://x.com/takter/status/2088531448714363283</link>
       <description>てらうちたかし: 今更ながら初投稿 Googleドライブアプリがあるじゃん、といわれそうですが、あいつ好きくない＋ターミナルでやりたかったんです macのローカルディレクトリを rclone を使ってGoogleドライブへ退避する https://t.co/ibPSE9vXF4 #Qiita @takterより</description>
@@ -255,13 +269,6 @@
       <description>大料理: というか rclone あればSamba要らないよね sftpサーバをmountできるんだから Windowsにも rclone 入れりゃいい</description>
       <pubDate>Mon, 20 Jul 2026 00:33:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bigcooking/status/2079001750649147494</guid>
-    </item>
-    <item>
-      <title>Unity ProjectをGitHub+LFS(MEGA+ Rclone )で管理する環境を一応整えるなどした Google Driveは秋に無料期間が切れるから無料で20GB使えるMEGAにしたが、ドライブ容量枯渇問題はなんとかしないといけないな</title>
-      <link>https://x.com/whitecap_vrc/status/2078436667321717103</link>
-      <description>whitecap: Unity ProjectをGitHub+LFS(MEGA+ Rclone )で管理する環境を一応整えるなどした Google Driveは秋に無料期間が切れるから無料で20GB使えるMEGAにしたが、ドライブ容量枯渇問題はなんとかしないといけないな</description>
-      <pubDate>Sat, 18 Jul 2026 11:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/whitecap_vrc/status/2078436667321717103</guid>
     </item>
   </channel>
 </rss>

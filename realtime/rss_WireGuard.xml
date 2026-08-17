@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/shibanyan_1/status/2089252907539698015</guid>
     </item>
     <item>
+      <title>ルーター～VPS鯖の間に WireGuard を張って、VPS鯖に建てた Web APIサーバー（外部非公開）にアクセスすることが出来るようになった。</title>
+      <link>https://x.com/wacky612_vrc/status/2089165619140968610</link>
+      <description>わっきー: ルーター～VPS鯖の間に WireGuard を張って、VPS鯖に建てた Web APIサーバー（外部非公開）にアクセスすることが出来るようになった。</description>
+      <pubDate>Mon, 17 Aug 2026 01:41:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wacky612_vrc/status/2089165619140968610</guid>
+    </item>
+    <item>
       <title>NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</title>
       <link>https://x.com/fox_aki310ooooo/status/2089004921593229533</link>
       <description>aki310: NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</description>
@@ -269,13 +276,6 @@
       <description>aki310: お盆やりたいこと ・NuttX× Wireguard 実装（これは登壇向けMust） ・ラーメン二郎品川店 ・トレラン入門 ・SRE NextとKubeconの講演見る＋ブログ ・海釣り ・プール ・空の軌跡FCクリア ・Asicsで足測定してランニングシューズ購入 ・人間ドック ・α7Vの使い方習得 ・千葉か茨城方面の開拓 ・人生</description>
       <pubDate>Sat, 08 Aug 2026 10:38:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2086039313561858182</guid>
-    </item>
-    <item>
-      <title>ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</title>
-      <link>https://x.com/haturatutaro/status/2085987381178445872</link>
-      <description>今も元気ハツラツ太郎: ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</description>
-      <pubDate>Sat, 08 Aug 2026 07:12:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2085987381178445872</guid>
     </item>
   </channel>
 </rss>

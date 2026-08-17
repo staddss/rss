@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2089149336600957274</guid>
     </item>
     <item>
+      <title>本日はかなり苦戦しました。 GitHub Codespaces 上のDocker環境をWindowsへ移行する作業でしたが、ビルド時にリソース・容量不足でエラーが多発。 PC自体の動きも遅くなりだしたので原因調査は途中で止め「 Codespaces 環境に統一」へ方針転換！ 明日も Codespaces 上で環境作成を行います。 #AWS #Docker</title>
+      <link>https://x.com/Python410386/status/2089004949489475683</link>
+      <description>わた| Python: 本日はかなり苦戦しました。 GitHub Codespaces 上のDocker環境をWindowsへ移行する作業でしたが、ビルド時にリソース・容量不足でエラーが多発。 PC自体の動きも遅くなりだしたので原因調査は途中で止め「 Codespaces 環境に統一」へ方針転換！ 明日も Codespaces 上で環境作成を行います。 #AWS #Docker</description>
+      <pubDate>Sun, 16 Aug 2026 15:02:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Python410386/status/2089004949489475683</guid>
+    </item>
+    <item>
       <title>自己改善力が(現時点において)弱い、というのはAIも低スキル人材も同じだが、単純な能力においては明白にAIの方が上だからなぁ GitHub Codespaces みたいなサービスも、AIが使う以外の用途は無くなるだろうなと思ってる</title>
       <link>https://x.com/8shkei/status/2088967967543566344</link>
       <description>u-haru ͨ ͦ ͫ: 自己改善力が(現時点において)弱い、というのはAIも低スキル人材も同じだが、単純な能力においては明白にAIの方が上だからなぁ GitHub Codespaces みたいなサービスも、AIが使う以外の用途は無くなるだろうなと思ってる</description>
@@ -269,13 +276,6 @@
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較（2026年版） — Codespaces ／Gitpod／Cloud9 の選び方と1週間PoCで判るコスト例 https://t.co/Fo2uyX24XE #エンジニア #ChatGPT #AI</description>
       <pubDate>Sat, 01 Aug 2026 04:36:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2083411552426672307</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の実務的な選び方とPoC手順 https://t.co/hNjh99T7QF #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2083349959621955686</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の実務的な選び方とPoC手順 https://t.co/hNjh99T7QF #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sat, 01 Aug 2026 00:31:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2083349959621955686</guid>
     </item>
   </channel>
 </rss>
