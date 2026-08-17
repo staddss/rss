@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の比較と導入PoC（結論→手順） https://t.co/qFy8rxqRk6 #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2089149336600957274</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の比較と導入PoC（結論→手順） https://t.co/qFy8rxqRk6 #エンジニア #ChatGPT #AI</description>
+      <pubDate>Mon, 17 Aug 2026 00:36:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2089149336600957274</guid>
+    </item>
+    <item>
       <title>自己改善力が(現時点において)弱い、というのはAIも低スキル人材も同じだが、単純な能力においては明白にAIの方が上だからなぁ GitHub Codespaces みたいなサービスも、AIが使う以外の用途は無くなるだろうなと思ってる</title>
       <link>https://x.com/8shkei/status/2088967967543566344</link>
       <description>u-haru ͨ ͦ ͫ: 自己改善力が(現時点において)弱い、というのはAIも低スキル人材も同じだが、単純な能力においては明白にAIの方が上だからなぁ GitHub Codespaces みたいなサービスも、AIが使う以外の用途は無くなるだろうなと思ってる</description>
@@ -269,13 +276,6 @@
       <description>山真｜AI六十の手習い: ブログ2本目を公開しました。 「隔離された開発環境」 AIにPCを触らせる怖さが、GitHub Codespaces を使うことでどう小さくなったか。 ChatGPTは設計・相談役、Claude Codeは実装担当、GitHubは作業の記録場所。 https://t.co/NotoUHe7vy #AI六十の手習い #GitHubCodespaces #ClaudeCode</description>
       <pubDate>Fri, 31 Jul 2026 22:53:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shin347928/status/2083325265170849895</guid>
-    </item>
-    <item>
-      <title>codespaces 初めて使ってみて、そりゃ当然のことなんだけど、nodejs入れるところから始めないといけないことに気づいた</title>
-      <link>https://x.com/toro_kakitech/status/2082817844505714841</link>
-      <description>橋本孝弘: codespaces 初めて使ってみて、そりゃ当然のことなんだけど、nodejs入れるところから始めないといけないことに気づいた</description>
-      <pubDate>Thu, 30 Jul 2026 13:17:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/toro_kakitech/status/2082817844505714841</guid>
     </item>
   </channel>
 </rss>

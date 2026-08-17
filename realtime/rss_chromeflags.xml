@@ -5,13 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>ChromeOS 149 から IME サポートが (こっそり) 復活したようです。「sudo apt install cros-im」でどうぞ。GTK と Qt のアプリにしか対応しないのは以前から変わらずです。「Experiments ( chrome :// flags )」の設定を変更する必要は一切ありません。 https://t.co/YA1D3M5rHc</title>
-      <link>https://x.com/ttatsuoki/status/2088988583227269121</link>
-      <description>龍興 尚幸 (TATSUOKI Takayuki): ChromeOS 149 から IME サポートが (こっそり) 復活したようです。「sudo apt install cros-im」でどうぞ。GTK と Qt のアプリにしか対応しないのは以前から変わらずです。「Experiments ( chrome :// flags )」の設定を変更する必要は一切ありません。 https://t.co/YA1D3M5rHc</description>
-      <pubDate>Sun, 16 Aug 2026 13:57:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2088988583227269121</guid>
-    </item>
-    <item>
       <title>Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</title>
       <link>https://x.com/littleq0903/status/2088522629905015066</link>
       <description>Colin: Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</description>
@@ -150,6 +143,13 @@
       <description>ハタナカ: 記事を投稿しました！ ChromeOSバージョン149→151にて追加/削除された chrome :// flags [Chromebook] on #Qiita https://t.co/GfHpJZvPgD</description>
       <pubDate>Sun, 19 Jul 2026 13:41:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/staddss/status/2078837602556486123</guid>
+    </item>
+    <item>
+      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
+      <link>https://x.com/cotodaman/status/2065536945976140248</link>
+      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
+      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
     <item>
       <title>これを機にWebMCPを触る Chromeの実験機能だったのか ロードマップ 1)ここで早期アクセスに申し込むとドキュメント見れる https://t.co/LIclgweqQO 2)Chromeの設定で以下にアクセスしてオンにする chrome :// flags /#enable-webmcp-testing 3)拡張機能から試す https://t.co/w22NDqXlI9 https://t.co/7tkkeycvzV https://t.co/btHiWno4wa</title>

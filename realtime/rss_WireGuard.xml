@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</title>
+      <link>https://x.com/fox_aki310ooooo/status/2089004921593229533</link>
+      <description>aki310: NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</description>
+      <pubDate>Sun, 16 Aug 2026 15:02:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2089004921593229533</guid>
+    </item>
+    <item>
       <title>SORAHOSTの基盤ネットワークは現在はLinuxで設定をすべて直に打って構築していますが、現在開発している次期ネットワークではAnsibleを使ったIaCでiBGP設定や WireGuard 設定を自動生成して構築しています。 頑張ってます。by ネットワークを作ってる中の人 https://t.co/mtyntVP2gl</title>
       <link>https://x.com/11sakana1/status/2088955548167507993</link>
       <description>さかな: SORAHOSTの基盤ネットワークは現在はLinuxで設定をすべて直に打って構築していますが、現在開発している次期ネットワークではAnsibleを使ったIaCでiBGP設定や WireGuard 設定を自動生成して構築しています。 頑張ってます。by ネットワークを作ってる中の人 https://t.co/mtyntVP2gl</description>
@@ -33,25 +40,11 @@
       <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088598266728640632</guid>
     </item>
     <item>
-      <title>Protonの無料の wireguard とか使う時は スイス(CH)とシンガポール(SG)はいいぞ あとアメリカ(US)と日本(JP)がサブ 鯖が多いのでオランダ(NL)も予備で置いとくとかもあり https://t.co/BhJKrSholm</title>
-      <link>https://x.com/L_port8000/status/2088545508692460003</link>
-      <description>一樹（いつき）: Protonの無料の wireguard とか使う時は スイス(CH)とシンガポール(SG)はいいぞ あとアメリカ(US)と日本(JP)がサブ 鯖が多いのでオランダ(NL)も予備で置いとくとかもあり https://t.co/BhJKrSholm</description>
-      <pubDate>Sat, 15 Aug 2026 08:37:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2088545508692460003</guid>
-    </item>
-    <item>
       <title>tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</title>
       <link>https://x.com/nanase_oikawa/status/2088529216329613819</link>
       <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</description>
       <pubDate>Sat, 15 Aug 2026 07:32:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2088529216329613819</guid>
-    </item>
-    <item>
-      <title>@Soarray02 wireguard かOpenVPNにすれば位置指定できるだろ！！ なんならdnsも自由にできるだろ！！ ↓Proton https://t.co/i01o3aWkj3</title>
-      <link>https://x.com/L_port8000/status/2088523094881423692</link>
-      <description>一樹（いつき）: @Soarray02 wireguard かOpenVPNにすれば位置指定できるだろ！！ なんならdnsも自由にできるだろ！！ ↓Proton https://t.co/i01o3aWkj3</description>
-      <pubDate>Sat, 15 Aug 2026 07:08:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2088523094881423692</guid>
     </item>
     <item>
       <title>面接で渡されたVPNクライアントを、そのまま実行してしまう手口があります。Sandworm(UAC-0145)が、コマンド実行可能な偽 WireGuard でIT技術者やシステム管理者を狙っていると、CERT-UAが2026年8月11日に開示しました。インストールを求められても、その場で実行せず、正規窓口で確認しましょう。</title>
@@ -187,13 +180,6 @@
       <guid isPermaLink="true">https://x.com/aosanVRChat/status/2087126943603007531</guid>
     </item>
     <item>
-      <title>WireGuard のDNS変えてたら意外と快適になった AdGuardよかったぜ ( 94.140.14.14 ) OpenDNSも早いぜ ( 208.67.222.222 ) https://t.co/9nQ5YaTlkO</title>
-      <link>https://x.com/L_port8000/status/2087088167744909378</link>
-      <description>一樹（いつき）: WireGuard のDNS変えてたら意外と快適になった AdGuardよかったぜ ( 94.140.14.14 ) OpenDNSも早いぜ ( 208.67.222.222 ) https://t.co/9nQ5YaTlkO</description>
-      <pubDate>Tue, 11 Aug 2026 08:06:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2087088167744909378</guid>
-    </item>
-    <item>
       <title>@tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</title>
       <link>https://x.com/kizawa2020/status/2087030363587817740</link>
       <description>t.kizawa: @tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</description>
@@ -276,6 +262,20 @@
       <description>aki310: お盆やりたいこと ・NuttX× Wireguard 実装（これは登壇向けMust） ・ラーメン二郎品川店 ・トレラン入門 ・SRE NextとKubeconの講演見る＋ブログ ・海釣り ・プール ・空の軌跡FCクリア ・Asicsで足測定してランニングシューズ購入 ・人間ドック ・α7Vの使い方習得 ・千葉か茨城方面の開拓 ・人生</description>
       <pubDate>Sat, 08 Aug 2026 10:38:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2086039313561858182</guid>
+    </item>
+    <item>
+      <title>ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</title>
+      <link>https://x.com/haturatutaro/status/2085987381178445872</link>
+      <description>今も元気ハツラツ太郎: ちなみに俺のブログに WireGuard +StarlinkのVPN構築記事に警視庁からのリファラー付きで来たのは直近レジデンシャルプロキシ問題に派生した何かで警視庁でなんかVPNの調査やってたのかもな？と</description>
+      <pubDate>Sat, 08 Aug 2026 07:12:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2085987381178445872</guid>
+    </item>
+    <item>
+      <title>Linux カーネルに WireGuard のコードがマージされているのね。</title>
+      <link>https://x.com/usutani/status/2085978009086111881</link>
+      <description>USUTANI Yasuhiro: Linux カーネルに WireGuard のコードがマージされているのね。</description>
+      <pubDate>Sat, 08 Aug 2026 06:34:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/usutani/status/2085978009086111881</guid>
     </item>
   </channel>
 </rss>
