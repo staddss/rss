@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自分は Proton VPN + WireGuard で PTCGL やってます</title>
+      <link>https://x.com/22yuki_poke/status/2089703179118416303</link>
+      <description>yuki (PTCGL民): 自分は Proton VPN + WireGuard で PTCGL やってます</description>
+      <pubDate>Tue, 18 Aug 2026 13:17:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/22yuki_poke/status/2089703179118416303</guid>
+    </item>
+    <item>
+      <title>もしかしてVPSがSSH接続できなかったの、 wireguard がなんか悪さしてた……？</title>
+      <link>https://x.com/fugudoku_ttx/status/2089349075812725199</link>
+      <description>ふぐ毒: もしかしてVPSがSSH接続できなかったの、 wireguard がなんか悪さしてた……？</description>
+      <pubDate>Mon, 17 Aug 2026 13:50:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fugudoku_ttx/status/2089349075812725199</guid>
+    </item>
+    <item>
       <title>Workers VPC - origin間もHTTPSするにはMASQUEじゃないとダメなんだってさ &gt; Configure the Mesh node's device profile to use MASQUE. Hostname routing does not work if the device profile uses WireGuard instead. https://t.co/Lu1tG3LMQh</title>
       <link>https://x.com/shibanyan_1/status/2089252907539698015</link>
       <description>しばにゃん: Workers VPC - origin間もHTTPSするにはMASQUEじゃないとダメなんだってさ &gt; Configure the Mesh node's device profile to use MASQUE. Hostname routing does not work if the device profile uses WireGuard instead. https://t.co/Lu1tG3LMQh</description>
@@ -262,20 +276,6 @@
       <description>針泉@大鏡路地: OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</description>
       <pubDate>Sat, 08 Aug 2026 16:06:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/harishimizu/status/2086121907628413438</guid>
-    </item>
-    <item>
-      <title>なお、NATはVPSでの1回で済ませています。 LAN -&gt; Bridge -&gt; WireGuard (Point-to-Point) -&gt; VPS(ここでSNAT) ULAにした時、IPv4とIPv6どっちが優先になるか未知数だけど、何となくULAの常としてIPv4が優先されそう……</title>
-      <link>https://x.com/harishimizu/status/2086043520893321384</link>
-      <description>針泉@大鏡路地: なお、NATはVPSでの1回で済ませています。 LAN -&gt; Bridge -&gt; WireGuard (Point-to-Point) -&gt; VPS(ここでSNAT) ULAにした時、IPv4とIPv6どっちが優先になるか未知数だけど、何となくULAの常としてIPv4が優先されそう……</description>
-      <pubDate>Sat, 08 Aug 2026 10:55:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/harishimizu/status/2086043520893321384</guid>
-    </item>
-    <item>
-      <title>お盆やりたいこと ・NuttX× Wireguard 実装（これは登壇向けMust） ・ラーメン二郎品川店 ・トレラン入門 ・SRE NextとKubeconの講演見る＋ブログ ・海釣り ・プール ・空の軌跡FCクリア ・Asicsで足測定してランニングシューズ購入 ・人間ドック ・α7Vの使い方習得 ・千葉か茨城方面の開拓 ・人生</title>
-      <link>https://x.com/fox_aki310ooooo/status/2086039313561858182</link>
-      <description>aki310: お盆やりたいこと ・NuttX× Wireguard 実装（これは登壇向けMust） ・ラーメン二郎品川店 ・トレラン入門 ・SRE NextとKubeconの講演見る＋ブログ ・海釣り ・プール ・空の軌跡FCクリア ・Asicsで足測定してランニングシューズ購入 ・人間ドック ・α7Vの使い方習得 ・千葉か茨城方面の開拓 ・人生</description>
-      <pubDate>Sat, 08 Aug 2026 10:38:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2086039313561858182</guid>
     </item>
   </channel>
 </rss>
