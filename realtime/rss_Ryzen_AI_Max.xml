@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@awe_morris だとすると、 M5 Max も単チャンネルでは 512-bit 幅しかなく LPDDR5X なので AMD Ryzen AI Max + 395 の 256-bit 幅 LPDDR5X とそこまで大きな差は付かないと思うのですが... CAMM の普及で変わってくると仰られていましたが、これもバス幅 256/512-bit をチャネル数を増やして幅を広げるものでは？</title>
+      <link>https://x.com/zeriyoshi/status/2090096519127204286</link>
+      <description>Go Kudo / ぜり: @awe_morris だとすると、 M5 Max も単チャンネルでは 512-bit 幅しかなく LPDDR5X なので AMD Ryzen AI Max + 395 の 256-bit 幅 LPDDR5X とそこまで大きな差は付かないと思うのですが... CAMM の普及で変わってくると仰られていましたが、これもバス幅 256/512-bit をチャネル数を増やして幅を広げるものでは？</description>
+      <pubDate>Wed, 19 Aug 2026 15:20:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zeriyoshi/status/2090096519127204286</guid>
+    </item>
+    <item>
+      <title>これ去年末は50万切っててさらに8月発表時は40万も切ってたのよね…(´･ω･`) Ryzen AI MAX + 395搭載の高性能ミニPC「Minisforum MS-S1 MAX」購入！ Proxmox VEで10Gbps LANが見えなくなるトラブル？？【イニシャルB】 - INTERNET Watch https://t.co/ha477woauT</title>
+      <link>https://x.com/pman4416/status/2090069972756349143</link>
+      <description>pman(ふつう風7.2): これ去年末は50万切っててさらに8月発表時は40万も切ってたのよね…(´･ω･`) Ryzen AI MAX + 395搭載の高性能ミニPC「Minisforum MS-S1 MAX」購入！ Proxmox VEで10Gbps LANが見えなくなるトラブル？？【イニシャルB】 - INTERNET Watch https://t.co/ha477woauT</description>
+      <pubDate>Wed, 19 Aug 2026 13:34:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pman4416/status/2090069972756349143</guid>
+    </item>
+    <item>
+      <title>ローカルLLMの話題を見ていて、 Ryzen AI Max +はようやく今週Ubuntuカーネルの性能劣化バグのFixが来たと思ったらOllamaのVRAM空き容量を過小に見るバグが来ていて、2級市民なのだなと。 コスパはいいんですけどね。</title>
+      <link>https://x.com/l_b__/status/2090051245507858595</link>
+      <description>l.b.: ローカルLLMの話題を見ていて、 Ryzen AI Max +はようやく今週Ubuntuカーネルの性能劣化バグのFixが来たと思ったらOllamaのVRAM空き容量を過小に見るバグが来ていて、2級市民なのだなと。 コスパはいいんですけどね。</description>
+      <pubDate>Wed, 19 Aug 2026 12:20:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/l_b__/status/2090051245507858595</guid>
+    </item>
+    <item>
+      <title>チャットから「AIエージェント」へ。AMDが Ryzen AI Max でQwen 3.8等のローカル実行をサポート。クラウドを介さずPC内でAIが自律動作する時代の幕開けです。低遅延とプライバシーの両立は普及の鍵。エッジAIの逆襲が始まりました。 $AMD</title>
+      <link>https://x.com/xxlxxl123/status/2090015825675821488</link>
+      <description>xxlxxl123: チャットから「AIエージェント」へ。AMDが Ryzen AI Max でQwen 3.8等のローカル実行をサポート。クラウドを介さずPC内でAIが自律動作する時代の幕開けです。低遅延とプライバシーの両立は普及の鍵。エッジAIの逆襲が始まりました。 $AMD</description>
+      <pubDate>Wed, 19 Aug 2026 09:59:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xxlxxl123/status/2090015825675821488</guid>
+    </item>
+    <item>
       <title>GPD WIN Max 3の国内向け製品紹介ページを公開しました！ ✅着脱式97Whバッテリー/冷却ファンモジュール ✅165Hz AMOLED ✅ Ryzen AI Max +/Radeon 8060S ✅最大110W動作 👇詳細はこちら👇 https://t.co/aS5SHDlxAK ※価格・予約開始時期等は調整中です。 #GPD #GPDWINMax3</title>
       <link>https://x.com/dentonlineshop/status/2090014156892115316</link>
       <description>デントオンラインショップ: GPD WIN Max 3の国内向け製品紹介ページを公開しました！ ✅着脱式97Whバッテリー/冷却ファンモジュール ✅165Hz AMOLED ✅ Ryzen AI Max +/Radeon 8060S ✅最大110W動作 👇詳細はこちら👇 https://t.co/aS5SHDlxAK ※価格・予約開始時期等は調整中です。 #GPD #GPDWINMax3</description>
@@ -52,6 +80,13 @@
       <description>piacere@未来文明アーキテクト &amp; 実装エンジニア ▷ Elixir xデジタルツイン xAI: DGX Sparkよりも安価なローカルLLMマシンとして、AMD Ryzen AI MAX + 395（64GB 30万強／128GB 60万強）なので、Codex Plus換算だと100ヶ月分／200ヶ月分だから、現時点、ymnさんの主張はそれなりに合ってると思ふ😌 それに、GPT-5.6 Luna xhighなら週上限までいかんしなー😜 https://t.co/kp97e3cqJO https://t.co/eih0T5e3ZZ</description>
       <pubDate>Wed, 19 Aug 2026 01:33:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/piacere_ex/status/2089888405169774603</guid>
+    </item>
+    <item>
+      <title>知りたいことだいぶ知れて感謝。AI MAX安いけど安いなりな環境なのが現状か、、、 Ryzen AI Max + 395でローカルLLMの地獄を見たの巻｜sakuranaga https://t.co/qFHDT2g9j1 #zenn</title>
+      <link>https://x.com/akiyan/status/2089873620487287283</link>
+      <description>akiyan: 知りたいことだいぶ知れて感謝。AI MAX安いけど安いなりな環境なのが現状か、、、 Ryzen AI Max + 395でローカルLLMの地獄を見たの巻｜sakuranaga https://t.co/qFHDT2g9j1 #zenn</description>
+      <pubDate>Wed, 19 Aug 2026 00:34:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akiyan/status/2089873620487287283</guid>
     </item>
     <item>
       <title>GPD WIN MAX3、 Ryzen AI Max +搭載はすごいのだが、その結果これおいくらになるんだよ…</title>
@@ -241,41 +276,6 @@
       <description>Cotoda Man: Amazon PR タイムセール商品！！ GMKtec EVO-X2 AIミニPC AMD Ryzen AI MAX + 395（16コア/32スレッド 最大5.1GHz）搭載｜最大126TOPS AI性能｜64GB LPDDR5X 8000MHzメモリ＋1TB SSD（PCIe 4.0）｜Radeon 8060S内蔵 https://t.co/3kOxQxS5WW</description>
       <pubDate>Sat, 15 Aug 2026 06:13:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cotodamajew/status/2088509446024753493</guid>
-    </item>
-    <item>
-      <title>Qwen3.8-27B、AMD Strix Halo ( Ryzen AI Max + 395 / 128GB) の Ubuntu26 で検証 使用モデルは Unslosh 版量子化モデル ✅ Unslosh Studio UD-Q4_K_XL: 10 t/s (推論有無関わらず) ✅ 独自チューニングの llama.cpp (Vulkan) UD-Q4_K_XL: 18.78 t/s UD-Q6_K_XL: 14.38 t/s 4-bit</title>
-      <link>https://x.com/old_pgmrs_will/status/2088499815311188386</link>
-      <description>いにしえ@AI Director / Creator / Engineer｜Will Oldgram: Qwen3.8-27B、AMD Strix Halo ( Ryzen AI Max + 395 / 128GB) の Ubuntu26 で検証 使用モデルは Unslosh 版量子化モデル ✅ Unslosh Studio UD-Q4_K_XL: 10 t/s (推論有無関わらず) ✅ 独自チューニングの llama.cpp (Vulkan) UD-Q4_K_XL: 18.78 t/s UD-Q6_K_XL: 14.38 t/s 4-bit</description>
-      <pubDate>Sat, 15 Aug 2026 05:35:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2088499815311188386</guid>
-    </item>
-    <item>
-      <title>Local LLM - Qwen3.8-27B EVO-X2で「Qwen3.8-27Bが最大24.5 tok/s」という話。この速度なら単体でも使えそう😃 ・チャッピー解説 Qwen3.8-27B、EVO-X2でもかなり期待できそうです。 AMDがDay 0検証に使ったのは、なんと私と同じ環境「GMKtec EVO-X2 / Ryzen AI Max + 395 / 128GB」。llama.cpp + https://t.co/LrY1dydqH6</title>
-      <link>https://x.com/UtaAoya/status/2088459184337752468</link>
-      <description>A-Uta: Local LLM - Qwen3.8-27B EVO-X2で「Qwen3.8-27Bが最大24.5 tok/s」という話。この速度なら単体でも使えそう😃 ・チャッピー解説 Qwen3.8-27B、EVO-X2でもかなり期待できそうです。 AMDがDay 0検証に使ったのは、なんと私と同じ環境「GMKtec EVO-X2 / Ryzen AI Max + 395 / 128GB」。llama.cpp + https://t.co/LrY1dydqH6</description>
-      <pubDate>Sat, 15 Aug 2026 02:54:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UtaAoya/status/2088459184337752468</guid>
-    </item>
-    <item>
-      <title>AMD公式も Qwen3.8-27B + AMD Ryzen AI Max + の Day-0 サポート言ってる 現状 24 t/s くらいかな？ https://t.co/VYA53dGYF6 https://t.co/idSbfnDF6V</title>
-      <link>https://x.com/old_pgmrs_will/status/2088384625886585291</link>
-      <description>いにしえ@AI Director / Creator / Engineer｜Will Oldgram: AMD公式も Qwen3.8-27B + AMD Ryzen AI Max + の Day-0 サポート言ってる 現状 24 t/s くらいかな？ https://t.co/VYA53dGYF6 https://t.co/idSbfnDF6V</description>
-      <pubDate>Fri, 14 Aug 2026 21:57:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2088384625886585291</guid>
-    </item>
-    <item>
-      <title>Qwen3.8-27B、いきなりAMD環境でローカル運用スタートというのがポイントですね。 27Bクラスの密モデルを、 Ryzen AI Max プラス搭載PCやRadeon AI PRO R9700一枚で回せる前提でチューニングしてきたのが今回の肝だと思います。 クラウド前提ではなく「開発マシン＝推論マシン」に寄せにいっている。 LM https://t.co/Ss56UHenS4</title>
-      <link>https://x.com/h_a_t_a_r_a_k_e/status/2088299858453213642</link>
-      <description>働きたくない: Qwen3.8-27B、いきなりAMD環境でローカル運用スタートというのがポイントですね。 27Bクラスの密モデルを、 Ryzen AI Max プラス搭載PCやRadeon AI PRO R9700一枚で回せる前提でチューニングしてきたのが今回の肝だと思います。 クラウド前提ではなく「開発マシン＝推論マシン」に寄せにいっている。 LM https://t.co/Ss56UHenS4</description>
-      <pubDate>Fri, 14 Aug 2026 16:20:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_a_t_a_r_a_k_e/status/2088299858453213642</guid>
-    </item>
-    <item>
-      <title>@Aurtas_Nine 8TB SSDは本当にものの弾みで買っちゃったんですが、まさかひと財産になるとは思わず、、、(まあ使い倒しますけど笑 3950使いでしたら、記事の最初に載せたEVO-X2マジでおススメです！ Ryzen AI MAX +系はハイブリッド構成じゃない純粋な16コア仕様なので、PCIバスが必要なければめちゃアリです！</title>
-      <link>https://x.com/kagome_p/status/2088264400662856148</link>
-      <description>かごめPはミックス・マスタリングやってます！: @Aurtas_Nine 8TB SSDは本当にものの弾みで買っちゃったんですが、まさかひと財産になるとは思わず、、、(まあ使い倒しますけど笑 3950使いでしたら、記事の最初に載せたEVO-X2マジでおススメです！ Ryzen AI MAX +系はハイブリッド構成じゃない純粋な16コア仕様なので、PCIバスが必要なければめちゃアリです！</description>
-      <pubDate>Fri, 14 Aug 2026 14:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kagome_p/status/2088264400662856148</guid>
     </item>
   </channel>
 </rss>

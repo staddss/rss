@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Codespaces はもう割高だもんな今はどうなってるか知らんが メモリ8GBに$40は払えんだろ…この時点で負けてるし</title>
+      <link>https://x.com/okiraku_neko/status/2089919898327883867</link>
+      <description>okiraku_neko: Codespaces はもう割高だもんな今はどうなってるか知らんが メモリ8GBに$40は払えんだろ…この時点で負けてるし</description>
+      <pubDate>Wed, 19 Aug 2026 03:38:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/okiraku_neko/status/2089919898327883867</guid>
+    </item>
+    <item>
       <title>【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の比較と現場で使える導入手順 https://t.co/DjVt0AcPcX #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2089875336800428246</link>
       <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の比較と現場で使える導入手順 https://t.co/DjVt0AcPcX #エンジニア #ChatGPT #AI</description>
@@ -269,13 +276,6 @@
       <description>Ke!ta Kawase: github codespaces のvscodeの見た目が変わりすぎてない？</description>
       <pubDate>Mon, 03 Aug 2026 23:47:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/keita_sprint/status/2084425843582054722</guid>
-    </item>
-    <item>
-      <title>Azure Functions 向けの Dev Container / GitHub Codespaces 用テンプレートが App Service 全体の Ubuntu 移行に追従した結果、初回起動が凄く遅くなっていたのを Base Image を Prebuild することで大幅に解消したという話 https://t.co/hsBKw81RJi</title>
-      <link>https://x.com/shibayan/status/2084131434684678539</link>
-      <description>Tatsuro Shibamura: Azure Functions 向けの Dev Container / GitHub Codespaces 用テンプレートが App Service 全体の Ubuntu 移行に追従した結果、初回起動が凄く遅くなっていたのを Base Image を Prebuild することで大幅に解消したという話 https://t.co/hsBKw81RJi</description>
-      <pubDate>Mon, 03 Aug 2026 04:17:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibayan/status/2084131434684678539</guid>
     </item>
   </channel>
 </rss>
