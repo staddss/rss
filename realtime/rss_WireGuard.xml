@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>しばらく前に自前 Wireguard からTailscaleに移したんだけども、結局自前 Wireguard に戻ってきてしまった</title>
+      <link>https://x.com/rv64gc/status/2090007818481070389</link>
+      <description>みゅ: しばらく前に自前 Wireguard からTailscaleに移したんだけども、結局自前 Wireguard に戻ってきてしまった</description>
+      <pubDate>Wed, 19 Aug 2026 09:27:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rv64gc/status/2090007818481070389</guid>
+    </item>
+    <item>
+      <title>別にOSPF + BIRD + BFD on WireGuard があるなら、L2ブリッジしなくてもVultrの/64のGUAをローカルまで持ってきてホスト出来るくない？？？？？</title>
+      <link>https://x.com/harishimizu/status/2089982677437071520</link>
+      <description>針泉@大鏡路地: 別にOSPF + BIRD + BFD on WireGuard があるなら、L2ブリッジしなくてもVultrの/64のGUAをローカルまで持ってきてホスト出来るくない？？？？？</description>
+      <pubDate>Wed, 19 Aug 2026 07:47:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/harishimizu/status/2089982677437071520</guid>
+    </item>
+    <item>
+      <title>そういや、AndroidOSはカーネル的には wireguard にネイティブ対応しているはずだけど、そういうツールは出ているんだろか https://t.co/XF09NYUNlf</title>
+      <link>https://x.com/gigaonion/status/2089968931964621227</link>
+      <description>ぎがおにおん: そういや、AndroidOSはカーネル的には wireguard にネイティブ対応しているはずだけど、そういうツールは出ているんだろか https://t.co/XF09NYUNlf</description>
+      <pubDate>Wed, 19 Aug 2026 06:53:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2089968931964621227</guid>
+    </item>
+    <item>
+      <title>【新着記事】 さくらのクラウドで WireGuard を試してみた（後編） LinuxサーバをVPNゲートウェイ化し、NAPT経由のクラウド接続を検証しました。 https://t.co/TU8myTm6dC #さくらのクラウド # WireGuard #VPN #さくらのクラウドラボ</title>
+      <link>https://x.com/NETASSIST_/status/2089902673151873516</link>
+      <description>株式会社ネットアシスト【公式】: 【新着記事】 さくらのクラウドで WireGuard を試してみた（後編） LinuxサーバをVPNゲートウェイ化し、NAPT経由のクラウド接続を検証しました。 https://t.co/TU8myTm6dC #さくらのクラウド # WireGuard #VPN #さくらのクラウドラボ</description>
+      <pubDate>Wed, 19 Aug 2026 02:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NETASSIST_/status/2089902673151873516</guid>
+    </item>
+    <item>
       <title>zerotierから wireguard に移行</title>
       <link>https://x.com/knmusicstudio/status/2089798667293360142</link>
       <description>Syo.D🔯KuroNekoMusicStudio: zerotierから wireguard に移行</description>
@@ -248,34 +276,6 @@
       <description>tomocha(とも ちゃ)@Job searching/無職＆就職活動中&amp;パパ活中: wireguard への移行を頑張る。</description>
       <pubDate>Mon, 10 Aug 2026 07:50:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tomocha0/status/2086721846066676095</guid>
-    </item>
-    <item>
-      <title>自分の環境で起きうるMITM攻撃で考えると WireGuard のインターフェイス立ち上げてVPNをスマホで有効化したとかに公共Wi-Fiとか〜でそのプライベートネットワーク内のHTTP通信ならまあ割とHTTPS化の意味あるかとおもうけど公共Wi-Fi使わんからな…</title>
-      <link>https://x.com/haturatutaro/status/2086705299193573693</link>
-      <description>今も元気ハツラツ太郎: 自分の環境で起きうるMITM攻撃で考えると WireGuard のインターフェイス立ち上げてVPNをスマホで有効化したとかに公共Wi-Fiとか〜でそのプライベートネットワーク内のHTTP通信ならまあ割とHTTPS化の意味あるかとおもうけど公共Wi-Fi使わんからな…</description>
-      <pubDate>Mon, 10 Aug 2026 06:44:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haturatutaro/status/2086705299193573693</guid>
-    </item>
-    <item>
-      <title>VPS契約して wireguard 入れてVPN構築しなきゃ……（使命感）</title>
-      <link>https://x.com/nu_nu_ac6/status/2086322276988064210</link>
-      <description>nu: VPS契約して wireguard 入れてVPN構築しなきゃ……（使命感）</description>
-      <pubDate>Sun, 09 Aug 2026 05:22:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nu_nu_ac6/status/2086322276988064210</guid>
-    </item>
-    <item>
-      <title>GMO というだけで使わない理由には十分過ぎる | これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Xq8n9QZzNX</title>
-      <link>https://x.com/heartfield/status/2086312767079006255</link>
-      <description>heartfield: GMO というだけで使わない理由には十分過ぎる | これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/Xq8n9QZzNX</description>
-      <pubDate>Sun, 09 Aug 2026 04:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/heartfield/status/2086312767079006255</guid>
-    </item>
-    <item>
-      <title>あれ？ Wireguard 接続してる端末で Wireguard 自身の更新ってどうするんだ？ と、思ったけど普通にパッチダウンロードがかかるから問題ないのか</title>
-      <link>https://x.com/one_asuka/status/2086278288507646329</link>
-      <description>一平魔人: あれ？ Wireguard 接続してる端末で Wireguard 自身の更新ってどうするんだ？ と、思ったけど普通にパッチダウンロードがかかるから問題ないのか</description>
-      <pubDate>Sun, 09 Aug 2026 02:27:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/one_asuka/status/2086278288507646329</guid>
     </item>
   </channel>
 </rss>
