@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>zerotierから wireguard に移行</title>
+      <link>https://x.com/knmusicstudio/status/2089798667293360142</link>
+      <description>Syo.D🔯KuroNekoMusicStudio: zerotierから wireguard に移行</description>
+      <pubDate>Tue, 18 Aug 2026 19:36:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/knmusicstudio/status/2089798667293360142</guid>
+    </item>
+    <item>
       <title>自分は Proton VPN + WireGuard で PTCGL やってます</title>
       <link>https://x.com/22yuki_poke/status/2089703179118416303</link>
       <description>yuki (PTCGL民): 自分は Proton VPN + WireGuard で PTCGL やってます</description>
@@ -269,13 +276,6 @@
       <description>一平魔人: あれ？ Wireguard 接続してる端末で Wireguard 自身の更新ってどうするんだ？ と、思ったけど普通にパッチダウンロードがかかるから問題ないのか</description>
       <pubDate>Sun, 09 Aug 2026 02:27:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/one_asuka/status/2086278288507646329</guid>
-    </item>
-    <item>
-      <title>OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</title>
-      <link>https://x.com/harishimizu/status/2086121907628413438</link>
-      <description>針泉@大鏡路地: OFPF v3はLink-Localアドレス同士でしか通信しないので、 WireGuard はPoint-to-PointなのにLink-Localなアドレスを適当に作って付与して、更にブロードキャストIPをAllowed-ipsに追加してやる必要があります('A`)</description>
-      <pubDate>Sat, 08 Aug 2026 16:06:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/harishimizu/status/2086121907628413438</guid>
     </item>
   </channel>
 </rss>

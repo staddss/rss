@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の比較と現場で使える導入手順 https://t.co/DjVt0AcPcX #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2089875336800428246</link>
+      <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の比較と現場で使える導入手順 https://t.co/DjVt0AcPcX #エンジニア #ChatGPT #AI</description>
+      <pubDate>Wed, 19 Aug 2026 00:41:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2089875336800428246</guid>
+    </item>
+    <item>
+      <title>本日はあまり時間が取れずQiita記事の編集のみ。 一昨日にGitHub Codespaces へ「.devcontainer」を設定し、起動時に自動でTerraform環境が立ち上がるよう構築しました！ 毎回のインストールが不要になり、使い勝手がかなり向上しました。 #AWS #マルチクラウド #GitHubCodespaces #devcontainer</title>
+      <link>https://x.com/Python410386/status/2089726274596216839</link>
+      <description>わた| Python: 本日はあまり時間が取れずQiita記事の編集のみ。 一昨日にGitHub Codespaces へ「.devcontainer」を設定し、起動時に自動でTerraform環境が立ち上がるよう構築しました！ 毎回のインストールが不要になり、使い勝手がかなり向上しました。 #AWS #マルチクラウド #GitHubCodespaces #devcontainer</description>
+      <pubDate>Tue, 18 Aug 2026 14:49:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Python410386/status/2089726274596216839</guid>
+    </item>
+    <item>
       <title>本日は Codespaces の容量整理。 Dockerの時は効果的に消せたデータが、Terraform&amp;Helmを使い出すと隠れキャッシュが溜まりリソースを圧迫するみたいです。 各所の容量を調べたが明確な原因が分からないので、最後は「フル再ビルド（Full Rebuild）」を実行し、何とか空きスペースを確保! # Codespaces</title>
       <link>https://x.com/Python410386/status/2089370089967763548</link>
       <description>わた| Python: 本日は Codespaces の容量整理。 Dockerの時は効果的に消せたデータが、Terraform&amp;Helmを使い出すと隠れキャッシュが溜まりリソースを圧迫するみたいです。 各所の容量を調べたが明確な原因が分からないので、最後は「フル再ビルド（Full Rebuild）」を実行し、何とか空きスペースを確保! # Codespaces</description>
@@ -262,20 +276,6 @@
       <description>Tatsuro Shibamura: Azure Functions 向けの Dev Container / GitHub Codespaces 用テンプレートが App Service 全体の Ubuntu 移行に追従した結果、初回起動が凄く遅くなっていたのを Base Image を Prebuild することで大幅に解消したという話 https://t.co/hsBKw81RJi</description>
       <pubDate>Mon, 03 Aug 2026 04:17:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shibayan/status/2084131434684678539</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の最適解（結論とPoC手順付き） https://t.co/qavH58CF0H #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2084077166304616835</link>
-      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の最適解（結論とPoC手順付き） https://t.co/qavH58CF0H #エンジニア #ChatGPT #AI</description>
-      <pubDate>Mon, 03 Aug 2026 00:41:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2084077166304616835</guid>
-    </item>
-    <item>
-      <title>こないだちょっと使ってみたやつだ。 Github Codespaces 。そのときはまるっとブラウザで。 #伊勢IT交流会</title>
-      <link>https://x.com/kimiko0217/status/2083417141819130019</link>
-      <description>キミコ: こないだちょっと使ってみたやつだ。 Github Codespaces 。そのときはまるっとブラウザで。 #伊勢IT交流会</description>
-      <pubDate>Sat, 01 Aug 2026 04:58:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kimiko0217/status/2083417141819130019</guid>
     </item>
   </channel>
 </rss>
