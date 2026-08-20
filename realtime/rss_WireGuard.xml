@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そっか， wireguard はカーネルモジュールやからlsofじゃポートをバインドしてるか分からないのか https://t.co/eDd2aN1KYU</title>
+      <link>https://x.com/gigaonion/status/2090300664752820566</link>
+      <description>ぎがおにおん: そっか， wireguard はカーネルモジュールやからlsofじゃポートをバインドしてるか分からないのか https://t.co/eDd2aN1KYU</description>
+      <pubDate>Thu, 20 Aug 2026 04:51:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2090300664752820566</guid>
+    </item>
+    <item>
       <title>@gigaonion はい、コアがLinuxなのでAndroidでも公式に動作しますが、より簡単に制御したり、端末をルート化したりするには、 Wireguard をAPKに変換する必要があります。想像以上に強力に動作しますよ。頑張ってください！</title>
       <link>https://x.com/mouad_tarif/status/2090249042521473441</link>
       <description>マアド・タリーフ🎧👨‍💻💭: @gigaonion はい、コアがLinuxなのでAndroidでも公式に動作しますが、より簡単に制御したり、端末をルート化したりするには、 Wireguard をAPKに変換する必要があります。想像以上に強力に動作しますよ。頑張ってください！</description>
@@ -269,13 +276,6 @@
       <description>あおさん@︎︎VR: WireGuard 対応のルーター買った 外出先でもVDを接続したい</description>
       <pubDate>Tue, 11 Aug 2026 10:40:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aosanVRChat/status/2087126943603007531</guid>
-    </item>
-    <item>
-      <title>@tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</title>
-      <link>https://x.com/kizawa2020/status/2087030363587817740</link>
-      <description>t.kizawa: @tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</description>
-      <pubDate>Tue, 11 Aug 2026 04:16:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kizawa2020/status/2087030363587817740</guid>
     </item>
   </channel>
 </rss>
