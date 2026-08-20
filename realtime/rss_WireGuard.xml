@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@gigaonion はい、コアがLinuxなのでAndroidでも公式に動作しますが、より簡単に制御したり、端末をルート化したりするには、 Wireguard をAPKに変換する必要があります。想像以上に強力に動作しますよ。頑張ってください！</title>
+      <link>https://x.com/mouad_tarif/status/2090249042521473441</link>
+      <description>マアド・タリーフ🎧👨‍💻💭: @gigaonion はい、コアがLinuxなのでAndroidでも公式に動作しますが、より簡単に制御したり、端末をルート化したりするには、 Wireguard をAPKに変換する必要があります。想像以上に強力に動作しますよ。頑張ってください！</description>
+      <pubDate>Thu, 20 Aug 2026 01:26:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mouad_tarif/status/2090249042521473441</guid>
+    </item>
+    <item>
+      <title>Linuxカーネルは Wireguard に標準対応←初めて知ったが！？</title>
+      <link>https://x.com/izrn_yukikaze/status/2090228041691840776</link>
+      <description>izurina / うなみや: Linuxカーネルは Wireguard に標準対応←初めて知ったが！？</description>
+      <pubDate>Thu, 20 Aug 2026 00:02:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/izrn_yukikaze/status/2090228041691840776</guid>
+    </item>
+    <item>
+      <title>@_kokt_vrc https://t.co/PhSjONXT1i で詰まってるとなると望み薄な感じしますが、一応 WireGuard モードのエンドポイントは 2606:4700:100::a29f:c101 ら辺です</title>
+      <link>https://x.com/shibanyan_1/status/2090086656359698907</link>
+      <description>しばにゃん: @_kokt_vrc https://t.co/PhSjONXT1i で詰まってるとなると望み薄な感じしますが、一応 WireGuard モードのエンドポイントは 2606:4700:100::a29f:c101 ら辺です</description>
+      <pubDate>Wed, 19 Aug 2026 14:41:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2090086656359698907</guid>
+    </item>
+    <item>
       <title>🌍研究留学でVPN遅延？海外でも安定通信が必須ですよね。即効対策：①サーバー変更② WireGuard 選択③再起動④有線接続⑤バックグラウンドアプリ停止。これだけで改善率UP！🚀 #医学留学 #海外研究生活</title>
       <link>https://x.com/NotforgetL/status/2090008474134429873</link>
       <description>海凪（かいなぎ）@アメリカ研究留学ブログ: 🌍研究留学でVPN遅延？海外でも安定通信が必須ですよね。即効対策：①サーバー変更② WireGuard 選択③再起動④有線接続⑤バックグラウンドアプリ停止。これだけで改善率UP！🚀 #医学留学 #海外研究生活</description>
@@ -255,27 +276,6 @@
       <description>t.kizawa: @tarekatsu_eng WireGuard とかZabbixとかDNSとかCodeServerとかうごいてますね。</description>
       <pubDate>Tue, 11 Aug 2026 04:16:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kizawa2020/status/2087030363587817740</guid>
-    </item>
-    <item>
-      <title>ローカルのNASにTailscale入れて Wireguard でsamba接続して自動でバックアップする。までがなかなか面倒だけど不可能ではないギリギリの線かなぁ</title>
-      <link>https://x.com/one_asuka/status/2086991390127620498</link>
-      <description>一平魔人: ローカルのNASにTailscale入れて Wireguard でsamba接続して自動でバックアップする。までがなかなか面倒だけど不可能ではないギリギリの線かなぁ</description>
-      <pubDate>Tue, 11 Aug 2026 01:41:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/one_asuka/status/2086991390127620498</guid>
-    </item>
-    <item>
-      <title>@shumaikun0716 確かに〜 nginxとか wireguard とか# だったな</title>
-      <link>https://x.com/L_port53/status/2086960746601333236</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 確かに〜 nginxとか wireguard とか# だったな</description>
-      <pubDate>Mon, 10 Aug 2026 23:39:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2086960746601333236</guid>
-    </item>
-    <item>
-      <title>@L_port8000 OpenVPNと WireGuard を任意に選択可能NordVPNはプリセットにある。 https://t.co/xUYQ44P0Ru</title>
-      <link>https://x.com/liru_55/status/2086785948554293621</link>
-      <description>璃琉＠コミケ参加予定: @L_port8000 OpenVPNと WireGuard を任意に選択可能NordVPNはプリセットにある。 https://t.co/xUYQ44P0Ru</description>
-      <pubDate>Mon, 10 Aug 2026 12:05:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/liru_55/status/2086785948554293621</guid>
     </item>
   </channel>
 </rss>
