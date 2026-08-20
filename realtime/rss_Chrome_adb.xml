@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chrome%22%20%22adb%22</link>
     <description>Latest search results for '&quot;Chrome&quot; &quot;adb&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>KonomiTVのオフライン再生、Lenovoのタブレットでスリープするとダウンロードが止まっちゃうんだけど、 ADB コマンドで直接Androidの省電力機能の対象から Chrome を除外させたら上手くいくようになった（設定画面からは探せず）「 adb shell dumpsys deviceidle whitelist +https://t.co/2OnhYwb2bl」</title>
+      <link>https://x.com/kamu_110/status/2090073740482871676</link>
+      <description>かむねこ: KonomiTVのオフライン再生、Lenovoのタブレットでスリープするとダウンロードが止まっちゃうんだけど、 ADB コマンドで直接Androidの省電力機能の対象から Chrome を除外させたら上手くいくようになった（設定画面からは探せず）「 adb shell dumpsys deviceidle whitelist +https://t.co/2OnhYwb2bl」</description>
+      <pubDate>Wed, 19 Aug 2026 13:49:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kamu_110/status/2090073740482871676</guid>
+    </item>
+    <item>
       <title>1. iPhoneのアプリストアでアプリ一覧をスクロールする録画 2. Claudeに渡して一覧化 3. チェックボックスで必要なアプリを選べる簡単なアプリを作ってもらう 4. Markdownに内容を出す 5. chrome -mcpでplaystoreからダウンロードをさせる 6. adb で監督させる https://t.co/wy2OZe6hRD</title>
       <link>https://x.com/wetty_serial/status/2087908033443889441</link>
       <description>湿気ったシリアル: 1. iPhoneのアプリストアでアプリ一覧をスクロールする録画 2. Claudeに渡して一覧化 3. チェックボックスで必要なアプリを選べる簡単なアプリを作ってもらう 4. Markdownに内容を出す 5. chrome -mcpでplaystoreからダウンロードをさせる 6. adb で監督させる https://t.co/wy2OZe6hRD</description>
