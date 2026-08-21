@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>中身でやってることはほぼ WireGuard と同じだそうな</title>
+      <link>https://x.com/chingdong_pong/status/2090784588750873000</link>
+      <description>̤c̤a̤s̤t̤e̤r̤: 中身でやってることはほぼ WireGuard と同じだそうな</description>
+      <pubDate>Fri, 21 Aug 2026 12:54:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chingdong_pong/status/2090784588750873000</guid>
+    </item>
+    <item>
       <title>いま、Tailscaleというものを初めて使ってとても感動している 今まで自宅内でネットワークが分離していて、開発機からサーバーへ WireGuard で繋ごうと何度も設定をいじり、ルーティングやらNATやらで四苦八苦していた。 これインスコ→ログイン→終わり なにこれ</title>
       <link>https://x.com/chingdong_pong/status/2090733373224591561</link>
       <description>̤c̤a̤s̤t̤e̤r̤: いま、Tailscaleというものを初めて使ってとても感動している 今まで自宅内でネットワークが分離していて、開発機からサーバーへ WireGuard で繋ごうと何度も設定をいじり、ルーティングやらNATやらで四苦八苦していた。 これインスコ→ログイン→終わり なにこれ</description>
@@ -269,13 +276,6 @@
       <description>ゆるいセキュリティニュース: 採用面接の「事前準備」でVPNを入れさせる。 入れた瞬間に支配される。 GRU系UAC-0145が採用担当者を装いITエンジニアに接触。偽 WireGuard をインストールさせリモート実行権を奪う手口をCERT-UAが確認。 IT系には「VPN入れて」が刺さる。そこを突くやつですね。 #セキュリティ #ゆるセキュ</description>
       <pubDate>Tue, 11 Aug 2026 23:08:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuru_sec/status/2087315346701025376</guid>
-    </item>
-    <item>
-      <title>直接インターネットに公開されずに wireguard ネットワークに公開鍵認証して接続するホワイトリスト方式なので、適切な運用をすればだいぶ安全です</title>
-      <link>https://x.com/mikan_seraph/status/2087260988659974328</link>
-      <description>深瀬 悠: 直接インターネットに公開されずに wireguard ネットワークに公開鍵認証して接続するホワイトリスト方式なので、適切な運用をすればだいぶ安全です</description>
-      <pubDate>Tue, 11 Aug 2026 19:32:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mikan_seraph/status/2087260988659974328</guid>
     </item>
   </channel>
 </rss>

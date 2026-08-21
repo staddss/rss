@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GameNative で活俠傳 日本語化Modを実行出来たので簡単なまとめ @Hisui_S氏のSteam Deckでの設定法を参考にしました 1.コンテナをproton-9.0-x86_64で作成する arm64ec環境だとBepInEXがうまく動かないことが多いのでx86_64 試しにarm64ecでやってた時はStringVaultで一生固まるのを解決出来ず諦めた https://t.co/Nvg7lJXSQO</title>
+      <link>https://x.com/angr_rs/status/2090830621304320027</link>
+      <description>snailcaviar: GameNative で活俠傳 日本語化Modを実行出来たので簡単なまとめ @Hisui_S氏のSteam Deckでの設定法を参考にしました 1.コンテナをproton-9.0-x86_64で作成する arm64ec環境だとBepInEXがうまく動かないことが多いのでx86_64 試しにarm64ecでやってた時はStringVaultで一生固まるのを解決出来ず諦めた https://t.co/Nvg7lJXSQO</description>
+      <pubDate>Fri, 21 Aug 2026 15:57:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2090830621304320027</guid>
+    </item>
+    <item>
+      <title>GameNative はVauziのドライバ使おうとするとクラッシュするのがAdreno710使いにはだるい PurpleはまたA710対応無くなったし</title>
+      <link>https://x.com/angr_rs/status/2090654240842940627</link>
+      <description>snailcaviar: GameNative はVauziのドライバ使おうとするとクラッシュするのがAdreno710使いにはだるい PurpleはまたA710対応無くなったし</description>
+      <pubDate>Fri, 21 Aug 2026 04:16:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2090654240842940627</guid>
+    </item>
+    <item>
       <title>GameNative で活俠傳日本語MOD動いたよ https://t.co/WDW0Cj5JMX</title>
       <link>https://x.com/angr_rs/status/2090652609535496260</link>
       <description>snailcaviar: GameNative で活俠傳日本語MOD動いたよ https://t.co/WDW0Cj5JMX</description>
@@ -262,20 +276,6 @@
       <description>オラキー: GameNative にも挑戦してみようかな。</description>
       <pubDate>Thu, 30 Jul 2026 15:28:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Orakey/status/2082850792764318028</guid>
-    </item>
-    <item>
-      <title>@0Re0_8192 結局winlatorとか GameNative とかが強すぎる</title>
-      <link>https://x.com/katatumuri8484/status/2082616880096030921</link>
-      <description>かたつむり🐌🎭: @0Re0_8192 結局winlatorとか GameNative とかが強すぎる</description>
-      <pubDate>Wed, 29 Jul 2026 23:58:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/katatumuri8484/status/2082616880096030921</guid>
-    </item>
-    <item>
-      <title>GameNative + Xrial oneで、出先でスマホだけでSteamゲーム大画面でできるの神 リモートじゃないから遅延も電波も関係無し！ https://t.co/Jf0Ug9ZQUc</title>
-      <link>https://x.com/momotaro_games/status/2081943173207896209</link>
-      <description>神谷ももた: GameNative + Xrial oneで、出先でスマホだけでSteamゲーム大画面でできるの神 リモートじゃないから遅延も電波も関係無し！ https://t.co/Jf0Ug9ZQUc</description>
-      <pubDate>Tue, 28 Jul 2026 03:21:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/momotaro_games/status/2081943173207896209</guid>
     </item>
   </channel>
 </rss>
