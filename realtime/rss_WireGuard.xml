@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>いま、Tailscaleというものを初めて使ってとても感動している 今まで自宅内でネットワークが分離していて、開発機からサーバーへ WireGuard で繋ごうと何度も設定をいじり、ルーティングやらNATやらで四苦八苦していた。 これインスコ→ログイン→終わり なにこれ</title>
+      <link>https://x.com/chingdong_pong/status/2090733373224591561</link>
+      <description>̤c̤a̤s̤t̤e̤r̤: いま、Tailscaleというものを初めて使ってとても感動している 今まで自宅内でネットワークが分離していて、開発機からサーバーへ WireGuard で繋ごうと何度も設定をいじり、ルーティングやらNATやらで四苦八苦していた。 これインスコ→ログイン→終わり なにこれ</description>
+      <pubDate>Fri, 21 Aug 2026 09:30:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chingdong_pong/status/2090733373224591561</guid>
+    </item>
+    <item>
+      <title>機内でVPN( wireguard )なんて使えないだろうと思ってましたがそんなことはなかった 音楽も聞けちゃう</title>
+      <link>https://x.com/colmar1204/status/2090624267906068845</link>
+      <description>ならは: 機内でVPN( wireguard )なんて使えないだろうと思ってましたがそんなことはなかった 音楽も聞けちゃう</description>
+      <pubDate>Fri, 21 Aug 2026 02:17:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/colmar1204/status/2090624267906068845</guid>
+    </item>
+    <item>
       <title>外からは WireGuard で繋いで使ってる</title>
       <link>https://x.com/noc_turn/status/2090424405650543002</link>
       <description>のく: 外からは WireGuard で繋いで使ってる</description>
@@ -262,20 +276,6 @@
       <description>深瀬 悠: 直接インターネットに公開されずに wireguard ネットワークに公開鍵認証して接続するホワイトリスト方式なので、適切な運用をすればだいぶ安全です</description>
       <pubDate>Tue, 11 Aug 2026 19:32:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mikan_seraph/status/2087260988659974328</guid>
-    </item>
-    <item>
-      <title>そんな自分は自宅にimmichとSMBを立てて、VPSと自宅のラズパイで wireguard トンネル張って運用 クラウド系との連携は全てカット これくらいしか回避策がない</title>
-      <link>https://x.com/mikan_seraph/status/2087260521598947387</link>
-      <description>深瀬 悠: そんな自分は自宅にimmichとSMBを立てて、VPSと自宅のラズパイで wireguard トンネル張って運用 クラウド系との連携は全てカット これくらいしか回避策がない</description>
-      <pubDate>Tue, 11 Aug 2026 19:31:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mikan_seraph/status/2087260521598947387</guid>
-    </item>
-    <item>
-      <title>ポート開放がされてなかったとしても、 wireguard で相互通信させたクラウド⇔自宅サーバーをポート転送することでゲームサーバーを建てれた…気がする</title>
-      <link>https://x.com/bm9kb2thaGE/status/2087179879683178788</link>
-      <description>のどかは: ポート開放がされてなかったとしても、 wireguard で相互通信させたクラウド⇔自宅サーバーをポート転送することでゲームサーバーを建てれた…気がする</description>
-      <pubDate>Tue, 11 Aug 2026 14:10:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bm9kb2thaGE/status/2087179879683178788</guid>
     </item>
   </channel>
 </rss>
