@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>クラウドストレージも rclone か何かで自前の暗号レイヤーが必要</title>
+      <link>https://x.com/CypherLilium/status/2090690534520258654</link>
+      <description>リリア: クラウドストレージも rclone か何かで自前の暗号レイヤーが必要</description>
+      <pubDate>Fri, 21 Aug 2026 06:40:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CypherLilium/status/2090690534520258654</guid>
+    </item>
+    <item>
       <title>いろいろと有効活用の手段を調べてみたら rclone っていうiCloud Driveをvfsでマウントできるプロジェクトがあるらしいから設定してみたけど、めちゃくちゃいい。FinderからiCloud Driveを使う際の&quot;ファイルは完全にローカルにダウンロードしなければ閲覧不可&quot;という制約から解放される。</title>
       <link>https://x.com/dotinkasra/status/2090526359617671415</link>
       <description>ドチン・カズラ@プログラミングnote💻: いろいろと有効活用の手段を調べてみたら rclone っていうiCloud Driveをvfsでマウントできるプロジェクトがあるらしいから設定してみたけど、めちゃくちゃいい。FinderからiCloud Driveを使う際の&quot;ファイルは完全にローカルにダウンロードしなければ閲覧不可&quot;という制約から解放される。</description>
@@ -185,13 +192,6 @@
       <description>錦になりたい@思想駆動えんじにゃ〜: Rclone が某ストレージに対応していたので、結構お手軽にデータ保全ができそうで嬉しみ。わざわざ専用ツール作ってたのがいらなくなりそう。 https://t.co/ISWqHYxLlr</description>
       <pubDate>Sun, 02 Aug 2026 13:29:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wtb_nishiki/status/2083907941930000769</guid>
-    </item>
-    <item>
-      <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>
-      <link>https://x.com/Okakajp25/status/2083847862283379060</link>
-      <description>Okaka25: cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</description>
-      <pubDate>Sun, 02 Aug 2026 09:30:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Okakajp25/status/2083847862283379060</guid>
     </item>
     <item>
       <title>rclone +Flyleaf+FFmpeg+DirectX ('ω')ﾋﾟｷｨｰﾝ</title>

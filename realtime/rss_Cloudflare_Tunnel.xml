@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今つくってるマシンにVM（8vCPU・8GB・100GB）を構築し、LocalStack＋TerraformでAWSを再現。外部接続は Cloudflare Tunnel ／Access経由に限定し、WAN直公開は禁止 … みたいなの考えてる。AWS 高いんだよな。</title>
+      <link>https://x.com/SeahalJa/status/2090952736326176917</link>
+      <description>SEAHAL(Ja): 今つくってるマシンにVM（8vCPU・8GB・100GB）を構築し、LocalStack＋TerraformでAWSを再現。外部接続は Cloudflare Tunnel ／Access経由に限定し、WAN直公開は禁止 … みたいなの考えてる。AWS 高いんだよな。</description>
+      <pubDate>Sat, 22 Aug 2026 00:02:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2090952736326176917</guid>
+    </item>
+    <item>
       <title>しかも無料 すごすぎる Cloudflare Tunnel より感動した</title>
       <link>https://x.com/chingdong_pong/status/2090733500253229380</link>
       <description>̤c̤a̤s̤t̤e̤r̤: しかも無料 すごすぎる Cloudflare Tunnel より感動した</description>
@@ -269,13 +276,6 @@
       <description>みこう悠長: 各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</description>
       <pubDate>Tue, 04 Aug 2026 16:23:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/y_mikou/status/2084676676576002539</guid>
-    </item>
-    <item>
-      <title>ラズパイに入れていたcaddyをリバースプロキシに切り替えて、gunicorn+bottleの疎通ができた。 cloudflare tunnel +caddyリバプロ+gunicorn+bottleの構成ができたので、今度はSSの退避所をbottleで動作するようにしていこう。</title>
-      <link>https://x.com/y_mikou/status/2084675742869405861</link>
-      <description>みこう悠長: ラズパイに入れていたcaddyをリバースプロキシに切り替えて、gunicorn+bottleの疎通ができた。 cloudflare tunnel +caddyリバプロ+gunicorn+bottleの構成ができたので、今度はSSの退避所をbottleで動作するようにしていこう。</description>
-      <pubDate>Tue, 04 Aug 2026 16:20:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_mikou/status/2084675742869405861</guid>
     </item>
   </channel>
 </rss>
