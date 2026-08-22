@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GameNative /Winlator用の各デバイスの推奨ドライバまとめ 1. Adreno710/720の場合 https://t.co/oCixJzqmdC https://t.co/n3XCycpsPy Adreno710/720/722は動くドライバが割と限られており、推奨は上の2つ Purpleのほうは最新のT30は710/720のサポートを打ち切っているのでT29を使用すること（続く</title>
+      <link>https://x.com/angr_rs/status/2090927838790861129</link>
+      <description>snailcaviar: GameNative /Winlator用の各デバイスの推奨ドライバまとめ 1. Adreno710/720の場合 https://t.co/oCixJzqmdC https://t.co/n3XCycpsPy Adreno710/720/722は動くドライバが割と限られており、推奨は上の2つ Purpleのほうは最新のT30は710/720のサポートを打ち切っているのでT29を使用すること（続く</description>
+      <pubDate>Fri, 21 Aug 2026 22:23:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2090927838790861129</guid>
+    </item>
+    <item>
+      <title>@Hisui_S 4. コンテナの環境変数にWINEDLLOVERRIDESを追加してwinhttp=n,bを入力 Wine系でBepInEXによるModdingを行う際の定番の作法 実行環境により作法に細かい違いはあるが GameNative の場合はこれで良い https://t.co/gttTYOm37v</title>
+      <link>https://x.com/angr_rs/status/2090830636047360056</link>
+      <description>snailcaviar: @Hisui_S 4. コンテナの環境変数にWINEDLLOVERRIDESを追加してwinhttp=n,bを入力 Wine系でBepInEXによるModdingを行う際の定番の作法 実行環境により作法に細かい違いはあるが GameNative の場合はこれで良い https://t.co/gttTYOm37v</description>
+      <pubDate>Fri, 21 Aug 2026 15:57:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2090830636047360056</guid>
+    </item>
+    <item>
       <title>GameNative で活俠傳 日本語化Modを実行出来たので簡単なまとめ @Hisui_S氏のSteam Deckでの設定法を参考にしました 1.コンテナをproton-9.0-x86_64で作成する arm64ec環境だとBepInEXがうまく動かないことが多いのでx86_64 試しにarm64ecでやってた時はStringVaultで一生固まるのを解決出来ず諦めた https://t.co/Nvg7lJXSQO</title>
       <link>https://x.com/angr_rs/status/2090830621304320027</link>
       <description>snailcaviar: GameNative で活俠傳 日本語化Modを実行出来たので簡単なまとめ @Hisui_S氏のSteam Deckでの設定法を参考にしました 1.コンテナをproton-9.0-x86_64で作成する arm64ec環境だとBepInEXがうまく動かないことが多いのでx86_64 試しにarm64ecでやってた時はStringVaultで一生固まるのを解決出来ず諦めた https://t.co/Nvg7lJXSQO</description>
@@ -262,20 +276,6 @@
       <description>もち: KONKR POCKET FITにて GameNative Rally Arcade Classic GameNative 1.1.1 とっても快適。最高画質設定。 ラリーゲームはとても好きだけど、操作感が合う合わないはあったりします。 あったりしますが、このタイトルはとてもイイ感じで大好き！ https://t.co/T87arAvo5Y</description>
       <pubDate>Sat, 01 Aug 2026 12:13:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/omochichi/status/2083526477086412952</guid>
-    </item>
-    <item>
-      <title>GameNative （Android）がいつの間にかかなりの進化を遂げている。普通に動くなSteamのゲーム。</title>
-      <link>https://x.com/tokida/status/2083159451180450096</link>
-      <description>Tokida: GameNative （Android）がいつの間にかかなりの進化を遂げている。普通に動くなSteamのゲーム。</description>
-      <pubDate>Fri, 31 Jul 2026 11:54:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokida/status/2083159451180450096</guid>
-    </item>
-    <item>
-      <title>GameNative にも挑戦してみようかな。</title>
-      <link>https://x.com/Orakey/status/2082850792764318028</link>
-      <description>オラキー: GameNative にも挑戦してみようかな。</description>
-      <pubDate>Thu, 30 Jul 2026 15:28:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Orakey/status/2082850792764318028</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】結論ファースト：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と実践PoC手順（エンジニア向け） https://t.co/TjvEMEmrL8 #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2090961201169592662</link>
+      <description>EngiNear: 【新着記事】結論ファースト：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と実践PoC手順（エンジニア向け） https://t.co/TjvEMEmrL8 #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 22 Aug 2026 00:36:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2090961201169592662</guid>
+    </item>
+    <item>
       <title>本日は GitHub Codespaces 上の環境構築を実施！ これまでコマンドを直打ちしていた部分をスクリプト化しました。 実際のデプロイテストまでは届かなかったので、この週末に確認します。 Qiita記事もだいぶ書き進めたので、今週末の完成を目指して頑張ります！ #AWS #Qiita</title>
       <link>https://x.com/Python410386/status/2090453439474237836</link>
       <description>わた| Python: 本日は GitHub Codespaces 上の環境構築を実施！ これまでコマンドを直打ちしていた部分をスクリプト化しました。 実際のデプロイテストまでは届かなかったので、この週末に確認します。 Qiita記事もだいぶ書き進めたので、今週末の完成を目指して頑張ります！ #AWS #Qiita</description>
@@ -276,13 +283,6 @@
       <description>salty919: @k_koyanagi_null github- codespaces 開発環境 （強制） 年に数回ほど起動不可になる 数ヶ月に１回な頻度で障害がでる 30分放置で強制シャットダウン 12時間で強制シャットダウン 使い過ぎるとコストが～の文句が まあ運用設定も悪いんやけど 便利だし開発環境特化の機能もあるけど、安定性がね</description>
       <pubDate>Tue, 04 Aug 2026 09:50:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/salty919/status/2084577672559243688</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の最短決断ガイド（導入手順＋コスト検証） https://t.co/6k2IUpUphe #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2084438293521772660</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の最短決断ガイド（導入手順＋コスト検証） https://t.co/6k2IUpUphe #エンジニア #ChatGPT #AI</description>
-      <pubDate>Tue, 04 Aug 2026 00:36:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2084438293521772660</guid>
     </item>
   </channel>
 </rss>
