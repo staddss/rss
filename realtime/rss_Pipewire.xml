@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ubuntu 24.04は pipewire なので.profileに直接下記を追記して他のpulseaudioのLinuxに音声を飛ばしてます pactl load-module module-tunnel-sink server=tcp:https://t.co/6AhbLTlLZQ https://t.co/vdnE4nPDajはpulseaudioのサーバのIPアドレス</title>
+      <link>https://x.com/yama23238/status/2090806068012314645</link>
+      <description>yama: ubuntu 24.04は pipewire なので.profileに直接下記を追記して他のpulseaudioのLinuxに音声を飛ばしてます pactl load-module module-tunnel-sink server=tcp:https://t.co/6AhbLTlLZQ https://t.co/vdnE4nPDajはpulseaudioのサーバのIPアドレス</description>
+      <pubDate>Fri, 21 Aug 2026 14:19:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yama23238/status/2090806068012314645</guid>
+    </item>
+    <item>
       <title>https://t.co/f1lVtKt3Qf のパッチは使わずdnf5からインストールしするやり方だったけど、Fedora向けの6.19.8-3のカメラ周りの修正パッチはChatGPTが作ってくれたし、FedoraでCodex試してみるか... 仕上げはSnapshotだとフロントカメラのミラーonだから pipewire かwireplumberて設定できないか調査中</title>
       <link>https://x.com/msk_isynth/status/2089546360043561319</link>
       <description>ma^ki: https://t.co/f1lVtKt3Qf のパッチは使わずdnf5からインストールしするやり方だったけど、Fedora向けの6.19.8-3のカメラ周りの修正パッチはChatGPTが作ってくれたし、FedoraでCodex試してみるか... 仕上げはSnapshotだとフロントカメラのミラーonだから pipewire かwireplumberて設定できないか調査中</description>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>本日は GitHub Codespaces でデプロイテストを実施！ 前日にスクリプト化したコマンドが上手く動かず大苦戦しました。 原因はアカウントIDなどの変数化の実装ミス。 エラー連発で問題の切り分けに苦しんだものの、何とか無事クリアできました。 #AWS #スクリプト # Codespaces</title>
+      <link>https://x.com/Python410386/status/2091179491339173937</link>
+      <description>わた| Python: 本日は GitHub Codespaces でデプロイテストを実施！ 前日にスクリプト化したコマンドが上手く動かず大苦戦しました。 原因はアカウントIDなどの変数化の実装ミス。 エラー連発で問題の切り分けに苦しんだものの、何とか無事クリアできました。 #AWS #スクリプト # Codespaces</description>
+      <pubDate>Sat, 22 Aug 2026 15:03:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Python410386/status/2091179491339173937</guid>
+    </item>
+    <item>
+      <title>ノートPC死んだままで、移動先で開発するだけならLinux機買うかと思ったけど、別にLinuxでも安いわけじゃないんだな… 逆に CodeSpaces とか使えば、8GBくらいのChromebookもありなのかな</title>
+      <link>https://x.com/mikoshiba_kyu/status/2091135823508910109</link>
+      <description>御子柴きゅう: ノートPC死んだままで、移動先で開発するだけならLinux機買うかと思ったけど、別にLinuxでも安いわけじゃないんだな… 逆に CodeSpaces とか使えば、8GBくらいのChromebookもありなのかな</description>
+      <pubDate>Sat, 22 Aug 2026 12:10:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mikoshiba_kyu/status/2091135823508910109</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 はどれを選ぶべきか（導入手順＋実測チェックリスト） https://t.co/dinJk2xyYD #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2091022907879178562</link>
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 はどれを選ぶべきか（導入手順＋実測チェックリスト） https://t.co/dinJk2xyYD #エンジニア #ChatGPT #AI</description>
@@ -262,27 +276,6 @@
       <description>Kento.Yamada: By the way GitHub Codespaces のタブの見た目って変わった？ちょっと境界が見えにくくて辛いんだが。</description>
       <pubDate>Wed, 05 Aug 2026 14:17:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ymd65536/status/2085007335169347983</guid>
-    </item>
-    <item>
-      <title>@pkm_tk111 8GBだとAgent並列は確かにきついね。Cloud IDEやGitHub Codespaces で環境を外に出す選択肢もあるよ。ローカルのスペックに依存しなくなると、automationも安定するし開発体験が全然違う。</title>
-      <link>https://x.com/belajar_ai_noob/status/2084995425036271662</link>
-      <description>Belajar AI: @pkm_tk111 8GBだとAgent並列は確かにきついね。Cloud IDEやGitHub Codespaces で環境を外に出す選択肢もあるよ。ローカルのスペックに依存しなくなると、automationも安定するし開発体験が全然違う。</description>
-      <pubDate>Wed, 05 Aug 2026 13:30:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/belajar_ai_noob/status/2084995425036271662</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較（2026年版）：GitHub Codespaces ・Gitpod・AWS Cloud9 の最短選定ガイド（導入手順付き） https://t.co/huBbDbf9TZ #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2084800691378291149</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較（2026年版）：GitHub Codespaces ・Gitpod・AWS Cloud9 の最短選定ガイド（導入手順付き） https://t.co/huBbDbf9TZ #エンジニア #ChatGPT #AI</description>
-      <pubDate>Wed, 05 Aug 2026 00:36:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2084800691378291149</guid>
-    </item>
-    <item>
-      <title>Kiro Crewを codespaces から起動してみる https://t.co/o8kZQbLqHa</title>
-      <link>https://x.com/dQEGGdIQgLuB3Q8/status/2084760021754339765</link>
-      <description>MORI: Kiro Crewを codespaces から起動してみる https://t.co/o8kZQbLqHa</description>
-      <pubDate>Tue, 04 Aug 2026 21:54:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dQEGGdIQgLuB3Q8/status/2084760021754339765</guid>
     </item>
   </channel>
 </rss>
