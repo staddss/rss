@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>要するに、ホスト以外の参加者はプログラムの所持不要。完全手ぶらでＯＫ ネットの接続は Cloudflare Tunnel 噛ませて、都度ＵＲＬを生成。なおＡＩが提案してきた方式を丸呑みした結果。私は概念しか分からぬ https://t.co/Q9cqaEzSJx</title>
+      <link>https://x.com/planeteaterjack/status/2091543874028335464</link>
+      <description>星喰ぷらね（臨時で受付中）: 要するに、ホスト以外の参加者はプログラムの所持不要。完全手ぶらでＯＫ ネットの接続は Cloudflare Tunnel 噛ませて、都度ＵＲＬを生成。なおＡＩが提案してきた方式を丸呑みした結果。私は概念しか分からぬ https://t.co/Q9cqaEzSJx</description>
+      <pubDate>Sun, 23 Aug 2026 15:11:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/planeteaterjack/status/2091543874028335464</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 使ってVSCodeとOpenCodeとStorybookを外から見れるようにした。これで長時間ポケモンGOしに行っても大丈夫。</title>
+      <link>https://x.com/taikun_dev/status/2091437520106262677</link>
+      <description>tai-kun: Cloudflare Tunnel 使ってVSCodeとOpenCodeとStorybookを外から見れるようにした。これで長時間ポケモンGOしに行っても大丈夫。</description>
+      <pubDate>Sun, 23 Aug 2026 08:08:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taikun_dev/status/2091437520106262677</guid>
+    </item>
+    <item>
       <title>@lft_18rcxtd https://t.co/hUG4LPBcTqは、 Cloudflare tunnel を間に通してる ただWebサーバなのでマイクラサーバに適用できるかは不明</title>
       <link>https://x.com/1nt_s/status/2091409407246745624</link>
       <description>Nautilus: @lft_18rcxtd https://t.co/hUG4LPBcTqは、 Cloudflare tunnel を間に通してる ただWebサーバなのでマイクラサーバに適用できるかは不明</description>
@@ -262,20 +276,6 @@
       <description>エイタ / 福岡でShopify: ローカルでWebhookサーバー起動 ↓ Cloudflare Tunnel 起動 ↓ 管理画面で商品情報を更新 ↓ Webhook受信 データをとれるって面白い～ #Shopify #StorefrontAPIお勉強中</description>
       <pubDate>Thu, 06 Aug 2026 21:52:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/eita_todokel/status/2085484171624161551</guid>
-    </item>
-    <item>
-      <title>Cloudflare tunnel はHTTPしか通らないのが残念 https://t.co/diGw4Lyr3Y</title>
-      <link>https://x.com/boxfish_jp/status/2085209197847961730</link>
-      <description>ふぐお: Cloudflare tunnel はHTTPしか通らないのが残念 https://t.co/diGw4Lyr3Y</description>
-      <pubDate>Thu, 06 Aug 2026 03:39:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/boxfish_jp/status/2085209197847961730</guid>
-    </item>
-    <item>
-      <title>当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</title>
-      <link>https://x.com/hogehoge1600/status/2084773021185912999</link>
-      <description>mr.Bones: 当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</description>
-      <pubDate>Tue, 04 Aug 2026 22:46:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hogehoge1600/status/2084773021185912999</guid>
     </item>
   </channel>
 </rss>
