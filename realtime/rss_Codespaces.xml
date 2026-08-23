@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE徹底比較（2026年版）：GitHub Codespaces ・Gitpod・AWS Cloud9の選び方と導入チェックリスト https://t.co/oW1T2QDJHW #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2091385352334229591</link>
+      <description>EngiNear: 【新着記事】クラウドIDE徹底比較（2026年版）：GitHub Codespaces ・Gitpod・AWS Cloud9の選び方と導入チェックリスト https://t.co/oW1T2QDJHW #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sun, 23 Aug 2026 04:41:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2091385352334229591</guid>
+    </item>
+    <item>
       <title>本日は GitHub Codespaces でデプロイテストを実施！ 前日にスクリプト化したコマンドが上手く動かず大苦戦しました。 原因はアカウントIDなどの変数化の実装ミス。 エラー連発で問題の切り分けに苦しんだものの、何とか無事クリアできました。 #AWS #スクリプト # Codespaces</title>
       <link>https://x.com/Python410386/status/2091179491339173937</link>
       <description>わた| Python: 本日は GitHub Codespaces でデプロイテストを実施！ 前日にスクリプト化したコマンドが上手く動かず大苦戦しました。 原因はアカウントIDなどの変数化の実装ミス。 エラー連発で問題の切り分けに苦しんだものの、何とか無事クリアできました。 #AWS #スクリプト # Codespaces</description>
@@ -269,13 +276,6 @@
       <description>EngiNear: 【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と30日POC手順 https://t.co/7ZrUsqAL7C #エンジニア #ChatGPT #AI</description>
       <pubDate>Thu, 06 Aug 2026 00:41:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2085164218194534634</guid>
-    </item>
-    <item>
-      <title>By the way GitHub Codespaces のタブの見た目って変わった？ちょっと境界が見えにくくて辛いんだが。</title>
-      <link>https://x.com/ymd65536/status/2085007335169347983</link>
-      <description>Kento.Yamada: By the way GitHub Codespaces のタブの見た目って変わった？ちょっと境界が見えにくくて辛いんだが。</description>
-      <pubDate>Wed, 05 Aug 2026 14:17:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ymd65536/status/2085007335169347983</guid>
     </item>
   </channel>
 </rss>

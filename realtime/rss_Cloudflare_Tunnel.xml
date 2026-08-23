@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@lft_18rcxtd https://t.co/hUG4LPBcTqは、 Cloudflare tunnel を間に通してる ただWebサーバなのでマイクラサーバに適用できるかは不明</title>
+      <link>https://x.com/1nt_s/status/2091409407246745624</link>
+      <description>Nautilus: @lft_18rcxtd https://t.co/hUG4LPBcTqは、 Cloudflare tunnel を間に通してる ただWebサーバなのでマイクラサーバに適用できるかは不明</description>
+      <pubDate>Sun, 23 Aug 2026 06:17:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/1nt_s/status/2091409407246745624</guid>
+    </item>
+    <item>
+      <title>#ゆるWeb札幌 Cloudflare Tunnel が気になった。こんなのがあるのか https://t.co/5SfACTeC6C</title>
+      <link>https://x.com/de_teiu_tkg/status/2091074952636281223</link>
+      <description>DE-TEIU🍟: #ゆるWeb札幌 Cloudflare Tunnel が気になった。こんなのがあるのか https://t.co/5SfACTeC6C</description>
+      <pubDate>Sat, 22 Aug 2026 08:08:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/de_teiu_tkg/status/2091074952636281223</guid>
+    </item>
+    <item>
       <title>今つくってるマシンにVM（8vCPU・8GB・100GB）を構築し、LocalStack＋TerraformでAWSを再現。外部接続は Cloudflare Tunnel ／Access経由に限定し、WAN直公開は禁止 … みたいなの考えてる。AWS 高いんだよな。</title>
       <link>https://x.com/SeahalJa/status/2090952736326176917</link>
       <description>SEAHAL(Ja): 今つくってるマシンにVM（8vCPU・8GB・100GB）を構築し、LocalStack＋TerraformでAWSを再現。外部接続は Cloudflare Tunnel ／Access経由に限定し、WAN直公開は禁止 … みたいなの考えてる。AWS 高いんだよな。</description>
@@ -262,20 +276,6 @@
       <description>mr.Bones: 当初 Cloudflare Tunnel 経由のDoHで運用始めたけど、自分の環境ではiPhoneとの組み合わせでSteam認証やヤフオク、ヤフーフリマなどが時々認証失敗で画面が表示されない事があった。TailscaleでVPN接続し、自宅のAdGuard Homeを利用する構成へ変更したら安定した。</description>
       <pubDate>Tue, 04 Aug 2026 22:46:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hogehoge1600/status/2084773021185912999</guid>
-    </item>
-    <item>
-      <title>書きました。 --- Cloudflare Tunnel +Accessで自宅LLM公開、CF WorkerでOpenAI/Anthropic互換に｜greendrop https://t.co/fZ2oA19b2p</title>
-      <link>https://x.com/greendrop269/status/2084771465812206055</link>
-      <description>greendrop: 書きました。 --- Cloudflare Tunnel +Accessで自宅LLM公開、CF WorkerでOpenAI/Anthropic互換に｜greendrop https://t.co/fZ2oA19b2p</description>
-      <pubDate>Tue, 04 Aug 2026 22:40:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/greendrop269/status/2084771465812206055</guid>
-    </item>
-    <item>
-      <title>各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</title>
-      <link>https://x.com/y_mikou/status/2084676676576002539</link>
-      <description>みこう悠長: 各ツールもサービス化したし、ラズパイのストレージもSSDにしたし、ラズパイ自体に cloudflare tunnel 経由でssh接続できるようにもしたし、あとはケーブル類が届いて物理的な結線ができればハード面は一旦完了かな。</description>
-      <pubDate>Tue, 04 Aug 2026 16:23:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_mikou/status/2084676676576002539</guid>
     </item>
   </channel>
 </rss>

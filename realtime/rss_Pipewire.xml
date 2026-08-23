@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pipewire はDSD扱えないし、そもそも普通にデスクトップ環境でビットパーフェクトにするの結構大変なので、メインPCとはS/PDIFで繋いで、より広いフォーマットを扱えるUSB接続をmpvかvolumio走らせてるRaspberry Pi Zeroとかにつなげたほうが良い気がするな</title>
+      <link>https://x.com/sashisashi569/status/2091149912121708697</link>
+      <description>sashisashi: Pipewire はDSD扱えないし、そもそも普通にデスクトップ環境でビットパーフェクトにするの結構大変なので、メインPCとはS/PDIFで繋いで、より広いフォーマットを扱えるUSB接続をmpvかvolumio走らせてるRaspberry Pi Zeroとかにつなげたほうが良い気がするな</description>
+      <pubDate>Sat, 22 Aug 2026 13:06:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2091149912121708697</guid>
+    </item>
+    <item>
       <title>ubuntu 24.04は pipewire なので.profileに直接下記を追記して他のpulseaudioのLinuxに音声を飛ばしてます pactl load-module module-tunnel-sink server=tcp:https://t.co/6AhbLTlLZQ https://t.co/vdnE4nPDajはpulseaudioのサーバのIPアドレス</title>
       <link>https://x.com/yama23238/status/2090806068012314645</link>
       <description>yama: ubuntu 24.04は pipewire なので.profileに直接下記を追記して他のpulseaudioのLinuxに音声を飛ばしてます pactl load-module module-tunnel-sink server=tcp:https://t.co/6AhbLTlLZQ https://t.co/vdnE4nPDajはpulseaudioのサーバのIPアドレス</description>
@@ -101,13 +108,6 @@
       <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: Debian13 上の scnvim から s.boot; で scsynth を起動するには、その前に Server.program = &quot;pw-jack scsynth&quot;; を定義しておかないと Pipewire 経由にならないことを知る。</description>
       <pubDate>Sun, 26 Jul 2026 01:02:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2081183436950413601</guid>
-    </item>
-    <item>
-      <title>dwproton-11.0-9 ゼンレスゾーンゼロ PipeWire ドライバーを使用している環境でに問題が発生するのでデフォルトのオーディオドライバーを winepulse.drv にリセット エンド不イールド ディスク書き込みによるロード時間を改善するためのカスタムfixが追加 https://t.co/VHYrIpuCFh</title>
-      <link>https://x.com/MY87739/status/2080472819977355664</link>
-      <description>MY: dwproton-11.0-9 ゼンレスゾーンゼロ PipeWire ドライバーを使用している環境でに問題が発生するのでデフォルトのオーディオドライバーを winepulse.drv にリセット エンド不イールド ディスク書き込みによるロード時間を改善するためのカスタムfixが追加 https://t.co/VHYrIpuCFh</description>
-      <pubDate>Fri, 24 Jul 2026 01:59:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MY87739/status/2080472819977355664</guid>
     </item>
   </channel>
 </rss>

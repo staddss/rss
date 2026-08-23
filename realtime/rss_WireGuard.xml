@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@L_port53 それだけど開けれるポートは向こう側が自動で決めてくるから好きに決めれないけどね。プロファイルの場合は分からん。OpenVPNでも Wireguard でもどっちでもどっちでもできるね。私は使う理由がないから使ってないけど</title>
+      <link>https://x.com/shumaikun0716/status/2091437988677071074</link>
+      <description>shumaikun0716: @L_port53 それだけど開けれるポートは向こう側が自動で決めてくるから好きに決めれないけどね。プロファイルの場合は分からん。OpenVPNでも Wireguard でもどっちでもどっちでもできるね。私は使う理由がないから使ってないけど</description>
+      <pubDate>Sun, 23 Aug 2026 08:10:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2091437988677071074</guid>
+    </item>
+    <item>
+      <title>@shumaikun0716 んえっ これでしょ？( WireGuard ) https://t.co/tgfwX3ThPN</title>
+      <link>https://x.com/L_port53/status/2091437126680564193</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 んえっ これでしょ？( WireGuard ) https://t.co/tgfwX3ThPN</description>
+      <pubDate>Sun, 23 Aug 2026 08:07:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2091437126680564193</guid>
+    </item>
+    <item>
+      <title>WireGuard 使って家庭内ネットワークにVPN接続出来たっぽい！！やったー</title>
+      <link>https://x.com/blackvarusu/status/2091341069535600654</link>
+      <description>ヴァルｽ🧞‍♂️: WireGuard 使って家庭内ネットワークにVPN接続出来たっぽい！！やったー</description>
+      <pubDate>Sun, 23 Aug 2026 01:45:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/blackvarusu/status/2091341069535600654</guid>
+    </item>
+    <item>
+      <title>@nnm_t 個人で使う分には Wireguard 使えば大体なんとかなる認識で合ってます？？ (固定IP買うとかも見たけどそこまでするシチュが思いつかない)</title>
+      <link>https://x.com/50radish/status/2091017694632140908</link>
+      <description>五十鈴お嬢様(𝗥𝗲:𝗩𝗜𝗩𝗘): @nnm_t 個人で使う分には Wireguard 使えば大体なんとかなる認識で合ってます？？ (固定IP買うとかも見たけどそこまでするシチュが思いつかない)</description>
+      <pubDate>Sat, 22 Aug 2026 04:20:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/50radish/status/2091017694632140908</guid>
+    </item>
+    <item>
       <title>Wireguard …Cloudflared……(うなされている)</title>
       <link>https://x.com/50radish/status/2091004436210688454</link>
       <description>五十鈴お嬢様(𝗥𝗲:𝗩𝗜𝗩𝗘): Wireguard …Cloudflared……(うなされている)</description>
@@ -248,34 +276,6 @@
       <description>&quot;にょる。&quot;: Claude Codeと共にesp_ wireguard の奥底に潜っている🦆</description>
       <pubDate>Wed, 12 Aug 2026 15:19:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/W53SA/status/2087559553907069418</guid>
-    </item>
-    <item>
-      <title>楽天モバイルで IPv4 な WireGuard のエンドポイントに接続するとき MTU を小さくしないと通信が流れないみたい。 うちの環境では 1320 まで小さくした。</title>
-      <link>https://x.com/ShokugonoOyatsu/status/2087551448091664625</link>
-      <description>ShokugonoOyatsu: 楽天モバイルで IPv4 な WireGuard のエンドポイントに接続するとき MTU を小さくしないと通信が流れないみたい。 うちの環境では 1320 まで小さくした。</description>
-      <pubDate>Wed, 12 Aug 2026 14:47:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ShokugonoOyatsu/status/2087551448091664625</guid>
-    </item>
-    <item>
-      <title>OSPF + BIRD + BFD on WireGuard がかなり良いことが判明したので、今、NetplanとUFWを色々書き直しているけど、これUbuntu24.04代のままのさくらのVPSとVultrをOS入れ直すついでにあれこれした方が良くねえ……？ ってなってる あとPBR先にやれ（それはそう</title>
-      <link>https://x.com/harishimizu/status/2087508661677744135</link>
-      <description>針泉@大鏡路地: OSPF + BIRD + BFD on WireGuard がかなり良いことが判明したので、今、NetplanとUFWを色々書き直しているけど、これUbuntu24.04代のままのさくらのVPSとVultrをOS入れ直すついでにあれこれした方が良くねえ……？ ってなってる あとPBR先にやれ（それはそう</description>
-      <pubDate>Wed, 12 Aug 2026 11:57:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/harishimizu/status/2087508661677744135</guid>
-    </item>
-    <item>
-      <title>Sandworm、偽の求人面接でトロイの木馬化した WireGuard VPNをIT担当者に配布 https://t.co/pRTgM1OPjS</title>
-      <link>https://x.com/TYOBlackHatNews/status/2087433079467983083</link>
-      <description>TokyoBlackHatNews: Sandworm、偽の求人面接でトロイの木馬化した WireGuard VPNをIT担当者に配布 https://t.co/pRTgM1OPjS</description>
-      <pubDate>Wed, 12 Aug 2026 06:56:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TYOBlackHatNews/status/2087433079467983083</guid>
-    </item>
-    <item>
-      <title>久しぶり過ぎて、デフォで wireguard 起きてるの忘れてて、最初繋がらなくて悩みまくったのは秘密だ。</title>
-      <link>https://x.com/takemontakashi/status/2087429681515745599</link>
-      <description>takemon GO: 久しぶり過ぎて、デフォで wireguard 起きてるの忘れてて、最初繋がらなくて悩みまくったのは秘密だ。</description>
-      <pubDate>Wed, 12 Aug 2026 06:43:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takemontakashi/status/2087429681515745599</guid>
     </item>
   </channel>
 </rss>
