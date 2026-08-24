@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@s_sasamatsu 基本的には Cloudflare Tunnel でいいんですが、あれがもし基盤侵害くらったらおわおわりなので悩んではいます。ただ自宅をIPoE化したらたぶんそれしかないかなとも…</title>
+      <link>https://x.com/ktgohan/status/2091767856375763071</link>
+      <description>ktgohan: @s_sasamatsu 基本的には Cloudflare Tunnel でいいんですが、あれがもし基盤侵害くらったらおわおわりなので悩んではいます。ただ自宅をIPoE化したらたぶんそれしかないかなとも…</description>
+      <pubDate>Mon, 24 Aug 2026 06:01:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ktgohan/status/2091767856375763071</guid>
+    </item>
+    <item>
+      <title>@Nubia_ZUltra 用途にもよりますが、本格的に「公開」して誰でもアクセスできるようにするなら Cloudflare Tunnel で良いですし、 自分しか使わないならTailscaleで良いです</title>
+      <link>https://x.com/Tempest_ml/status/2091731393093218685</link>
+      <description>颯爽: @Nubia_ZUltra 用途にもよりますが、本格的に「公開」して誰でもアクセスできるようにするなら Cloudflare Tunnel で良いですし、 自分しか使わないならTailscaleで良いです</description>
+      <pubDate>Mon, 24 Aug 2026 03:36:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tempest_ml/status/2091731393093218685</guid>
+    </item>
+    <item>
+      <title>自宅ルーターのゲストポートに有線で接続して Cloudflare tunnel を使えばいいのか ポート開放怖いから回避したい</title>
+      <link>https://x.com/Nubia_ZUltra/status/2091557036161167859</link>
+      <description>XP＠ニコニコeR📱🚴🥁: 自宅ルーターのゲストポートに有線で接続して Cloudflare tunnel を使えばいいのか ポート開放怖いから回避したい</description>
+      <pubDate>Sun, 23 Aug 2026 16:03:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Nubia_ZUltra/status/2091557036161167859</guid>
+    </item>
+    <item>
       <title>要するに、ホスト以外の参加者はプログラムの所持不要。完全手ぶらでＯＫ ネットの接続は Cloudflare Tunnel 噛ませて、都度ＵＲＬを生成。なおＡＩが提案してきた方式を丸呑みした結果。私は概念しか分からぬ https://t.co/Q9cqaEzSJx</title>
       <link>https://x.com/planeteaterjack/status/2091543874028335464</link>
       <description>星喰ぷらね（臨時で受付中）: 要するに、ホスト以外の参加者はプログラムの所持不要。完全手ぶらでＯＫ ネットの接続は Cloudflare Tunnel 噛ませて、都度ＵＲＬを生成。なおＡＩが提案してきた方式を丸呑みした結果。私は概念しか分からぬ https://t.co/Q9cqaEzSJx</description>
@@ -255,27 +276,6 @@
       <description>かか化@C108|2日目東3㍁メ22b: PVEとImmichと Cloudflare Tunnel のアップグレードやっとおわった、、、、長い道のりだった...... https://t.co/3PUog47GCy</description>
       <pubDate>Sat, 08 Aug 2026 08:24:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kakaka__082/status/2086005594155282821</guid>
-    </item>
-    <item>
-      <title>今使ってるさくらのVPS からそろそろ cloudflare tunnel に入れ替えようかな。</title>
-      <link>https://x.com/k9s4k6/status/2085636646167556490</link>
-      <description>酢: 今使ってるさくらのVPS からそろそろ cloudflare tunnel に入れ替えようかな。</description>
-      <pubDate>Fri, 07 Aug 2026 07:58:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k9s4k6/status/2085636646167556490</guid>
-    </item>
-    <item>
-      <title>帰ったら復旧用に cloudflare tunnel 作っとくかあ</title>
-      <link>https://x.com/UtimiaAurai/status/2085487584176923067</link>
-      <description>𝚄𝚝𝚒𝚖𝚒𝚊 𝙰𝚞𝚛𝚊𝚒 🜸🐉: 帰ったら復旧用に cloudflare tunnel 作っとくかあ</description>
-      <pubDate>Thu, 06 Aug 2026 22:06:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UtimiaAurai/status/2085487584176923067</guid>
-    </item>
-    <item>
-      <title>ローカルでWebhookサーバー起動 ↓ Cloudflare Tunnel 起動 ↓ 管理画面で商品情報を更新 ↓ Webhook受信 データをとれるって面白い～ #Shopify #StorefrontAPIお勉強中</title>
-      <link>https://x.com/eita_todokel/status/2085484171624161551</link>
-      <description>エイタ / 福岡でShopify: ローカルでWebhookサーバー起動 ↓ Cloudflare Tunnel 起動 ↓ 管理画面で商品情報を更新 ↓ Webhook受信 データをとれるって面白い～ #Shopify #StorefrontAPIお勉強中</description>
-      <pubDate>Thu, 06 Aug 2026 21:52:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/eita_todokel/status/2085484171624161551</guid>
     </item>
   </channel>
 </rss>
