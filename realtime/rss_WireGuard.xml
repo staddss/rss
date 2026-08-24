@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OpenVPN-&gt; wireguard 使ってるけどまだ設定が面倒くさいんだよな。なんか良い方法あるんかな</title>
+      <link>https://x.com/b3lyp_6/status/2091708478452846638</link>
+      <description>新人Vtuber B3LYP: OpenVPN-&gt; wireguard 使ってるけどまだ設定が面倒くさいんだよな。なんか良い方法あるんかな</description>
+      <pubDate>Mon, 24 Aug 2026 02:05:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/b3lyp_6/status/2091708478452846638</guid>
+    </item>
+    <item>
       <title>@shumai_umai1 無料のならProton. Wireguard のファイル落としてくれば任意のサーバーも繋げる. 純正クライアント内でサーバー選択したいならWindscribe. 無料ティアは10GB制限 YouTubeの403エラーとかなら1.1.1で十分だったりする. 金払うならMullvadとかiVPN,Protonみたいなちゃんとしたのを使うべき</title>
       <link>https://x.com/TRX9800_/status/2091642324980039984</link>
       <description>ᵀᴱᵁᴿᴱˣˣ⁹⁸⁰⁰-: @shumai_umai1 無料のならProton. Wireguard のファイル落としてくれば任意のサーバーも繋げる. 純正クライアント内でサーバー選択したいならWindscribe. 無料ティアは10GB制限 YouTubeの403エラーとかなら1.1.1で十分だったりする. 金払うならMullvadとかiVPN,Protonみたいなちゃんとしたのを使うべき</description>
@@ -269,13 +276,6 @@
       <description>sashisashi: いろんなサブネットに直接接続するせいで Wireguard のAllowed IP設定がめんどくさくて放置してたデバイスをようやく設定した。ローカル接続以外はちゃんとトンネリングされてる。</description>
       <pubDate>Fri, 14 Aug 2026 08:21:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sashisashi569/status/2088179249882734945</guid>
-    </item>
-    <item>
-      <title>@zk8027 軽くGemiったところ、 wireguard の設定ファイル編集できるようならそこでVPN適用する範囲を設定できるみたいなので、プライベートIPの範囲を外す設定入れるだけで解決する可能性はありそうだった その他の可能性もありそうだったから、agentに聞いて進めてもらうのが確実かもしれん https://t.co/2OF2zaPG72</title>
-      <link>https://x.com/sghr61/status/2088167316441948424</link>
-      <description>shigeho: @zk8027 軽くGemiったところ、 wireguard の設定ファイル編集できるようならそこでVPN適用する範囲を設定できるみたいなので、プライベートIPの範囲を外す設定入れるだけで解決する可能性はありそうだった その他の可能性もありそうだったから、agentに聞いて進めてもらうのが確実かもしれん https://t.co/2OF2zaPG72</description>
-      <pubDate>Fri, 14 Aug 2026 07:34:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sghr61/status/2088167316441948424</guid>
     </item>
   </channel>
 </rss>
