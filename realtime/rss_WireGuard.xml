@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>とりあえずOCI上に wireguard とpiholeを設定できた</title>
+      <link>https://x.com/SumiSumiVRC/status/2092201568900948279</link>
+      <description>Sumi-Sumi: とりあえずOCI上に wireguard とpiholeを設定できた</description>
+      <pubDate>Tue, 25 Aug 2026 10:44:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092201568900948279</guid>
+    </item>
+    <item>
+      <title>443ポートでも wireguard できるようにした</title>
+      <link>https://x.com/SumiSumiVRC/status/2092087166004556229</link>
+      <description>Sumi-Sumi: 443ポートでも wireguard できるようにした</description>
+      <pubDate>Tue, 25 Aug 2026 03:10:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092087166004556229</guid>
+    </item>
+    <item>
       <title>【アマゾン注目商品】＜評価件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗃️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #ad https://t.co/RVxdOz0ufN</title>
       <link>https://x.com/5amasma04/status/2092042270602354857</link>
       <description>オーディオや入力機器の実用ガジェット発信所: 【アマゾン注目商品】＜評価件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗃️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #ad https://t.co/RVxdOz0ufN</description>
@@ -262,20 +276,6 @@
       <description>定時ラボ: 面接で渡されたVPNクライアントを、そのまま実行してしまう手口があります。Sandworm(UAC-0145)が、コマンド実行可能な偽 WireGuard でIT技術者やシステム管理者を狙っていると、CERT-UAが2026年8月11日に開示しました。インストールを求められても、その場で実行せず、正規窓口で確認しましょう。</description>
       <pubDate>Fri, 14 Aug 2026 22:00:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/teiji_lab/status/2088385391258685895</guid>
-    </item>
-    <item>
-      <title>SORACOM Arc＋SORACOM CLI使って、AIからM5Stackを操作する環境作ってみた。 M5Stackが別のネットワークにいても、 WireGuard でSORACOM側から到達できるようにして、Remote Commandで操作できるのが良い。 https://t.co/BuziKY2HP8</title>
-      <link>https://x.com/GomiHgy/status/2088236346175295700</link>
-      <description>五味: SORACOM Arc＋SORACOM CLI使って、AIからM5Stackを操作する環境作ってみた。 M5Stackが別のネットワークにいても、 WireGuard でSORACOM側から到達できるようにして、Remote Commandで操作できるのが良い。 https://t.co/BuziKY2HP8</description>
-      <pubDate>Fri, 14 Aug 2026 12:08:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GomiHgy/status/2088236346175295700</guid>
-    </item>
-    <item>
-      <title>なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</title>
-      <link>https://x.com/Ckurai/status/2088236331743002809</link>
-      <description>倉井: なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</description>
-      <pubDate>Fri, 14 Aug 2026 12:08:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ckurai/status/2088236331743002809</guid>
     </item>
   </channel>
 </rss>

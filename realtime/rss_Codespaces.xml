@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Flop Labs / Technocoreで、ここまでやった手順を簡単にまとめます👇 Technocore DID ToolをGitHub Codespaces で起動 https://t.co/8AQ95PcD1i Agent名・Xアカウント・Contribution内容を入力 「Create DID and proof kit」でDID作成 Private KeyのJSONを必ず保存 Step 2「Join Technocore」を実行 https://t.co/ePU0BFwXFd</title>
+      <link>https://x.com/Zgodzson/status/2092302253675958561</link>
+      <description>zmanz: Flop Labs / Technocoreで、ここまでやった手順を簡単にまとめます👇 Technocore DID ToolをGitHub Codespaces で起動 https://t.co/8AQ95PcD1i Agent名・Xアカウント・Contribution内容を入力 「Create DID and proof kit」でDID作成 Private KeyのJSONを必ず保存 Step 2「Join Technocore」を実行 https://t.co/ePU0BFwXFd</description>
+      <pubDate>Tue, 25 Aug 2026 17:25:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Zgodzson/status/2092302253675958561</guid>
+    </item>
+    <item>
+      <title>1/ Technocore DID Toolを開く GitHub： UfukNode / technocore-did-tool GitHub Codespaces を作成して、ターミナルで npm start を実行。 表示されたポートをブラウザで開くとTechnocore DID Toolが起動します。</title>
+      <link>https://x.com/mamo_crypto/status/2092268651743436972</link>
+      <description>mame: 1/ Technocore DID Toolを開く GitHub： UfukNode / technocore-did-tool GitHub Codespaces を作成して、ターミナルで npm start を実行。 表示されたポートをブラウザで開くとTechnocore DID Toolが起動します。</description>
+      <pubDate>Tue, 25 Aug 2026 15:11:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mamo_crypto/status/2092268651743436972</guid>
+    </item>
+    <item>
+      <title>使ったのは @UfukDegen さん作の technocore-did-tool。 https://t.co/pMG93LJg8m npm の依存パッケージがゼロで、Node の標準ライブラリだけで動きます。 Codespaces でもローカルでも npm start だけ。</title>
+      <link>https://x.com/norisalt2550/status/2092256291678998701</link>
+      <description>のりしお: 使ったのは @UfukDegen さん作の technocore-did-tool。 https://t.co/pMG93LJg8m npm の依存パッケージがゼロで、Node の標準ライブラリだけで動きます。 Codespaces でもローカルでも npm start だけ。</description>
+      <pubDate>Tue, 25 Aug 2026 14:22:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/norisalt2550/status/2092256291678998701</guid>
+    </item>
+    <item>
+      <title>DIDっていう暗号のIDを自分で作って、何か役立つこと（解説とか）を残すと$FLOPのエアドロ対象になるかもっことでやってみた。 @UfukDegenさんが Codespaces だけで簡単にできるツールと解説出してくれてた。 https://t.co/d1eARTxQ9W とりあえず試してみる。 https://t.co/KFXC3lSodQ</title>
+      <link>https://x.com/yn00fx/status/2092240235812020623</link>
+      <description>よねちゃん(❖,❖): DIDっていう暗号のIDを自分で作って、何か役立つこと（解説とか）を残すと$FLOPのエアドロ対象になるかもっことでやってみた。 @UfukDegenさんが Codespaces だけで簡単にできるツールと解説出してくれてた。 https://t.co/d1eARTxQ9W とりあえず試してみる。 https://t.co/KFXC3lSodQ</description>
+      <pubDate>Tue, 25 Aug 2026 13:18:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yn00fx/status/2092240235812020623</guid>
+    </item>
+    <item>
       <title>個人用PCを持たないザコ開発者なんだけど、クラウド開発が主流になってきたツイートを最近よく見かけるのでもしかしてiPad完結で色々開発できたりする？とりあえずチャッピー課金勢だからGitHub CodeSpaces とCodex CLIはセットアップして触れるようにした</title>
       <link>https://x.com/taboooztf/status/2092174272949354748</link>
       <description>たぶ: 個人用PCを持たないザコ開発者なんだけど、クラウド開発が主流になってきたツイートを最近よく見かけるのでもしかしてiPad完結で色々開発できたりする？とりあえずチャッピー課金勢だからGitHub CodeSpaces とCodex CLIはセットアップして触れるようにした</description>
@@ -248,41 +276,6 @@
       <description>Nori（情報ブロイラー）: ・Dropboxはおそらく意図した方向性で設定できた。完了するまではわからないが。 ・DockerとVSCodeをインストールした。 Codespaces にあるImageを持ってこれるかはまだ検証できていない。</description>
       <pubDate>Mon, 10 Aug 2026 10:43:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bgnori/status/2086765402215059607</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE 比較ガイド： Codespaces / Gitpod / AWS Cloud9 の選び方と実践PoC手順 https://t.co/9WfL6dU0gF #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2086612593125273672</link>
-      <description>EngiNear: 【新着記事】クラウドIDE 比較ガイド： Codespaces / Gitpod / AWS Cloud9 の選び方と実践PoC手順 https://t.co/9WfL6dU0gF #エンジニア #ChatGPT #AI</description>
-      <pubDate>Mon, 10 Aug 2026 00:36:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2086612593125273672</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE徹底比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/J7ZguazDiK #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2086311806667018456</link>
-      <description>EngiNear: 【新着記事】クラウドIDE徹底比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/J7ZguazDiK #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sun, 09 Aug 2026 04:41:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2086311806667018456</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の選び方と実務PoC手順（エンジニア向け） https://t.co/gStIGwMr96 #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2086250221265100840</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の選び方と実務PoC手順（エンジニア向け） https://t.co/gStIGwMr96 #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sun, 09 Aug 2026 00:36:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2086250221265100840</guid>
-    </item>
-    <item>
-      <title>【新着記事】結論先出し：GitHub Codespaces / Gitpod / AWS Cloud9 の実務比較と30日PoC手順（用途別推奨） https://t.co/kuQC3fCFhg #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2085887774826041606</link>
-      <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces / Gitpod / AWS Cloud9 の実務比較と30日PoC手順（用途別推奨） https://t.co/kuQC3fCFhg #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sat, 08 Aug 2026 00:36:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2085887774826041606</guid>
-    </item>
-    <item>
-      <title>初心者でもできる！Claude CodeをGitHub Codespaces で動かす方法｜hirocrypto @hirookokokok https://t.co/PmGpD2RxqG</title>
-      <link>https://x.com/hirookokokok/status/2085760562424934854</link>
-      <description>hiro.⌐◨-◨: 初心者でもできる！Claude CodeをGitHub Codespaces で動かす方法｜hirocrypto @hirookokokok https://t.co/PmGpD2RxqG</description>
-      <pubDate>Fri, 07 Aug 2026 16:10:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hirookokokok/status/2085760562424934854</guid>
     </item>
   </channel>
 </rss>
