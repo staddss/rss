@@ -123,12 +123,5 @@
       <pubDate>Mon, 27 Jul 2026 03:20:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RE_DO/status/2081580412451913904</guid>
     </item>
-    <item>
-      <title>Debian13 上の scnvim から s.boot; で scsynth を起動するには、その前に Server.program = &quot;pw-jack scsynth&quot;; を定義しておかないと Pipewire 経由にならないことを知る。</title>
-      <link>https://x.com/Inqb8tr_jp/status/2081183436950413601</link>
-      <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: Debian13 上の scnvim から s.boot; で scsynth を起動するには、その前に Server.program = &quot;pw-jack scsynth&quot;; を定義しておかないと Pipewire 経由にならないことを知る。</description>
-      <pubDate>Sun, 26 Jul 2026 01:02:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2081183436950413601</guid>
-    </item>
   </channel>
 </rss>

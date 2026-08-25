@@ -74,12 +74,5 @@
       <pubDate>Sun, 26 Jul 2026 22:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sangraal123/status/2081511775565156429</guid>
     </item>
-    <item>
-      <title>mameビルドはリンクまで進むもののリンカが メモリ不足で落ちる。OOM Killerかなと思いdmesg見たら「Out of memory: Killed process」。 Crostini でメモリ足らんときどうすんだ？</title>
-      <link>https://x.com/im97u1/status/2081159889972506867</link>
-      <description>佐とう: mameビルドはリンクまで進むもののリンカが メモリ不足で落ちる。OOM Killerかなと思いdmesg見たら「Out of memory: Killed process」。 Crostini でメモリ足らんときどうすんだ？</description>
-      <pubDate>Sat, 25 Jul 2026 23:29:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/im97u1/status/2081159889972506867</guid>
-    </item>
   </channel>
 </rss>

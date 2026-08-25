@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【アマゾン注目商品】＜評価件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗃️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #ad https://t.co/RVxdOz0ufN</title>
+      <link>https://x.com/5amasma04/status/2092042270602354857</link>
+      <description>オーディオや入力機器の実用ガジェット発信所: 【アマゾン注目商品】＜評価件数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗃️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター #ad https://t.co/RVxdOz0ufN</description>
+      <pubDate>Tue, 25 Aug 2026 00:12:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5amasma04/status/2092042270602354857</guid>
+    </item>
+    <item>
+      <title>とりあえずOCIをハブとした wireguard 網を構築できた</title>
+      <link>https://x.com/SumiSumiVRC/status/2091944661346828772</link>
+      <description>Sumi-Sumi: とりあえずOCIをハブとした wireguard 網を構築できた</description>
+      <pubDate>Mon, 24 Aug 2026 17:44:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2091944661346828772</guid>
+    </item>
+    <item>
       <title>OpenVPN-&gt; wireguard 使ってるけどまだ設定が面倒くさいんだよな。なんか良い方法あるんかな</title>
       <link>https://x.com/b3lyp_6/status/2091708478452846638</link>
       <description>新人Vtuber B3LYP: OpenVPN-&gt; wireguard 使ってるけどまだ設定が面倒くさいんだよな。なんか良い方法あるんかな</description>
@@ -262,20 +276,6 @@
       <description>倉井: なるほど、EC2にグローバルipv4アドレス振らずにEC2立ててグローバルipv6アドレスだけ持たせてなんとかソフトイーサ入れたり wireguard 立てればt4gスモール1台無料と合わせて通信量別に実質無料で拠点間VPNルータが組めると</description>
       <pubDate>Fri, 14 Aug 2026 12:08:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ckurai/status/2088236331743002809</guid>
-    </item>
-    <item>
-      <title>WARP Connector、今は WireGuard の他にMASQUEが選べるらしい！！理論上オーバーヘッドが大きい割にQoEが良さそうで、CDN屋の本領発揮かな。 warp-cli tunnel endpointよりColo(Mesh -&gt; Edge Location)ガチャっぽい感じがするのと、PQC(warp-cli tunnel stats -&gt; Post-Quantum enabled)ガチャもあるｗ https://t.co/UTlft6grHO https://t.co/QituJaYulH</title>
-      <link>https://x.com/shibanyan_1/status/2088187381350645847</link>
-      <description>しばにゃん: WARP Connector、今は WireGuard の他にMASQUEが選べるらしい！！理論上オーバーヘッドが大きい割にQoEが良さそうで、CDN屋の本領発揮かな。 warp-cli tunnel endpointよりColo(Mesh -&gt; Edge Location)ガチャっぽい感じがするのと、PQC(warp-cli tunnel stats -&gt; Post-Quantum enabled)ガチャもあるｗ https://t.co/UTlft6grHO https://t.co/QituJaYulH</description>
-      <pubDate>Fri, 14 Aug 2026 08:54:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2088187381350645847</guid>
-    </item>
-    <item>
-      <title>いろんなサブネットに直接接続するせいで Wireguard のAllowed IP設定がめんどくさくて放置してたデバイスをようやく設定した。ローカル接続以外はちゃんとトンネリングされてる。</title>
-      <link>https://x.com/sashisashi569/status/2088179249882734945</link>
-      <description>sashisashi: いろんなサブネットに直接接続するせいで Wireguard のAllowed IP設定がめんどくさくて放置してたデバイスをようやく設定した。ローカル接続以外はちゃんとトンネリングされてる。</description>
-      <pubDate>Fri, 14 Aug 2026 08:21:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2088179249882734945</guid>
     </item>
   </channel>
 </rss>
