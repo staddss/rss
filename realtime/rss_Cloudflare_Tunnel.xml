@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/ktgohan/status/2091767856375763071</guid>
     </item>
     <item>
+      <title>@Nubia_ZUltra お持ちのドメインで公開するなら Cloudflare Tunnel ですね あくまでTailscaleは「自宅のサーバーに外から個人的にアクセスするためのVPN」であり、Funnelはオマケです</title>
+      <link>https://x.com/Tempest_ml/status/2091759149663371587</link>
+      <description>颯爽: @Nubia_ZUltra お持ちのドメインで公開するなら Cloudflare Tunnel ですね あくまでTailscaleは「自宅のサーバーに外から個人的にアクセスするためのVPN」であり、Funnelはオマケです</description>
+      <pubDate>Mon, 24 Aug 2026 05:26:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tempest_ml/status/2091759149663371587</guid>
+    </item>
+    <item>
       <title>@Nubia_ZUltra 用途にもよりますが、本格的に「公開」して誰でもアクセスできるようにするなら Cloudflare Tunnel で良いですし、 自分しか使わないならTailscaleで良いです</title>
       <link>https://x.com/Tempest_ml/status/2091731393093218685</link>
       <description>颯爽: @Nubia_ZUltra 用途にもよりますが、本格的に「公開」して誰でもアクセスできるようにするなら Cloudflare Tunnel で良いですし、 自分しか使わないならTailscaleで良いです</description>
@@ -269,13 +276,6 @@
       <description>Akihiro Komori: ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</description>
       <pubDate>Sat, 08 Aug 2026 10:22:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/comocc/status/2086035397361250724</guid>
-    </item>
-    <item>
-      <title>あと、 Cloudflare Tunnel の一本化にともなって、Rails と Edge の NextJS と Hono たちに Access 制御をつけて、かつドメインも再設定する。そうすりゃ、開発とプロダクションのネットワークを完全に分離できちゃう。嬉しいね。</title>
-      <link>https://x.com/SeahalJa/status/2086016758947987738</link>
-      <description>SEAHAL(Ja): あと、 Cloudflare Tunnel の一本化にともなって、Rails と Edge の NextJS と Hono たちに Access 制御をつけて、かつドメインも再設定する。そうすりゃ、開発とプロダクションのネットワークを完全に分離できちゃう。嬉しいね。</description>
-      <pubDate>Sat, 08 Aug 2026 09:08:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086016758947987738</guid>
     </item>
   </channel>
 </rss>
