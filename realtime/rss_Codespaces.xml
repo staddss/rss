@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GitHubの Codespaces 新しく作れないし よくわからぬw Contribution:https://t.co/iAvIwrWyqX Agent DID: did:key:z6MknNZQNAKrZiaaGWvcRqzZiJiMWAibtXrfNkHivJ8B4SpY Signed Technocore record: room technocore, sequence 70510 Signed agent mailbox:https://t.co/XqrzP0vDXw @flop_labs</title>
+      <link>https://x.com/one_wan_inu/status/2092490394273821006</link>
+      <description>ただのいぬ: GitHubの Codespaces 新しく作れないし よくわからぬw Contribution:https://t.co/iAvIwrWyqX Agent DID: did:key:z6MknNZQNAKrZiaaGWvcRqzZiJiMWAibtXrfNkHivJ8B4SpY Signed Technocore record: room technocore, sequence 70510 Signed agent mailbox:https://t.co/XqrzP0vDXw @flop_labs</description>
+      <pubDate>Wed, 26 Aug 2026 05:52:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/one_wan_inu/status/2092490394273821006</guid>
+    </item>
+    <item>
+      <title>これがOpenな限り自分はPythonのFunctionsは手元のマシンで試せないので仕事で必要に迫られない限りやることはない。 Codespaces で出来るよ？ってことではあるんだけど、ちょっとやるかってタイミングで Codespaces 立ち上げて環境がビルドされるのを待って…っていうのが単純にだるい。仕事ならビルドさ</title>
+      <link>https://x.com/okazuki/status/2092421857031200830</link>
+      <description>かずき(Kazuki Ota) | CSA &amp; Evangelist at MS: これがOpenな限り自分はPythonのFunctionsは手元のマシンで試せないので仕事で必要に迫られない限りやることはない。 Codespaces で出来るよ？ってことではあるんだけど、ちょっとやるかってタイミングで Codespaces 立ち上げて環境がビルドされるのを待って…っていうのが単純にだるい。仕事ならビルドさ</description>
+      <pubDate>Wed, 26 Aug 2026 01:20:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/okazuki/status/2092421857031200830</guid>
+    </item>
+    <item>
       <title>① GitHub Codespaces で有志のTechnocore DID Toolを起動。 ターミナルで「npm start」を実行するだけでOKでした。 思ったより簡単にDID Toolを立ち上げられます👍 ※非公式ツールなので利用は各自確認を。</title>
       <link>https://x.com/shiro_kishibe/status/2092421437118455849</link>
       <description>shiro46.base.eth: ① GitHub Codespaces で有志のTechnocore DID Toolを起動。 ターミナルで「npm start」を実行するだけでOKでした。 思ったより簡単にDID Toolを立ち上げられます👍 ※非公式ツールなので利用は各自確認を。</description>
@@ -262,20 +276,6 @@
       <description>うみれおん（Kaito Udagawa）: GitHub Codespaces でOBS Studioを動かして実益を得る人ここに現る</description>
       <pubDate>Wed, 12 Aug 2026 04:49:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/umireon/status/2087400976525537400</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較（2026年版）— GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と導入手順 https://t.co/mtc0ZjNfDw #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2087338623259517033</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較（2026年版）— GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と導入手順 https://t.co/mtc0ZjNfDw #エンジニア #ChatGPT #AI</description>
-      <pubDate>Wed, 12 Aug 2026 00:41:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2087338623259517033</guid>
-    </item>
-    <item>
-      <title>とりあえず、 大会論文書いてたら、 devcontainer/ codespaces で使えるテンプレが出来上がっていたでござる。 もしかしたら、（無料の時間に制約はあるけど）卒論を codespaces で書けるようになるのでは。</title>
-      <link>https://x.com/CUEICHI/status/2086860790599135463</link>
-      <description>きゅういち: とりあえず、 大会論文書いてたら、 devcontainer/ codespaces で使えるテンプレが出来上がっていたでござる。 もしかしたら、（無料の時間に制約はあるけど）卒論を codespaces で書けるようになるのでは。</description>
-      <pubDate>Mon, 10 Aug 2026 17:02:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CUEICHI/status/2086860790599135463</guid>
     </item>
   </channel>
 </rss>

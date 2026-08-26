@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ToukaShiro_NW そうそう 素の wireguard は無い分、tailscaleがその辺をやってくれるらしいから導入しようかなって</title>
+      <link>https://x.com/SumiSumiVRC/status/2092452151935266865</link>
+      <description>Sumi-Sumi: @ToukaShiro_NW そうそう 素の wireguard は無い分、tailscaleがその辺をやってくれるらしいから導入しようかなって</description>
+      <pubDate>Wed, 26 Aug 2026 03:20:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092452151935266865</guid>
+    </item>
+    <item>
       <title>OCI上に wireguard 立てたハブアンドスポークスにするよりheadscale立てた方が幸せになれそう🤔</title>
       <link>https://x.com/SumiSumiVRC/status/2092445504974278670</link>
       <description>Sumi-Sumi: OCI上に wireguard 立てたハブアンドスポークスにするよりheadscale立てた方が幸せになれそう🤔</description>
@@ -269,13 +276,6 @@
       <description>kinkuman: @nanase_oikawa 手抜きか～🤔おうちの鍵なのになぁ。 WireGuard は結構前にLinuxカーネルに組み込まれてますね。</description>
       <pubDate>Sat, 15 Aug 2026 14:22:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088632383398617357</guid>
-    </item>
-    <item>
-      <title>@nanase_oikawa WireGuard の時点で驚くほど簡単なのに、なぜtailscaleを経由させるのか私も不思議におもっていました🤔</title>
-      <link>https://x.com/kinkuman_net/status/2088598266728640632</link>
-      <description>kinkuman: @nanase_oikawa WireGuard の時点で驚くほど簡単なのに、なぜtailscaleを経由させるのか私も不思議におもっていました🤔</description>
-      <pubDate>Sat, 15 Aug 2026 12:06:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088598266728640632</guid>
     </item>
   </channel>
 </rss>
