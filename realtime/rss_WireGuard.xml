@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OCI上に wireguard 立てたハブアンドスポークスにするよりheadscale立てた方が幸せになれそう🤔</title>
+      <link>https://x.com/SumiSumiVRC/status/2092445504974278670</link>
+      <description>Sumi-Sumi: OCI上に wireguard 立てたハブアンドスポークスにするよりheadscale立てた方が幸せになれそう🤔</description>
+      <pubDate>Wed, 26 Aug 2026 02:54:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092445504974278670</guid>
+    </item>
+    <item>
+      <title>大きいファイルを WireGuard (Tailscale) 上の scp 越しに転送すると流石に遅いわねと思ったけれど、そもそも宅内 1G が遅いという説もある https://t.co/T4B1bDtwCe</title>
+      <link>https://x.com/yosida95/status/2092246857296884157</link>
+      <description>よしだ: 大きいファイルを WireGuard (Tailscale) 上の scp 越しに転送すると流石に遅いわねと思ったけれど、そもそも宅内 1G が遅いという説もある https://t.co/T4B1bDtwCe</description>
+      <pubDate>Tue, 25 Aug 2026 13:44:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yosida95/status/2092246857296884157</guid>
+    </item>
+    <item>
       <title>とりあえずOCI上に wireguard とpiholeを設定できた</title>
       <link>https://x.com/SumiSumiVRC/status/2092201568900948279</link>
       <description>Sumi-Sumi: とりあえずOCI上に wireguard とpiholeを設定できた</description>
@@ -262,20 +276,6 @@
       <description>kinkuman: @nanase_oikawa WireGuard の時点で驚くほど簡単なのに、なぜtailscaleを経由させるのか私も不思議におもっていました🤔</description>
       <pubDate>Sat, 15 Aug 2026 12:06:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088598266728640632</guid>
-    </item>
-    <item>
-      <title>tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</title>
-      <link>https://x.com/nanase_oikawa/status/2088529216329613819</link>
-      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: tailscale、時々論議になるのでご利用は個人の自己責任でお願いします。 ・「完全オープンソースではない」問題 WireGuard のオープンな思想に乗っかりながら、核心部分をクローズドで囲い込んでいる ・プライバシーとメタデータ https://t.co/8AlmSssK7Z</description>
-      <pubDate>Sat, 15 Aug 2026 07:32:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2088529216329613819</guid>
-    </item>
-    <item>
-      <title>面接で渡されたVPNクライアントを、そのまま実行してしまう手口があります。Sandworm(UAC-0145)が、コマンド実行可能な偽 WireGuard でIT技術者やシステム管理者を狙っていると、CERT-UAが2026年8月11日に開示しました。インストールを求められても、その場で実行せず、正規窓口で確認しましょう。</title>
-      <link>https://x.com/teiji_lab/status/2088385391258685895</link>
-      <description>定時ラボ: 面接で渡されたVPNクライアントを、そのまま実行してしまう手口があります。Sandworm(UAC-0145)が、コマンド実行可能な偽 WireGuard でIT技術者やシステム管理者を狙っていると、CERT-UAが2026年8月11日に開示しました。インストールを求められても、その場で実行せず、正規窓口で確認しましょう。</description>
-      <pubDate>Fri, 14 Aug 2026 22:00:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/teiji_lab/status/2088385391258685895</guid>
     </item>
   </channel>
 </rss>

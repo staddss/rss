@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>① GitHub Codespaces で有志のTechnocore DID Toolを起動。 ターミナルで「npm start」を実行するだけでOKでした。 思ったより簡単にDID Toolを立ち上げられます👍 ※非公式ツールなので利用は各自確認を。</title>
+      <link>https://x.com/shiro_kishibe/status/2092421437118455849</link>
+      <description>shiro46.base.eth: ① GitHub Codespaces で有志のTechnocore DID Toolを起動。 ターミナルで「npm start」を実行するだけでOKでした。 思ったより簡単にDID Toolを立ち上げられます👍 ※非公式ツールなので利用は各自確認を。</description>
+      <pubDate>Wed, 26 Aug 2026 01:18:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiro_kishibe/status/2092421437118455849</guid>
+    </item>
+    <item>
+      <title>署名対象は公式仕様どおり「room|nonce|text」。本文は保存前の1行化後の文字列を署名し、nonceは同じ部屋で前回より大きくします。 第三者の Codespaces や鍵生成サイトへ秘密鍵を置かないこと。5/7</title>
+      <link>https://x.com/kasou0077/status/2092411428657586432</link>
+      <description>仮想0077: 署名対象は公式仕様どおり「room|nonce|text」。本文は保存前の1行化後の文字列を署名し、nonceは同じ部屋で前回より大きくします。 第三者の Codespaces や鍵生成サイトへ秘密鍵を置かないこと。5/7</description>
+      <pubDate>Wed, 26 Aug 2026 00:38:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kasou0077/status/2092411428657586432</guid>
+    </item>
+    <item>
+      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 を用途別に選ぶ方法と導入手順 https://t.co/lfVj0TSPz4 #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2092410837596098768</link>
+      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 を用途別に選ぶ方法と導入手順 https://t.co/lfVj0TSPz4 #エンジニア #ChatGPT #AI</description>
+      <pubDate>Wed, 26 Aug 2026 00:36:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2092410837596098768</guid>
+    </item>
+    <item>
       <title>Flop Labs / Technocoreで、ここまでやった手順を簡単にまとめます👇 Technocore DID ToolをGitHub Codespaces で起動 https://t.co/8AQ95PcD1i Agent名・Xアカウント・Contribution内容を入力 「Create DID and proof kit」でDID作成 Private KeyのJSONを必ず保存 Step 2「Join Technocore」を実行 https://t.co/ePU0BFwXFd</title>
       <link>https://x.com/Zgodzson/status/2092302253675958561</link>
       <description>zmanz: Flop Labs / Technocoreで、ここまでやった手順を簡単にまとめます👇 Technocore DID ToolをGitHub Codespaces で起動 https://t.co/8AQ95PcD1i Agent名・Xアカウント・Contribution内容を入力 「Create DID and proof kit」でDID作成 Private KeyのJSONを必ず保存 Step 2「Join Technocore」を実行 https://t.co/ePU0BFwXFd</description>
       <pubDate>Tue, 25 Aug 2026 17:25:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Zgodzson/status/2092302253675958561</guid>
+    </item>
+    <item>
+      <title>【ツールの起動方法】 ① リポジトリを開く https://t.co/MwIbjT1xuY ②「Code」→「 Codespaces 」へ進む ③「Create codespace」を選択 ④ ターミナルで「npm start」を実行 ⑤ 表示されたリンクを開く これでツールが起動します。 [2/6]</title>
+      <link>https://x.com/gizagizajug/status/2092292201376297316</link>
+      <description>ピータパン: 【ツールの起動方法】 ① リポジトリを開く https://t.co/MwIbjT1xuY ②「Code」→「 Codespaces 」へ進む ③「Create codespace」を選択 ④ ターミナルで「npm start」を実行 ⑤ 表示されたリンクを開く これでツールが起動します。 [2/6]</description>
+      <pubDate>Tue, 25 Aug 2026 16:45:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gizagizajug/status/2092292201376297316</guid>
     </item>
     <item>
       <title>1/ Technocore DID Toolを開く GitHub： UfukNode / technocore-did-tool GitHub Codespaces を作成して、ターミナルで npm start を実行。 表示されたポートをブラウザで開くとTechnocore DID Toolが起動します。</title>
@@ -248,34 +276,6 @@
       <description>きゅういち: とりあえず、 大会論文書いてたら、 devcontainer/ codespaces で使えるテンプレが出来上がっていたでござる。 もしかしたら、（無料の時間に制約はあるけど）卒論を codespaces で書けるようになるのでは。</description>
       <pubDate>Mon, 10 Aug 2026 17:02:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CUEICHI/status/2086860790599135463</guid>
-    </item>
-    <item>
-      <title>夏休みになったので学会発表の予稿を書いているが、気がついたらLaTeXのフォーマットを（AIで）作成し、devcontainerと codespaces で動く設定を(AI)で生成する作業に従事する時間がやたら長くなってしまっている。 やっぱり本質が環境構築おじさんなんだよなあ。</title>
-      <link>https://x.com/CUEICHI/status/2086816457556689131</link>
-      <description>きゅういち: 夏休みになったので学会発表の予稿を書いているが、気がついたらLaTeXのフォーマットを（AIで）作成し、devcontainerと codespaces で動く設定を(AI)で生成する作業に従事する時間がやたら長くなってしまっている。 やっぱり本質が環境構築おじさんなんだよなあ。</description>
-      <pubDate>Mon, 10 Aug 2026 14:06:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CUEICHI/status/2086816457556689131</guid>
-    </item>
-    <item>
-      <title>dev containerは業務だと今でも手堅いけど、個人だと面倒なのと足回りが重たいのでV8 Isolateみたいな軽量隔離環境の機運を感じるというかGH Codespaces は高すぎんねん</title>
-      <link>https://x.com/oubakiou/status/2086788716669104427</link>
-      <description>oubakiou: dev containerは業務だと今でも手堅いけど、個人だと面倒なのと足回りが重たいのでV8 Isolateみたいな軽量隔離環境の機運を感じるというかGH Codespaces は高すぎんねん</description>
-      <pubDate>Mon, 10 Aug 2026 12:16:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oubakiou/status/2086788716669104427</guid>
-    </item>
-    <item>
-      <title>localで動くVScodeと Codespaces が繋がることは確認できた。 Imageは持ってこれないっぽいので、ローカルで Codespaces で動かす相当のことをコンテナで実現せねば。</title>
-      <link>https://x.com/bgnori/status/2086768824070934796</link>
-      <description>Nori（情報ブロイラー）: localで動くVScodeと Codespaces が繋がることは確認できた。 Imageは持ってこれないっぽいので、ローカルで Codespaces で動かす相当のことをコンテナで実現せねば。</description>
-      <pubDate>Mon, 10 Aug 2026 10:57:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bgnori/status/2086768824070934796</guid>
-    </item>
-    <item>
-      <title>・Dropboxはおそらく意図した方向性で設定できた。完了するまではわからないが。 ・DockerとVSCodeをインストールした。 Codespaces にあるImageを持ってこれるかはまだ検証できていない。</title>
-      <link>https://x.com/bgnori/status/2086765402215059607</link>
-      <description>Nori（情報ブロイラー）: ・Dropboxはおそらく意図した方向性で設定できた。完了するまではわからないが。 ・DockerとVSCodeをインストールした。 Codespaces にあるImageを持ってこれるかはまだ検証できていない。</description>
-      <pubDate>Mon, 10 Aug 2026 10:43:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bgnori/status/2086765402215059607</guid>
     </item>
   </channel>
 </rss>

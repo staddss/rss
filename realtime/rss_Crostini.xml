@@ -67,12 +67,5 @@
       <pubDate>Mon, 27 Jul 2026 13:53:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/teteten/status/2081739835300266261</guid>
     </item>
-    <item>
-      <title>最新版の ChromeOS で Crostini のバックアップと復元を行うと VM type が Baguette になるので起動に失敗して何もできなくなるバグがある。 オンラインではどこにも解決策載ってなかったけど ChatGPT と壁打ちして手動で VM type を Crostini に上書きしたら起動できるようになったので流石すぎる。</title>
-      <link>https://x.com/sangraal123/status/2081511775565156429</link>
-      <description>sangraal: 最新版の ChromeOS で Crostini のバックアップと復元を行うと VM type が Baguette になるので起動に失敗して何もできなくなるバグがある。 オンラインではどこにも解決策載ってなかったけど ChatGPT と壁打ちして手動で VM type を Crostini に上書きしたら起動できるようになったので流石すぎる。</description>
-      <pubDate>Sun, 26 Jul 2026 22:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sangraal123/status/2081511775565156429</guid>
-    </item>
   </channel>
 </rss>
