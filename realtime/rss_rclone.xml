@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</title>
+      <link>https://x.com/jnakata2014/status/2092292643502075932</link>
+      <description>Junichi Nakata (そせじ番長) : Japanese IT engineer: と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</description>
+      <pubDate>Tue, 25 Aug 2026 16:46:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jnakata2014/status/2092292643502075932</guid>
+    </item>
+    <item>
       <title>Google cloudで rclone 専用のOAuth認証環境を作ってラズパイの rclone から GoogleDriveへアクセスできるようにした😘お金かからないはず</title>
       <link>https://x.com/_ta98_/status/2092277715131093211</link>
       <description>TA98: Google cloudで rclone 専用のOAuth認証環境を作ってラズパイの rclone から GoogleDriveへアクセスできるようにした😘お金かからないはず</description>
@@ -269,13 +276,6 @@
       <description>ふゆ: rclone のmount便利すぎる もっと前から使えばよかった</description>
       <pubDate>Wed, 29 Jul 2026 08:17:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fuyu2356/status/2082379894248612317</guid>
-    </item>
-    <item>
-      <title>https://t.co/eaXzQS4nnB AIに聞いたら、 RClone 使えと出てきた。使ったことないけど果たして。</title>
-      <link>https://x.com/Umisuika/status/2081696615421898864</link>
-      <description>海水瓜: https://t.co/eaXzQS4nnB AIに聞いたら、 RClone 使えと出てきた。使ったことないけど果たして。</description>
-      <pubDate>Mon, 27 Jul 2026 11:02:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Umisuika/status/2081696615421898864</guid>
     </item>
   </channel>
 </rss>

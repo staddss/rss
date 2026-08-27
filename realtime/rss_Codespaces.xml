@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】決定版クラウドIDE比較： Codespaces vs Gitpod vs Cloud9 — 実務で失敗しない選び方と導入手順 https://t.co/i1j8Uh9JqA #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2092774381676093806</link>
+      <description>EngiNear: 【新着記事】決定版クラウドIDE比較： Codespaces vs Gitpod vs Cloud9 — 実務で失敗しない選び方と導入手順 https://t.co/i1j8Uh9JqA #エンジニア #ChatGPT #AI</description>
+      <pubDate>Thu, 27 Aug 2026 00:41:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2092774381676093806</guid>
+    </item>
+    <item>
+      <title>[Link] Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Copilot】&gt;https://t.co/v26wDJqqD7</title>
+      <link>https://x.com/tech_wiki/status/2092622767166493130</link>
+      <description>技術情報Wiki: [Link] Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Copilot】&gt;https://t.co/v26wDJqqD7</description>
+      <pubDate>Wed, 26 Aug 2026 14:38:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tech_wiki/status/2092622767166493130</guid>
+    </item>
+    <item>
+      <title>coderを自宅サーバーでホストしてみたんだけど、かなり良さげかも。githubの codespaces を4倍速にしたかのような手触り</title>
+      <link>https://x.com/lkjsxc/status/2092592700491227388</link>
+      <description>lkjsxc（スク）: coderを自宅サーバーでホストしてみたんだけど、かなり良さげかも。githubの codespaces を4倍速にしたかのような手触り</description>
+      <pubDate>Wed, 26 Aug 2026 12:39:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lkjsxc/status/2092592700491227388</guid>
+    </item>
+    <item>
       <title>GitHubの Codespaces 新しく作れないし よくわからぬw Contribution:https://t.co/iAvIwrWyqX Agent DID: did:key:z6MknNZQNAKrZiaaGWvcRqzZiJiMWAibtXrfNkHivJ8B4SpY Signed Technocore record: room technocore, sequence 70510 Signed agent mailbox:https://t.co/XqrzP0vDXw @flop_labs</title>
       <link>https://x.com/one_wan_inu/status/2092490394273821006</link>
       <description>ただのいぬ: GitHubの Codespaces 新しく作れないし よくわからぬw Contribution:https://t.co/iAvIwrWyqX Agent DID: did:key:z6MknNZQNAKrZiaaGWvcRqzZiJiMWAibtXrfNkHivJ8B4SpY Signed Technocore record: room technocore, sequence 70510 Signed agent mailbox:https://t.co/XqrzP0vDXw @flop_labs</description>
@@ -255,27 +276,6 @@
       <description>okiraku_neko: VMスペック : Grok Bot &gt; Codespaces リポジトリサーバ : Origin &gt; Github ←いまここ 要するに脱マイクロソフト…</description>
       <pubDate>Thu, 13 Aug 2026 21:01:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/okiraku_neko/status/2088008010190946598</guid>
-    </item>
-    <item>
-      <title>【新着記事】結論→比較：GitHub Codespaces ／Gitpod／AWS Cloud9 の実務向け選び方と短期PoC手順 https://t.co/AwmtVCBHWi #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2087699863567769982</link>
-      <description>EngiNear: 【新着記事】結論→比較：GitHub Codespaces ／Gitpod／AWS Cloud9 の実務向け選び方と短期PoC手順 https://t.co/AwmtVCBHWi #エンジニア #ChatGPT #AI</description>
-      <pubDate>Thu, 13 Aug 2026 00:36:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2087699863567769982</guid>
-    </item>
-    <item>
-      <title>学生の間しか使えないやつ、ぜんぶ0円 ・GitHub Copilot Student ・JetBrains 全製品 ・Azure $100（カード登録なし） ・Actions 3,000分 / Codespaces 180時間 必要なのは学校のメアドとGitHubアカウントだけ。 知らないまま卒業するのが、一番もったいない！ https://t.co/jYfYE7FW3i</title>
-      <link>https://x.com/y_chu5/status/2087468031010275595</link>
-      <description>ちゅうこ / 合瀬 奏: 学生の間しか使えないやつ、ぜんぶ0円 ・GitHub Copilot Student ・JetBrains 全製品 ・Azure $100（カード登録なし） ・Actions 3,000分 / Codespaces 180時間 必要なのは学校のメアドとGitHubアカウントだけ。 知らないまま卒業するのが、一番もったいない！ https://t.co/jYfYE7FW3i</description>
-      <pubDate>Wed, 12 Aug 2026 09:15:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_chu5/status/2087468031010275595</guid>
-    </item>
-    <item>
-      <title>GitHub Codespaces でOBS Studioを動かして実益を得る人ここに現る</title>
-      <link>https://x.com/umireon/status/2087400976525537400</link>
-      <description>うみれおん（Kaito Udagawa）: GitHub Codespaces でOBS Studioを動かして実益を得る人ここに現る</description>
-      <pubDate>Wed, 12 Aug 2026 04:49:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/umireon/status/2087400976525537400</guid>
     </item>
   </channel>
 </rss>

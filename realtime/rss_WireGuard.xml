@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</title>
+      <link>https://x.com/Twit_yotuba777/status/2092738063164485660</link>
+      <description>yotuba777 #kosen26s: Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</description>
+      <pubDate>Wed, 26 Aug 2026 22:16:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Twit_yotuba777/status/2092738063164485660</guid>
+    </item>
+    <item>
+      <title>@katokonigiry 布教した甲斐あったなーって思いながら ポスト見てましたよー笑 Teleportだけじゃなくて WireGuard やらOpenVPNにまでほぼ対応していて さらにこの軽さ、、、 これは早く技適とって日本来て欲しい、、、</title>
+      <link>https://x.com/igu0j4i21yo12u/status/2092725093596295648</link>
+      <description>いぐ: @katokonigiry 布教した甲斐あったなーって思いながら ポスト見てましたよー笑 Teleportだけじゃなくて WireGuard やらOpenVPNにまでほぼ対応していて さらにこの軽さ、、、 これは早く技適とって日本来て欲しい、、、</description>
+      <pubDate>Wed, 26 Aug 2026 21:25:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/igu0j4i21yo12u/status/2092725093596295648</guid>
+    </item>
+    <item>
+      <title>@tjjh89017 うーん、と言うよりは、常時家のサーバ群に接続したり、k8sクラスタをスマホで保守したりしたくてやってますね AndroidアプリのNetmakerはユーザ空間でしか動かないので、 Wireguard がネイティブに動くLinuxカーネルがあるならそっちでやりたいという率直なモチベーションです</title>
+      <link>https://x.com/gigaonion/status/2092634542142378029</link>
+      <description>ぎがおにおん: @tjjh89017 うーん、と言うよりは、常時家のサーバ群に接続したり、k8sクラスタをスマホで保守したりしたくてやってますね AndroidアプリのNetmakerはユーザ空間でしか動かないので、 Wireguard がネイティブに動くLinuxカーネルがあるならそっちでやりたいという率直なモチベーションです</description>
+      <pubDate>Wed, 26 Aug 2026 15:25:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2092634542142378029</guid>
+    </item>
+    <item>
+      <title>wireguard でNASアクセス出来るようにした。ノーパソ買うか迷う</title>
+      <link>https://x.com/keriozzr3s/status/2092522362310996057</link>
+      <description>satobomacros: wireguard でNASアクセス出来るようにした。ノーパソ買うか迷う</description>
+      <pubDate>Wed, 26 Aug 2026 07:59:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/keriozzr3s/status/2092522362310996057</guid>
+    </item>
+    <item>
       <title>@ToukaShiro_NW そうそう 素の wireguard は無い分、tailscaleがその辺をやってくれるらしいから導入しようかなって</title>
       <link>https://x.com/SumiSumiVRC/status/2092452151935266865</link>
       <description>Sumi-Sumi: @ToukaShiro_NW そうそう 素の wireguard は無い分、tailscaleがその辺をやってくれるらしいから導入しようかなって</description>
@@ -248,34 +276,6 @@
       <description>わっきー: ルーター～VPS鯖の間に WireGuard を張って、VPS鯖に建てた Web APIサーバー（外部非公開）にアクセスすることが出来るようになった。</description>
       <pubDate>Mon, 17 Aug 2026 01:41:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wacky612_vrc/status/2089165619140968610</guid>
-    </item>
-    <item>
-      <title>NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</title>
-      <link>https://x.com/fox_aki310ooooo/status/2089004921593229533</link>
-      <description>aki310: NuttX（組み込みOS）+ WireGuard （VPNを構築するSW)のデモ on ESP32できた。。！ （お盆休みで終えられて良かった #NuttX # WireGuard https://t.co/1fgod87SNR</description>
-      <pubDate>Sun, 16 Aug 2026 15:02:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2089004921593229533</guid>
-    </item>
-    <item>
-      <title>SORAHOSTの基盤ネットワークは現在はLinuxで設定をすべて直に打って構築していますが、現在開発している次期ネットワークではAnsibleを使ったIaCでiBGP設定や WireGuard 設定を自動生成して構築しています。 頑張ってます。by ネットワークを作ってる中の人 https://t.co/mtyntVP2gl</title>
-      <link>https://x.com/11sakana1/status/2088955548167507993</link>
-      <description>さかな: SORAHOSTの基盤ネットワークは現在はLinuxで設定をすべて直に打って構築していますが、現在開発している次期ネットワークではAnsibleを使ったIaCでiBGP設定や WireGuard 設定を自動生成して構築しています。 頑張ってます。by ネットワークを作ってる中の人 https://t.co/mtyntVP2gl</description>
-      <pubDate>Sun, 16 Aug 2026 11:46:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/11sakana1/status/2088955548167507993</guid>
-    </item>
-    <item>
-      <title>VPS鯖と自宅のルーターの間に、 wireguard を引こうと思ってたけど、さすがにまた今度でいいか・・・</title>
-      <link>https://x.com/wacky612_vrc/status/2088699991137345736</link>
-      <description>わっきー: VPS鯖と自宅のルーターの間に、 wireguard を引こうと思ってたけど、さすがにまた今度でいいか・・・</description>
-      <pubDate>Sat, 15 Aug 2026 18:50:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wacky612_vrc/status/2088699991137345736</guid>
-    </item>
-    <item>
-      <title>@nanase_oikawa 手抜きか～🤔おうちの鍵なのになぁ。 WireGuard は結構前にLinuxカーネルに組み込まれてますね。</title>
-      <link>https://x.com/kinkuman_net/status/2088632383398617357</link>
-      <description>kinkuman: @nanase_oikawa 手抜きか～🤔おうちの鍵なのになぁ。 WireGuard は結構前にLinuxカーネルに組み込まれてますね。</description>
-      <pubDate>Sat, 15 Aug 2026 14:22:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kinkuman_net/status/2088632383398617357</guid>
     </item>
   </channel>
 </rss>
