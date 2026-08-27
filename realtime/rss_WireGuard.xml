@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</title>
+      <link>https://x.com/Fico184838/status/2092800895461228931</link>
+      <description>ふぃこ / Fico: Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</description>
+      <pubDate>Thu, 27 Aug 2026 02:26:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Fico184838/status/2092800895461228931</guid>
+    </item>
+    <item>
+      <title>tailscaleの wireguard 、ユーザースペースで動いてるんか</title>
+      <link>https://x.com/SumiSumiVRC/status/2092780118502752566</link>
+      <description>Sumi-Sumi: tailscaleの wireguard 、ユーザースペースで動いてるんか</description>
+      <pubDate>Thu, 27 Aug 2026 01:03:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092780118502752566</guid>
+    </item>
+    <item>
+      <title>Tailcat ― netcatのようなツールを、Tailscaleのデータプレーン上で実現 https://t.co/wgah0Q5XLk 要約:Tailcatは、Tailscaleの制御プレーンを使わず、 WireGuard 暗号化とDERP/NAT越え機能で2台を直接接続する、netcat風のOSSツールです。Tailscaleアカウントや管理者権限も不要です。</title>
+      <link>https://x.com/DerkiesAd001/status/2092747849574514919</link>
+      <description>HackerNews要約※非公式: Tailcat ― netcatのようなツールを、Tailscaleのデータプレーン上で実現 https://t.co/wgah0Q5XLk 要約:Tailcatは、Tailscaleの制御プレーンを使わず、 WireGuard 暗号化とDERP/NAT越え機能で2台を直接接続する、netcat風のOSSツールです。Tailscaleアカウントや管理者権限も不要です。</description>
+      <pubDate>Wed, 26 Aug 2026 22:55:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2092747849574514919</guid>
+    </item>
+    <item>
       <title>Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</title>
       <link>https://x.com/Twit_yotuba777/status/2092738063164485660</link>
       <description>yotuba777 #kosen26s: Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</description>
@@ -255,27 +276,6 @@
       <description>yuki (PTCGL民): 自分は Proton VPN + WireGuard で PTCGL やってます</description>
       <pubDate>Tue, 18 Aug 2026 13:17:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/22yuki_poke/status/2089703179118416303</guid>
-    </item>
-    <item>
-      <title>もしかしてVPSがSSH接続できなかったの、 wireguard がなんか悪さしてた……？</title>
-      <link>https://x.com/fugudoku_ttx/status/2089349075812725199</link>
-      <description>ふぐ毒: もしかしてVPSがSSH接続できなかったの、 wireguard がなんか悪さしてた……？</description>
-      <pubDate>Mon, 17 Aug 2026 13:50:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fugudoku_ttx/status/2089349075812725199</guid>
-    </item>
-    <item>
-      <title>Workers VPC - origin間もHTTPSするにはMASQUEじゃないとダメなんだってさ &gt; Configure the Mesh node's device profile to use MASQUE. Hostname routing does not work if the device profile uses WireGuard instead. https://t.co/Lu1tG3LMQh</title>
-      <link>https://x.com/shibanyan_1/status/2089252907539698015</link>
-      <description>しばにゃん: Workers VPC - origin間もHTTPSするにはMASQUEじゃないとダメなんだってさ &gt; Configure the Mesh node's device profile to use MASQUE. Hostname routing does not work if the device profile uses WireGuard instead. https://t.co/Lu1tG3LMQh</description>
-      <pubDate>Mon, 17 Aug 2026 07:28:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2089252907539698015</guid>
-    </item>
-    <item>
-      <title>ルーター～VPS鯖の間に WireGuard を張って、VPS鯖に建てた Web APIサーバー（外部非公開）にアクセスすることが出来るようになった。</title>
-      <link>https://x.com/wacky612_vrc/status/2089165619140968610</link>
-      <description>わっきー: ルーター～VPS鯖の間に WireGuard を張って、VPS鯖に建てた Web APIサーバー（外部非公開）にアクセスすることが出来るようになった。</description>
-      <pubDate>Mon, 17 Aug 2026 01:41:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wacky612_vrc/status/2089165619140968610</guid>
     </item>
   </channel>
 </rss>

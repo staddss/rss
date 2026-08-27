@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ひさしぶりに ChromeOS のBaguette使ったけど未だにLinuxアプリのウィンドウの閉じるボタンしかないのか。なんでこんな未完成の段階でリリースしたんや。</title>
+      <link>https://x.com/llama17/status/2092911803735109731</link>
+      <description>らま: ひさしぶりに ChromeOS のBaguette使ったけど未だにLinuxアプリのウィンドウの閉じるボタンしかないのか。なんでこんな未完成の段階でリリースしたんや。</description>
+      <pubDate>Thu, 27 Aug 2026 09:47:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/llama17/status/2092911803735109731</guid>
+    </item>
+    <item>
+      <title>@noumenmatrpg 1番上のがやっぱりオススメで、 ChromeOS 対応って書いてあったから多分パソコンのアイビスにも接続できる。恐らく</title>
+      <link>https://x.com/Uyokitrpg/status/2092885052032164032</link>
+      <description>うよき: @noumenmatrpg 1番上のがやっぱりオススメで、 ChromeOS 対応って書いてあったから多分パソコンのアイビスにも接続できる。恐らく</description>
+      <pubDate>Thu, 27 Aug 2026 08:00:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Uyokitrpg/status/2092885052032164032</guid>
+    </item>
+    <item>
+      <title>仕事に ChromeOS と会社の Googleアカウント使ってると。 この組み合わせは Incognito モードで使ってても内容が筒抜けの可能性があるが… Linuxサンドボックスに Thoriumブラウザ入れるの思いついた。実行した。 ぱっと見の見た目も同じで分からないｗ （真似して怒られても知りません😅）</title>
+      <link>https://x.com/DkneeSyen/status/2092853795504238946</link>
+      <description>Kenny (a.k.a. Dknee Syen): 仕事に ChromeOS と会社の Googleアカウント使ってると。 この組み合わせは Incognito モードで使ってても内容が筒抜けの可能性があるが… Linuxサンドボックスに Thoriumブラウザ入れるの思いついた。実行した。 ぱっと見の見た目も同じで分からないｗ （真似して怒られても知りません😅）</description>
+      <pubDate>Thu, 27 Aug 2026 05:56:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DkneeSyen/status/2092853795504238946</guid>
+    </item>
+    <item>
+      <title>【ITニュース】Googleが2025年8月26日、Chromeと ChromeOS 向けに緊急セキュリティアップデートを公開。ゼロデイ脆弱性CVE-2026-8800(V8エンジンのUse-After-Free)が実際に悪用されており、優先度「Critical」で修正。即座にパッチ適用する運用体制が重要です。(出典: Google公式ブログ) https://t.co/r3DjJAHiZ6</title>
+      <link>https://x.com/nespe_shacho/status/2092813701044949156</link>
+      <description>ネスぺ社長（CCNA・CCNP攻略）: 【ITニュース】Googleが2025年8月26日、Chromeと ChromeOS 向けに緊急セキュリティアップデートを公開。ゼロデイ脆弱性CVE-2026-8800(V8エンジンのUse-After-Free)が実際に悪用されており、優先度「Critical」で修正。即座にパッチ適用する運用体制が重要です。(出典: Google公式ブログ) https://t.co/r3DjJAHiZ6</description>
+      <pubDate>Thu, 27 Aug 2026 03:17:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nespe_shacho/status/2092813701044949156</guid>
+    </item>
+    <item>
+      <title>ChromeOS 151 に 2 回目のマイナーアップデート (151.0.7922.221) が展開開始 https://t.co/BschUX8KBO #chromebook # chromeos</title>
+      <link>https://x.com/Helen_Tech/status/2092802509211676857</link>
+      <description>おむらまさひで(HelenTech): ChromeOS 151 に 2 回目のマイナーアップデート (151.0.7922.221) が展開開始 https://t.co/BschUX8KBO #chromebook # chromeos</description>
+      <pubDate>Thu, 27 Aug 2026 02:32:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2092802509211676857</guid>
+    </item>
+    <item>
       <title>@Google Chrome Releases:Stable Channel Update for ChromeOS / ChromeOS Flex https://t.co/NxrWdjJiHn @googleより ChromeOS / ChromeOS Flex 出てます。利用されている方はアップデートを</title>
       <link>https://x.com/Syynya/status/2092754043785642072</link>
       <description>しーにゃ♪@公式: @Google Chrome Releases:Stable Channel Update for ChromeOS / ChromeOS Flex https://t.co/NxrWdjJiHn @googleより ChromeOS / ChromeOS Flex 出てます。利用されている方はアップデートを</description>
@@ -241,41 +276,6 @@
       <description>みこう悠長: chromebookというか chromeOS はX11/wayland問題が解決される前にAluminumにスライドしてしまいそう。</description>
       <pubDate>Mon, 24 Aug 2026 01:33:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/y_mikou/status/2091700301678125212</guid>
-    </item>
-    <item>
-      <title>Surface Go 3でWindowsと ChromeOS をデュアルブートしたくて色々いじってる なかなか道のりが長そう</title>
-      <link>https://x.com/ogatomo21/status/2091562218311868875</link>
-      <description>Tomoya Ogawa (小川 智也) | OgaTomo Systems: Surface Go 3でWindowsと ChromeOS をデュアルブートしたくて色々いじってる なかなか道のりが長そう</description>
-      <pubDate>Sun, 23 Aug 2026 16:24:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ogatomo21/status/2091562218311868875</guid>
-    </item>
-    <item>
-      <title>家に余ってたAtomのタブレットPCに ChromeOS Flexをインストールしてみた。Wi-Fiが繋がらないとかあるけど、動作は悪くなさそう（＇＇？</title>
-      <link>https://x.com/yumeshi/status/2091520566172025111</link>
-      <description>夢師: 家に余ってたAtomのタブレットPCに ChromeOS Flexをインストールしてみた。Wi-Fiが繋がらないとかあるけど、動作は悪くなさそう（＇＇？</description>
-      <pubDate>Sun, 23 Aug 2026 13:38:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yumeshi/status/2091520566172025111</guid>
-    </item>
-    <item>
-      <title>休日に家にいる時はテレビよりもラジオか音楽をミニコンポで聞いている吾輩。 ChromeOS Flex化したノートPCやSIM無しiPhone と接続してコミュニティFMや県内出身在住の歌うたいの歌なども。</title>
-      <link>https://x.com/nonbiri_seitai/status/2091501757306442047</link>
-      <description>うさぎ院長: 休日に家にいる時はテレビよりもラジオか音楽をミニコンポで聞いている吾輩。 ChromeOS Flex化したノートPCやSIM無しiPhone と接続してコミュニティFMや県内出身在住の歌うたいの歌なども。</description>
-      <pubDate>Sun, 23 Aug 2026 12:24:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nonbiri_seitai/status/2091501757306442047</guid>
-    </item>
-    <item>
-      <title>SDNに指定されるとどうなるか 日常的に使う端末のOSは、ほぼ100%米国製 📱スマートフォンのOS: iOSとAndroidこの2つで世界シェアの99%以上 💻パソコンのOS: WindowsとmacOSこれに米国発のオープンソースLinux&amp; ChromeOS を加えると米国OSが市場を独占 これが全て止まる。 世界の混乱を起こす元凶🫤</title>
-      <link>https://x.com/suzukenj/status/2091436675780264196</link>
-      <description>スズケン: SDNに指定されるとどうなるか 日常的に使う端末のOSは、ほぼ100%米国製 📱スマートフォンのOS: iOSとAndroidこの2つで世界シェアの99%以上 💻パソコンのOS: WindowsとmacOSこれに米国発のオープンソースLinux&amp; ChromeOS を加えると米国OSが市場を独占 これが全て止まる。 世界の混乱を起こす元凶🫤</description>
-      <pubDate>Sun, 23 Aug 2026 08:05:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/suzukenj/status/2091436675780264196</guid>
-    </item>
-    <item>
-      <title>@koume3003 いまだと代替手段が強力ですからね〜。あと Googlebook も出てくるし、 ChromeOS への機能追加は…という感じなのかも？</title>
-      <link>https://x.com/Helen_Tech/status/2091360899911315767</link>
-      <description>おむらまさひで(HelenTech): @koume3003 いまだと代替手段が強力ですからね〜。あと Googlebook も出てくるし、 ChromeOS への機能追加は…という感じなのかも？</description>
-      <pubDate>Sun, 23 Aug 2026 03:04:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2091360899911315767</guid>
     </item>
   </channel>
 </rss>

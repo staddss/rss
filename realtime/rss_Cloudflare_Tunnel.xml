@@ -5,6 +5,69 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</title>
+      <link>https://x.com/kisaraki2021/status/2092948250072666542</link>
+      <description>Kisaraki2021: Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</description>
+      <pubDate>Thu, 27 Aug 2026 12:12:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kisaraki2021/status/2092948250072666542</guid>
+    </item>
+    <item>
+      <title>@K_chachamaru @masamune_sakaki @Cloudflare … @Cloudflare は政府機関御用達のでけえCDNなので安定性もあるし無料で出来ることが死ぬほどあるのでまじでおすすめ Cloudflare tunnel 使えばルーターでポート開放せずともバイパスして鯖立てられるからねえ</title>
+      <link>https://x.com/LunarHealWisdom/status/2092918049490051235</link>
+      <description>🧸🦊Yomi Watanuki: @K_chachamaru @masamune_sakaki @Cloudflare … @Cloudflare は政府機関御用達のでけえCDNなので安定性もあるし無料で出来ることが死ぬほどあるのでまじでおすすめ Cloudflare tunnel 使えばルーターでポート開放せずともバイパスして鯖立てられるからねえ</description>
+      <pubDate>Thu, 27 Aug 2026 10:12:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2092918049490051235</guid>
+    </item>
+    <item>
+      <title>#workers_tech Cloudflare Tunnel って昔Argo Tunnelだったなあ・・・</title>
+      <link>https://x.com/sh1ma/status/2092874262445220145</link>
+      <description>sh1ma: #workers_tech Cloudflare Tunnel って昔Argo Tunnelだったなあ・・・</description>
+      <pubDate>Thu, 27 Aug 2026 07:18:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sh1ma/status/2092874262445220145</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel を使うとCloudflare側からprivateなawsに接続できるらしい便利そう （AI曰くAWSのprivate network内にcloudflaredを置き、そのcloudflaredがCloudflare側へoutbound-onlyのTunnelを張るので、Cloudflare側からはそのTunnelを逆向きに使って通信するらしい） #workers_tech</title>
+      <link>https://x.com/eycjur/status/2092858810323071279</link>
+      <description>kmuto |『先輩データサイエンティストからの指南書』: Cloudflare Tunnel を使うとCloudflare側からprivateなawsに接続できるらしい便利そう （AI曰くAWSのprivate network内にcloudflaredを置き、そのcloudflaredがCloudflare側へoutbound-onlyのTunnelを張るので、Cloudflare側からはそのTunnelを逆向きに使って通信するらしい） #workers_tech</description>
+      <pubDate>Thu, 27 Aug 2026 06:16:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/eycjur/status/2092858810323071279</guid>
+    </item>
+    <item>
+      <title>なるほど、こんな方式を使えば、キーレスでいけるのか cloudflare tunnel だけECSでやる必要があるのね https://t.co/xuHUcWukmK #wokers_tech</title>
+      <link>https://x.com/DragonTaro1031/status/2092857659628421568</link>
+      <description>Ryotaro Miyagawa: なるほど、こんな方式を使えば、キーレスでいけるのか cloudflare tunnel だけECSでやる必要があるのね https://t.co/xuHUcWukmK #wokers_tech</description>
+      <pubDate>Thu, 27 Aug 2026 06:12:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DragonTaro1031/status/2092857659628421568</guid>
+    </item>
+    <item>
+      <title>https://t.co/VtSPynxvP8 Cloudflare Tunnel とVPCを接続するのか。VPC使ってないから厳しいかも......コストがちょっと厳しくなりそう #workers_tech</title>
+      <link>https://x.com/Lemo_nade_room/status/2092857270258504111</link>
+      <description>Lemonade: https://t.co/VtSPynxvP8 Cloudflare Tunnel とVPCを接続するのか。VPC使ってないから厳しいかも......コストがちょっと厳しくなりそう #workers_tech</description>
+      <pubDate>Thu, 27 Aug 2026 06:10:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Lemo_nade_room/status/2092857270258504111</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel はいいぞ…😌 #workers_tech</title>
+      <link>https://x.com/kaiba/status/2092857204743557383</link>
+      <description>kaiba: Cloudflare Tunnel はいいぞ…😌 #workers_tech</description>
+      <pubDate>Thu, 27 Aug 2026 06:10:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kaiba/status/2092857204743557383</guid>
+    </item>
+    <item>
+      <title>@shibanyan_1 後で読むメモ😭 カンニング先の構成を踏まえて、修正した「カンペ用構成シート（完全版）」を作成しました！ 1. wrangler.jsonc（Workers VPC 設定） Workers VPC は、VPC ネットワークバインディングを設定してプライベートネットワーク（ Cloudflare Tunnel 経由のVLAN）へ通信をルーティングします。</title>
+      <link>https://x.com/huanteina_god/status/2092834510824235451</link>
+      <description>ゆるふわかめかめは🐢🐢🌊: @shibanyan_1 後で読むメモ😭 カンニング先の構成を踏まえて、修正した「カンペ用構成シート（完全版）」を作成しました！ 1. wrangler.jsonc（Workers VPC 設定） Workers VPC は、VPC ネットワークバインディングを設定してプライベートネットワーク（ Cloudflare Tunnel 経由のVLAN）へ通信をルーティングします。</description>
+      <pubDate>Thu, 27 Aug 2026 04:40:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/huanteina_god/status/2092834510824235451</guid>
+    </item>
+    <item>
+      <title>@shibanyan_1 伝書マンwithじぇみに先生 Cloudflareの公式機能（Workers VPC / Cloudflare Tunnel / Magic WAN / Access Rules）のプロトコルに完全準拠して整理します。 「調理場の分離（VLAN）」「裏口の鍵（Tunnel /</title>
+      <link>https://x.com/huanteina_god/status/2092829334516187386</link>
+      <description>ゆるふわかめかめは🐢🐢🌊: @shibanyan_1 伝書マンwithじぇみに先生 Cloudflareの公式機能（Workers VPC / Cloudflare Tunnel / Magic WAN / Access Rules）のプロトコルに完全準拠して整理します。 「調理場の分離（VLAN）」「裏口の鍵（Tunnel /</description>
+      <pubDate>Thu, 27 Aug 2026 04:19:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/huanteina_god/status/2092829334516187386</guid>
+    </item>
+    <item>
       <title>こないだ Cloudflare tunnel というサービスの存在を聞いて、それ使えばポート解放しないでマイクラのサーバー建てれるんじゃね？と思ったら案の定開けるっぽい 試してみるか…</title>
       <link>https://x.com/yuslime/status/2092121870435020913</link>
       <description>po-ki-: こないだ Cloudflare tunnel というサービスの存在を聞いて、それ使えばポート解放しないでマイクラのサーバー建てれるんじゃね？と思ったら案の定開けるっぽい 試してみるか…</description>
@@ -213,76 +276,6 @@
       <description>Ethan: Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</description>
       <pubDate>Tue, 11 Aug 2026 04:09:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/YaJonhFK/status/2087028638466388100</guid>
-    </item>
-    <item>
-      <title>うーん、バックエンド側までは Cloudflare Tunnel + Access の設定が完了したけど、フロントエンドは実行不可でした。環境構築のほうは、明日はここからかな。今日の反省ポイントは、環境構築の変更を思いだってすぐしないってことだな。というのも、５時間くらい溶けたんで。</title>
-      <link>https://x.com/SeahalJa/status/2086811548266410061</link>
-      <description>SEAHAL(Ja): うーん、バックエンド側までは Cloudflare Tunnel + Access の設定が完了したけど、フロントエンドは実行不可でした。環境構築のほうは、明日はここからかな。今日の反省ポイントは、環境構築の変更を思いだってすぐしないってことだな。というのも、５時間くらい溶けたんで。</description>
-      <pubDate>Mon, 10 Aug 2026 13:46:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086811548266410061</guid>
-    </item>
-    <item>
-      <title>いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</title>
-      <link>https://x.com/SeahalJa/status/2086763436063776852</link>
-      <description>SEAHAL(Ja): いま苦労してる理由なんだが、たぶん設計が悪いのだ。というのも、１つの Cloudflare Tunnel に① Cloudflare Workers VPC の経路 ② Cloudflare Access の2経路あって、かつ A) Rails B) NextJS が非公開ネットワークにコンテナで参加してるからで、これに公開ネットワーク部も存在してるからだろう。</description>
-      <pubDate>Mon, 10 Aug 2026 10:35:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086763436063776852</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel x k8sが結局最強なんだよな</title>
-      <link>https://x.com/Imissdjj/status/2086762494585106698</link>
-      <description>夢見るデリジョン: cloudflare tunnel x k8sが結局最強なんだよな</description>
-      <pubDate>Mon, 10 Aug 2026 10:32:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Imissdjj/status/2086762494585106698</guid>
-    </item>
-    <item>
-      <title>本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</title>
-      <link>https://x.com/SeahalJa/status/2086672833854538211</link>
-      <description>SEAHAL(Ja): 本当は開発機の組み立てもしたいが、今日は Cloudflare の環境で開発環境の構築をやりきらないと、マジで後退するだけだからやりきろう。 Cloudflare Tunnel + Access + Registers + workers vpc を連結するだけだ。Rails と各種のアプリの連結ができるって最高じゃん。土木ならテープカットの日だぞ。</description>
-      <pubDate>Mon, 10 Aug 2026 04:35:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086672833854538211</guid>
-    </item>
-    <item>
-      <title>@kakaka__082 そもそも cloudflare tunnel のコア数のシステム要件満たしてないかも？ https://t.co/ib8URkUYXb</title>
-      <link>https://x.com/b1U9O0DCwp66992/status/2086665564676915472</link>
-      <description>でかモナド: @kakaka__082 そもそも cloudflare tunnel のコア数のシステム要件満たしてないかも？ https://t.co/ib8URkUYXb</description>
-      <pubDate>Mon, 10 Aug 2026 04:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/b1U9O0DCwp66992/status/2086665564676915472</guid>
-    </item>
-    <item>
-      <title>午前の成果ですが、FrontEnd 部品で Cloudflare Workers VPC を経由して別の Podman でアクセスしている Rails に NextJS からフェッチして、情報を収集するというのは完全になりました。午後は、ローカル開発環境を Cloudflare Tunnel で外部に公開して、独自ドメインを添付して、それを Access ...</title>
-      <link>https://x.com/SeahalJa/status/2086648508338291086</link>
-      <description>SEAHAL(Ja): 午前の成果ですが、FrontEnd 部品で Cloudflare Workers VPC を経由して別の Podman でアクセスしている Rails に NextJS からフェッチして、情報を収集するというのは完全になりました。午後は、ローカル開発環境を Cloudflare Tunnel で外部に公開して、独自ドメインを添付して、それを Access ...</description>
-      <pubDate>Mon, 10 Aug 2026 02:59:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086648508338291086</guid>
-    </item>
-    <item>
-      <title>VPS代を惜しみ、放置していたCMF Phone 1（8コアARM/8GB RAM）を自宅サーバー化。postmarketOSは失敗し、stock AndroidのままTermuxをホストにrunitとCaddyを運用。PRootのオーバーヘッドを避けchroot化し、 Cloudflare Tunnel で公開 / my server is a phone now https://t.co/2Kzgzr07pr</title>
-      <link>https://x.com/__su888/status/2086574743755407632</link>
-      <description>su8 / denchu: VPS代を惜しみ、放置していたCMF Phone 1（8コアARM/8GB RAM）を自宅サーバー化。postmarketOSは失敗し、stock AndroidのままTermuxをホストにrunitとCaddyを運用。PRootのオーバーヘッドを避けchroot化し、 Cloudflare Tunnel で公開 / my server is a phone now https://t.co/2Kzgzr07pr</description>
-      <pubDate>Sun, 09 Aug 2026 22:06:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__su888/status/2086574743755407632</guid>
-    </item>
-    <item>
-      <title>おはようございます。今日は、午後から街散策します。午前中は Astro の改修と Cloudflare Tunnel と Access と Workers VPC のセットアップします。つまり、Rails と Edge のローカル開発環境は完全分離とします。夜は AWS の組織について学習しようと思います。それでは皆さん、本日もご安全に！</title>
-      <link>https://x.com/SeahalJa/status/2086223033824633098</link>
-      <description>SEAHAL(Ja): おはようございます。今日は、午後から街散策します。午前中は Astro の改修と Cloudflare Tunnel と Access と Workers VPC のセットアップします。つまり、Rails と Edge のローカル開発環境は完全分離とします。夜は AWS の組織について学習しようと思います。それでは皆さん、本日もご安全に！</description>
-      <pubDate>Sat, 08 Aug 2026 22:48:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2086223033824633098</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 便利すぎるね ローカルテスト(スマホ)のCORS問題が一気に解消された</title>
-      <link>https://x.com/yy_kuso/status/2086102229069729895</link>
-      <description>ゎぃゎぃ: Cloudflare Tunnel 便利すぎるね ローカルテスト(スマホ)のCORS問題が一気に解消された</description>
-      <pubDate>Sat, 08 Aug 2026 14:48:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yy_kuso/status/2086102229069729895</guid>
-    </item>
-    <item>
-      <title>ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</title>
-      <link>https://x.com/comocc/status/2086035397361250724</link>
-      <description>Akihiro Komori: ZenohのRESTプラグインと Cloudflare Tunnel で、自宅のROS 2のシステムを簡単にクラウドから監視したり制御したりできるのでマジ便利。一度Docker化しておけば後はやりたい放題。</description>
-      <pubDate>Sat, 08 Aug 2026 10:22:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/comocc/status/2086035397361250724</guid>
     </item>
   </channel>
 </rss>
