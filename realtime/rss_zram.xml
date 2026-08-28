@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>zstdと言って、 zram が改善するのかな、と真っ先に思ったけど、記事読むとKVMに影響あるらしい。 まあどちらも使ってるので嬉しい改善であることには変わりないけど。 https://t.co/dSbUow0DUH</title>
+      <link>https://x.com/mokyuazarashi/status/2092948331677032861</link>
+      <description>あざらし: zstdと言って、 zram が改善するのかな、と真っ先に思ったけど、記事読むとKVMに影響あるらしい。 まあどちらも使ってるので嬉しい改善であることには変わりないけど。 https://t.co/dSbUow0DUH</description>
+      <pubDate>Thu, 27 Aug 2026 12:12:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mokyuazarashi/status/2092948331677032861</guid>
+    </item>
+    <item>
       <title>zram でメモリ圧縮してサーバ費用を節約できるか試してみた https://t.co/59nCeXBgfC パッケージのアップデートがt3.smallだと失敗するのでswap作ったけど、 zram でもいけたかな?</title>
       <link>https://x.com/karyu2026/status/2090900049165488184</link>
       <description>火龍: zram でメモリ圧縮してサーバ費用を節約できるか試してみた https://t.co/59nCeXBgfC パッケージのアップデートがt3.smallだと失敗するのでswap作ったけど、 zram でもいけたかな?</description>

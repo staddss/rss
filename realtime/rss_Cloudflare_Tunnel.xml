@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</title>
+      <link>https://x.com/SeahalJa/status/2093366595540427235</link>
+      <description>SEAHAL(Ja): さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</description>
+      <pubDate>Fri, 28 Aug 2026 15:54:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2093366595540427235</guid>
+    </item>
+    <item>
+      <title>@takano32 子供のマイクラサーバー、 cloudflare tunnel とかだとUDPが面倒だし playit\.gg使うかなーとか思ってたところだったのでありがたいです。 タイミングよく見かけて助かりました。</title>
+      <link>https://x.com/methane/status/2093268420292903423</link>
+      <description>methane: @takano32 子供のマイクラサーバー、 cloudflare tunnel とかだとUDPが面倒だし playit\.gg使うかなーとか思ってたところだったのでありがたいです。 タイミングよく見かけて助かりました。</description>
+      <pubDate>Fri, 28 Aug 2026 09:24:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/methane/status/2093268420292903423</guid>
+    </item>
+    <item>
+      <title>出先からMacのHermesと話したくて、LINE連携に挑戦しました。ngrokで試し、 Cloudflare Tunnel でURLを固定し、launchdで常駐化。ターミナルを開きっぱなしにしない「工房ホットライン」ができるまでを書きました。https://t.co/DOrDdHQpJk</title>
+      <link>https://x.com/EguchiMinori/status/2093210750911459635</link>
+      <description>Minori ＠ 鉄の女（Webサイト再構築中）: 出先からMacのHermesと話したくて、LINE連携に挑戦しました。ngrokで試し、 Cloudflare Tunnel でURLを固定し、launchdで常駐化。ターミナルを開きっぱなしにしない「工房ホットライン」ができるまでを書きました。https://t.co/DOrDdHQpJk</description>
+      <pubDate>Fri, 28 Aug 2026 05:35:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EguchiMinori/status/2093210750911459635</guid>
+    </item>
+    <item>
+      <title>Q：友達のVRMデータはどうするの？ A：配信者側で Cloudflare Tunnel を設定してもらい、そのURLにアクセスしてもらい、そこでVRMモデルを設定します。その後、ルームコードで同期を取るとルーム参加時にVRMモデル・モーションを通信します（なのでVRMモデルのやりとりはないです）</title>
+      <link>https://x.com/ugdoctor/status/2093013227429065046</link>
+      <description>ugdoctor: Q：友達のVRMデータはどうするの？ A：配信者側で Cloudflare Tunnel を設定してもらい、そのURLにアクセスしてもらい、そこでVRMモデルを設定します。その後、ルームコードで同期を取るとルーム参加時にVRMモデル・モーションを通信します（なのでVRMモデルのやりとりはないです）</description>
+      <pubDate>Thu, 27 Aug 2026 16:30:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ugdoctor/status/2093013227429065046</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel を使って家のMac miniをサーバーにできた。</title>
       <link>https://x.com/vgnz93hs_X/status/2092994859930152979</link>
       <description>vgnz93hs: Cloudflare Tunnel を使って家のMac miniをサーバーにできた。</description>
@@ -248,34 +276,6 @@
       <description>玄 律暁（げん りつあき）@ノベルゲーム制作サークルのメンバー募集中！: 続いて試したのがNocoDBというもの。Notionよりも関数強い。なにしろ裏ではSQLそのものが動いている。 また、セルフサーバーを立てた場合は完全無料。当然、その方法を用いた。外部から第三者にアクセスしてもらう場合は Cloudflare Tunnel を使用する方法がベスト。UIは好みによるけどNotionが上かな。</description>
       <pubDate>Sat, 15 Aug 2026 04:07:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/flzroche/status/2088477630941315077</guid>
-    </item>
-    <item>
-      <title>めっちゃニッチな話だけど、 Cloudflare Tunnel とTailscaleで自宅のUbuntuサーバーを繋いで、Caddyでリバースプロキシしてる Next.jsのアプリも ドメイン名:3000 でそのまま外部から開けるようにしてある デメリットはあのサービスは何番だっけ？となること https://t.co/JBS9XAmKUU</title>
-      <link>https://x.com/aviate_takumi/status/2088199419523199010</link>
-      <description>Takumi Ueno / AVIATE CTO: めっちゃニッチな話だけど、 Cloudflare Tunnel とTailscaleで自宅のUbuntuサーバーを繋いで、Caddyでリバースプロキシしてる Next.jsのアプリも ドメイン名:3000 でそのまま外部から開けるようにしてある デメリットはあのサービスは何番だっけ？となること https://t.co/JBS9XAmKUU</description>
-      <pubDate>Fri, 14 Aug 2026 09:41:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aviate_takumi/status/2088199419523199010</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel どんなもんなんだろう</title>
-      <link>https://x.com/34paBcTByNTe/status/2088182117893345478</link>
-      <description>ほろろ: cloudflare tunnel どんなもんなんだろう</description>
-      <pubDate>Fri, 14 Aug 2026 08:33:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/34paBcTByNTe/status/2088182117893345478</guid>
-    </item>
-    <item>
-      <title>Soli Sandboxからローカルサーバーに入ってデータ取得できた Geminiにコード解析とサイト作成してもらって Cloudflare Tunnel でhttps化した https://t.co/bzhqhjSqhz</title>
-      <link>https://x.com/Suba_X1/status/2087415427760885853</link>
-      <description>Suba: Soli Sandboxからローカルサーバーに入ってデータ取得できた Geminiにコード解析とサイト作成してもらって Cloudflare Tunnel でhttps化した https://t.co/bzhqhjSqhz</description>
-      <pubDate>Wed, 12 Aug 2026 05:46:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Suba_X1/status/2087415427760885853</guid>
-    </item>
-    <item>
-      <title>@4tsxml 今使ってるのは * 株関係を ai に調べさせたことをまとめたり指標を確認するためのダッシュボード * cloudflare のモックサーバー * 特許関係の生成や確認をするサーバー とかとかです、こういうのを常駐させて cloudflare tunnel つかって外部インターネットからでも見える（認証付き）にするの良き</title>
-      <link>https://x.com/XiroGA3/status/2087401144708743562</link>
-      <description>しろがみちゃんーむやみに金を使わない: @4tsxml 今使ってるのは * 株関係を ai に調べさせたことをまとめたり指標を確認するためのダッシュボード * cloudflare のモックサーバー * 特許関係の生成や確認をするサーバー とかとかです、こういうのを常駐させて cloudflare tunnel つかって外部インターネットからでも見える（認証付き）にするの良き</description>
-      <pubDate>Wed, 12 Aug 2026 04:49:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/XiroGA3/status/2087401144708743562</guid>
     </item>
   </channel>
 </rss>

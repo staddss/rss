@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【 Rclone をGUIで自動化】クラウドバックアップ最適化ツール「RcloneBackupAutomator」 https://t.co/h8WV3lnWJU</title>
+      <link>https://x.com/kumayyxx/status/2093268923974385940</link>
+      <description>かじ@管理人: 【 Rclone をGUIで自動化】クラウドバックアップ最適化ツール「RcloneBackupAutomator」 https://t.co/h8WV3lnWJU</description>
+      <pubDate>Fri, 28 Aug 2026 09:26:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kumayyxx/status/2093268923974385940</guid>
+    </item>
+    <item>
+      <title>rclone って何？</title>
+      <link>https://x.com/haruo2177/status/2093150298135208243</link>
+      <description>やぐちはるお@LangCore VPoE: rclone って何？</description>
+      <pubDate>Fri, 28 Aug 2026 01:34:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haruo2177/status/2093150298135208243</guid>
+    </item>
+    <item>
       <title>と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</title>
       <link>https://x.com/jnakata2014/status/2092292643502075932</link>
       <description>Junichi Nakata (そせじ番長) : Japanese IT engineer: と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</description>
@@ -262,20 +276,6 @@
       <description>ht164: 家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</description>
       <pubDate>Fri, 31 Jul 2026 19:57:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ht164/status/2083281009622282411</guid>
-    </item>
-    <item>
-      <title>Proton Driveと rclone のチューニングはできた 初回読み込みが遅いのはまぁ仕方がない。</title>
-      <link>https://x.com/sophia4172/status/2082465749160116268</link>
-      <description>セリ科: Proton Driveと rclone のチューニングはできた 初回読み込みが遅いのはまぁ仕方がない。</description>
-      <pubDate>Wed, 29 Jul 2026 13:58:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sophia4172/status/2082465749160116268</guid>
-    </item>
-    <item>
-      <title>rclone のmount便利すぎる もっと前から使えばよかった</title>
-      <link>https://x.com/Fuyu2356/status/2082379894248612317</link>
-      <description>ふゆ: rclone のmount便利すぎる もっと前から使えばよかった</description>
-      <pubDate>Wed, 29 Jul 2026 08:17:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Fuyu2356/status/2082379894248612317</guid>
     </item>
   </channel>
 </rss>

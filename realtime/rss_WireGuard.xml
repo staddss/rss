@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>https://t.co/oy4uiqkwu6 WireGuard 対応！待ってた！ https://t.co/IIgbiUH1Pz</title>
+      <link>https://x.com/illumi_key/status/2093343384710848601</link>
+      <description>いるみん: https://t.co/oy4uiqkwu6 WireGuard 対応！待ってた！ https://t.co/IIgbiUH1Pz</description>
+      <pubDate>Fri, 28 Aug 2026 14:22:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/illumi_key/status/2093343384710848601</guid>
+    </item>
+    <item>
+      <title>Tailscaleの代替を考えると WireGuard だけでは足りない https://t.co/rMNVCoP6ey</title>
+      <link>https://x.com/oyamarindou/status/2093272355900633220</link>
+      <description>しおうめ: Tailscaleの代替を考えると WireGuard だけでは足りない https://t.co/rMNVCoP6ey</description>
+      <pubDate>Fri, 28 Aug 2026 09:39:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyamarindou/status/2093272355900633220</guid>
+    </item>
+    <item>
+      <title>@yadex205_vj https://t.co/gTh7nFoytJ みたいなので、OpenWRTからやる方がちっちゃくって良い。 Wireguard もそこそこ速度出るので</title>
+      <link>https://x.com/yamaken/status/2093255795463036984</link>
+      <description>やまけん: @yadex205_vj https://t.co/gTh7nFoytJ みたいなので、OpenWRTからやる方がちっちゃくって良い。 Wireguard もそこそこ速度出るので</description>
+      <pubDate>Fri, 28 Aug 2026 08:34:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamaken/status/2093255795463036984</guid>
+    </item>
+    <item>
+      <title>@bb_mase2 wireguard に全て賭けろじゃ駄目❓</title>
+      <link>https://x.com/nt48_/status/2093249394623840314</link>
+      <description>nt (無添加): @bb_mase2 wireguard に全て賭けろじゃ駄目❓</description>
+      <pubDate>Fri, 28 Aug 2026 08:08:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nt48_/status/2093249394623840314</guid>
+    </item>
+    <item>
+      <title>@mario_2333 試試warp的 Wireguard 能不能穿透👀</title>
+      <link>https://x.com/Adrawta/status/2093144947952332896</link>
+      <description>raw_data💫: @mario_2333 試試warp的 Wireguard 能不能穿透👀</description>
+      <pubDate>Fri, 28 Aug 2026 01:13:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Adrawta/status/2093144947952332896</guid>
+    </item>
+    <item>
       <title>WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</title>
       <link>https://x.com/mizktw/status/2093009352307474501</link>
       <description>水: WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</description>
@@ -241,41 +276,6 @@
       <description>しばにゃん: @_kokt_vrc https://t.co/PhSjONXT1i で詰まってるとなると望み薄な感じしますが、一応 WireGuard モードのエンドポイントは 2606:4700:100::a29f:c101 ら辺です</description>
       <pubDate>Wed, 19 Aug 2026 14:41:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shibanyan_1/status/2090086656359698907</guid>
-    </item>
-    <item>
-      <title>🌍研究留学でVPN遅延？海外でも安定通信が必須ですよね。即効対策：①サーバー変更② WireGuard 選択③再起動④有線接続⑤バックグラウンドアプリ停止。これだけで改善率UP！🚀 #医学留学 #海外研究生活</title>
-      <link>https://x.com/NotforgetL/status/2090008474134429873</link>
-      <description>海凪（かいなぎ）@アメリカ研究留学ブログ: 🌍研究留学でVPN遅延？海外でも安定通信が必須ですよね。即効対策：①サーバー変更② WireGuard 選択③再起動④有線接続⑤バックグラウンドアプリ停止。これだけで改善率UP！🚀 #医学留学 #海外研究生活</description>
-      <pubDate>Wed, 19 Aug 2026 09:30:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NotforgetL/status/2090008474134429873</guid>
-    </item>
-    <item>
-      <title>しばらく前に自前 Wireguard からTailscaleに移したんだけども、結局自前 Wireguard に戻ってきてしまった</title>
-      <link>https://x.com/rv64gc/status/2090007818481070389</link>
-      <description>みゅ: しばらく前に自前 Wireguard からTailscaleに移したんだけども、結局自前 Wireguard に戻ってきてしまった</description>
-      <pubDate>Wed, 19 Aug 2026 09:27:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rv64gc/status/2090007818481070389</guid>
-    </item>
-    <item>
-      <title>別にOSPF + BIRD + BFD on WireGuard があるなら、L2ブリッジしなくてもVultrの/64のGUAをローカルまで持ってきてホスト出来るくない？？？？？</title>
-      <link>https://x.com/harishimizu/status/2089982677437071520</link>
-      <description>針泉@大鏡路地: 別にOSPF + BIRD + BFD on WireGuard があるなら、L2ブリッジしなくてもVultrの/64のGUAをローカルまで持ってきてホスト出来るくない？？？？？</description>
-      <pubDate>Wed, 19 Aug 2026 07:47:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/harishimizu/status/2089982677437071520</guid>
-    </item>
-    <item>
-      <title>そういや、AndroidOSはカーネル的には wireguard にネイティブ対応しているはずだけど、そういうツールは出ているんだろか https://t.co/XF09NYUNlf</title>
-      <link>https://x.com/gigaonion/status/2089968931964621227</link>
-      <description>ぎがおにおん: そういや、AndroidOSはカーネル的には wireguard にネイティブ対応しているはずだけど、そういうツールは出ているんだろか https://t.co/XF09NYUNlf</description>
-      <pubDate>Wed, 19 Aug 2026 06:53:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigaonion/status/2089968931964621227</guid>
-    </item>
-    <item>
-      <title>【新着記事】 さくらのクラウドで WireGuard を試してみた（後編） LinuxサーバをVPNゲートウェイ化し、NAPT経由のクラウド接続を検証しました。 https://t.co/TU8myTm6dC #さくらのクラウド # WireGuard #VPN #さくらのクラウドラボ</title>
-      <link>https://x.com/NETASSIST_/status/2089902673151873516</link>
-      <description>株式会社ネットアシスト【公式】: 【新着記事】 さくらのクラウドで WireGuard を試してみた（後編） LinuxサーバをVPNゲートウェイ化し、NAPT経由のクラウド接続を検証しました。 https://t.co/TU8myTm6dC #さくらのクラウド # WireGuard #VPN #さくらのクラウドラボ</description>
-      <pubDate>Wed, 19 Aug 2026 02:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NETASSIST_/status/2089902673151873516</guid>
     </item>
   </channel>
 </rss>
