@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</title>
+      <link>https://x.com/mizktw/status/2093009352307474501</link>
+      <description>水: WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</description>
+      <pubDate>Thu, 27 Aug 2026 16:14:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mizktw/status/2093009352307474501</guid>
+    </item>
+    <item>
+      <title>わっつにゅー 実際に使われているポートだけ解放して他を全部閉じた + Wireguard …と思ってたけどTailscale導入してSSHの22番ポートも塞いだ https://t.co/ONFE5pigoI</title>
+      <link>https://x.com/50radish/status/2092962343336726978</link>
+      <description>五十鈴お嬢様(𝗥𝗲:𝗩𝗜𝗩𝗘): わっつにゅー 実際に使われているポートだけ解放して他を全部閉じた + Wireguard …と思ってたけどTailscale導入してSSHの22番ポートも塞いだ https://t.co/ONFE5pigoI</description>
+      <pubDate>Thu, 27 Aug 2026 13:08:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/50radish/status/2092962343336726978</guid>
+    </item>
+    <item>
       <title>Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</title>
       <link>https://x.com/Fico184838/status/2092800895461228931</link>
       <description>ふぃこ / Fico: Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</description>
@@ -262,20 +276,6 @@
       <description>株式会社ネットアシスト【公式】: 【新着記事】 さくらのクラウドで WireGuard を試してみた（後編） LinuxサーバをVPNゲートウェイ化し、NAPT経由のクラウド接続を検証しました。 https://t.co/TU8myTm6dC #さくらのクラウド # WireGuard #VPN #さくらのクラウドラボ</description>
       <pubDate>Wed, 19 Aug 2026 02:30:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NETASSIST_/status/2089902673151873516</guid>
-    </item>
-    <item>
-      <title>zerotierから wireguard に移行</title>
-      <link>https://x.com/knmusicstudio/status/2089798667293360142</link>
-      <description>Syo.D🔯KuroNekoMusicStudio: zerotierから wireguard に移行</description>
-      <pubDate>Tue, 18 Aug 2026 19:36:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/knmusicstudio/status/2089798667293360142</guid>
-    </item>
-    <item>
-      <title>自分は Proton VPN + WireGuard で PTCGL やってます</title>
-      <link>https://x.com/22yuki_poke/status/2089703179118416303</link>
-      <description>yuki (PTCGL民): 自分は Proton VPN + WireGuard で PTCGL やってます</description>
-      <pubDate>Tue, 18 Aug 2026 13:17:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/22yuki_poke/status/2089703179118416303</guid>
     </item>
   </channel>
 </rss>

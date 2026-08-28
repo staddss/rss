@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel を使って家のMac miniをサーバーにできた。</title>
+      <link>https://x.com/vgnz93hs_X/status/2092994859930152979</link>
+      <description>vgnz93hs: Cloudflare Tunnel を使って家のMac miniをサーバーにできた。</description>
+      <pubDate>Thu, 27 Aug 2026 15:17:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/vgnz93hs_X/status/2092994859930152979</guid>
+    </item>
+    <item>
+      <title>@KENsr20det 絶対俺のことで草 家のネット落ちたらログアウトされちゃう気がしますね 自分の場合は落ちないようにバックアップ回線組んで、 Cloudflare Tunnel とかのゼロトラスト噛ませて冗長化してます。</title>
+      <link>https://x.com/TINA_FAN_BOY/status/2092978792612630618</link>
+      <description>こむぎ: @KENsr20det 絶対俺のことで草 家のネット落ちたらログアウトされちゃう気がしますね 自分の場合は落ちないようにバックアップ回線組んで、 Cloudflare Tunnel とかのゼロトラスト噛ませて冗長化してます。</description>
+      <pubDate>Thu, 27 Aug 2026 14:13:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TINA_FAN_BOY/status/2092978792612630618</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</title>
       <link>https://x.com/kisaraki2021/status/2092948250072666542</link>
       <description>Kisaraki2021: Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</description>
@@ -262,20 +276,6 @@
       <description>しろがみちゃんーむやみに金を使わない: @4tsxml 今使ってるのは * 株関係を ai に調べさせたことをまとめたり指標を確認するためのダッシュボード * cloudflare のモックサーバー * 特許関係の生成や確認をするサーバー とかとかです、こういうのを常駐させて cloudflare tunnel つかって外部インターネットからでも見える（認証付き）にするの良き</description>
       <pubDate>Wed, 12 Aug 2026 04:49:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/XiroGA3/status/2087401144708743562</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel つながんなくてまいった</title>
-      <link>https://x.com/acinomiya/status/2087343684476080143</link>
-      <description>あし: cloudflare tunnel つながんなくてまいった</description>
-      <pubDate>Wed, 12 Aug 2026 01:01:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/acinomiya/status/2087343684476080143</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</title>
-      <link>https://x.com/YaJonhFK/status/2087028638466388100</link>
-      <description>Ethan: Cloudflare Tunnel VS Cloudflare Mesh 的区别. 前者是內部服務對外開放零信任訪問. 後者是組建私網互通. https://t.co/ZLxhTCityv</description>
-      <pubDate>Tue, 11 Aug 2026 04:09:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YaJonhFK/status/2087028638466388100</guid>
     </item>
   </channel>
 </rss>

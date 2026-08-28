@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE比較（2026年版）— Codespaces ・Gitpod・Cloud9の最短選定ガイド＋1か月POC手順 https://t.co/kKFaxH6RIQ #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2093136872096629207</link>
+      <description>EngiNear: 【新着記事】クラウドIDE比較（2026年版）— Codespaces ・Gitpod・Cloud9の最短選定ガイド＋1か月POC手順 https://t.co/kKFaxH6RIQ #エンジニア #ChatGPT #AI</description>
+      <pubDate>Fri, 28 Aug 2026 00:41:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2093136872096629207</guid>
+    </item>
+    <item>
       <title>@MakkWylde @Hirotaro_app 諸般の事情で安価なwindows・ディスクトップ😳 ブラウザでGitHub Codespaces にアクセスして要求を伝えるだけ😂全部サーバーが対応してくれて、スクショして❗と言うだけや😂 一応、メモリー32GB，VRAM32GBのPC お金で解決できる問題に時間を使うのはアホらしい🤔</title>
       <link>https://x.com/mm5229564134084/status/2092975676358087091</link>
       <description>m m: @MakkWylde @Hirotaro_app 諸般の事情で安価なwindows・ディスクトップ😳 ブラウザでGitHub Codespaces にアクセスして要求を伝えるだけ😂全部サーバーが対応してくれて、スクショして❗と言うだけや😂 一応、メモリー32GB，VRAM32GBのPC お金で解決できる問題に時間を使うのはアホらしい🤔</description>
       <pubDate>Thu, 27 Aug 2026 14:01:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mm5229564134084/status/2092975676358087091</guid>
+    </item>
+    <item>
+      <title>こういうトレンド毎回あって、ちょっと前はGitHub Codespaces あればVS Codeいらないんじゃね？論争だったけど、結局ローカルで開発する人が減らなかったのはやっぱりいろいろ制約があって使い勝手がよくないからなんよね Claude Code Webも Codespaces もちょこっと使う分にはとても便利なんだけど</title>
+      <link>https://x.com/yutkat/status/2092810450815893807</link>
+      <description>yutkat: こういうトレンド毎回あって、ちょっと前はGitHub Codespaces あればVS Codeいらないんじゃね？論争だったけど、結局ローカルで開発する人が減らなかったのはやっぱりいろいろ制約があって使い勝手がよくないからなんよね Claude Code Webも Codespaces もちょこっと使う分にはとても便利なんだけど</description>
+      <pubDate>Thu, 27 Aug 2026 03:04:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yutkat/status/2092810450815893807</guid>
     </item>
     <item>
       <title>25いいね！ | Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Cop... https://t.co/PfG49tFsde https://t.co/iqCXypb8Hb</title>
@@ -269,13 +283,6 @@
       <description>くさば: @_handle_name @ymd65536 何の開発しているかにもよりますけども例えばVS Codeを使って開発しているのでしたらたいていはGitHub Codespaces でクラウド側での開発ができるのではと思います。 ※一定までは無料で行けますが課金体系は確認してください</description>
       <pubDate>Sat, 15 Aug 2026 23:54:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tomo_kusaba/status/2088776451957096485</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・AWS Cloud9を実務でどう選ぶか（PoCチェックリスト付き） https://t.co/YUIWqZamLw #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2088425807010013453</link>
-      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・AWS Cloud9を実務でどう選ぶか（PoCチェックリスト付き） https://t.co/YUIWqZamLw #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sat, 15 Aug 2026 00:41:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2088425807010013453</guid>
     </item>
   </channel>
 </rss>
