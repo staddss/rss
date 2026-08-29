@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AWSでUbuntu立てて WireGuard 接続できるようにした。AIの言いなりになっただけだけど、おもろいなこれ</title>
+      <link>https://x.com/AritelV/status/2093389650790605044</link>
+      <description>Aritel(ありてる): AWSでUbuntu立てて WireGuard 接続できるようにした。AIの言いなりになっただけだけど、おもろいなこれ</description>
+      <pubDate>Fri, 28 Aug 2026 17:26:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AritelV/status/2093389650790605044</guid>
+    </item>
+    <item>
       <title>https://t.co/oy4uiqkwu6 WireGuard 対応！待ってた！ https://t.co/IIgbiUH1Pz</title>
       <link>https://x.com/illumi_key/status/2093343384710848601</link>
       <description>いるみん: https://t.co/oy4uiqkwu6 WireGuard 対応！待ってた！ https://t.co/IIgbiUH1Pz</description>
@@ -269,13 +276,6 @@
       <description>ぎがおにおん: 想像より伸びてるので補足 Limuxカーネルは、 Wireguard にネイティブ対応しているので、Androidでもroot権限与えればネイティブで使えるのでは、と思って試したら使えてびっくりという状況 https://t.co/B8MlstQqW8 https://t.co/cYhlpA1uzn</description>
       <pubDate>Wed, 19 Aug 2026 22:56:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gigaonion/status/2090211394172186735</guid>
-    </item>
-    <item>
-      <title>@_kokt_vrc https://t.co/PhSjONXT1i で詰まってるとなると望み薄な感じしますが、一応 WireGuard モードのエンドポイントは 2606:4700:100::a29f:c101 ら辺です</title>
-      <link>https://x.com/shibanyan_1/status/2090086656359698907</link>
-      <description>しばにゃん: @_kokt_vrc https://t.co/PhSjONXT1i で詰まってるとなると望み薄な感じしますが、一応 WireGuard モードのエンドポイントは 2606:4700:100::a29f:c101 ら辺です</description>
-      <pubDate>Wed, 19 Aug 2026 14:41:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibanyan_1/status/2090086656359698907</guid>
     </item>
   </channel>
 </rss>

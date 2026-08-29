@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</title>
+      <link>https://x.com/mikoshiba_kyu/status/2093511207701323916</link>
+      <description>御子柴きゅう: やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</description>
+      <pubDate>Sat, 29 Aug 2026 01:29:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mikoshiba_kyu/status/2093511207701323916</guid>
+    </item>
+    <item>
+      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9、どれを選ぶべきか（結論＋検証手順付き） https://t.co/4c7jvnXrfB #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2093496717849010189</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9、どれを選ぶべきか（結論＋検証手順付き） https://t.co/4c7jvnXrfB #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 29 Aug 2026 00:31:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2093496717849010189</guid>
+    </item>
+    <item>
+      <title>垢作った でも俺基本 CodeSpaces 使うから結構低浮上 https://t.co/OO2DXxCijc</title>
+      <link>https://x.com/kienzan114514/status/2093243872998736326</link>
+      <description>ばるむんく🀄🎸@受験期低浮上/合唱祭の指揮者: 垢作った でも俺基本 CodeSpaces 使うから結構低浮上 https://t.co/OO2DXxCijc</description>
+      <pubDate>Fri, 28 Aug 2026 07:46:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kienzan114514/status/2093243872998736326</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE比較（2026年版）— Codespaces ・Gitpod・Cloud9の最短選定ガイド＋1か月POC手順 https://t.co/kKFaxH6RIQ #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2093136872096629207</link>
       <description>EngiNear: 【新着記事】クラウドIDE比較（2026年版）— Codespaces ・Gitpod・Cloud9の最短選定ガイド＋1か月POC手順 https://t.co/kKFaxH6RIQ #エンジニア #ChatGPT #AI</description>
@@ -255,27 +276,6 @@
       <description>わた| Python: 本日はかなり苦戦しました。 GitHub Codespaces 上のDocker環境をWindowsへ移行する作業でしたが、ビルド時にリソース・容量不足でエラーが多発。 PC自体の動きも遅くなりだしたので原因調査は途中で止め「 Codespaces 環境に統一」へ方針転換！ 明日も Codespaces 上で環境作成を行います。 #AWS #Docker</description>
       <pubDate>Sun, 16 Aug 2026 15:02:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Python410386/status/2089004949489475683</guid>
-    </item>
-    <item>
-      <title>自己改善力が(現時点において)弱い、というのはAIも低スキル人材も同じだが、単純な能力においては明白にAIの方が上だからなぁ GitHub Codespaces みたいなサービスも、AIが使う以外の用途は無くなるだろうなと思ってる</title>
-      <link>https://x.com/8shkei/status/2088967967543566344</link>
-      <description>u-haru ͨ ͦ ͫ: 自己改善力が(現時点において)弱い、というのはAIも低スキル人材も同じだが、単純な能力においては明白にAIの方が上だからなぁ GitHub Codespaces みたいなサービスも、AIが使う以外の用途は無くなるだろうなと思ってる</description>
-      <pubDate>Sun, 16 Aug 2026 12:35:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8shkei/status/2088967967543566344</guid>
-    </item>
-    <item>
-      <title>iPad mini がサイズ的に最高に良いのだけど、外から GitHub Codespaces でどうのって考えると iPad Air に鞍替えするか悩む。そんなに開発すんのかよ？というのはあれど。</title>
-      <link>https://x.com/SpRestaurant/status/2088883883781816430</link>
-      <description>MW.Restaurant: iPad mini がサイズ的に最高に良いのだけど、外から GitHub Codespaces でどうのって考えると iPad Air に鞍替えするか悩む。そんなに開発すんのかよ？というのはあれど。</description>
-      <pubDate>Sun, 16 Aug 2026 07:01:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SpRestaurant/status/2088883883781816430</guid>
-    </item>
-    <item>
-      <title>@tomo_kusaba @ymd65536 GitHub Codespaces はもう無料枠使い切っていて使えないんですよねー😭</title>
-      <link>https://x.com/_handle_name/status/2088776859144323215</link>
-      <description>H.N: @tomo_kusaba @ymd65536 GitHub Codespaces はもう無料枠使い切っていて使えないんですよねー😭</description>
-      <pubDate>Sat, 15 Aug 2026 23:56:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_handle_name/status/2088776859144323215</guid>
     </item>
   </channel>
 </rss>
