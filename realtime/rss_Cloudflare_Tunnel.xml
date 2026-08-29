@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</title>
+      <link>https://x.com/shiroica/status/2093619818461311479</link>
+      <description>Yoshikazu Nojima: トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</description>
+      <pubDate>Sat, 29 Aug 2026 08:40:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiroica/status/2093619818461311479</guid>
+    </item>
+    <item>
       <title>さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</title>
       <link>https://x.com/SeahalJa/status/2093366595540427235</link>
       <description>SEAHAL(Ja): さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</description>
@@ -269,13 +276,6 @@
       <description>かなまる: あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</description>
       <pubDate>Sun, 16 Aug 2026 02:26:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/uniyume/status/2088814604025815475</guid>
-    </item>
-    <item>
-      <title>Nextcloudを自宅サーバーに立てました。Docker Compose 1枚で動くのに、 Cloudflare Tunnel で外に出してから4か所で詰まりました。 信頼されていないドメイン、HTTPSなのに崩れる、権限エラー、再起動後に上がってこない。 https://t.co/DRLCsvL47y #Nextcloud #自宅サーバー #CloudflareTunnel</title>
-      <link>https://x.com/mooncommit_dev/status/2088719194347200537</link>
-      <description>MOON: Nextcloudを自宅サーバーに立てました。Docker Compose 1枚で動くのに、 Cloudflare Tunnel で外に出してから4か所で詰まりました。 信頼されていないドメイン、HTTPSなのに崩れる、権限エラー、再起動後に上がってこない。 https://t.co/DRLCsvL47y #Nextcloud #自宅サーバー #CloudflareTunnel</description>
-      <pubDate>Sat, 15 Aug 2026 20:07:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mooncommit_dev/status/2088719194347200537</guid>
     </item>
   </channel>
 </rss>

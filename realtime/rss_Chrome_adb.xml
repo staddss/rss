@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Chrome%22%20%22adb%22</link>
     <description>Latest search results for '&quot;Chrome&quot; &quot;adb&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>1か月近くChatGPTアプリにログイン出来ず ずっとグルグルして進まない... 再起動、キャッシュ削除、再インストールでも直らなかったのに ADB 接続→アプリ完全終了→ Chrome から認証をしたら やっとログイン出来たので記事にしました✨ https://t.co/eIZMitUs9r #ブログ #ChatGPT #Android</title>
+      <link>https://x.com/HIRONOTE_JP/status/2093304621481750596</link>
+      <description>-ひろ-日常&amp;Game垢: 1か月近くChatGPTアプリにログイン出来ず ずっとグルグルして進まない... 再起動、キャッシュ削除、再インストールでも直らなかったのに ADB 接続→アプリ完全終了→ Chrome から認証をしたら やっとログイン出来たので記事にしました✨ https://t.co/eIZMitUs9r #ブログ #ChatGPT #Android</description>
+      <pubDate>Fri, 28 Aug 2026 11:48:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HIRONOTE_JP/status/2093304621481750596</guid>
+    </item>
+    <item>
       <title>KonomiTVのオフライン再生、Lenovoのタブレットでスリープするとダウンロードが止まっちゃうんだけど、 ADB コマンドで直接Androidの省電力機能の対象から Chrome を除外させたら上手くいくようになった（設定画面からは探せず）「 adb shell dumpsys deviceidle whitelist +https://t.co/2OnhYwb2bl」</title>
       <link>https://x.com/kamu_110/status/2090073740482871676</link>
       <description>かむねこ: KonomiTVのオフライン再生、Lenovoのタブレットでスリープするとダウンロードが止まっちゃうんだけど、 ADB コマンドで直接Androidの省電力機能の対象から Chrome を除外させたら上手くいくようになった（設定画面からは探せず）「 adb shell dumpsys deviceidle whitelist +https://t.co/2OnhYwb2bl」</description>

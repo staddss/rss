@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>openVPNは初めて構築したけど、めんどくさいね。 やっぱり wireguard は神！ 何か優劣あるのかな。</title>
+      <link>https://x.com/takumi_it_study/status/2093707504970805661</link>
+      <description>たくみ@エンジニアになりたい一般人: openVPNは初めて構築したけど、めんどくさいね。 やっぱり wireguard は神！ 何か優劣あるのかな。</description>
+      <pubDate>Sat, 29 Aug 2026 14:29:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takumi_it_study/status/2093707504970805661</guid>
+    </item>
+    <item>
+      <title>楽天モバイルで Wireguard 通すとPingが5000msとかになる 電車が悪いんかなぁ</title>
+      <link>https://x.com/mox_vc/status/2093703872573567485</link>
+      <description>mox:7B-AWQ: 楽天モバイルで Wireguard 通すとPingが5000msとかになる 電車が悪いんかなぁ</description>
+      <pubDate>Sat, 29 Aug 2026 14:14:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mox_vc/status/2093703872573567485</guid>
+    </item>
+    <item>
+      <title>楽天モバイルと Wireguard の相性が悪いのかめっちゃ死ぬ</title>
+      <link>https://x.com/mox_vc/status/2093703242324807713</link>
+      <description>mox:7B-AWQ: 楽天モバイルと Wireguard の相性が悪いのかめっちゃ死ぬ</description>
+      <pubDate>Sat, 29 Aug 2026 14:12:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mox_vc/status/2093703242324807713</guid>
+    </item>
+    <item>
+      <title>tailscale/tailcatがDaily Trending 11位に登場。Tailscaleのアカウントや制御プレーン不要で、netcatのように使えるGo製ツール。root権限なしで WireGuard による暗号化接続を構築できます。 https://t.co/KsiDR26BkW</title>
+      <link>https://x.com/github_trendjp/status/2093644864395296891</link>
+      <description>Githubトレンド: tailscale/tailcatがDaily Trending 11位に登場。Tailscaleのアカウントや制御プレーン不要で、netcatのように使えるGo製ツール。root権限なしで WireGuard による暗号化接続を構築できます。 https://t.co/KsiDR26BkW</description>
+      <pubDate>Sat, 29 Aug 2026 10:20:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/github_trendjp/status/2093644864395296891</guid>
+    </item>
+    <item>
+      <title>Mango 普通の有線ならワイヤースピード wifiも150Mbps接続で60Mbpsくらい出てるから、まあ自分が使うには問題ない性能かな CPUがシングルコアなんで、処理のたびに100%張り付きがちだけど 通信速度には影響なさげだし VPNは遅いねぇ WireGuard で50Mbpsでるけど Tailscaleは4Mbpsなんで ギリ使える💦</title>
+      <link>https://x.com/zeroichi_tecto/status/2093599670736204184</link>
+      <description>零壱テクト: Mango 普通の有線ならワイヤースピード wifiも150Mbps接続で60Mbpsくらい出てるから、まあ自分が使うには問題ない性能かな CPUがシングルコアなんで、処理のたびに100%張り付きがちだけど 通信速度には影響なさげだし VPNは遅いねぇ WireGuard で50Mbpsでるけど Tailscaleは4Mbpsなんで ギリ使える💦</description>
+      <pubDate>Sat, 29 Aug 2026 07:20:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zeroichi_tecto/status/2093599670736204184</guid>
+    </item>
+    <item>
       <title>「Tailscaleはただの WireGuard のための便利なUIだ。」 これは嘘だな。nftablesを勝手に破壊するクソだ。 Wireguard はそんなことしない。 https://t.co/ZuBFku4wLX</title>
       <link>https://x.com/moguno/status/2093475910339203173</link>
       <description>もぐの: 「Tailscaleはただの WireGuard のための便利なUIだ。」 これは嘘だな。nftablesを勝手に破壊するクソだ。 Wireguard はそんなことしない。 https://t.co/ZuBFku4wLX</description>
@@ -241,41 +276,6 @@
       <description>̤c̤a̤s̤t̤e̤r̤: いま、Tailscaleというものを初めて使ってとても感動している 今まで自宅内でネットワークが分離していて、開発機からサーバーへ WireGuard で繋ごうと何度も設定をいじり、ルーティングやらNATやらで四苦八苦していた。 これインスコ→ログイン→終わり なにこれ</description>
       <pubDate>Fri, 21 Aug 2026 09:30:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/chingdong_pong/status/2090733373224591561</guid>
-    </item>
-    <item>
-      <title>機内でVPN( wireguard )なんて使えないだろうと思ってましたがそんなことはなかった 音楽も聞けちゃう</title>
-      <link>https://x.com/colmar1204/status/2090624267906068845</link>
-      <description>ならは: 機内でVPN( wireguard )なんて使えないだろうと思ってましたがそんなことはなかった 音楽も聞けちゃう</description>
-      <pubDate>Fri, 21 Aug 2026 02:17:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/colmar1204/status/2090624267906068845</guid>
-    </item>
-    <item>
-      <title>外からは WireGuard で繋いで使ってる</title>
-      <link>https://x.com/noc_turn/status/2090424405650543002</link>
-      <description>のく: 外からは WireGuard で繋いで使ってる</description>
-      <pubDate>Thu, 20 Aug 2026 13:03:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noc_turn/status/2090424405650543002</guid>
-    </item>
-    <item>
-      <title>そっか， wireguard はカーネルモジュールやからlsofじゃポートをバインドしてるか分からないのか https://t.co/eDd2aN1KYU</title>
-      <link>https://x.com/gigaonion/status/2090300664752820566</link>
-      <description>ぎがおにおん: そっか， wireguard はカーネルモジュールやからlsofじゃポートをバインドしてるか分からないのか https://t.co/eDd2aN1KYU</description>
-      <pubDate>Thu, 20 Aug 2026 04:51:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigaonion/status/2090300664752820566</guid>
-    </item>
-    <item>
-      <title>@gigaonion はい、コアがLinuxなのでAndroidでも公式に動作しますが、より簡単に制御したり、端末をルート化したりするには、 Wireguard をAPKに変換する必要があります。想像以上に強力に動作しますよ。頑張ってください！</title>
-      <link>https://x.com/mouad_tarif/status/2090249042521473441</link>
-      <description>マアド・タリーフ🎧👨‍💻💭: @gigaonion はい、コアがLinuxなのでAndroidでも公式に動作しますが、より簡単に制御したり、端末をルート化したりするには、 Wireguard をAPKに変換する必要があります。想像以上に強力に動作しますよ。頑張ってください！</description>
-      <pubDate>Thu, 20 Aug 2026 01:26:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mouad_tarif/status/2090249042521473441</guid>
-    </item>
-    <item>
-      <title>Linuxカーネルは Wireguard に標準対応←初めて知ったが！？</title>
-      <link>https://x.com/izrn_yukikaze/status/2090228041691840776</link>
-      <description>izurina / うなみや: Linuxカーネルは Wireguard に標準対応←初めて知ったが！？</description>
-      <pubDate>Thu, 20 Aug 2026 00:02:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/izrn_yukikaze/status/2090228041691840776</guid>
     </item>
   </channel>
 </rss>

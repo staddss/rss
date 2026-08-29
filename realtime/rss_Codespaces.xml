@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2093559657939763267</guid>
     </item>
     <item>
+      <title>Disk容量が足りないっぽいので、 Codespaces で動かすのをやめて、Localで動かすことに。 https://t.co/Mazjx65nn0 を使ってみる。</title>
+      <link>https://x.com/bgnori/status/2093536816188273026</link>
+      <description>Nori（情報ブロイラー）: Disk容量が足りないっぽいので、 Codespaces で動かすのをやめて、Localで動かすことに。 https://t.co/Mazjx65nn0 を使ってみる。</description>
+      <pubDate>Sat, 29 Aug 2026 03:10:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bgnori/status/2093536816188273026</guid>
+    </item>
+    <item>
       <title>やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</title>
       <link>https://x.com/mikoshiba_kyu/status/2093511207701323916</link>
       <description>御子柴きゅう: やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</description>
@@ -269,13 +276,6 @@
       <description>【公式】HelloCraftAIメディア: 【準備は今からでいい】 1. VSCode 拡張を最新化（設定で Workspace Preview 確認） 2. Codespaces 月間上限を 50% 増し（自動 VM 起動用） 3. チーム研修準備（30分ハンズオン推奨） 既に Business プラン以上？9月初の波に乗れます。</description>
       <pubDate>Mon, 17 Aug 2026 09:04:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/HelloCraftAI/status/2089277258527883480</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の比較と導入PoC（結論→手順） https://t.co/qFy8rxqRk6 #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2089149336600957274</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の比較と導入PoC（結論→手順） https://t.co/qFy8rxqRk6 #エンジニア #ChatGPT #AI</description>
-      <pubDate>Mon, 17 Aug 2026 00:36:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2089149336600957274</guid>
     </item>
   </channel>
 </rss>
