@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短結論： Codespaces ・Gitpod・Cloud9 の選び方と今すぐ試す手順 https://t.co/PYubQJfgg9 #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2093559657939763267</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短結論： Codespaces ・Gitpod・Cloud9 の選び方と今すぐ試す手順 https://t.co/PYubQJfgg9 #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 29 Aug 2026 04:41:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2093559657939763267</guid>
+    </item>
+    <item>
       <title>やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</title>
       <link>https://x.com/mikoshiba_kyu/status/2093511207701323916</link>
       <description>御子柴きゅう: やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</description>
@@ -269,13 +276,6 @@
       <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ／Gitpod／Cloud9 の比較と導入PoC（結論→手順） https://t.co/qFy8rxqRk6 #エンジニア #ChatGPT #AI</description>
       <pubDate>Mon, 17 Aug 2026 00:36:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2089149336600957274</guid>
-    </item>
-    <item>
-      <title>本日はかなり苦戦しました。 GitHub Codespaces 上のDocker環境をWindowsへ移行する作業でしたが、ビルド時にリソース・容量不足でエラーが多発。 PC自体の動きも遅くなりだしたので原因調査は途中で止め「 Codespaces 環境に統一」へ方針転換！ 明日も Codespaces 上で環境作成を行います。 #AWS #Docker</title>
-      <link>https://x.com/Python410386/status/2089004949489475683</link>
-      <description>わた| Python: 本日はかなり苦戦しました。 GitHub Codespaces 上のDocker環境をWindowsへ移行する作業でしたが、ビルド時にリソース・容量不足でエラーが多発。 PC自体の動きも遅くなりだしたので原因調査は途中で止め「 Codespaces 環境に統一」へ方針転換！ 明日も Codespaces 上で環境作成を行います。 #AWS #Docker</description>
-      <pubDate>Sun, 16 Aug 2026 15:02:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Python410386/status/2089004949489475683</guid>
     </item>
   </channel>
 </rss>

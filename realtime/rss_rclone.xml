@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone 凄いな</title>
+      <link>https://x.com/naopi298/status/2093585188655939681</link>
+      <description>なおっぴ: rclone 凄いな</description>
+      <pubDate>Sat, 29 Aug 2026 06:23:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/naopi298/status/2093585188655939681</guid>
+    </item>
+    <item>
+      <title>pCloudを rclone 中心に使うwrapperを作った。需要は俺にしか無いやつ。</title>
+      <link>https://x.com/42spg/status/2093370236317962684</link>
+      <description>たかふみ: pCloudを rclone 中心に使うwrapperを作った。需要は俺にしか無いやつ。</description>
+      <pubDate>Fri, 28 Aug 2026 16:08:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/42spg/status/2093370236317962684</guid>
+    </item>
+    <item>
       <title>【 Rclone をGUIで自動化】クラウドバックアップ最適化ツール「RcloneBackupAutomator」 https://t.co/h8WV3lnWJU</title>
       <link>https://x.com/kumayyxx/status/2093268923974385940</link>
       <description>かじ@管理人: 【 Rclone をGUIで自動化】クラウドバックアップ最適化ツール「RcloneBackupAutomator」 https://t.co/h8WV3lnWJU</description>
@@ -262,20 +276,6 @@
       <description>Okaka25: cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</description>
       <pubDate>Sun, 02 Aug 2026 09:30:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Okakajp25/status/2083847862283379060</guid>
-    </item>
-    <item>
-      <title>rclone +Flyleaf+FFmpeg+DirectX ('ω')ﾋﾟｷｨｰﾝ</title>
-      <link>https://x.com/GadgEndosan/status/2083467319637090307</link>
-      <description>金だけが欲しいK: rclone +Flyleaf+FFmpeg+DirectX ('ω')ﾋﾟｷｨｰﾝ</description>
-      <pubDate>Sat, 01 Aug 2026 08:18:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GadgEndosan/status/2083467319637090307</guid>
-    </item>
-    <item>
-      <title>家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</title>
-      <link>https://x.com/ht164/status/2083281009622282411</link>
-      <description>ht164: 家のLinuxファイルサーバ、バックアップも何もしていなかったんだが、 rclone を利用してGCSに定期バックアップを取るスクリプトを導入した。これでディスクがクラッシュしても大丈夫。ちゃんとリストアが働けばだけど</description>
-      <pubDate>Fri, 31 Jul 2026 19:57:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ht164/status/2083281009622282411</guid>
     </item>
   </channel>
 </rss>
