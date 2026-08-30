@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>広告ブロックに NextDNS 使ってるんだけど、ニコ動の個別ページで動画見れない。ログ確認したら大量のドメインがブロックされててどれが原因かわからぬ。</title>
+      <link>https://x.com/munimunimoomin/status/2093978533039325479</link>
+      <description>おはぎねこ＠埼玉県日高市: 広告ブロックに NextDNS 使ってるんだけど、ニコ動の個別ページで動画見れない。ログ確認したら大量のドメインがブロックされててどれが原因かわからぬ。</description>
+      <pubDate>Sun, 30 Aug 2026 08:26:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/munimunimoomin/status/2093978533039325479</guid>
+    </item>
+    <item>
+      <title>私も NextDNS 推しですが、無料版でフィルタリングできるのは月に30万リクエストまでです。容易に制限を超え、フィルターなしのDNSになってしまうため細かい調整が不要な方はAdGuardのPublic DNSで十分だと思います。 https://t.co/TyGUaCL18e https://t.co/54ptYyVTqU</title>
+      <link>https://x.com/daizu_lab/status/2093944258722140388</link>
+      <description>だいずラボ: 私も NextDNS 推しですが、無料版でフィルタリングできるのは月に30万リクエストまでです。容易に制限を超え、フィルターなしのDNSになってしまうため細かい調整が不要な方はAdGuardのPublic DNSで十分だと思います。 https://t.co/TyGUaCL18e https://t.co/54ptYyVTqU</description>
+      <pubDate>Sun, 30 Aug 2026 06:09:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/daizu_lab/status/2093944258722140388</guid>
+    </item>
+    <item>
+      <title>@mca501zpr NextDNS も広告ブロックできること先ほど知りました、ありがとうございます😭</title>
+      <link>https://x.com/L_port8000/status/2093835376549081422</link>
+      <description>一樹（いつき）: @mca501zpr NextDNS も広告ブロックできること先ほど知りました、ありがとうございます😭</description>
+      <pubDate>Sat, 29 Aug 2026 22:57:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2093835376549081422</guid>
+    </item>
+    <item>
       <title>AdGuardDNSなんかより NextDNS を使え https://t.co/3oKf5nFOkm</title>
       <link>https://x.com/mca501zpr/status/2093735893890892174</link>
       <description>itron: AdGuardDNSなんかより NextDNS を使え https://t.co/3oKf5nFOkm</description>
@@ -59,13 +80,6 @@
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @Seitaa1024 じゃあとりあえずVPNgateを使おう。IPは&quot;219.100.37.233&quot;、パスワード系はとりあえず全部&quot;vpn&quot;にして。接続できたらDNSを NextDNS 使ってフィルタリングサーバ特定しながら作業しよう</description>
       <pubDate>Sun, 23 Aug 2026 10:49:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2091478005633945909</guid>
-    </item>
-    <item>
-      <title>@MystLighed NextDNS などをつかえばできます。</title>
-      <link>https://x.com/Kdroidwin1/status/2090927721518129460</link>
-      <description>Kdroidwin: @MystLighed NextDNS などをつかえばできます。</description>
-      <pubDate>Fri, 21 Aug 2026 22:23:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Kdroidwin1/status/2090927721518129460</guid>
     </item>
     <item>
       <title>Windowsにadguard-dnsを設定してたけど やっぱり時々つまるので NextDNS に戻した スマホの方は特に問題ないのでadguard-dnsで使ってみる</title>
