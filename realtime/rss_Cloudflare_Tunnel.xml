@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflare tunnel 便利で良いっすね</title>
+      <link>https://x.com/t3u_tsu/status/2094172951721734651</link>
+      <description>t3u👹ツ: cloudflare tunnel 便利で良いっすね</description>
+      <pubDate>Sun, 30 Aug 2026 21:18:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2094172951721734651</guid>
+    </item>
+    <item>
       <title>手元にあるMac miniといくつかのラズパイを cloudflare tunnel でworkerと接続したいんだが、いかんせん何をやらせるかが決まってない</title>
       <link>https://x.com/nawawan_kpr/status/2094046954947060009</link>
       <description>nawa: 手元にあるMac miniといくつかのラズパイを cloudflare tunnel でworkerと接続したいんだが、いかんせん何をやらせるかが決まってない</description>
@@ -17,6 +24,13 @@
       <description>kote2(こてつ): やろうとしてたのでメモ。LINE Messaging APIは受信メッセージをポーリングするAPIがないのでWebhookを使うんだけど、ローカルで受けるなら Cloudflare Tunnel で公開して、そこからClaude CLIを叩けばいけそう。直接TunnelにつなぐのではなくNode/Python等の受信処理を1枚挟む必要ある。 https://t.co/d8dibRkJtA</description>
       <pubDate>Sun, 30 Aug 2026 12:12:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kote2/status/2094035404106481856</guid>
+    </item>
+    <item>
+      <title>うちのAIエージェント、なかなかやるようになってきたｗ さっきMamushiが突然、 「SECURITY_CRITICAL」 と報告。 調べてみると、稼働中の Cloudflare Tunnel のtokenが、cloudflaredのunit/process command lineから読める状態になっていた。 tokenそのものは記録せず、証拠だけ保存。 https://t.co/sZqqaU6fWw</title>
+      <link>https://x.com/superdoccimo/status/2094026986868048255</link>
+      <description>美濃加茂まむ: うちのAIエージェント、なかなかやるようになってきたｗ さっきMamushiが突然、 「SECURITY_CRITICAL」 と報告。 調べてみると、稼働中の Cloudflare Tunnel のtokenが、cloudflaredのunit/process command lineから読める状態になっていた。 tokenそのものは記録せず、証拠だけ保存。 https://t.co/sZqqaU6fWw</description>
+      <pubDate>Sun, 30 Aug 2026 11:38:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/superdoccimo/status/2094026986868048255</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel 知ったときは「万能やんけ、全部これでいいやろ」って思ってたけど、いざ全部これでやろうとすると絶妙に痒い所に手が届かなかったりする。(Headscaleをホストしようしたら非対応だった)</title>
@@ -262,20 +276,6 @@
       <description>今井: 自宅NASのDockerに色々置いてTiailscaleと Cloudflare Tunnel で遊ぶの楽しくなってきた。 無料枠で遊べること多い。</description>
       <pubDate>Tue, 18 Aug 2026 01:01:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/uphash/status/2089518087876014337</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 使って自宅サーバに接続成功。 これでOCRサービス用のec2止めれる。 S3とかは使うがサーバ代は電気代のみ。 CloudflareはTunnelとCDN(ボット対策)とSSL終端やってくれて年間のドメイン代($10ぐらい)のみ。 Cloudflareさん安すぎる。潰れないで…🙏</title>
-      <link>https://x.com/u1tnk/status/2089029599250510047</link>
-      <description>ゆーいち: Cloudflare Tunnel 使って自宅サーバに接続成功。 これでOCRサービス用のec2止めれる。 S3とかは使うがサーバ代は電気代のみ。 CloudflareはTunnelとCDN(ボット対策)とSSL終端やってくれて年間のドメイン代($10ぐらい)のみ。 Cloudflareさん安すぎる。潰れないで…🙏</description>
-      <pubDate>Sun, 16 Aug 2026 16:40:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/u1tnk/status/2089029599250510047</guid>
-    </item>
-    <item>
-      <title>tailscale経由でリモート環境からssh繋いでたのを cloudflare tunnel 経由にするとラグく感じる。 おまかんか？</title>
-      <link>https://x.com/kawaseXL/status/2088937605069242835</link>
-      <description>川瀬: tailscale経由でリモート環境からssh繋いでたのを cloudflare tunnel 経由にするとラグく感じる。 おまかんか？</description>
-      <pubDate>Sun, 16 Aug 2026 10:35:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kawaseXL/status/2088937605069242835</guid>
     </item>
   </channel>
 </rss>
