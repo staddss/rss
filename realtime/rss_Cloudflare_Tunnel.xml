@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>手元にあるMac miniといくつかのラズパイを cloudflare tunnel でworkerと接続したいんだが、いかんせん何をやらせるかが決まってない</title>
+      <link>https://x.com/nawawan_kpr/status/2094046954947060009</link>
+      <description>nawa: 手元にあるMac miniといくつかのラズパイを cloudflare tunnel でworkerと接続したいんだが、いかんせん何をやらせるかが決まってない</description>
+      <pubDate>Sun, 30 Aug 2026 12:57:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nawawan_kpr/status/2094046954947060009</guid>
+    </item>
+    <item>
+      <title>やろうとしてたのでメモ。LINE Messaging APIは受信メッセージをポーリングするAPIがないのでWebhookを使うんだけど、ローカルで受けるなら Cloudflare Tunnel で公開して、そこからClaude CLIを叩けばいけそう。直接TunnelにつなぐのではなくNode/Python等の受信処理を1枚挟む必要ある。 https://t.co/d8dibRkJtA</title>
+      <link>https://x.com/kote2/status/2094035404106481856</link>
+      <description>kote2(こてつ): やろうとしてたのでメモ。LINE Messaging APIは受信メッセージをポーリングするAPIがないのでWebhookを使うんだけど、ローカルで受けるなら Cloudflare Tunnel で公開して、そこからClaude CLIを叩けばいけそう。直接TunnelにつなぐのではなくNode/Python等の受信処理を1枚挟む必要ある。 https://t.co/d8dibRkJtA</description>
+      <pubDate>Sun, 30 Aug 2026 12:12:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kote2/status/2094035404106481856</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 知ったときは「万能やんけ、全部これでいいやろ」って思ってたけど、いざ全部これでやろうとすると絶妙に痒い所に手が届かなかったりする。(Headscaleをホストしようしたら非対応だった)</title>
+      <link>https://x.com/RinMCWT/status/2093690220936151487</link>
+      <description>おのちゃん: Cloudflare Tunnel 知ったときは「万能やんけ、全部これでいいやろ」って思ってたけど、いざ全部これでやろうとすると絶妙に痒い所に手が届かなかったりする。(Headscaleをホストしようしたら非対応だった)</description>
+      <pubDate>Sat, 29 Aug 2026 13:20:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RinMCWT/status/2093690220936151487</guid>
+    </item>
+    <item>
       <title>トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</title>
       <link>https://x.com/shiroica/status/2093619818461311479</link>
       <description>Yoshikazu Nojima: トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</description>
@@ -255,27 +276,6 @@
       <description>川瀬: tailscale経由でリモート環境からssh繋いでたのを cloudflare tunnel 経由にするとラグく感じる。 おまかんか？</description>
       <pubDate>Sun, 16 Aug 2026 10:35:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kawaseXL/status/2088937605069242835</guid>
-    </item>
-    <item>
-      <title>自前で Tailscale 経由でも Cloudflare Tunnel でも画面共有できるようにしているのを忘れていましたw https://t.co/iJiuoEEcvP</title>
-      <link>https://x.com/nukonuko/status/2088913009242738750</link>
-      <description>ぬこぬこ / NUKO 🇯🇵: 自前で Tailscale 経由でも Cloudflare Tunnel でも画面共有できるようにしているのを忘れていましたw https://t.co/iJiuoEEcvP</description>
-      <pubDate>Sun, 16 Aug 2026 08:57:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nukonuko/status/2088913009242738750</guid>
-    </item>
-    <item>
-      <title>表に公開するものがなくて cloudflare tunnel 経由だからという意</title>
-      <link>https://x.com/MiutakuTech/status/2088859390124466415</link>
-      <description>みてうく: 表に公開するものがなくて cloudflare tunnel 経由だからという意</description>
-      <pubDate>Sun, 16 Aug 2026 05:24:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MiutakuTech/status/2088859390124466415</guid>
-    </item>
-    <item>
-      <title>あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</title>
-      <link>https://x.com/uniyume/status/2088814604025815475</link>
-      <description>かなまる: あと、ここ大事だったので補足です🙋♀️✨ 「これは使えるぞー！公開しよう！」と Cloudflare Tunnel で「Published application」にすると、 そのままでは、サブドメインを通して インターネット上からアクセスできる公開状態になります🌏 なので、 みんなに公開する → Cloudflare Tunnel で公開</description>
-      <pubDate>Sun, 16 Aug 2026 02:26:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/uniyume/status/2088814604025815475</guid>
     </item>
   </channel>
 </rss>

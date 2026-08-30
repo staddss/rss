@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Hisui_S これ GameNative だとDXVK_FRAME_RATEが機能してなくてDXVK_CONFIGにdxgi.maxFrameRate=30を入れないとダメだった…</title>
+      <link>https://x.com/angr_rs/status/2093973459684778489</link>
+      <description>snailcaviar: @Hisui_S これ GameNative だとDXVK_FRAME_RATEが機能してなくてDXVK_CONFIGにdxgi.maxFrameRate=30を入れないとダメだった…</description>
+      <pubDate>Sun, 30 Aug 2026 08:05:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2093973459684778489</guid>
+    </item>
+    <item>
       <title>gamenative のスマホアプリでsteamの２Dゲーム動かせれるかな〜って最近こねこねやってて、ぼちぼち成功するからそれが楽しくて２Dゲーム新しいの買おうか考えちゃう</title>
       <link>https://x.com/pupui5656/status/2093624082789216528</link>
       <description>ププイ5656: gamenative のスマホアプリでsteamの２Dゲーム動かせれるかな〜って最近こねこねやってて、ぼちぼち成功するからそれが楽しくて２Dゲーム新しいの買おうか考えちゃう</description>
@@ -269,13 +276,6 @@
       <description>風呂場の人: GAMEnative はすぐ見て分かったけど絶対ランチャーから起動するの大ごとだろうなあ、って思ったけど予想通り中々上手くいかんかった。そもそもニッチなんでネットに簡単に情報も転がっていないから毎回苦労するんだよね。AIに聞いたり、引数コマンド書き換えたり。色々したけどなかなか正解にたどり着け</description>
       <pubDate>Tue, 04 Aug 2026 08:01:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084550226543870041</guid>
-    </item>
-    <item>
-      <title>カスタムドライバは色々入れたけどスティーブンMXZ氏のTurinp Gen8 V33が一番よさげだった。当然 GAMEnative もカスタムドライバ使えるのでこれを。 俺はエミュ機にはランチャーを使うんだけど。日本語が使えるという事でDaijisho一択である。特殊エミュの起動が少し癖があってそこがネックなんだがね</title>
-      <link>https://x.com/Sigma_Z/status/2084549622416953348</link>
-      <description>風呂場の人: カスタムドライバは色々入れたけどスティーブンMXZ氏のTurinp Gen8 V33が一番よさげだった。当然 GAMEnative もカスタムドライバ使えるのでこれを。 俺はエミュ機にはランチャーを使うんだけど。日本語が使えるという事でDaijisho一択である。特殊エミュの起動が少し癖があってそこがネックなんだがね</description>
-      <pubDate>Tue, 04 Aug 2026 07:58:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084549622416953348</guid>
     </item>
   </channel>
 </rss>
