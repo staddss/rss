@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/munimunimoomin/status/2093978533039325479</guid>
     </item>
     <item>
+      <title>AdGuard DNSか NextDNS でも通しておけば良いんじゃねーのって感じ。 https://t.co/qjGvfo3gaj</title>
+      <link>https://x.com/ot_inc/status/2093975418248614368</link>
+      <description>Re*Index.(ot_inc)@土浦ドーム: AdGuard DNSか NextDNS でも通しておけば良いんじゃねーのって感じ。 https://t.co/qjGvfo3gaj</description>
+      <pubDate>Sun, 30 Aug 2026 08:13:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ot_inc/status/2093975418248614368</guid>
+    </item>
+    <item>
       <title>私も NextDNS 推しですが、無料版でフィルタリングできるのは月に30万リクエストまでです。容易に制限を超え、フィルターなしのDNSになってしまうため細かい調整が不要な方はAdGuardのPublic DNSで十分だと思います。 https://t.co/TyGUaCL18e https://t.co/54ptYyVTqU</title>
       <link>https://x.com/daizu_lab/status/2093944258722140388</link>
       <description>だいずラボ: 私も NextDNS 推しですが、無料版でフィルタリングできるのは月に30万リクエストまでです。容易に制限を超え、フィルターなしのDNSになってしまうため細かい調整が不要な方はAdGuardのPublic DNSで十分だと思います。 https://t.co/TyGUaCL18e https://t.co/54ptYyVTqU</description>
@@ -234,13 +241,6 @@
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: 学タブをとりあえず Wi-FiのDNSは消せるものはすべて0.0.0.0に置き換える Wireguardを接続 WireguardのDNSに NextDNS とサブで1.1.1.2を割り当て 規制突破を必要としない場合は拡張機能プロキシも追加してブラウザはマルチホップ (可能であればWi-FiとVPNの間にSOCKS5またはHTTPS, HTTPプロキシが欲しい)</description>
       <pubDate>Sat, 01 Aug 2026 10:02:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2083493669340938396</guid>
-    </item>
-    <item>
-      <title>ん？ NextDNS さん、チャッピーを有害リストにいれましたか？(入れていも不思議ではない昨今なのでw) https://t.co/unVY8I2ugQ</title>
-      <link>https://x.com/kazuph/status/2083364277960978883</link>
-      <description>kazuph 🍙: ん？ NextDNS さん、チャッピーを有害リストにいれましたか？(入れていも不思議ではない昨今なのでw) https://t.co/unVY8I2ugQ</description>
-      <pubDate>Sat, 01 Aug 2026 01:28:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazuph/status/2083364277960978883</guid>
     </item>
   </channel>
 </rss>

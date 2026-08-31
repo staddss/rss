@@ -5,18 +5,18 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WebMCP なるほど、token を発行してホストすれば ユーザー側で chrome :// flags /#enable-webmcp-testing 有効化すれば利用可能になるのね でもユーザー側に設定させるの微妙だなぁ やむなしか https://t.co/34Dc6AZxtV https://t.co/PjhsvixgFu</title>
+      <link>https://x.com/jun1228909/status/2093940320249753950</link>
+      <description>jun: WebMCP なるほど、token を発行してホストすれば ユーザー側で chrome :// flags /#enable-webmcp-testing 有効化すれば利用可能になるのね でもユーザー側に設定させるの微妙だなぁ やむなしか https://t.co/34Dc6AZxtV https://t.co/PjhsvixgFu</description>
+      <pubDate>Sun, 30 Aug 2026 05:54:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jun1228909/status/2093940320249753950</guid>
+    </item>
+    <item>
       <title>縦タブ信者としては、 縦タブマウスホバーで縮小表示が展開されるようにするのも必須設定だと思ってます🎉 chrome :// flags /#vertical-tabs-expand-on-hover にアクセスし 「Vertical Tabs Expand On Hover」 を 「Enabled」 に するだけで、ストレスフリーです！ Microsoft Edge https://t.co/8hc7mARKVe</title>
       <link>https://x.com/kusunoki_u1/status/2093845186774466954</link>
       <description>楠悠一｜クレーン降りたら人生上がった｜AI講師: 縦タブ信者としては、 縦タブマウスホバーで縮小表示が展開されるようにするのも必須設定だと思ってます🎉 chrome :// flags /#vertical-tabs-expand-on-hover にアクセスし 「Vertical Tabs Expand On Hover」 を 「Enabled」 に するだけで、ストレスフリーです！ Microsoft Edge https://t.co/8hc7mARKVe</description>
       <pubDate>Sat, 29 Aug 2026 23:36:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kusunoki_u1/status/2093845186774466954</guid>
-    </item>
-    <item>
-      <title>よく聞かれるのでメモ。 Google Chromeで「縦タブ」を有効にする方法。 ① chrome :// flags /#vertical-tabs を開く ②「Vertical Tabs」を Enabled にする ③ RelaunchでChromeを再起動 ④ タブバーの余白を右クリックして縦表示へ変更 タブをたくさん開く人は、横並びより圧倒的に見やすい。 https://t.co/Oa2KIQJLlV</title>
-      <link>https://x.com/gibkun1/status/2093505474880839928</link>
-      <description>タツキ: よく聞かれるのでメモ。 Google Chromeで「縦タブ」を有効にする方法。 ① chrome :// flags /#vertical-tabs を開く ②「Vertical Tabs」を Enabled にする ③ RelaunchでChromeを再起動 ④ タブバーの余白を右クリックして縦表示へ変更 タブをたくさん開く人は、横並びより圧倒的に見やすい。 https://t.co/Oa2KIQJLlV</description>
-      <pubDate>Sat, 29 Aug 2026 01:06:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gibkun1/status/2093505474880839928</guid>
     </item>
     <item>
       <title>Chrome の縦タブの自動開閉について、Mac では自動開閉ができていたのですが、Windows ではできていませんでした。 下記の URL から設定が可能です🫡 chrome :// flags /#vertical-tabs-expand-on-hover</title>
@@ -185,13 +185,6 @@
       <description>泉宮雨南(うなん)@PSO2NGS勢: 直ったわ。 chrome :// flags に入ってChoose ANGLE graphics backendを検索。 ここがD3D11WARPになってた。D3D11固定してたはずなんやけどね。 D3D11or12かD3D11固定にしてた方がいいかも。 WARPだとCPUのみになるんで跳ねた理由も納得だわ</description>
       <pubDate>Sat, 01 Aug 2026 12:39:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/unata_izumiya/status/2083533024319398145</guid>
-    </item>
-    <item>
-      <title>「Chrome右クリック『Geminiに相談』を消す方法」 対象：Gemini in Chrome（Glic）の追加項目 手順 ① chrome :// flags ② 検索欄に glic ③ Glicの項目を探す ④ Default→Disabled ⑤ Chrome再起動 ※chrome://settings/ai の設定変更では「Geminiに相談」は消えませんでした</title>
-      <link>https://x.com/my_chan_1919/status/2083483644505755943</link>
-      <description>Royalanthem_2008: 「Chrome右クリック『Geminiに相談』を消す方法」 対象：Gemini in Chrome（Glic）の追加項目 手順 ① chrome :// flags ② 検索欄に glic ③ Glicの項目を探す ④ Default→Disabled ⑤ Chrome再起動 ※chrome://settings/ai の設定変更では「Geminiに相談」は消えませんでした</description>
-      <pubDate>Sat, 01 Aug 2026 09:23:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/my_chan_1919/status/2083483644505755943</guid>
     </item>
     <item>
       <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
