@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscale が Tailscale のコントロールプレーン、アカウントなしに双方向通信を張れるtailcatを公開 Tailcat: An open-source CLI for Tailscale’s WireGuard ®, NAT traversal, and DERP https://t.co/XiviaJypbE</title>
+      <link>https://x.com/about_hiroppy/status/2094643648701026746</link>
+      <description>hiroppy | iiba: Tailscale が Tailscale のコントロールプレーン、アカウントなしに双方向通信を張れるtailcatを公開 Tailcat: An open-source CLI for Tailscale’s WireGuard ®, NAT traversal, and DERP https://t.co/XiviaJypbE</description>
+      <pubDate>Tue, 01 Sep 2026 04:28:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/about_hiroppy/status/2094643648701026746</guid>
+    </item>
+    <item>
+      <title>Tailscaleがやっていることを、 WireGuard 単体で再現しようとしたけど、 ・キャリア回線やCGNATなどNAT越えの問題 ・家庭用ルーター側の制限 ・ポート開放 ・接続経路の確保 あたりでハマった。 結局、VPSを1台借りて WireGuard のハブにして、各端末からVPSへトンネルを張る構成になった。 https://t.co/JLkngNRdBr https://t.co/NgTptQigsk</title>
+      <link>https://x.com/feTfaZXp7n86129/status/2094632078927384955</link>
+      <description>Port 22: Tailscaleがやっていることを、 WireGuard 単体で再現しようとしたけど、 ・キャリア回線やCGNATなどNAT越えの問題 ・家庭用ルーター側の制限 ・ポート開放 ・接続経路の確保 あたりでハマった。 結局、VPSを1台借りて WireGuard のハブにして、各端末からVPSへトンネルを張る構成になった。 https://t.co/JLkngNRdBr https://t.co/NgTptQigsk</description>
+      <pubDate>Tue, 01 Sep 2026 03:42:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2094632078927384955</guid>
+    </item>
+    <item>
+      <title>先週VPNを構築して分かったこと。 結論、Tailscaleは神 中では WireGuard を使っているけど、 ・NAT越えを自動で処理し、端末間で通信できる経路を見つけて接続してくれる ・外出先のモバイル回線からでも安全に接続できる ・アカウント／端末単位で認証・管理できる ・ポート開放を気にしなくていい https://t.co/23akcnE0WJ</title>
+      <link>https://x.com/feTfaZXp7n86129/status/2094630619146076447</link>
+      <description>Port 22: 先週VPNを構築して分かったこと。 結論、Tailscaleは神 中では WireGuard を使っているけど、 ・NAT越えを自動で処理し、端末間で通信できる経路を見つけて接続してくれる ・外出先のモバイル回線からでも安全に接続できる ・アカウント／端末単位で認証・管理できる ・ポート開放を気にしなくていい https://t.co/23akcnE0WJ</description>
+      <pubDate>Tue, 01 Sep 2026 03:37:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2094630619146076447</guid>
+    </item>
+    <item>
       <title>#MyNewGear GL.inet Brume3。こないだQNAP NASをHDDエラーで交換完了まで落としてた時にOpenVPNサーバも落とさざるを得なかったので、NASと独立したVPNサーバ構築のため入手。とりあえず WireGuard で設定しとくか•••🤔 https://t.co/05smLVImW6</title>
       <link>https://x.com/mahatarukaja/status/2094429843781980269</link>
       <description>TARUKAJA: #MyNewGear GL.inet Brume3。こないだQNAP NASをHDDエラーで交換完了まで落としてた時にOpenVPNサーバも落とさざるを得なかったので、NASと独立したVPNサーバ構築のため入手。とりあえず WireGuard で設定しとくか•••🤔 https://t.co/05smLVImW6</description>
@@ -255,27 +276,6 @@
       <description>Sumi-Sumi: OCI上に wireguard 立てたハブアンドスポークスにするよりheadscale立てた方が幸せになれそう🤔</description>
       <pubDate>Wed, 26 Aug 2026 02:54:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092445504974278670</guid>
-    </item>
-    <item>
-      <title>大きいファイルを WireGuard (Tailscale) 上の scp 越しに転送すると流石に遅いわねと思ったけれど、そもそも宅内 1G が遅いという説もある https://t.co/T4B1bDtwCe</title>
-      <link>https://x.com/yosida95/status/2092246857296884157</link>
-      <description>よしだ: 大きいファイルを WireGuard (Tailscale) 上の scp 越しに転送すると流石に遅いわねと思ったけれど、そもそも宅内 1G が遅いという説もある https://t.co/T4B1bDtwCe</description>
-      <pubDate>Tue, 25 Aug 2026 13:44:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yosida95/status/2092246857296884157</guid>
-    </item>
-    <item>
-      <title>とりあえずOCI上に wireguard とpiholeを設定できた</title>
-      <link>https://x.com/SumiSumiVRC/status/2092201568900948279</link>
-      <description>Sumi-Sumi: とりあえずOCI上に wireguard とpiholeを設定できた</description>
-      <pubDate>Tue, 25 Aug 2026 10:44:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092201568900948279</guid>
-    </item>
-    <item>
-      <title>443ポートでも wireguard できるようにした</title>
-      <link>https://x.com/SumiSumiVRC/status/2092087166004556229</link>
-      <description>Sumi-Sumi: 443ポートでも wireguard できるようにした</description>
-      <pubDate>Tue, 25 Aug 2026 03:10:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092087166004556229</guid>
     </item>
   </channel>
 </rss>

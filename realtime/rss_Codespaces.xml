@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短結論：どれを選ぶべきか（GitHub Codespaces / Gitpod / AWS Cloud9） https://t.co/3eKQosoV8W #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2094586374355632630</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短結論：どれを選ぶべきか（GitHub Codespaces / Gitpod / AWS Cloud9） https://t.co/3eKQosoV8W #エンジニア #ChatGPT #AI</description>
+      <pubDate>Tue, 01 Sep 2026 00:41:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2094586374355632630</guid>
+    </item>
+    <item>
       <title>claudeさんとの開発で、opusに指示させて codespaces のclaude codeに指示させてたらトークン爆発したので、opusさんに相談して節約作業でとお願いしたら手作業は人間がやることになりだいぶ長く保つようになったんだがこれはブルシットジョブを生成して満足している状況ではないかと気づいた</title>
       <link>https://x.com/yuchi2501/status/2093832095428980945</link>
       <description>酒井　幸広: claudeさんとの開発で、opusに指示させて codespaces のclaude codeに指示させてたらトークン爆発したので、opusさんに相談して節約作業でとお願いしたら手作業は人間がやることになりだいぶ長く保つようになったんだがこれはブルシットジョブを生成して満足している状況ではないかと気づいた</description>
@@ -269,13 +276,6 @@
       <description>わた| Python: 本日はあまり時間が取れずQiita記事の編集のみ。 一昨日にGitHub Codespaces へ「.devcontainer」を設定し、起動時に自動でTerraform環境が立ち上がるよう構築しました！ 毎回のインストールが不要になり、使い勝手がかなり向上しました。 #AWS #マルチクラウド #GitHubCodespaces #devcontainer</description>
       <pubDate>Tue, 18 Aug 2026 14:49:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Python410386/status/2089726274596216839</guid>
-    </item>
-    <item>
-      <title>本日は Codespaces の容量整理。 Dockerの時は効果的に消せたデータが、Terraform&amp;Helmを使い出すと隠れキャッシュが溜まりリソースを圧迫するみたいです。 各所の容量を調べたが明確な原因が分からないので、最後は「フル再ビルド（Full Rebuild）」を実行し、何とか空きスペースを確保! # Codespaces</title>
-      <link>https://x.com/Python410386/status/2089370089967763548</link>
-      <description>わた| Python: 本日は Codespaces の容量整理。 Dockerの時は効果的に消せたデータが、Terraform&amp;Helmを使い出すと隠れキャッシュが溜まりリソースを圧迫するみたいです。 各所の容量を調べたが明確な原因が分からないので、最後は「フル再ビルド（Full Rebuild）」を実行し、何とか空きスペースを確保! # Codespaces</description>
-      <pubDate>Mon, 17 Aug 2026 15:13:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Python410386/status/2089370089967763548</guid>
     </item>
   </channel>
 </rss>
