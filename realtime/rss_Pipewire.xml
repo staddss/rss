@@ -5,6 +5,69 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ArchLinux 2026.09.01続き Proxmoxで ArchLinux 2026.09.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.4-Wayland/BigScreen konsole追加 *2 縮小,2proc *3 jp設定 *4 pipewire ,--skip-version-check他 OK〜😋 https://t.co/KHm66F4I8D</title>
+      <link>https://x.com/markun8633/status/2094870852269715901</link>
+      <description>まーくん: ArchLinux 2026.09.01続き Proxmoxで ArchLinux 2026.09.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.4-Wayland/BigScreen konsole追加 *2 縮小,2proc *3 jp設定 *4 pipewire ,--skip-version-check他 OK〜😋 https://t.co/KHm66F4I8D</description>
+      <pubDate>Tue, 01 Sep 2026 19:31:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun8633/status/2094870852269715901</guid>
+    </item>
+    <item>
+      <title>バッファ内のクロックで今は歯抜けを許さないわけだから、これを歯抜けを埋めるようなことをすれば良いわけだ。 だからこれを予めバッファと波ごとに近似したのをバッファ内で足せば良いのか。 ・・・これを pipewire はやってるんじゃねは・・・？ ワイの野望はもう潰えたかも知れん</title>
+      <link>https://x.com/gehirun7/status/2094836977128636607</link>
+      <description>udon: バッファ内のクロックで今は歯抜けを許さないわけだから、これを歯抜けを埋めるようなことをすれば良いわけだ。 だからこれを予めバッファと波ごとに近似したのをバッファ内で足せば良いのか。 ・・・これを pipewire はやってるんじゃねは・・・？ ワイの野望はもう潰えたかも知れん</description>
+      <pubDate>Tue, 01 Sep 2026 17:17:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094836977128636607</guid>
+    </item>
+    <item>
+      <title>いやでも、なんとなく、 pipewire が解決したいことと、俺が解決したいことが違う可能性はありそうではある そして、なんとなく俺の解決したいことは物理的制約で解決できなさそー</title>
+      <link>https://x.com/gehirun7/status/2094831426659344856</link>
+      <description>udon: いやでも、なんとなく、 pipewire が解決したいことと、俺が解決したいことが違う可能性はありそうではある そして、なんとなく俺の解決したいことは物理的制約で解決できなさそー</description>
+      <pubDate>Tue, 01 Sep 2026 16:55:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094831426659344856</guid>
+    </item>
+    <item>
+      <title>&gt; クロック非同期でも動的にミックス可能。 PipeWire のリサンプラも同類。 んー、おかしいな。前提が伝わらなかったのか、俺の理解が浅いのか、俺程度が考えらるようなことなんて既にやってあるってことなのか？ 誰かこれを解釈できる人間さんいますか？</title>
+      <link>https://x.com/gehirun7/status/2094830679884521808</link>
+      <description>udon: &gt; クロック非同期でも動的にミックス可能。 PipeWire のリサンプラも同類。 んー、おかしいな。前提が伝わらなかったのか、俺の理解が浅いのか、俺程度が考えらるようなことなんて既にやってあるってことなのか？ 誰かこれを解釈できる人間さんいますか？</description>
+      <pubDate>Tue, 01 Sep 2026 16:52:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094830679884521808</guid>
+    </item>
+    <item>
+      <title>pipewire は本当に良く出来てる雰囲気は感じたんだよね</title>
+      <link>https://x.com/gehirun7/status/2094824678846349414</link>
+      <description>udon: pipewire は本当に良く出来てる雰囲気は感じたんだよね</description>
+      <pubDate>Tue, 01 Sep 2026 16:28:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094824678846349414</guid>
+    </item>
+    <item>
+      <title>いや、待てよ。 pipewire いじってる時に、AI君が、「quontum48以下への再設定は pipewire からALSAへの要求？が失敗するから、ここらへんはソフトウェアの改善でどうにかなる可能性がある」 って言ってたんだよね。 先にこっちがissue立ってるのか確認してみるか @grok</title>
+      <link>https://x.com/gehirun7/status/2094822112418841074</link>
+      <description>udon: いや、待てよ。 pipewire いじってる時に、AI君が、「quontum48以下への再設定は pipewire からALSAへの要求？が失敗するから、ここらへんはソフトウェアの改善でどうにかなる可能性がある」 って言ってたんだよね。 先にこっちがissue立ってるのか確認してみるか @grok</description>
+      <pubDate>Tue, 01 Sep 2026 16:18:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094822112418841074</guid>
+    </item>
+    <item>
+      <title>pipewire ってLinuxカーネルの外にあるから、単にアプリケーションでしかないんやな。 ほならさすがのワイでも置き換えるくらいのことできそう</title>
+      <link>https://x.com/gehirun7/status/2094817781229449426</link>
+      <description>udon: pipewire ってLinuxカーネルの外にあるから、単にアプリケーションでしかないんやな。 ほならさすがのワイでも置き換えるくらいのことできそう</description>
+      <pubDate>Tue, 01 Sep 2026 16:00:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094817781229449426</guid>
+    </item>
+    <item>
+      <title>音の合成って単にみんな興味がないから今のやり方で満足してる説あるな。ワイには他の人と違ってこれをやりたい動機がたまたまある。 ちょっと真面目に考えてみようかな Linuxで言えば pipewire 的な物をクロック数に依存しないやり方でやればええんやろ？ https://t.co/fLYiumSCGI</title>
+      <link>https://x.com/gehirun7/status/2094817446012375060</link>
+      <description>udon: 音の合成って単にみんな興味がないから今のやり方で満足してる説あるな。ワイには他の人と違ってこれをやりたい動機がたまたまある。 ちょっと真面目に考えてみようかな Linuxで言えば pipewire 的な物をクロック数に依存しないやり方でやればええんやろ？ https://t.co/fLYiumSCGI</description>
+      <pubDate>Tue, 01 Sep 2026 15:59:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gehirun7/status/2094817446012375060</guid>
+    </item>
+    <item>
+      <title>めも： Alma ・NTFS：（デフォだと）マウントできない（エラー） ・NVidia：ドライバは別途（入れるまで1操作ごとにフリーズする程度の重さ） ・音周り： PipeWire 周りの問題が消えない。音が出ない ・Bluetooth：デフォだと使えない（別途設定等が必要）→無線キーボードだと詰む ・BTイヤホン：使える</title>
+      <link>https://x.com/t_tetosuki/status/2094642066701836769</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: めも： Alma ・NTFS：（デフォだと）マウントできない（エラー） ・NVidia：ドライバは別途（入れるまで1操作ごとにフリーズする程度の重さ） ・音周り： PipeWire 周りの問題が消えない。音が出ない ・Bluetooth：デフォだと使えない（別途設定等が必要）→無線キーボードだと詰む ・BTイヤホン：使える</description>
+      <pubDate>Tue, 01 Sep 2026 04:22:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2094642066701836769</guid>
+    </item>
+    <item>
       <title>Ubuntu + PipeWire で「ゲーム機もPCもiPhoneも全部まとめて聴ける」低遅延ゲーミングオーディオミキサーを作った https://t.co/xqqYxUIHPE #Qiita 謝辞: Claude Code</title>
       <link>https://x.com/tomohikoohhashi/status/2094070000982409614</link>
       <description>tomohikoohhashi: Ubuntu + PipeWire で「ゲーム機もPCもiPhoneも全部まとめて聴ける」低遅延ゲーミングオーディオミキサーを作った https://t.co/xqqYxUIHPE #Qiita 謝辞: Claude Code</description>

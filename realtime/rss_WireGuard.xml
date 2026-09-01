@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscale → WireGuard をかなり使いやすくSaaS化したもの Nebula → 「Tailnet相当の仕組みを、PKI・ノード探索・ACLまで含めて自分で構築する」 https://t.co/lMjEvpDz2w</title>
+      <link>https://x.com/NightMustEnd/status/2094813231026184357</link>
+      <description>NightMustEnd: Tailscale → WireGuard をかなり使いやすくSaaS化したもの Nebula → 「Tailnet相当の仕組みを、PKI・ノード探索・ACLまで含めて自分で構築する」 https://t.co/lMjEvpDz2w</description>
+      <pubDate>Tue, 01 Sep 2026 15:42:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NightMustEnd/status/2094813231026184357</guid>
+    </item>
+    <item>
       <title>アキバでジャンクPCを11kで購入、余ってたメモリ64GBを差し、Omarchyをインストール。VPSで WireGuard を動かし、インターネットから接続できるようにした。ssh（Eternal Terminal）でログインするからあんまhyprlandの恩恵を得られん</title>
       <link>https://x.com/kazto_dev/status/2094725330376519768</link>
       <description>kazto@俺は雰囲気でコードを書いている: アキバでジャンクPCを11kで購入、余ってたメモリ64GBを差し、Omarchyをインストール。VPSで WireGuard を動かし、インターネットから接続できるようにした。ssh（Eternal Terminal）でログインするからあんまhyprlandの恩恵を得られん</description>
@@ -269,13 +276,6 @@
       <description>satobomacros: wireguard でNASアクセス出来るようにした。ノーパソ買うか迷う</description>
       <pubDate>Wed, 26 Aug 2026 07:59:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/keriozzr3s/status/2092522362310996057</guid>
-    </item>
-    <item>
-      <title>@ToukaShiro_NW そうそう 素の wireguard は無い分、tailscaleがその辺をやってくれるらしいから導入しようかなって</title>
-      <link>https://x.com/SumiSumiVRC/status/2092452151935266865</link>
-      <description>Sumi-Sumi: @ToukaShiro_NW そうそう 素の wireguard は無い分、tailscaleがその辺をやってくれるらしいから導入しようかなって</description>
-      <pubDate>Wed, 26 Aug 2026 03:20:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092452151935266865</guid>
     </item>
   </channel>
 </rss>
