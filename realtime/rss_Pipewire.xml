@@ -12,13 +12,6 @@
       <guid isPermaLink="true">https://x.com/tomohikoohhashi/status/2094070000982409614</guid>
     </item>
     <item>
-      <title>Ubuntu + PipeWire で「ゲーム機もPCもiPhoneも全部まとめて聴ける」低遅延ゲーミングオーディオミキサーを作った https://t.co/xqqYxUIHPE #Qiita AIの進歩のおかげで久々に投稿しました</title>
-      <link>https://x.com/tomohikoohhashi/status/2094066282861895996</link>
-      <description>tomohikoohhashi: Ubuntu + PipeWire で「ゲーム機もPCもiPhoneも全部まとめて聴ける」低遅延ゲーミングオーディオミキサーを作った https://t.co/xqqYxUIHPE #Qiita AIの進歩のおかげで久々に投稿しました</description>
-      <pubDate>Sun, 30 Aug 2026 14:14:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomohikoohhashi/status/2094066282861895996</guid>
-    </item>
-    <item>
       <title>Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</title>
       <link>https://x.com/fedoraupdown/status/2094031339590947152</link>
       <description>けんけん: Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</description>
@@ -136,13 +129,6 @@
       <description>kokumօtօ: Linuxの PipeWire に、Flatpakアプリのサンドボックスエスケープに使用可能な脆弱性。CVE-2026-5674はCVSSスコア8.8で、PluseAudio互換レイヤーにおける不具合3件を連鎖させるもの。 Pipewire 1.0.5で修正されており、各ディストロで順次修正。 https://t.co/BaZvV9W53a</description>
       <pubDate>Mon, 03 Aug 2026 03:35:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__kokumoto/status/2084120916846415934</guid>
-    </item>
-    <item>
-      <title>ArchLinux 2026.08.01続き Proxmoxで ArchLinux 2026.08.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.3-Waylandのみ,konsole追加 *2 縮小表示 *3 hyprland.confError *4 pipewire ,--skip-version-check OK〜😅 https://t.co/6QAMhx0uzV</title>
-      <link>https://x.com/markun8633/status/2083831098120049131</link>
-      <description>まーくん: ArchLinux 2026.08.01続き Proxmoxで ArchLinux 2026.08.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.3-Waylandのみ,konsole追加 *2 縮小表示 *3 hyprland.confError *4 pipewire ,--skip-version-check OK〜😅 https://t.co/6QAMhx0uzV</description>
-      <pubDate>Sun, 02 Aug 2026 08:23:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/markun8633/status/2083831098120049131</guid>
     </item>
   </channel>
 </rss>
