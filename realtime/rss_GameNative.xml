@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Retroid Pocket Nova の Ice Blue を黒のボタンに換装 GameNative でスカイリムSEを動かせるのは凄い(ファンがうるさいから30fps制限) PS2やるために買ったのに結局PCゲームばっかやってる笑 初めての高性能エミュ機だけど、もうこれ1つでいいんじゃないかなぁ (格安エミュ機は別腹) https://t.co/d0jRYxENAe</title>
+      <link>https://x.com/nd8h6cnLSiAnLti/status/2094579337316196409</link>
+      <description>はいどら🍔: Retroid Pocket Nova の Ice Blue を黒のボタンに換装 GameNative でスカイリムSEを動かせるのは凄い(ファンがうるさいから30fps制限) PS2やるために買ったのに結局PCゲームばっかやってる笑 初めての高性能エミュ機だけど、もうこれ1つでいいんじゃないかなぁ (格安エミュ機は別腹) https://t.co/d0jRYxENAe</description>
+      <pubDate>Tue, 01 Sep 2026 00:13:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nd8h6cnLSiAnLti/status/2094579337316196409</guid>
+    </item>
+    <item>
+      <title>ウオオ GameNative でミストリアを手元で動かすことに成功 ゲーミングじゃないスマホだから動きモッサモサだけど嬉しい 手の平サイズで動く平成ドット絵あまりにもかわいい</title>
+      <link>https://x.com/ste02g/status/2094005259492565082</link>
+      <description>すてみ: ウオオ GameNative でミストリアを手元で動かすことに成功 ゲーミングじゃないスマホだから動きモッサモサだけど嬉しい 手の平サイズで動く平成ドット絵あまりにもかわいい</description>
+      <pubDate>Sun, 30 Aug 2026 10:12:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ste02g/status/2094005259492565082</guid>
+    </item>
+    <item>
       <title>@Hisui_S これ GameNative だとDXVK_FRAME_RATEが機能してなくてDXVK_CONFIGにdxgi.maxFrameRate=30を入れないとダメだった…</title>
       <link>https://x.com/angr_rs/status/2093973459684778489</link>
       <description>snailcaviar: @Hisui_S これ GameNative だとDXVK_FRAME_RATEが機能してなくてDXVK_CONFIGにdxgi.maxFrameRate=30を入れないとダメだった…</description>
@@ -262,20 +276,6 @@
       <description>風呂場の人: VITAの引数の内容と全然違うので気が付くのが遅れてしまったんですねー。ロム（この場合ダミーファイルになるんだけど）の認識と、引数をエミュに渡す命令が上手くいかなくて苦労したわ 普通に GAMEnative 単体で起動してそこからDIVA選べばできますよ？でも俺はランチャーから起動したいの！！！</description>
       <pubDate>Tue, 04 Aug 2026 08:11:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084552680681447594</guid>
-    </item>
-    <item>
-      <title>んで結局 GAMEnative の起動方法はVITAと同じだった JSONファイルからプレイヤー読み込ませて中身見たら。 GAMEnative の所の引数にTAGって表記があったので。 あー。これまえにやったことあるなん。とあてずっぽにやったらあっさりできました。ここにたどり着くまでまる1日かかりましたけどｗ</title>
-      <link>https://x.com/Sigma_Z/status/2084552084490449141</link>
-      <description>風呂場の人: んで結局 GAMEnative の起動方法はVITAと同じだった JSONファイルからプレイヤー読み込ませて中身見たら。 GAMEnative の所の引数にTAGって表記があったので。 あー。これまえにやったことあるなん。とあてずっぽにやったらあっさりできました。ここにたどり着くまでまる1日かかりましたけどｗ</description>
-      <pubDate>Tue, 04 Aug 2026 08:08:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084552084490449141</guid>
-    </item>
-    <item>
-      <title>GAMEnative はすぐ見て分かったけど絶対ランチャーから起動するの大ごとだろうなあ、って思ったけど予想通り中々上手くいかんかった。そもそもニッチなんでネットに簡単に情報も転がっていないから毎回苦労するんだよね。AIに聞いたり、引数コマンド書き換えたり。色々したけどなかなか正解にたどり着け</title>
-      <link>https://x.com/Sigma_Z/status/2084550226543870041</link>
-      <description>風呂場の人: GAMEnative はすぐ見て分かったけど絶対ランチャーから起動するの大ごとだろうなあ、って思ったけど予想通り中々上手くいかんかった。そもそもニッチなんでネットに簡単に情報も転がっていないから毎回苦労するんだよね。AIに聞いたり、引数コマンド書き換えたり。色々したけどなかなか正解にたどり着け</description>
-      <pubDate>Tue, 04 Aug 2026 08:01:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Sigma_Z/status/2084550226543870041</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Self-hostedした #Fluxer が #DeepSeek APIを使った @opencode のメンテとチューニングで無事、VOIP機能が有効になりました。 VPSサーバーでも良いのですが、私としてはサーバースペック自体はいらなくて、 Cloudflare tunnel みたいにバイパス出来れば良かったので https://t.co/CSpX62nUCj https://t.co/cTVvio6W1O https://t.co/oSDyngQ9hu</title>
+      <link>https://x.com/LunarHealWisdom/status/2094471611621814613</link>
+      <description>🧸🦊Yomi Watanuki: Self-hostedした #Fluxer が #DeepSeek APIを使った @opencode のメンテとチューニングで無事、VOIP機能が有効になりました。 VPSサーバーでも良いのですが、私としてはサーバースペック自体はいらなくて、 Cloudflare tunnel みたいにバイパス出来れば良かったので https://t.co/CSpX62nUCj https://t.co/cTVvio6W1O https://t.co/oSDyngQ9hu</description>
+      <pubDate>Mon, 31 Aug 2026 17:05:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2094471611621814613</guid>
+    </item>
+    <item>
+      <title>https://t.co/OFA0Z61OrO、ちょっとプレミアム契約してFluxerのNAT越えやってみようと思う UDP通信がつまり Cloudflare Tunnel じゃバイパスできないのよ…</title>
+      <link>https://x.com/LunarHealWisdom/status/2094452489374642447</link>
+      <description>🧸🦊Yomi Watanuki: https://t.co/OFA0Z61OrO、ちょっとプレミアム契約してFluxerのNAT越えやってみようと思う UDP通信がつまり Cloudflare Tunnel じゃバイパスできないのよ…</description>
+      <pubDate>Mon, 31 Aug 2026 15:49:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2094452489374642447</guid>
+    </item>
+    <item>
+      <title>@minarin0179 マダミナリンクのマシンにサーバー立てて Cloudflare Tunnel で公開するのはどう？</title>
+      <link>https://x.com/fjktkm/status/2094379505179832546</link>
+      <description>フォーマッタ: @minarin0179 マダミナリンクのマシンにサーバー立てて Cloudflare Tunnel で公開するのはどう？</description>
+      <pubDate>Mon, 31 Aug 2026 10:59:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fjktkm/status/2094379505179832546</guid>
+    </item>
+    <item>
+      <title>グローバルIPが作れない問題は Cloudflare Tunnel でなんとかできる模様 https://t.co/L5ZwAvA5qA</title>
+      <link>https://x.com/shimafuri_d/status/2094334418290909558</link>
+      <description>シマフリ（🦠）: グローバルIPが作れない問題は Cloudflare Tunnel でなんとかできる模様 https://t.co/L5ZwAvA5qA</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shimafuri_d/status/2094334418290909558</guid>
+    </item>
+    <item>
       <title>ちょっとnebulaのca更新したくって，nebula経由のsshが使えなくなる可能性があるのでtmuxでnix shell nixpkgs#cloudflaredしてフェイルオーバー用に cloudflare tunnel でsshアクセスを確保した．</title>
       <link>https://x.com/t3u_tsu/status/2094175117068910733</link>
       <description>t3u👹ツ: ちょっとnebulaのca更新したくって，nebula経由のsshが使えなくなる可能性があるのでtmuxでnix shell nixpkgs#cloudflaredしてフェイルオーバー用に cloudflare tunnel でsshアクセスを確保した．</description>
@@ -248,34 +276,6 @@
       <description>̤c̤a̤s̤t̤e̤r̤: しかも無料 すごすぎる Cloudflare Tunnel より感動した</description>
       <pubDate>Fri, 21 Aug 2026 09:31:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/chingdong_pong/status/2090733500253229380</guid>
-    </item>
-    <item>
-      <title>相談したらわずか15分でDockerに4つのコンテナ（DB/同期/Webビューア/Tunnel）を構築！ さらに Cloudflare Tunnel でVPNもqnapcloudも使わず外出先から安全閲覧まで可能に。AIエージェントの実力に驚愕した日でした（たまにポンコツ化するけど笑） #QNAP #自宅NAS #Docker #X自動投稿 #Cloudflare</title>
-      <link>https://x.com/Maktak51348010/status/2090605701722775607</link>
-      <description>じゅーご＠十伍商店: 相談したらわずか15分でDockerに4つのコンテナ（DB/同期/Webビューア/Tunnel）を構築！ さらに Cloudflare Tunnel でVPNもqnapcloudも使わず外出先から安全閲覧まで可能に。AIエージェントの実力に驚愕した日でした（たまにポンコツ化するけど笑） #QNAP #自宅NAS #Docker #X自動投稿 #Cloudflare</description>
-      <pubDate>Fri, 21 Aug 2026 01:03:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Maktak51348010/status/2090605701722775607</guid>
-    </item>
-    <item>
-      <title>うちPC・スマホ禁止だったから Android搭載ウォークマンで web開発したりサーバー動かしたりしてた webはテキストエディタあればできるし サーバーアプリ・Termuxで結構いろいろやれる 高次ポートしか使えない問題は Cloudflare Tunnel 使えば解決だし 低スペでもRAM4GBあれば結構動かせる https://t.co/fQ4643AwCQ</title>
-      <link>https://x.com/Ado_tann/status/2089665719961321714</link>
-      <description>🧅あどたん❯❯❯❯❄🧁🐌☄️🌽（みょみょん会）: うちPC・スマホ禁止だったから Android搭載ウォークマンで web開発したりサーバー動かしたりしてた webはテキストエディタあればできるし サーバーアプリ・Termuxで結構いろいろやれる 高次ポートしか使えない問題は Cloudflare Tunnel 使えば解決だし 低スペでもRAM4GBあれば結構動かせる https://t.co/fQ4643AwCQ</description>
-      <pubDate>Tue, 18 Aug 2026 10:48:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ado_tann/status/2089665719961321714</guid>
-    </item>
-    <item>
-      <title>@kota_yata お節介かもしれないんですが Cloudflare Tunnel なり外から入ってくる通信がなくてもホストする手段はあるのでお家鯖諦めないでほしい....(((</title>
-      <link>https://x.com/_Sora_Engineer/status/2089614610869760212</link>
-      <description>そら@技書博13 自宅鯖体験記 う-02: @kota_yata お節介かもしれないんですが Cloudflare Tunnel なり外から入ってくる通信がなくてもホストする手段はあるのでお家鯖諦めないでほしい....(((</description>
-      <pubDate>Tue, 18 Aug 2026 07:25:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Sora_Engineer/status/2089614610869760212</guid>
-    </item>
-    <item>
-      <title>久々にお家Linuxサーバ構築しようかな Cloudflare Tunnel とかいう面白そうなサービスを見つけてしまった お家のLANのポート開放するとかもう嫌だし</title>
-      <link>https://x.com/s_yoshiki_dev/status/2089605006915961331</link>
-      <description>書式 | syoshiki: 久々にお家Linuxサーバ構築しようかな Cloudflare Tunnel とかいう面白そうなサービスを見つけてしまった お家のLANのポート開放するとかもう嫌だし</description>
-      <pubDate>Tue, 18 Aug 2026 06:47:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/s_yoshiki_dev/status/2089605006915961331</guid>
     </item>
   </channel>
 </rss>

@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/tomohikoohhashi/status/2094066282861895996</guid>
     </item>
     <item>
+      <title>Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</title>
+      <link>https://x.com/fedoraupdown/status/2094031339590947152</link>
+      <description>けんけん: Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</description>
+      <pubDate>Sun, 30 Aug 2026 11:55:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2094031339590947152</guid>
+    </item>
+    <item>
       <title>EasyEffectsでノートPCのスピーカー音質を改善できる https://t.co/SPFbLOHHqo 要約:LinuxのEasyEffectsは、 PipeWire のEQや音響処理をプリセットで適用し、ノートPCの音質を大幅改善可能。筆者はLinux各ディストリやKDE/GNOMEへの標準統合を提案しています。</title>
       <link>https://x.com/DerkiesAd001/status/2093832301650362539</link>
       <description>HackerNews要約※非公式: EasyEffectsでノートPCのスピーカー音質を改善できる https://t.co/SPFbLOHHqo 要約:LinuxのEasyEffectsは、 PipeWire のEQや音響処理をプリセットで適用し、ノートPCの音質を大幅改善可能。筆者はLinux各ディストリやKDE/GNOMEへの標準統合を提案しています。</description>
