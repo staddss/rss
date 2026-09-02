@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今日はホームラボ周りをいじいじ WireGuard ホストのあるプロキシサーバーにおNewのサーバーとメインPCをピア登録とか 証明書周り入れて出先でRDPできるようにとか あと公開サービスの定期トークンローテートの自動化とか まぁ、ラボが2重ルーターになってなければ半分ぐらいいらない作業だったけど</title>
+      <link>https://x.com/kuni37691988/status/2095047892625182980</link>
+      <description>🦐: 今日はホームラボ周りをいじいじ WireGuard ホストのあるプロキシサーバーにおNewのサーバーとメインPCをピア登録とか 証明書周り入れて出先でRDPできるようにとか あと公開サービスの定期トークンローテートの自動化とか まぁ、ラボが2重ルーターになってなければ半分ぐらいいらない作業だったけど</description>
+      <pubDate>Wed, 02 Sep 2026 07:15:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuni37691988/status/2095047892625182980</guid>
+    </item>
+    <item>
       <title>Tailscale → WireGuard をかなり使いやすくSaaS化したもの Nebula → 「Tailnet相当の仕組みを、PKI・ノード探索・ACLまで含めて自分で構築する」 https://t.co/lMjEvpDz2w</title>
       <link>https://x.com/NightMustEnd/status/2094813231026184357</link>
       <description>NightMustEnd: Tailscale → WireGuard をかなり使いやすくSaaS化したもの Nebula → 「Tailnet相当の仕組みを、PKI・ノード探索・ACLまで含めて自分で構築する」 https://t.co/lMjEvpDz2w</description>
@@ -269,13 +276,6 @@
       <description>いぐ: @katokonigiry 布教した甲斐あったなーって思いながら ポスト見てましたよー笑 Teleportだけじゃなくて WireGuard やらOpenVPNにまでほぼ対応していて さらにこの軽さ、、、 これは早く技適とって日本来て欲しい、、、</description>
       <pubDate>Wed, 26 Aug 2026 21:25:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/igu0j4i21yo12u/status/2092725093596295648</guid>
-    </item>
-    <item>
-      <title>@tjjh89017 うーん、と言うよりは、常時家のサーバ群に接続したり、k8sクラスタをスマホで保守したりしたくてやってますね AndroidアプリのNetmakerはユーザ空間でしか動かないので、 Wireguard がネイティブに動くLinuxカーネルがあるならそっちでやりたいという率直なモチベーションです</title>
-      <link>https://x.com/gigaonion/status/2092634542142378029</link>
-      <description>ぎがおにおん: @tjjh89017 うーん、と言うよりは、常時家のサーバ群に接続したり、k8sクラスタをスマホで保守したりしたくてやってますね AndroidアプリのNetmakerはユーザ空間でしか動かないので、 Wireguard がネイティブに動くLinuxカーネルがあるならそっちでやりたいという率直なモチベーションです</description>
-      <pubDate>Wed, 26 Aug 2026 15:25:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigaonion/status/2092634542142378029</guid>
     </item>
   </channel>
 </rss>

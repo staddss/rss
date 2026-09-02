@@ -179,12 +179,5 @@
       <pubDate>Sun, 09 Aug 2026 16:19:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2086487426277724536</guid>
     </item>
-    <item>
-      <title>日本語入力は出来なくても、この古いネットブックをエミュ専用機にすることは出来た。 xbps-query -Rs emu にて、いろいろな機種のものが揃っていた。 xbps-install -S にて、すべてぶち込んだら遊べるネットブックに変身。 音も alsa pulseaudio pipewire あたりを結構念入りに入れたので何でも鳴る。</title>
-      <link>https://x.com/CafeZgok/status/2084182451346366671</link>
-      <description>CafeZgok: 日本語入力は出来なくても、この古いネットブックをエミュ専用機にすることは出来た。 xbps-query -Rs emu にて、いろいろな機種のものが揃っていた。 xbps-install -S にて、すべてぶち込んだら遊べるネットブックに変身。 音も alsa pulseaudio pipewire あたりを結構念入りに入れたので何でも鳴る。</description>
-      <pubDate>Mon, 03 Aug 2026 07:39:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CafeZgok/status/2084182451346366671</guid>
-    </item>
   </channel>
 </rss>
