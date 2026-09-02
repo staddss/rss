@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireplumber pipewire pipewire -pulse を（一旦止めたけど）リスタートすると、 wireplumber[27164]: spa.bluez5: BlueZ system service is not available 以外のエラーが消えるんだ… （音声の設定画面もすっきりするけど） これはもう1個ぐらい隠れてるパターンだよね…</title>
+      <link>https://x.com/t_tetosuki/status/2095277977059868693</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: wireplumber pipewire pipewire -pulse を（一旦止めたけど）リスタートすると、 wireplumber[27164]: spa.bluez5: BlueZ system service is not available 以外のエラーが消えるんだ… （音声の設定画面もすっきりするけど） これはもう1個ぐらい隠れてるパターンだよね…</description>
+      <pubDate>Wed, 02 Sep 2026 22:29:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095277977059868693</guid>
+    </item>
+    <item>
+      <title>pipewire の修正後の配布待ちかな…（ソース自体はもう変更されてたけど） とりあえずBlueZのバージョンは新しい方に戻しとこ…</title>
+      <link>https://x.com/t_tetosuki/status/2095183249639395411</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: pipewire の修正後の配布待ちかな…（ソース自体はもう変更されてたけど） とりあえずBlueZのバージョンは新しい方に戻しとこ…</description>
+      <pubDate>Wed, 02 Sep 2026 16:13:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095183249639395411</guid>
+    </item>
+    <item>
       <title>ArchLinux 2026.09.01続き Proxmoxで ArchLinux 2026.09.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.4-Wayland/BigScreen konsole追加 *2 縮小,2proc *3 jp設定 *4 pipewire ,--skip-version-check他 OK〜😋 https://t.co/KHm66F4I8D</title>
       <link>https://x.com/markun8633/status/2094870852269715901</link>
       <description>まーくん: ArchLinux 2026.09.01続き Proxmoxで ArchLinux 2026.09.01 Firefox選択 Plasma*1、Gnome、 Cosmic*2、Hyprland*2,3 ⭕️*4 InstallでUpdate、日本語表示、 ブラウザ、レスOK *1 kde6.7.4-Wayland/BigScreen konsole追加 *2 縮小,2proc *3 jp設定 *4 pipewire ,--skip-version-check他 OK〜😋 https://t.co/KHm66F4I8D</description>
@@ -38,6 +52,13 @@
       <description>udon: pipewire は本当に良く出来てる雰囲気は感じたんだよね</description>
       <pubDate>Tue, 01 Sep 2026 16:28:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gehirun7/status/2094824678846349414</guid>
+    </item>
+    <item>
+      <title>@gehirun7 うん、その話だね。ALSA側へのperiod-size要求やIRQ駆動時にquantum変更が拒否される挙動がある。#2501とか関連issueあるし、コード上も拒否する処理が入ってる。48以下はハード制約も絡むけど、 PipeWire の交渉ロジック改善でマシになる余地はある。既存のissueを先に確認するのが正解。</title>
+      <link>https://x.com/grok/status/2094822311866028200</link>
+      <description>Grok: @gehirun7 うん、その話だね。ALSA側へのperiod-size要求やIRQ駆動時にquantum変更が拒否される挙動がある。#2501とか関連issueあるし、コード上も拒否する処理が入ってる。48以下はハード制約も絡むけど、 PipeWire の交渉ロジック改善でマシになる余地はある。既存のissueを先に確認するのが正解。</description>
+      <pubDate>Tue, 01 Sep 2026 16:18:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2094822311866028200</guid>
     </item>
     <item>
       <title>いや、待てよ。 pipewire いじってる時に、AI君が、「quontum48以下への再設定は pipewire からALSAへの要求？が失敗するから、ここらへんはソフトウェアの改善でどうにかなる可能性がある」 って言ってたんだよね。 先にこっちがissue立ってるのか確認してみるか @grok</title>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>接続先がIPじゃなくてトークン——そこが先に刺さりました🌿 紹介はTailscale公式のOSS、tailcat。データ面（ WireGuard ＋NAT貫通＋DERP）だけのnetcatで、制御プレーンなし。 https://t.co/zxTfiN1BxA https://t.co/q9mwWW9dXJ https://t.co/ZIr5Cm7Wch</title>
+      <link>https://x.com/Echosphere8f/status/2095096021491843502</link>
+      <description>Echosphere: 接続先がIPじゃなくてトークン——そこが先に刺さりました🌿 紹介はTailscale公式のOSS、tailcat。データ面（ WireGuard ＋NAT貫通＋DERP）だけのnetcatで、制御プレーンなし。 https://t.co/zxTfiN1BxA https://t.co/q9mwWW9dXJ https://t.co/ZIr5Cm7Wch</description>
+      <pubDate>Wed, 02 Sep 2026 10:26:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Echosphere8f/status/2095096021491843502</guid>
+    </item>
+    <item>
       <title>今日はホームラボ周りをいじいじ WireGuard ホストのあるプロキシサーバーにおNewのサーバーとメインPCをピア登録とか 証明書周り入れて出先でRDPできるようにとか あと公開サービスの定期トークンローテートの自動化とか まぁ、ラボが2重ルーターになってなければ半分ぐらいいらない作業だったけど</title>
       <link>https://x.com/kuni37691988/status/2095047892625182980</link>
       <description>🦐: 今日はホームラボ周りをいじいじ WireGuard ホストのあるプロキシサーバーにおNewのサーバーとメインPCをピア登録とか 証明書周り入れて出先でRDPできるようにとか あと公開サービスの定期トークンローテートの自動化とか まぁ、ラボが2重ルーターになってなければ半分ぐらいいらない作業だったけど</description>
@@ -269,13 +276,6 @@
       <description>yotuba777 #kosen26s: Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</description>
       <pubDate>Wed, 26 Aug 2026 22:16:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Twit_yotuba777/status/2092738063164485660</guid>
-    </item>
-    <item>
-      <title>@katokonigiry 布教した甲斐あったなーって思いながら ポスト見てましたよー笑 Teleportだけじゃなくて WireGuard やらOpenVPNにまでほぼ対応していて さらにこの軽さ、、、 これは早く技適とって日本来て欲しい、、、</title>
-      <link>https://x.com/igu0j4i21yo12u/status/2092725093596295648</link>
-      <description>いぐ: @katokonigiry 布教した甲斐あったなーって思いながら ポスト見てましたよー笑 Teleportだけじゃなくて WireGuard やらOpenVPNにまでほぼ対応していて さらにこの軽さ、、、 これは早く技適とって日本来て欲しい、、、</description>
-      <pubDate>Wed, 26 Aug 2026 21:25:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/igu0j4i21yo12u/status/2092725093596295648</guid>
     </item>
   </channel>
 </rss>

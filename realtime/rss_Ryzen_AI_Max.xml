@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ryzen AI Max + 395で、grubを書き換えて96GBを超えてVRAMに割り当てる裏技、うまくいっていない気がして調べたら、Ubuntu 25.10以降はカーネルパラメータがamdttmではなくttmに変更されてたのか。</title>
+      <link>https://x.com/gadgetrip/status/2095179093792989422</link>
+      <description>がじぇっとりっぷ: Ryzen AI Max + 395で、grubを書き換えて96GBを超えてVRAMに割り当てる裏技、うまくいっていない気がして調べたら、Ubuntu 25.10以降はカーネルパラメータがamdttmではなくttmに変更されてたのか。</description>
+      <pubDate>Wed, 02 Sep 2026 15:56:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gadgetrip/status/2095179093792989422</guid>
+    </item>
+    <item>
+      <title>結局ローカルAIをいくら揃えても検索できなければチャット出来ないし、コンソール操作出来ないとコーディングも出来ない（これはちょっと違う気がするが） でも128gbのramと Ryzen AI Max があればなぁとか思ってしまう</title>
+      <link>https://x.com/takashi1211/status/2095159384162918617</link>
+      <description>たかしくん: 結局ローカルAIをいくら揃えても検索できなければチャット出来ないし、コンソール操作出来ないとコーディングも出来ない（これはちょっと違う気がするが） でも128gbのramと Ryzen AI Max があればなぁとか思ってしまう</description>
+      <pubDate>Wed, 02 Sep 2026 14:38:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takashi1211/status/2095159384162918617</guid>
+    </item>
+    <item>
       <title>&quot;メモリ192GB!? Frameworkが Ryzen AI Max + PRO 495搭載マシンを予告&quot; - ギズモード・ジャパン #SmartNews Macのニュースばかり見てるとメモリ帯域が遅いなぁ とか思っちゃう… https://t.co/FvPvGJ8sZy</title>
       <link>https://x.com/Shione_SZHN/status/2095013276623249848</link>
       <description>⊿汐音（しおね）: &quot;メモリ192GB!? Frameworkが Ryzen AI Max + PRO 495搭載マシンを予告&quot; - ギズモード・ジャパン #SmartNews Macのニュースばかり見てるとメモリ帯域が遅いなぁ とか思っちゃう… https://t.co/FvPvGJ8sZy</description>
@@ -262,20 +276,6 @@
       <description>どすを (DOSUO) | ぱちょこん好きの豚: @UtaAoya 僕も Ryzen AI Max 395+機ユーザーなんですが、AMD環境でもLocal AIの道がもっと拓けるとよいですよね！ただ、大容量メモリ積んでるだけあってEVO-X2やMS S1 Maxも随分高くなってしまいましたね💦</description>
       <pubDate>Sun, 30 Aug 2026 02:55:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/BUTA_no_rakuen/status/2093895344442749163</guid>
-    </item>
-    <item>
-      <title>@posi_posi8 @wisherlens AMD Ryzen AI Max + 395の主なスペックです。 CPU: 16コア/32スレッド (Zen 5)、ベース3.0GHz、ブースト最大5.1GHz、L3キャッシュ64MB、TDP 45-120W GPU: Radeon 8060S (RDNA 3.5) 40CU、最大2.9GHz、約14.8 TFLOPS NPU: XDNA 2 最大50 TOPS 総合AI性能: 最大約126 TOPS メモリ:</title>
-      <link>https://x.com/grok/status/2093842090358718884</link>
-      <description>Grok: @posi_posi8 @wisherlens AMD Ryzen AI Max + 395の主なスペックです。 CPU: 16コア/32スレッド (Zen 5)、ベース3.0GHz、ブースト最大5.1GHz、L3キャッシュ64MB、TDP 45-120W GPU: Radeon 8060S (RDNA 3.5) 40CU、最大2.9GHz、約14.8 TFLOPS NPU: XDNA 2 最大50 TOPS 総合AI性能: 最大約126 TOPS メモリ:</description>
-      <pubDate>Sat, 29 Aug 2026 23:23:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2093842090358718884</guid>
-    </item>
-    <item>
-      <title>@wisherlens @grok AMDの Ryzen AI Max +395を搭載したPCです。64GBをVRAMに割り当てています。演算性能などのスペックを記載して。</title>
-      <link>https://x.com/posi_posi8/status/2093841968959012935</link>
-      <description>posi_posi: @wisherlens @grok AMDの Ryzen AI Max +395を搭載したPCです。64GBをVRAMに割り当てています。演算性能などのスペックを記載して。</description>
-      <pubDate>Sat, 29 Aug 2026 23:23:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/posi_posi8/status/2093841968959012935</guid>
     </item>
   </channel>
 </rss>
