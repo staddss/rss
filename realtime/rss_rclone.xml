@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@tym1101 あの短いやり取りでもうここまで…（すごい） Tailscale(SMB)→RSAF( rclone )→端末の構成にして、 rclone のキャッシュを確保してあげればネットワーク不安定時も途切れずに再生できるようになるとおもう！</title>
+      <link>https://x.com/mitochon_88/status/2094993953150185799</link>
+      <description>ミトコンドリオン: @tym1101 あの短いやり取りでもうここまで…（すごい） Tailscale(SMB)→RSAF( rclone )→端末の構成にして、 rclone のキャッシュを確保してあげればネットワーク不安定時も途切れずに再生できるようになるとおもう！</description>
+      <pubDate>Wed, 02 Sep 2026 03:40:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mitochon_88/status/2094993953150185799</guid>
+    </item>
+    <item>
       <title>@KinHase それはとりあえず、macOSでgoogle drive をマウントして、新着確認して実装してました。 https://t.co/E3OnlgSjdP 今回は、gsheets とかをどうやってバックアップしようかと調べてたところで、 rclone に行き着きました。</title>
       <link>https://x.com/naopi298/status/2093598078473490884</link>
       <description>なおっぴ: @KinHase それはとりあえず、macOSでgoogle drive をマウントして、新着確認して実装してました。 https://t.co/E3OnlgSjdP 今回は、gsheets とかをどうやってバックアップしようかと調べてたところで、 rclone に行き着きました。</description>
@@ -269,13 +276,6 @@
       <description>つぶ: 特定のDropbox フォルダを定期的にGoogle Drive へ同期したくてLXC コンテナを立てて rclone 使って実装したぞー✊️ rclone めっちゃ便利や……</description>
       <pubDate>Wed, 05 Aug 2026 03:36:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tbshiki/status/2084846063052271963</guid>
-    </item>
-    <item>
-      <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>
-      <link>https://x.com/Okakajp25/status/2083847862283379060</link>
-      <description>Okaka25: cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</description>
-      <pubDate>Sun, 02 Aug 2026 09:30:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Okakajp25/status/2083847862283379060</guid>
     </item>
   </channel>
 </rss>

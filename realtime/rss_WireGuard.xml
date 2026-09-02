@@ -124,6 +124,13 @@
       <guid isPermaLink="true">https://x.com/ngts_san/status/2093901902035714346</guid>
     </item>
     <item>
+      <title>ずっと検証中なのが WireGuard or OpenVPNを使って、自宅から遠隔でMacのバックアップ機能「Time Machine」が使えないかやってて、OpenVPNは速度が不安定だけど使えた。 で、最近導入して調子がいいのはTailscale。これ今熱い！ 完全に安定するまでまだスタッフやメンバーに教えられない😆</title>
+      <link>https://x.com/MASAI_Fischers/status/2093900156714590379</link>
+      <description>マサイ【Fischer's】: ずっと検証中なのが WireGuard or OpenVPNを使って、自宅から遠隔でMacのバックアップ機能「Time Machine」が使えないかやってて、OpenVPNは速度が不安定だけど使えた。 で、最近導入して調子がいいのはTailscale。これ今熱い！ 完全に安定するまでまだスタッフやメンバーに教えられない😆</description>
+      <pubDate>Sun, 30 Aug 2026 03:14:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MASAI_Fischers/status/2093900156714590379</guid>
+    </item>
+    <item>
       <title>影響ファームウェア・修正版と確認手順を一覧化しました。産業用ゲートウェイや WireGuard UIを外部公開していませんか？ #セキュリティ #CVE #脆弱性 https://t.co/t5d2XQkFE9</title>
       <link>https://x.com/tsumikasanedev/status/2093898975753699483</link>
       <description>つみかさね: 影響ファームウェア・修正版と確認手順を一覧化しました。産業用ゲートウェイや WireGuard UIを外部公開していませんか？ #セキュリティ #CVE #脆弱性 https://t.co/t5d2XQkFE9</description>
@@ -269,13 +276,6 @@
       <description>ぎがおにおん: @tjjh89017 うーん、と言うよりは、常時家のサーバ群に接続したり、k8sクラスタをスマホで保守したりしたくてやってますね AndroidアプリのNetmakerはユーザ空間でしか動かないので、 Wireguard がネイティブに動くLinuxカーネルがあるならそっちでやりたいという率直なモチベーションです</description>
       <pubDate>Wed, 26 Aug 2026 15:25:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gigaonion/status/2092634542142378029</guid>
-    </item>
-    <item>
-      <title>wireguard でNASアクセス出来るようにした。ノーパソ買うか迷う</title>
-      <link>https://x.com/keriozzr3s/status/2092522362310996057</link>
-      <description>satobomacros: wireguard でNASアクセス出来るようにした。ノーパソ買うか迷う</description>
-      <pubDate>Wed, 26 Aug 2026 07:59:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/keriozzr3s/status/2092522362310996057</guid>
     </item>
   </channel>
 </rss>

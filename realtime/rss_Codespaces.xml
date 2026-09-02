@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの選び方と導入手順：GitHub Codespaces ・Gitpod・AWS Cloud9 を実務的に比較して最短でPoCする方法 https://t.co/16UZBRzlBB #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2094947451849318775</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの選び方と導入手順：GitHub Codespaces ・Gitpod・AWS Cloud9 を実務的に比較して最短でPoCする方法 https://t.co/16UZBRzlBB #エンジニア #ChatGPT #AI</description>
+      <pubDate>Wed, 02 Sep 2026 00:36:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2094947451849318775</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDEの最短結論：どれを選ぶべきか（GitHub Codespaces / Gitpod / AWS Cloud9） https://t.co/3eKQosoV8W #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2094586374355632630</link>
       <description>EngiNear: 【新着記事】クラウドIDEの最短結論：どれを選ぶべきか（GitHub Codespaces / Gitpod / AWS Cloud9） https://t.co/3eKQosoV8W #エンジニア #ChatGPT #AI</description>
@@ -276,13 +283,6 @@
       <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の比較と現場で使える導入手順 https://t.co/DjVt0AcPcX #エンジニア #ChatGPT #AI</description>
       <pubDate>Wed, 19 Aug 2026 00:41:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2089875336800428246</guid>
-    </item>
-    <item>
-      <title>本日はあまり時間が取れずQiita記事の編集のみ。 一昨日にGitHub Codespaces へ「.devcontainer」を設定し、起動時に自動でTerraform環境が立ち上がるよう構築しました！ 毎回のインストールが不要になり、使い勝手がかなり向上しました。 #AWS #マルチクラウド #GitHubCodespaces #devcontainer</title>
-      <link>https://x.com/Python410386/status/2089726274596216839</link>
-      <description>わた| Python: 本日はあまり時間が取れずQiita記事の編集のみ。 一昨日にGitHub Codespaces へ「.devcontainer」を設定し、起動時に自動でTerraform環境が立ち上がるよう構築しました！ 毎回のインストールが不要になり、使い勝手がかなり向上しました。 #AWS #マルチクラウド #GitHubCodespaces #devcontainer</description>
-      <pubDate>Tue, 18 Aug 2026 14:49:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Python410386/status/2089726274596216839</guid>
     </item>
   </channel>
 </rss>

@@ -186,12 +186,5 @@
       <pubDate>Mon, 03 Aug 2026 07:39:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CafeZgok/status/2084182451346366671</guid>
     </item>
-    <item>
-      <title>Linuxの PipeWire に、Flatpakアプリのサンドボックスエスケープに使用可能な脆弱性。CVE-2026-5674はCVSSスコア8.8で、PluseAudio互換レイヤーにおける不具合3件を連鎖させるもの。 Pipewire 1.0.5で修正されており、各ディストロで順次修正。 https://t.co/BaZvV9W53a</title>
-      <link>https://x.com/__kokumoto/status/2084120916846415934</link>
-      <description>kokumօtօ: Linuxの PipeWire に、Flatpakアプリのサンドボックスエスケープに使用可能な脆弱性。CVE-2026-5674はCVSSスコア8.8で、PluseAudio互換レイヤーにおける不具合3件を連鎖させるもの。 Pipewire 1.0.5で修正されており、各ディストロで順次修正。 https://t.co/BaZvV9W53a</description>
-      <pubDate>Mon, 03 Aug 2026 03:35:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__kokumoto/status/2084120916846415934</guid>
-    </item>
   </channel>
 </rss>

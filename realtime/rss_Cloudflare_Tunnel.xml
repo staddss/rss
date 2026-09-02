@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel を使ってサブドメでローカルサーバー立てたら 外部の一般アクセスは大丈夫そうだけど 自宅からレンタルサーバー上のルートドメインサイトへのアクセスだけ壊れたｗ</title>
+      <link>https://x.com/abdda149/status/2094777463616487783</link>
+      <description>Volk149: Cloudflare Tunnel を使ってサブドメでローカルサーバー立てたら 外部の一般アクセスは大丈夫そうだけど 自宅からレンタルサーバー上のルートドメインサイトへのアクセスだけ壊れたｗ</description>
+      <pubDate>Tue, 01 Sep 2026 13:20:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/abdda149/status/2094777463616487783</guid>
+    </item>
+    <item>
       <title>手順書は読まれないというのはエンジニアあるあるだよなぁ〜 cloudflare tunnel は冗長してたのかな https://t.co/DRntOeDrKm</title>
       <link>https://x.com/m4u5u/status/2094774149982154755</link>
       <description>あまうすEx: 手順書は読まれないというのはエンジニアあるあるだよなぁ〜 cloudflare tunnel は冗長してたのかな https://t.co/DRntOeDrKm</description>
@@ -269,13 +276,6 @@
       <description>tai-kun: Cloudflare Tunnel 使ってVSCodeとOpenCodeとStorybookを外から見れるようにした。これで長時間ポケモンGOしに行っても大丈夫。</description>
       <pubDate>Sun, 23 Aug 2026 08:08:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/taikun_dev/status/2091437520106262677</guid>
-    </item>
-    <item>
-      <title>@lft_18rcxtd https://t.co/hUG4LPBcTqは、 Cloudflare tunnel を間に通してる ただWebサーバなのでマイクラサーバに適用できるかは不明</title>
-      <link>https://x.com/1nt_s/status/2091409407246745624</link>
-      <description>Nautilus: @lft_18rcxtd https://t.co/hUG4LPBcTqは、 Cloudflare tunnel を間に通してる ただWebサーバなのでマイクラサーバに適用できるかは不明</description>
-      <pubDate>Sun, 23 Aug 2026 06:17:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/1nt_s/status/2091409407246745624</guid>
     </item>
   </channel>
 </rss>
