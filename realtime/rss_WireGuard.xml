@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【GL.iNet Beryl AX｜WiFi6トラベルルーター】 出張時のネット環境を高速・安定化。 574Mbps＋2402MbpsのWiFi6デュアルバンドで高品質通信。 2.5G WAN＋1G LANでホテルWiFiを高速化。 OpenVPN/ WireGuard 対応、30社以上のVPNと互換。 ビジネス出張に最適。 商品リンク：https://t.co/cpBHsg2cDj</title>
+      <link>https://x.com/mtgdmtgdpmj/status/2095367022360305900</link>
+      <description>バナナバニラ: 【GL.iNet Beryl AX｜WiFi6トラベルルーター】 出張時のネット環境を高速・安定化。 574Mbps＋2402MbpsのWiFi6デュアルバンドで高品質通信。 2.5G WAN＋1G LANでホテルWiFiを高速化。 OpenVPN/ WireGuard 対応、30社以上のVPNと互換。 ビジネス出張に最適。 商品リンク：https://t.co/cpBHsg2cDj</description>
+      <pubDate>Thu, 03 Sep 2026 04:23:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mtgdmtgdpmj/status/2095367022360305900</guid>
+    </item>
+    <item>
+      <title>WireGuard - Linux技術者認定 LinuC | LPI-Japan https://t.co/hYVvcfNbqz</title>
+      <link>https://x.com/yumi11291998/status/2095326242912567472</link>
+      <description>おみみ🐇: WireGuard - Linux技術者認定 LinuC | LPI-Japan https://t.co/hYVvcfNbqz</description>
+      <pubDate>Thu, 03 Sep 2026 01:41:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yumi11291998/status/2095326242912567472</guid>
+    </item>
+    <item>
+      <title>WireGuard なるものがあるらしい。ペア鍵作って認証するらしい。ルータでグローバルIPアドレスからローカルIPアドレスにポートフォワード設定するらしい。IPv4 over IPv6かどうかでまた変わるらしい。</title>
+      <link>https://x.com/ataruno_key/status/2095288542499090935</link>
+      <description>あたるの: WireGuard なるものがあるらしい。ペア鍵作って認証するらしい。ルータでグローバルIPアドレスからローカルIPアドレスにポートフォワード設定するらしい。IPv4 over IPv6かどうかでまた変わるらしい。</description>
+      <pubDate>Wed, 02 Sep 2026 23:11:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ataruno_key/status/2095288542499090935</guid>
+    </item>
+    <item>
       <title>接続先がIPじゃなくてトークン——そこが先に刺さりました🌿 紹介はTailscale公式のOSS、tailcat。データ面（ WireGuard ＋NAT貫通＋DERP）だけのnetcatで、制御プレーンなし。 https://t.co/zxTfiN1BxA https://t.co/q9mwWW9dXJ https://t.co/ZIr5Cm7Wch</title>
       <link>https://x.com/Echosphere8f/status/2095096021491843502</link>
       <description>Echosphere: 接続先がIPじゃなくてトークン——そこが先に刺さりました🌿 紹介はTailscale公式のOSS、tailcat。データ面（ WireGuard ＋NAT貫通＋DERP）だけのnetcatで、制御プレーンなし。 https://t.co/zxTfiN1BxA https://t.co/q9mwWW9dXJ https://t.co/ZIr5Cm7Wch</description>
@@ -255,27 +276,6 @@
       <description>ふぃこ / Fico: Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</description>
       <pubDate>Thu, 27 Aug 2026 02:26:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fico184838/status/2092800895461228931</guid>
-    </item>
-    <item>
-      <title>tailscaleの wireguard 、ユーザースペースで動いてるんか</title>
-      <link>https://x.com/SumiSumiVRC/status/2092780118502752566</link>
-      <description>Sumi-Sumi: tailscaleの wireguard 、ユーザースペースで動いてるんか</description>
-      <pubDate>Thu, 27 Aug 2026 01:03:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SumiSumiVRC/status/2092780118502752566</guid>
-    </item>
-    <item>
-      <title>Tailcat ― netcatのようなツールを、Tailscaleのデータプレーン上で実現 https://t.co/wgah0Q5XLk 要約:Tailcatは、Tailscaleの制御プレーンを使わず、 WireGuard 暗号化とDERP/NAT越え機能で2台を直接接続する、netcat風のOSSツールです。Tailscaleアカウントや管理者権限も不要です。</title>
-      <link>https://x.com/DerkiesAd001/status/2092747849574514919</link>
-      <description>HackerNews要約※非公式: Tailcat ― netcatのようなツールを、Tailscaleのデータプレーン上で実現 https://t.co/wgah0Q5XLk 要約:Tailcatは、Tailscaleの制御プレーンを使わず、 WireGuard 暗号化とDERP/NAT越え機能で2台を直接接続する、netcat風のOSSツールです。Tailscaleアカウントや管理者権限も不要です。</description>
-      <pubDate>Wed, 26 Aug 2026 22:55:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2092747849574514919</guid>
-    </item>
-    <item>
-      <title>Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</title>
-      <link>https://x.com/Twit_yotuba777/status/2092738063164485660</link>
-      <description>yotuba777 #kosen26s: Proton Mailがダウン中、Proton VPNはアプリはダウン中、 WireGuard は接続可能</description>
-      <pubDate>Wed, 26 Aug 2026 22:16:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Twit_yotuba777/status/2092738063164485660</guid>
     </item>
   </channel>
 </rss>
