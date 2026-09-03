@@ -19,13 +19,6 @@
       <guid isPermaLink="true">https://x.com/takashin198726/status/2094680333522481262</guid>
     </item>
     <item>
-      <title>Chromeでショートカットを押すたびにGeminiが立ち上がって困っていたので、 chrome :// flags から Glic を無効化しました。 Gmailで文字を太字にするたびに画面が出てきていたので、かなり平和になりました。 https://t.co/K8IBmm5zvu</title>
-      <link>https://x.com/ma3ru3/status/2094433168569065902</link>
-      <description>masaru matsumura: Chromeでショートカットを押すたびにGeminiが立ち上がって困っていたので、 chrome :// flags から Glic を無効化しました。 Gmailで文字を太字にするたびに画面が出てきていたので、かなり平和になりました。 https://t.co/K8IBmm5zvu</description>
-      <pubDate>Mon, 31 Aug 2026 14:32:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ma3ru3/status/2094433168569065902</guid>
-    </item>
-    <item>
       <title>WebMCP なるほど、token を発行してホストすれば ユーザー側で chrome :// flags /#enable-webmcp-testing 有効化すれば利用可能になるのね でもユーザー側に設定させるの微妙だなぁ やむなしか https://t.co/34Dc6AZxtV https://t.co/PjhsvixgFu</title>
       <link>https://x.com/jun1228909/status/2093940320249753950</link>
       <description>jun: WebMCP なるほど、token を発行してホストすれば ユーザー側で chrome :// flags /#enable-webmcp-testing 有効化すれば利用可能になるのね でもユーザー側に設定させるの微妙だなぁ やむなしか https://t.co/34Dc6AZxtV https://t.co/PjhsvixgFu</description>
@@ -199,6 +192,13 @@
       <description>いてん: Chromeのアドレスバーに文字を入力してTabを押したときにAIモードのボタンを押してしまってイライラしてたニキたちへ。 chrome :// flags /からAIモードボタンを消す方法、最近のChromeのアプデで項目なくなってるけど、アドレスバー右クリック→AIモードを常に表示するでオンオフが可能になったぞ！！</description>
       <pubDate>Wed, 05 Aug 2026 04:10:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/itensannn/status/2084854547869294993</guid>
+    </item>
+    <item>
+      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
+      <link>https://x.com/cotodaman/status/2065536945976140248</link>
+      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
+      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
     <item>
       <title>これを機にWebMCPを触る Chromeの実験機能だったのか ロードマップ 1)ここで早期アクセスに申し込むとドキュメント見れる https://t.co/LIclgweqQO 2)Chromeの設定で以下にアクセスしてオンにする chrome :// flags /#enable-webmcp-testing 3)拡張機能から試す https://t.co/w22NDqXlI9 https://t.co/7tkkeycvzV https://t.co/btHiWno4wa</title>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Rclone とCLIを組み合わせてFilenが常時爆速になったのでやっとメインへ本格的に移行できるわー。 構築まで色々面倒だったけどGeminiくんの協力で漕ぎ着けることができた。AIってすごいね。</title>
+      <link>https://x.com/tourmaline0907/status/2095507902262079703</link>
+      <description>tourmaline: Rclone とCLIを組み合わせてFilenが常時爆速になったのでやっとメインへ本格的に移行できるわー。 構築まで色々面倒だったけどGeminiくんの協力で漕ぎ着けることができた。AIってすごいね。</description>
+      <pubDate>Thu, 03 Sep 2026 13:43:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tourmaline0907/status/2095507902262079703</guid>
+    </item>
+    <item>
       <title>rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</title>
       <link>https://x.com/hitoka_isaki/status/2095460825628864937</link>
       <description>異咲ヒトカ🧬⛩️O-bul異世間メディア: rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</description>
@@ -269,13 +276,6 @@
       <description>アカマイ･テクノロジーズ: #Qiita ブログ公開！ 本記事では、 rclone unionのcreate_policy = allを使うことで、1回のアップロード操作でAkamai Object Storageの東京・大阪両方のバケットに同時に複製できることを、実際のAkamai Cloud環境で検証してみました。 https://t.co/OXYNOgwqG5 @Qiita #テックブログ #クラウド https://t.co/aQL6R5er0s</description>
       <pubDate>Thu, 06 Aug 2026 08:00:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akamai_jp/status/2085274827422675401</guid>
-    </item>
-    <item>
-      <title>NixOSでのGoogle Grive、 rclone で頑張ってたけどInsync買ったら調子良すぎて有料プロダクトってすげ〜〜〜〜〜になってる</title>
-      <link>https://x.com/fly_2_fake/status/2084952086643626369</link>
-      <description>fly_2_fake: NixOSでのGoogle Grive、 rclone で頑張ってたけどInsync買ったら調子良すぎて有料プロダクトってすげ〜〜〜〜〜になってる</description>
-      <pubDate>Wed, 05 Aug 2026 10:38:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fly_2_fake/status/2084952086643626369</guid>
     </item>
   </channel>
 </rss>

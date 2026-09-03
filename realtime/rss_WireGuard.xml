@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>DGX Sparkで動くLLMを WireGuard で AWS EC2から社内の人が自由に使えるように公開してみた。 キャッシングとか色々調べて試行錯誤していきたい</title>
+      <link>https://x.com/tan9i_/status/2095499963245662603</link>
+      <description>tan9i: DGX Sparkで動くLLMを WireGuard で AWS EC2から社内の人が自由に使えるように公開してみた。 キャッシングとか色々調べて試行錯誤していきたい</description>
+      <pubDate>Thu, 03 Sep 2026 13:11:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tan9i_/status/2095499963245662603</guid>
+    </item>
+    <item>
       <title>【GL.iNet Beryl AX｜WiFi6トラベルルーター】 出張時のネット環境を高速・安定化。 574Mbps＋2402MbpsのWiFi6デュアルバンドで高品質通信。 2.5G WAN＋1G LANでホテルWiFiを高速化。 OpenVPN/ WireGuard 対応、30社以上のVPNと互換。 ビジネス出張に最適。 商品リンク：https://t.co/cpBHsg2cDj</title>
       <link>https://x.com/mtgdmtgdpmj/status/2095367022360305900</link>
       <description>バナナバニラ: 【GL.iNet Beryl AX｜WiFi6トラベルルーター】 出張時のネット環境を高速・安定化。 574Mbps＋2402MbpsのWiFi6デュアルバンドで高品質通信。 2.5G WAN＋1G LANでホテルWiFiを高速化。 OpenVPN/ WireGuard 対応、30社以上のVPNと互換。 ビジネス出張に最適。 商品リンク：https://t.co/cpBHsg2cDj</description>
@@ -269,13 +276,6 @@
       <description>水: WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</description>
       <pubDate>Thu, 27 Aug 2026 16:14:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mizktw/status/2093009352307474501</guid>
-    </item>
-    <item>
-      <title>わっつにゅー 実際に使われているポートだけ解放して他を全部閉じた + Wireguard …と思ってたけどTailscale導入してSSHの22番ポートも塞いだ https://t.co/ONFE5pigoI</title>
-      <link>https://x.com/50radish/status/2092962343336726978</link>
-      <description>五十鈴お嬢様(𝗥𝗲:𝗩𝗜𝗩𝗘): わっつにゅー 実際に使われているポートだけ解放して他を全部閉じた + Wireguard …と思ってたけどTailscale導入してSSHの22番ポートも塞いだ https://t.co/ONFE5pigoI</description>
-      <pubDate>Thu, 27 Aug 2026 13:08:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/50radish/status/2092962343336726978</guid>
     </item>
   </channel>
 </rss>

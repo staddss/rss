@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>他のチャンネルの音量設定を拾ってる感じだけど、 とりあえず、欲しいデバイスを表示させてから systemctl --user restart wireplumber pipewire pipewire -pulse ですっきりさせればいいか… （0.5.17で表示と音量設定とかのインデックスずれが直るかは謎）</title>
+      <link>https://x.com/t_tetosuki/status/2095283426626781628</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: 他のチャンネルの音量設定を拾ってる感じだけど、 とりあえず、欲しいデバイスを表示させてから systemctl --user restart wireplumber pipewire pipewire -pulse ですっきりさせればいいか… （0.5.17で表示と音量設定とかのインデックスずれが直るかは謎）</description>
+      <pubDate>Wed, 02 Sep 2026 22:51:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095283426626781628</guid>
+    </item>
+    <item>
       <title>wireplumber pipewire pipewire -pulse を（一旦止めたけど）リスタートすると、 wireplumber[27164]: spa.bluez5: BlueZ system service is not available 以外のエラーが消えるんだ… （音声の設定画面もすっきりするけど） これはもう1個ぐらい隠れてるパターンだよね…</title>
       <link>https://x.com/t_tetosuki/status/2095277977059868693</link>
       <description>とりす⛄🐾❄☘🐕🐾🐾🦴: wireplumber pipewire pipewire -pulse を（一旦止めたけど）リスタートすると、 wireplumber[27164]: spa.bluez5: BlueZ system service is not available 以外のエラーが消えるんだ… （音声の設定画面もすっきりするけど） これはもう1個ぐらい隠れてるパターンだよね…</description>
