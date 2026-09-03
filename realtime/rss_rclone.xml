@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</title>
+      <link>https://x.com/hitoka_isaki/status/2095460825628864937</link>
+      <description>異咲ヒトカ🧬⛩️O-bul異世間メディア: rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</description>
+      <pubDate>Thu, 03 Sep 2026 10:36:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hitoka_isaki/status/2095460825628864937</guid>
+    </item>
+    <item>
       <title>研究室のサーバーを Rclone でgoogle driveに同期させたら全然終わらん https://t.co/CDhop7XthF</title>
       <link>https://x.com/sabakaaaaan69/status/2095041694488256963</link>
       <description>さばかん: 研究室のサーバーを Rclone でgoogle driveに同期させたら全然終わらん https://t.co/CDhop7XthF</description>
@@ -269,20 +276,6 @@
       <description>fly_2_fake: NixOSでのGoogle Grive、 rclone で頑張ってたけどInsync買ったら調子良すぎて有料プロダクトってすげ〜〜〜〜〜になってる</description>
       <pubDate>Wed, 05 Aug 2026 10:38:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fly_2_fake/status/2084952086643626369</guid>
-    </item>
-    <item>
-      <title>失敗したらSlack に通知するようにしてマシンの死活監視はhttps://t.co/4ssiXW5uT9 で監視やー Rclone https://t.co/gQiGJO2fPu</title>
-      <link>https://x.com/tbshiki/status/2084846783042343222</link>
-      <description>つぶ: 失敗したらSlack に通知するようにしてマシンの死活監視はhttps://t.co/4ssiXW5uT9 で監視やー Rclone https://t.co/gQiGJO2fPu</description>
-      <pubDate>Wed, 05 Aug 2026 03:39:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tbshiki/status/2084846783042343222</guid>
-    </item>
-    <item>
-      <title>特定のDropbox フォルダを定期的にGoogle Drive へ同期したくてLXC コンテナを立てて rclone 使って実装したぞー✊️ rclone めっちゃ便利や……</title>
-      <link>https://x.com/tbshiki/status/2084846063052271963</link>
-      <description>つぶ: 特定のDropbox フォルダを定期的にGoogle Drive へ同期したくてLXC コンテナを立てて rclone 使って実装したぞー✊️ rclone めっちゃ便利や……</description>
-      <pubDate>Wed, 05 Aug 2026 03:36:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tbshiki/status/2084846063052271963</guid>
     </item>
   </channel>
 </rss>

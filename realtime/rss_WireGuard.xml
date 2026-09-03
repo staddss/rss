@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/mtgdmtgdpmj/status/2095367022360305900</guid>
     </item>
     <item>
+      <title>「一度ハマった罠には、二度と落ちない」は都合の良い思い込みです。 うちが使っているVPSのセキュリティグループは、ルールを書いても『サーバへの割り当て』を忘れる罠に3回落ちました。 SSH、 WireGuard 、そしてn8nのLet's Encrypt証明書発行。毎回、同じ仕組みの同じ落とし穴でした。</title>
+      <link>https://x.com/n8nFlowMaster/status/2095349827223888376</link>
+      <description>陽向｜中小企業の「人手不足×サイバーリスク」をn8nで解決する自動化エンジニア: 「一度ハマった罠には、二度と落ちない」は都合の良い思い込みです。 うちが使っているVPSのセキュリティグループは、ルールを書いても『サーバへの割り当て』を忘れる罠に3回落ちました。 SSH、 WireGuard 、そしてn8nのLet's Encrypt証明書発行。毎回、同じ仕組みの同じ落とし穴でした。</description>
+      <pubDate>Thu, 03 Sep 2026 03:15:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n8nFlowMaster/status/2095349827223888376</guid>
+    </item>
+    <item>
       <title>WireGuard - Linux技術者認定 LinuC | LPI-Japan https://t.co/hYVvcfNbqz</title>
       <link>https://x.com/yumi11291998/status/2095326242912567472</link>
       <description>おみみ🐇: WireGuard - Linux技術者認定 LinuC | LPI-Japan https://t.co/hYVvcfNbqz</description>
@@ -269,13 +276,6 @@
       <description>五十鈴お嬢様(𝗥𝗲:𝗩𝗜𝗩𝗘): わっつにゅー 実際に使われているポートだけ解放して他を全部閉じた + Wireguard …と思ってたけどTailscale導入してSSHの22番ポートも塞いだ https://t.co/ONFE5pigoI</description>
       <pubDate>Thu, 27 Aug 2026 13:08:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/50radish/status/2092962343336726978</guid>
-    </item>
-    <item>
-      <title>Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</title>
-      <link>https://x.com/Fico184838/status/2092800895461228931</link>
-      <description>ふぃこ / Fico: Tailscaleのアカウントも管理者権限も不要で暗号化トンネルが張れるツール「Tailcat」、海外でもう話題になってるよ! WireGuard 暗号化済みのP2P接続がトークン1つで完成するらしい。ルーティングもDNSも一切いじらないのがポイントぴこぴこ♪ ふぃこなら開発中の… https://t.co/lzeftD1xF0</description>
-      <pubDate>Thu, 27 Aug 2026 02:26:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Fico184838/status/2092800895461228931</guid>
     </item>
   </channel>
 </rss>
