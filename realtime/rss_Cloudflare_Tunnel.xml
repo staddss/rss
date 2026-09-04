@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/playstation2_ch/status/2095502272457576840</guid>
     </item>
     <item>
+      <title>Cloudflare Tunnel はいいぞ #omotesandorb</title>
+      <link>https://x.com/kaiba/status/2095467336803455477</link>
+      <description>kaiba: Cloudflare Tunnel はいいぞ #omotesandorb</description>
+      <pubDate>Thu, 03 Sep 2026 11:01:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kaiba/status/2095467336803455477</guid>
+    </item>
+    <item>
       <title>ぐぬぬ GoogleColab 無料枠 上限がぁー （これ？OpenCode解説動画ないかも） 「Qwen3-14B-AWQ」 「vLLM」 ー ↑ Google Colab内 ー 「 Cloudflare Tunnel 」（トンネル公開） ー ↓ ローカルPC ー 「OpenCode」（AIコーディング）… Ryzen5 5600GでQwen3.8-8b・OpenCodeよりは快適</title>
       <link>https://x.com/playstation2_ch/status/2095163756544475311</link>
       <description>I have an apple@Pic unrelated: ぐぬぬ GoogleColab 無料枠 上限がぁー （これ？OpenCode解説動画ないかも） 「Qwen3-14B-AWQ」 「vLLM」 ー ↑ Google Colab内 ー 「 Cloudflare Tunnel 」（トンネル公開） ー ↓ ローカルPC ー 「OpenCode」（AIコーディング）… Ryzen5 5600GでQwen3.8-8b・OpenCodeよりは快適</description>
@@ -269,13 +276,6 @@
       <description>ktgohan: @s_sasamatsu 基本的には Cloudflare Tunnel でいいんですが、あれがもし基盤侵害くらったらおわおわりなので悩んではいます。ただ自宅をIPoE化したらたぶんそれしかないかなとも…</description>
       <pubDate>Mon, 24 Aug 2026 06:01:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ktgohan/status/2091767856375763071</guid>
-    </item>
-    <item>
-      <title>@Nubia_ZUltra お持ちのドメインで公開するなら Cloudflare Tunnel ですね あくまでTailscaleは「自宅のサーバーに外から個人的にアクセスするためのVPN」であり、Funnelはオマケです</title>
-      <link>https://x.com/Tempest_ml/status/2091759149663371587</link>
-      <description>颯爽: @Nubia_ZUltra お持ちのドメインで公開するなら Cloudflare Tunnel ですね あくまでTailscaleは「自宅のサーバーに外から個人的にアクセスするためのVPN」であり、Funnelはオマケです</description>
-      <pubDate>Mon, 24 Aug 2026 05:26:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tempest_ml/status/2091759149663371587</guid>
     </item>
   </channel>
 </rss>

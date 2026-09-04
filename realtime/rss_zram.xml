@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あの頃が一番輝いてた。 くそでっかい64GBのRAMを余らずcacheしまくって爆速化する 今のドデカイ脳４OSと違って 如何に少ない最小限4GB RAM端末を ZRAM やらswappiness比率で賢く使って省資源化。 小型端末をどう動かすかカーネルチューン に拘ってた時代</title>
+      <link>https://x.com/432s7/status/2095487932719390776</link>
+      <description>はまさん@暗闇すいさいだー: あの頃が一番輝いてた。 くそでっかい64GBのRAMを余らずcacheしまくって爆速化する 今のドデカイ脳４OSと違って 如何に少ない最小限4GB RAM端末を ZRAM やらswappiness比率で賢く使って省資源化。 小型端末をどう動かすかカーネルチューン に拘ってた時代</description>
+      <pubDate>Thu, 03 Sep 2026 12:23:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/432s7/status/2095487932719390776</guid>
+    </item>
+    <item>
       <title>【Zennを更新しました】 検証環境のEC2コスト削減のため「 zram 」を試すも、普通のswapの方が速かった検証結果を解説！条件による向き不向きなど役立つ知見を紹介しています。是非ご覧ください！ #フォルシア #AWS #Linux https://t.co/gxzldXw5io</title>
       <link>https://x.com/FORCIA_PR/status/2095406515175997578</link>
       <description>【公式】フォルシア株式会社: 【Zennを更新しました】 検証環境のEC2コスト削減のため「 zram 」を試すも、普通のswapの方が速かった検証結果を解説！条件による向き不向きなど役立つ知見を紹介しています。是非ご覧ください！ #フォルシア #AWS #Linux https://t.co/gxzldXw5io</description>
@@ -101,13 +108,6 @@
       <description>c0/綾鷹好きな人: メモリが一枚死んだ、悲しい ついでに zram 試してみたけど私の環境には合わないな、どうしてもソフトがフリーズする</description>
       <pubDate>Wed, 05 Aug 2026 17:28:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/collar000000/status/2085055259710525899</guid>
-    </item>
-    <item>
-      <title>@pc_watch zram をハードウェアで</title>
-      <link>https://x.com/r_ohara/status/2084922974352900567</link>
-      <description>大原隆一: @pc_watch zram をハードウェアで</description>
-      <pubDate>Wed, 05 Aug 2026 08:42:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/r_ohara/status/2084922974352900567</guid>
     </item>
   </channel>
 </rss>

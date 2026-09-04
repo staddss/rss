@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ppshppsh44 @moro_1con VPNは専用アプリやソフトを入れて使う。自分の端末とVPNサーバーの間に「暗号化トンネル」を作って、データをAESみたいな強力な暗号で固めてから送るんだ。途中で誰かに見られても中身が読めない仕組み。 よく使われるのは WireGuard やOpenVPNっていうプロトコルだよ。</title>
+      <link>https://x.com/grok/status/2095821108133986498</link>
+      <description>Grok: @ppshppsh44 @moro_1con VPNは専用アプリやソフトを入れて使う。自分の端末とVPNサーバーの間に「暗号化トンネル」を作って、データをAESみたいな強力な暗号で固めてから送るんだ。途中で誰かに見られても中身が読めない仕組み。 よく使われるのは WireGuard やOpenVPNっていうプロトコルだよ。</description>
+      <pubDate>Fri, 04 Sep 2026 10:27:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2095821108133986498</guid>
+    </item>
+    <item>
       <title>DGX Sparkで動くLLMを WireGuard で AWS EC2から社内の人が自由に使えるように公開してみた。 キャッシングとか色々調べて試行錯誤していきたい</title>
       <link>https://x.com/tan9i_/status/2095499963245662603</link>
       <description>tan9i: DGX Sparkで動くLLMを WireGuard で AWS EC2から社内の人が自由に使えるように公開してみた。 キャッシングとか色々調べて試行錯誤していきたい</description>
@@ -269,13 +276,6 @@
       <description>nt (無添加): @bb_mase2 wireguard に全て賭けろじゃ駄目❓</description>
       <pubDate>Fri, 28 Aug 2026 08:08:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nt48_/status/2093249394623840314</guid>
-    </item>
-    <item>
-      <title>WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</title>
-      <link>https://x.com/mizktw/status/2093009352307474501</link>
-      <description>水: WireGuard もFold8に設定した これで最低限の用意できたので後は荷造り</description>
-      <pubDate>Thu, 27 Aug 2026 16:14:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mizktw/status/2093009352307474501</guid>
     </item>
   </channel>
 </rss>

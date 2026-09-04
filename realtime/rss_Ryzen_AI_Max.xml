@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AI用PCの64GB、全部をGPU専用にはできません。 Ryzen AI Max +のVGM上限は64GB機で48GB、128GB機で96GB。 専用枠に48GB超が必要なら128GB機を検討。48GB以内なら64GB機も候補。 共有メモリとは別枠。割当分はOS用から減るため、対応ソフトと残容量も確認を。 #ローカルAI https://t.co/DsLtYiK0B0</title>
+      <link>https://x.com/aipclab_jp/status/2095839537310351383</link>
+      <description>AI PC LAB｜AI×PC実験: AI用PCの64GB、全部をGPU専用にはできません。 Ryzen AI Max +のVGM上限は64GB機で48GB、128GB機で96GB。 専用枠に48GB超が必要なら128GB機を検討。48GB以内なら64GB機も候補。 共有メモリとは別枠。割当分はOS用から減るため、対応ソフトと残容量も確認を。 #ローカルAI https://t.co/DsLtYiK0B0</description>
+      <pubDate>Fri, 04 Sep 2026 11:40:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aipclab_jp/status/2095839537310351383</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max 495 の 192GB 思ってたより Local LLM の速度が出てない。シングルノードで動くのは良いけど、この速度だとなぁ https://t.co/gGu7MIHVaG</title>
+      <link>https://x.com/hakobera/status/2095830033478852825</link>
+      <description>Kazuyuki Honda: Ryzen AI Max 495 の 192GB 思ってたより Local LLM の速度が出てない。シングルノードで動くのは良いけど、この速度だとなぁ https://t.co/gGu7MIHVaG</description>
+      <pubDate>Fri, 04 Sep 2026 11:03:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hakobera/status/2095830033478852825</guid>
+    </item>
+    <item>
+      <title>IFA 2026で Ryzen AI Max + PRO搭載の小型AIワークステーションが登場！ローカルAI開発向けに最大192GBメモリを搭載します。 ACEMAGIC、 Ryzen AI Max + PRO 495搭載の小型AIワークステーション発表 https://t.co/0udYHaoRkG</title>
+      <link>https://x.com/UesugiFreelance/status/2095820681728364964</link>
+      <description>Uesugi | Python/JS/VB開発@第三電子作事所: IFA 2026で Ryzen AI Max + PRO搭載の小型AIワークステーションが登場！ローカルAI開発向けに最大192GBメモリを搭載します。 ACEMAGIC、 Ryzen AI Max + PRO 495搭載の小型AIワークステーション発表 https://t.co/0udYHaoRkG</description>
+      <pubDate>Fri, 04 Sep 2026 10:26:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UesugiFreelance/status/2095820681728364964</guid>
+    </item>
+    <item>
+      <title>DGX Sparkみたいに繋げられるStrix Halo（EVO-X3等）みたいなのか Lenovo ThinkCentre X Ultra ・ Ryzen AI Max + PRO 495（Gorgon Halo） ・最大128GB Unified Memory ・最大4台をクラスタ化 ただ搭載I/Oは 10GbE：1.25GB/s TB4：5GB/s でDGX Sparkの25GB/sには及ばないか https://t.co/mJTTaymaYL</title>
+      <link>https://x.com/XQ4rZxSWTA77029/status/2095814232629805472</link>
+      <description>Neru: DGX Sparkみたいに繋げられるStrix Halo（EVO-X3等）みたいなのか Lenovo ThinkCentre X Ultra ・ Ryzen AI Max + PRO 495（Gorgon Halo） ・最大128GB Unified Memory ・最大4台をクラスタ化 ただ搭載I/Oは 10GbE：1.25GB/s TB4：5GB/s でDGX Sparkの25GB/sには及ばないか https://t.co/mJTTaymaYL</description>
+      <pubDate>Fri, 04 Sep 2026 10:00:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/XQ4rZxSWTA77029/status/2095814232629805472</guid>
+    </item>
+    <item>
+      <title>近々 Ryzen AI Max + PRO 495とRTX Sparkが出てそれを買うか価格競争で値下げしたDGX Sparkを買うかが狙い目ね</title>
+      <link>https://x.com/_totakke/status/2095802402704339378</link>
+      <description>とたなんとか: 近々 Ryzen AI Max + PRO 495とRTX Sparkが出てそれを買うか価格競争で値下げしたDGX Sparkを買うかが狙い目ね</description>
+      <pubDate>Fri, 04 Sep 2026 09:13:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_totakke/status/2095802402704339378</guid>
+    </item>
+    <item>
       <title>ついに登場か！ Ryzen AI Max + PRO 495採用でメモリ容量が192GBまで増やせるようになったのが強みだね。 デカいAIモデルが動かせるようになる https://t.co/FCtSC41VAv</title>
       <link>https://x.com/midou_pcmovie/status/2095762065545982334</link>
       <description>御堂純@ガジェット・映像制作: ついに登場か！ Ryzen AI Max + PRO 495採用でメモリ容量が192GBまで増やせるようになったのが強みだね。 デカいAIモデルが動かせるようになる https://t.co/FCtSC41VAv</description>
@@ -241,41 +276,6 @@
       <description>がじぇっとりっぷ: 一週間ぶりくらいにLM Studio開いたらQwen3.8-Flash-Nextに対応してた。 Ryzen AI Max + 395/128GBにQ4_K_XLで試したところ、GPUオフロード 32/48までロード成功、36/48はクラッシュ(おま環の可能性高)。 13 tok/s出ているし、とりあえずはこれでいいかなぁ</description>
       <pubDate>Tue, 01 Sep 2026 08:07:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gadgetrip/status/2094698592191857116</guid>
-    </item>
-    <item>
-      <title>ローカルAIを本格活用できる「DAIV CX」発売、 Ryzen AI Max + 395搭載の小型PC – マウスコンピューター #DAIVCX #ITニュース https://t.co/pu54Xgof7Q</title>
-      <link>https://x.com/it_news_it_news/status/2094679286636839085</link>
-      <description>ITニュース: ローカルAIを本格活用できる「DAIV CX」発売、 Ryzen AI Max + 395搭載の小型PC – マウスコンピューター #DAIVCX #ITニュース https://t.co/pu54Xgof7Q</description>
-      <pubDate>Tue, 01 Sep 2026 06:50:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/it_news_it_news/status/2094679286636839085</guid>
-    </item>
-    <item>
-      <title>【最大9万円割引】ASUS（エイスース）ノートPC・デスクトップPC「初秋セール」会場はコチラから #PR ⇒ ✅https://t.co/OFB89aXpfr ［2026年9月14日（月）12：00まで］ ・Vivobook Go 14 94,800円【4万5千円OFF】 ・ExpertBook B5 159,800円【7万円OFF】 ・ASUS TUF Gaming A14「 Ryzen AI MAX + https://t.co/8Ea1oH8X6o</title>
-      <link>https://x.com/kaitekipasokon/status/2094668985854046628</link>
-      <description>快適パソコン.com: 【最大9万円割引】ASUS（エイスース）ノートPC・デスクトップPC「初秋セール」会場はコチラから #PR ⇒ ✅https://t.co/OFB89aXpfr ［2026年9月14日（月）12：00まで］ ・Vivobook Go 14 94,800円【4万5千円OFF】 ・ExpertBook B5 159,800円【7万円OFF】 ・ASUS TUF Gaming A14「 Ryzen AI MAX + https://t.co/8Ea1oH8X6o</description>
-      <pubDate>Tue, 01 Sep 2026 06:09:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kaitekipasokon/status/2094668985854046628</guid>
-    </item>
-    <item>
-      <title>先日はソフト側(圧縮・量子化)の話をしたので、今度はハード側。 FrameworkのデスクトップにユニファイドメモリLPDDR5X 192GB構成が公式に載った( Ryzen AI Max + PRO 495・帯域273GB/s・coming soon表示)。r/LocalLLaMAでは即座に793↑の祭りになっている。</title>
-      <link>https://x.com/medrehaKRSE/status/2094651516972134503</link>
-      <description>KRSE: 先日はソフト側(圧縮・量子化)の話をしたので、今度はハード側。 FrameworkのデスクトップにユニファイドメモリLPDDR5X 192GB構成が公式に載った( Ryzen AI Max + PRO 495・帯域273GB/s・coming soon表示)。r/LocalLLaMAでは即座に793↑の祭りになっている。</description>
-      <pubDate>Tue, 01 Sep 2026 05:00:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/medrehaKRSE/status/2094651516972134503</guid>
-    </item>
-    <item>
-      <title>【6%OFFで479,800円】＜Amazonタイムセール＞ASUS ゲーミングノートPC ROG Flow Z13 GZ302EA 13.4インチ AMD Ryzen AI MAX + 395 メモリ 64GB SSD 1TB リフレッシュレート180Hz デタッチャブル イルミネートキーボード Windows 11 バッテリ... #ad https://t.co/4eIo8uaTEJ</title>
-      <link>https://x.com/lTEEFVWP_8/status/2094591820537954565</link>
-      <description>コーヒーカップ: 【6%OFFで479,800円】＜Amazonタイムセール＞ASUS ゲーミングノートPC ROG Flow Z13 GZ302EA 13.4インチ AMD Ryzen AI MAX + 395 メモリ 64GB SSD 1TB リフレッシュレート180Hz デタッチャブル イルミネートキーボード Windows 11 バッテリ... #ad https://t.co/4eIo8uaTEJ</description>
-      <pubDate>Tue, 01 Sep 2026 01:03:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lTEEFVWP_8/status/2094591820537954565</guid>
-    </item>
-    <item>
-      <title>個人開発用のおもちゃとしてどれがよいだろう RTX Spark Ryzen AI Max ＋395 Apple silicon abletonも使うならapple一択だけども。12.5になるまで待つか。</title>
-      <link>https://x.com/ShoZz58025/status/2094580300378751289</link>
-      <description>zzSho: 個人開発用のおもちゃとしてどれがよいだろう RTX Spark Ryzen AI Max ＋395 Apple silicon abletonも使うならapple一択だけども。12.5になるまで待つか。</description>
-      <pubDate>Tue, 01 Sep 2026 00:17:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ShoZz58025/status/2094580300378751289</guid>
     </item>
   </channel>
 </rss>
