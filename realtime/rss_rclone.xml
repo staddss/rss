@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/tourmaline0907/status/2095507902262079703</guid>
     </item>
     <item>
+      <title>AndroidとLinux NASの連携について。 基本はRSAF( RClone )経由でSFTP、VLCのみSMBという何とももどかしい。 NFSはAndroidの仕様と相性が悪いしVLCはSAFが使えない。 VLCでNFSは一応使えたがローカル限定でTailscaleを経由するとダメみたい。</title>
+      <link>https://x.com/toshi_custom/status/2095495334663446555</link>
+      <description>トシ改: AndroidとLinux NASの連携について。 基本はRSAF( RClone )経由でSFTP、VLCのみSMBという何とももどかしい。 NFSはAndroidの仕様と相性が悪いしVLCはSAFが使えない。 VLCでNFSは一応使えたがローカル限定でTailscaleを経由するとダメみたい。</description>
+      <pubDate>Thu, 03 Sep 2026 12:53:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/toshi_custom/status/2095495334663446555</guid>
+    </item>
+    <item>
       <title>rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</title>
       <link>https://x.com/hitoka_isaki/status/2095460825628864937</link>
       <description>異咲ヒトカ🧬⛩️O-bul異世間メディア: rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</description>
