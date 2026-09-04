@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireplumber pipewire pipewire -pulse をリスタートしてみると、音量メーターは振れるようになるけど、音は出ないっぽい…</title>
+      <link>https://x.com/t_tetosuki/status/2095751022522347978</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: wireplumber pipewire pipewire -pulse をリスタートしてみると、音量メーターは振れるようになるけど、音は出ないっぽい…</description>
+      <pubDate>Fri, 04 Sep 2026 05:49:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095751022522347978</guid>
+    </item>
+    <item>
+      <title>pipewire [1239]: spa.alsa: 'hdmi:1,1': playback open failed: デバイスもしくはリソースがビジー状態です pipewire [1239]: pw.node: (alsa_output.pci-（略）.hdmi-stereo-extra1-99) suspended -&gt; error (Start error: デバイスもしくはリソースがビジー状態です)</title>
+      <link>https://x.com/t_tetosuki/status/2095749493836894511</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: pipewire [1239]: spa.alsa: 'hdmi:1,1': playback open failed: デバイスもしくはリソースがビジー状態です pipewire [1239]: pw.node: (alsa_output.pci-（略）.hdmi-stereo-extra1-99) suspended -&gt; error (Start error: デバイスもしくはリソースがビジー状態です)</description>
+      <pubDate>Fri, 04 Sep 2026 05:43:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095749493836894511</guid>
+    </item>
+    <item>
+      <title>wayland環境構築に向けてdebian13からcinnamon環境がフルにそろってるLMDE7に戻した kernel7.2でAMD-CPU対応が進むし10月以降に7.3リリース見込みだしwayland導入に向けbackportsで7.1.xカーネル化cuda関連導入してGPUドライバも最新に pipewire 、jackとaudio関連も投入まで終えた 続きは終末からかな</title>
+      <link>https://x.com/LegacyGrandblue/status/2095510333649805588</link>
+      <description>黄金のLegacy Grandblue❖Kujata: wayland環境構築に向けてdebian13からcinnamon環境がフルにそろってるLMDE7に戻した kernel7.2でAMD-CPU対応が進むし10月以降に7.3リリース見込みだしwayland導入に向けbackportsで7.1.xカーネル化cuda関連導入してGPUドライバも最新に pipewire 、jackとaudio関連も投入まで終えた 続きは終末からかな</description>
+      <pubDate>Thu, 03 Sep 2026 13:52:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LegacyGrandblue/status/2095510333649805588</guid>
+    </item>
+    <item>
       <title>他のチャンネルの音量設定を拾ってる感じだけど、 とりあえず、欲しいデバイスを表示させてから systemctl --user restart wireplumber pipewire pipewire -pulse ですっきりさせればいいか… （0.5.17で表示と音量設定とかのインデックスずれが直るかは謎）</title>
       <link>https://x.com/t_tetosuki/status/2095283426626781628</link>
       <description>とりす⛄🐾❄☘🐕🐾🐾🦴: 他のチャンネルの音量設定を拾ってる感じだけど、 とりあえず、欲しいデバイスを表示させてから systemctl --user restart wireplumber pipewire pipewire -pulse ですっきりさせればいいか… （0.5.17で表示と音量設定とかのインデックスずれが直るかは謎）</description>
