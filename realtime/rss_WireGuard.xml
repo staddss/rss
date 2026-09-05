@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</title>
+      <link>https://x.com/L_port8000/status/2096105859218903268</link>
+      <description>一樹（いつき）: そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</description>
+      <pubDate>Sat, 05 Sep 2026 05:19:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2096105859218903268</guid>
+    </item>
+    <item>
+      <title>退役したVPNサーバの後釜を、手のひらサイズの中古機で立て直した。 HP ProDesk 400 mini・Debian 12・ WireGuard 。 積んであるのは5台。一番上だけG1、あとは全部G2。 G2は秋葉原・ラジオデパートの処分品で1台1500円。ACアダプタは別で500円。 https://t.co/vxc4vEmPh5</title>
+      <link>https://x.com/AideaHandesen/status/2096080662503796859</link>
+      <description>Aidea@AIに配信させるvTuber(愛だよ愛): 退役したVPNサーバの後釜を、手のひらサイズの中古機で立て直した。 HP ProDesk 400 mini・Debian 12・ WireGuard 。 積んであるのは5台。一番上だけG1、あとは全部G2。 G2は秋葉原・ラジオデパートの処分品で1台1500円。ACアダプタは別で500円。 https://t.co/vxc4vEmPh5</description>
+      <pubDate>Sat, 05 Sep 2026 03:39:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AideaHandesen/status/2096080662503796859</guid>
+    </item>
+    <item>
+      <title>Mullvad VPNの大阪と東京リージョンどっちも壊れてるけどWindowsの Wireguard が壊れてるのかサーバーが死んでるのかどっちもあるから特定できん</title>
+      <link>https://x.com/sashisashi569/status/2096057072408510843</link>
+      <description>sashisashi: Mullvad VPNの大阪と東京リージョンどっちも壊れてるけどWindowsの Wireguard が壊れてるのかサーバーが死んでるのかどっちもあるから特定できん</description>
+      <pubDate>Sat, 05 Sep 2026 02:05:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2096057072408510843</guid>
+    </item>
+    <item>
+      <title>あー、分かった。 WireGuard 由来でした。解決</title>
+      <link>https://x.com/kage_musashino/status/2096044906372530178</link>
+      <description>影山よりひさ: あー、分かった。 WireGuard 由来でした。解決</description>
+      <pubDate>Sat, 05 Sep 2026 01:17:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kage_musashino/status/2096044906372530178</guid>
+    </item>
+    <item>
       <title>@ppshppsh44 @moro_1con VPNは専用アプリやソフトを入れて使う。自分の端末とVPNサーバーの間に「暗号化トンネル」を作って、データをAESみたいな強力な暗号で固めてから送るんだ。途中で誰かに見られても中身が読めない仕組み。 よく使われるのは WireGuard やOpenVPNっていうプロトコルだよ。</title>
       <link>https://x.com/grok/status/2095821108133986498</link>
       <description>Grok: @ppshppsh44 @moro_1con VPNは専用アプリやソフトを入れて使う。自分の端末とVPNサーバーの間に「暗号化トンネル」を作って、データをAESみたいな強力な暗号で固めてから送るんだ。途中で誰かに見られても中身が読めない仕組み。 よく使われるのは WireGuard やOpenVPNっていうプロトコルだよ。</description>
@@ -248,34 +276,6 @@
       <description>もぐの: 「Tailscaleはただの WireGuard のための便利なUIだ。」 これは嘘だな。nftablesを勝手に破壊するクソだ。 Wireguard はそんなことしない。 https://t.co/ZuBFku4wLX</description>
       <pubDate>Fri, 28 Aug 2026 23:08:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/moguno/status/2093475910339203173</guid>
-    </item>
-    <item>
-      <title>AWSでUbuntu立てて WireGuard 接続できるようにした。AIの言いなりになっただけだけど、おもろいなこれ</title>
-      <link>https://x.com/AritelV/status/2093389650790605044</link>
-      <description>Aritel(ありてる): AWSでUbuntu立てて WireGuard 接続できるようにした。AIの言いなりになっただけだけど、おもろいなこれ</description>
-      <pubDate>Fri, 28 Aug 2026 17:26:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AritelV/status/2093389650790605044</guid>
-    </item>
-    <item>
-      <title>https://t.co/oy4uiqkwu6 WireGuard 対応！待ってた！ https://t.co/IIgbiUH1Pz</title>
-      <link>https://x.com/illumi_key/status/2093343384710848601</link>
-      <description>いるみん: https://t.co/oy4uiqkwu6 WireGuard 対応！待ってた！ https://t.co/IIgbiUH1Pz</description>
-      <pubDate>Fri, 28 Aug 2026 14:22:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/illumi_key/status/2093343384710848601</guid>
-    </item>
-    <item>
-      <title>Tailscaleの代替を考えると WireGuard だけでは足りない https://t.co/rMNVCoP6ey</title>
-      <link>https://x.com/oyamarindou/status/2093272355900633220</link>
-      <description>しおうめ: Tailscaleの代替を考えると WireGuard だけでは足りない https://t.co/rMNVCoP6ey</description>
-      <pubDate>Fri, 28 Aug 2026 09:39:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oyamarindou/status/2093272355900633220</guid>
-    </item>
-    <item>
-      <title>@bb_mase2 wireguard に全て賭けろじゃ駄目❓</title>
-      <link>https://x.com/nt48_/status/2093249394623840314</link>
-      <description>nt (無添加): @bb_mase2 wireguard に全て賭けろじゃ駄目❓</description>
-      <pubDate>Fri, 28 Aug 2026 08:08:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nt48_/status/2093249394623840314</guid>
     </item>
   </channel>
 </rss>
