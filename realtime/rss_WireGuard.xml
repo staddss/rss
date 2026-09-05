@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard は拠点間通信の足回りに使うときAllowedIPsがkernel routingより強いせいで P2Pならいいけど上でBGPとか動かして、動的にいじいじ・ECMP・マルチホップでの到達性の救済が要るP2MP拠点用になるとかなりめんどい。 その点OpenVPNはpush</title>
+      <link>https://x.com/rurimium/status/2096299239941054873</link>
+      <description>rrm: wireguard は拠点間通信の足回りに使うときAllowedIPsがkernel routingより強いせいで P2Pならいいけど上でBGPとか動かして、動的にいじいじ・ECMP・マルチホップでの到達性の救済が要るP2MP拠点用になるとかなりめんどい。 その点OpenVPNはpush</description>
+      <pubDate>Sat, 05 Sep 2026 18:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rurimium/status/2096299239941054873</guid>
+    </item>
+    <item>
+      <title>LightsailでDebian13のインスタンス1つを立てて、ブラウザSSHでログイン確認。あとはUFW入れてinboundを絞ったり Wireguard 入れたりするなど、だいぶ感触は掴めた気がする。やっぱ実際に触ってみるべきだな…。</title>
+      <link>https://x.com/oyaguma3/status/2096270547705614773</link>
+      <description>おやぐまさん: LightsailでDebian13のインスタンス1つを立てて、ブラウザSSHでログイン確認。あとはUFW入れてinboundを絞ったり Wireguard 入れたりするなど、だいぶ感触は掴めた気がする。やっぱ実際に触ってみるべきだな…。</description>
+      <pubDate>Sat, 05 Sep 2026 16:13:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyaguma3/status/2096270547705614773</guid>
+    </item>
+    <item>
+      <title>UE5 Zen Storage Serverを外出先でデスクトップPCとリモートシェア活用する際、Tailscale や WireGuard 、Cloudflare Tunnelで接続するパターンがあるみたいだ。外出先のもくもく会やイベント時にリモートからデスクトップPCにアクセスして作業設定やデータ連携ができるように今度仕込んでみるか。</title>
+      <link>https://x.com/Shimotuki2012/status/2096251075104038995</link>
+      <description>霜月（しもつき）＠UE5ゲーム開発×ボドゲTRPG原案: UE5 Zen Storage Serverを外出先でデスクトップPCとリモートシェア活用する際、Tailscale や WireGuard 、Cloudflare Tunnelで接続するパターンがあるみたいだ。外出先のもくもく会やイベント時にリモートからデスクトップPCにアクセスして作業設定やデータ連携ができるように今度仕込んでみるか。</description>
+      <pubDate>Sat, 05 Sep 2026 14:56:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Shimotuki2012/status/2096251075104038995</guid>
+    </item>
+    <item>
       <title>因みに何故か私と wireguard と相性悪いみたいでWindowsはもちろんLinuxでもエラー吐く というのも Wireguard をONにするとインポートされているすべての wireguard をONにしようとしてインターネット使えなくなる笑笑 手動で一個だけにすれば一応できるが面倒... というわけであとでLinuxも新調 多分Fedora https://t.co/UizSgM3KTn</title>
       <link>https://x.com/L_port8000/status/2096106672217542764</link>
       <description>一樹（いつき）: 因みに何故か私と wireguard と相性悪いみたいでWindowsはもちろんLinuxでもエラー吐く というのも Wireguard をONにするとインポートされているすべての wireguard をONにしようとしてインターネット使えなくなる笑笑 手動で一個だけにすれば一応できるが面倒... というわけであとでLinuxも新調 多分Fedora https://t.co/UizSgM3KTn</description>
       <pubDate>Sat, 05 Sep 2026 05:22:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8000/status/2096106672217542764</guid>
+    </item>
+    <item>
+      <title>そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</title>
+      <link>https://x.com/L_port8000/status/2096105859218903268</link>
+      <description>一樹（いつき）: そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</description>
+      <pubDate>Sat, 05 Sep 2026 05:19:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2096105859218903268</guid>
     </item>
     <item>
       <title>退役したVPNサーバの後釜を、手のひらサイズの中古機で立て直した。 HP ProDesk 400 mini・Debian 12・ WireGuard 。 積んであるのは5台。一番上だけG1、あとは全部G2。 G2は秋葉原・ラジオデパートの処分品で1台1500円。ACアダプタは別で500円。 https://t.co/vxc4vEmPh5</title>
@@ -248,34 +276,6 @@
       <description>mox:7B-AWQ: 楽天モバイルと Wireguard の相性が悪いのかめっちゃ死ぬ</description>
       <pubDate>Sat, 29 Aug 2026 14:12:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mox_vc/status/2093703242324807713</guid>
-    </item>
-    <item>
-      <title>開発機2号くんだか、結局 VibeCoding 環境は 8C16T 32GB で不足分はスワップを大量に使ってもらうことにした。手元で動かさないぶん、動作が遅くても問題あるまい。他にも使う用途あるんで、仕方あるまい。今日は Wireguard を設定できたので、明日は iSCSI に行きたいですね。</title>
-      <link>https://x.com/SeahalJa/status/2093696637629833269</link>
-      <description>SEAHAL(Ja): 開発機2号くんだか、結局 VibeCoding 環境は 8C16T 32GB で不足分はスワップを大量に使ってもらうことにした。手元で動かさないぶん、動作が遅くても問題あるまい。他にも使う用途あるんで、仕方あるまい。今日は Wireguard を設定できたので、明日は iSCSI に行きたいですね。</description>
-      <pubDate>Sat, 29 Aug 2026 13:45:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2093696637629833269</guid>
-    </item>
-    <item>
-      <title>tailscale/tailcatがDaily Trending 11位に登場。Tailscaleのアカウントや制御プレーン不要で、netcatのように使えるGo製ツール。root権限なしで WireGuard による暗号化接続を構築できます。 https://t.co/KsiDR26BkW</title>
-      <link>https://x.com/github_trendjp/status/2093644864395296891</link>
-      <description>Githubトレンド: tailscale/tailcatがDaily Trending 11位に登場。Tailscaleのアカウントや制御プレーン不要で、netcatのように使えるGo製ツール。root権限なしで WireGuard による暗号化接続を構築できます。 https://t.co/KsiDR26BkW</description>
-      <pubDate>Sat, 29 Aug 2026 10:20:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/github_trendjp/status/2093644864395296891</guid>
-    </item>
-    <item>
-      <title>Mango 普通の有線ならワイヤースピード wifiも150Mbps接続で60Mbpsくらい出てるから、まあ自分が使うには問題ない性能かな CPUがシングルコアなんで、処理のたびに100%張り付きがちだけど 通信速度には影響なさげだし VPNは遅いねぇ WireGuard で50Mbpsでるけど Tailscaleは4Mbpsなんで ギリ使える💦</title>
-      <link>https://x.com/zeroichi_tecto/status/2093599670736204184</link>
-      <description>零壱テクト: Mango 普通の有線ならワイヤースピード wifiも150Mbps接続で60Mbpsくらい出てるから、まあ自分が使うには問題ない性能かな CPUがシングルコアなんで、処理のたびに100%張り付きがちだけど 通信速度には影響なさげだし VPNは遅いねぇ WireGuard で50Mbpsでるけど Tailscaleは4Mbpsなんで ギリ使える💦</description>
-      <pubDate>Sat, 29 Aug 2026 07:20:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zeroichi_tecto/status/2093599670736204184</guid>
-    </item>
-    <item>
-      <title>「Tailscaleはただの WireGuard のための便利なUIだ。」 これは嘘だな。nftablesを勝手に破壊するクソだ。 Wireguard はそんなことしない。 https://t.co/ZuBFku4wLX</title>
-      <link>https://x.com/moguno/status/2093475910339203173</link>
-      <description>もぐの: 「Tailscaleはただの WireGuard のための便利なUIだ。」 これは嘘だな。nftablesを勝手に破壊するクソだ。 Wireguard はそんなことしない。 https://t.co/ZuBFku4wLX</description>
-      <pubDate>Fri, 28 Aug 2026 23:08:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2093475910339203173</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ネット回線を失った瞬間、俺はスマホとPCのObsidianファイルの同期（ syncthing 使用）も取れなくなっており、新しいモデムが届くまでどっちの環境中心でObsidianを触るのか考えないければいけなくなってしまった。自由なようで不自由な現代人よ。</title>
+      <link>https://x.com/bass_panda/status/2095931406467862797</link>
+      <description>ゆるふわ眼鏡熊猫なう: ネット回線を失った瞬間、俺はスマホとPCのObsidianファイルの同期（ syncthing 使用）も取れなくなっており、新しいモデムが届くまでどっちの環境中心でObsidianを触るのか考えないければいけなくなってしまった。自由なようで不自由な現代人よ。</description>
+      <pubDate>Fri, 04 Sep 2026 17:46:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bass_panda/status/2095931406467862797</guid>
+    </item>
+    <item>
       <title>今までおっかなびっくりエロいファイルも含めてGoogle Driveにミラーリングしてたりしたんですけども、 Syncthing で自室PCとリビングPCで同期させるようにして心が安定いたしました</title>
       <link>https://x.com/yuriaki8/status/2095492651932110895</link>
       <description>ユリアキ: 今までおっかなびっくりエロいファイルも含めてGoogle Driveにミラーリングしてたりしたんですけども、 Syncthing で自室PCとリビングPCで同期させるようにして心が安定いたしました</description>
@@ -129,13 +136,6 @@
       <description>冬斗(ふゆとん): syncthing で、ubuntu側の共有ディレクトリにシンボリックリンクを置いたんだけど、そのままでは共有されなかった。</description>
       <pubDate>Fri, 07 Aug 2026 06:47:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fuyuton/status/2085618728176328722</guid>
-    </item>
-    <item>
-      <title>Syncthing でObsidian VaultをHermesのサーバに同期しているので、サーバ側でGitにプッシュを一本化することにした。ObsidianのGitプラグインはお役御免。</title>
-      <link>https://x.com/phasephi/status/2085350748595126731</link>
-      <description>のがみ: Syncthing でObsidian VaultをHermesのサーバに同期しているので、サーバ側でGitにプッシュを一本化することにした。ObsidianのGitプラグインはお役御免。</description>
-      <pubDate>Thu, 06 Aug 2026 13:02:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/phasephi/status/2085350748595126731</guid>
     </item>
     <item>
       <title>Linuxホスト用意してNextcloud/ syncthing でファイル同期し、クライアントをMesh VPNで常時接続するようにしておくと容量関係なく好きなように同期できるし、勝手にファイル覗かれてBANされる心配もないのでとっても健全</title>
