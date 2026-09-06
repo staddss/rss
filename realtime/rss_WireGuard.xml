@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>お客さんのところのVPNが WireGuard になってから劇的に快適になったので、うちの事務所と自宅にも導入してみました。 ネットワーク機器の制約等もあり最終的にTailscaleにしましたが、異次元レベルの設定の容易さに加え、通信も超快適！！ 久々にこれ系の技術で感動しました。 -ガイ</title>
+      <link>https://x.com/LilytechLab/status/2096544797301547384</link>
+      <description>りりらぼ: お客さんのところのVPNが WireGuard になってから劇的に快適になったので、うちの事務所と自宅にも導入してみました。 ネットワーク機器の制約等もあり最終的にTailscaleにしましたが、異次元レベルの設定の容易さに加え、通信も超快適！！ 久々にこれ系の技術で感動しました。 -ガイ</description>
+      <pubDate>Sun, 06 Sep 2026 10:23:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LilytechLab/status/2096544797301547384</guid>
+    </item>
+    <item>
       <title>Windowsの Wireguard 、インバウンドのルーティングテーブルが壊れてんのかな 送信はできてるけど受信が全くされなくてハンドシェイクが完了しない</title>
       <link>https://x.com/sashisashi569/status/2096505016647639379</link>
       <description>sashisashi: Windowsの Wireguard 、インバウンドのルーティングテーブルが壊れてんのかな 送信はできてるけど受信が全くされなくてハンドシェイクが完了しない</description>
@@ -269,13 +276,6 @@
       <description>マサイ【Fischer's】: ずっと検証中なのが WireGuard or OpenVPNを使って、自宅から遠隔でMacのバックアップ機能「Time Machine」が使えないかやってて、OpenVPNは速度が不安定だけど使えた。 で、最近導入して調子がいいのはTailscale。これ今熱い！ 完全に安定するまでまだスタッフやメンバーに教えられない😆</description>
       <pubDate>Sun, 30 Aug 2026 03:14:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MASAI_Fischers/status/2093900156714590379</guid>
-    </item>
-    <item>
-      <title>影響ファームウェア・修正版と確認手順を一覧化しました。産業用ゲートウェイや WireGuard UIを外部公開していませんか？ #セキュリティ #CVE #脆弱性 https://t.co/t5d2XQkFE9</title>
-      <link>https://x.com/tsumikasanedev/status/2093898975753699483</link>
-      <description>つみかさね: 影響ファームウェア・修正版と確認手順を一覧化しました。産業用ゲートウェイや WireGuard UIを外部公開していませんか？ #セキュリティ #CVE #脆弱性 https://t.co/t5d2XQkFE9</description>
-      <pubDate>Sun, 30 Aug 2026 03:09:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2093898975753699483</guid>
     </item>
   </channel>
 </rss>
