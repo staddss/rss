@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscaleを使わず、 WireGuard で繋ぐか悩んだけど、利便性を考えて、Tailscaleを使うことにした。 というか単純にTailscaleの構築がめっちゃ楽なので。 https://t.co/Z7fUpjAPbY</title>
+      <link>https://x.com/Kassy_VW/status/2096648065495216548</link>
+      <description>Kassy(カッシー): Tailscaleを使わず、 WireGuard で繋ぐか悩んだけど、利便性を考えて、Tailscaleを使うことにした。 というか単純にTailscaleの構築がめっちゃ楽なので。 https://t.co/Z7fUpjAPbY</description>
+      <pubDate>Sun, 06 Sep 2026 17:13:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kassy_VW/status/2096648065495216548</guid>
+    </item>
+    <item>
+      <title>次の目標は、APというかルーターから Wireguard 張ってE2Eで1x認証を通すまでだな。本当はAPとVPNルーターを分けたいけど、個人で単なる検証のためにVPNルーターを調達するにはちょっとお財布事情が厳しい…。</title>
+      <link>https://x.com/oyaguma3/status/2096631669935780260</link>
+      <description>おやぐまさん: 次の目標は、APというかルーターから Wireguard 張ってE2Eで1x認証を通すまでだな。本当はAPとVPNルーターを分けたいけど、個人で単なる検証のためにVPNルーターを調達するにはちょっとお財布事情が厳しい…。</description>
+      <pubDate>Sun, 06 Sep 2026 16:08:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyaguma3/status/2096631669935780260</guid>
+    </item>
+    <item>
+      <title>昨夜に続いて、LightsailのDebian13インスタンスを使って、生成AIをガイド役にしながらハンズオンで勉強。今夜はradsecproxyのコンテナを立てて、上流のRADIUSサーバーに（ Wireguard 経由で）Status-Serverが通るところまで確認した。ぼちぼちだな。</title>
+      <link>https://x.com/oyaguma3/status/2096630547779088873</link>
+      <description>おやぐまさん: 昨夜に続いて、LightsailのDebian13インスタンスを使って、生成AIをガイド役にしながらハンズオンで勉強。今夜はradsecproxyのコンテナを立てて、上流のRADIUSサーバーに（ Wireguard 経由で）Status-Serverが通るところまで確認した。ぼちぼちだな。</description>
+      <pubDate>Sun, 06 Sep 2026 16:04:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyaguma3/status/2096630547779088873</guid>
+    </item>
+    <item>
+      <title>2014年ごろのFirefox OSスマホ「Fx0」が、 2026年にHTTPSサーバとして復活しましたw 44Netを知る ↓ Mangoで WireGuard ↓ https://t.co/1wDAEy56XSの名前を取得 ↓ 眠っていたFx0を発掘 ↓ HTTPSサーバ化 しかも今のところ、いつでもつながるとは限らない。 それが短波通信っぽくて、むしろ面白い。 https://t.co/54IXQ6v8xy</title>
+      <link>https://x.com/4989er/status/2096597255319077314</link>
+      <description>富永道也｜AI活用実装・情報リテラシー顧問: 2014年ごろのFirefox OSスマホ「Fx0」が、 2026年にHTTPSサーバとして復活しましたw 44Netを知る ↓ Mangoで WireGuard ↓ https://t.co/1wDAEy56XSの名前を取得 ↓ 眠っていたFx0を発掘 ↓ HTTPSサーバ化 しかも今のところ、いつでもつながるとは限らない。 それが短波通信っぽくて、むしろ面白い。 https://t.co/54IXQ6v8xy</description>
+      <pubDate>Sun, 06 Sep 2026 13:51:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/4989er/status/2096597255319077314</guid>
+    </item>
+    <item>
       <title>お客さんのところのVPNが WireGuard になってから劇的に快適になったので、うちの事務所と自宅にも導入してみました。 ネットワーク機器の制約等もあり最終的にTailscaleにしましたが、異次元レベルの設定の容易さに加え、通信も超快適！！ 久々にこれ系の技術で感動しました。 -ガイ</title>
       <link>https://x.com/LilytechLab/status/2096544797301547384</link>
       <description>りりらぼ: お客さんのところのVPNが WireGuard になってから劇的に快適になったので、うちの事務所と自宅にも導入してみました。 ネットワーク機器の制約等もあり最終的にTailscaleにしましたが、異次元レベルの設定の容易さに加え、通信も超快適！！ 久々にこれ系の技術で感動しました。 -ガイ</description>
@@ -248,34 +276,6 @@
       <description>アッキー.net （ikunoCam）（共同）: TaleScaleって元をたどると WireGuard じゃなかったっけ？ https://t.co/idDMcOJNbG</description>
       <pubDate>Sun, 30 Aug 2026 10:28:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akki_0429_net/status/2094009332132454764</guid>
-    </item>
-    <item>
-      <title>@MASAI_Fischers 実際動画データの保存はNASにRAID組んでやるのが1番ですよね〜 Tailscaleは WireGuard の構築が鬼楽なのでTeamプランでデータ関係を簡単に出来れば革命ですね</title>
-      <link>https://x.com/pronelt_tlenorp/status/2093947557525487791</link>
-      <description>Pronelt.: @MASAI_Fischers 実際動画データの保存はNASにRAID組んでやるのが1番ですよね〜 Tailscaleは WireGuard の構築が鬼楽なのでTeamプランでデータ関係を簡単に出来れば革命ですね</description>
-      <pubDate>Sun, 30 Aug 2026 06:22:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pronelt_tlenorp/status/2093947557525487791</guid>
-    </item>
-    <item>
-      <title>WireGuard OpenVPN → Tailscale使ってるって親近感ある。意外とエンジニアよりなんだマサイって。 https://t.co/XtFOtJpbYl</title>
-      <link>https://x.com/pote2king/status/2093918566122999865</link>
-      <description>ポテじゃが: WireGuard OpenVPN → Tailscale使ってるって親近感ある。意外とエンジニアよりなんだマサイって。 https://t.co/XtFOtJpbYl</description>
-      <pubDate>Sun, 30 Aug 2026 04:27:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pote2king/status/2093918566122999865</guid>
-    </item>
-    <item>
-      <title>男なら生の wireguard でvpn構築しろって言ってんの(tailscaleにログインしながら)</title>
-      <link>https://x.com/ngts_san/status/2093901902035714346</link>
-      <description>としおこ: 男なら生の wireguard でvpn構築しろって言ってんの(tailscaleにログインしながら)</description>
-      <pubDate>Sun, 30 Aug 2026 03:21:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ngts_san/status/2093901902035714346</guid>
-    </item>
-    <item>
-      <title>ずっと検証中なのが WireGuard or OpenVPNを使って、自宅から遠隔でMacのバックアップ機能「Time Machine」が使えないかやってて、OpenVPNは速度が不安定だけど使えた。 で、最近導入して調子がいいのはTailscale。これ今熱い！ 完全に安定するまでまだスタッフやメンバーに教えられない😆</title>
-      <link>https://x.com/MASAI_Fischers/status/2093900156714590379</link>
-      <description>マサイ【Fischer's】: ずっと検証中なのが WireGuard or OpenVPNを使って、自宅から遠隔でMacのバックアップ機能「Time Machine」が使えないかやってて、OpenVPNは速度が不安定だけど使えた。 で、最近導入して調子がいいのはTailscale。これ今熱い！ 完全に安定するまでまだスタッフやメンバーに教えられない😆</description>
-      <pubDate>Sun, 30 Aug 2026 03:14:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MASAI_Fischers/status/2093900156714590379</guid>
     </item>
   </channel>
 </rss>
