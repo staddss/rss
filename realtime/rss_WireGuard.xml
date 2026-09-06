@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>wireguard は拠点間通信の足回りに使うときAllowedIPsがkernel routingより強いせいで P2Pならいいけど上でBGPとか動かして、動的にいじいじ・ECMP・マルチホップでの到達性の救済が要るP2MP拠点用になるとかなりめんどい。 その点OpenVPNはpush</title>
-      <link>https://x.com/rurimium/status/2096299239941054873</link>
-      <description>rrm: wireguard は拠点間通信の足回りに使うときAllowedIPsがkernel routingより強いせいで P2Pならいいけど上でBGPとか動かして、動的にいじいじ・ECMP・マルチホップでの到達性の救済が要るP2MP拠点用になるとかなりめんどい。 その点OpenVPNはpush</description>
-      <pubDate>Sat, 05 Sep 2026 18:07:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rurimium/status/2096299239941054873</guid>
+      <title>Windowsの Wireguard 、インバウンドのルーティングテーブルが壊れてんのかな 送信はできてるけど受信が全くされなくてハンドシェイクが完了しない</title>
+      <link>https://x.com/sashisashi569/status/2096505016647639379</link>
+      <description>sashisashi: Windowsの Wireguard 、インバウンドのルーティングテーブルが壊れてんのかな 送信はできてるけど受信が全くされなくてハンドシェイクが完了しない</description>
+      <pubDate>Sun, 06 Sep 2026 07:45:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2096505016647639379</guid>
+    </item>
+    <item>
+      <title>今は外出中。普通なら自宅への接続は WireGuard とか使って直接自宅のLANに入るんでしょうけど、アマチュア無線の技術を使うため、一旦ダラスを経由する不思議。 https://t.co/fv90hlxFza</title>
+      <link>https://x.com/4989er/status/2096397774946529636</link>
+      <description>富永道也｜AI活用実装・情報リテラシー顧問: 今は外出中。普通なら自宅への接続は WireGuard とか使って直接自宅のLANに入るんでしょうけど、アマチュア無線の技術を使うため、一旦ダラスを経由する不思議。 https://t.co/fv90hlxFza</description>
+      <pubDate>Sun, 06 Sep 2026 00:39:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/4989er/status/2096397774946529636</guid>
+    </item>
+    <item>
+      <title>その後、https://t.co/1wDAEy56XSのサブドメインも無料で取得できることがわかり、 WireGuard の接続先をダラスに変更し、自宅内の機器にグローバルIPアドレスを付けた。 自宅内の隣の部屋の機器だというのに、こういうルーティングができてしまった。 https://t.co/JqeDQnKItY</title>
+      <link>https://x.com/4989er/status/2096379742631129234</link>
+      <description>富永道也｜AI活用実装・情報リテラシー顧問: その後、https://t.co/1wDAEy56XSのサブドメインも無料で取得できることがわかり、 WireGuard の接続先をダラスに変更し、自宅内の機器にグローバルIPアドレスを付けた。 自宅内の隣の部屋の機器だというのに、こういうルーティングができてしまった。 https://t.co/JqeDQnKItY</description>
+      <pubDate>Sat, 05 Sep 2026 23:27:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/4989er/status/2096379742631129234</guid>
+    </item>
+    <item>
+      <title>ちなみにこれはmikrotik hexとLinuxでVXLAN over BGP over wireguard over フレッツ（NGN)したときの知見の一部 （おとなしくEoIPしろ）</title>
+      <link>https://x.com/rurimium/status/2096299933871853868</link>
+      <description>rrm: ちなみにこれはmikrotik hexとLinuxでVXLAN over BGP over wireguard over フレッツ（NGN)したときの知見の一部 （おとなしくEoIPしろ）</description>
+      <pubDate>Sat, 05 Sep 2026 18:10:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rurimium/status/2096299933871853868</guid>
     </item>
     <item>
       <title>LightsailでDebian13のインスタンス1つを立てて、ブラウザSSHでログイン確認。あとはUFW入れてinboundを絞ったり Wireguard 入れたりするなど、だいぶ感触は掴めた気がする。やっぱ実際に触ってみるべきだな…。</title>
@@ -255,27 +276,6 @@
       <description>つみかさね: 影響ファームウェア・修正版と確認手順を一覧化しました。産業用ゲートウェイや WireGuard UIを外部公開していませんか？ #セキュリティ #CVE #脆弱性 https://t.co/t5d2XQkFE9</description>
       <pubDate>Sun, 30 Aug 2026 03:09:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsumikasanedev/status/2093898975753699483</guid>
-    </item>
-    <item>
-      <title>openVPNは初めて構築したけど、めんどくさいね。 やっぱり wireguard は神！ 何か優劣あるのかな。</title>
-      <link>https://x.com/takumi_it_study/status/2093707504970805661</link>
-      <description>たくみ@エンジニアになりたい一般人: openVPNは初めて構築したけど、めんどくさいね。 やっぱり wireguard は神！ 何か優劣あるのかな。</description>
-      <pubDate>Sat, 29 Aug 2026 14:29:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takumi_it_study/status/2093707504970805661</guid>
-    </item>
-    <item>
-      <title>楽天モバイルで Wireguard 通すとPingが5000msとかになる 電車が悪いんかなぁ</title>
-      <link>https://x.com/mox_vc/status/2093703872573567485</link>
-      <description>mox:7B-AWQ: 楽天モバイルで Wireguard 通すとPingが5000msとかになる 電車が悪いんかなぁ</description>
-      <pubDate>Sat, 29 Aug 2026 14:14:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mox_vc/status/2093703872573567485</guid>
-    </item>
-    <item>
-      <title>楽天モバイルと Wireguard の相性が悪いのかめっちゃ死ぬ</title>
-      <link>https://x.com/mox_vc/status/2093703242324807713</link>
-      <description>mox:7B-AWQ: 楽天モバイルと Wireguard の相性が悪いのかめっちゃ死ぬ</description>
-      <pubDate>Sat, 29 Aug 2026 14:12:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mox_vc/status/2093703242324807713</guid>
     </item>
   </channel>
 </rss>

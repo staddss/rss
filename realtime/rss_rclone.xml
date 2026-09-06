@@ -277,12 +277,5 @@
       <pubDate>Sun, 09 Aug 2026 07:08:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Mx_Issue/status/2086348865570304190</guid>
     </item>
-    <item>
-      <title>個人で作成するナレッジはバージョン管理の必要性は低い。 なのでGithub に置くより、クラウドストレージの方が制限が緩くてよいのではとも思う。 もし、バージョン管理したいなら、 rclone のバックアップオプション使えばよい気もする。 同期対象だけを指定のフォルダにバックアップとれる。 https://t.co/Q1Iti7KlsF</title>
-      <link>https://x.com/Mx_Issue/status/2086338926063870027</link>
-      <description>🍓Mx_Issue🦑: 個人で作成するナレッジはバージョン管理の必要性は低い。 なのでGithub に置くより、クラウドストレージの方が制限が緩くてよいのではとも思う。 もし、バージョン管理したいなら、 rclone のバックアップオプション使えばよい気もする。 同期対象だけを指定のフォルダにバックアップとれる。 https://t.co/Q1Iti7KlsF</description>
-      <pubDate>Sun, 09 Aug 2026 06:28:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Mx_Issue/status/2086338926063870027</guid>
-    </item>
   </channel>
 </rss>

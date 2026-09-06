@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>複数マシン・別OS間で、 claudeのセッション履歴とワーキングディレクトリをリモート同期( syncthing )し、 SessionStart Hookで「いまどのマシンでClaude Codeが実行しているか」を明記することで、Claude</title>
+      <link>https://x.com/uehaj/status/2096424179356889091</link>
+      <description>uehaj: 複数マシン・別OS間で、 claudeのセッション履歴とワーキングディレクトリをリモート同期( syncthing )し、 SessionStart Hookで「いまどのマシンでClaude Codeが実行しているか」を明記することで、Claude</description>
+      <pubDate>Sun, 06 Sep 2026 02:24:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/uehaj/status/2096424179356889091</guid>
+    </item>
+    <item>
       <title>ネット回線を失った瞬間、俺はスマホとPCのObsidianファイルの同期（ syncthing 使用）も取れなくなっており、新しいモデムが届くまでどっちの環境中心でObsidianを触るのか考えないければいけなくなってしまった。自由なようで不自由な現代人よ。</title>
       <link>https://x.com/bass_panda/status/2095931406467862797</link>
       <description>ゆるふわ眼鏡熊猫なう: ネット回線を失った瞬間、俺はスマホとPCのObsidianファイルの同期（ syncthing 使用）も取れなくなっており、新しいモデムが届くまでどっちの環境中心でObsidianを触るのか考えないければいけなくなってしまった。自由なようで不自由な現代人よ。</description>
@@ -129,13 +136,6 @@
       <description>iiinno: すっげえ今更だけどObsidianをPCとスマホで同期させたぞ！ GoogleDriveはやめたほうがいい。 Syncthing でファイル共有がGood！</description>
       <pubDate>Sat, 08 Aug 2026 01:34:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lDrckP6LaM54778/status/2085902534980644912</guid>
-    </item>
-    <item>
-      <title>syncthing で、ubuntu側の共有ディレクトリにシンボリックリンクを置いたんだけど、そのままでは共有されなかった。</title>
-      <link>https://x.com/fuyuton/status/2085618728176328722</link>
-      <description>冬斗(ふゆとん): syncthing で、ubuntu側の共有ディレクトリにシンボリックリンクを置いたんだけど、そのままでは共有されなかった。</description>
-      <pubDate>Fri, 07 Aug 2026 06:47:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fuyuton/status/2085618728176328722</guid>
     </item>
     <item>
       <title>Linuxホスト用意してNextcloud/ syncthing でファイル同期し、クライアントをMesh VPNで常時接続するようにしておくと容量関係なく好きなように同期できるし、勝手にファイル覗かれてBANされる心配もないのでとっても健全</title>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】最短で選べるクラウドIDE比較： Codespaces ・Gitpod・Cloud9 の推奨と30日PoC手順 https://t.co/3zHiq5XYGL #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2096457531337965847</link>
+      <description>EngiNear: 【新着記事】最短で選べるクラウドIDE比較： Codespaces ・Gitpod・Cloud9 の推奨と30日PoC手順 https://t.co/3zHiq5XYGL #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sun, 06 Sep 2026 04:36:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2096457531337965847</guid>
+    </item>
+    <item>
+      <title>【新着記事】クラウドIDEの最短結論： Codespaces ・Gitpod・Cloud9 どれを先に試すべきか（導入手順＋失敗しないチェックリスト） https://t.co/DbyX02DBTA #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2096398255315620036</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短結論： Codespaces ・Gitpod・Cloud9 どれを先に試すべきか（導入手順＋失敗しないチェックリスト） https://t.co/DbyX02DBTA #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sun, 06 Sep 2026 00:41:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2096398255315620036</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE最短選定ガイド — GitHub Codespaces ／Gitpod／AWS Cloud9 を30日で検証する手順と推奨 https://t.co/Oz3439fYFh #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2096095136727847358</link>
       <description>EngiNear: 【新着記事】クラウドIDE最短選定ガイド — GitHub Codespaces ／Gitpod／AWS Cloud9 を30日で検証する手順と推奨 https://t.co/Oz3439fYFh #エンジニア #ChatGPT #AI</description>
@@ -17,6 +31,13 @@
       <description>EngiNear: 【新着記事】結論：どれを選ぶべきか一目で分かるクラウドIDE比較 — Codespaces / Gitpod / Cloud9 の実務ガイド https://t.co/jveIcerWbq #エンジニア #ChatGPT #AI</description>
       <pubDate>Sat, 05 Sep 2026 00:41:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2096035949742325767</guid>
+    </item>
+    <item>
+      <title>はてなブログに投稿しました #はてなブログ Codespaces で開発環境を配布する - every Tech Blog https://t.co/wJlSYR2I8W</title>
+      <link>https://x.com/every_engineer/status/2095817609480753644</link>
+      <description>株式会社エブリー 開発部: はてなブログに投稿しました #はてなブログ Codespaces で開発環境を配布する - every Tech Blog https://t.co/wJlSYR2I8W</description>
+      <pubDate>Fri, 04 Sep 2026 10:13:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/every_engineer/status/2095817609480753644</guid>
     </item>
     <item>
       <title>【新着記事】クラウドIDE比較： Codespaces vs Gitpod vs Cloud9 — 失敗しない選び方と最短PoC手順（エンジニア向け） https://t.co/Oq0fHC7JcC #エンジニア #ChatGPT #AI</title>
@@ -262,20 +283,6 @@
       <description>lkjsxc（スク）: 自宅サーバーでgithub codespaces みたいなの構築したら意外と便利</description>
       <pubDate>Sat, 22 Aug 2026 20:33:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/lkjsxc/status/2091262405351444524</guid>
-    </item>
-    <item>
-      <title>本日は GitHub Codespaces でデプロイテストを実施！ 前日にスクリプト化したコマンドが上手く動かず大苦戦しました。 原因はアカウントIDなどの変数化の実装ミス。 エラー連発で問題の切り分けに苦しんだものの、何とか無事クリアできました。 #AWS #スクリプト # Codespaces</title>
-      <link>https://x.com/Python410386/status/2091179491339173937</link>
-      <description>わた| Python: 本日は GitHub Codespaces でデプロイテストを実施！ 前日にスクリプト化したコマンドが上手く動かず大苦戦しました。 原因はアカウントIDなどの変数化の実装ミス。 エラー連発で問題の切り分けに苦しんだものの、何とか無事クリアできました。 #AWS #スクリプト # Codespaces</description>
-      <pubDate>Sat, 22 Aug 2026 15:03:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Python410386/status/2091179491339173937</guid>
-    </item>
-    <item>
-      <title>ノートPC死んだままで、移動先で開発するだけならLinux機買うかと思ったけど、別にLinuxでも安いわけじゃないんだな… 逆に CodeSpaces とか使えば、8GBくらいのChromebookもありなのかな</title>
-      <link>https://x.com/mikoshiba_kyu/status/2091135823508910109</link>
-      <description>御子柴きゅう: ノートPC死んだままで、移動先で開発するだけならLinux機買うかと思ったけど、別にLinuxでも安いわけじゃないんだな… 逆に CodeSpaces とか使えば、8GBくらいのChromebookもありなのかな</description>
-      <pubDate>Sat, 22 Aug 2026 12:10:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mikoshiba_kyu/status/2091135823508910109</guid>
     </item>
   </channel>
 </rss>

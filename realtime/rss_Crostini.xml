@@ -25,26 +25,5 @@
       <pubDate>Tue, 11 Aug 2026 09:04:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/teteten/status/2087102857191493917</guid>
     </item>
-    <item>
-      <title>想像もしていなかったのだけれど、WireGuardで自宅にVPNのセッションをはった状態では Crostini 側がこれを認識できておらず、うまく接続できない状態に＿ﾉ乙(､ﾝ､)_ これは想定外。</title>
-      <link>https://x.com/h_araki/status/2085537352127295522</link>
-      <description>荒木 宏之: 想像もしていなかったのだけれど、WireGuardで自宅にVPNのセッションをはった状態では Crostini 側がこれを認識できておらず、うまく接続できない状態に＿ﾉ乙(､ﾝ､)_ これは想定外。</description>
-      <pubDate>Fri, 07 Aug 2026 01:23:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_araki/status/2085537352127295522</guid>
-    </item>
-    <item>
-      <title>Crostini の運用において、ターミナルソフトがCtrl+Spaceを食ってしまい、IMEのON/OFFができない問題は、ちょっとどうにもならなそうなので、fcitx5-hazkey + gnome-terminal で運用することでかわすことにした。</title>
-      <link>https://x.com/h_araki/status/2085537350650822660</link>
-      <description>荒木 宏之: Crostini の運用において、ターミナルソフトがCtrl+Spaceを食ってしまい、IMEのON/OFFができない問題は、ちょっとどうにもならなそうなので、fcitx5-hazkey + gnome-terminal で運用することでかわすことにした。</description>
-      <pubDate>Fri, 07 Aug 2026 01:23:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h_araki/status/2085537350650822660</guid>
-    </item>
-    <item>
-      <title>TeraTerm5.6.2は crostini (Linuxコンテナ)上のwineでも問題なく動きました。と。よかったよかった。</title>
-      <link>https://x.com/teteten/status/2085045151089758659</link>
-      <description>【bot】てててん™: TeraTerm5.6.2は crostini (Linuxコンテナ)上のwineでも問題なく動きました。と。よかったよかった。</description>
-      <pubDate>Wed, 05 Aug 2026 16:47:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/teteten/status/2085045151089758659</guid>
-    </item>
   </channel>
 </rss>
