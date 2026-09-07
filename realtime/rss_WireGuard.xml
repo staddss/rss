@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</title>
+      <link>https://x.com/LFrefman/status/2096992684682711263</link>
+      <description>Git_Shark: Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</description>
+      <pubDate>Mon, 07 Sep 2026 16:03:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LFrefman/status/2096992684682711263</guid>
+    </item>
+    <item>
+      <title>DNCは†仮想化NW†を推進しているので(10Gルーター買う金が無いだけ)あまりSOHO機材を導入するのはやりたくなかったんだけど、さすがに自宅の鯖と生活トラフィックをWRT化バッキャロールーターで捌くのは無理があったので仕方ない WireGuard 切れまくる挙句keepaliveで復活せんのは勘弁</title>
+      <link>https://x.com/minosJP/status/2096991709033087210</link>
+      <description>minos: DNCは†仮想化NW†を推進しているので(10Gルーター買う金が無いだけ)あまりSOHO機材を導入するのはやりたくなかったんだけど、さすがに自宅の鯖と生活トラフィックをWRT化バッキャロールーターで捌くのは無理があったので仕方ない WireGuard 切れまくる挙句keepaliveで復活せんのは勘弁</description>
+      <pubDate>Mon, 07 Sep 2026 15:59:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/minosJP/status/2096991709033087210</guid>
+    </item>
+    <item>
+      <title>最近tailscale/tailcatという面白いプロジェクトを見つけました。 ファイル転送や軽量なコマンド実行を「Tailscaleのデータプレーンを使い、netcatのような感觉で行える」ツールです。READMEによれば、Tailscaleのmagicsock/ WireGuard スタックを活用して、control</title>
+      <link>https://x.com/LFrefman/status/2096962255229423816</link>
+      <description>Git_Shark: 最近tailscale/tailcatという面白いプロジェクトを見つけました。 ファイル転送や軽量なコマンド実行を「Tailscaleのデータプレーンを使い、netcatのような感觉で行える」ツールです。READMEによれば、Tailscaleのmagicsock/ WireGuard スタックを活用して、control</description>
+      <pubDate>Mon, 07 Sep 2026 14:02:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LFrefman/status/2096962255229423816</guid>
+    </item>
+    <item>
+      <title>一般のご家庭にはちとオーバースペックやけどnetbird入れた wireguard のシークレット管理とかやってられんので https://t.co/ahlTjOkyJA</title>
+      <link>https://x.com/5yuim/status/2096888780175376765</link>
+      <description>𝕐𝕦𝕚: 一般のご家庭にはちとオーバースペックやけどnetbird入れた wireguard のシークレット管理とかやってられんので https://t.co/ahlTjOkyJA</description>
+      <pubDate>Mon, 07 Sep 2026 09:10:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2096888780175376765</guid>
+    </item>
+    <item>
+      <title>tailscaleとかハイブリッドクラウド向けのコネクタとか内部はほとんど wireguard なのに wireguard ってなんでandroidとwindowsで公式サポートされへんねん覇権取れてるやろもう</title>
+      <link>https://x.com/5yuim/status/2096860703307231649</link>
+      <description>𝕐𝕦𝕚: tailscaleとかハイブリッドクラウド向けのコネクタとか内部はほとんど wireguard なのに wireguard ってなんでandroidとwindowsで公式サポートされへんねん覇権取れてるやろもう</description>
+      <pubDate>Mon, 07 Sep 2026 07:18:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2096860703307231649</guid>
+    </item>
+    <item>
       <title>Tailscaleを使わず、 WireGuard で繋ぐか悩んだけど、利便性を考えて、Tailscaleを使うことにした。 というか単純にTailscaleの構築がめっちゃ楽なので。 https://t.co/Z7fUpjAPbY</title>
       <link>https://x.com/Kassy_VW/status/2096648065495216548</link>
       <description>Kassy(カッシー): Tailscaleを使わず、 WireGuard で繋ぐか悩んだけど、利便性を考えて、Tailscaleを使うことにした。 というか単純にTailscaleの構築がめっちゃ楽なので。 https://t.co/Z7fUpjAPbY</description>
@@ -241,41 +276,6 @@
       <description>なかつか: @kentoazumi WireGuard 便利ですよ！ 指定した通信以外はVPN通らないので、変に遅くなることも無いですし！</description>
       <pubDate>Mon, 31 Aug 2026 07:35:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/burakku0623/status/2094328250474627534</guid>
-    </item>
-    <item>
-      <title>個人的にはどちらでもって感じだけど、宅内ならNASがストレスフリーで良いな。 NAS内で WireGuard ホストして外からもアクセスできるようにしてるからなお快適。 https://t.co/2btrIuQv2y</title>
-      <link>https://x.com/burakku0623/status/2094322443557232999</link>
-      <description>なかつか: 個人的にはどちらでもって感じだけど、宅内ならNASがストレスフリーで良いな。 NAS内で WireGuard ホストして外からもアクセスできるようにしてるからなお快適。 https://t.co/2btrIuQv2y</description>
-      <pubDate>Mon, 31 Aug 2026 07:12:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/burakku0623/status/2094322443557232999</guid>
-    </item>
-    <item>
-      <title>これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/29PJfJCoMP</title>
-      <link>https://x.com/giw_news/status/2094303494740258946</link>
-      <description>giw_news: これはTailscaleか？ 国産 WireGuard メッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】 - INTERNET Watch https://t.co/29PJfJCoMP</description>
-      <pubDate>Mon, 31 Aug 2026 05:57:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/giw_news/status/2094303494740258946</guid>
-    </item>
-    <item>
-      <title>@denebefreet 自前VPN‼️😳😳😳 Wireguard ！？ ちょっとAIに尋ねましたが、凄すぎてわけが分かりません😭 IT技術者なんですね！尊敬します。。</title>
-      <link>https://x.com/hitori___gotu/status/2094027677363847482</link>
-      <description>OBEY 🇮🇱: @denebefreet 自前VPN‼️😳😳😳 Wireguard ！？ ちょっとAIに尋ねましたが、凄すぎてわけが分かりません😭 IT技術者なんですね！尊敬します。。</description>
-      <pubDate>Sun, 30 Aug 2026 11:41:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hitori___gotu/status/2094027677363847482</guid>
-    </item>
-    <item>
-      <title>@MASAI_Fischers Wireguard だと、全て自己管理になりますが もしNAS側回線と出先の回線がIPv6接続可能で、 NTT東同士の回線か、西同士の回線だと NGN網内で折り返し接続出来るので 速度もとても早く市内だと普通にPingも3ms辺りを目指せて、超低遅延高速通信ができます🥺</title>
-      <link>https://x.com/masui_ryosuke/status/2094021993272320431</link>
-      <description>ますい り ょー すけ: @MASAI_Fischers Wireguard だと、全て自己管理になりますが もしNAS側回線と出先の回線がIPv6接続可能で、 NTT東同士の回線か、西同士の回線だと NGN網内で折り返し接続出来るので 速度もとても早く市内だと普通にPingも3ms辺りを目指せて、超低遅延高速通信ができます🥺</description>
-      <pubDate>Sun, 30 Aug 2026 11:18:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/masui_ryosuke/status/2094021993272320431</guid>
-    </item>
-    <item>
-      <title>@hitori___gotu 無料Wi-Fiや無料VPNやばいですよね。 仮想サーバに自前VPN（ WireGuard ）を立てて 外で得体の知れないWi-FiにノートPCやスマホを接続する時に使います。 簡単接続で軽くて速いです＞牛丼みたい パスキー 二段階認証 公開鍵 + 秘密鍵 + パスフレーズで鉄壁？です でも裏から入られたら終わり？( *´艸｀) https://t.co/f1KrmQpMRl</title>
-      <link>https://x.com/denebefreet/status/2094020172285915478</link>
-      <description>デネブイフ＠白飯食べたい: @hitori___gotu 無料Wi-Fiや無料VPNやばいですよね。 仮想サーバに自前VPN（ WireGuard ）を立てて 外で得体の知れないWi-FiにノートPCやスマホを接続する時に使います。 簡単接続で軽くて速いです＞牛丼みたい パスキー 二段階認証 公開鍵 + 秘密鍵 + パスフレーズで鉄壁？です でも裏から入られたら終わり？( *´艸｀) https://t.co/f1KrmQpMRl</description>
-      <pubDate>Sun, 30 Aug 2026 11:11:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/denebefreet/status/2094020172285915478</guid>
     </item>
   </channel>
 </rss>

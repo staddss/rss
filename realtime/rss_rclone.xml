@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ふーむ。 ■用途別のおすすめ 写真・書類の同期 Dropbox か pCloud 数TBのバックアップ Wasabi東京 か GCS/S3東京 ＋ rclone 4K素材をクライアントへ送る MASV系</title>
+      <link>https://x.com/sureare/status/2096697106077733235</link>
+      <description>sureare/島徹: ふーむ。 ■用途別のおすすめ 写真・書類の同期 Dropbox か pCloud 数TBのバックアップ Wasabi東京 か GCS/S3東京 ＋ rclone 4K素材をクライアントへ送る MASV系</description>
+      <pubDate>Sun, 06 Sep 2026 20:28:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sureare/status/2096697106077733235</guid>
+    </item>
+    <item>
       <title>内訳はこんな感じ。 ・変換: cwebp q=95、サーバ上でその場変換、並列4で約184枚/秒 ・転送: rclone →R2、1枚1オブジェクトなので枚数律速で約81枚/秒 ・平均タイルサイズ: 50KB → 10.4KB ・転送費: PUT 1,349万回で約$60（一度だけ）、保管は月$2程度</title>
       <link>https://x.com/shi__works/status/2096426197366530331</link>
       <description>shi-works: 内訳はこんな感じ。 ・変換: cwebp q=95、サーバ上でその場変換、並列4で約184枚/秒 ・転送: rclone →R2、1枚1オブジェクトなので枚数律速で約81枚/秒 ・平均タイルサイズ: 50KB → 10.4KB ・転送費: PUT 1,349万回で約$60（一度だけ）、保管は月$2程度</description>

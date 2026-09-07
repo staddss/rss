@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>・音が出ない時は、何回か繰り返す ・YouTubeを開くと音が出なくなる時は、YouTubeを開いたままstop wireplumber pipewire の方をしてみると直る確率が高い ・ブラウザを閉じた後にpulseaudio -kとか〜stop wireplumber pipewire とかの繰り返しで（paplayで）音が出るようになってもYouTube開くと再発</title>
+      <link>https://x.com/t_tetosuki/status/2096564414657011864</link>
+      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: ・音が出ない時は、何回か繰り返す ・YouTubeを開くと音が出なくなる時は、YouTubeを開いたままstop wireplumber pipewire の方をしてみると直る確率が高い ・ブラウザを閉じた後にpulseaudio -kとか〜stop wireplumber pipewire とかの繰り返しで（paplayで）音が出るようになってもYouTube開くと再発</description>
+      <pubDate>Sun, 06 Sep 2026 11:41:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2096564414657011864</guid>
+    </item>
+    <item>
       <title>今のところ、これでいけるっぽい雰囲気 pulseaudio -k systemctl --user stop wireplumber pipewire （ pipewire -pulseはパッケージが競合するから入ってない） 音が出るかの確認は paplay -d @DEFAULT_SINK@ /usr/share/sounds/alsa/Front_Center.wav とかで</title>
       <link>https://x.com/t_tetosuki/status/2096519397347381686</link>
       <description>とりす⛄🐾❄☘🐕🐾🐾🦴: 今のところ、これでいけるっぽい雰囲気 pulseaudio -k systemctl --user stop wireplumber pipewire （ pipewire -pulseはパッケージが競合するから入ってない） 音が出るかの確認は paplay -d @DEFAULT_SINK@ /usr/share/sounds/alsa/Front_Center.wav とかで</description>
