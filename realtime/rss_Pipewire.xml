@@ -256,19 +256,5 @@
       <pubDate>Mon, 10 Aug 2026 20:51:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Microsoft_6666/status/2086918493098955133</guid>
     </item>
-    <item>
-      <title>PipeWire で権限昇格するとか理由の分からない攻撃手法が出てきて腰を抜かしている お前⋯ あれサウンドドライバだろう もしくはサウンドドライバの統合層 それを使って権限昇格するとかどういうアイデアだよ 一体どこから掘り出してくるんだ</title>
-      <link>https://x.com/RE_DO/status/2086539023204712758</link>
-      <description>錆人形/RE_DO: PipeWire で権限昇格するとか理由の分からない攻撃手法が出てきて腰を抜かしている お前⋯ あれサウンドドライバだろう もしくはサウンドドライバの統合層 それを使って権限昇格するとかどういうアイデアだよ 一体どこから掘り出してくるんだ</description>
-      <pubDate>Sun, 09 Aug 2026 19:44:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RE_DO/status/2086539023204712758</guid>
-    </item>
-    <item>
-      <title>Linuxの音声基盤 PipeWire で、音声の権限しか持たないアプリがサンドボックスの外へ出られるとする脆弱性「CVE-2026-5674」の報告。アプリごとに権限を絞って配るLinuxのパッケージ形式Flatpakで、音声用のソケットを許可しただけのアプリが、ホスト側の利用者権限でコードを実行できたとされています。</title>
-      <link>https://x.com/MalwareBibleJP/status/2086487426277724536</link>
-      <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: Linuxの音声基盤 PipeWire で、音声の権限しか持たないアプリがサンドボックスの外へ出られるとする脆弱性「CVE-2026-5674」の報告。アプリごとに権限を絞って配るLinuxのパッケージ形式Flatpakで、音声用のソケットを許可しただけのアプリが、ホスト側の利用者権限でコードを実行できたとされています。</description>
-      <pubDate>Sun, 09 Aug 2026 16:19:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2086487426277724536</guid>
-    </item>
   </channel>
 </rss>

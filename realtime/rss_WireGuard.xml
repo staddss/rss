@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>うーん、iSCSI はなんか難しいなぁ。思ったよりもツールとしてはイマイチというか。Linux 側も GUI で設定できないし、Sylve も Wireguard で設定する必要あるし。どうしてもストレージがある都合で、VM の上に置きたくないんだよのなぁ。だから、Jail を利用しているのだけど上手くいかないし。</title>
+      <link>https://x.com/SeahalJa/status/2097413591301607484</link>
+      <description>SEAHAL(Ja): うーん、iSCSI はなんか難しいなぁ。思ったよりもツールとしてはイマイチというか。Linux 側も GUI で設定できないし、Sylve も Wireguard で設定する必要あるし。どうしてもストレージがある都合で、VM の上に置きたくないんだよのなぁ。だから、Jail を利用しているのだけど上手くいかないし。</description>
+      <pubDate>Tue, 08 Sep 2026 19:55:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2097413591301607484</guid>
+    </item>
+    <item>
+      <title>WireGuard 設定しといてよかった。香港からでもいくつか繋がらないサービスある</title>
+      <link>https://x.com/SUNAO_VRC/status/2097400865489621324</link>
+      <description>すなお🍆: WireGuard 設定しといてよかった。香港からでもいくつか繋がらないサービスある</description>
+      <pubDate>Tue, 08 Sep 2026 19:05:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SUNAO_VRC/status/2097400865489621324</guid>
+    </item>
+    <item>
       <title>@Vorithio 本当は上流に対して Wireguard ではなくRadsecを使いたいんです。でも、上流にあるのは自作RADIUSサーバーでRadSec未対応なので、radsecproxyを上流ホストにもう1つ作るのではなく、 Wireguard で一時的解決にしてしまいました。</title>
       <link>https://x.com/oyaguma3/status/2097310940857520241</link>
       <description>おやぐまさん: @Vorithio 本当は上流に対して Wireguard ではなくRadsecを使いたいんです。でも、上流にあるのは自作RADIUSサーバーでRadSec未対応なので、radsecproxyを上流ホストにもう1つ作るのではなく、 Wireguard で一時的解決にしてしまいました。</description>
@@ -262,20 +276,6 @@
       <description>hiroppy | iiba: Tailscale が Tailscale のコントロールプレーン、アカウントなしに双方向通信を張れるtailcatを公開 Tailcat: An open-source CLI for Tailscale’s WireGuard ®, NAT traversal, and DERP https://t.co/XiviaJypbE</description>
       <pubDate>Tue, 01 Sep 2026 04:28:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/about_hiroppy/status/2094643648701026746</guid>
-    </item>
-    <item>
-      <title>Tailscaleがやっていることを、 WireGuard 単体で再現しようとしたけど、 ・キャリア回線やCGNATなどNAT越えの問題 ・家庭用ルーター側の制限 ・ポート開放 ・接続経路の確保 あたりでハマった。 結局、VPSを1台借りて WireGuard のハブにして、各端末からVPSへトンネルを張る構成になった。 https://t.co/JLkngNRdBr https://t.co/NgTptQigsk</title>
-      <link>https://x.com/feTfaZXp7n86129/status/2094632078927384955</link>
-      <description>Port 22: Tailscaleがやっていることを、 WireGuard 単体で再現しようとしたけど、 ・キャリア回線やCGNATなどNAT越えの問題 ・家庭用ルーター側の制限 ・ポート開放 ・接続経路の確保 あたりでハマった。 結局、VPSを1台借りて WireGuard のハブにして、各端末からVPSへトンネルを張る構成になった。 https://t.co/JLkngNRdBr https://t.co/NgTptQigsk</description>
-      <pubDate>Tue, 01 Sep 2026 03:42:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2094632078927384955</guid>
-    </item>
-    <item>
-      <title>先週VPNを構築して分かったこと。 結論、Tailscaleは神 中では WireGuard を使っているけど、 ・NAT越えを自動で処理し、端末間で通信できる経路を見つけて接続してくれる ・外出先のモバイル回線からでも安全に接続できる ・アカウント／端末単位で認証・管理できる ・ポート開放を気にしなくていい https://t.co/23akcnE0WJ</title>
-      <link>https://x.com/feTfaZXp7n86129/status/2094630619146076447</link>
-      <description>Port 22: 先週VPNを構築して分かったこと。 結論、Tailscaleは神 中では WireGuard を使っているけど、 ・NAT越えを自動で処理し、端末間で通信できる経路を見つけて接続してくれる ・外出先のモバイル回線からでも安全に接続できる ・アカウント／端末単位で認証・管理できる ・ポート開放を気にしなくていい https://t.co/23akcnE0WJ</description>
-      <pubDate>Tue, 01 Sep 2026 03:37:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2094630619146076447</guid>
     </item>
   </channel>
 </rss>

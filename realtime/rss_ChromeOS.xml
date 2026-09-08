@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS のウィンドウシステムって、実はGoogle ChromeブラウザがWaylandコンポジターとして機能して、フレームバッファに直接描画してるだけらしいね。 じゃあさ、その画面部分だけを入手して、Antixによるさらなる加速を図ることはできるのかな？</title>
+      <link>https://x.com/z0uy1n/status/2097304548792799380</link>
+      <description>奏音 No.40❄️🏳️‍⚧️@てぇてぇ浮上(受験のため: ChromeOS のウィンドウシステムって、実はGoogle ChromeブラウザがWaylandコンポジターとして機能して、フレームバッファに直接描画してるだけらしいね。 じゃあさ、その画面部分だけを入手して、Antixによるさらなる加速を図ることはできるのかな？</description>
+      <pubDate>Tue, 08 Sep 2026 12:42:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/z0uy1n/status/2097304548792799380</guid>
+    </item>
+    <item>
       <title>Q. メインPCにChrome OSをインストールしました。RTX 3050で起動すると、画面が黄色っぽくなってしまいます。他のOSではこのような現象は発生しません。 A. これ、 chromeos flexでも同じこと起こったけど、59fpsだからバグっただけだった。そこを目をシバシバさせながら直したら治った。</title>
       <link>https://x.com/z0uy1n/status/2097300094764949853</link>
       <description>奏音 No.40❄️🏳️‍⚧️@てぇてぇ浮上(受験のため: Q. メインPCにChrome OSをインストールしました。RTX 3050で起動すると、画面が黄色っぽくなってしまいます。他のOSではこのような現象は発生しません。 A. これ、 chromeos flexでも同じこと起こったけど、59fpsだからバグっただけだった。そこを目をシバシバさせながら直したら治った。</description>
@@ -269,13 +276,6 @@
       <description>MOCHI Takehito 望 岳人 (K N): Google ChromeOS バージョンアップ バージョン 151.0.7922.222（公式ビルド） （64 ビット） https://t.co/sZnfJGRit8</description>
       <pubDate>Sat, 05 Sep 2026 02:12:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/newport8865/status/2096058752147583025</guid>
-    </item>
-    <item>
-      <title>WindowsとUbuntuと chromeOS 全部使ってたらショートカットキーがどれか分からなくなる</title>
-      <link>https://x.com/Junktamat/status/2096025801158426891</link>
-      <description>📱🚗たまちゃん🌽🍃☃🧪🏮⚒: WindowsとUbuntuと chromeOS 全部使ってたらショートカットキーがどれか分からなくなる</description>
-      <pubDate>Sat, 05 Sep 2026 00:01:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Junktamat/status/2096025801158426891</guid>
     </item>
   </channel>
 </rss>
