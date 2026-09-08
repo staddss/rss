@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Vorithio 本当は上流に対して Wireguard ではなくRadsecを使いたいんです。でも、上流にあるのは自作RADIUSサーバーでRadSec未対応なので、radsecproxyを上流ホストにもう1つ作るのではなく、 Wireguard で一時的解決にしてしまいました。</title>
+      <link>https://x.com/oyaguma3/status/2097310940857520241</link>
+      <description>おやぐまさん: @Vorithio 本当は上流に対して Wireguard ではなくRadsecを使いたいんです。でも、上流にあるのは自作RADIUSサーバーでRadSec未対応なので、radsecproxyを上流ホストにもう1つ作るのではなく、 Wireguard で一時的解決にしてしまいました。</description>
+      <pubDate>Tue, 08 Sep 2026 13:07:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oyaguma3/status/2097310940857520241</guid>
+    </item>
+    <item>
+      <title>Hermes Agentに使わせたBlueSkyのMCPツール、まさかのリフレッシュトークン使う部分が無かった。 アクセストークンが切れたらリフレッシュトークンで更新をするように改造。 動作確認したら、頼んでないのに、自分のハッシュタグ作って投稿してて笑える🤣 うちの子 WireGuard ホントに詳しいよ！ https://t.co/PkkaELyYEO</title>
+      <link>https://x.com/kinkuman_net/status/2097302707728216065</link>
+      <description>kinkuman: Hermes Agentに使わせたBlueSkyのMCPツール、まさかのリフレッシュトークン使う部分が無かった。 アクセストークンが切れたらリフレッシュトークンで更新をするように改造。 動作確認したら、頼んでないのに、自分のハッシュタグ作って投稿してて笑える🤣 うちの子 WireGuard ホントに詳しいよ！ https://t.co/PkkaELyYEO</description>
+      <pubDate>Tue, 08 Sep 2026 12:35:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kinkuman_net/status/2097302707728216065</guid>
+    </item>
+    <item>
       <title>探してみよう、tailcat。Tailscale のデータプレーを使って2台のマシンが直接接続できる「Tailscale without Tailscale」という概念。 Magicsock、 WireGuard チューニル、DERP 代行を搭して機密なプイシュートに対応し、Tailscale</title>
       <link>https://x.com/LFrefman/status/2097161357678579749</link>
       <description>Git_Shark: 探してみよう、tailcat。Tailscale のデータプレーを使って2台のマシンが直接接続できる「Tailscale without Tailscale」という概念。 Magicsock、 WireGuard チューニル、DERP 代行を搭して機密なプイシュートに対応し、Tailscale</description>
@@ -262,20 +276,6 @@
       <description>Port 22: 先週VPNを構築して分かったこと。 結論、Tailscaleは神 中では WireGuard を使っているけど、 ・NAT越えを自動で処理し、端末間で通信できる経路を見つけて接続してくれる ・外出先のモバイル回線からでも安全に接続できる ・アカウント／端末単位で認証・管理できる ・ポート開放を気にしなくていい https://t.co/23akcnE0WJ</description>
       <pubDate>Tue, 01 Sep 2026 03:37:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2094630619146076447</guid>
-    </item>
-    <item>
-      <title>#MyNewGear GL.inet Brume3。こないだQNAP NASをHDDエラーで交換完了まで落としてた時にOpenVPNサーバも落とさざるを得なかったので、NASと独立したVPNサーバ構築のため入手。とりあえず WireGuard で設定しとくか•••🤔 https://t.co/05smLVImW6</title>
-      <link>https://x.com/mahatarukaja/status/2094429843781980269</link>
-      <description>TARUKAJA: #MyNewGear GL.inet Brume3。こないだQNAP NASをHDDエラーで交換完了まで落としてた時にOpenVPNサーバも落とさざるを得なかったので、NASと独立したVPNサーバ構築のため入手。とりあえず WireGuard で設定しとくか•••🤔 https://t.co/05smLVImW6</description>
-      <pubDate>Mon, 31 Aug 2026 14:19:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mahatarukaja/status/2094429843781980269</guid>
-    </item>
-    <item>
-      <title>WireGuard はいいぞ(n回目)</title>
-      <link>https://x.com/Rim_Earthlights/status/2094336265852457014</link>
-      <description>りーむ: WireGuard はいいぞ(n回目)</description>
-      <pubDate>Mon, 31 Aug 2026 08:07:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rim_Earthlights/status/2094336265852457014</guid>
     </item>
   </channel>
 </rss>

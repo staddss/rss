@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>テスト環境などは特定少数が対象だから、 Cloudflare Tunnel 使って権限渡してあげれば良いのか。なるほど。</title>
+      <link>https://x.com/itocchi_3/status/2097274733440184722</link>
+      <description>itocchi: テスト環境などは特定少数が対象だから、 Cloudflare Tunnel 使って権限渡してあげれば良いのか。なるほど。</description>
+      <pubDate>Tue, 08 Sep 2026 10:43:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/itocchi_3/status/2097274733440184722</guid>
+    </item>
+    <item>
       <title>何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</title>
       <link>https://x.com/4nvzip/status/2097201896687808561</link>
       <description>4n: 何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</description>
@@ -269,13 +276,6 @@
       <description>こむぎ: @KENsr20det 絶対俺のことで草 家のネット落ちたらログアウトされちゃう気がしますね 自分の場合は落ちないようにバックアップ回線組んで、 Cloudflare Tunnel とかのゼロトラスト噛ませて冗長化してます。</description>
       <pubDate>Thu, 27 Aug 2026 14:13:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TINA_FAN_BOY/status/2092978792612630618</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</title>
-      <link>https://x.com/kisaraki2021/status/2092948250072666542</link>
-      <description>Kisaraki2021: Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</description>
-      <pubDate>Thu, 27 Aug 2026 12:12:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kisaraki2021/status/2092948250072666542</guid>
     </item>
   </channel>
 </rss>
