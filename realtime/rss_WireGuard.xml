@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>探してみよう、tailcat。Tailscale のデータプレーを使って2台のマシンが直接接続できる「Tailscale without Tailscale」という概念。 Magicsock、 WireGuard チューニル、DERP 代行を搭して機密なプイシュートに対応し、Tailscale</title>
+      <link>https://x.com/LFrefman/status/2097161357678579749</link>
+      <description>Git_Shark: 探してみよう、tailcat。Tailscale のデータプレーを使って2台のマシンが直接接続できる「Tailscale without Tailscale」という概念。 Magicsock、 WireGuard チューニル、DERP 代行を搭して機密なプイシュートに対応し、Tailscale</description>
+      <pubDate>Tue, 08 Sep 2026 03:13:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LFrefman/status/2097161357678579749</guid>
+    </item>
+    <item>
       <title>Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</title>
       <link>https://x.com/LFrefman/status/2096992684682711263</link>
       <description>Git_Shark: Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</description>
@@ -269,13 +276,6 @@
       <description>りーむ: WireGuard はいいぞ(n回目)</description>
       <pubDate>Mon, 31 Aug 2026 08:07:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Rim_Earthlights/status/2094336265852457014</guid>
-    </item>
-    <item>
-      <title>@kentoazumi WireGuard 便利ですよ！ 指定した通信以外はVPN通らないので、変に遅くなることも無いですし！</title>
-      <link>https://x.com/burakku0623/status/2094328250474627534</link>
-      <description>なかつか: @kentoazumi WireGuard 便利ですよ！ 指定した通信以外はVPN通らないので、変に遅くなることも無いですし！</description>
-      <pubDate>Mon, 31 Aug 2026 07:35:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/burakku0623/status/2094328250474627534</guid>
     </item>
   </channel>
 </rss>

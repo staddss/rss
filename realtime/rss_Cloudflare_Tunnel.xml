@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</title>
+      <link>https://x.com/4nvzip/status/2097201896687808561</link>
+      <description>4n: 何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</description>
+      <pubDate>Tue, 08 Sep 2026 05:54:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/4nvzip/status/2097201896687808561</guid>
+    </item>
+    <item>
+      <title>orcaを cloudflare tunnel でPCにアクセスして、動作させるって言うのをやってるんだが。ipad でコマンダーUIみたいなのを用意して、進捗確認や動作状況や指示や承認を簡単にしやすいものを作ってる。 最低限これできれば、どこでも代わりに作業させたり複数agentに丸投げでどうにかなる</title>
+      <link>https://x.com/saiyuki1919/status/2097171843186847785</link>
+      <description>ののといいますが: orcaを cloudflare tunnel でPCにアクセスして、動作させるって言うのをやってるんだが。ipad でコマンダーUIみたいなのを用意して、進捗確認や動作状況や指示や承認を簡単にしやすいものを作ってる。 最低限これできれば、どこでも代わりに作業させたり複数agentに丸投げでどうにかなる</description>
+      <pubDate>Tue, 08 Sep 2026 03:55:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/saiyuki1919/status/2097171843186847785</guid>
+    </item>
+    <item>
+      <title>私の実家が契約しているSo-net auひかりには固定IPアドレスのオプション提供はないのか……朝起きたらグローバルIPが変わっていて、ラズパイ4で動かしていたWebサイトのDNSに直接指定したIPが古いままでタイムアウトエラーになっていた Cloudflare Tunnel で設定やり直しだ～</title>
+      <link>https://x.com/tsumuntema/status/2097095122215407788</link>
+      <description>ツムンテマ: 私の実家が契約しているSo-net auひかりには固定IPアドレスのオプション提供はないのか……朝起きたらグローバルIPが変わっていて、ラズパイ4で動かしていたWebサイトのDNSに直接指定したIPが古いままでタイムアウトエラーになっていた Cloudflare Tunnel で設定やり直しだ～</description>
+      <pubDate>Mon, 07 Sep 2026 22:50:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsumuntema/status/2097095122215407788</guid>
+    </item>
+    <item>
       <title>ngrokがratelimitになったので、 cloudflare tunnel で再公開してます https://t.co/GBgJWzvnLP</title>
       <link>https://x.com/tokoroten/status/2096898895733481614</link>
       <description>ところてん: ngrokがratelimitになったので、 cloudflare tunnel で再公開してます https://t.co/GBgJWzvnLP</description>
@@ -255,27 +276,6 @@
       <description>Kisaraki2021: Cloudflare Tunnel /Modflaredで安全に公開できるよって言おうとしたけどドメイン持ってる人なんかまず居ないのを思い出した、、 https://t.co/H2SU96RxCg</description>
       <pubDate>Thu, 27 Aug 2026 12:12:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kisaraki2021/status/2092948250072666542</guid>
-    </item>
-    <item>
-      <title>@K_chachamaru @masamune_sakaki @Cloudflare … @Cloudflare は政府機関御用達のでけえCDNなので安定性もあるし無料で出来ることが死ぬほどあるのでまじでおすすめ Cloudflare tunnel 使えばルーターでポート開放せずともバイパスして鯖立てられるからねえ</title>
-      <link>https://x.com/LunarHealWisdom/status/2092918049490051235</link>
-      <description>🧸🦊Yomi Watanuki: @K_chachamaru @masamune_sakaki @Cloudflare … @Cloudflare は政府機関御用達のでけえCDNなので安定性もあるし無料で出来ることが死ぬほどあるのでまじでおすすめ Cloudflare tunnel 使えばルーターでポート開放せずともバイパスして鯖立てられるからねえ</description>
-      <pubDate>Thu, 27 Aug 2026 10:12:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2092918049490051235</guid>
-    </item>
-    <item>
-      <title>#workers_tech Cloudflare Tunnel って昔Argo Tunnelだったなあ・・・</title>
-      <link>https://x.com/sh1ma/status/2092874262445220145</link>
-      <description>sh1ma: #workers_tech Cloudflare Tunnel って昔Argo Tunnelだったなあ・・・</description>
-      <pubDate>Thu, 27 Aug 2026 07:18:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sh1ma/status/2092874262445220145</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel を使うとCloudflare側からprivateなawsに接続できるらしい便利そう （AI曰くAWSのprivate network内にcloudflaredを置き、そのcloudflaredがCloudflare側へoutbound-onlyのTunnelを張るので、Cloudflare側からはそのTunnelを逆向きに使って通信するらしい） #workers_tech</title>
-      <link>https://x.com/eycjur/status/2092858810323071279</link>
-      <description>kmuto |『先輩データサイエンティストからの指南書』: Cloudflare Tunnel を使うとCloudflare側からprivateなawsに接続できるらしい便利そう （AI曰くAWSのprivate network内にcloudflaredを置き、そのcloudflaredがCloudflare側へoutbound-onlyのTunnelを張るので、Cloudflare側からはそのTunnelを逆向きに使って通信するらしい） #workers_tech</description>
-      <pubDate>Thu, 27 Aug 2026 06:16:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/eycjur/status/2092858810323071279</guid>
     </item>
   </channel>
 </rss>
