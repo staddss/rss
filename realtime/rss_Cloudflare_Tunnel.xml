@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今はとりあえず NextChat とかいう Web アプリをたてて Cloudflare Tunnel で公開してる。けど、外出先から直接 Ollama も見たいよね。モデルはとりあえず以下を入れた。 gemma4:26b gemma4:e4b ornith1.5:9b</title>
+      <link>https://x.com/k586/status/2097745691150004236</link>
+      <description>k586: 今はとりあえず NextChat とかいう Web アプリをたてて Cloudflare Tunnel で公開してる。けど、外出先から直接 Ollama も見たいよね。モデルはとりあえず以下を入れた。 gemma4:26b gemma4:e4b ornith1.5:9b</description>
+      <pubDate>Wed, 09 Sep 2026 17:55:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/k586/status/2097745691150004236</guid>
+    </item>
+    <item>
+      <title>無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</title>
+      <link>https://x.com/playstation2_ch/status/2097744236204708132</link>
+      <description>I have an apple@Pic unrelated: 無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</description>
+      <pubDate>Wed, 09 Sep 2026 17:49:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/playstation2_ch/status/2097744236204708132</guid>
+    </item>
+    <item>
+      <title>使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</title>
+      <link>https://x.com/shiryu_dev/status/2097724980201226251</link>
+      <description>_SHIRYU.𝕏: 使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</description>
+      <pubDate>Wed, 09 Sep 2026 16:33:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiryu_dev/status/2097724980201226251</guid>
+    </item>
+    <item>
       <title>@uturned0 IPv4がなくても出口だけあれば自宅サーバは公開できます Cloudflare Tunnel と同系統なら Tunnet の tunnet tunnel もあります https://t.co/OIj7BaSlzf</title>
       <link>https://x.com/tunnetio/status/2097658215659974718</link>
       <description>𝗧𝘂𝗻𝗻𝗲𝘁.io: @uturned0 IPv4がなくても出口だけあれば自宅サーバは公開できます Cloudflare Tunnel と同系統なら Tunnet の tunnet tunnel もあります https://t.co/OIj7BaSlzf</description>
@@ -255,27 +276,6 @@
       <description>SEAHAL(Ja): さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</description>
       <pubDate>Fri, 28 Aug 2026 15:54:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SeahalJa/status/2093366595540427235</guid>
-    </item>
-    <item>
-      <title>OpenAI老大都來了: 官方版隧道，支援openai、 cloudflare tunnel 呢。回家哭吧 😂 https://t.co/S2LFJfNTjM https://t.co/aJNsnFiBgK</title>
-      <link>https://x.com/KueiPingq12580/status/2093318449615499358</link>
-      <description>Ping Kuei Lin (pingQ): OpenAI老大都來了: 官方版隧道，支援openai、 cloudflare tunnel 呢。回家哭吧 😂 https://t.co/S2LFJfNTjM https://t.co/aJNsnFiBgK</description>
-      <pubDate>Fri, 28 Aug 2026 12:43:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KueiPingq12580/status/2093318449615499358</guid>
-    </item>
-    <item>
-      <title>@takano32 子供のマイクラサーバー、 cloudflare tunnel とかだとUDPが面倒だし playit\.gg使うかなーとか思ってたところだったのでありがたいです。 タイミングよく見かけて助かりました。</title>
-      <link>https://x.com/methane/status/2093268420292903423</link>
-      <description>methane: @takano32 子供のマイクラサーバー、 cloudflare tunnel とかだとUDPが面倒だし playit\.gg使うかなーとか思ってたところだったのでありがたいです。 タイミングよく見かけて助かりました。</description>
-      <pubDate>Fri, 28 Aug 2026 09:24:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/methane/status/2093268420292903423</guid>
-    </item>
-    <item>
-      <title>出先からMacのHermesと話したくて、LINE連携に挑戦しました。ngrokで試し、 Cloudflare Tunnel でURLを固定し、launchdで常駐化。ターミナルを開きっぱなしにしない「工房ホットライン」ができるまでを書きました。https://t.co/DOrDdHQpJk</title>
-      <link>https://x.com/EguchiMinori/status/2093210750911459635</link>
-      <description>Minori ＠ 鉄の女（Webサイト再構築中）: 出先からMacのHermesと話したくて、LINE連携に挑戦しました。ngrokで試し、 Cloudflare Tunnel でURLを固定し、launchdで常駐化。ターミナルを開きっぱなしにしない「工房ホットライン」ができるまでを書きました。https://t.co/DOrDdHQpJk</description>
-      <pubDate>Fri, 28 Aug 2026 05:35:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EguchiMinori/status/2093210750911459635</guid>
     </item>
   </channel>
 </rss>

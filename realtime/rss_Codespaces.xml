@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>codespaces 上のcopilot、最初に「claude codeインスコして」で終わりなので、令和のInternet Explorerみがある（？）</title>
+      <link>https://x.com/ketsumedo_yarou/status/2097686859140989127</link>
+      <description>ketsumedo_yarou: codespaces 上のcopilot、最初に「claude codeインスコして」で終わりなので、令和のInternet Explorerみがある（？）</description>
+      <pubDate>Wed, 09 Sep 2026 14:01:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ketsumedo_yarou/status/2097686859140989127</guid>
+    </item>
+    <item>
+      <title>codespaces 起動 -&gt; claude codeインスコして起動 とするだけで、（最近リモコネが自動で発動するようになったので）claudeスマホアプリからそのclaude codeに対しスマホ自然言語コーディングできるんだな</title>
+      <link>https://x.com/ketsumedo_yarou/status/2097684886127874390</link>
+      <description>ketsumedo_yarou: codespaces 起動 -&gt; claude codeインスコして起動 とするだけで、（最近リモコネが自動で発動するようになったので）claudeスマホアプリからそのclaude codeに対しスマホ自然言語コーディングできるんだな</description>
+      <pubDate>Wed, 09 Sep 2026 13:53:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ketsumedo_yarou/status/2097684886127874390</guid>
+    </item>
+    <item>
+      <title>CodexやClaude Code…便利だけど、PCを持ち運ぶ間に作業を停止させないといけないのがなぁ。 プロンプトだけ投げたらPCをシャットダウンしてもクラウド上で処理して、移動先でパソコン立ち上げたら続きができる仕組みがあったらなぁ… GitHub Codespaces 、クラウドVM、VPS💡 https://t.co/BtjwVbMs7u</title>
+      <link>https://x.com/potter2023fpa/status/2097575316768325762</link>
+      <description>MP0¹⁰⁴: CodexやClaude Code…便利だけど、PCを持ち運ぶ間に作業を停止させないといけないのがなぁ。 プロンプトだけ投げたらPCをシャットダウンしてもクラウド上で処理して、移動先でパソコン立ち上げたら続きができる仕組みがあったらなぁ… GitHub Codespaces 、クラウドVM、VPS💡 https://t.co/BtjwVbMs7u</description>
+      <pubDate>Wed, 09 Sep 2026 06:38:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/potter2023fpa/status/2097575316768325762</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9 どれを選ぶべきか（実務パターン別） https://t.co/jNJWlZ7yJQ #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2097485541797245437</link>
       <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9 どれを選ぶべきか（実務パターン別） https://t.co/jNJWlZ7yJQ #エンジニア #ChatGPT #AI</description>
@@ -255,27 +276,6 @@
       <description>ピータパン: 【ツールの起動方法】 ① リポジトリを開く https://t.co/MwIbjT1xuY ②「Code」→「 Codespaces 」へ進む ③「Create codespace」を選択 ④ ターミナルで「npm start」を実行 ⑤ 表示されたリンクを開く これでツールが起動します。 [2/6]</description>
       <pubDate>Tue, 25 Aug 2026 16:45:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gizagizajug/status/2092292201376297316</guid>
-    </item>
-    <item>
-      <title>1/ Technocore DID Toolを開く GitHub： UfukNode / technocore-did-tool GitHub Codespaces を作成して、ターミナルで npm start を実行。 表示されたポートをブラウザで開くとTechnocore DID Toolが起動します。</title>
-      <link>https://x.com/mamo_crypto/status/2092268651743436972</link>
-      <description>mame: 1/ Technocore DID Toolを開く GitHub： UfukNode / technocore-did-tool GitHub Codespaces を作成して、ターミナルで npm start を実行。 表示されたポートをブラウザで開くとTechnocore DID Toolが起動します。</description>
-      <pubDate>Tue, 25 Aug 2026 15:11:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mamo_crypto/status/2092268651743436972</guid>
-    </item>
-    <item>
-      <title>使ったのは @UfukDegen さん作の technocore-did-tool。 https://t.co/pMG93LJg8m npm の依存パッケージがゼロで、Node の標準ライブラリだけで動きます。 Codespaces でもローカルでも npm start だけ。</title>
-      <link>https://x.com/norisalt2550/status/2092256291678998701</link>
-      <description>のりしお: 使ったのは @UfukDegen さん作の technocore-did-tool。 https://t.co/pMG93LJg8m npm の依存パッケージがゼロで、Node の標準ライブラリだけで動きます。 Codespaces でもローカルでも npm start だけ。</description>
-      <pubDate>Tue, 25 Aug 2026 14:22:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/norisalt2550/status/2092256291678998701</guid>
-    </item>
-    <item>
-      <title>DIDっていう暗号のIDを自分で作って、何か役立つこと（解説とか）を残すと$FLOPのエアドロ対象になるかもっことでやってみた。 @UfukDegenさんが Codespaces だけで簡単にできるツールと解説出してくれてた。 https://t.co/d1eARTxQ9W とりあえず試してみる。 https://t.co/KFXC3lSodQ</title>
-      <link>https://x.com/yn00fx/status/2092240235812020623</link>
-      <description>よねちゃん(❖,❖): DIDっていう暗号のIDを自分で作って、何か役立つこと（解説とか）を残すと$FLOPのエアドロ対象になるかもっことでやってみた。 @UfukDegenさんが Codespaces だけで簡単にできるツールと解説出してくれてた。 https://t.co/d1eARTxQ9W とりあえず試してみる。 https://t.co/KFXC3lSodQ</description>
-      <pubDate>Tue, 25 Aug 2026 13:18:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yn00fx/status/2092240235812020623</guid>
     </item>
   </channel>
 </rss>
