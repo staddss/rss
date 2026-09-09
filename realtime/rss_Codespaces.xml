@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9 どれを選ぶべきか（実務パターン別） https://t.co/jNJWlZ7yJQ #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2097485541797245437</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9 どれを選ぶべきか（実務パターン別） https://t.co/jNJWlZ7yJQ #エンジニア #ChatGPT #AI</description>
+      <pubDate>Wed, 09 Sep 2026 00:41:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2097485541797245437</guid>
+    </item>
+    <item>
+      <title>@shigerufujita 今後、演習環境もクラウドの時代になるんですかね（すでに？）。 Jupyter Notebookや 最近では vscode からGitHub Codespaces ？ 学内のアカウントと統合されれば5分で開始できる。 サンプルコードも教師のものからクローンして実行。 提出課題もクラスメイトからクローンして提出😁 便利な時代。</title>
+      <link>https://x.com/neoclassic_tech/status/2097235484808474947</link>
+      <description>NC Tech.: @shigerufujita 今後、演習環境もクラウドの時代になるんですかね（すでに？）。 Jupyter Notebookや 最近では vscode からGitHub Codespaces ？ 学内のアカウントと統合されれば5分で開始できる。 サンプルコードも教師のものからクローンして実行。 提出課題もクラスメイトからクローンして提出😁 便利な時代。</description>
+      <pubDate>Tue, 08 Sep 2026 08:07:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/neoclassic_tech/status/2097235484808474947</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE 最短決断ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の実務比較と2週間PoC手順 https://t.co/Ewq882VDzF #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2097121842628575274</link>
       <description>EngiNear: 【新着記事】クラウドIDE 最短決断ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の実務比較と2週間PoC手順 https://t.co/Ewq882VDzF #エンジニア #ChatGPT #AI</description>
@@ -262,20 +276,6 @@
       <description>よねちゃん(❖,❖): DIDっていう暗号のIDを自分で作って、何か役立つこと（解説とか）を残すと$FLOPのエアドロ対象になるかもっことでやってみた。 @UfukDegenさんが Codespaces だけで簡単にできるツールと解説出してくれてた。 https://t.co/d1eARTxQ9W とりあえず試してみる。 https://t.co/KFXC3lSodQ</description>
       <pubDate>Tue, 25 Aug 2026 13:18:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yn00fx/status/2092240235812020623</guid>
-    </item>
-    <item>
-      <title>個人用PCを持たないザコ開発者なんだけど、クラウド開発が主流になってきたツイートを最近よく見かけるのでもしかしてiPad完結で色々開発できたりする？とりあえずチャッピー課金勢だからGitHub CodeSpaces とCodex CLIはセットアップして触れるようにした</title>
-      <link>https://x.com/taboooztf/status/2092174272949354748</link>
-      <description>たぶ: 個人用PCを持たないザコ開発者なんだけど、クラウド開発が主流になってきたツイートを最近よく見かけるのでもしかしてiPad完結で色々開発できたりする？とりあえずチャッピー課金勢だからGitHub CodeSpaces とCodex CLIはセットアップして触れるようにした</description>
-      <pubDate>Tue, 25 Aug 2026 08:56:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taboooztf/status/2092174272949354748</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE徹底比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/8nZ0cslCaF #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2092048361532625349</link>
-      <description>EngiNear: 【新着記事】クラウドIDE徹底比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/8nZ0cslCaF #エンジニア #ChatGPT #AI</description>
-      <pubDate>Tue, 25 Aug 2026 00:36:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2092048361532625349</guid>
     </item>
   </channel>
 </rss>

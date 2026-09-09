@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>マージでsshと wireguard 動けばなんでもいいから物理的に軽くてサイズ控えめのキーボード付きデバイス欲しい</title>
+      <link>https://x.com/n4ne_3/status/2097531618701525498</link>
+      <description>なね: マージでsshと wireguard 動けばなんでもいいから物理的に軽くてサイズ控えめのキーボード付きデバイス欲しい</description>
+      <pubDate>Wed, 09 Sep 2026 03:44:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n4ne_3/status/2097531618701525498</guid>
+    </item>
+    <item>
       <title>うーん、iSCSI はなんか難しいなぁ。思ったよりもツールとしてはイマイチというか。Linux 側も GUI で設定できないし、Sylve も Wireguard で設定する必要あるし。どうしてもストレージがある都合で、VM の上に置きたくないんだよのなぁ。だから、Jail を利用しているのだけど上手くいかないし。</title>
       <link>https://x.com/SeahalJa/status/2097413591301607484</link>
       <description>SEAHAL(Ja): うーん、iSCSI はなんか難しいなぁ。思ったよりもツールとしてはイマイチというか。Linux 側も GUI で設定できないし、Sylve も Wireguard で設定する必要あるし。どうしてもストレージがある都合で、VM の上に置きたくないんだよのなぁ。だから、Jail を利用しているのだけど上手くいかないし。</description>
@@ -269,13 +276,6 @@
       <description>kazto@俺は雰囲気でコードを書いている: アキバでジャンクPCを11kで購入、余ってたメモリ64GBを差し、Omarchyをインストール。VPSで WireGuard を動かし、インターネットから接続できるようにした。ssh（Eternal Terminal）でログインするからあんまhyprlandの恩恵を得られん</description>
       <pubDate>Tue, 01 Sep 2026 09:53:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kazto_dev/status/2094725330376519768</guid>
-    </item>
-    <item>
-      <title>Tailscale が Tailscale のコントロールプレーン、アカウントなしに双方向通信を張れるtailcatを公開 Tailcat: An open-source CLI for Tailscale’s WireGuard ®, NAT traversal, and DERP https://t.co/XiviaJypbE</title>
-      <link>https://x.com/about_hiroppy/status/2094643648701026746</link>
-      <description>hiroppy | iiba: Tailscale が Tailscale のコントロールプレーン、アカウントなしに双方向通信を張れるtailcatを公開 Tailcat: An open-source CLI for Tailscale’s WireGuard ®, NAT traversal, and DERP https://t.co/XiviaJypbE</description>
-      <pubDate>Tue, 01 Sep 2026 04:28:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/about_hiroppy/status/2094643648701026746</guid>
     </item>
   </channel>
 </rss>

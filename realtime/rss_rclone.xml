@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/foxbook/status/2097184572077179128</guid>
     </item>
     <item>
+      <title>Rclone で重大(Critical)な認証回避の脆弱性。GHSA-xwwr-4h3p-r22c（CVSS未採番）はCVSSスコア9.8で、--auth-keyを設定せず rclone serve s3 --auth-proxyを実行している場合に認証回避が成立。バージョン1.75.1で修正。 https://t.co/OPyoJLQDzl</title>
+      <link>https://x.com/__kokumoto/status/2097161558183104689</link>
+      <description>kokumօtօ: Rclone で重大(Critical)な認証回避の脆弱性。GHSA-xwwr-4h3p-r22c（CVSS未採番）はCVSSスコア9.8で、--auth-keyを設定せず rclone serve s3 --auth-proxyを実行している場合に認証回避が成立。バージョン1.75.1で修正。 https://t.co/OPyoJLQDzl</description>
+      <pubDate>Tue, 08 Sep 2026 03:14:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__kokumoto/status/2097161558183104689</guid>
+    </item>
+    <item>
       <title>ふーむ。 ■用途別のおすすめ 写真・書類の同期 Dropbox か pCloud 数TBのバックアップ Wasabi東京 か GCS/S3東京 ＋ rclone 4K素材をクライアントへ送る MASV系</title>
       <link>https://x.com/sureare/status/2096697106077733235</link>
       <description>sureare/島徹: ふーむ。 ■用途別のおすすめ 写真・書類の同期 Dropbox か pCloud 数TBのバックアップ Wasabi東京 か GCS/S3東京 ＋ rclone 4K素材をクライアントへ送る MASV系</description>
