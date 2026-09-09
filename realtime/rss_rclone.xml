@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>きょうのつみあげ ・バッチファイル作成 ・7zipの64bit版と32bit版の違い ・ rclone でSFTP いやーあれっすよ、なんで64bit版は拡張子7zなんですか ま、まあ今のWindows 11なら普通に解凍できるけどさー</title>
+      <link>https://x.com/g_plains/status/2097617235326210112</link>
+      <description>こてつ(ONO,Tetsuo): きょうのつみあげ ・バッチファイル作成 ・7zipの64bit版と32bit版の違い ・ rclone でSFTP いやーあれっすよ、なんで64bit版は拡張子7zなんですか ま、まあ今のWindows 11なら普通に解凍できるけどさー</description>
+      <pubDate>Wed, 09 Sep 2026 09:24:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2097617235326210112</guid>
+    </item>
+    <item>
       <title>Rclone Auth Proxy Bypass PoC: Critical CVE-2026-41176 Allows Unauthenticated Command Execution（ Rclone の認証回避脆弱性、未認証でコマンド実行につながるPoCが公開） #SecurityOnline (Sep 7) https://t.co/Fr05KKefK3</title>
       <link>https://x.com/foxbook/status/2097184572077179128</link>
       <description>キタきつね: Rclone Auth Proxy Bypass PoC: Critical CVE-2026-41176 Allows Unauthenticated Command Execution（ Rclone の認証回避脆弱性、未認証でコマンド実行につながるPoCが公開） #SecurityOnline (Sep 7) https://t.co/Fr05KKefK3</description>
@@ -276,13 +283,6 @@
       <description>ロイロット博士: Rclone 使ってNASからBoxへの同期を試しているのだが、このツール謎が多い。どうして --dry-run で事前チェック sync を走らせた直後に --dry-run だけ消したコマンドで本番 sync を走らせたら、チェック数が何倍も膨れあがるのか？</description>
       <pubDate>Wed, 12 Aug 2026 09:18:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Dr_Roylott/status/2087468854733860876</guid>
-    </item>
-    <item>
-      <title>いまさらな発見 Google Drive MCP でファイルをダウンロードさせようとするとトークン消費しまくるわ、手書き転記で失敗するとファイルが壊れる 素直に rclone 使うべき</title>
-      <link>https://x.com/JoelMitz/status/2087090575476662303</link>
-      <description>じょえる†: いまさらな発見 Google Drive MCP でファイルをダウンロードさせようとするとトークン消費しまくるわ、手書き転記で失敗するとファイルが壊れる 素直に rclone 使うべき</description>
-      <pubDate>Tue, 11 Aug 2026 08:15:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JoelMitz/status/2087090575476662303</guid>
     </item>
   </channel>
 </rss>
