@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/TAKAHIRO_365/status/2097870909025702006</guid>
     </item>
     <item>
+      <title>chrome :// flags で Glic を無効化すれば右クリックメニューの 『Geminiに相談』が消せる</title>
+      <link>https://x.com/Yoshizaka_A/status/2097633930979799312</link>
+      <description>Yoshizaka: chrome :// flags で Glic を無効化すれば右クリックメニューの 『Geminiに相談』が消せる</description>
+      <pubDate>Wed, 09 Sep 2026 10:31:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yoshizaka_A/status/2097633930979799312</guid>
+    </item>
+    <item>
       <title>chromeで右クリックの「Geminiに相談」が邪魔すぎたので対処法の備忘録 ①アドレスバーに「 chrome :// flags 」を入力してアクセス ②画面上部の「Search flags」にて「glic」と入力して検索 ③Glicの項目の右側にあるプルダウンから「Disabled」を選択 ④ブラウザ再起動 https://t.co/DIisSoUMbU</title>
       <link>https://x.com/narita992/status/2096825549062877452</link>
       <description>しゃうえっせん: chromeで右クリックの「Geminiに相談」が邪魔すぎたので対処法の備忘録 ①アドレスバーに「 chrome :// flags 」を入力してアクセス ②画面上部の「Search flags」にて「glic」と入力して検索 ③Glicの項目の右側にあるプルダウンから「Disabled」を選択 ④ブラウザ再起動 https://t.co/DIisSoUMbU</description>
@@ -199,13 +206,6 @@
       <description>栗林健太郎 🎨💙 AI時代の生きかた考察: 僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</description>
       <pubDate>Mon, 10 Aug 2026 13:23:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kentaro/status/2086805595995386016</guid>
-    </item>
-    <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
   </channel>
 </rss>

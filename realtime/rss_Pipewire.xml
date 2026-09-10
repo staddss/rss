@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>というか Pipewire ネイティブで鳴らせよ なんだJACKだALSAだ間に挟んで https://t.co/h7fw9G34KB</title>
+      <link>https://x.com/OnslaughtktnP/status/2098006370721411278</link>
+      <description>猛攻型ことねP(ひうが) | 低浮上 Discord欲しい方ご連絡を: というか Pipewire ネイティブで鳴らせよ なんだJACKだALSAだ間に挟んで https://t.co/h7fw9G34KB</description>
+      <pubDate>Thu, 10 Sep 2026 11:11:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OnslaughtktnP/status/2098006370721411278</guid>
+    </item>
+    <item>
+      <title>@OnslaughtktnP pipewire の設定の問題では？ Ubuntu StudioならJackとALSAの同時出力も普通にできますよ？</title>
+      <link>https://x.com/devourer_c/status/2097932582109475000</link>
+      <description>C_ devourer: @OnslaughtktnP pipewire の設定の問題では？ Ubuntu StudioならJackとALSAの同時出力も普通にできますよ？</description>
+      <pubDate>Thu, 10 Sep 2026 06:17:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/devourer_c/status/2097932582109475000</guid>
+    </item>
+    <item>
       <title>ひゃー pipewire むず</title>
       <link>https://x.com/REJM7kHxdT1994/status/2097671393324458326</link>
       <description>れい: ひゃー pipewire むず</description>
@@ -262,13 +276,6 @@
       <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: pipewire ではなく jackd と apulse を使って Spotify を動かすには、jackd の Sampling Rate を (default) から 44100 に設定しておかないと音がおかしくなる。</description>
       <pubDate>Sun, 16 Aug 2026 09:18:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2088918300210401774</guid>
-    </item>
-    <item>
-      <title>mod-host と mod-ui を使いたかったので、 pipewire から jacked を使う設定にしているけれど、Spotify から音が出なかった。これを解決するには apulse を使う。使い方はコマンドラインで apulse spotify で実行する。</title>
-      <link>https://x.com/Inqb8tr_jp/status/2088914133861441853</link>
-      <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: mod-host と mod-ui を使いたかったので、 pipewire から jacked を使う設定にしているけれど、Spotify から音が出なかった。これを解決するには apulse を使う。使い方はコマンドラインで apulse spotify で実行する。</description>
-      <pubDate>Sun, 16 Aug 2026 09:01:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2088914133861441853</guid>
     </item>
   </channel>
 </rss>
