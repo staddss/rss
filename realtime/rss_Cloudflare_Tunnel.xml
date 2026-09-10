@@ -12,13 +12,6 @@
       <guid isPermaLink="true">https://x.com/k586/status/2097745691150004236</guid>
     </item>
     <item>
-      <title>無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</title>
-      <link>https://x.com/playstation2_ch/status/2097744236204708132</link>
-      <description>I have an apple@Pic unrelated: 無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</description>
-      <pubDate>Wed, 09 Sep 2026 17:49:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/playstation2_ch/status/2097744236204708132</guid>
-    </item>
-    <item>
       <title>使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</title>
       <link>https://x.com/shiryu_dev/status/2097724980201226251</link>
       <description>_SHIRYU.𝕏: 使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</description>
@@ -59,6 +52,13 @@
       <description>4n: 何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</description>
       <pubDate>Tue, 08 Sep 2026 05:54:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/4nvzip/status/2097201896687808561</guid>
+    </item>
+    <item>
+      <title>小規模って前提ならNATインスタンス別で建てるより、Public Subnetに置いてSGのインバウンド全部閉じて、Ingressは Cloudflare Tunnel とかでoutbound-onlyのトンネルを張るのが一番安くて楽だと思う https://t.co/J1PAtg6Eth</title>
+      <link>https://x.com/_poteboy_/status/2097200725566931266</link>
+      <description>𝗉𝗈𝗍𝖾𝖻𝗈𝗒: 小規模って前提ならNATインスタンス別で建てるより、Public Subnetに置いてSGのインバウンド全部閉じて、Ingressは Cloudflare Tunnel とかでoutbound-onlyのトンネルを張るのが一番安くて楽だと思う https://t.co/J1PAtg6Eth</description>
+      <pubDate>Tue, 08 Sep 2026 05:49:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_poteboy_/status/2097200725566931266</guid>
     </item>
     <item>
       <title>orcaを cloudflare tunnel でPCにアクセスして、動作させるって言うのをやってるんだが。ipad でコマンダーUIみたいなのを用意して、進捗確認や動作状況や指示や承認を簡単にしやすいものを作ってる。 最低限これできれば、どこでも代わりに作業させたり複数agentに丸投げでどうにかなる</title>

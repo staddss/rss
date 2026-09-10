@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard でBGP張ってるのね L2TP over WGできるし当たり前か</title>
+      <link>https://x.com/___Nova___/status/2097893572016242762</link>
+      <description>めてお: Wireguard でBGP張ってるのね L2TP over WGできるし当たり前か</description>
+      <pubDate>Thu, 10 Sep 2026 03:42:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/___Nova___/status/2097893572016242762</guid>
+    </item>
+    <item>
+      <title>そもそもDNS制限なのかネットワーク制限なのか？外部DNS、Proton Stealth、WARP MASQUE、OpenVPN TCPのどれが壁越えできるんだろう。ぶっちゃけ Wireguard ですらなくDNSで壁越えできそうな気がするが https://t.co/yrc5TPi0N4</title>
+      <link>https://x.com/Twit_yotuba777/status/2097727143891591554</link>
+      <description>yotuba777: そもそもDNS制限なのかネットワーク制限なのか？外部DNS、Proton Stealth、WARP MASQUE、OpenVPN TCPのどれが壁越えできるんだろう。ぶっちゃけ Wireguard ですらなくDNSで壁越えできそうな気がするが https://t.co/yrc5TPi0N4</description>
+      <pubDate>Wed, 09 Sep 2026 16:41:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Twit_yotuba777/status/2097727143891591554</guid>
+    </item>
+    <item>
       <title>サーバーやネットワーク機器の紹介ポストが流行ってるので僕も紹介。 多くの人は大きいL2スイッチやタワーPCを並べてますが、僕はPVE3台 + PBSの台のミニPC4台構成で、ネットワーク関連はOPNsense VMとPVE SDNでやってるのでコンパクト。 外部から通信はVPSから WireGuard で自宅に転送してます。 https://t.co/HInDtbJTXo</title>
       <link>https://x.com/saitogo555/status/2097712854657032344</link>
       <description>Saito Go: サーバーやネットワーク機器の紹介ポストが流行ってるので僕も紹介。 多くの人は大きいL2スイッチやタワーPCを並べてますが、僕はPVE3台 + PBSの台のミニPC4台構成で、ネットワーク関連はOPNsense VMとPVE SDNでやってるのでコンパクト。 外部から通信はVPSから WireGuard で自宅に転送してます。 https://t.co/HInDtbJTXo</description>
@@ -262,20 +276,6 @@
       <description>おみみ🐇: WireGuard - Linux技術者認定 LinuC | LPI-Japan https://t.co/hYVvcfNbqz</description>
       <pubDate>Thu, 03 Sep 2026 01:41:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yumi11291998/status/2095326242912567472</guid>
-    </item>
-    <item>
-      <title>WireGuard なるものがあるらしい。ペア鍵作って認証するらしい。ルータでグローバルIPアドレスからローカルIPアドレスにポートフォワード設定するらしい。IPv4 over IPv6かどうかでまた変わるらしい。</title>
-      <link>https://x.com/ataruno_key/status/2095288542499090935</link>
-      <description>あたるの: WireGuard なるものがあるらしい。ペア鍵作って認証するらしい。ルータでグローバルIPアドレスからローカルIPアドレスにポートフォワード設定するらしい。IPv4 over IPv6かどうかでまた変わるらしい。</description>
-      <pubDate>Wed, 02 Sep 2026 23:11:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ataruno_key/status/2095288542499090935</guid>
-    </item>
-    <item>
-      <title>接続先がIPじゃなくてトークン——そこが先に刺さりました🌿 紹介はTailscale公式のOSS、tailcat。データ面（ WireGuard ＋NAT貫通＋DERP）だけのnetcatで、制御プレーンなし。 https://t.co/zxTfiN1BxA https://t.co/q9mwWW9dXJ https://t.co/ZIr5Cm7Wch</title>
-      <link>https://x.com/Echosphere8f/status/2095096021491843502</link>
-      <description>Echosphere: 接続先がIPじゃなくてトークン——そこが先に刺さりました🌿 紹介はTailscale公式のOSS、tailcat。データ面（ WireGuard ＋NAT貫通＋DERP）だけのnetcatで、制御プレーンなし。 https://t.co/zxTfiN1BxA https://t.co/q9mwWW9dXJ https://t.co/ZIr5Cm7Wch</description>
-      <pubDate>Wed, 02 Sep 2026 10:26:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Echosphere8f/status/2095096021491843502</guid>
     </item>
   </channel>
 </rss>
