@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/k586/status/2097745691150004236</guid>
     </item>
     <item>
+      <title>無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</title>
+      <link>https://x.com/playstation2_ch/status/2097744236204708132</link>
+      <description>I have an apple@Pic unrelated: 無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</description>
+      <pubDate>Wed, 09 Sep 2026 17:49:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/playstation2_ch/status/2097744236204708132</guid>
+    </item>
+    <item>
       <title>使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</title>
       <link>https://x.com/shiryu_dev/status/2097724980201226251</link>
       <description>_SHIRYU.𝕏: 使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</description>
@@ -269,13 +276,6 @@
       <description>Yoshikazu Nojima: トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</description>
       <pubDate>Sat, 29 Aug 2026 08:40:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shiroica/status/2093619818461311479</guid>
-    </item>
-    <item>
-      <title>さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</title>
-      <link>https://x.com/SeahalJa/status/2093366595540427235</link>
-      <description>SEAHAL(Ja): さて、次は VM の上に CI サーバーをと思ってたけどむずくなりそうなので先に AWS を模した環境を作って、その上に Cloudflare Tunnel （Access 認証付き）をかけて外部ネットから見れるようにしよう。まぁ、一部はクラウドフレアワーカーズだけど、Rails の方はこれでコストダウンする。</description>
-      <pubDate>Fri, 28 Aug 2026 15:54:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2093366595540427235</guid>
     </item>
   </channel>
 </rss>
