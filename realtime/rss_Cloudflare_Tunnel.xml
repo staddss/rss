@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>旅行して開発が滞ったので今さらながら自宅サーバやPCのネットワークを変更。 自宅ミニPC鯖は Cloudflare Tunnel で外から ssh やデプロイ可能に。 ゲームPCのGPU使った開発したいので、こっちは Tailscale で繋がるように。 やっぱり環境を変えないと見えてこないものあるなぁ</title>
+      <link>https://x.com/akiraak/status/2098239862898131296</link>
+      <description>Akira: 旅行して開発が滞ったので今さらながら自宅サーバやPCのネットワークを変更。 自宅ミニPC鯖は Cloudflare Tunnel で外から ssh やデプロイ可能に。 ゲームPCのGPU使った開発したいので、こっちは Tailscale で繋がるように。 やっぱり環境を変えないと見えてこないものあるなぁ</description>
+      <pubDate>Fri, 11 Sep 2026 02:39:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akiraak/status/2098239862898131296</guid>
+    </item>
+    <item>
+      <title>なんでTailscale死んでるんだと思ったらExpiredだった Cloudflare Tunnel 経由でダッシュボードは入れるようにしといてファインプレーすぎた、良かった</title>
+      <link>https://x.com/nanasi_rasi/status/2098206389084864848</link>
+      <description>ななしぃ: なんでTailscale死んでるんだと思ったらExpiredだった Cloudflare Tunnel 経由でダッシュボードは入れるようにしといてファインプレーすぎた、良かった</description>
+      <pubDate>Fri, 11 Sep 2026 00:26:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanasi_rasi/status/2098206389084864848</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel エラッてる～～～～ Blogサイトアクセスできてないじゃん！</title>
+      <link>https://x.com/abdda149/status/2098048600706281762</link>
+      <description>Volk149: Cloudflare Tunnel エラッてる～～～～ Blogサイトアクセスできてないじゃん！</description>
+      <pubDate>Thu, 10 Sep 2026 13:59:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/abdda149/status/2098048600706281762</guid>
+    </item>
+    <item>
       <title>今はとりあえず NextChat とかいう Web アプリをたてて Cloudflare Tunnel で公開してる。けど、外出先から直接 Ollama も見たいよね。モデルはとりあえず以下を入れた。 gemma4:26b gemma4:e4b ornith1.5:9b</title>
       <link>https://x.com/k586/status/2097745691150004236</link>
       <description>k586: 今はとりあえず NextChat とかいう Web アプリをたてて Cloudflare Tunnel で公開してる。けど、外出先から直接 Ollama も見たいよね。モデルはとりあえず以下を入れた。 gemma4:26b gemma4:e4b ornith1.5:9b</description>
@@ -255,27 +276,6 @@
       <description>kote2(こてつ): やろうとしてたのでメモ。LINE Messaging APIは受信メッセージをポーリングするAPIがないのでWebhookを使うんだけど、ローカルで受けるなら Cloudflare Tunnel で公開して、そこからClaude CLIを叩けばいけそう。直接TunnelにつなぐのではなくNode/Python等の受信処理を1枚挟む必要ある。 https://t.co/d8dibRkJtA</description>
       <pubDate>Sun, 30 Aug 2026 12:12:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kote2/status/2094035404106481856</guid>
-    </item>
-    <item>
-      <title>うちのAIエージェント、なかなかやるようになってきたｗ さっきMamushiが突然、 「SECURITY_CRITICAL」 と報告。 調べてみると、稼働中の Cloudflare Tunnel のtokenが、cloudflaredのunit/process command lineから読める状態になっていた。 tokenそのものは記録せず、証拠だけ保存。 https://t.co/sZqqaU6fWw</title>
-      <link>https://x.com/superdoccimo/status/2094026986868048255</link>
-      <description>美濃加茂まむ: うちのAIエージェント、なかなかやるようになってきたｗ さっきMamushiが突然、 「SECURITY_CRITICAL」 と報告。 調べてみると、稼働中の Cloudflare Tunnel のtokenが、cloudflaredのunit/process command lineから読める状態になっていた。 tokenそのものは記録せず、証拠だけ保存。 https://t.co/sZqqaU6fWw</description>
-      <pubDate>Sun, 30 Aug 2026 11:38:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/superdoccimo/status/2094026986868048255</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 知ったときは「万能やんけ、全部これでいいやろ」って思ってたけど、いざ全部これでやろうとすると絶妙に痒い所に手が届かなかったりする。(Headscaleをホストしようしたら非対応だった)</title>
-      <link>https://x.com/RinMCWT/status/2093690220936151487</link>
-      <description>おのちゃん: Cloudflare Tunnel 知ったときは「万能やんけ、全部これでいいやろ」って思ってたけど、いざ全部これでやろうとすると絶妙に痒い所に手が届かなかったりする。(Headscaleをホストしようしたら非対応だった)</description>
-      <pubDate>Sat, 29 Aug 2026 13:20:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RinMCWT/status/2093690220936151487</guid>
-    </item>
-    <item>
-      <title>トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</title>
-      <link>https://x.com/shiroica/status/2093619818461311479</link>
-      <description>Yoshikazu Nojima: トヨタホームHEMSサービス終了かぁ。 どうせリモートアクセス機能は早晩そうなる気がしてたからEchonet Lite喋る自前HEMS作って Cloudflare Tunnel で運用してるから影響ないけど、 折角なら電気錠のEchonet Lite独自拡張の仕様を公開して欲しいぞ。 https://t.co/qXnitup5f5</description>
-      <pubDate>Sat, 29 Aug 2026 08:40:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shiroica/status/2093619818461311479</guid>
     </item>
   </channel>
 </rss>
