@@ -5,13 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>スマホ版のChromeのUIが変わって不快な人は以下の設定をしてみてください。 ① chrome :// flags と検索 ②開いたページでchromeNextlaを検索 ③DefaultからDisabledに変更 ④Chromeを再起動する これで以前の状態に戻せます。 https://t.co/tbAoJymctp</title>
-      <link>https://x.com/murabito_ms/status/2098338890654638409</link>
-      <description>むらびと: スマホ版のChromeのUIが変わって不快な人は以下の設定をしてみてください。 ① chrome :// flags と検索 ②開いたページでchromeNextlaを検索 ③DefaultからDisabledに変更 ④Chromeを再起動する これで以前の状態に戻せます。 https://t.co/tbAoJymctp</description>
-      <pubDate>Fri, 11 Sep 2026 09:12:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/murabito_ms/status/2098338890654638409</guid>
-    </item>
-    <item>
       <title>スマホのChromeブラウザなんか戻るボタン上になってて不快だった アドレスバーで chrome :// flags に行って、ChromeNextIaをdisableにしたら元に戻った 良かった...</title>
       <link>https://x.com/blood_eyes_crow/status/2098317477021462781</link>
       <description>Eucliwood: スマホのChromeブラウザなんか戻るボタン上になってて不快だった アドレスバーで chrome :// flags に行って、ChromeNextIaをdisableにしたら元に戻った 良かった...</description>
@@ -234,13 +227,6 @@
       <description>Colin: Codex 接著從 Chromium source 找到 workaround。開啟 chrome :// flags /#use-sc-content-sharing-picker 後重啟 Chrome，改用 macOS 原生分享選擇器，視窗和全螢幕分享就正常了。5/6</description>
       <pubDate>Sat, 15 Aug 2026 07:06:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/littleq0903/status/2088522629905015066</guid>
-    </item>
-    <item>
-      <title>僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</title>
-      <link>https://x.com/kentaro/status/2086805595995386016</link>
-      <description>栗林健太郎 🎨💙 AI時代の生きかた考察: 僕のWebサイトをWebMCP対応しました。Chrome 146以降で chrome :// flags /#enable-webmcp-testing を有効にすると使えます。また、MCPサーバ https://t.co/9fXbajrBNd で提供してるのと同じツールを使って、WebMCPなしでもあれこれできるメニューも作りました。 https://t.co/wPL6Rt1h6D https://t.co/2UXv7R6ymJ</description>
-      <pubDate>Mon, 10 Aug 2026 13:23:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kentaro/status/2086805595995386016</guid>
     </item>
     <item>
       <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>

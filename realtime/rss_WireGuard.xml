@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</title>
+      <link>https://x.com/hamkichi_north/status/2098424326127247610</link>
+      <description>北のはむきち: 最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</description>
+      <pubDate>Fri, 11 Sep 2026 14:52:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hamkichi_north/status/2098424326127247610</guid>
+    </item>
+    <item>
+      <title>Tailscale の存在は WireGuard 関連で前から知ってたけど DGX Spark 触ってからというもの、めっちゃ調べまくって知見が相当たまった</title>
+      <link>https://x.com/Astrisk_/status/2098421143380385809</link>
+      <description>たっけん@あすた🍃🌸🦊: Tailscale の存在は WireGuard 関連で前から知ってたけど DGX Spark 触ってからというもの、めっちゃ調べまくって知見が相当たまった</description>
+      <pubDate>Fri, 11 Sep 2026 14:39:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Astrisk_/status/2098421143380385809</guid>
+    </item>
+    <item>
       <title>なんかデバイスマネージャで Wireguard tunnel無限増殖してた時どうしようかと思ったわ https://t.co/dd8vaE3OzO</title>
       <link>https://x.com/L_port8080/status/2098372495447666835</link>
       <description>一樹（第二拠点）: なんかデバイスマネージャで Wireguard tunnel無限増殖してた時どうしようかと思ったわ https://t.co/dd8vaE3OzO</description>
@@ -17,6 +31,13 @@
       <description>ゆんぞ/Yunzo: ほんで ISP ルータはDNSサーバを qnap に指定すれば行けるはず。 また、 wireguard で家LAN接続時に qnap 上の DNS を参照できないので調べたら、クライアント側で DNS = 8.8.8.8 と書いてた。家のDNSにせんとアカン。</description>
       <pubDate>Fri, 11 Sep 2026 11:25:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yunzojm_open/status/2098372284285436041</guid>
+    </item>
+    <item>
+      <title>Fortigate52EにOpenWrt入れて、 WireGuard VPNゲートウェイ化完了！ さすがにそれだけだともったいないから、なんか他にも入れたいな cloudflared入れてトンネル冗長化するか</title>
+      <link>https://x.com/yamato_1413/status/2098369063068356693</link>
+      <description>やまと⛷滑走22日: Fortigate52EにOpenWrt入れて、 WireGuard VPNゲートウェイ化完了！ さすがにそれだけだともったいないから、なんか他にも入れたいな cloudflared入れてトンネル冗長化するか</description>
+      <pubDate>Fri, 11 Sep 2026 11:12:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamato_1413/status/2098369063068356693</guid>
     </item>
     <item>
       <title>@ik_llmyself マジで治んない Mintに関しては Wireguard とかOnにすると全ての保存された Wireguard をOnにしやがるし</title>
@@ -255,27 +276,6 @@
       <description>一樹（いつき）: そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</description>
       <pubDate>Sat, 05 Sep 2026 05:19:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8000/status/2096105859218903268</guid>
-    </item>
-    <item>
-      <title>退役したVPNサーバの後釜を、手のひらサイズの中古機で立て直した。 HP ProDesk 400 mini・Debian 12・ WireGuard 。 積んであるのは5台。一番上だけG1、あとは全部G2。 G2は秋葉原・ラジオデパートの処分品で1台1500円。ACアダプタは別で500円。 https://t.co/vxc4vEmPh5</title>
-      <link>https://x.com/AideaHandesen/status/2096080662503796859</link>
-      <description>Aidea@AIに配信させるvTuber(愛だよ愛): 退役したVPNサーバの後釜を、手のひらサイズの中古機で立て直した。 HP ProDesk 400 mini・Debian 12・ WireGuard 。 積んであるのは5台。一番上だけG1、あとは全部G2。 G2は秋葉原・ラジオデパートの処分品で1台1500円。ACアダプタは別で500円。 https://t.co/vxc4vEmPh5</description>
-      <pubDate>Sat, 05 Sep 2026 03:39:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AideaHandesen/status/2096080662503796859</guid>
-    </item>
-    <item>
-      <title>Mullvad VPNの大阪と東京リージョンどっちも壊れてるけどWindowsの Wireguard が壊れてるのかサーバーが死んでるのかどっちもあるから特定できん</title>
-      <link>https://x.com/sashisashi569/status/2096057072408510843</link>
-      <description>sashisashi: Mullvad VPNの大阪と東京リージョンどっちも壊れてるけどWindowsの Wireguard が壊れてるのかサーバーが死んでるのかどっちもあるから特定できん</description>
-      <pubDate>Sat, 05 Sep 2026 02:05:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2096057072408510843</guid>
-    </item>
-    <item>
-      <title>あー、分かった。 WireGuard 由来でした。解決</title>
-      <link>https://x.com/kage_musashino/status/2096044906372530178</link>
-      <description>影山よりひさ: あー、分かった。 WireGuard 由来でした。解決</description>
-      <pubDate>Sat, 05 Sep 2026 01:17:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kage_musashino/status/2096044906372530178</guid>
     </item>
   </channel>
 </rss>
