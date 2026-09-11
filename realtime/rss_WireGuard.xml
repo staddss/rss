@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なんかデバイスマネージャで Wireguard tunnel無限増殖してた時どうしようかと思ったわ https://t.co/dd8vaE3OzO</title>
+      <link>https://x.com/L_port8080/status/2098372495447666835</link>
+      <description>一樹（第二拠点）: なんかデバイスマネージャで Wireguard tunnel無限増殖してた時どうしようかと思ったわ https://t.co/dd8vaE3OzO</description>
+      <pubDate>Fri, 11 Sep 2026 11:26:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2098372495447666835</guid>
+    </item>
+    <item>
+      <title>ほんで ISP ルータはDNSサーバを qnap に指定すれば行けるはず。 また、 wireguard で家LAN接続時に qnap 上の DNS を参照できないので調べたら、クライアント側で DNS = 8.8.8.8 と書いてた。家のDNSにせんとアカン。</title>
+      <link>https://x.com/yunzojm_open/status/2098372284285436041</link>
+      <description>ゆんぞ/Yunzo: ほんで ISP ルータはDNSサーバを qnap に指定すれば行けるはず。 また、 wireguard で家LAN接続時に qnap 上の DNS を参照できないので調べたら、クライアント側で DNS = 8.8.8.8 と書いてた。家のDNSにせんとアカン。</description>
+      <pubDate>Fri, 11 Sep 2026 11:25:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2098372284285436041</guid>
+    </item>
+    <item>
+      <title>@ik_llmyself マジで治んない Mintに関しては Wireguard とかOnにすると全ての保存された Wireguard をOnにしやがるし</title>
+      <link>https://x.com/L_port8080/status/2098353448575983705</link>
+      <description>一樹（第二拠点）: @ik_llmyself マジで治んない Mintに関しては Wireguard とかOnにすると全ての保存された Wireguard をOnにしやがるし</description>
+      <pubDate>Fri, 11 Sep 2026 10:10:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2098353448575983705</guid>
+    </item>
+    <item>
+      <title>wireguard -goをベースにインターネットVPN越しでもoverlayにMTU1500以上を提供しつつ実用的なパフォーマンスを出すのと、メトリクスを充実させてモニタリングしやすくしたのがこだわりポイント💪 都合がつかず会場には行けなかったので、リモート構築をしました🙇♂️ #gocon #gocon26 #gocon26_noc</title>
+      <link>https://x.com/kuro_m88/status/2098267678838517989</link>
+      <description>くろさん: wireguard -goをベースにインターネットVPN越しでもoverlayにMTU1500以上を提供しつつ実用的なパフォーマンスを出すのと、メトリクスを充実させてモニタリングしやすくしたのがこだわりポイント💪 都合がつかず会場には行けなかったので、リモート構築をしました🙇♂️ #gocon #gocon26 #gocon26_noc</description>
+      <pubDate>Fri, 11 Sep 2026 04:29:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuro_m88/status/2098267678838517989</guid>
+    </item>
+    <item>
       <title>Fortigate 52Eゲット OpenWrtと WireGuard いれてVPNゲートウェイにするでよ https://t.co/UaZuRpKDlZ</title>
       <link>https://x.com/yamato_1413/status/2098040184424300976</link>
       <description>やまと⛷滑走22日: Fortigate 52Eゲット OpenWrtと WireGuard いれてVPNゲートウェイにするでよ https://t.co/UaZuRpKDlZ</description>
@@ -248,34 +276,6 @@
       <description>影山よりひさ: あー、分かった。 WireGuard 由来でした。解決</description>
       <pubDate>Sat, 05 Sep 2026 01:17:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kage_musashino/status/2096044906372530178</guid>
-    </item>
-    <item>
-      <title>@ppshppsh44 @moro_1con VPNは専用アプリやソフトを入れて使う。自分の端末とVPNサーバーの間に「暗号化トンネル」を作って、データをAESみたいな強力な暗号で固めてから送るんだ。途中で誰かに見られても中身が読めない仕組み。 よく使われるのは WireGuard やOpenVPNっていうプロトコルだよ。</title>
-      <link>https://x.com/grok/status/2095821108133986498</link>
-      <description>Grok: @ppshppsh44 @moro_1con VPNは専用アプリやソフトを入れて使う。自分の端末とVPNサーバーの間に「暗号化トンネル」を作って、データをAESみたいな強力な暗号で固めてから送るんだ。途中で誰かに見られても中身が読めない仕組み。 よく使われるのは WireGuard やOpenVPNっていうプロトコルだよ。</description>
-      <pubDate>Fri, 04 Sep 2026 10:27:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2095821108133986498</guid>
-    </item>
-    <item>
-      <title>Wireguard つかうべ</title>
-      <link>https://x.com/minatochang/status/2095613920367288580</link>
-      <description>巳波みなと / minato86: Wireguard つかうべ</description>
-      <pubDate>Thu, 03 Sep 2026 20:44:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minatochang/status/2095613920367288580</guid>
-    </item>
-    <item>
-      <title>DGX Sparkで動くLLMを WireGuard で AWS EC2から社内の人が自由に使えるように公開してみた。 キャッシングとか色々調べて試行錯誤していきたい</title>
-      <link>https://x.com/tan9i_/status/2095499963245662603</link>
-      <description>tan9i: DGX Sparkで動くLLMを WireGuard で AWS EC2から社内の人が自由に使えるように公開してみた。 キャッシングとか色々調べて試行錯誤していきたい</description>
-      <pubDate>Thu, 03 Sep 2026 13:11:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tan9i_/status/2095499963245662603</guid>
-    </item>
-    <item>
-      <title>【GL.iNet Beryl AX｜WiFi6トラベルルーター】 出張時のネット環境を高速・安定化。 574Mbps＋2402MbpsのWiFi6デュアルバンドで高品質通信。 2.5G WAN＋1G LANでホテルWiFiを高速化。 OpenVPN/ WireGuard 対応、30社以上のVPNと互換。 ビジネス出張に最適。 商品リンク：https://t.co/cpBHsg2cDj</title>
-      <link>https://x.com/mtgdmtgdpmj/status/2095367022360305900</link>
-      <description>バナナバニラ: 【GL.iNet Beryl AX｜WiFi6トラベルルーター】 出張時のネット環境を高速・安定化。 574Mbps＋2402MbpsのWiFi6デュアルバンドで高品質通信。 2.5G WAN＋1G LANでホテルWiFiを高速化。 OpenVPN/ WireGuard 対応、30社以上のVPNと互換。 ビジネス出張に最適。 商品リンク：https://t.co/cpBHsg2cDj</description>
-      <pubDate>Thu, 03 Sep 2026 04:23:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mtgdmtgdpmj/status/2095367022360305900</guid>
     </item>
   </channel>
 </rss>

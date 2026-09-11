@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今日の成果 Cloudflare Tunnel の技を覚えた！</title>
+      <link>https://x.com/araojpn/status/2098254700789608537</link>
+      <description>Arao@AIニート: 今日の成果 Cloudflare Tunnel の技を覚えた！</description>
+      <pubDate>Fri, 11 Sep 2026 03:37:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/araojpn/status/2098254700789608537</guid>
+    </item>
+    <item>
       <title>旅行して開発が滞ったので今さらながら自宅サーバやPCのネットワークを変更。 自宅ミニPC鯖は Cloudflare Tunnel で外から ssh やデプロイ可能に。 ゲームPCのGPU使った開発したいので、こっちは Tailscale で繋がるように。 やっぱり環境を変えないと見えてこないものあるなぁ</title>
       <link>https://x.com/akiraak/status/2098239862898131296</link>
       <description>Akira: 旅行して開発が滞ったので今さらながら自宅サーバやPCのネットワークを変更。 自宅ミニPC鯖は Cloudflare Tunnel で外から ssh やデプロイ可能に。 ゲームPCのGPU使った開発したいので、こっちは Tailscale で繋がるように。 やっぱり環境を変えないと見えてこないものあるなぁ</description>
@@ -269,13 +276,6 @@
       <description>nawa: 手元にあるMac miniといくつかのラズパイを cloudflare tunnel でworkerと接続したいんだが、いかんせん何をやらせるかが決まってない</description>
       <pubDate>Sun, 30 Aug 2026 12:57:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nawawan_kpr/status/2094046954947060009</guid>
-    </item>
-    <item>
-      <title>やろうとしてたのでメモ。LINE Messaging APIは受信メッセージをポーリングするAPIがないのでWebhookを使うんだけど、ローカルで受けるなら Cloudflare Tunnel で公開して、そこからClaude CLIを叩けばいけそう。直接TunnelにつなぐのではなくNode/Python等の受信処理を1枚挟む必要ある。 https://t.co/d8dibRkJtA</title>
-      <link>https://x.com/kote2/status/2094035404106481856</link>
-      <description>kote2(こてつ): やろうとしてたのでメモ。LINE Messaging APIは受信メッセージをポーリングするAPIがないのでWebhookを使うんだけど、ローカルで受けるなら Cloudflare Tunnel で公開して、そこからClaude CLIを叩けばいけそう。直接TunnelにつなぐのではなくNode/Python等の受信処理を1枚挟む必要ある。 https://t.co/d8dibRkJtA</description>
-      <pubDate>Sun, 30 Aug 2026 12:12:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kote2/status/2094035404106481856</guid>
     </item>
   </channel>
 </rss>
