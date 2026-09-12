@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS Crostini で Electron / Chromium に日本語が入らないとき、やることはほぼこれ。 1. --ozone-platform=x11 を強制（Wayland だと窓が出ない／IME が乗らない） 2. .desktop の Exec= に env VAR=... を書かない。ラッパーの絶対パスにする（ ChromeOS のランチャーでは env</title>
+      <link>https://x.com/techs44576/status/2098799902428123240</link>
+      <description>techs_targe: ChromeOS Crostini で Electron / Chromium に日本語が入らないとき、やることはほぼこれ。 1. --ozone-platform=x11 を強制（Wayland だと窓が出ない／IME が乗らない） 2. .desktop の Exec= に env VAR=... を書かない。ラッパーの絶対パスにする（ ChromeOS のランチャーでは env</description>
+      <pubDate>Sat, 12 Sep 2026 15:44:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techs44576/status/2098799902428123240</guid>
+    </item>
+    <item>
+      <title>@Satoru_ER ChromeOS ないんか?w Chromeで実装してるんだからないとおかしいけど</title>
+      <link>https://x.com/haru3980/status/2098773899567853722</link>
+      <description>Android信者! ＠彩葉推し: @Satoru_ER ChromeOS ないんか?w Chromeで実装してるんだからないとおかしいけど</description>
+      <pubDate>Sat, 12 Sep 2026 14:01:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haru3980/status/2098773899567853722</guid>
+    </item>
+    <item>
+      <title>@haru3980 いいな Debianと ChromeOS だと全然降ってこない</title>
+      <link>https://x.com/Satoru_ER/status/2098769581607432639</link>
+      <description>たぶんさとる（2）: @haru3980 いいな Debianと ChromeOS だと全然降ってこない</description>
+      <pubDate>Sat, 12 Sep 2026 13:43:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Satoru_ER/status/2098769581607432639</guid>
+    </item>
+    <item>
+      <title>あれ、 ChromeOS 152 になって、Chromebook にこんな通知出るようになったんか？今まであったっけか？ https://t.co/bJmLg5UbZJ</title>
+      <link>https://x.com/Helen_Tech/status/2098765602613768668</link>
+      <description>おむらまさひで(HelenTech): あれ、 ChromeOS 152 になって、Chromebook にこんな通知出るようになったんか？今まであったっけか？ https://t.co/bJmLg5UbZJ</description>
+      <pubDate>Sat, 12 Sep 2026 13:28:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2098765602613768668</guid>
+    </item>
+    <item>
       <title>ChromeOS LTC 150 のマイナーアップデート (150.0.7871.253) が展開。8 件の脆弱性を修正 https://t.co/zEwEyF3mVj</title>
       <link>https://x.com/Helen_Tech/status/2098740090487103505</link>
       <description>おむらまさひで(HelenTech): ChromeOS LTC 150 のマイナーアップデート (150.0.7871.253) が展開。8 件の脆弱性を修正 https://t.co/zEwEyF3mVj</description>
@@ -248,34 +276,6 @@
       <description>円福(えんぷく): @SanMitsuGo Appleにはもう少しばかし柔軟性を持ってほしい（） ChromeOS のほうはもっと色々動いて楽しいっす。</description>
       <pubDate>Thu, 10 Sep 2026 01:45:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/empuku_tenso/status/2097864051670048845</guid>
-    </item>
-    <item>
-      <title>【Chromebook】 ChromeOS 152 Stableへ。OS 16765.41.0がほとんどの端末に配信開始 - Chromebookジャーナル https://t.co/5xd622r80i</title>
-      <link>https://x.com/pcefancom/status/2097851902478426220</link>
-      <description>タケイマコト: 【Chromebook】 ChromeOS 152 Stableへ。OS 16765.41.0がほとんどの端末に配信開始 - Chromebookジャーナル https://t.co/5xd622r80i</description>
-      <pubDate>Thu, 10 Sep 2026 00:57:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pcefancom/status/2097851902478426220</guid>
-    </item>
-    <item>
-      <title>@Google Chrome Releases:Stable Channel Update for ChromeOS / ChromeOS Flex https://t.co/MhnnMwYzJZ @Google ChromeOS / ChromeOS Flex、アップデート出てます。ご利用のｋ（ry</title>
-      <link>https://x.com/Syynya/status/2097835900562760112</link>
-      <description>しーにゃ♪@公式: @Google Chrome Releases:Stable Channel Update for ChromeOS / ChromeOS Flex https://t.co/MhnnMwYzJZ @Google ChromeOS / ChromeOS Flex、アップデート出てます。ご利用のｋ（ry</description>
-      <pubDate>Wed, 09 Sep 2026 23:53:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Syynya/status/2097835900562760112</guid>
-    </item>
-    <item>
-      <title>python、gcc、dotnetなどが動く。もう少し chromeos さわってみよう。</title>
-      <link>https://x.com/tanam1972/status/2097735664561459600</link>
-      <description>たなむ(TMS9918): python、gcc、dotnetなどが動く。もう少し chromeos さわってみよう。</description>
-      <pubDate>Wed, 09 Sep 2026 17:15:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanam1972/status/2097735664561459600</guid>
-    </item>
-    <item>
-      <title>LTS ( ChromeOS 144) の ASUS Chromebook Flip C213 で見たけど同じ症状だったので、清掃のおばちゃんがサーバーのコンセント抜いたんだろうな、たぶん。 https://t.co/tMQrpBGCRR</title>
-      <link>https://x.com/ttatsuoki/status/2097694189102465041</link>
-      <description>龍興 尚幸 (TATSUOKI Takayuki): LTS ( ChromeOS 144) の ASUS Chromebook Flip C213 で見たけど同じ症状だったので、清掃のおばちゃんがサーバーのコンセント抜いたんだろうな、たぶん。 https://t.co/tMQrpBGCRR</description>
-      <pubDate>Wed, 09 Sep 2026 14:30:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ttatsuoki/status/2097694189102465041</guid>
     </item>
   </channel>
 </rss>
