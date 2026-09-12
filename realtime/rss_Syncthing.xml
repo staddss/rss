@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メリットはとにかく同期が速いこと。 Syncthing への変更前はOneDriveの同期の遅れ＋Foldersyncの実行のタイミング（1時間に1回とか）による遅延があり「出かける前にPCで加えた変更がスマホに反映されてねえ」て状況がよくあったが、変更後はそういう問題がまったくないので使ってて気持ちいい。</title>
+      <link>https://x.com/tk20130801/status/2098642298473246985</link>
+      <description>tk20130801: メリットはとにかく同期が速いこと。 Syncthing への変更前はOneDriveの同期の遅れ＋Foldersyncの実行のタイミング（1時間に1回とか）による遅延があり「出かける前にPCで加えた変更がスマホに反映されてねえ」て状況がよくあったが、変更後はそういう問題がまったくないので使ってて気持ちいい。</description>
+      <pubDate>Sat, 12 Sep 2026 05:18:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tk20130801/status/2098642298473246985</guid>
+    </item>
+    <item>
       <title>ObisidianのVaultの同期を Syncthing に乗り換えたことのデメリットはLAN外でのデータの取得が不可になったこと。VPNを張ればできるっぽいけど、元ポストにも書いたが自分の運用ではそこまで必要がないと割り切って切り捨て。今のところ問題ない。</title>
       <link>https://x.com/tk20130801/status/2098639649912782886</link>
       <description>tk20130801: ObisidianのVaultの同期を Syncthing に乗り換えたことのデメリットはLAN外でのデータの取得が不可になったこと。VPNを張ればできるっぽいけど、元ポストにも書いたが自分の運用ではそこまで必要がないと割り切って切り捨て。今のところ問題ない。</description>

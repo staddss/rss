@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/stakme/status/2098612349687173500</guid>
     </item>
     <item>
+      <title>さて、色々とやってみて Cloudflare Tunnel は正常復帰できたっぽいので、次は SSO のリンクを総当りして、問題がないか？みたいなのをやらないといけないのだが、計画を立てるのしんどいので AI に実行プランを立ててもらおう。</title>
+      <link>https://x.com/SeahalJa/status/2098596126484230179</link>
+      <description>SEAHAL(Ja): さて、色々とやってみて Cloudflare Tunnel は正常復帰できたっぽいので、次は SSO のリンクを総当りして、問題がないか？みたいなのをやらないといけないのだが、計画を立てるのしんどいので AI に実行プランを立ててもらおう。</description>
+      <pubDate>Sat, 12 Sep 2026 02:14:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2098596126484230179</guid>
+    </item>
+    <item>
       <title>@ryojihido ローカルqwen＆ Cloudflare Tunnel でセキュリティしっかりされてて素晴らしいです✨タブレットをリモコン兼クライアントにされてる構成もすごい…😳 やっぱり音声はずんだもんですよね♡ 8体のシンクロした動きにみとれました！</title>
       <link>https://x.com/mama_vibecoding/status/2098385104766894308</link>
       <description>Miki@文系非エンジニアの趣味AI: @ryojihido ローカルqwen＆ Cloudflare Tunnel でセキュリティしっかりされてて素晴らしいです✨タブレットをリモコン兼クライアントにされてる構成もすごい…😳 やっぱり音声はずんだもんですよね♡ 8体のシンクロした動きにみとれました！</description>
@@ -220,13 +227,6 @@
       <description>Volk149: Cloudflare Tunnel を使ってサブドメでローカルサーバー立てたら 外部の一般アクセスは大丈夫そうだけど 自宅からレンタルサーバー上のルートドメインサイトへのアクセスだけ壊れたｗ</description>
       <pubDate>Tue, 01 Sep 2026 13:20:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/abdda149/status/2094777463616487783</guid>
-    </item>
-    <item>
-      <title>手順書は読まれないというのはエンジニアあるあるだよなぁ〜 cloudflare tunnel は冗長してたのかな https://t.co/DRntOeDrKm</title>
-      <link>https://x.com/m4u5u/status/2094774149982154755</link>
-      <description>あまうすEx: 手順書は読まれないというのはエンジニアあるあるだよなぁ〜 cloudflare tunnel は冗長してたのかな https://t.co/DRntOeDrKm</description>
-      <pubDate>Tue, 01 Sep 2026 13:07:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m4u5u/status/2094774149982154755</guid>
     </item>
     <item>
       <title>あとcloudflare使う人は cloudflare tunnel も良いぞと置いておく。(VPNではないが)</title>

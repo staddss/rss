@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>内/外 責務切り分けでいいか https 化 と WireGuard</title>
+      <link>https://x.com/Astrisk_/status/2098712098075443644</link>
+      <description>たっけん@あすた🍃🌸🦊: 内/外 責務切り分けでいいか https 化 と WireGuard</description>
+      <pubDate>Sat, 12 Sep 2026 09:55:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Astrisk_/status/2098712098075443644</guid>
+    </item>
+    <item>
+      <title>WireGuard 接続にすれば全部解決しそうな気はするけど</title>
+      <link>https://x.com/Astrisk_/status/2098711549733171514</link>
+      <description>たっけん@あすた🍃🌸🦊: WireGuard 接続にすれば全部解決しそうな気はするけど</description>
+      <pubDate>Sat, 12 Sep 2026 09:53:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Astrisk_/status/2098711549733171514</guid>
+    </item>
+    <item>
+      <title>最近見た漏洩等のインシデントはほぼVPNだよな 自宅の WireGuard とかもほとんど更新した覚えがないから少し気にかけるか</title>
+      <link>https://x.com/arms00/status/2098684057030963245</link>
+      <description>うで: 最近見た漏洩等のインシデントはほぼVPNだよな 自宅の WireGuard とかもほとんど更新した覚えがないから少し気にかけるか</description>
+      <pubDate>Sat, 12 Sep 2026 08:04:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arms00/status/2098684057030963245</guid>
+    </item>
+    <item>
+      <title>@yamato_1413 冗長化するなら、 WireGuard 経路とcloudflaredの出口を別系統にして、Keepaliveと障時の切り替えを先に確認すると安心です。無料のリバースプロキシ／向きトンネルなら、MITオープンソースのcftunnelもあり、`cftunnel quick</title>
+      <link>https://x.com/JayQinQT/status/2098680621014880523</link>
+      <description>Jay: @yamato_1413 冗長化するなら、 WireGuard 経路とcloudflaredの出口を別系統にして、Keepaliveと障時の切り替えを先に確認すると安心です。無料のリバースプロキシ／向きトンネルなら、MITオープンソースのcftunnelもあり、`cftunnel quick</description>
+      <pubDate>Sat, 12 Sep 2026 07:50:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JayQinQT/status/2098680621014880523</guid>
+    </item>
+    <item>
       <title>先日あきばお〜さんで購入したmicroSDカードをラズパイに使うか。自宅と別拠点をそれぞれのラズパイに wireguard かtailscaleで繋ぐとするか。</title>
       <link>https://x.com/_greensandblues/status/2098458523797778631</link>
       <description>碧井𝕏鳥之介: 先日あきばお〜さんで購入したmicroSDカードをラズパイに使うか。自宅と別拠点をそれぞれのラズパイに wireguard かtailscaleで繋ぐとするか。</description>
@@ -248,34 +276,6 @@
       <description>rrm: ちなみにこれはmikrotik hexとLinuxでVXLAN over BGP over wireguard over フレッツ（NGN)したときの知見の一部 （おとなしくEoIPしろ）</description>
       <pubDate>Sat, 05 Sep 2026 18:10:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/rurimium/status/2096299933871853868</guid>
-    </item>
-    <item>
-      <title>wireguard は拠点間通信の足回りに使うときAllowedIPsがkernel routingより強いせいで P2Pならいいけど上でBGPとか動かして、動的にいじいじ・ECMP・マルチホップでの到達性の救済が要るP2MP拠点用になるとかなりめんどい。 その点OpenVPNはpush</title>
-      <link>https://x.com/rurimium/status/2096299239941054873</link>
-      <description>rrm: wireguard は拠点間通信の足回りに使うときAllowedIPsがkernel routingより強いせいで P2Pならいいけど上でBGPとか動かして、動的にいじいじ・ECMP・マルチホップでの到達性の救済が要るP2MP拠点用になるとかなりめんどい。 その点OpenVPNはpush</description>
-      <pubDate>Sat, 05 Sep 2026 18:07:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rurimium/status/2096299239941054873</guid>
-    </item>
-    <item>
-      <title>LightsailでDebian13のインスタンス1つを立てて、ブラウザSSHでログイン確認。あとはUFW入れてinboundを絞ったり Wireguard 入れたりするなど、だいぶ感触は掴めた気がする。やっぱ実際に触ってみるべきだな…。</title>
-      <link>https://x.com/oyaguma3/status/2096270547705614773</link>
-      <description>おやぐまさん: LightsailでDebian13のインスタンス1つを立てて、ブラウザSSHでログイン確認。あとはUFW入れてinboundを絞ったり Wireguard 入れたりするなど、だいぶ感触は掴めた気がする。やっぱ実際に触ってみるべきだな…。</description>
-      <pubDate>Sat, 05 Sep 2026 16:13:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oyaguma3/status/2096270547705614773</guid>
-    </item>
-    <item>
-      <title>UE5 Zen Storage Serverを外出先でデスクトップPCとリモートシェア活用する際、Tailscale や WireGuard 、Cloudflare Tunnelで接続するパターンがあるみたいだ。外出先のもくもく会やイベント時にリモートからデスクトップPCにアクセスして作業設定やデータ連携ができるように今度仕込んでみるか。</title>
-      <link>https://x.com/Shimotuki2012/status/2096251075104038995</link>
-      <description>霜月（しもつき）＠UE5ゲーム開発×ボドゲTRPG原案: UE5 Zen Storage Serverを外出先でデスクトップPCとリモートシェア活用する際、Tailscale や WireGuard 、Cloudflare Tunnelで接続するパターンがあるみたいだ。外出先のもくもく会やイベント時にリモートからデスクトップPCにアクセスして作業設定やデータ連携ができるように今度仕込んでみるか。</description>
-      <pubDate>Sat, 05 Sep 2026 14:56:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Shimotuki2012/status/2096251075104038995</guid>
-    </item>
-    <item>
-      <title>因みに何故か私と wireguard と相性悪いみたいでWindowsはもちろんLinuxでもエラー吐く というのも Wireguard をONにするとインポートされているすべての wireguard をONにしようとしてインターネット使えなくなる笑笑 手動で一個だけにすれば一応できるが面倒... というわけであとでLinuxも新調 多分Fedora https://t.co/UizSgM3KTn</title>
-      <link>https://x.com/L_port8000/status/2096106672217542764</link>
-      <description>一樹（いつき）: 因みに何故か私と wireguard と相性悪いみたいでWindowsはもちろんLinuxでもエラー吐く というのも Wireguard をONにするとインポートされているすべての wireguard をONにしようとしてインターネット使えなくなる笑笑 手動で一個だけにすれば一応できるが面倒... というわけであとでLinuxも新調 多分Fedora https://t.co/UizSgM3KTn</description>
-      <pubDate>Sat, 05 Sep 2026 05:22:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2096106672217542764</guid>
     </item>
   </channel>
 </rss>
