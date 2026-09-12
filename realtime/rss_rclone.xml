@@ -271,13 +271,6 @@
       <guid isPermaLink="true">https://x.com/uryossa/status/2087835023097692595</guid>
     </item>
     <item>
-      <title>Drive MCP の download_file_content が Service Account だと 403 になることがあるんですよ My Drive 配下のファイルは SA に明示共有してないと取れない rclone .conf の OAuth トークンを流用して googleapiclient で取得するのが fallback として安定してます</title>
-      <link>https://x.com/e2life040321/status/2087735904580542630</link>
-      <description>たくや: Drive MCP の download_file_content が Service Account だと 403 になることがあるんですよ My Drive 配下のファイルは SA に明示共有してないと取れない rclone .conf の OAuth トークンを流用して googleapiclient で取得するのが fallback として安定してます</description>
-      <pubDate>Thu, 13 Aug 2026 03:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/e2life040321/status/2087735904580542630</guid>
-    </item>
-    <item>
       <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>
       <link>https://x.com/Okakajp25/status/2083847862283379060</link>
       <description>Okaka25: cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</description>

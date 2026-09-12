@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE比較ガイド： Codespaces ・Gitpod・Cloud9 の最短選定法（試用→本番手順つき） https://t.co/MqPawopxka #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2098633096480379139</link>
+      <description>EngiNear: 【新着記事】クラウドIDE比較ガイド： Codespaces ・Gitpod・Cloud9 の最短選定法（試用→本番手順つき） https://t.co/MqPawopxka #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 12 Sep 2026 04:41:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2098633096480379139</guid>
+    </item>
+    <item>
+      <title>CodeSpaces たしかに時間かかる #gocon26</title>
+      <link>https://x.com/kosuke_yellow/status/2098235950455541892</link>
+      <description>こうすけ: CodeSpaces たしかに時間かかる #gocon26</description>
+      <pubDate>Fri, 11 Sep 2026 02:23:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kosuke_yellow/status/2098235950455541892</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDEの最短選定ガイド： Codespaces ／Gitpod／Cloud9 の比較と実務PoCテンプレ（エンジニア向け） https://t.co/BXmYkk32IA #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2097847862449037633</link>
       <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド： Codespaces ／Gitpod／Cloud9 の比較と実務PoCテンプレ（エンジニア向け） https://t.co/BXmYkk32IA #エンジニア #ChatGPT #AI</description>
@@ -269,13 +283,6 @@
       <description>仮想0077: 署名対象は公式仕様どおり「room|nonce|text」。本文は保存前の1行化後の文字列を署名し、nonceは同じ部屋で前回より大きくします。 第三者の Codespaces や鍵生成サイトへ秘密鍵を置かないこと。5/7</description>
       <pubDate>Wed, 26 Aug 2026 00:38:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kasou0077/status/2092411428657586432</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 を用途別に選ぶ方法と導入手順 https://t.co/lfVj0TSPz4 #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2092410837596098768</link>
-      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 を用途別に選ぶ方法と導入手順 https://t.co/lfVj0TSPz4 #エンジニア #ChatGPT #AI</description>
-      <pubDate>Wed, 26 Aug 2026 00:36:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2092410837596098768</guid>
     </item>
   </channel>
 </rss>

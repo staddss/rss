@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>先日あきばお〜さんで購入したmicroSDカードをラズパイに使うか。自宅と別拠点をそれぞれのラズパイに wireguard かtailscaleで繋ぐとするか。</title>
+      <link>https://x.com/_greensandblues/status/2098458523797778631</link>
+      <description>碧井𝕏鳥之介: 先日あきばお〜さんで購入したmicroSDカードをラズパイに使うか。自宅と別拠点をそれぞれのラズパイに wireguard かtailscaleで繋ぐとするか。</description>
+      <pubDate>Fri, 11 Sep 2026 17:07:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_greensandblues/status/2098458523797778631</guid>
+    </item>
+    <item>
       <title>最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</title>
       <link>https://x.com/hamkichi_north/status/2098424326127247610</link>
       <description>北のはむきち: 最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</description>
@@ -269,13 +276,6 @@
       <description>一樹（いつき）: 因みに何故か私と wireguard と相性悪いみたいでWindowsはもちろんLinuxでもエラー吐く というのも Wireguard をONにするとインポートされているすべての wireguard をONにしようとしてインターネット使えなくなる笑笑 手動で一個だけにすれば一応できるが面倒... というわけであとでLinuxも新調 多分Fedora https://t.co/UizSgM3KTn</description>
       <pubDate>Sat, 05 Sep 2026 05:22:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8000/status/2096106672217542764</guid>
-    </item>
-    <item>
-      <title>そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</title>
-      <link>https://x.com/L_port8000/status/2096105859218903268</link>
-      <description>一樹（いつき）: そもそも最近 Wireguard とかWARPとか組み込みVPNとか諸々が全て動作しなくて色々試したけど治らなかったから結局クリインすることに決めた FirefoxのCookieのフォルダあると思うんだけど，これ移植したら全部のログインデータ引き継げたりしないかな https://t.co/neJNB8EzpJ</description>
-      <pubDate>Sat, 05 Sep 2026 05:19:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2096105859218903268</guid>
     </item>
   </channel>
 </rss>

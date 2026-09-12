@@ -277,12 +277,5 @@
       <pubDate>Tue, 18 Aug 2026 02:54:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/msk_isynth/status/2089546360043561319</guid>
     </item>
-    <item>
-      <title>pipewire ではなく jackd と apulse を使って Spotify を動かすには、jackd の Sampling Rate を (default) から 44100 に設定しておかないと音がおかしくなる。</title>
-      <link>https://x.com/Inqb8tr_jp/status/2088918300210401774</link>
-      <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: pipewire ではなく jackd と apulse を使って Spotify を動かすには、jackd の Sampling Rate を (default) から 44100 に設定しておかないと音がおかしくなる。</description>
-      <pubDate>Sun, 16 Aug 2026 09:18:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2088918300210401774</guid>
-    </item>
   </channel>
 </rss>

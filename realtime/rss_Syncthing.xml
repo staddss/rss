@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ObisidianのVaultの同期を Syncthing に乗り換えたことのデメリットはLAN外でのデータの取得が不可になったこと。VPNを張ればできるっぽいけど、元ポストにも書いたが自分の運用ではそこまで必要がないと割り切って切り捨て。今のところ問題ない。</title>
+      <link>https://x.com/tk20130801/status/2098639649912782886</link>
+      <description>tk20130801: ObisidianのVaultの同期を Syncthing に乗り換えたことのデメリットはLAN外でのデータの取得が不可になったこと。VPNを張ればできるっぽいけど、元ポストにも書いたが自分の運用ではそこまで必要がないと割り切って切り捨て。今のところ問題ない。</description>
+      <pubDate>Sat, 12 Sep 2026 05:07:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tk20130801/status/2098639649912782886</guid>
+    </item>
+    <item>
+      <title>Syncthing 使ってやってたけどGooglePhoto使うやり方もあるのか</title>
+      <link>https://x.com/kainekarin/status/2098498656022544887</link>
+      <description>海音かりん: Syncthing 使ってやってたけどGooglePhoto使うやり方もあるのか</description>
+      <pubDate>Fri, 11 Sep 2026 19:47:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kainekarin/status/2098498656022544887</guid>
+    </item>
+    <item>
       <title>ObsidianのVaultの同期をOneDrive+Foldersyncから Syncthing に変更して一週間が経過。自分の使い方だと出先では閲覧がメインだから同期の条件をLANに限定して運用中。仮に出先で新規作成あるいは変更しても戻ったら反映されていれば十分だしねえ。</title>
       <link>https://x.com/tk20130801/status/2098254790866452545</link>
       <description>tk20130801: ObsidianのVaultの同期をOneDrive+Foldersyncから Syncthing に変更して一週間が経過。自分の使い方だと出先では閲覧がメインだから同期の条件をLANに限定して運用中。仮に出先で新規作成あるいは変更しても戻ったら反映されていれば十分だしねえ。</description>
