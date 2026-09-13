@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscaleやめて Cloudflare tunnel (or 類似サービス)とかにしようかなぁ。 好きなVPN使いにくいし、クライアントノードのDNSとルーティングテーブル汚染するし、ホストそのものを仮想プライベートネットワークに露出するからリスクあるし。</title>
+      <link>https://x.com/sashisashi569/status/2099057751242785055</link>
+      <description>sashisashi: Tailscaleやめて Cloudflare tunnel (or 類似サービス)とかにしようかなぁ。 好きなVPN使いにくいし、クライアントノードのDNSとルーティングテーブル汚染するし、ホストそのものを仮想プライベートネットワークに露出するからリスクあるし。</description>
+      <pubDate>Sun, 13 Sep 2026 08:49:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2099057751242785055</guid>
+    </item>
+    <item>
       <title>RTX1300をOpenWRTなPCルーターで置き換えるにあたり、外出中にコケてしまった場合に備えて格安SIM+中華4Gルーター+OpenWRTの動くサブルーター+ Cloudflare Tunnel +vPro Remote Desktopで主回線が落ちても復活できるようにしたぞ</title>
       <link>https://x.com/amc_cake/status/2098786751775179202</link>
       <description>Am&amp;C: RTX1300をOpenWRTなPCルーターで置き換えるにあたり、外出中にコケてしまった場合に備えて格安SIM+中華4Gルーター+OpenWRTの動くサブルーター+ Cloudflare Tunnel +vPro Remote Desktopで主回線が落ちても復活できるようにしたぞ</description>
@@ -269,13 +276,6 @@
       <description>たいよっぷ | Harness Engineer: tailcatは便利だけど、便利すぎてクラッキングにも使われそうだな。 cloudflare tunnel とかもそうだけど。</description>
       <pubDate>Tue, 01 Sep 2026 00:26:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/taiyop/status/2094582606214185327</guid>
-    </item>
-    <item>
-      <title>Self-hostedした #Fluxer が #DeepSeek APIを使った @opencode のメンテとチューニングで無事、VOIP機能が有効になりました。 VPSサーバーでも良いのですが、私としてはサーバースペック自体はいらなくて、 Cloudflare tunnel みたいにバイパス出来れば良かったので https://t.co/CSpX62nUCj https://t.co/cTVvio6W1O https://t.co/oSDyngQ9hu</title>
-      <link>https://x.com/LunarHealWisdom/status/2094471611621814613</link>
-      <description>🧸🦊Yomi Watanuki: Self-hostedした #Fluxer が #DeepSeek APIを使った @opencode のメンテとチューニングで無事、VOIP機能が有効になりました。 VPSサーバーでも良いのですが、私としてはサーバースペック自体はいらなくて、 Cloudflare tunnel みたいにバイパス出来れば良かったので https://t.co/CSpX62nUCj https://t.co/cTVvio6W1O https://t.co/oSDyngQ9hu</description>
-      <pubDate>Mon, 31 Aug 2026 17:05:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2094471611621814613</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeOS Crostini で Electron / Chromium に日本語が入らないとき、やることはほぼこれ。 1. --ozone-platform=x11 を強制（Wayland だと窓が出ない／IME が乗らない） 2. .desktop の Exec= に env VAR=... を書かない。ラッパーの絶対パスにする（ChromeOS のランチャーでは env</title>
+      <link>https://x.com/techs44576/status/2098799902428123240</link>
+      <description>techs_targe: ChromeOS Crostini で Electron / Chromium に日本語が入らないとき、やることはほぼこれ。 1. --ozone-platform=x11 を強制（Wayland だと窓が出ない／IME が乗らない） 2. .desktop の Exec= に env VAR=... を書かない。ラッパーの絶対パスにする（ChromeOS のランチャーでは env</description>
+      <pubDate>Sat, 12 Sep 2026 15:44:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techs44576/status/2098799902428123240</guid>
+    </item>
+    <item>
       <title>更にChromebook（正確にはLinux/ Crostini ）にも対応し、html待受アドレスも変更する。ただし、Chrome特有でコンテナが違うので、htmlの自動起動が上手く行かない場合も残る。 Chromebook対応は、凄く勉強になった。</title>
       <link>https://x.com/jl7khn/status/2096577955984232864</link>
       <description>JL7KHN/ミヤギKI529/25KI529: 更にChromebook（正確にはLinux/ Crostini ）にも対応し、html待受アドレスも変更する。ただし、Chrome特有でコンテナが違うので、htmlの自動起動が上手く行かない場合も残る。 Chromebook対応は、凄く勉強になった。</description>
