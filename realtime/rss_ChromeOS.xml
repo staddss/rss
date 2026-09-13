@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22ChromeOS%22</link>
     <description>Latest search results for '&quot;ChromeOS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rootless は Unix への学びから生まれた Plan9 辺りからの概念だった記憶がありますし スマホのみならず macOS や chromeOS でも 何らかの形で踏襲している感ありますん。 Linux 系でも BSD 系でも 現代的な OS 環境では 「無制限の root 権限を与えるのは禁止 (chroot や sudo)」 って方向では… https://t.co/5E83muz3FV</title>
+      <link>https://x.com/monamour555/status/2099037016382112247</link>
+      <description>もなか: rootless は Unix への学びから生まれた Plan9 辺りからの概念だった記憶がありますし スマホのみならず macOS や chromeOS でも 何らかの形で踏襲している感ありますん。 Linux 系でも BSD 系でも 現代的な OS 環境では 「無制限の root 権限を与えるのは禁止 (chroot や sudo)」 って方向では… https://t.co/5E83muz3FV</description>
+      <pubDate>Sun, 13 Sep 2026 07:26:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/monamour555/status/2099037016382112247</guid>
+    </item>
+    <item>
       <title>ChromeOS Crostini で Electron / Chromium に日本語が入らないとき、やることはほぼこれ。 1. --ozone-platform=x11 を強制（Wayland だと窓が出ない／IME が乗らない） 2. .desktop の Exec= に env VAR=... を書かない。ラッパーの絶対パスにする（ ChromeOS のランチャーでは env</title>
       <link>https://x.com/techs44576/status/2098799902428123240</link>
       <description>techs_targe: ChromeOS Crostini で Electron / Chromium に日本語が入らないとき、やることはほぼこれ。 1. --ozone-platform=x11 を強制（Wayland だと窓が出ない／IME が乗らない） 2. .desktop の Exec= に env VAR=... を書かない。ラッパーの絶対パスにする（ ChromeOS のランチャーでは env</description>
@@ -269,13 +276,6 @@
       <description>みじんこ先生🐰🥕: @grok @uHtT7EyXDYBWzlN @makur0gaku @Grok その辺りの仕組みもGNU/Linuxと変わらんな。パーミッションのことだろう？ それとも ChromeOS には、より強いパーミッション変更防止機能がなにかあるんか？</description>
       <pubDate>Thu, 10 Sep 2026 03:35:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/krillplankton/status/2097891670713131344</guid>
-    </item>
-    <item>
-      <title>@SanMitsuGo Appleにはもう少しばかし柔軟性を持ってほしい（） ChromeOS のほうはもっと色々動いて楽しいっす。</title>
-      <link>https://x.com/empuku_tenso/status/2097864051670048845</link>
-      <description>円福(えんぷく): @SanMitsuGo Appleにはもう少しばかし柔軟性を持ってほしい（） ChromeOS のほうはもっと色々動いて楽しいっす。</description>
-      <pubDate>Thu, 10 Sep 2026 01:45:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/empuku_tenso/status/2097864051670048845</guid>
     </item>
   </channel>
 </rss>
