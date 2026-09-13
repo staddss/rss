@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/amc_cake/status/2098786751775179202</guid>
     </item>
     <item>
+      <title>Cloudflare Tunnel は手軽だけどhttp(s)以外はキツいので、またArkやマイクラのサーバなんかを動かすならVPS＋WireGuardでポートフォワードするしかないだろうな…… 今はそれどころじゃないのでまたその時が来たら考えよう</title>
+      <link>https://x.com/marz04/status/2098764128668319792</link>
+      <description>まーず: Cloudflare Tunnel は手軽だけどhttp(s)以外はキツいので、またArkやマイクラのサーバなんかを動かすならVPS＋WireGuardでポートフォワードするしかないだろうな…… 今はそれどころじゃないのでまたその時が来たら考えよう</description>
+      <pubDate>Sat, 12 Sep 2026 13:22:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/marz04/status/2098764128668319792</guid>
+    </item>
+    <item>
       <title>小さなVPSを立ててVPNトンネルを張ってなんとかするか、と思ったけど、どうせ個人用のNextcloudとツール用webサーバなので、手軽に Cloudflare Tunnel で解決した。 元々ドメインとDNSはCloudflareに移管してたからサクッといけた。 https://t.co/WPveTv0r98</title>
       <link>https://x.com/marz04/status/2098761786229207325</link>
       <description>まーず: 小さなVPSを立ててVPNトンネルを張ってなんとかするか、と思ったけど、どうせ個人用のNextcloudとツール用webサーバなので、手軽に Cloudflare Tunnel で解決した。 元々ドメインとDNSはCloudflareに移管してたからサクッといけた。 https://t.co/WPveTv0r98</description>
@@ -269,13 +276,6 @@
       <description>🧸🦊Yomi Watanuki: Self-hostedした #Fluxer が #DeepSeek APIを使った @opencode のメンテとチューニングで無事、VOIP機能が有効になりました。 VPSサーバーでも良いのですが、私としてはサーバースペック自体はいらなくて、 Cloudflare tunnel みたいにバイパス出来れば良かったので https://t.co/CSpX62nUCj https://t.co/cTVvio6W1O https://t.co/oSDyngQ9hu</description>
       <pubDate>Mon, 31 Aug 2026 17:05:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2094471611621814613</guid>
-    </item>
-    <item>
-      <title>https://t.co/OFA0Z61OrO、ちょっとプレミアム契約してFluxerのNAT越えやってみようと思う UDP通信がつまり Cloudflare Tunnel じゃバイパスできないのよ…</title>
-      <link>https://x.com/LunarHealWisdom/status/2094452489374642447</link>
-      <description>🧸🦊Yomi Watanuki: https://t.co/OFA0Z61OrO、ちょっとプレミアム契約してFluxerのNAT越えやってみようと思う UDP通信がつまり Cloudflare Tunnel じゃバイパスできないのよ…</description>
-      <pubDate>Mon, 31 Aug 2026 15:49:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2094452489374642447</guid>
     </item>
   </channel>
 </rss>

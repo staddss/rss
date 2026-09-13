@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>環境書き忘れてました GameNative 1.2.1 RC 端末：XQ-EC44 SoC：Snapdragon 8 Gen 3 GPU：Adreno 750 (a750) RAM：12GB https://t.co/9mLe73x3xl</title>
+      <link>https://x.com/T_decoy/status/2099109794334540206</link>
+      <description>でくのぼう: 環境書き忘れてました GameNative 1.2.1 RC 端末：XQ-EC44 SoC：Snapdragon 8 Gen 3 GPU：Adreno 750 (a750) RAM：12GB https://t.co/9mLe73x3xl</description>
+      <pubDate>Sun, 13 Sep 2026 12:15:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/T_decoy/status/2099109794334540206</guid>
+    </item>
+    <item>
+      <title>https://t.co/hDysM4iMsL 昨日のより GameNative のProton11にしてBionic Steamに切り替えてSteamクライアント部分の負荷減らすのが良いのかな？ こっちはネイティブ対応のlsteamclient入ってるし userspace NTSYNCは未成熟なのか発熱が爆増するだけだったのでPROTON_NO_NTSYNC=1で切ったほうが良さげ</title>
+      <link>https://x.com/angr_rs/status/2099037421723869596</link>
+      <description>snailcaviar: https://t.co/hDysM4iMsL 昨日のより GameNative のProton11にしてBionic Steamに切り替えてSteamクライアント部分の負荷減らすのが良いのかな？ こっちはネイティブ対応のlsteamclient入ってるし userspace NTSYNCは未成熟なのか発熱が爆増するだけだったのでPROTON_NO_NTSYNC=1で切ったほうが良さげ</description>
+      <pubDate>Sun, 13 Sep 2026 07:28:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2099037421723869596</guid>
+    </item>
+    <item>
       <title>あとsteamゲームやるなら現状の奴は全部試したけども。 圧倒的に GameNative がオススメ。起動率が高い。仮想Windowsでコンテナ内から、とかじゃなくて普通にsteamアカウントにログインするからセーブデータも共有だし。まあでもSOCがつよつよじゃないと多分起動してもカックカクのガッタガタでしょう。</title>
       <link>https://x.com/Sigma_Z/status/2098618373248794839</link>
       <description>風呂場の人: あとsteamゲームやるなら現状の奴は全部試したけども。 圧倒的に GameNative がオススメ。起動率が高い。仮想Windowsでコンテナ内から、とかじゃなくて普通にsteamアカウントにログインするからセーブデータも共有だし。まあでもSOCがつよつよじゃないと多分起動してもカックカクのガッタガタでしょう。</description>
@@ -262,20 +276,6 @@
       <description>どーもです@JRAの馬主🐴: クラウドセーブと相性が良いゲームは gamenative 、クラウドセーブと相性が悪いゲームは、gamehubという感じかな。今のところは。</description>
       <pubDate>Wed, 19 Aug 2026 14:06:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/8888EckhartT/status/2090078017523683546</guid>
-    </item>
-    <item>
-      <title>gamenative はクラウドに強引にセーブしに行く感じで、gamehubはクラウドセーブに対して慎重過ぎるのかエラーが出る感じだな。 gamenative のクラウドセーブのし易さはありがたいのだけど、だからこそゲーム個別にクラウドセーブのオンオフをつけて欲しいし、セーブの書き戻しでエラーが出るのは残念。</title>
-      <link>https://x.com/8888EckhartT/status/2090057962681483558</link>
-      <description>どーもです@JRAの馬主🐴: gamenative はクラウドに強引にセーブしに行く感じで、gamehubはクラウドセーブに対して慎重過ぎるのかエラーが出る感じだな。 gamenative のクラウドセーブのし易さはありがたいのだけど、だからこそゲーム個別にクラウドセーブのオンオフをつけて欲しいし、セーブの書き戻しでエラーが出るのは残念。</description>
-      <pubDate>Wed, 19 Aug 2026 12:47:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2090057962681483558</guid>
-    </item>
-    <item>
-      <title>gamehubもgemenativeもセーブに関しては微妙なんだけど、そもそも gamenative に至ってはセーブデータを書き戻せないゲームがあるんだよな。多分、日本語ファイル名になるからかなとは。gamehubでセーブデータを書き戻せなかったことは今のところ無いかな。ここの対応を先にどうにかして欲しいもんだな。</title>
-      <link>https://x.com/8888EckhartT/status/2090052589228610044</link>
-      <description>どーもです@JRAの馬主🐴: gamehubもgemenativeもセーブに関しては微妙なんだけど、そもそも gamenative に至ってはセーブデータを書き戻せないゲームがあるんだよな。多分、日本語ファイル名になるからかなとは。gamehubでセーブデータを書き戻せなかったことは今のところ無いかな。ここの対応を先にどうにかして欲しいもんだな。</description>
-      <pubDate>Wed, 19 Aug 2026 12:25:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8888EckhartT/status/2090052589228610044</guid>
     </item>
   </channel>
 </rss>
