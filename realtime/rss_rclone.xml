@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近 rclone でGoogleDriveにアクセスすると Gmail: This remote uses rclone 's shared Google Drive client_id, which is being retired and will stop working during 2026. Create your own client_id to avoid interruption こんなメッセージが出るようになった。</title>
+      <link>https://x.com/saxo2000/status/2099398811441562083</link>
+      <description>毎日が日曜日: 最近 rclone でGoogleDriveにアクセスすると Gmail: This remote uses rclone 's shared Google Drive client_id, which is being retired and will stop working during 2026. Create your own client_id to avoid interruption こんなメッセージが出るようになった。</description>
+      <pubDate>Mon, 14 Sep 2026 07:24:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/saxo2000/status/2099398811441562083</guid>
+    </item>
+    <item>
       <title>rclone のローカルwebコンソール。ここから簡単に速度制限できてよいね！ しかし、nfsがそれはそれは良くフリーズするは、今は大人しく rclone copyで転送してる。。。 https://t.co/vURF74QAE6 https://t.co/edcbhH64QO</title>
       <link>https://x.com/1shuukan_out/status/2099137371442672017</link>
       <description>1shuukan(D): rclone のローカルwebコンソール。ここから簡単に速度制限できてよいね！ しかし、nfsがそれはそれは良くフリーズするは、今は大人しく rclone copyで転送してる。。。 https://t.co/vURF74QAE6 https://t.co/edcbhH64QO</description>
@@ -220,20 +227,6 @@
       <description>アカマイ･テクノロジーズ: ☁️ Akamai Object Storageで東京・大阪バケットの冗長化、アップロード漏れに悩んでいませんか？ CDNのオリジンを複数リージョンで組む際、同期機能がないと両方のバケットへのアップロード作業が手間ですよね。 そこで役立つのが rclone union の活用です！💡 ⚠️ ここが最大の落とし穴！</description>
       <pubDate>Mon, 17 Aug 2026 00:00:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akamai_jp/status/2089140218574037133</guid>
-    </item>
-    <item>
-      <title>今更ながら初投稿 Googleドライブアプリがあるじゃん、といわれそうですが、あいつ好きくない＋ターミナルでやりたかったんです macのローカルディレクトリを rclone を使ってGoogleドライブへ退避する https://t.co/ibPSE9vXF4 #Qiita @takterより</title>
-      <link>https://x.com/takter/status/2088531448714363283</link>
-      <description>てらうちたかし: 今更ながら初投稿 Googleドライブアプリがあるじゃん、といわれそうですが、あいつ好きくない＋ターミナルでやりたかったんです macのローカルディレクトリを rclone を使ってGoogleドライブへ退避する https://t.co/ibPSE9vXF4 #Qiita @takterより</description>
-      <pubDate>Sat, 15 Aug 2026 07:41:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takter/status/2088531448714363283</guid>
-    </item>
-    <item>
-      <title>「OneDriveのオンラインファイルをローカルに同期せずに一括ダウンロードしたい」って調べたら rclone とか便利なCLIのツール見つけた素晴らしい！ ※標準機能でzip圧縮で一括ダウンロードできるけどサイズやファイル数制限があって面倒くさいんですよね https://t.co/MrPzxpDOf2</title>
-      <link>https://x.com/emutyworks/status/2088205849991032875</link>
-      <description>emuty: 「OneDriveのオンラインファイルをローカルに同期せずに一括ダウンロードしたい」って調べたら rclone とか便利なCLIのツール見つけた素晴らしい！ ※標準機能でzip圧縮で一括ダウンロードできるけどサイズやファイル数制限があって面倒くさいんですよね https://t.co/MrPzxpDOf2</description>
-      <pubDate>Fri, 14 Aug 2026 10:07:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/emutyworks/status/2088205849991032875</guid>
     </item>
     <item>
       <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>

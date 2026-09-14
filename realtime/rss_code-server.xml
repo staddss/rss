@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ssh + fresh editor が、 code - server よりも特段に軽いかというと、メモリー使用量は段違いだが、実際の使用感としては、 code - server も別に重くはない しかも、 code - server は非接続志向の http / https なので、特にモバイル環境での切断などにめっぽう強い</title>
+      <link>https://x.com/sakisan_28/status/2099370643443859967</link>
+      <description>Takayuki Iwasaki: ssh + fresh editor が、 code - server よりも特段に軽いかというと、メモリー使用量は段違いだが、実際の使用感としては、 code - server も別に重くはない しかも、 code - server は非接続志向の http / https なので、特にモバイル環境での切断などにめっぽう強い</description>
+      <pubDate>Mon, 14 Sep 2026 05:32:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2099370643443859967</guid>
+    </item>
+    <item>
       <title>あれ、Antigravity CLI の headless daemon って、スマホ・タブレットとかのモバイル環境用だと思っていたけど、普通にPCのブラウザからでもつながるな ちょうど Antigravity 2.0 (GUI) が VSCode で、agy remote-control が code - server みたいなもんか</title>
       <link>https://x.com/sakisan_28/status/2099141061839073290</link>
       <description>Takayuki Iwasaki: あれ、Antigravity CLI の headless daemon って、スマホ・タブレットとかのモバイル環境用だと思っていたけど、普通にPCのブラウザからでもつながるな ちょうど Antigravity 2.0 (GUI) が VSCode で、agy remote-control が code - server みたいなもんか</description>

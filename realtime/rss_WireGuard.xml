@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard 環境の構築とクライアント管理をブラウザからまとめてできる無料ツール「 WireGuard Easy」が公開されてるみたい。QRコード表示や設定ファイルのダウンロードもできて便利そう。https://t.co/H9BblY217m</title>
+      <link>https://x.com/NikotamaDsPapa/status/2099327278987587786</link>
+      <description>二子玉川のデータサイエンティスト: WireGuard 環境の構築とクライアント管理をブラウザからまとめてできる無料ツール「 WireGuard Easy」が公開されてるみたい。QRコード表示や設定ファイルのダウンロードもできて便利そう。https://t.co/H9BblY217m</description>
+      <pubDate>Mon, 14 Sep 2026 02:40:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NikotamaDsPapa/status/2099327278987587786</guid>
+    </item>
+    <item>
+      <title>無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能</title>
+      <link>https://x.com/mz_k41/status/2099326991426359464</link>
+      <description>Mizuki: 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能</description>
+      <pubDate>Mon, 14 Sep 2026 02:38:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mz_k41/status/2099326991426359464</guid>
+    </item>
+    <item>
+      <title>&quot;無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能&quot; https://t.co/3joOfeWCNz</title>
+      <link>https://x.com/anchortag_topic/status/2099292304393826641</link>
+      <description>anchortagTopic: &quot;無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能&quot; https://t.co/3joOfeWCNz</description>
+      <pubDate>Mon, 14 Sep 2026 00:21:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/anchortag_topic/status/2099292304393826641</guid>
+    </item>
+    <item>
       <title>うむ、どうもルーターがもつOpenVPNサーバは、書き出す設定ファイルに問題があるっぽく、最新のWindowsやLinuxではセキュリティ関係の互換性でうまく動作しないっぽい。 WireGuard VPNのサーバ機能があったので、これで設定書き出してためしてみた。</title>
       <link>https://x.com/Yayuyo01Yayuyo/status/2099129084848865578</link>
       <description>やゆよさん@クソリプ王: うむ、どうもルーターがもつOpenVPNサーバは、書き出す設定ファイルに問題があるっぽく、最新のWindowsやLinuxではセキュリティ関係の互換性でうまく動作しないっぽい。 WireGuard VPNのサーバ機能があったので、これで設定書き出してためしてみた。</description>
@@ -255,27 +276,6 @@
       <description>Git_Shark: Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</description>
       <pubDate>Mon, 07 Sep 2026 16:03:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/LFrefman/status/2096992684682711263</guid>
-    </item>
-    <item>
-      <title>DNCは†仮想化NW†を推進しているので(10Gルーター買う金が無いだけ)あまりSOHO機材を導入するのはやりたくなかったんだけど、さすがに自宅の鯖と生活トラフィックをWRT化バッキャロールーターで捌くのは無理があったので仕方ない WireGuard 切れまくる挙句keepaliveで復活せんのは勘弁</title>
-      <link>https://x.com/minosJP/status/2096991709033087210</link>
-      <description>minos: DNCは†仮想化NW†を推進しているので(10Gルーター買う金が無いだけ)あまりSOHO機材を導入するのはやりたくなかったんだけど、さすがに自宅の鯖と生活トラフィックをWRT化バッキャロールーターで捌くのは無理があったので仕方ない WireGuard 切れまくる挙句keepaliveで復活せんのは勘弁</description>
-      <pubDate>Mon, 07 Sep 2026 15:59:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minosJP/status/2096991709033087210</guid>
-    </item>
-    <item>
-      <title>最近tailscale/tailcatという面白いプロジェクトを見つけました。 ファイル転送や軽量なコマンド実行を「Tailscaleのデータプレーンを使い、netcatのような感觉で行える」ツールです。READMEによれば、Tailscaleのmagicsock/ WireGuard スタックを活用して、control</title>
-      <link>https://x.com/LFrefman/status/2096962255229423816</link>
-      <description>Git_Shark: 最近tailscale/tailcatという面白いプロジェクトを見つけました。 ファイル転送や軽量なコマンド実行を「Tailscaleのデータプレーンを使い、netcatのような感觉で行える」ツールです。READMEによれば、Tailscaleのmagicsock/ WireGuard スタックを活用して、control</description>
-      <pubDate>Mon, 07 Sep 2026 14:02:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LFrefman/status/2096962255229423816</guid>
-    </item>
-    <item>
-      <title>一般のご家庭にはちとオーバースペックやけどnetbird入れた wireguard のシークレット管理とかやってられんので https://t.co/ahlTjOkyJA</title>
-      <link>https://x.com/5yuim/status/2096888780175376765</link>
-      <description>𝕐𝕦𝕚: 一般のご家庭にはちとオーバースペックやけどnetbird入れた wireguard のシークレット管理とかやってられんので https://t.co/ahlTjOkyJA</description>
-      <pubDate>Mon, 07 Sep 2026 09:10:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2096888780175376765</guid>
     </item>
   </channel>
 </rss>

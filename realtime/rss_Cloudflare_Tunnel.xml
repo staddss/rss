@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>どうせ Cloudflare Tunnel にするならNextcloudの公開リンクとFederationを使えるようにしたいけど、Federationは機械的にアクセスされるからそのへんにウヨウヨしてるボットを弾くのはだいぶ無理そうだな</title>
+      <link>https://x.com/sashisashi569/status/2099315755343040978</link>
+      <description>sashisashi: どうせ Cloudflare Tunnel にするならNextcloudの公開リンクとFederationを使えるようにしたいけど、Federationは機械的にアクセスされるからそのへんにウヨウヨしてるボットを弾くのはだいぶ無理そうだな</description>
+      <pubDate>Mon, 14 Sep 2026 01:54:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2099315755343040978</guid>
+    </item>
+    <item>
+      <title>Chummer web 次は Cloudflare tunnel のURL固定するか。localhostは変えないから、mac動かしてるときだけ使えるって感じになるけど。</title>
+      <link>https://x.com/KFrimon/status/2099256765250699710</link>
+      <description>kenken: Chummer web 次は Cloudflare tunnel のURL固定するか。localhostは変えないから、mac動かしてるときだけ使えるって感じになるけど。</description>
+      <pubDate>Sun, 13 Sep 2026 21:59:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KFrimon/status/2099256765250699710</guid>
+    </item>
+    <item>
       <title>Tailscaleやめて Cloudflare tunnel (or 類似サービス)とかにしようかなぁ。 好きなVPN使いにくいし、クライアントノードのDNSとルーティングテーブル汚染するし、ホストそのものを仮想プライベートネットワークに露出するからリスクあるし。</title>
       <link>https://x.com/sashisashi569/status/2099057751242785055</link>
       <description>sashisashi: Tailscaleやめて Cloudflare tunnel (or 類似サービス)とかにしようかなぁ。 好きなVPN使いにくいし、クライアントノードのDNSとルーティングテーブル汚染するし、ホストそのものを仮想プライベートネットワークに露出するからリスクあるし。</description>
@@ -262,20 +276,6 @@
       <description>Volk149: Cloudflare Tunnel を使ってサブドメでローカルサーバー立てたら 外部の一般アクセスは大丈夫そうだけど 自宅からレンタルサーバー上のルートドメインサイトへのアクセスだけ壊れたｗ</description>
       <pubDate>Tue, 01 Sep 2026 13:20:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/abdda149/status/2094777463616487783</guid>
-    </item>
-    <item>
-      <title>あとcloudflare使う人は cloudflare tunnel も良いぞと置いておく。(VPNではないが)</title>
-      <link>https://x.com/t3u_tsu/status/2094735620371595661</link>
-      <description>t3u👹ツ: あとcloudflare使う人は cloudflare tunnel も良いぞと置いておく。(VPNではないが)</description>
-      <pubDate>Tue, 01 Sep 2026 10:34:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2094735620371595661</guid>
-    </item>
-    <item>
-      <title>tailcatは便利だけど、便利すぎてクラッキングにも使われそうだな。 cloudflare tunnel とかもそうだけど。</title>
-      <link>https://x.com/taiyop/status/2094582606214185327</link>
-      <description>たいよっぷ | Harness Engineer: tailcatは便利だけど、便利すぎてクラッキングにも使われそうだな。 cloudflare tunnel とかもそうだけど。</description>
-      <pubDate>Tue, 01 Sep 2026 00:26:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taiyop/status/2094582606214185327</guid>
     </item>
   </channel>
 </rss>
