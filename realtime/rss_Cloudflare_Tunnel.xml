@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel でリバースプロキシになるとはいえ、普通に自宅サーバーで普段使いの回線に乗っけてるからDoS来ても困るんだよな</title>
+      <link>https://x.com/sashisashi569/status/2099318481376395671</link>
+      <description>sashisashi: Cloudflare Tunnel でリバースプロキシになるとはいえ、普通に自宅サーバーで普段使いの回線に乗っけてるからDoS来ても困るんだよな</description>
+      <pubDate>Mon, 14 Sep 2026 02:05:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2099318481376395671</guid>
+    </item>
+    <item>
       <title>どうせ Cloudflare Tunnel にするならNextcloudの公開リンクとFederationを使えるようにしたいけど、Federationは機械的にアクセスされるからそのへんにウヨウヨしてるボットを弾くのはだいぶ無理そうだな</title>
       <link>https://x.com/sashisashi569/status/2099315755343040978</link>
       <description>sashisashi: どうせ Cloudflare Tunnel にするならNextcloudの公開リンクとFederationを使えるようにしたいけど、Federationは機械的にアクセスされるからそのへんにウヨウヨしてるボットを弾くのはだいぶ無理そうだな</description>
@@ -269,13 +276,6 @@
       <description>t3u👹ツ: マジでVirtual Public Server作ろうかな。microvm使ってホストして、帯域やらリソースやらは諸々制限して、接続はNebulaにして各人1つずつ鍵を登録して、残りは紳士協定とか。あと余ってるドメインで Cloudflare tunnel 使ってWebサーバーもホストできるようにするとか。</description>
       <pubDate>Wed, 02 Sep 2026 04:45:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t3u_tsu/status/2095010092039168454</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel を使ってサブドメでローカルサーバー立てたら 外部の一般アクセスは大丈夫そうだけど 自宅からレンタルサーバー上のルートドメインサイトへのアクセスだけ壊れたｗ</title>
-      <link>https://x.com/abdda149/status/2094777463616487783</link>
-      <description>Volk149: Cloudflare Tunnel を使ってサブドメでローカルサーバー立てたら 外部の一般アクセスは大丈夫そうだけど 自宅からレンタルサーバー上のルートドメインサイトへのアクセスだけ壊れたｗ</description>
-      <pubDate>Tue, 01 Sep 2026 13:20:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/abdda149/status/2094777463616487783</guid>
     </item>
   </channel>
 </rss>

@@ -68,6 +68,13 @@
       <guid isPermaLink="true">https://x.com/KeiNishikawa3/status/2099062673505919010</guid>
     </item>
     <item>
+      <title>無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/oUavA2XKVi</title>
+      <link>https://x.com/gigazine/status/2099060593370042582</link>
+      <description>GIGAZINE(ギガジン): 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/oUavA2XKVi</description>
+      <pubDate>Sun, 13 Sep 2026 09:00:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigazine/status/2099060593370042582</guid>
+    </item>
+    <item>
       <title>・2.5G Ethernetポートも装備、バッテリーは最長13.5時間 ・OpenVPN/ WireGuard を内蔵、自分のVPNをそのまま持ち歩ける これ一台あれば海外でもホテルWi-Fi頼みにならずに済みそう✈️</title>
       <link>https://x.com/hkuhyo/status/2098812309837844895</link>
       <description>はくひょう: ・2.5G Ethernetポートも装備、バッテリーは最長13.5時間 ・OpenVPN/ WireGuard を内蔵、自分のVPNをそのまま持ち歩ける これ一台あれば海外でもホテルWi-Fi頼みにならずに済みそう✈️</description>
@@ -269,13 +276,6 @@
       <description>月刊FB NEWS Part2: 特別寄稿 アマチュア無線家が使えるグローバルIP「44Net」(第2回) 今回は44Net Connectへ WireGuard Tunnelを張り、実際に44NetのグローバルIPv4で外部からアクセスできるところまで試します。 https://t.co/oaeobItQjF #FBNEWS #アマチュア無線 #44Net #IPv4 #グローバルIP https://t.co/UMdmMSxF60</description>
       <pubDate>Mon, 07 Sep 2026 23:29:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MonthlyFBnews/status/2097104879219040537</guid>
-    </item>
-    <item>
-      <title>Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</title>
-      <link>https://x.com/LFrefman/status/2096992684682711263</link>
-      <description>Git_Shark: Tailscale のプロジェクト、tailcat を紹介します。 リモートシェルアクセスと双方向のファイル転送を、暗号化された P2P 接続でシンプルに実現するための小さなツールです。 特に評価するのがシンプルさです。Tailscale のデータプレーン上のみで動作し、magicsock、 WireGuard 、DERP を使った</description>
-      <pubDate>Mon, 07 Sep 2026 16:03:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LFrefman/status/2096992684682711263</guid>
     </item>
   </channel>
 </rss>
