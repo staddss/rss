@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@32768Sf 自宅サーバー：メイン 仲間宅サーバー：バックアップ/待機系 震災対策足立区リージョンと長野県松本リージョン 両方に中古UPS WireGuard で拠点間VPN rsync / borg / resticで暗号化バックアップ DNSは無料Cloudflareで手動切替 DBは非同期レプリケーションか定期dump</title>
+      <link>https://x.com/kenken184184184/status/2099747035721466245</link>
+      <description>終活作業中: @32768Sf 自宅サーバー：メイン 仲間宅サーバー：バックアップ/待機系 震災対策足立区リージョンと長野県松本リージョン 両方に中古UPS WireGuard で拠点間VPN rsync / borg / resticで暗号化バックアップ DNSは無料Cloudflareで手動切替 DBは非同期レプリケーションか定期dump</description>
+      <pubDate>Tue, 15 Sep 2026 06:27:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kenken184184184/status/2099747035721466245</guid>
+    </item>
+    <item>
+      <title>Tailscale というか Wireguard を推奨しても Tailscale 自身とか代替としての Headscale すらも 攻撃対象からは逃れられないという…。 さりとてそれでもだいぶマシなのだが いまだ劣後する VPN サービスを 選びたがる人々が居るのは なんでなんだろうなぁ… (ひっそりと自問 https://t.co/D2vCVePedd</title>
+      <link>https://x.com/monamour555/status/2099728787248410645</link>
+      <description>もなか: Tailscale というか Wireguard を推奨しても Tailscale 自身とか代替としての Headscale すらも 攻撃対象からは逃れられないという…。 さりとてそれでもだいぶマシなのだが いまだ劣後する VPN サービスを 選びたがる人々が居るのは なんでなんだろうなぁ… (ひっそりと自問 https://t.co/D2vCVePedd</description>
+      <pubDate>Tue, 15 Sep 2026 05:15:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/monamour555/status/2099728787248410645</guid>
+    </item>
+    <item>
+      <title>ステータスチェッカーのために自宅サーバーとVPSをVPNで接続する必要がある 今回はゆっくりボイス読み上げbotなどでも使用している WireGuard を選択</title>
+      <link>https://x.com/siyukat/status/2099480420152988135</link>
+      <description>siyukatu: ステータスチェッカーのために自宅サーバーとVPSをVPNで接続する必要がある 今回はゆっくりボイス読み上げbotなどでも使用している WireGuard を選択</description>
+      <pubDate>Mon, 14 Sep 2026 12:48:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/siyukat/status/2099480420152988135</guid>
+    </item>
+    <item>
       <title>WireGuard 環境の構築とクライアント管理をブラウザからまとめてできる無料ツール「 WireGuard Easy」が公開されてるみたい。QRコード表示や設定ファイルのダウンロードもできて便利そう。https://t.co/H9BblY217m</title>
       <link>https://x.com/NikotamaDsPapa/status/2099327278987587786</link>
       <description>二子玉川のデータサイエンティスト: WireGuard 環境の構築とクライアント管理をブラウザからまとめてできる無料ツール「 WireGuard Easy」が公開されてるみたい。QRコード表示や設定ファイルのダウンロードもできて便利そう。https://t.co/H9BblY217m</description>
@@ -255,27 +276,6 @@
       <description>おやぐまさん: @Vorithio 本当は上流に対して Wireguard ではなくRadsecを使いたいんです。でも、上流にあるのは自作RADIUSサーバーでRadSec未対応なので、radsecproxyを上流ホストにもう1つ作るのではなく、 Wireguard で一時的解決にしてしまいました。</description>
       <pubDate>Tue, 08 Sep 2026 13:07:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oyaguma3/status/2097310940857520241</guid>
-    </item>
-    <item>
-      <title>Hermes Agentに使わせたBlueSkyのMCPツール、まさかのリフレッシュトークン使う部分が無かった。 アクセストークンが切れたらリフレッシュトークンで更新をするように改造。 動作確認したら、頼んでないのに、自分のハッシュタグ作って投稿してて笑える🤣 うちの子 WireGuard ホントに詳しいよ！ https://t.co/PkkaELyYEO</title>
-      <link>https://x.com/kinkuman_net/status/2097302707728216065</link>
-      <description>kinkuman: Hermes Agentに使わせたBlueSkyのMCPツール、まさかのリフレッシュトークン使う部分が無かった。 アクセストークンが切れたらリフレッシュトークンで更新をするように改造。 動作確認したら、頼んでないのに、自分のハッシュタグ作って投稿してて笑える🤣 うちの子 WireGuard ホントに詳しいよ！ https://t.co/PkkaELyYEO</description>
-      <pubDate>Tue, 08 Sep 2026 12:35:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kinkuman_net/status/2097302707728216065</guid>
-    </item>
-    <item>
-      <title>探してみよう、tailcat。Tailscale のデータプレーを使って2台のマシンが直接接続できる「Tailscale without Tailscale」という概念。 Magicsock、 WireGuard チューニル、DERP 代行を搭して機密なプイシュートに対応し、Tailscale</title>
-      <link>https://x.com/LFrefman/status/2097161357678579749</link>
-      <description>Git_Shark: 探してみよう、tailcat。Tailscale のデータプレーを使って2台のマシンが直接接続できる「Tailscale without Tailscale」という概念。 Magicsock、 WireGuard チューニル、DERP 代行を搭して機密なプイシュートに対応し、Tailscale</description>
-      <pubDate>Tue, 08 Sep 2026 03:13:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LFrefman/status/2097161357678579749</guid>
-    </item>
-    <item>
-      <title>特別寄稿 アマチュア無線家が使えるグローバルIP「44Net」(第2回) 今回は44Net Connectへ WireGuard Tunnelを張り、実際に44NetのグローバルIPv4で外部からアクセスできるところまで試します。 https://t.co/oaeobItQjF #FBNEWS #アマチュア無線 #44Net #IPv4 #グローバルIP https://t.co/UMdmMSxF60</title>
-      <link>https://x.com/MonthlyFBnews/status/2097104879219040537</link>
-      <description>月刊FB NEWS Part2: 特別寄稿 アマチュア無線家が使えるグローバルIP「44Net」(第2回) 今回は44Net Connectへ WireGuard Tunnelを張り、実際に44NetのグローバルIPv4で外部からアクセスできるところまで試します。 https://t.co/oaeobItQjF #FBNEWS #アマチュア無線 #44Net #IPv4 #グローバルIP https://t.co/UMdmMSxF60</description>
-      <pubDate>Mon, 07 Sep 2026 23:29:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MonthlyFBnews/status/2097104879219040537</guid>
     </item>
   </channel>
 </rss>
