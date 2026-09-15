@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chromeのテキスト右クリックを前のレイアウトに戻したい場合は Chromeのアドレスバーに chrome :// flags /#menu-simplification と入力しEnter 該当項目の設定を「Default」から 「Disabled」 に変更 画面右下に表示される 「Relaunch」 を押してChromeを再起動 これで前のレイアウトに戻ります</title>
+      <link>https://x.com/zuzu40011755/status/2099645887219974339</link>
+      <description>ぽろぽろ: chromeのテキスト右クリックを前のレイアウトに戻したい場合は Chromeのアドレスバーに chrome :// flags /#menu-simplification と入力しEnter 該当項目の設定を「Default」から 「Disabled」 に変更 画面右下に表示される 「Relaunch」 を押してChromeを再起動 これで前のレイアウトに戻ります</description>
+      <pubDate>Mon, 14 Sep 2026 23:46:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zuzu40011755/status/2099645887219974339</guid>
+    </item>
+    <item>
       <title>AndroidのタブレットでChromeを使ってたけど数日前からスクロールしてもアドレスバーとかが自動で隠れないから再インストールしても直らずチャッピーに聞いたら解決した。 chrome :// flags から Lock top controls on tablets v2 をDefaultからDisabledに</title>
       <link>https://x.com/Takeru_Raven/status/2099064762290360653</link>
       <description>たけぞう: AndroidのタブレットでChromeを使ってたけど数日前からスクロールしてもアドレスバーとかが自動で隠れないから再インストールしても直らずチャッピーに聞いたら解決した。 chrome :// flags から Lock top controls on tablets v2 をDefaultからDisabledに</description>
@@ -269,13 +276,6 @@
       <description>ともさん: Google Chrome アップデートしてからグラブルが重いってそこの人！ クロームのアドレスバーに「 chrome :// flags /」と入力してEnter→検索窓に「Choose ANGLE graphics backend」って入力して「D3D11」に変更してみてね😉 #グラブル https://t.co/Ulb6eqKwYZ</description>
       <pubDate>Wed, 19 Aug 2026 11:24:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Tomosan__mo/status/2090037251862606226</guid>
-    </item>
-    <item>
-      <title>ARM64 Linux Chrome、Gemini に相談 ボタンがなくて不便してたけど、以下の２つを Enabled にして表示できた。まだ使ってないので不具合あるかも。 chrome :// flags / - Glic - Enable toolbar Gemini button on horizontal tab https://t.co/ALP9v04avd</title>
-      <link>https://x.com/konekodensetsu/status/2090027120781357436</link>
-      <description>earlgrey: ARM64 Linux Chrome、Gemini に相談 ボタンがなくて不便してたけど、以下の２つを Enabled にして表示できた。まだ使ってないので不具合あるかも。 chrome :// flags / - Glic - Enable toolbar Gemini button on horizontal tab https://t.co/ALP9v04avd</description>
-      <pubDate>Wed, 19 Aug 2026 10:44:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/konekodensetsu/status/2090027120781357436</guid>
     </item>
   </channel>
 </rss>
