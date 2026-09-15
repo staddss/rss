@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@ButakoTamagawa はい、まさにIPsec VPNやSSL-VPNの置き換えとして使える技術です。 ただ、単にVPNプロトコルを WireGuard に置き換える、という理解よりも、「Internet-facingなVPNゲートウェイに全員が接続する」という従来型VPNのアーキテクチャそのものを変える、と考えた方が分かりやすいです。</title>
+      <link>https://x.com/takehora/status/2099860800559251866</link>
+      <description>Yoichiro Takehora (竹洞 陽一郎) | 株式会社Spelldata: @ButakoTamagawa はい、まさにIPsec VPNやSSL-VPNの置き換えとして使える技術です。 ただ、単にVPNプロトコルを WireGuard に置き換える、という理解よりも、「Internet-facingなVPNゲートウェイに全員が接続する」という従来型VPNのアーキテクチャそのものを変える、と考えた方が分かりやすいです。</description>
+      <pubDate>Tue, 15 Sep 2026 14:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takehora/status/2099860800559251866</guid>
+    </item>
+    <item>
       <title>Tailscaleが最強な理由 ・ルーターのポート開放が一切不要 ・ WireGuard 採用で高速かつセキュア ・個人利用は最大100デバイスまで無料 ・Obsidianやファイルサーバーの同期にも最適 具体的なセットアップ手順はnoteへ👇 https://t.co/T2olt78OoK</title>
       <link>https://x.com/kurumi_koushiki/status/2099810549811056694</link>
       <description>くるみWEB−Advance 公式: Tailscaleが最強な理由 ・ルーターのポート開放が一切不要 ・ WireGuard 採用で高速かつセキュア ・個人利用は最大100デバイスまで無料 ・Obsidianやファイルサーバーの同期にも最適 具体的なセットアップ手順はnoteへ👇 https://t.co/T2olt78OoK</description>
@@ -269,13 +276,6 @@
       <description>maril: WireGuard の鍵配布にATProtocolを使いましょうね〜をやっている</description>
       <pubDate>Wed, 09 Sep 2026 10:30:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/maril_dev/status/2097633815481233417</guid>
-    </item>
-    <item>
-      <title>マージでsshと wireguard 動けばなんでもいいから物理的に軽くてサイズ控えめのキーボード付きデバイス欲しい</title>
-      <link>https://x.com/n4ne_3/status/2097531618701525498</link>
-      <description>なね: マージでsshと wireguard 動けばなんでもいいから物理的に軽くてサイズ控えめのキーボード付きデバイス欲しい</description>
-      <pubDate>Wed, 09 Sep 2026 03:44:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n4ne_3/status/2097531618701525498</guid>
     </item>
   </channel>
 </rss>
