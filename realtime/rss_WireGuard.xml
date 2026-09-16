@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>・スマホでやりたいです → パソコンつけっぱでよければVPNや WireGuard でいけます 自分はtailscail使ってます</title>
+      <link>https://x.com/sec_lei/status/2100132337489256461</link>
+      <description>se: ・スマホでやりたいです → パソコンつけっぱでよければVPNや WireGuard でいけます 自分はtailscail使ってます</description>
+      <pubDate>Wed, 16 Sep 2026 07:59:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sec_lei/status/2100132337489256461</guid>
+    </item>
+    <item>
+      <title>デジタル庁でさえVPNの脆弱性から侵入されました。 政府共通基盤GSSが「Medium」評価の脆弱性を突かれ、個人情報最大24.6万件が漏えいの可能性(9/11発表)。 対策は最小権限・MFA・ログ監視、そして WireGuard 型P2Pという選択肢も。 無料ITセカンドオピニオンで確認を。 #群馬 #埼玉 https://t.co/QMtRRjcV3e</title>
+      <link>https://x.com/Pierinijp/status/2100016068282773818</link>
+      <description>Pierini JP: デジタル庁でさえVPNの脆弱性から侵入されました。 政府共通基盤GSSが「Medium」評価の脆弱性を突かれ、個人情報最大24.6万件が漏えいの可能性(9/11発表)。 対策は最小権限・MFA・ログ監視、そして WireGuard 型P2Pという選択肢も。 無料ITセカンドオピニオンで確認を。 #群馬 #埼玉 https://t.co/QMtRRjcV3e</description>
+      <pubDate>Wed, 16 Sep 2026 00:17:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Pierinijp/status/2100016068282773818</guid>
+    </item>
+    <item>
+      <title>とりあえず6台ぐらいで WireGuard の環境構築した〜</title>
+      <link>https://x.com/Latte72R/status/2099977778124984717</link>
+      <description>Latte72: とりあえず6台ぐらいで WireGuard の環境構築した〜</description>
+      <pubDate>Tue, 15 Sep 2026 21:44:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Latte72R/status/2099977778124984717</guid>
+    </item>
+    <item>
       <title>@ButakoTamagawa はい、まさにIPsec VPNやSSL-VPNの置き換えとして使える技術です。 ただ、単にVPNプロトコルを WireGuard に置き換える、という理解よりも、「Internet-facingなVPNゲートウェイに全員が接続する」という従来型VPNのアーキテクチャそのものを変える、と考えた方が分かりやすいです。</title>
       <link>https://x.com/takehora/status/2099860800559251866</link>
       <description>Yoichiro Takehora (竹洞 陽一郎) | 株式会社Spelldata: @ButakoTamagawa はい、まさにIPsec VPNやSSL-VPNの置き換えとして使える技術です。 ただ、単にVPNプロトコルを WireGuard に置き換える、という理解よりも、「Internet-facingなVPNゲートウェイに全員が接続する」という従来型VPNのアーキテクチャそのものを変える、と考えた方が分かりやすいです。</description>
@@ -255,27 +276,6 @@
       <description>めてお: Wireguard でBGP張ってるのね L2TP over WGできるし当たり前か</description>
       <pubDate>Thu, 10 Sep 2026 03:42:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/___Nova___/status/2097893572016242762</guid>
-    </item>
-    <item>
-      <title>そもそもDNS制限なのかネットワーク制限なのか？外部DNS、Proton Stealth、WARP MASQUE、OpenVPN TCPのどれが壁越えできるんだろう。ぶっちゃけ Wireguard ですらなくDNSで壁越えできそうな気がするが https://t.co/yrc5TPi0N4</title>
-      <link>https://x.com/Twit_yotuba777/status/2097727143891591554</link>
-      <description>yotuba777: そもそもDNS制限なのかネットワーク制限なのか？外部DNS、Proton Stealth、WARP MASQUE、OpenVPN TCPのどれが壁越えできるんだろう。ぶっちゃけ Wireguard ですらなくDNSで壁越えできそうな気がするが https://t.co/yrc5TPi0N4</description>
-      <pubDate>Wed, 09 Sep 2026 16:41:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Twit_yotuba777/status/2097727143891591554</guid>
-    </item>
-    <item>
-      <title>サーバーやネットワーク機器の紹介ポストが流行ってるので僕も紹介。 多くの人は大きいL2スイッチやタワーPCを並べてますが、僕はPVE3台 + PBSの台のミニPC4台構成で、ネットワーク関連はOPNsense VMとPVE SDNでやってるのでコンパクト。 外部から通信はVPSから WireGuard で自宅に転送してます。 https://t.co/HInDtbJTXo</title>
-      <link>https://x.com/saitogo555/status/2097712854657032344</link>
-      <description>Saito Go: サーバーやネットワーク機器の紹介ポストが流行ってるので僕も紹介。 多くの人は大きいL2スイッチやタワーPCを並べてますが、僕はPVE3台 + PBSの台のミニPC4台構成で、ネットワーク関連はOPNsense VMとPVE SDNでやってるのでコンパクト。 外部から通信はVPSから WireGuard で自宅に転送してます。 https://t.co/HInDtbJTXo</description>
-      <pubDate>Wed, 09 Sep 2026 15:44:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/saitogo555/status/2097712854657032344</guid>
-    </item>
-    <item>
-      <title>WireGuard の鍵配布にATProtocolを使いましょうね〜をやっている</title>
-      <link>https://x.com/maril_dev/status/2097633815481233417</link>
-      <description>maril: WireGuard の鍵配布にATProtocolを使いましょうね〜をやっている</description>
-      <pubDate>Wed, 09 Sep 2026 10:30:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/maril_dev/status/2097633815481233417</guid>
     </item>
   </channel>
 </rss>

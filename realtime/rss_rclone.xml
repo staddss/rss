@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あとは rclone で暗号化リモートとしてマウントするとかかね https://t.co/uT0tN1aZxW</title>
+      <link>https://x.com/MsAgbag/status/2100107889096733002</link>
+      <description>ばぐたろー@テイルズオブベルセリアがち泣き勢: あとは rclone で暗号化リモートとしてマウントするとかかね https://t.co/uT0tN1aZxW</description>
+      <pubDate>Wed, 16 Sep 2026 06:21:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MsAgbag/status/2100107889096733002</guid>
+    </item>
+    <item>
       <title>('A`)えー白状します ('A`)きょう一日、rsyncと rclone (のそれぞれmanpage)と格闘してたらおわってました</title>
       <link>https://x.com/g_plains/status/2099821632273723777</link>
       <description>こてつ(ONO,Tetsuo): ('A`)えー白状します ('A`)きょう一日、rsyncと rclone (のそれぞれmanpage)と格闘してたらおわってました</description>
@@ -234,13 +241,6 @@
       <description>Kishiperia: Linux版GoogleDriveFSくれよ rclone 不安定ｽｷﾞｨ</description>
       <pubDate>Mon, 17 Aug 2026 12:49:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sml310_44bt/status/2089333753307115832</guid>
-    </item>
-    <item>
-      <title>☁️ Akamai Object Storageで東京・大阪バケットの冗長化、アップロード漏れに悩んでいませんか？ CDNのオリジンを複数リージョンで組む際、同期機能がないと両方のバケットへのアップロード作業が手間ですよね。 そこで役立つのが rclone union の活用です！💡 ⚠️ ここが最大の落とし穴！</title>
-      <link>https://x.com/akamai_jp/status/2089140218574037133</link>
-      <description>アカマイ･テクノロジーズ: ☁️ Akamai Object Storageで東京・大阪バケットの冗長化、アップロード漏れに悩んでいませんか？ CDNのオリジンを複数リージョンで組む際、同期機能がないと両方のバケットへのアップロード作業が手間ですよね。 そこで役立つのが rclone union の活用です！💡 ⚠️ ここが最大の落とし穴！</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/akamai_jp/status/2089140218574037133</guid>
     </item>
     <item>
       <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>
