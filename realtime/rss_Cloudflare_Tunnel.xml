@@ -277,12 +277,5 @@
       <pubDate>Wed, 02 Sep 2026 14:20:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tendon023/status/2095154885541216675</guid>
     </item>
-    <item>
-      <title>マジでVirtual Public Server作ろうかな。microvm使ってホストして、帯域やらリソースやらは諸々制限して、接続はNebulaにして各人1つずつ鍵を登録して、残りは紳士協定とか。あと余ってるドメインで Cloudflare tunnel 使ってWebサーバーもホストできるようにするとか。</title>
-      <link>https://x.com/t3u_tsu/status/2095010092039168454</link>
-      <description>t3u👹ツ: マジでVirtual Public Server作ろうかな。microvm使ってホストして、帯域やらリソースやらは諸々制限して、接続はNebulaにして各人1つずつ鍵を登録して、残りは紳士協定とか。あと余ってるドメインで Cloudflare tunnel 使ってWebサーバーもホストできるようにするとか。</description>
-      <pubDate>Wed, 02 Sep 2026 04:45:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2095010092039168454</guid>
-    </item>
   </channel>
 </rss>
