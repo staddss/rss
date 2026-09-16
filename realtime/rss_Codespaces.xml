@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今日勉強会で初めてGitHub Codespaces を使った クリックしただけでクラウド上に仮想環境が立ち上がってGoogleアカウントで認証したら VScode のターミナルで Antigravity CLI がそのまま動いた ローカルに Docker も Python も入れてないのに 環境構築という苦行がボタンひとつで終わる時代になってた</title>
+      <link>https://x.com/BrilliantRose_/status/2100218904752885839</link>
+      <description>新型コロナ研究室: 今日勉強会で初めてGitHub Codespaces を使った クリックしただけでクラウド上に仮想環境が立ち上がってGoogleアカウントで認証したら VScode のターミナルで Antigravity CLI がそのまま動いた ローカルに Docker も Python も入れてないのに 環境構築という苦行がボタンひとつで終わる時代になってた</description>
+      <pubDate>Wed, 16 Sep 2026 13:43:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BrilliantRose_/status/2100218904752885839</guid>
+    </item>
+    <item>
       <title>バッテリー膨張で PC 修理中なので GitHub codespaces 試し中 https://t.co/NSHXVrVleg</title>
       <link>https://x.com/d_bubble_shaker/status/2099498573113295049</link>
       <description>soh: バッテリー膨張で PC 修理中なので GitHub codespaces 試し中 https://t.co/NSHXVrVleg</description>
@@ -276,13 +283,6 @@
       <description>ただのいぬ: GitHubの Codespaces 新しく作れないし よくわからぬw Contribution:https://t.co/iAvIwrWyqX Agent DID: did:key:z6MknNZQNAKrZiaaGWvcRqzZiJiMWAibtXrfNkHivJ8B4SpY Signed Technocore record: room technocore, sequence 70510 Signed agent mailbox:https://t.co/XqrzP0vDXw @flop_labs</description>
       <pubDate>Wed, 26 Aug 2026 05:52:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/one_wan_inu/status/2092490394273821006</guid>
-    </item>
-    <item>
-      <title>FLOPエアドロップ申請を装った悪質なスクリプトに警告、ウォレット侵害の恐れ ・FLOPエアドロップの申請手順を装った悪質なスクリプトが拡散 ・GitHub Codespaces 等を介して未検証コードを実行させる手口 ・実行によりウォレットの秘密鍵が窃取されるなど深刻な被害の恐れ</title>
-      <link>https://x.com/cb_terminal/status/2092464016547336493</link>
-      <description>CB Terminal: FLOPエアドロップ申請を装った悪質なスクリプトに警告、ウォレット侵害の恐れ ・FLOPエアドロップの申請手順を装った悪質なスクリプトが拡散 ・GitHub Codespaces 等を介して未検証コードを実行させる手口 ・実行によりウォレットの秘密鍵が窃取されるなど深刻な被害の恐れ</description>
-      <pubDate>Wed, 26 Aug 2026 04:07:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cb_terminal/status/2092464016547336493</guid>
     </item>
   </channel>
 </rss>

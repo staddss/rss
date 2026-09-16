@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/MsAgbag/status/2100107889096733002</guid>
     </item>
     <item>
+      <title>rclone はとても良いけど、googleはMFA (Multi-Factor Authentication, 多要素認証)を有効にしないとOAuthがエラーになるみたいだし、それ以前にアカウントの選択が出ないから一つやる度に全ログアウトが必要になるみたい。</title>
+      <link>https://x.com/jiangminjp/status/2099841743172866344</link>
+      <description>多情仏心: rclone はとても良いけど、googleはMFA (Multi-Factor Authentication, 多要素認証)を有効にしないとOAuthがエラーになるみたいだし、それ以前にアカウントの選択が出ないから一つやる度に全ログアウトが必要になるみたい。</description>
+      <pubDate>Tue, 15 Sep 2026 12:44:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jiangminjp/status/2099841743172866344</guid>
+    </item>
+    <item>
       <title>('A`)えー白状します ('A`)きょう一日、rsyncと rclone (のそれぞれmanpage)と格闘してたらおわってました</title>
       <link>https://x.com/g_plains/status/2099821632273723777</link>
       <description>こてつ(ONO,Tetsuo): ('A`)えー白状します ('A`)きょう一日、rsyncと rclone (のそれぞれmanpage)と格闘してたらおわってました</description>
@@ -234,13 +241,6 @@
       <description>Maki@Sunwood AI Labs.: Google ColabをCLIだけで完結させるスキルを作ったぞ🔥 セットアップ後はブラウザを開かずに、 Colab起動 → Colab内でDriveを rclone マウント → 実験実行 → 成果物をDriveへ保存・読み戻し → 自分のセッションだけ停止。 別PCでもゼロから組み直せるように、 https://t.co/v4zLK1T5xd</description>
       <pubDate>Mon, 17 Aug 2026 14:51:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hAru_mAki_ch/status/2089364485773705680</guid>
-    </item>
-    <item>
-      <title>Linux版GoogleDriveFSくれよ rclone 不安定ｽｷﾞｨ</title>
-      <link>https://x.com/sml310_44bt/status/2089333753307115832</link>
-      <description>Kishiperia: Linux版GoogleDriveFSくれよ rclone 不安定ｽｷﾞｨ</description>
-      <pubDate>Mon, 17 Aug 2026 12:49:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sml310_44bt/status/2089333753307115832</guid>
     </item>
     <item>
       <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>
