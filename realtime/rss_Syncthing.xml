@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@hitsuji__works 復活はしませんでした。うちは Syncthing で、除外設定が端末ごとに別で同期されないので、スマホ側にも同じ除外を入れてから消しています。除外を入れる前に消すと、削除がMacにも伝わって本体まで消えるので、順番だけ気をつけました。</title>
+      <link>https://x.com/DesignOkaka/status/2100590315115893208</link>
+      <description>okaka: @hitsuji__works 復活はしませんでした。うちは Syncthing で、除外設定が端末ごとに別で同期されないので、スマホ側にも同じ除外を入れてから消しています。除外を入れる前に消すと、削除がMacにも伝わって本体まで消えるので、順番だけ気をつけました。</description>
+      <pubDate>Thu, 17 Sep 2026 14:18:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DesignOkaka/status/2100590315115893208</guid>
+    </item>
+    <item>
+      <title>@maahes_42516 端末に仮想ドライブとしてマウントするためにクラウドサービスが提供するアプリを入れる必要があるって事ですね それを受け入れる上でどこが信用できるかという事 HNDL はローカルでの管理であってもそのリスクが付きまといますね ローカル &gt; NAS = SyncThing &gt; クラウド って感じでしょうかね</title>
+      <link>https://x.com/ryo14636405/status/2100509281640718428</link>
+      <description>Ryo: @maahes_42516 端末に仮想ドライブとしてマウントするためにクラウドサービスが提供するアプリを入れる必要があるって事ですね それを受け入れる上でどこが信用できるかという事 HNDL はローカルでの管理であってもそのリスクが付きまといますね ローカル &gt; NAS = SyncThing &gt; クラウド って感じでしょうかね</description>
+      <pubDate>Thu, 17 Sep 2026 08:56:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ryo14636405/status/2100509281640718428</guid>
+    </item>
+    <item>
+      <title>だいぶ前である糸杉先生の発言は直後からnoteで取り上げましたが、モデレーションリスクを考慮してgoogleサイトでの公式サイト運用を廃棄しました。クラウドストレージの暗号化も、あれって個人間のPC・スマホのデータ転送ならそもそも syncthing で良い。単純に扱える容量も大きいし。</title>
+      <link>https://x.com/anicma1/status/2100147911392981279</link>
+      <description>煙乃街（9/27ガタケット185「煙の街」I-29b）: だいぶ前である糸杉先生の発言は直後からnoteで取り上げましたが、モデレーションリスクを考慮してgoogleサイトでの公式サイト運用を廃棄しました。クラウドストレージの暗号化も、あれって個人間のPC・スマホのデータ転送ならそもそも syncthing で良い。単純に扱える容量も大きいし。</description>
+      <pubDate>Wed, 16 Sep 2026 09:00:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/anicma1/status/2100147911392981279</guid>
+    </item>
+    <item>
       <title>Syncthing の同期は数秒かかると思っていた。 片側で追加・中身変更・追記・削除の4パターンを操作して、もう片側に反映されるまでを1秒未満の精度で測ったら、1.1〜1.8秒だった。 AS7110T、 Syncthing 1.29、btrfs。 #ASUSTOR</title>
       <link>https://x.com/tontonserve/status/2099634834113241254</link>
       <description>NASで色々やってます: Syncthing の同期は数秒かかると思っていた。 片側で追加・中身変更・追記・削除の4パターンを操作して、もう片側に反映されるまでを1秒未満の精度で測ったら、1.1〜1.8秒だった。 AS7110T、 Syncthing 1.29、btrfs。 #ASUSTOR</description>

@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>記事だとわからなかったけど、確認したらアプリの作り自体が「Rethink DNS + Firewall + WireGuard VPN / Proxy」か VPNは使わなくても良い、と https://t.co/hA3q88kCSW https://t.co/IjCs7xSnet https://t.co/MBqKUxM0pX https://t.co/9fjjZkgGWu</title>
+      <link>https://x.com/osakanataro2/status/2100512245835075957</link>
+      <description>OSAKANA TARO: 記事だとわからなかったけど、確認したらアプリの作り自体が「Rethink DNS + Firewall + WireGuard VPN / Proxy」か VPNは使わなくても良い、と https://t.co/hA3q88kCSW https://t.co/IjCs7xSnet https://t.co/MBqKUxM0pX https://t.co/9fjjZkgGWu</description>
+      <pubDate>Thu, 17 Sep 2026 09:08:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/osakanataro2/status/2100512245835075957</guid>
+    </item>
+    <item>
+      <title>Tailscaleのsubnet routerってあれほんとにルーターっぽくNATしてんかな、ufwでVPNのサブネット入れてないのにアクセス出来てたから WireGuard だと特にそういうのがなくてufwに入れない、今更一個ずつサブネット許可するのめんどくさいんだよな</title>
+      <link>https://x.com/public_zakojb/status/2100507305142014183</link>
+      <description>優羽: Tailscaleのsubnet routerってあれほんとにルーターっぽくNATしてんかな、ufwでVPNのサブネット入れてないのにアクセス出来てたから WireGuard だと特にそういうのがなくてufwに入れない、今更一個ずつサブネット許可するのめんどくさいんだよな</description>
+      <pubDate>Thu, 17 Sep 2026 08:49:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/public_zakojb/status/2100507305142014183</guid>
+    </item>
+    <item>
+      <title>ちなみに今回は多分だけど wireguard 用にいじった設定のせいでaptまで影響が出てたよ</title>
+      <link>https://x.com/fugudoku_ttx/status/2100471104158757018</link>
+      <description>ふぐ毒: ちなみに今回は多分だけど wireguard 用にいじった設定のせいでaptまで影響が出てたよ</description>
+      <pubDate>Thu, 17 Sep 2026 06:25:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fugudoku_ttx/status/2100471104158757018</guid>
+    </item>
+    <item>
       <title>MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</title>
       <link>https://x.com/shonanlitore/status/2100436748732150103</link>
       <description>横浜のIT屋: MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</description>
@@ -255,27 +276,6 @@
       <description>たっけん@あすた🍃🌸🦊: Tailscale の存在は WireGuard 関連で前から知ってたけど DGX Spark 触ってからというもの、めっちゃ調べまくって知見が相当たまった</description>
       <pubDate>Fri, 11 Sep 2026 14:39:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Astrisk_/status/2098421143380385809</guid>
-    </item>
-    <item>
-      <title>なんかデバイスマネージャで Wireguard tunnel無限増殖してた時どうしようかと思ったわ https://t.co/dd8vaE3OzO</title>
-      <link>https://x.com/L_port8080/status/2098372495447666835</link>
-      <description>一樹（第二拠点）: なんかデバイスマネージャで Wireguard tunnel無限増殖してた時どうしようかと思ったわ https://t.co/dd8vaE3OzO</description>
-      <pubDate>Fri, 11 Sep 2026 11:26:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8080/status/2098372495447666835</guid>
-    </item>
-    <item>
-      <title>ほんで ISP ルータはDNSサーバを qnap に指定すれば行けるはず。 また、 wireguard で家LAN接続時に qnap 上の DNS を参照できないので調べたら、クライアント側で DNS = 8.8.8.8 と書いてた。家のDNSにせんとアカン。</title>
-      <link>https://x.com/yunzojm_open/status/2098372284285436041</link>
-      <description>ゆんぞ/Yunzo: ほんで ISP ルータはDNSサーバを qnap に指定すれば行けるはず。 また、 wireguard で家LAN接続時に qnap 上の DNS を参照できないので調べたら、クライアント側で DNS = 8.8.8.8 と書いてた。家のDNSにせんとアカン。</description>
-      <pubDate>Fri, 11 Sep 2026 11:25:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2098372284285436041</guid>
-    </item>
-    <item>
-      <title>Fortigate52EにOpenWrt入れて、 WireGuard VPNゲートウェイ化完了！ さすがにそれだけだともったいないから、なんか他にも入れたいな cloudflared入れてトンネル冗長化するか</title>
-      <link>https://x.com/yamato_1413/status/2098369063068356693</link>
-      <description>やまと⛷滑走22日: Fortigate52EにOpenWrt入れて、 WireGuard VPNゲートウェイ化完了！ さすがにそれだけだともったいないから、なんか他にも入れたいな cloudflared入れてトンネル冗長化するか</description>
-      <pubDate>Fri, 11 Sep 2026 11:12:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamato_1413/status/2098369063068356693</guid>
     </item>
   </channel>
 </rss>

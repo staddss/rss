@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@9ura00 Cloudflare Workers + D1が制限はあるがとにかく安い。可用性も高い。個人開発レベルならばスケーリングで問題になることもないと思う。 可用性低くていいなら、適当な中古パソコン買ってきて自宅サーバーにして、 cloudflare tunnel で外部公開もあり。 最後にサーバ選びで大切なことはGMOを避ける。</title>
+      <link>https://x.com/YarmUI/status/2100476373945245885</link>
+      <description>やも@: @9ura00 Cloudflare Workers + D1が制限はあるがとにかく安い。可用性も高い。個人開発レベルならばスケーリングで問題になることもないと思う。 可用性低くていいなら、適当な中古パソコン買ってきて自宅サーバーにして、 cloudflare tunnel で外部公開もあり。 最後にサーバ選びで大切なことはGMOを避ける。</description>
+      <pubDate>Thu, 17 Sep 2026 06:46:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/YarmUI/status/2100476373945245885</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</title>
       <link>https://x.com/amanelab/status/2100471156499431932</link>
       <description>あまね工研: Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</description>
@@ -269,13 +276,6 @@
       <description>I have an apple@Pic unrelated: GoogleColab無料で Qwen3-14B-AWQ vLLM Cloudflare Tunnel 」（トンネル公開） ローカルPC OpenCode 結論「Qwen3 8B」--max-model-len&quot;, &quot;32768&quot; 以上の設定なら使えるが 14Bは16384限界のため 途中でオーバー もし14B使うなら Kaggle 使用 非力PC 無料で OpenCode 文句言えないよねｗ</description>
       <pubDate>Thu, 03 Sep 2026 13:20:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/playstation2_ch/status/2095502272457576840</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel はいいぞ #omotesandorb</title>
-      <link>https://x.com/kaiba/status/2095467336803455477</link>
-      <description>kaiba: Cloudflare Tunnel はいいぞ #omotesandorb</description>
-      <pubDate>Thu, 03 Sep 2026 11:01:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kaiba/status/2095467336803455477</guid>
     </item>
   </channel>
 </rss>
