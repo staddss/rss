@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</title>
+      <link>https://x.com/shonanlitore/status/2100436748732150103</link>
+      <description>横浜のIT屋: MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</description>
+      <pubDate>Thu, 17 Sep 2026 04:08:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shonanlitore/status/2100436748732150103</guid>
+    </item>
+    <item>
+      <title>なんか部屋の中でスマホの速度遅いと思ったら、 wireguard 設定確認でwifi切ったままだった。</title>
+      <link>https://x.com/tanrakukairo/status/2100424121016533278</link>
+      <description>T2-F⋈短絡回路: なんか部屋の中でスマホの速度遅いと思ったら、 wireguard 設定確認でwifi切ったままだった。</description>
+      <pubDate>Thu, 17 Sep 2026 03:18:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tanrakukairo/status/2100424121016533278</guid>
+    </item>
+    <item>
       <title>この元ポストにより、私は Mango 2 を無料で入手できることになりました。ｽﾀｯｸﾁｬﾝのおかげです。ありがとうございます。@GLiNetWiFi 元記事を書いた後、もともと持っていた Mango はアマチュア無線のネットワーク用の WireGuard ルーターへとさらに進化してしまいました。 Mango https://t.co/LkF9qSQVdE https://t.co/9ajeAENF1F</title>
       <link>https://x.com/4989er/status/2100200910379253819</link>
       <description>富永道也｜AI活用実装・情報リテラシー顧問: この元ポストにより、私は Mango 2 を無料で入手できることになりました。ｽﾀｯｸﾁｬﾝのおかげです。ありがとうございます。@GLiNetWiFi 元記事を書いた後、もともと持っていた Mango はアマチュア無線のネットワーク用の WireGuard ルーターへとさらに進化してしまいました。 Mango https://t.co/LkF9qSQVdE https://t.co/9ajeAENF1F</description>
@@ -24,6 +38,13 @@
       <description>se: ・スマホでやりたいです → パソコンつけっぱでよければVPNや WireGuard でいけます 自分はtailscail使ってます</description>
       <pubDate>Wed, 16 Sep 2026 07:59:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sec_lei/status/2100132337489256461</guid>
+    </item>
+    <item>
+      <title>【XServer 固定IPアクセス】 このたび『XServer 固定IPアクセス』の接続方法が、従来の「 WireGuard 」に加え、新たに「IKEv2」に対応しました。 🔷 WireGuard 「 WireGuard 」アプリを利用して接続します。 専用アプリによるシンプルな接続を重視する場合におすすめです。 🔷IKEv2 https://t.co/XYA48reZW7</title>
+      <link>https://x.com/xserverjp/status/2100101600291553550</link>
+      <description>エックスサーバー【公式】: 【XServer 固定IPアクセス】 このたび『XServer 固定IPアクセス』の接続方法が、従来の「 WireGuard 」に加え、新たに「IKEv2」に対応しました。 🔷 WireGuard 「 WireGuard 」アプリを利用して接続します。 専用アプリによるシンプルな接続を重視する場合におすすめです。 🔷IKEv2 https://t.co/XYA48reZW7</description>
+      <pubDate>Wed, 16 Sep 2026 05:56:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xserverjp/status/2100101600291553550</guid>
     </item>
     <item>
       <title>デジタル庁でさえVPNの脆弱性から侵入されました。 政府共通基盤GSSが「Medium」評価の脆弱性を突かれ、個人情報最大24.6万件が漏えいの可能性(9/11発表)。 対策は最小権限・MFA・ログ監視、そして WireGuard 型P2Pという選択肢も。 無料ITセカンドオピニオンで確認を。 #群馬 #埼玉 https://t.co/QMtRRjcV3e</title>
@@ -255,27 +276,6 @@
       <description>やまと⛷滑走22日: Fortigate52EにOpenWrt入れて、 WireGuard VPNゲートウェイ化完了！ さすがにそれだけだともったいないから、なんか他にも入れたいな cloudflared入れてトンネル冗長化するか</description>
       <pubDate>Fri, 11 Sep 2026 11:12:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yamato_1413/status/2098369063068356693</guid>
-    </item>
-    <item>
-      <title>@ik_llmyself マジで治んない Mintに関しては Wireguard とかOnにすると全ての保存された Wireguard をOnにしやがるし</title>
-      <link>https://x.com/L_port8080/status/2098353448575983705</link>
-      <description>一樹（第二拠点）: @ik_llmyself マジで治んない Mintに関しては Wireguard とかOnにすると全ての保存された Wireguard をOnにしやがるし</description>
-      <pubDate>Fri, 11 Sep 2026 10:10:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8080/status/2098353448575983705</guid>
-    </item>
-    <item>
-      <title>wireguard -goをベースにインターネットVPN越しでもoverlayにMTU1500以上を提供しつつ実用的なパフォーマンスを出すのと、メトリクスを充実させてモニタリングしやすくしたのがこだわりポイント💪 都合がつかず会場には行けなかったので、リモート構築をしました🙇♂️ #gocon #gocon26 #gocon26_noc</title>
-      <link>https://x.com/kuro_m88/status/2098267678838517989</link>
-      <description>くろさん: wireguard -goをベースにインターネットVPN越しでもoverlayにMTU1500以上を提供しつつ実用的なパフォーマンスを出すのと、メトリクスを充実させてモニタリングしやすくしたのがこだわりポイント💪 都合がつかず会場には行けなかったので、リモート構築をしました🙇♂️ #gocon #gocon26 #gocon26_noc</description>
-      <pubDate>Fri, 11 Sep 2026 04:29:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuro_m88/status/2098267678838517989</guid>
-    </item>
-    <item>
-      <title>Fortigate 52Eゲット OpenWrtと WireGuard いれてVPNゲートウェイにするでよ https://t.co/UaZuRpKDlZ</title>
-      <link>https://x.com/yamato_1413/status/2098040184424300976</link>
-      <description>やまと⛷滑走22日: Fortigate 52Eゲット OpenWrtと WireGuard いれてVPNゲートウェイにするでよ https://t.co/UaZuRpKDlZ</description>
-      <pubDate>Thu, 10 Sep 2026 13:25:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamato_1413/status/2098040184424300976</guid>
     </item>
   </channel>
 </rss>

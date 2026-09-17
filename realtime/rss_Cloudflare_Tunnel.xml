@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</title>
+      <link>https://x.com/amanelab/status/2100471156499431932</link>
+      <description>あまね工研: Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</description>
+      <pubDate>Thu, 17 Sep 2026 06:25:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amanelab/status/2100471156499431932</guid>
+    </item>
+    <item>
+      <title>P2P の マネージドプロバイダーとして Cloudflare に対応したらしい。 うまくいけば CouchDB 要らなくなるだろうか、 Cloudflare Tunnel 配下でホストすると TCP keep-alive しないからなのか 80秒で切れる事象があったな(1/N --- Release 1.0.29 · vrtmrz/obsidian-livesync https://t.co/uLbAZus1OV</title>
+      <link>https://x.com/naa0yama/status/2100370892690006171</link>
+      <description>Naoki Aoyama: P2P の マネージドプロバイダーとして Cloudflare に対応したらしい。 うまくいけば CouchDB 要らなくなるだろうか、 Cloudflare Tunnel 配下でホストすると TCP keep-alive しないからなのか 80秒で切れる事象があったな(1/N --- Release 1.0.29 · vrtmrz/obsidian-livesync https://t.co/uLbAZus1OV</description>
+      <pubDate>Wed, 16 Sep 2026 23:46:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/naa0yama/status/2100370892690006171</guid>
+    </item>
+    <item>
       <title>クラウドアップロードOKなら俺もロケフリをSaaS化してやろうかなチューナーは各自で持ってUDPパンチホールか cloudflare tunnel で接続してもらって</title>
       <link>https://x.com/5yuim/status/2099505433518194888</link>
       <description>𝕐𝕦𝕚: クラウドアップロードOKなら俺もロケフリをSaaS化してやろうかなチューナーは各自で持ってUDPパンチホールか cloudflare tunnel で接続してもらって</description>
@@ -262,20 +276,6 @@
       <description>kaiba: Cloudflare Tunnel はいいぞ #omotesandorb</description>
       <pubDate>Thu, 03 Sep 2026 11:01:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kaiba/status/2095467336803455477</guid>
-    </item>
-    <item>
-      <title>ぐぬぬ GoogleColab 無料枠 上限がぁー （これ？OpenCode解説動画ないかも） 「Qwen3-14B-AWQ」 「vLLM」 ー ↑ Google Colab内 ー 「 Cloudflare Tunnel 」（トンネル公開） ー ↓ ローカルPC ー 「OpenCode」（AIコーディング）… Ryzen5 5600GでQwen3.8-8b・OpenCodeよりは快適</title>
-      <link>https://x.com/playstation2_ch/status/2095163756544475311</link>
-      <description>I have an apple@Pic unrelated: ぐぬぬ GoogleColab 無料枠 上限がぁー （これ？OpenCode解説動画ないかも） 「Qwen3-14B-AWQ」 「vLLM」 ー ↑ Google Colab内 ー 「 Cloudflare Tunnel 」（トンネル公開） ー ↓ ローカルPC ー 「OpenCode」（AIコーディング）… Ryzen5 5600GでQwen3.8-8b・OpenCodeよりは快適</description>
-      <pubDate>Wed, 02 Sep 2026 14:55:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/playstation2_ch/status/2095163756544475311</guid>
-    </item>
-    <item>
-      <title>ブログに投稿しました Cloudflare Tunnel の replica で blog を active-active 化した https://t.co/tJKkGlZ7V1</title>
-      <link>https://x.com/tendon023/status/2095154885541216675</link>
-      <description>てんどん: ブログに投稿しました Cloudflare Tunnel の replica で blog を active-active 化した https://t.co/tJKkGlZ7V1</description>
-      <pubDate>Wed, 02 Sep 2026 14:20:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tendon023/status/2095154885541216675</guid>
     </item>
   </channel>
 </rss>

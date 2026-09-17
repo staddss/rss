@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@chekke1999 https://t.co/3gMh26GSL5 これ見る限り動きそうですね apt policy libcamera-tools pipewire -libcamera wireplumber lsmod | grep -E &quot;ipu6|ov13b10&quot; modinfo ov13b10 modinfo intel_ipu6 modinfo intel_ipu6_isys ls /lib/firmware/intel/ipu/ ドライバ、パッケージ、ファームウェア確認 続く</title>
+      <link>https://x.com/ggrks_me/status/2100411846905962802</link>
+      <description>uzumo: @chekke1999 https://t.co/3gMh26GSL5 これ見る限り動きそうですね apt policy libcamera-tools pipewire -libcamera wireplumber lsmod | grep -E &quot;ipu6|ov13b10&quot; modinfo ov13b10 modinfo intel_ipu6 modinfo intel_ipu6_isys ls /lib/firmware/intel/ipu/ ドライバ、パッケージ、ファームウェア確認 続く</description>
+      <pubDate>Thu, 17 Sep 2026 02:29:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ggrks_me/status/2100411846905962802</guid>
+    </item>
+    <item>
       <title>久しぶりにLMMSのAlpha 2が出た 長かったな… まあメイン開発者が忙殺されている上にやること山積み出し…(.sf4への対応、Qt5からQt6への移植、 PipeWire への移行、その他もろもろ) LMMS 1.3.0-alpha.2 is out! https://t.co/D0JbIsTyZJ</title>
       <link>https://x.com/RE_DO/status/2099708534934159694</link>
       <description>錆人形/RE_DO: 久しぶりにLMMSのAlpha 2が出た 長かったな… まあメイン開発者が忙殺されている上にやること山積み出し…(.sf4への対応、Qt5からQt6への移植、 PipeWire への移行、その他もろもろ) LMMS 1.3.0-alpha.2 is out! https://t.co/D0JbIsTyZJ</description>
@@ -269,20 +276,6 @@
       <description>けんけん: @keus9696 Alsaとかpulseaudioとか色々変わって来てるし、 Pipewire は過去の遺産をサポートするように作ってますからなー。</description>
       <pubDate>Sun, 23 Aug 2026 10:37:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fedoraupdown/status/2091474961366139220</guid>
-    </item>
-    <item>
-      <title>pulseaudioじゃくて Pipewire ね。変わってから何年も経つのに間違えるなや、自分w https://t.co/P2dVJHQSz0</title>
-      <link>https://x.com/fedoraupdown/status/2091463629258600693</link>
-      <description>けんけん: pulseaudioじゃくて Pipewire ね。変わってから何年も経つのに間違えるなや、自分w https://t.co/P2dVJHQSz0</description>
-      <pubDate>Sun, 23 Aug 2026 09:52:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2091463629258600693</guid>
-    </item>
-    <item>
-      <title>pulseaudioじゃなくて pipewire ね。</title>
-      <link>https://x.com/fedoraupdown/status/2091453047335776574</link>
-      <description>けんけん: pulseaudioじゃなくて pipewire ね。</description>
-      <pubDate>Sun, 23 Aug 2026 09:10:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2091453047335776574</guid>
     </item>
   </channel>
 </rss>
