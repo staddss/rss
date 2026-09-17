@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>TerraformでEC2・K8s・Docker上に開発環境を定義し、 WireGuard 接続＋アイドル自動停止で運用できるセルフホスト基盤。AIエージェントは制御プレーンで動作し、APIキーをワークスペースに置かず集中管理できるのが実用的。環境構築に数日かかるチームは試す価値あり？ https://t.co/zkinNHWKzw</title>
+      <link>https://x.com/LFrefman/status/2100535032259707134</link>
+      <description>Git_Shark: TerraformでEC2・K8s・Docker上に開発環境を定義し、 WireGuard 接続＋アイドル自動停止で運用できるセルフホスト基盤。AIエージェントは制御プレーンで動作し、APIキーをワークスペースに置かず集中管理できるのが実用的。環境構築に数日かかるチームは試す価値あり？ https://t.co/zkinNHWKzw</description>
+      <pubDate>Thu, 17 Sep 2026 10:39:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LFrefman/status/2100535032259707134</guid>
+    </item>
+    <item>
       <title>記事だとわからなかったけど、確認したらアプリの作り自体が「Rethink DNS + Firewall + WireGuard VPN / Proxy」か VPNは使わなくても良い、と https://t.co/hA3q88kCSW https://t.co/IjCs7xSnet https://t.co/MBqKUxM0pX https://t.co/9fjjZkgGWu</title>
       <link>https://x.com/osakanataro2/status/2100512245835075957</link>
       <description>OSAKANA TARO: 記事だとわからなかったけど、確認したらアプリの作り自体が「Rethink DNS + Firewall + WireGuard VPN / Proxy」か VPNは使わなくても良い、と https://t.co/hA3q88kCSW https://t.co/IjCs7xSnet https://t.co/MBqKUxM0pX https://t.co/9fjjZkgGWu</description>
@@ -269,13 +276,6 @@
       <description>北のはむきち: 最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</description>
       <pubDate>Fri, 11 Sep 2026 14:52:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hamkichi_north/status/2098424326127247610</guid>
-    </item>
-    <item>
-      <title>Tailscale の存在は WireGuard 関連で前から知ってたけど DGX Spark 触ってからというもの、めっちゃ調べまくって知見が相当たまった</title>
-      <link>https://x.com/Astrisk_/status/2098421143380385809</link>
-      <description>たっけん@あすた🍃🌸🦊: Tailscale の存在は WireGuard 関連で前から知ってたけど DGX Spark 触ってからというもの、めっちゃ調べまくって知見が相当たまった</description>
-      <pubDate>Fri, 11 Sep 2026 14:39:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Astrisk_/status/2098421143380385809</guid>
     </item>
   </channel>
 </rss>
