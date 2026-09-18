@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@relorah Linuxはオーディオバックエンドが複数種類あるので、 pipewire がいいらしいとかALSA直接叩くのがいいとかいろいろ試せそう</title>
+      <link>https://x.com/darekasan_net/status/2100493525419020727</link>
+      <description>だれかさんねっと: @relorah Linuxはオーディオバックエンドが複数種類あるので、 pipewire がいいらしいとかALSA直接叩くのがいいとかいろいろ試せそう</description>
+      <pubDate>Thu, 17 Sep 2026 07:54:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/darekasan_net/status/2100493525419020727</guid>
+    </item>
+    <item>
       <title>@chekke1999 https://t.co/3gMh26GSL5 これ見る限り動きそうですね apt policy libcamera-tools pipewire -libcamera wireplumber lsmod | grep -E &quot;ipu6|ov13b10&quot; modinfo ov13b10 modinfo intel_ipu6 modinfo intel_ipu6_isys ls /lib/firmware/intel/ipu/ ドライバ、パッケージ、ファームウェア確認 続く</title>
       <link>https://x.com/ggrks_me/status/2100411846905962802</link>
       <description>uzumo: @chekke1999 https://t.co/3gMh26GSL5 これ見る限り動きそうですね apt policy libcamera-tools pipewire -libcamera wireplumber lsmod | grep -E &quot;ipu6|ov13b10&quot; modinfo ov13b10 modinfo intel_ipu6 modinfo intel_ipu6_isys ls /lib/firmware/intel/ipu/ ドライバ、パッケージ、ファームウェア確認 続く</description>

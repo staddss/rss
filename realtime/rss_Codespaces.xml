@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短結論： Codespaces ・Gitpod・Cloud9 の使い分けと1週間PoC手順 https://t.co/hTgp1yC9cw #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2100746892137128203</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短結論： Codespaces ・Gitpod・Cloud9 の使い分けと1週間PoC手順 https://t.co/hTgp1yC9cw #エンジニア #ChatGPT #AI</description>
+      <pubDate>Fri, 18 Sep 2026 00:41:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2100746892137128203</guid>
+    </item>
+    <item>
+      <title>@PentaPROgram もろもろ設定した授業用のGitHub Repository + GitHub Codespaces だと厳しかったりします？</title>
+      <link>https://x.com/Yuhei_FUJITA/status/2100491403583500753</link>
+      <description>Y10A: @PentaPROgram もろもろ設定した授業用のGitHub Repository + GitHub Codespaces だと厳しかったりします？</description>
+      <pubDate>Thu, 17 Sep 2026 07:45:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yuhei_FUJITA/status/2100491403583500753</guid>
+    </item>
+    <item>
       <title>今日勉強会で初めてGitHub Codespaces を使った クリックしただけでクラウド上に仮想環境が立ち上がってGoogleアカウントで認証したら VScode のターミナルで Antigravity CLI がそのまま動いた ローカルに Docker も Python も入れてないのに 環境構築という苦行がボタンひとつで終わる時代になってた</title>
       <link>https://x.com/BrilliantRose_/status/2100218904752885839</link>
       <description>新型コロナ研究室: 今日勉強会で初めてGitHub Codespaces を使った クリックしただけでクラウド上に仮想環境が立ち上がってGoogleアカウントで認証したら VScode のターミナルで Antigravity CLI がそのまま動いた ローカルに Docker も Python も入れてないのに 環境構築という苦行がボタンひとつで終わる時代になってた</description>
@@ -262,20 +276,6 @@
       <description>EngiNear: 【新着記事】決定版クラウドIDE比較： Codespaces vs Gitpod vs Cloud9 — 実務で失敗しない選び方と導入手順 https://t.co/i1j8Uh9JqA #エンジニア #ChatGPT #AI</description>
       <pubDate>Thu, 27 Aug 2026 00:41:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2092774381676093806</guid>
-    </item>
-    <item>
-      <title>[Link] Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Copilot】&gt;https://t.co/v26wDJqqD7</title>
-      <link>https://x.com/tech_wiki/status/2092622767166493130</link>
-      <description>技術情報Wiki: [Link] Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Copilot】&gt;https://t.co/v26wDJqqD7</description>
-      <pubDate>Wed, 26 Aug 2026 14:38:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tech_wiki/status/2092622767166493130</guid>
-    </item>
-    <item>
-      <title>coderを自宅サーバーでホストしてみたんだけど、かなり良さげかも。githubの codespaces を4倍速にしたかのような手触り</title>
-      <link>https://x.com/lkjsxc/status/2092592700491227388</link>
-      <description>lkjsxc（スク）: coderを自宅サーバーでホストしてみたんだけど、かなり良さげかも。githubの codespaces を4倍速にしたかのような手触り</description>
-      <pubDate>Wed, 26 Aug 2026 12:39:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lkjsxc/status/2092592700491227388</guid>
     </item>
   </channel>
 </rss>

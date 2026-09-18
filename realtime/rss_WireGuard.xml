@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ubuntu26で WireGuard が動かない。GPTの診断によれば、AppArmorが干渉しているらしい</title>
+      <link>https://x.com/soramimi_jp/status/2100743089874989259</link>
+      <description>そらみみ: Ubuntu26で WireGuard が動かない。GPTの診断によれば、AppArmorが干渉しているらしい</description>
+      <pubDate>Fri, 18 Sep 2026 00:25:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/soramimi_jp/status/2100743089874989259</guid>
+    </item>
+    <item>
+      <title>Tailscale(Exit Node) + ProtonVPN( WireGuard )だと繋いでるサーバーがメンテナンスとかで落ちると通信不能になったので ProtonVPN(OpenVPN)に切り替えたよっていうひとりごと。</title>
+      <link>https://x.com/dikndisk081/status/2100715028592857222</link>
+      <description>みにっつ.ts: Tailscale(Exit Node) + ProtonVPN( WireGuard )だと繋いでるサーバーがメンテナンスとかで落ちると通信不能になったので ProtonVPN(OpenVPN)に切り替えたよっていうひとりごと。</description>
+      <pubDate>Thu, 17 Sep 2026 22:34:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dikndisk081/status/2100715028592857222</guid>
+    </item>
+    <item>
       <title>TerraformでEC2・K8s・Docker上に開発環境を定義し、 WireGuard 接続＋アイドル自動停止で運用できるセルフホスト基盤。AIエージェントは制御プレーンで動作し、APIキーをワークスペースに置かず集中管理できるのが実用的。環境構築に数日かかるチームは試す価値あり？ https://t.co/zkinNHWKzw</title>
       <link>https://x.com/LFrefman/status/2100535032259707134</link>
       <description>Git_Shark: TerraformでEC2・K8s・Docker上に開発環境を定義し、 WireGuard 接続＋アイドル自動停止で運用できるセルフホスト基盤。AIエージェントは制御プレーンで動作し、APIキーをワークスペースに置かず集中管理できるのが実用的。環境構築に数日かかるチームは試す価値あり？ https://t.co/zkinNHWKzw</description>
@@ -262,20 +276,6 @@
       <description>Jay: @yamato_1413 冗長化するなら、 WireGuard 経路とcloudflaredの出口を別系統にして、Keepaliveと障時の切り替えを先に確認すると安心です。無料のリバースプロキシ／向きトンネルなら、MITオープンソースのcftunnelもあり、`cftunnel quick</description>
       <pubDate>Sat, 12 Sep 2026 07:50:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2098680621014880523</guid>
-    </item>
-    <item>
-      <title>先日あきばお〜さんで購入したmicroSDカードをラズパイに使うか。自宅と別拠点をそれぞれのラズパイに wireguard かtailscaleで繋ぐとするか。</title>
-      <link>https://x.com/_greensandblues/status/2098458523797778631</link>
-      <description>碧井𝕏鳥之介: 先日あきばお〜さんで購入したmicroSDカードをラズパイに使うか。自宅と別拠点をそれぞれのラズパイに wireguard かtailscaleで繋ぐとするか。</description>
-      <pubDate>Fri, 11 Sep 2026 17:07:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_greensandblues/status/2098458523797778631</guid>
-    </item>
-    <item>
-      <title>最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</title>
-      <link>https://x.com/hamkichi_north/status/2098424326127247610</link>
-      <description>北のはむきち: 最近うちのClaudeが、QNAPをQNABとか、 WireGuard をWireGu1点みたいに誤字るようになってきたんだが、大丈夫かな</description>
-      <pubDate>Fri, 11 Sep 2026 14:52:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hamkichi_north/status/2098424326127247610</guid>
     </item>
   </channel>
 </rss>
