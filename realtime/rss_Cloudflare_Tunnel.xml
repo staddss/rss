@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@neutron42jp SSH目的ならngrokのHTTP URLはTCP/SSHの経路が必要です。まずLAN内で `ssh user@host` `ss -lntp | grep :22` を確認カド不要試すならTailscaleか Cloudflare Tunnel + Access SSH安全で。HTTP/localhost公開な無料のcftunnel quick（*.trycloudflare.com）も使えます: https://t.co/0ip4fppg59</title>
+      <link>https://x.com/JayQinQT/status/2100882930927095942</link>
+      <description>Jay: @neutron42jp SSH目的ならngrokのHTTP URLはTCP/SSHの経路が必要です。まずLAN内で `ssh user@host` `ss -lntp | grep :22` を確認カド不要試すならTailscaleか Cloudflare Tunnel + Access SSH安全で。HTTP/localhost公開な無料のcftunnel quick（*.trycloudflare.com）も使えます: https://t.co/0ip4fppg59</description>
+      <pubDate>Fri, 18 Sep 2026 09:41:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JayQinQT/status/2100882930927095942</guid>
+    </item>
+    <item>
       <title>実家にミニPCをおいて Cloudflare Tunnel でつなぎ、VRChatの写真を地理的分散（同県内）バックアップするやつやりた〜い🎶 ちょうど20TBのHDDを持て余しているので</title>
       <link>https://x.com/ChmonoV/status/2100857230908129486</link>
       <description>くものすβ: 実家にミニPCをおいて Cloudflare Tunnel でつなぎ、VRChatの写真を地理的分散（同県内）バックアップするやつやりた〜い🎶 ちょうど20TBのHDDを持て余しているので</description>
@@ -269,13 +276,6 @@
       <description>ツムンテマ: 私の実家が契約しているSo-net auひかりには固定IPアドレスのオプション提供はないのか……朝起きたらグローバルIPが変わっていて、ラズパイ4で動かしていたWebサイトのDNSに直接指定したIPが古いままでタイムアウトエラーになっていた Cloudflare Tunnel で設定やり直しだ～</description>
       <pubDate>Mon, 07 Sep 2026 22:50:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tsumuntema/status/2097095122215407788</guid>
-    </item>
-    <item>
-      <title>ngrokがratelimitになったので、 cloudflare tunnel で再公開してます https://t.co/GBgJWzvnLP</title>
-      <link>https://x.com/tokoroten/status/2096898895733481614</link>
-      <description>ところてん: ngrokがratelimitになったので、 cloudflare tunnel で再公開してます https://t.co/GBgJWzvnLP</description>
-      <pubDate>Mon, 07 Sep 2026 09:50:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokoroten/status/2096898895733481614</guid>
     </item>
   </channel>
 </rss>
