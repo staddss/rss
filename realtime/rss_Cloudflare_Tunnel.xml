@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>移転が面倒なのでドメイン含めてデジロック時代から使ってたけど、GMO傘下になってどんどん変になってって、ここまでクオリティ下がっちゃったらちょっともうダメね。 XServerと Cloudflare Tunnel に振り分けてやろ。 しかし移転するにもマジでDBのダンプやばいわ。どうしよ。</title>
+      <link>https://x.com/gggggggggoto/status/2100975498545545626</link>
+      <description>ごとうさちお - Sachio Goto: 移転が面倒なのでドメイン含めてデジロック時代から使ってたけど、GMO傘下になってどんどん変になってって、ここまでクオリティ下がっちゃったらちょっともうダメね。 XServerと Cloudflare Tunnel に振り分けてやろ。 しかし移転するにもマジでDBのダンプやばいわ。どうしよ。</description>
+      <pubDate>Fri, 18 Sep 2026 15:49:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gggggggggoto/status/2100975498545545626</guid>
+    </item>
+    <item>
       <title>@neutron42jp SSH目的ならngrokのHTTP URLはTCP/SSHの経路が必要です。まずLAN内で `ssh user@host` `ss -lntp | grep :22` を確認カド不要試すならTailscaleか Cloudflare Tunnel + Access SSH安全で。HTTP/localhost公開な無料のcftunnel quick（*.trycloudflare.com）も使えます: https://t.co/0ip4fppg59</title>
       <link>https://x.com/JayQinQT/status/2100882930927095942</link>
       <description>Jay: @neutron42jp SSH目的ならngrokのHTTP URLはTCP/SSHの経路が必要です。まずLAN内で `ssh user@host` `ss -lntp | grep :22` を確認カド不要試すならTailscaleか Cloudflare Tunnel + Access SSH安全で。HTTP/localhost公開な無料のcftunnel quick（*.trycloudflare.com）も使えます: https://t.co/0ip4fppg59</description>
@@ -269,13 +276,6 @@
       <description>ののといいますが: orcaを cloudflare tunnel でPCにアクセスして、動作させるって言うのをやってるんだが。ipad でコマンダーUIみたいなのを用意して、進捗確認や動作状況や指示や承認を簡単にしやすいものを作ってる。 最低限これできれば、どこでも代わりに作業させたり複数agentに丸投げでどうにかなる</description>
       <pubDate>Tue, 08 Sep 2026 03:55:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/saiyuki1919/status/2097171843186847785</guid>
-    </item>
-    <item>
-      <title>私の実家が契約しているSo-net auひかりには固定IPアドレスのオプション提供はないのか……朝起きたらグローバルIPが変わっていて、ラズパイ4で動かしていたWebサイトのDNSに直接指定したIPが古いままでタイムアウトエラーになっていた Cloudflare Tunnel で設定やり直しだ～</title>
-      <link>https://x.com/tsumuntema/status/2097095122215407788</link>
-      <description>ツムンテマ: 私の実家が契約しているSo-net auひかりには固定IPアドレスのオプション提供はないのか……朝起きたらグローバルIPが変わっていて、ラズパイ4で動かしていたWebサイトのDNSに直接指定したIPが古いままでタイムアウトエラーになっていた Cloudflare Tunnel で設定やり直しだ～</description>
-      <pubDate>Mon, 07 Sep 2026 22:50:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tsumuntema/status/2097095122215407788</guid>
     </item>
   </channel>
 </rss>
