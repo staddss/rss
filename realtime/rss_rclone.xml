@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Googledriveとかにリモートのサーバーからrsyncみたいなことやりたいと思ってたら rclone という素晴らしいOSSを発見して感謝しかない</title>
+      <link>https://x.com/y___ih/status/2100772728852857246</link>
+      <description>Yu Ihara: Googledriveとかにリモートのサーバーからrsyncみたいなことやりたいと思ってたら rclone という素晴らしいOSSを発見して感謝しかない</description>
+      <pubDate>Fri, 18 Sep 2026 02:23:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/y___ih/status/2100772728852857246</guid>
+    </item>
+    <item>
       <title>@felice90 あ、ありますね。私は細々したものしか上げないので、日頃は気になりませんが、大きなものを取り扱うときは、 rclone の Nextcloud 向け WebDAV のチャンクアップロード(--webdav-nextcloud-chunk-size)などを使うといいかもです。</title>
       <link>https://x.com/amanelab/status/2100731820107272623</link>
       <description>あまね工研: @felice90 あ、ありますね。私は細々したものしか上げないので、日頃は気になりませんが、大きなものを取り扱うときは、 rclone の Nextcloud 向け WebDAV のチャンクアップロード(--webdav-nextcloud-chunk-size)などを使うといいかもです。</description>
@@ -262,13 +269,6 @@
       <description>リリア: クラウドストレージも rclone か何かで自前の暗号レイヤーが必要</description>
       <pubDate>Fri, 21 Aug 2026 06:40:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CypherLilium/status/2090690534520258654</guid>
-    </item>
-    <item>
-      <title>#Btrfs はすごくいいのだけど、一部のシステムと相性が悪くて使えなかったりする。 rclone キャッシュ保管場所とか。サブドライブで対策すればいいんだけどね。なので、今のところOSドライブだけの利用にするのが吉。この状況早く改善してくれ。 https://t.co/lpLL39wJzg</title>
-      <link>https://x.com/NonbiNon/status/2090325095671898231</link>
-      <description>ノンビ@暗号資産: #Btrfs はすごくいいのだけど、一部のシステムと相性が悪くて使えなかったりする。 rclone キャッシュ保管場所とか。サブドライブで対策すればいいんだけどね。なので、今のところOSドライブだけの利用にするのが吉。この状況早く改善してくれ。 https://t.co/lpLL39wJzg</description>
-      <pubDate>Thu, 20 Aug 2026 06:28:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NonbiNon/status/2090325095671898231</guid>
     </item>
     <item>
       <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>

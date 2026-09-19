@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短選定ガイド： Codespaces ・Gitpod・Cloud9 の比較と30日PoCで失敗しない手順 https://t.co/Qg026vuoLL #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2101169833698078778</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド： Codespaces ・Gitpod・Cloud9 の比較と30日PoCで失敗しない手順 https://t.co/Qg026vuoLL #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 19 Sep 2026 04:41:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2101169833698078778</guid>
+    </item>
+    <item>
+      <title>【新着記事】最短判断ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/pgqYNBrb0J #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2101108084579926188</link>
+      <description>EngiNear: 【新着記事】最短判断ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/pgqYNBrb0J #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 19 Sep 2026 00:36:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2101108084579926188</guid>
+    </item>
+    <item>
       <title>デジゲー博に向けて、「招き猫ゲーム」ver2.0を開発中！🎲 GitHub/ Codespaces への移行を完了し、Battle Modeをmainへ統合。テストも84/84 PASS！ 現在は実機プレイでUIを確認しています🐱 #招き猫ゲーム #アリス研究所 #デジゲー博 https://t.co/uBHDsFL6rl</title>
       <link>https://x.com/alice_researchI/status/2100764814788444372</link>
       <description>アリス研究所@デジゲー博A-10a: デジゲー博に向けて、「招き猫ゲーム」ver2.0を開発中！🎲 GitHub/ Codespaces への移行を完了し、Battle Modeをmainへ統合。テストも84/84 PASS！ 現在は実機プレイでUIを確認しています🐱 #招き猫ゲーム #アリス研究所 #デジゲー博 https://t.co/uBHDsFL6rl</description>
@@ -262,20 +276,6 @@
       <description>m m: @MakkWylde @Hirotaro_app 諸般の事情で安価なwindows・ディスクトップ😳 ブラウザでGitHub Codespaces にアクセスして要求を伝えるだけ😂全部サーバーが対応してくれて、スクショして❗と言うだけや😂 一応、メモリー32GB，VRAM32GBのPC お金で解決できる問題に時間を使うのはアホらしい🤔</description>
       <pubDate>Thu, 27 Aug 2026 14:01:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mm5229564134084/status/2092975676358087091</guid>
-    </item>
-    <item>
-      <title>こういうトレンド毎回あって、ちょっと前はGitHub Codespaces あればVS Codeいらないんじゃね？論争だったけど、結局ローカルで開発する人が減らなかったのはやっぱりいろいろ制約があって使い勝手がよくないからなんよね Claude Code Webも Codespaces もちょこっと使う分にはとても便利なんだけど</title>
-      <link>https://x.com/yutkat/status/2092810450815893807</link>
-      <description>yutkat: こういうトレンド毎回あって、ちょっと前はGitHub Codespaces あればVS Codeいらないんじゃね？論争だったけど、結局ローカルで開発する人が減らなかったのはやっぱりいろいろ制約があって使い勝手がよくないからなんよね Claude Code Webも Codespaces もちょこっと使う分にはとても便利なんだけど</description>
-      <pubDate>Thu, 27 Aug 2026 03:04:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yutkat/status/2092810450815893807</guid>
-    </item>
-    <item>
-      <title>25いいね！ | Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Cop... https://t.co/PfG49tFsde https://t.co/iqCXypb8Hb</title>
-      <link>https://x.com/qiita_milestone/status/2092786772883497420</link>
-      <description>Qiitaマイルストーン: 25いいね！ | Antigravity for VS Code in GitHub Codespaces が便利すぎる件【サンドボックス / 脱GitHub Cop... https://t.co/PfG49tFsde https://t.co/iqCXypb8Hb</description>
-      <pubDate>Thu, 27 Aug 2026 01:30:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/qiita_milestone/status/2092786772883497420</guid>
     </item>
   </channel>
 </rss>
