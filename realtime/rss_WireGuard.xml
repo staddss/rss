@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/Aomaru_S/status/2101173958322368838</guid>
     </item>
     <item>
+      <title>Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</title>
+      <link>https://x.com/kazto_dev/status/2101144593115033963</link>
+      <description>kazto = NULL;: Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</description>
+      <pubDate>Sat, 19 Sep 2026 03:01:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kazto_dev/status/2101144593115033963</guid>
+    </item>
+    <item>
       <title>セルフホストの熱意が高まったので、immich と wireguard を NAS に建てた。 今回はいつまで保守できるか...</title>
       <link>https://x.com/daidai_biyori/status/2101140713761362126</link>
       <description>だいだい: セルフホストの熱意が高まったので、immich と wireguard を NAS に建てた。 今回はいつまで保守できるか...</description>
@@ -269,13 +276,6 @@
       <description>GIGAZINE(ギガジン): 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/oUavA2XKVi</description>
       <pubDate>Sun, 13 Sep 2026 09:00:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gigazine/status/2099060593370042582</guid>
-    </item>
-    <item>
-      <title>・2.5G Ethernetポートも装備、バッテリーは最長13.5時間 ・OpenVPN/ WireGuard を内蔵、自分のVPNをそのまま持ち歩ける これ一台あれば海外でもホテルWi-Fi頼みにならずに済みそう✈️</title>
-      <link>https://x.com/hkuhyo/status/2098812309837844895</link>
-      <description>はくひょう: ・2.5G Ethernetポートも装備、バッテリーは最長13.5時間 ・OpenVPN/ WireGuard を内蔵、自分のVPNをそのまま持ち歩ける これ一台あれば海外でもホテルWi-Fi頼みにならずに済みそう✈️</description>
-      <pubDate>Sat, 12 Sep 2026 16:33:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hkuhyo/status/2098812309837844895</guid>
     </item>
   </channel>
 </rss>

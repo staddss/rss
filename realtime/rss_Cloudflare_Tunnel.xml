@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@M1Piano 見様見真似でやってるけど面白いっすよ〜 消費電力的に常時起動Linuxサーバのポテンシャル感じてる 今個人的に話題の cloudflare tunnel も張れるっぽいから色々試すぞ‼️</title>
+      <link>https://x.com/Defo191157/status/2101516610377023787</link>
+      <description>Default: @M1Piano 見様見真似でやってるけど面白いっすよ〜 消費電力的に常時起動Linuxサーバのポテンシャル感じてる 今個人的に話題の cloudflare tunnel も張れるっぽいから色々試すぞ‼️</description>
+      <pubDate>Sun, 20 Sep 2026 03:39:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Defo191157/status/2101516610377023787</guid>
+    </item>
+    <item>
+      <title>ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</title>
+      <link>https://x.com/aiAnyDay/status/2101482786578423906</link>
+      <description>aiAnyDay: ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</description>
+      <pubDate>Sun, 20 Sep 2026 01:25:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aiAnyDay/status/2101482786578423906</guid>
+    </item>
+    <item>
+      <title>Androidスマホから自宅のWindows11上のUnsloth環境に直接問い合わせ、無料のオンラインモデルを使わず自分のデータと自分のGPUだけで完結させたいという相談。解決策としてTailscaleや Cloudflare Tunnel で常時VPN化し、Open WebUIと独自ドメインで安全に外部公開する案が支持を集めた。</title>
+      <link>https://x.com/LFrefman/status/2101462743048237140</link>
+      <description>Git_Shark: Androidスマホから自宅のWindows11上のUnsloth環境に直接問い合わせ、無料のオンラインモデルを使わず自分のデータと自分のGPUだけで完結させたいという相談。解決策としてTailscaleや Cloudflare Tunnel で常時VPN化し、Open WebUIと独自ドメインで安全に外部公開する案が支持を集めた。</description>
+      <pubDate>Sun, 20 Sep 2026 00:05:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LFrefman/status/2101462743048237140</guid>
+    </item>
+    <item>
       <title>@Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</title>
       <link>https://x.com/JayQinQT/status/2101386530933682579</link>
       <description>Jay: @Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</description>
@@ -255,27 +276,6 @@
       <description>くじ:uturned: IPv6 Plusのみなさま、自宅サーバどうしてますか？ IPv4が手元からなくなると思っておらず悩み中。 Cloudflare Tunnel ですかね？</description>
       <pubDate>Wed, 09 Sep 2026 11:33:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/uturned0/status/2097649647682801677</guid>
-    </item>
-    <item>
-      <title>@X_com_Japan @park_half_2 でも、接続数においては、IP一個丸々使えるから、色々小細工しなくて便利なんよねぇ 個人では、最近流行り(？)の、 Cloudflare Tunnel 使ってポート開放するしかないんよ。</title>
-      <link>https://x.com/GamesKawada/status/2097329174461771835</link>
-      <description>カワダ・コウヘイ(可話多公平) 📻📉@みんなのパパ!つべツイキャス同時配信!雑談系VTuber: @X_com_Japan @park_half_2 でも、接続数においては、IP一個丸々使えるから、色々小細工しなくて便利なんよねぇ 個人では、最近流行り(？)の、 Cloudflare Tunnel 使ってポート開放するしかないんよ。</description>
-      <pubDate>Tue, 08 Sep 2026 14:20:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GamesKawada/status/2097329174461771835</guid>
-    </item>
-    <item>
-      <title>テスト環境などは特定少数が対象だから、 Cloudflare Tunnel 使って権限渡してあげれば良いのか。なるほど。</title>
-      <link>https://x.com/itocchi_3/status/2097274733440184722</link>
-      <description>itocchi: テスト環境などは特定少数が対象だから、 Cloudflare Tunnel 使って権限渡してあげれば良いのか。なるほど。</description>
-      <pubDate>Tue, 08 Sep 2026 10:43:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itocchi_3/status/2097274733440184722</guid>
-    </item>
-    <item>
-      <title>何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</title>
-      <link>https://x.com/4nvzip/status/2097201896687808561</link>
-      <description>4n: 何故通話アプリが落ちるのかというと、それは単にCloudflare側でworker依存が多く、それらを細かく分けた外部サービスに依存しているからだと推定 やるなら、まず Cloudflare Tunnel である程度をシグナリングのような使い方→そこに通話を接続！</description>
-      <pubDate>Tue, 08 Sep 2026 05:54:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/4nvzip/status/2097201896687808561</guid>
     </item>
   </channel>
 </rss>

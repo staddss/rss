@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近iOS版Chromeに追加された「質問する」ボタン、誤タップしやすいわ表示領域減るわで邪魔なので消し方をシェアしておきます 1. Chromeのアドレスバーに chrome :// flags /#chrome-next-ia と入力（そのままEnterせず、青いフラスコのアイコンが表示されている方のサジェストをタップ） https://t.co/Sr115my1It</title>
+      <link>https://x.com/ybs303/status/2101497247410352161</link>
+      <description>Yebisu303 / Masaki Takada: 最近iOS版Chromeに追加された「質問する」ボタン、誤タップしやすいわ表示領域減るわで邪魔なので消し方をシェアしておきます 1. Chromeのアドレスバーに chrome :// flags /#chrome-next-ia と入力（そのままEnterせず、青いフラスコのアイコンが表示されている方のサジェストをタップ） https://t.co/Sr115my1It</description>
+      <pubDate>Sun, 20 Sep 2026 02:22:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ybs303/status/2101497247410352161</guid>
+    </item>
+    <item>
+      <title>「 chrome :// flags 」の設定をリセット（Reset all）したところ解決した♪ Copilotが対処法6個挙げてくれて、3つ目で直った！ https://t.co/oRziF8SLsK</title>
+      <link>https://x.com/hakata_no_onago/status/2101264166090850375</link>
+      <description>はま😄: 「 chrome :// flags 」の設定をリセット（Reset all）したところ解決した♪ Copilotが対処法6個挙げてくれて、3つ目で直った！ https://t.co/oRziF8SLsK</description>
+      <pubDate>Sat, 19 Sep 2026 10:56:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hakata_no_onago/status/2101264166090850375</guid>
+    </item>
+    <item>
       <title>Chromの分割ビュー 上下ができるはずだったけど消えた で調べてできるようにした chrome :// flags ↓ splitで検索 Stacked Split Views を選ぶ ↓ Enabled で再起動</title>
       <link>https://x.com/tomotana/status/2101130905905774705</link>
       <description>田中友尋 | Tomohiko Tanaka | (株) ハマ企画: Chromの分割ビュー 上下ができるはずだったけど消えた で調べてできるようにした chrome :// flags ↓ splitで検索 Stacked Split Views を選ぶ ↓ Enabled で再起動</description>
@@ -262,20 +276,6 @@
       <description>タツキ: よく聞かれるのでメモ。 Google Chromeで「縦タブ」を有効にする方法。 ① chrome :// flags /#vertical-tabs を開く ②「Vertical Tabs」を Enabled にする ③ RelaunchでChromeを再起動 ④ タブバーの余白を右クリックして縦表示へ変更 タブをたくさん開く人は、横並びより圧倒的に見やすい。 https://t.co/Oa2KIQJLlV</description>
       <pubDate>Sat, 29 Aug 2026 01:06:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gibkun1/status/2093505474880839928</guid>
-    </item>
-    <item>
-      <title>Chrome の縦タブの自動開閉について、Mac では自動開閉ができていたのですが、Windows ではできていませんでした。 下記の URL から設定が可能です🫡 chrome :// flags /#vertical-tabs-expand-on-hover</title>
-      <link>https://x.com/x_stone_island/status/2093188006727516250</link>
-      <description>翔@Shopify: Chrome の縦タブの自動開閉について、Mac では自動開閉ができていたのですが、Windows ではできていませんでした。 下記の URL から設定が可能です🫡 chrome :// flags /#vertical-tabs-expand-on-hover</description>
-      <pubDate>Fri, 28 Aug 2026 04:04:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/x_stone_island/status/2093188006727516250</guid>
-    </item>
-    <item>
-      <title>あれー chrome :// flags でD3D9を選択できるオプションが消えてます？ あれ変更しないと楽天関係の認証が通らない症状が出てて非常に困る、なんなんだろコレ</title>
-      <link>https://x.com/NekamanianX/status/2091901303761097204</link>
-      <description>ゆるふわ院🐜🌞🩹⚗: あれー chrome :// flags でD3D9を選択できるオプションが消えてます？ あれ変更しないと楽天関係の認証が通らない症状が出てて非常に困る、なんなんだろコレ</description>
-      <pubDate>Mon, 24 Aug 2026 14:51:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NekamanianX/status/2091901303761097204</guid>
     </item>
   </channel>
 </rss>

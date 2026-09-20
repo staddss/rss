@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameNative%22</link>
     <description>Latest search results for '&quot;GameNative&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>3.日本語化MOD導入 日本語化MOD(.zip版)を解凍してそこに先ほどダウンロードしたBepInExを上書き 上書きしたフォルダをDownloadフォルダに配置 GameNative でコンテナオープンを行いDドライブに見える日本語化MODフォルダの中身をAドライブへコピーして閉じる (9/15)</title>
+      <link>https://x.com/angr_rs/status/2101451122217189448</link>
+      <description>snailcaviar: 3.日本語化MOD導入 日本語化MOD(.zip版)を解凍してそこに先ほどダウンロードしたBepInExを上書き 上書きしたフォルダをDownloadフォルダに配置 GameNative でコンテナオープンを行いDドライブに見える日本語化MODフォルダの中身をAドライブへコピーして閉じる (9/15)</description>
+      <pubDate>Sat, 19 Sep 2026 23:19:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2101451122217189448</guid>
+    </item>
+    <item>
+      <title>グラフィックタブはAdrenoの場合はこれ ドライバやdxvkは先ほど落としたものを使用する Android13以前の場合メモリリソースはahbではなくauto GPUがMali等の場合はWrapper- gamenative にしてTurnip使用をオフ Systemドライバ使用でBCnエミュレーションをauto (8/15) https://t.co/qVqgZSTyL8</title>
+      <link>https://x.com/angr_rs/status/2101451119180558662</link>
+      <description>snailcaviar: グラフィックタブはAdrenoの場合はこれ ドライバやdxvkは先ほど落としたものを使用する Android13以前の場合メモリリソースはahbではなくauto GPUがMali等の場合はWrapper- gamenative にしてTurnip使用をオフ Systemドライバ使用でBCnエミュレーションをauto (8/15) https://t.co/qVqgZSTyL8</description>
+      <pubDate>Sat, 19 Sep 2026 23:19:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2101451119180558662</guid>
+    </item>
+    <item>
+      <title>2.インストール後の各種下準備 GameNative をインストールしてSteamアカウントでログイン FEXCoreプリセットを開いてパフォーマンスを選択して+の隣にあるコピーボタンをタップしてFEX_MULTIBLOCKをオフにして以下のようにする (5/15) https://t.co/gqr7tFoJS5</title>
+      <link>https://x.com/angr_rs/status/2101451089442931148</link>
+      <description>snailcaviar: 2.インストール後の各種下準備 GameNative をインストールしてSteamアカウントでログイン FEXCoreプリセットを開いてパフォーマンスを選択して+の隣にあるコピーボタンをタップしてFEX_MULTIBLOCKをオフにして以下のようにする (5/15) https://t.co/gqr7tFoJS5</description>
+      <pubDate>Sat, 19 Sep 2026 23:19:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2101451089442931148</guid>
+    </item>
+    <item>
+      <title>・Proton11.0-2( GameNative Repo) https://t.co/kraRKNGlD2 色々と有益なパッチが組み込まれてるProton userspace ntsyncに対応しているが現時点では未成熟なのでそれは不使用 GameNative が提供するものはBionic SteamによるSteamクライアントのネイティブ動作に対応してるのが大きな特徴 (2/15)</title>
+      <link>https://x.com/angr_rs/status/2101451075392024928</link>
+      <description>snailcaviar: ・Proton11.0-2( GameNative Repo) https://t.co/kraRKNGlD2 色々と有益なパッチが組み込まれてるProton userspace ntsyncに対応しているが現時点では未成熟なのでそれは不使用 GameNative が提供するものはBionic SteamによるSteamクライアントのネイティブ動作に対応してるのが大きな特徴 (2/15)</description>
+      <pubDate>Sat, 19 Sep 2026 23:19:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/angr_rs/status/2101451075392024928</guid>
+    </item>
+    <item>
       <title>シレン5は GameNative 経由では動かなかったけどGameHub経由なら泥端末で動いた https://t.co/ZHVKDNVWgY</title>
       <link>https://x.com/lethargyproject/status/2100247726663274530</link>
       <description>半人前: シレン5は GameNative 経由では動かなかったけどGameHub経由なら泥端末で動いた https://t.co/ZHVKDNVWgY</description>
@@ -248,41 +276,6 @@
       <description>snailcaviar: 該当GPUでの動作に焦点を当ててるVauziのほうを推奨なのだが最近のバージョンの GameNative では選択時にクラッシュするバグがあるのでGNかドライバのどちらかが修正されるまでとりあえずPurpleT29で繋ぐのが良い</description>
       <pubDate>Fri, 21 Aug 2026 22:23:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/angr_rs/status/2090927841064169944</guid>
-    </item>
-    <item>
-      <title>GameNative /Winlator用の各デバイスの推奨ドライバまとめ 1. Adreno710/720の場合 https://t.co/oCixJzqmdC https://t.co/n3XCycpsPy Adreno710/720/722は動くドライバが割と限られており、推奨は上の2つ Purpleのほうは最新のT30は710/720のサポートを打ち切っているのでT29を使用すること（続く</title>
-      <link>https://x.com/angr_rs/status/2090927838790861129</link>
-      <description>snailcaviar: GameNative /Winlator用の各デバイスの推奨ドライバまとめ 1. Adreno710/720の場合 https://t.co/oCixJzqmdC https://t.co/n3XCycpsPy Adreno710/720/722は動くドライバが割と限られており、推奨は上の2つ Purpleのほうは最新のT30は710/720のサポートを打ち切っているのでT29を使用すること（続く</description>
-      <pubDate>Fri, 21 Aug 2026 22:23:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/angr_rs/status/2090927838790861129</guid>
-    </item>
-    <item>
-      <title>@Hisui_S 4. コンテナの環境変数にWINEDLLOVERRIDESを追加してwinhttp=n,bを入力 Wine系でBepInEXによるModdingを行う際の定番の作法 実行環境により作法に細かい違いはあるが GameNative の場合はこれで良い https://t.co/gttTYOm37v</title>
-      <link>https://x.com/angr_rs/status/2090830636047360056</link>
-      <description>snailcaviar: @Hisui_S 4. コンテナの環境変数にWINEDLLOVERRIDESを追加してwinhttp=n,bを入力 Wine系でBepInEXによるModdingを行う際の定番の作法 実行環境により作法に細かい違いはあるが GameNative の場合はこれで良い https://t.co/gttTYOm37v</description>
-      <pubDate>Fri, 21 Aug 2026 15:57:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/angr_rs/status/2090830636047360056</guid>
-    </item>
-    <item>
-      <title>GameNative で活俠傳 日本語化Modを実行出来たので簡単なまとめ @Hisui_S氏のSteam Deckでの設定法を参考にしました 1.コンテナをproton-9.0-x86_64で作成する arm64ec環境だとBepInEXがうまく動かないことが多いのでx86_64 試しにarm64ecでやってた時はStringVaultで一生固まるのを解決出来ず諦めた https://t.co/Nvg7lJXSQO</title>
-      <link>https://x.com/angr_rs/status/2090830621304320027</link>
-      <description>snailcaviar: GameNative で活俠傳 日本語化Modを実行出来たので簡単なまとめ @Hisui_S氏のSteam Deckでの設定法を参考にしました 1.コンテナをproton-9.0-x86_64で作成する arm64ec環境だとBepInEXがうまく動かないことが多いのでx86_64 試しにarm64ecでやってた時はStringVaultで一生固まるのを解決出来ず諦めた https://t.co/Nvg7lJXSQO</description>
-      <pubDate>Fri, 21 Aug 2026 15:57:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/angr_rs/status/2090830621304320027</guid>
-    </item>
-    <item>
-      <title>GameNative はVauziのドライバ使おうとするとクラッシュするのがAdreno710使いにはだるい PurpleはまたA710対応無くなったし</title>
-      <link>https://x.com/angr_rs/status/2090654240842940627</link>
-      <description>snailcaviar: GameNative はVauziのドライバ使おうとするとクラッシュするのがAdreno710使いにはだるい PurpleはまたA710対応無くなったし</description>
-      <pubDate>Fri, 21 Aug 2026 04:16:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/angr_rs/status/2090654240842940627</guid>
-    </item>
-    <item>
-      <title>GameNative で活俠傳日本語MOD動いたよ https://t.co/WDW0Cj5JMX</title>
-      <link>https://x.com/angr_rs/status/2090652609535496260</link>
-      <description>snailcaviar: GameNative で活俠傳日本語MOD動いたよ https://t.co/WDW0Cj5JMX</description>
-      <pubDate>Fri, 21 Aug 2026 04:09:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/angr_rs/status/2090652609535496260</guid>
     </item>
   </channel>
 </rss>

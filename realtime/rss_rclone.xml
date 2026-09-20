@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>確かに、 rclone すげぇ。client id をgoogleに登録しなきゃだから一手間はあるけど、それも #chatgpt の助言で簡単だったし、なにせ、 gdoc から docx 変換もやってくれるのが最大のポイントかな。 https://t.co/qqNYgvRExr</title>
+      <link>https://x.com/naopi298/status/2101186897876046159</link>
+      <description>なおっぴ: 確かに、 rclone すげぇ。client id をgoogleに登録しなきゃだから一手間はあるけど、それも #chatgpt の助言で簡単だったし、なにせ、 gdoc から docx 変換もやってくれるのが最大のポイントかな。 https://t.co/qqNYgvRExr</description>
+      <pubDate>Sat, 19 Sep 2026 05:49:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/naopi298/status/2101186897876046159</guid>
+    </item>
+    <item>
       <title>Googledriveとかにリモートのサーバーからrsyncみたいなことやりたいと思ってたら rclone という素晴らしいOSSを発見して感謝しかない</title>
       <link>https://x.com/y___ih/status/2100772728852857246</link>
       <description>Yu Ihara: Googledriveとかにリモートのサーバーからrsyncみたいなことやりたいと思ってたら rclone という素晴らしいOSSを発見して感謝しかない</description>
@@ -262,13 +269,6 @@
       <description>ロイロット博士: Rclone で社内LANからBoxに接続しようとしたら、プロキシかファイアーウォールか何かわからないが邪魔して接続できない（応答が返らない）。外からだと問題なく接続できる。なんやろね。</description>
       <pubDate>Sat, 22 Aug 2026 14:16:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Dr_Roylott/status/2091167696419475520</guid>
-    </item>
-    <item>
-      <title>クラウドストレージも rclone か何かで自前の暗号レイヤーが必要</title>
-      <link>https://x.com/CypherLilium/status/2090690534520258654</link>
-      <description>リリア: クラウドストレージも rclone か何かで自前の暗号レイヤーが必要</description>
-      <pubDate>Fri, 21 Aug 2026 06:40:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CypherLilium/status/2090690534520258654</guid>
     </item>
     <item>
       <title>cf r2をマウントしてる 使いやすすぎてえぐい winfsp&amp; rclone はフリーズ祭りだからMountain Duck の有料プラン https://t.co/MSXtYG3CdL</title>
