@@ -5,13 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>@M1Piano 見様見真似でやってるけど面白いっすよ〜 消費電力的に常時起動Linuxサーバのポテンシャル感じてる 今個人的に話題の cloudflare tunnel も張れるっぽいから色々試すぞ‼️</title>
-      <link>https://x.com/Defo191157/status/2101516610377023787</link>
-      <description>Default: @M1Piano 見様見真似でやってるけど面白いっすよ〜 消費電力的に常時起動Linuxサーバのポテンシャル感じてる 今個人的に話題の cloudflare tunnel も張れるっぽいから色々試すぞ‼️</description>
-      <pubDate>Sun, 20 Sep 2026 03:39:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Defo191157/status/2101516610377023787</guid>
-    </item>
-    <item>
       <title>ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</title>
       <link>https://x.com/aiAnyDay/status/2101482786578423906</link>
       <description>aiAnyDay: ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</description>
@@ -122,6 +115,13 @@
       <description>あまね工研: Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</description>
       <pubDate>Thu, 17 Sep 2026 06:25:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/amanelab/status/2100471156499431932</guid>
+    </item>
+    <item>
+      <title>何度も書いてますが、古いパソコンに Ubuntu Server をインストールして、Nextcloud をインストール。Cloudflare でドメインを取って Cloudflare Tunnel で穴を開ければ、自家製クラウドストレージのできあがりです。おすすめ。 https://t.co/OemBQG0Id9</title>
+      <link>https://x.com/amanelab/status/2100462244962119871</link>
+      <description>あまね工研: 何度も書いてますが、古いパソコンに Ubuntu Server をインストールして、Nextcloud をインストール。Cloudflare でドメインを取って Cloudflare Tunnel で穴を開ければ、自家製クラウドストレージのできあがりです。おすすめ。 https://t.co/OemBQG0Id9</description>
+      <pubDate>Thu, 17 Sep 2026 05:49:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amanelab/status/2100462244962119871</guid>
     </item>
     <item>
       <title>P2P の マネージドプロバイダーとして Cloudflare に対応したらしい。 うまくいけば CouchDB 要らなくなるだろうか、 Cloudflare Tunnel 配下でホストすると TCP keep-alive しないからなのか 80秒で切れる事象があったな(1/N --- Release 1.0.29 · vrtmrz/obsidian-livesync https://t.co/uLbAZus1OV</title>
