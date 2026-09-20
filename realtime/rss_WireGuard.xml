@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>🔧 TailscaleがNetcat風の新ツール「Tailcat」を公開 Tailscaleが、Netcatと同様の操作感で WireGuard 暗号化とNAT越えを実現する「Tailcat」を公開した。 IPアドレスやポート設定不要で、生成されたアドレスを相手に渡すだけで2台のPCを接続可能。</title>
+      <link>https://x.com/yunta_fukurou/status/2101627709218537699</link>
+      <description>梟 〜GLEANINGS〜: 🔧 TailscaleがNetcat風の新ツール「Tailcat」を公開 Tailscaleが、Netcatと同様の操作感で WireGuard 暗号化とNAT越えを実現する「Tailcat」を公開した。 IPアドレスやポート設定不要で、生成されたアドレスを相手に渡すだけで2台のPCを接続可能。</description>
+      <pubDate>Sun, 20 Sep 2026 11:01:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yunta_fukurou/status/2101627709218537699</guid>
+    </item>
+    <item>
+      <title>wireguard 経由でWinに繋がらないなーと思ったらこの前鍵再生成していたの忘れてた tcpdumpとかで疎通確認とかしてた自分が阿呆らしい</title>
+      <link>https://x.com/caphosra/status/2101561990930194493</link>
+      <description>かふぉすら: wireguard 経由でWinに繋がらないなーと思ったらこの前鍵再生成していたの忘れてた tcpdumpとかで疎通確認とかしてた自分が阿呆らしい</description>
+      <pubDate>Sun, 20 Sep 2026 06:39:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/caphosra/status/2101561990930194493</guid>
+    </item>
+    <item>
       <title>@asuhareya この2つの条件でたまに同じことになります。 ・スマホのデザリング環境 ・ Wireguard 経由でアクセス</title>
       <link>https://x.com/Aomaru_S/status/2101173958322368838</link>
       <description>Aomaru.S: @asuhareya この2つの条件でたまに同じことになります。 ・スマホのデザリング環境 ・ Wireguard 経由でアクセス</description>
@@ -262,20 +276,6 @@
       <description>Cyberdark Impact: 📰 Gigazine 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/IBPNfrovsV #Gigazine #テクノロジー #IT</description>
       <pubDate>Sun, 13 Sep 2026 09:27:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kenebeii/status/2099067329263132672</guid>
-    </item>
-    <item>
-      <title>無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 - GIGAZINE https://t.co/yfBWICtKRY</title>
-      <link>https://x.com/KeiNishikawa3/status/2099062673505919010</link>
-      <description>Kei Nishikawa: 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 - GIGAZINE https://t.co/yfBWICtKRY</description>
-      <pubDate>Sun, 13 Sep 2026 09:08:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KeiNishikawa3/status/2099062673505919010</guid>
-    </item>
-    <item>
-      <title>無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/oUavA2XKVi</title>
-      <link>https://x.com/gigazine/status/2099060593370042582</link>
-      <description>GIGAZINE(ギガジン): 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/oUavA2XKVi</description>
-      <pubDate>Sun, 13 Sep 2026 09:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigazine/status/2099060593370042582</guid>
     </item>
   </channel>
 </rss>
