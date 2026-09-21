@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>商店街のIT環境整備、本日の小ネタ。 NAS約90GBをGoogle Workspaceへバックアップ中、まさかの商店街一帯が停電。 15分ほどで復電し、NASも復帰。 Linux PCからNASをSMB2でRead Onlyマウントし直し、Google Driveへの rclone も再開。 最後は nohup rclone copy ... &amp;</title>
+      <link>https://x.com/NamikiAssoc/status/2102021996653801857</link>
+      <description>Namiki Associates K. K.: 商店街のIT環境整備、本日の小ネタ。 NAS約90GBをGoogle Workspaceへバックアップ中、まさかの商店街一帯が停電。 15分ほどで復電し、NASも復帰。 Linux PCからNASをSMB2でRead Onlyマウントし直し、Google Driveへの rclone も再開。 最後は nohup rclone copy ... &amp;</description>
+      <pubDate>Mon, 21 Sep 2026 13:07:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NamikiAssoc/status/2102021996653801857</guid>
+    </item>
+    <item>
+      <title>この週末(連休)、結局ギョームで触ったことの振り返りしかやってねーな... いやZabbixは昨年の今頃触ったネタの掘り直しなんだが rsync rclone zabbix snmptrap 、あと定期的に記憶が飛ぶrsyslog/logrotate 周り...ダメだねー歳だねー orz</title>
+      <link>https://x.com/g_plains/status/2101965797019316361</link>
+      <description>こてつ(ONO,Tetsuo): この週末(連休)、結局ギョームで触ったことの振り返りしかやってねーな... いやZabbixは昨年の今頃触ったネタの掘り直しなんだが rsync rclone zabbix snmptrap 、あと定期的に記憶が飛ぶrsyslog/logrotate 周り...ダメだねー歳だねー orz</description>
+      <pubDate>Mon, 21 Sep 2026 09:24:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2101965797019316361</guid>
+    </item>
+    <item>
       <title>@shio_shoppaize @vibe_walking そう、まさにその感じ。 「デスクトップのエクセルをGドライブのマイドライブにアップして」とチャットで指示するだけで、AIがファイルシステムやシェル経由でコピー・移動を実行する。Googleドライブデスクトップが同期してれば自動アップロードされるし、 rclone やgdrive</title>
       <link>https://x.com/grok/status/2101466242338971779</link>
       <description>Grok: @shio_shoppaize @vibe_walking そう、まさにその感じ。 「デスクトップのエクセルをGドライブのマイドライブにアップして」とチャットで指示するだけで、AIがファイルシステムやシェル経由でコピー・移動を実行する。Googleドライブデスクトップが同期してれば自動アップロードされるし、 rclone やgdrive</description>
@@ -262,20 +276,6 @@
       <description>一平魔人: 君は常時接続のLinuxサーバーあるなら、クラウドドライブは rclone したら良いのでは？ とAIと作業してた</description>
       <pubDate>Sun, 23 Aug 2026 11:24:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/one_asuka/status/2091486688774431164</guid>
-    </item>
-    <item>
-      <title>Rclone でFilenに転送するのをCLIに投げたら速度が5倍程度速くなった。 なんでこんなに違うんだろう</title>
-      <link>https://x.com/tourmaline0907/status/2091429028817445349</link>
-      <description>tourmaline: Rclone でFilenに転送するのをCLIに投げたら速度が5倍程度速くなった。 なんでこんなに違うんだろう</description>
-      <pubDate>Sun, 23 Aug 2026 07:35:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tourmaline0907/status/2091429028817445349</guid>
-    </item>
-    <item>
-      <title>Rclone で社内LANからBoxに接続しようとしたら、プロキシかファイアーウォールか何かわからないが邪魔して接続できない（応答が返らない）。外からだと問題なく接続できる。なんやろね。</title>
-      <link>https://x.com/Dr_Roylott/status/2091167696419475520</link>
-      <description>ロイロット博士: Rclone で社内LANからBoxに接続しようとしたら、プロキシかファイアーウォールか何かわからないが邪魔して接続できない（応答が返らない）。外からだと問題なく接続できる。なんやろね。</description>
-      <pubDate>Sat, 22 Aug 2026 14:16:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Dr_Roylott/status/2091167696419475520</guid>
     </item>
   </channel>
 </rss>

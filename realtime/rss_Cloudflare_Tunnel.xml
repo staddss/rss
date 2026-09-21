@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅サーバーは固定IP、やらポートの開放、電気代、見た目とか、ハードルの高さで文字通りオタクだった時代から、トンネルは Cloudflare Tunnel なりで、Gitのデプロイ先は小さい自宅サーバー時代が来るな絶対、てか来てるな</title>
+      <link>https://x.com/yxmxgxn/status/2102039512520220884</link>
+      <description>よみがな: 自宅サーバーは固定IP、やらポートの開放、電気代、見た目とか、ハードルの高さで文字通りオタクだった時代から、トンネルは Cloudflare Tunnel なりで、Gitのデプロイ先は小さい自宅サーバー時代が来るな絶対、てか来てるな</description>
+      <pubDate>Mon, 21 Sep 2026 14:17:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yxmxgxn/status/2102039512520220884</guid>
+    </item>
+    <item>
       <title>昨日まで動いていたAIシステムが、NASのアップデート後に突然死にました。 Difyが開かない。 PostgreSQLが起動しない。 APIも怪しい。 Cloudflare Tunnel もある。 「どこから見ればいいんだよ」という状態。 そこでログや画面をAIに見せながら、Dockerの中を一個ずつ追って復旧しました。 ↓続き https://t.co/82riSwOUuh</title>
       <link>https://x.com/ko_jimachi330/status/2101943820191674501</link>
       <description>Ko-jimachi: 昨日まで動いていたAIシステムが、NASのアップデート後に突然死にました。 Difyが開かない。 PostgreSQLが起動しない。 APIも怪しい。 Cloudflare Tunnel もある。 「どこから見ればいいんだよ」という状態。 そこでログや画面をAIに見せながら、Dockerの中を一個ずつ追って復旧しました。 ↓続き https://t.co/82riSwOUuh</description>
@@ -269,13 +276,6 @@
       <description>I have an apple@Pic unrelated: 無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</description>
       <pubDate>Wed, 09 Sep 2026 17:49:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/playstation2_ch/status/2097744236204708132</guid>
-    </item>
-    <item>
-      <title>使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</title>
-      <link>https://x.com/shiryu_dev/status/2097724980201226251</link>
-      <description>_SHIRYU.𝕏: 使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</description>
-      <pubDate>Wed, 09 Sep 2026 16:33:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shiryu_dev/status/2097724980201226251</guid>
     </item>
   </channel>
 </rss>

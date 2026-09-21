@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/daily_eventlog/status/2101659521999585366</guid>
     </item>
     <item>
+      <title>@djdevoche 初夏に AMD Ryzen AI Max 搭載PCを「高くなりすぎ！」と思いながら思い切って買いましたが、まさかその後も上がり続けるとは... 今後も年単位で見通せないので、買える時があったら思い切るしかなさそうです 😇</title>
+      <link>https://x.com/old_pgmrs_will/status/2101605268778082601</link>
+      <description>いにしえ@高信頼AIニュース&quot;NeuralWire.org&quot;運営｜Will Oldgram: @djdevoche 初夏に AMD Ryzen AI Max 搭載PCを「高くなりすぎ！」と思いながら思い切って買いましたが、まさかその後も上がり続けるとは... 今後も年単位で見通せないので、買える時があったら思い切るしかなさそうです 😇</description>
+      <pubDate>Sun, 20 Sep 2026 09:31:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2101605268778082601</guid>
+    </item>
+    <item>
       <title>#Codexの使用量をあと1日半で使い切るぞチャレンジ OpenJevを Ryzen AI Max + 395 Strix HaloのXDNA NPUに移植する 実装前：99％ 実装後：96％ https://t.co/VT0hZEcWql</title>
       <link>https://x.com/yasei_no_otoko/status/2101287945282183191</link>
       <description>野生の男: #Codexの使用量をあと1日半で使い切るぞチャレンジ OpenJevを Ryzen AI Max + 395 Strix HaloのXDNA NPUに移植する 実装前：99％ 実装後：96％ https://t.co/VT0hZEcWql</description>
@@ -269,13 +276,6 @@
       <description>mikaeru: 検証機は GMKtec EVO-X2。 Ryzen AI Max + 395 + Radeon 8060S、 メモリ128GBという構成。 Windows 11上でROCm 7.1.1を入れ、 ComfyUIで画像生成、LM Studioで LLM推論まで動作確認したという内容。 GPUをCPUと統合メモリで共有する 設計なので、VRAMの壁が来ない点が 特徴的だった。</description>
       <pubDate>Sun, 13 Sep 2026 03:15:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mikaeru676523/status/2098973876508299394</guid>
-    </item>
-    <item>
-      <title>MS-S1 MAX-P495 という 192GB ユニファイドメモリ + Ryzen AI Max + PRO 495 のPCがもうすぐ発売されるらしい。欲しい...！ ただし欧州の公式ページで情報を見ると €7??? となっており、最安の7000ユーロを仮定するとどんなに安く見積もっても124万円はしそう😇 https://t.co/TEi5seWVsm</title>
-      <link>https://x.com/gosrum/status/2098945367593370012</link>
-      <description>金のニワトリ: MS-S1 MAX-P495 という 192GB ユニファイドメモリ + Ryzen AI Max + PRO 495 のPCがもうすぐ発売されるらしい。欲しい...！ ただし欧州の公式ページで情報を見ると €7??? となっており、最安の7000ユーロを仮定するとどんなに安く見積もっても124万円はしそう😇 https://t.co/TEi5seWVsm</description>
-      <pubDate>Sun, 13 Sep 2026 01:22:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gosrum/status/2098945367593370012</guid>
     </item>
   </channel>
 </rss>
