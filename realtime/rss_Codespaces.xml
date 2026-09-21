@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短判断ガイド： Codespaces vs Gitpod vs Cloud9（PoC手順付き） https://t.co/879Q0pEZHR #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2101831728486641676</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短判断ガイド： Codespaces vs Gitpod vs Cloud9（PoC手順付き） https://t.co/879Q0pEZHR #エンジニア #ChatGPT #AI</description>
+      <pubDate>Mon, 21 Sep 2026 00:31:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2101831728486641676</guid>
+    </item>
+    <item>
       <title>@labelmake OBSのプラグインのインストール時の挙動を Codespaces 上のGUIでテストするやつです。CIでも動いてます。僕が書きました</title>
       <link>https://x.com/umireon/status/2101601348882202945</link>
       <description>うみれおん（Kaito Udagawa）: @labelmake OBSのプラグインのインストール時の挙動を Codespaces 上のGUIでテストするやつです。CIでも動いてます。僕が書きました</description>
@@ -269,13 +276,6 @@
       <description>Nori（情報ブロイラー）: Disk容量が足りないっぽいので、 Codespaces で動かすのをやめて、Localで動かすことに。 https://t.co/Mazjx65nn0 を使ってみる。</description>
       <pubDate>Sat, 29 Aug 2026 03:10:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/bgnori/status/2093536816188273026</guid>
-    </item>
-    <item>
-      <title>やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</title>
-      <link>https://x.com/mikoshiba_kyu/status/2093511207701323916</link>
-      <description>御子柴きゅう: やっぱりClaude Code Routinesの環境設定、リポ選択式なんだからDevContainers読み込んでほしい… CodeSpaces と同じように</description>
-      <pubDate>Sat, 29 Aug 2026 01:29:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mikoshiba_kyu/status/2093511207701323916</guid>
     </item>
   </channel>
 </rss>

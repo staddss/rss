@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>昨日まで動いていたAIシステムが、NASのアップデート後に突然死にました。 Difyが開かない。 PostgreSQLが起動しない。 APIも怪しい。 Cloudflare Tunnel もある。 「どこから見ればいいんだよ」という状態。 そこでログや画面をAIに見せながら、Dockerの中を一個ずつ追って復旧しました。 ↓続き https://t.co/82riSwOUuh</title>
+      <link>https://x.com/ko_jimachi330/status/2101943820191674501</link>
+      <description>Ko-jimachi: 昨日まで動いていたAIシステムが、NASのアップデート後に突然死にました。 Difyが開かない。 PostgreSQLが起動しない。 APIも怪しい。 Cloudflare Tunnel もある。 「どこから見ればいいんだよ」という状態。 そこでログや画面をAIに見せながら、Dockerの中を一個ずつ追って復旧しました。 ↓続き https://t.co/82riSwOUuh</description>
+      <pubDate>Mon, 21 Sep 2026 07:57:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ko_jimachi330/status/2101943820191674501</guid>
+    </item>
+    <item>
+      <title>@M1Piano 見様見真似でやってるけど面白いっすよ〜 消費電力的に常時起動Linuxサーバのポテンシャル感じてる 今個人的に話題の cloudflare tunnel も張れるっぽいから色々試すぞ‼️</title>
+      <link>https://x.com/Defo191157/status/2101516610377023787</link>
+      <description>Default: @M1Piano 見様見真似でやってるけど面白いっすよ〜 消費電力的に常時起動Linuxサーバのポテンシャル感じてる 今個人的に話題の cloudflare tunnel も張れるっぽいから色々試すぞ‼️</description>
+      <pubDate>Sun, 20 Sep 2026 03:39:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Defo191157/status/2101516610377023787</guid>
+    </item>
+    <item>
       <title>ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</title>
       <link>https://x.com/aiAnyDay/status/2101482786578423906</link>
       <description>aiAnyDay: ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</description>
@@ -262,20 +276,6 @@
       <description>_SHIRYU.𝕏: 使ってなかったサーバーを Cloudflare Tunnel 使ってWEBサーバーにしますた https://t.co/KptezECjt0</description>
       <pubDate>Wed, 09 Sep 2026 16:33:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shiryu_dev/status/2097724980201226251</guid>
-    </item>
-    <item>
-      <title>@uturned0 IPv4がなくても出口だけあれば自宅サーバは公開できます Cloudflare Tunnel と同系統なら Tunnet の tunnet tunnel もあります https://t.co/OIj7BaSlzf</title>
-      <link>https://x.com/tunnetio/status/2097658215659974718</link>
-      <description>𝗧𝘂𝗻𝗻𝗲𝘁.io: @uturned0 IPv4がなくても出口だけあれば自宅サーバは公開できます Cloudflare Tunnel と同系統なら Tunnet の tunnet tunnel もあります https://t.co/OIj7BaSlzf</description>
-      <pubDate>Wed, 09 Sep 2026 12:07:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tunnetio/status/2097658215659974718</guid>
-    </item>
-    <item>
-      <title>IPv6 Plusのみなさま、自宅サーバどうしてますか？ IPv4が手元からなくなると思っておらず悩み中。 Cloudflare Tunnel ですかね？</title>
-      <link>https://x.com/uturned0/status/2097649647682801677</link>
-      <description>くじ:uturned: IPv6 Plusのみなさま、自宅サーバどうしてますか？ IPv4が手元からなくなると思っておらず悩み中。 Cloudflare Tunnel ですかね？</description>
-      <pubDate>Wed, 09 Sep 2026 11:33:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/uturned0/status/2097649647682801677</guid>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/hujifuji6/status/2101713084805181816</guid>
     </item>
     <item>
+      <title>そういえば直近で wireguard が何故か通らず自宅開発環境にアクセスできないことで大変不快な思いをしたので、流石に生 wireguard 構成刷新の機運が高まっている</title>
+      <link>https://x.com/maetin_coins/status/2101653084682477783</link>
+      <description>まえちん: そういえば直近で wireguard が何故か通らず自宅開発環境にアクセスできないことで大変不快な思いをしたので、流石に生 wireguard 構成刷新の機運が高まっている</description>
+      <pubDate>Sun, 20 Sep 2026 12:41:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maetin_coins/status/2101653084682477783</guid>
+    </item>
+    <item>
       <title>🔧 TailscaleがNetcat風の新ツール「Tailcat」を公開 Tailscaleが、Netcatと同様の操作感で WireGuard 暗号化とNAT越えを実現する「Tailcat」を公開した。 IPアドレスやポート設定不要で、生成されたアドレスを相手に渡すだけで2台のPCを接続可能。</title>
       <link>https://x.com/yunta_fukurou/status/2101627709218537699</link>
       <description>梟 〜GLEANINGS〜: 🔧 TailscaleがNetcat風の新ツール「Tailcat」を公開 Tailscaleが、Netcatと同様の操作感で WireGuard 暗号化とNAT越えを実現する「Tailcat」を公開した。 IPアドレスやポート設定不要で、生成されたアドレスを相手に渡すだけで2台のPCを接続可能。</description>
@@ -269,13 +276,6 @@
       <description>技術ブログのモーリタロー: 📑 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 🅱 はてなブックマーク テクノロジー新着 より https://t.co/nFwQhKGcwo</description>
       <pubDate>Sun, 13 Sep 2026 12:01:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mohritaroh/status/2099106237275164861</guid>
-    </item>
-    <item>
-      <title>無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/ZcfTGVVtWI</title>
-      <link>https://x.com/hirofuji84/status/2099073298688889246</link>
-      <description>ひろふじ84: 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能 https://t.co/ZcfTGVVtWI</description>
-      <pubDate>Sun, 13 Sep 2026 09:50:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hirofuji84/status/2099073298688889246</guid>
     </item>
   </channel>
 </rss>
