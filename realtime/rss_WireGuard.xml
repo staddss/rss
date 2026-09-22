@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</title>
+      <link>https://x.com/dali1331/status/2102401733909528628</link>
+      <description>dream.more: 針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</description>
+      <pubDate>Tue, 22 Sep 2026 14:16:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dali1331/status/2102401733909528628</guid>
+    </item>
+    <item>
       <title>Minecraft ↓ localhost:25565 ↓ Tailcat ↓ WireGuard 暗号化通信 ↓ 直接P2P または DERP Relay ↓ Tailcat ↓ localhost:25565 ↓ Minecraft Server 多分こんな感じだけど、双方にTailcatが必要だけどね いけそう</title>
       <link>https://x.com/pinkoro2979/status/2102333797912265039</link>
       <description>ぴんころ: Minecraft ↓ localhost:25565 ↓ Tailcat ↓ WireGuard 暗号化通信 ↓ 直接P2P または DERP Relay ↓ Tailcat ↓ localhost:25565 ↓ Minecraft Server 多分こんな感じだけど、双方にTailcatが必要だけどね いけそう</description>
       <pubDate>Tue, 22 Sep 2026 09:46:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pinkoro2979/status/2102333797912265039</guid>
+    </item>
+    <item>
+      <title>家ルーターに WireGuard 入れ外出先に Quest 持ってくだけで快適に PCVR できるようになった！遅延も感じない</title>
+      <link>https://x.com/kisenone/status/2102268665836261592</link>
+      <description>きせのん: 家ルーターに WireGuard 入れ外出先に Quest 持ってくだけで快適に PCVR できるようになった！遅延も感じない</description>
+      <pubDate>Tue, 22 Sep 2026 05:28:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kisenone/status/2102268665836261592</guid>
     </item>
     <item>
       <title>wireguard が楽すぎて、IPSEC使う気になれない。</title>
@@ -262,20 +276,6 @@
       <description>優羽: 固定グローバルIP持ってるVyOSで WireGuard トンネル生やしたけど、tailscaleと違ってめちゃくちゃシンプルでいいね 自分で色々いじれるのは大事</description>
       <pubDate>Tue, 15 Sep 2026 03:03:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/public_zakojb/status/2099695480762691769</guid>
-    </item>
-    <item>
-      <title>ステータスチェッカーのために自宅サーバーとVPSをVPNで接続する必要がある 今回はゆっくりボイス読み上げbotなどでも使用している WireGuard を選択</title>
-      <link>https://x.com/siyukat/status/2099480420152988135</link>
-      <description>siyukatu: ステータスチェッカーのために自宅サーバーとVPSをVPNで接続する必要がある 今回はゆっくりボイス読み上げbotなどでも使用している WireGuard を選択</description>
-      <pubDate>Mon, 14 Sep 2026 12:48:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/siyukat/status/2099480420152988135</guid>
-    </item>
-    <item>
-      <title>WireGuard 環境の構築とクライアント管理をブラウザからまとめてできる無料ツール「 WireGuard Easy」が公開されてるみたい。QRコード表示や設定ファイルのダウンロードもできて便利そう。https://t.co/H9BblY217m</title>
-      <link>https://x.com/NikotamaDsPapa/status/2099327278987587786</link>
-      <description>二子玉川のデータサイエンティスト: WireGuard 環境の構築とクライアント管理をブラウザからまとめてできる無料ツール「 WireGuard Easy」が公開されてるみたい。QRコード表示や設定ファイルのダウンロードもできて便利そう。https://t.co/H9BblY217m</description>
-      <pubDate>Mon, 14 Sep 2026 02:40:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NikotamaDsPapa/status/2099327278987587786</guid>
     </item>
   </channel>
 </rss>

@@ -82,13 +82,6 @@
       <guid isPermaLink="true">https://x.com/todansalp/status/2100042056119070878</guid>
     </item>
     <item>
-      <title>@omochichi GameNative 動作メモ助かります。国内正規は店舗ページの構成・価格を見てからで十分です。二画面（Duo／Thor系）と比較するなら、単画面で割り切れるかが先です。</title>
-      <link>https://x.com/gajeneko/status/2099740200486265261</link>
-      <description>ガジェねこ: @omochichi GameNative 動作メモ助かります。国内正規は店舗ページの構成・価格を見てからで十分です。二画面（Duo／Thor系）と比較するなら、単画面で割り切れるかが先です。</description>
-      <pubDate>Tue, 15 Sep 2026 06:00:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gajeneko/status/2099740200486265261</guid>
-    </item>
-    <item>
       <title>@missymasker @show_nao PS2以上を期待するSoCでは無いと思います。でも GameNative の動作は気になりますね。少なくともMANGMI AIR Xよりはいい結果になるとおもいますので。</title>
       <link>https://x.com/omochichi/status/2099378577099878591</link>
       <description>もち: @missymasker @show_nao PS2以上を期待するSoCでは無いと思います。でも GameNative の動作は気になりますね。少なくともMANGMI AIR Xよりはいい結果になるとおもいますので。</description>
@@ -276,6 +269,13 @@
       <description>snailcaviar: GameNative でVauziドライバを使う場合はzip内のmeta.json内のName中の,を取り除いてやれば使用可能になる模様</description>
       <pubDate>Mon, 24 Aug 2026 03:58:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/angr_rs/status/2091736908187767060</guid>
+    </item>
+    <item>
+      <title>PCゲームをAndroid端末で直接動かす「 GameNative 」v1.2.0が登場。 新機能では目標FPSに合わせてCPU・GPU性能をリアルタイム調整。30FPSを維持しながらCPUクロックを約80％下げ、温度67℃・ファン25〜35％に抑えた検証結果も公開されています。 https://t.co/NriL488CiX</title>
+      <link>https://x.com/gamingstcom/status/2091680232029978846</link>
+      <description>ゲーミングスタイル: PCゲームをAndroid端末で直接動かす「 GameNative 」v1.2.0が登場。 新機能では目標FPSに合わせてCPU・GPU性能をリアルタイム調整。30FPSを維持しながらCPUクロックを約80％下げ、温度67℃・ファン25〜35％に抑えた検証結果も公開されています。 https://t.co/NriL488CiX</description>
+      <pubDate>Mon, 24 Aug 2026 00:13:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gamingstcom/status/2091680232029978846</guid>
     </item>
   </channel>
 </rss>
