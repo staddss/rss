@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard が楽すぎて、IPSEC使う気になれない。</title>
+      <link>https://x.com/siskrn/status/2102218160019828858</link>
+      <description>Toshifumi Sakaguchi: wireguard が楽すぎて、IPSEC使う気になれない。</description>
+      <pubDate>Tue, 22 Sep 2026 02:07:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/siskrn/status/2102218160019828858</guid>
+    </item>
+    <item>
+      <title>Tailscaleチームが、中央サーバー不要で動くP2P暗号化netcat「Tailcat」をOSS公開しました。 TailscaleアカウントやOSのroot権限が不要で、Tailscale中核の「magicsock」を活用して端末間で WireGuard トンネルを直接確立します。 https://t.co/xVO1moTpH4</title>
+      <link>https://x.com/masato_ai_log/status/2102027568291754000</link>
+      <description>Masato｜AIを現実につなぐ実験屋: Tailscaleチームが、中央サーバー不要で動くP2P暗号化netcat「Tailcat」をOSS公開しました。 TailscaleアカウントやOSのroot権限が不要で、Tailscale中核の「magicsock」を活用して端末間で WireGuard トンネルを直接確立します。 https://t.co/xVO1moTpH4</description>
+      <pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/masato_ai_log/status/2102027568291754000</guid>
+    </item>
+    <item>
       <title>@FrankkkkkkLau WARP是用的 wireguard ?</title>
       <link>https://x.com/notrealnatsume/status/2101980668658110553</link>
       <description>subnet: @FrankkkkkkLau WARP是用的 wireguard ?</description>
@@ -262,20 +276,6 @@
       <description>Mizuki: 無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能</description>
       <pubDate>Mon, 14 Sep 2026 02:38:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mz_k41/status/2099326991426359464</guid>
-    </item>
-    <item>
-      <title>&quot;無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能&quot; https://t.co/3joOfeWCNz</title>
-      <link>https://x.com/anchortag_topic/status/2099292304393826641</link>
-      <description>anchortagTopic: &quot;無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能&quot; https://t.co/3joOfeWCNz</description>
-      <pubDate>Mon, 14 Sep 2026 00:21:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/anchortag_topic/status/2099292304393826641</guid>
-    </item>
-    <item>
-      <title>うむ、どうもルーターがもつOpenVPNサーバは、書き出す設定ファイルに問題があるっぽく、最新のWindowsやLinuxではセキュリティ関係の互換性でうまく動作しないっぽい。 WireGuard VPNのサーバ機能があったので、これで設定書き出してためしてみた。</title>
-      <link>https://x.com/Yayuyo01Yayuyo/status/2099129084848865578</link>
-      <description>やゆよさん@クソリプ王: うむ、どうもルーターがもつOpenVPNサーバは、書き出す設定ファイルに問題があるっぽく、最新のWindowsやLinuxではセキュリティ関係の互換性でうまく動作しないっぽい。 WireGuard VPNのサーバ機能があったので、これで設定書き出してためしてみた。</description>
-      <pubDate>Sun, 13 Sep 2026 13:32:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yayuyo01Yayuyo/status/2099129084848865578</guid>
     </item>
   </channel>
 </rss>

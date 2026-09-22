@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GNOME Remote Desktop 50でビデオキャプチャデバイスのリダイレクトに対応した（mstsc.exe側でビデオキャプチャデバイスを有効にするとLinux側で PipeWire を通じて見える）んだけど、思ったより全然遅延がなくてちゃんとしてた。</title>
+      <link>https://x.com/shimarin/status/2102217423172866263</link>
+      <description>嶋田大貴: GNOME Remote Desktop 50でビデオキャプチャデバイスのリダイレクトに対応した（mstsc.exe側でビデオキャプチャデバイスを有効にするとLinux側で PipeWire を通じて見える）んだけど、思ったより全然遅延がなくてちゃんとしてた。</description>
+      <pubDate>Tue, 22 Sep 2026 02:04:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shimarin/status/2102217423172866263</guid>
+    </item>
+    <item>
       <title>Linux向けで出してるの有名どこだとシンセのVitalくらいしか知らないっすね Waves,iZotope,fabFilterからMelda,kiloheartsなんかの無料プラグインまで、だいたい非対応 Win向けのVSTやLV2/CLAPを抽出しても当然動くはずもなく（実験済み あとDAWは Pipewire とFlatpakのせいで混沌です https://t.co/p8Opr9jioG</title>
       <link>https://x.com/OnslaughtktnP/status/2101624949731733548</link>
       <description>猛攻型ことねP(ひうが) | 低浮上 Discord欲しい方ご連絡を: Linux向けで出してるの有名どこだとシンセのVitalくらいしか知らないっすね Waves,iZotope,fabFilterからMelda,kiloheartsなんかの無料プラグインまで、だいたい非対応 Win向けのVSTやLV2/CLAPを抽出しても当然動くはずもなく（実験済み あとDAWは Pipewire とFlatpakのせいで混沌です https://t.co/p8Opr9jioG</description>
@@ -276,13 +283,6 @@
       <description>atty303: WineでASIO使えることを知ったのでINFINITASで試したら動いて、体感かなり光るようになったので意外とちゃんと音合わせで叩いているんだなぁ。 [GitHub - M0n7y5/pipeasio: ASIO to Pipewire . Better solution for low latency audio inside Wine. Works with SteamRT. ·</description>
       <pubDate>Sat, 29 Aug 2026 07:22:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/atty303/status/2093600210266333271</guid>
-    </item>
-    <item>
-      <title>pipewire をjackにぶん投げて音なった</title>
-      <link>https://x.com/knmusicstudio/status/2091912245135782100</link>
-      <description>Syo.D🔯KuroNekoMusicStudio: pipewire をjackにぶん投げて音なった</description>
-      <pubDate>Mon, 24 Aug 2026 15:35:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/knmusicstudio/status/2091912245135782100</guid>
     </item>
   </channel>
 </rss>
