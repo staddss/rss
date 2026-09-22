@@ -54,13 +54,6 @@
       <guid isPermaLink="true">https://x.com/caphosra/status/2101561990930194493</guid>
     </item>
     <item>
-      <title>@asuhareya この2つの条件でたまに同じことになります。 ・スマホのデザリング環境 ・ Wireguard 経由でアクセス</title>
-      <link>https://x.com/Aomaru_S/status/2101173958322368838</link>
-      <description>Aomaru.S: @asuhareya この2つの条件でたまに同じことになります。 ・スマホのデザリング環境 ・ Wireguard 経由でアクセス</description>
-      <pubDate>Sat, 19 Sep 2026 04:58:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Aomaru_S/status/2101173958322368838</guid>
-    </item>
-    <item>
       <title>Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</title>
       <link>https://x.com/kazto_dev/status/2101144593115033963</link>
       <description>kazto = NULL;: Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</description>
@@ -276,6 +269,13 @@
       <description>anchortagTopic: &quot;無料で WireGuard を簡単にインストール・管理できる「 WireGuard Easy」、クライアントの一覧表示・作成・編集・削除・有効化・無効化・QRコード表示・設定ファイルのダウンロードなどが可能&quot; https://t.co/3joOfeWCNz</description>
       <pubDate>Mon, 14 Sep 2026 00:21:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/anchortag_topic/status/2099292304393826641</guid>
+    </item>
+    <item>
+      <title>うむ、どうもルーターがもつOpenVPNサーバは、書き出す設定ファイルに問題があるっぽく、最新のWindowsやLinuxではセキュリティ関係の互換性でうまく動作しないっぽい。 WireGuard VPNのサーバ機能があったので、これで設定書き出してためしてみた。</title>
+      <link>https://x.com/Yayuyo01Yayuyo/status/2099129084848865578</link>
+      <description>やゆよさん@クソリプ王: うむ、どうもルーターがもつOpenVPNサーバは、書き出す設定ファイルに問題があるっぽく、最新のWindowsやLinuxではセキュリティ関係の互換性でうまく動作しないっぽい。 WireGuard VPNのサーバ機能があったので、これで設定書き出してためしてみた。</description>
+      <pubDate>Sun, 13 Sep 2026 13:32:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yayuyo01Yayuyo/status/2099129084848865578</guid>
     </item>
   </channel>
 </rss>
