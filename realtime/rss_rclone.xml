@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/NamikiAssoc/status/2102021996653801857</guid>
     </item>
     <item>
+      <title>Rclone 使って1つのフォルダを複数のクラウドサービスに分散ULできることが分かった。 試してみて技術的に面白かったけど自分的に意味があるかというと……。 そもそも10TBオーバーのおうちクラウドにNextcloudでアクセスできる今、数十GBあったところで誤差。</title>
+      <link>https://x.com/makotofd2/status/2101987584046137470</link>
+      <description>法条真琴@次どこ行こう？: Rclone 使って1つのフォルダを複数のクラウドサービスに分散ULできることが分かった。 試してみて技術的に面白かったけど自分的に意味があるかというと……。 そもそも10TBオーバーのおうちクラウドにNextcloudでアクセスできる今、数十GBあったところで誤差。</description>
+      <pubDate>Mon, 21 Sep 2026 10:51:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/makotofd2/status/2101987584046137470</guid>
+    </item>
+    <item>
       <title>この週末(連休)、結局ギョームで触ったことの振り返りしかやってねーな... いやZabbixは昨年の今頃触ったネタの掘り直しなんだが rsync rclone zabbix snmptrap 、あと定期的に記憶が飛ぶrsyslog/logrotate 周り...ダメだねー歳だねー orz</title>
       <link>https://x.com/g_plains/status/2101965797019316361</link>
       <description>こてつ(ONO,Tetsuo): この週末(連休)、結局ギョームで触ったことの振り返りしかやってねーな... いやZabbixは昨年の今頃触ったネタの掘り直しなんだが rsync rclone zabbix snmptrap 、あと定期的に記憶が飛ぶrsyslog/logrotate 周り...ダメだねー歳だねー orz</description>

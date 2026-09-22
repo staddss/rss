@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅鯖でのB地区復旧は案外スムースに着地したので、 CloudFlare Tunnel + Access で外部からの閲覧までもっていこう。職場でも似たようなことやってるし。 ただ一般公開するには怖い。IISそんな詳しくないし（Apacherなりに詳しいわけでもないが。</title>
+      <link>https://x.com/exbaron/status/2102341415426760726</link>
+      <description>ギガ男爵（中年男性？: 自宅鯖でのB地区復旧は案外スムースに着地したので、 CloudFlare Tunnel + Access で外部からの閲覧までもっていこう。職場でも似たようなことやってるし。 ただ一般公開するには怖い。IISそんな詳しくないし（Apacherなりに詳しいわけでもないが。</description>
+      <pubDate>Tue, 22 Sep 2026 10:17:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/exbaron/status/2102341415426760726</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 経由になったことで速度が下がるかどうか試さないとな。</title>
+      <link>https://x.com/sashisashi569/status/2102334709015703573</link>
+      <description>sashisashi: Cloudflare Tunnel 経由になったことで速度が下がるかどうか試さないとな。</description>
+      <pubDate>Tue, 22 Sep 2026 09:50:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2102334709015703573</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 便利すぎるマジで</title>
+      <link>https://x.com/kusozakojavaeng/status/2102324349361647724</link>
+      <description>クソザコJava太郎: Cloudflare Tunnel 便利すぎるマジで</description>
+      <pubDate>Tue, 22 Sep 2026 09:09:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kusozakojavaeng/status/2102324349361647724</guid>
+    </item>
+    <item>
       <title>自宅サーバーは固定IP、やらポートの開放、電気代、見た目とか、ハードルの高さで文字通りオタクだった時代から、トンネルは Cloudflare Tunnel なりで、Gitのデプロイ先は小さい自宅サーバー時代が来るな絶対、てか来てるな</title>
       <link>https://x.com/yxmxgxn/status/2102039512520220884</link>
       <description>よみがな: 自宅サーバーは固定IP、やらポートの開放、電気代、見た目とか、ハードルの高さで文字通りオタクだった時代から、トンネルは Cloudflare Tunnel なりで、Gitのデプロイ先は小さい自宅サーバー時代が来るな絶対、てか来てるな</description>
@@ -255,34 +276,6 @@
       <description>Akira: 旅行して開発が滞ったので今さらながら自宅サーバやPCのネットワークを変更。 自宅ミニPC鯖は Cloudflare Tunnel で外から ssh やデプロイ可能に。 ゲームPCのGPU使った開発したいので、こっちは Tailscale で繋がるように。 やっぱり環境を変えないと見えてこないものあるなぁ</description>
       <pubDate>Fri, 11 Sep 2026 02:39:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akiraak/status/2098239862898131296</guid>
-    </item>
-    <item>
-      <title>なんでTailscale死んでるんだと思ったらExpiredだった Cloudflare Tunnel 経由でダッシュボードは入れるようにしといてファインプレーすぎた、良かった</title>
-      <link>https://x.com/nanasi_rasi/status/2098206389084864848</link>
-      <description>ななしぃ: なんでTailscale死んでるんだと思ったらExpiredだった Cloudflare Tunnel 経由でダッシュボードは入れるようにしといてファインプレーすぎた、良かった</description>
-      <pubDate>Fri, 11 Sep 2026 00:26:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanasi_rasi/status/2098206389084864848</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel エラッてる～～～～ Blogサイトアクセスできてないじゃん！</title>
-      <link>https://x.com/abdda149/status/2098048600706281762</link>
-      <description>Volk149: Cloudflare Tunnel エラッてる～～～～ Blogサイトアクセスできてないじゃん！</description>
-      <pubDate>Thu, 10 Sep 2026 13:59:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/abdda149/status/2098048600706281762</guid>
-    </item>
-    <item>
-      <title>今はとりあえず NextChat とかいう Web アプリをたてて Cloudflare Tunnel で公開してる。けど、外出先から直接 Ollama も見たいよね。モデルはとりあえず以下を入れた。 gemma4:26b gemma4:e4b ornith1.5:9b</title>
-      <link>https://x.com/k586/status/2097745691150004236</link>
-      <description>k586: 今はとりあえず NextChat とかいう Web アプリをたてて Cloudflare Tunnel で公開してる。けど、外出先から直接 Ollama も見たいよね。モデルはとりあえず以下を入れた。 gemma4:26b gemma4:e4b ornith1.5:9b</description>
-      <pubDate>Wed, 09 Sep 2026 17:55:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k586/status/2097745691150004236</guid>
-    </item>
-    <item>
-      <title>無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</title>
-      <link>https://x.com/playstation2_ch/status/2097744236204708132</link>
-      <description>I have an apple@Pic unrelated: 無料化エージェント計画 ほぼ完成 １ kaggleでGemma4-26B（日本語対応版）llama.cpp 稼働させて（Localhost) ２ Cloudflare Tunnel で公開URL発行 ３ ローカルPCはOpencode稼働 ４ 検索py作り Agent.mdにキーワード検索＆URLをfetch読込（←内蔵機能）指示を書く webから情報取れる</description>
-      <pubDate>Wed, 09 Sep 2026 17:49:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/playstation2_ch/status/2097744236204708132</guid>
     </item>
   </channel>
 </rss>
