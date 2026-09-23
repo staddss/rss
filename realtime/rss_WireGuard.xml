@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ルーター設定もDDNSも固定IPも一切不要。 TailscaleのNATトラバーサル技術により、安全な直通トンネル（ WireGuard ）を自動開通。外出先のスマホやMacから即座にアクセス可能。 実機検証と導入手順の全記録をnoteで公開しました👇 https://t.co/MoFAqdZ3Rh #おうちサーバー #Tailscale</title>
+      <link>https://x.com/shitohi_blog/status/2102616602676187635</link>
+      <description>草壁シトヒ 🛠️ メディア開発者 / ツール開発: ルーター設定もDDNSも固定IPも一切不要。 TailscaleのNATトラバーサル技術により、安全な直通トンネル（ WireGuard ）を自動開通。外出先のスマホやMacから即座にアクセス可能。 実機検証と導入手順の全記録をnoteで公開しました👇 https://t.co/MoFAqdZ3Rh #おうちサーバー #Tailscale</description>
+      <pubDate>Wed, 23 Sep 2026 04:30:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shitohi_blog/status/2102616602676187635</guid>
+    </item>
+    <item>
       <title>IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</title>
       <link>https://x.com/__su888/status/2102522326399025174</link>
       <description>su8 / denchu: IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</description>
@@ -269,13 +276,6 @@
       <description>終活作業中: @32768Sf 自宅サーバー：メイン 仲間宅サーバー：バックアップ/待機系 震災対策足立区リージョンと長野県松本リージョン 両方に中古UPS WireGuard で拠点間VPN rsync / borg / resticで暗号化バックアップ DNSは無料Cloudflareで手動切替 DBは非同期レプリケーションか定期dump</description>
       <pubDate>Tue, 15 Sep 2026 06:27:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kenken184184184/status/2099747035721466245</guid>
-    </item>
-    <item>
-      <title>Tailscale というか Wireguard を推奨しても Tailscale 自身とか代替としての Headscale すらも 攻撃対象からは逃れられないという…。 さりとてそれでもだいぶマシなのだが いまだ劣後する VPN サービスを 選びたがる人々が居るのは なんでなんだろうなぁ… (ひっそりと自問 https://t.co/D2vCVePedd</title>
-      <link>https://x.com/monamour555/status/2099728787248410645</link>
-      <description>もなか: Tailscale というか Wireguard を推奨しても Tailscale 自身とか代替としての Headscale すらも 攻撃対象からは逃れられないという…。 さりとてそれでもだいぶマシなのだが いまだ劣後する VPN サービスを 選びたがる人々が居るのは なんでなんだろうなぁ… (ひっそりと自問 https://t.co/D2vCVePedd</description>
-      <pubDate>Tue, 15 Sep 2026 05:15:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/monamour555/status/2099728787248410645</guid>
     </item>
   </channel>
 </rss>

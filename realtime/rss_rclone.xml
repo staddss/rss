@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pluton がセルフホスト型バックアップ管理ツール公開。Restic + Rclone で 70+ のストレージに自動暗号化バックアップ。3-2-1 バックアップ戦略対応、Web UI とスクリプト連携でエンタープライズ対応。 https://t.co/Ef3Sd8T6ot</title>
+      <link>https://x.com/t1gerxt1ger/status/2102685483604349419</link>
+      <description>tiger_serious: Pluton がセルフホスト型バックアップ管理ツール公開。Restic + Rclone で 70+ のストレージに自動暗号化バックアップ。3-2-1 バックアップ戦略対応、Web UI とスクリプト連携でエンタープライズ対応。 https://t.co/Ef3Sd8T6ot</description>
+      <pubDate>Wed, 23 Sep 2026 09:04:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t1gerxt1ger/status/2102685483604349419</guid>
+    </item>
+    <item>
       <title>@Clorets8lack Linux VM間でrsyncをやって「よーしWindowsでもrsync」となったタイミングで rclone とかいう別物と悪戦苦闘する回 rclone 、対向がSFTPでもしれっとID/PW認証使えるあたりがまあヤヴァイ</title>
       <link>https://x.com/g_plains/status/2102175066146652231</link>
       <description>こてつ(ONO,Tetsuo): @Clorets8lack Linux VM間でrsyncをやって「よーしWindowsでもrsync」となったタイミングで rclone とかいう別物と悪戦苦闘する回 rclone 、対向がSFTPでもしれっとID/PW認証使えるあたりがまあヤヴァイ</description>
@@ -269,13 +276,6 @@
       <description>TA98: Google cloudで rclone 専用のOAuth認証環境を作ってラズパイの rclone から GoogleDriveへアクセスできるようにした😘お金かからないはず</description>
       <pubDate>Tue, 25 Aug 2026 15:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_ta98_/status/2092277715131093211</guid>
-    </item>
-    <item>
-      <title>rclone の共有client IDが2026年中に廃止だとぉぉ https://t.co/K3KBf9r5Bn</title>
-      <link>https://x.com/_ta98_/status/2092251799785034038</link>
-      <description>TA98: rclone の共有client IDが2026年中に廃止だとぉぉ https://t.co/K3KBf9r5Bn</description>
-      <pubDate>Tue, 25 Aug 2026 14:04:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_ta98_/status/2092251799785034038</guid>
     </item>
   </channel>
 </rss>

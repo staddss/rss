@@ -5,13 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>SSD安かったらgoogle one解約して syncthing でパソコンに全部ぶち込んだんだけどなあ、高すぎる今のSSD</title>
-      <link>https://x.com/mcoods_/status/2102744600175903129</link>
-      <description>よげん: SSD安かったらgoogle one解約して syncthing でパソコンに全部ぶち込んだんだけどなあ、高すぎる今のSSD</description>
-      <pubDate>Wed, 23 Sep 2026 12:59:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mcoods_/status/2102744600175903129</guid>
-    </item>
-    <item>
       <title>obsidianの同期方法関連の記事 大体が公式、プラグイン、Gitで Syncthing 使った方法の紹介少ないの謎 今度Noteとかで書こうかな</title>
       <link>https://x.com/Netdebris/status/2102453167531430074</link>
       <description>ネットデブリ: obsidianの同期方法関連の記事 大体が公式、プラグイン、Gitで Syncthing 使った方法の紹介少ないの謎 今度Noteとかで書こうかな</description>
@@ -66,6 +59,13 @@
       <description>🌺チェレステさかしー/Al/散歩/東京Uberエンジョイ勢: @shotovim クラウドサービスは避けるようにAIに言われてしまうので、 syncthing 導入しました</description>
       <pubDate>Mon, 21 Sep 2026 20:11:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sakashiiiii/status/2102128493140287982</guid>
+    </item>
+    <item>
+      <title>ということで重い腰を上げてObsidianに syncthing を導入しました。かなり快適です。 https://t.co/NMS9YiqESr</title>
+      <link>https://x.com/shotovim/status/2102034704669286568</link>
+      <description>松濤Vimmer: ということで重い腰を上げてObsidianに syncthing を導入しました。かなり快適です。 https://t.co/NMS9YiqESr</description>
+      <pubDate>Mon, 21 Sep 2026 13:58:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shotovim/status/2102034704669286568</guid>
     </item>
     <item>
       <title>@tomoshibi_hello とりあえずテストしたんですが、 各デバイス（パソコンは Syncthing /Androidは Syncthing Fork/iOSはMobius Sync Pro：Mobius Sync Proのみ800円買い切り）で、Syncthinkサーバは自分のRaspberry Pi5に2TBのHDDを付けたもので実装してみました。 Raspberry</title>
