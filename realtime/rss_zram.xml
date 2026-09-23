@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ノートPCのLinux Mint Debian Edition 7 neowofetch上ではLMDE 13表記 Zram 採用、Ramdisk化、ジャーナルOFF、カーネル7系でも けっこうまともに動作するもんだ https://t.co/do8Z7cOhyc</title>
+      <link>https://x.com/loosephoto/status/2102653274767991078</link>
+      <description>loosephoto: ノートPCのLinux Mint Debian Edition 7 neowofetch上ではLMDE 13表記 Zram 採用、Ramdisk化、ジャーナルOFF、カーネル7系でも けっこうまともに動作するもんだ https://t.co/do8Z7cOhyc</description>
+      <pubDate>Wed, 23 Sep 2026 06:56:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/loosephoto/status/2102653274767991078</guid>
+    </item>
+    <item>
+      <title>@taou684340 はい、SSDの書き込み寿命を削らない点ではその通りです。HDDは耐久制限がほぼないので。ただ前回通りランダム実効1MB/s未満で、スワップ多発時はシステムが極端に遅くほぼ使い物になりません。可能なら物理RAM増設か zram が現実的です。</title>
+      <link>https://x.com/grok/status/2102559457087545806</link>
+      <description>Grok: @taou684340 はい、SSDの書き込み寿命を削らない点ではその通りです。HDDは耐久制限がほぼないので。ただ前回通りランダム実効1MB/s未満で、スワップ多発時はシステムが極端に遅くほぼ使い物になりません。可能なら物理RAM増設か zram が現実的です。</description>
+      <pubDate>Wed, 23 Sep 2026 00:43:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2102559457087545806</guid>
+    </item>
+    <item>
       <title>貧弱なパソコンは、以下の方法で軽くなる。(※自己責任) 1.linuxの導入 2. zram の導入 3.vm.swappiness = 50</title>
       <link>https://x.com/z68itx_b_e/status/2102339990323855617</link>
       <description>飛鳥: 貧弱なパソコンは、以下の方法で軽くなる。(※自己責任) 1.linuxの導入 2. zram の導入 3.vm.swappiness = 50</description>
       <pubDate>Tue, 22 Sep 2026 10:11:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/z68itx_b_e/status/2102339990323855617</guid>
+    </item>
+    <item>
+      <title>重すぎてまともに動かないのは ZRAM が抜けてるからだった。今はとりあえず動くレベルに改善。 https://t.co/l2LD5nqipR</title>
+      <link>https://x.com/kailua26_dev/status/2102311852541960494</link>
+      <description>kailua: 重すぎてまともに動かないのは ZRAM が抜けてるからだった。今はとりあえず動くレベルに改善。 https://t.co/l2LD5nqipR</description>
+      <pubDate>Tue, 22 Sep 2026 08:19:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kailua26_dev/status/2102311852541960494</guid>
     </item>
     <item>
       <title>@soyaakinohara5 一応12GBでも zram 盛りまくれば ゲーム6個開いても快適 https://t.co/xvzq1OZLaG</title>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</title>
+      <link>https://x.com/__su888/status/2102522326399025174</link>
+      <description>su8 / denchu: IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</description>
+      <pubDate>Tue, 22 Sep 2026 22:16:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2102522326399025174</guid>
+    </item>
+    <item>
       <title>針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</title>
       <link>https://x.com/dali1331/status/2102401733909528628</link>
       <description>dream.more: 針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</description>
@@ -269,13 +276,6 @@
       <description>もなか: Tailscale というか Wireguard を推奨しても Tailscale 自身とか代替としての Headscale すらも 攻撃対象からは逃れられないという…。 さりとてそれでもだいぶマシなのだが いまだ劣後する VPN サービスを 選びたがる人々が居るのは なんでなんだろうなぁ… (ひっそりと自問 https://t.co/D2vCVePedd</description>
       <pubDate>Tue, 15 Sep 2026 05:15:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/monamour555/status/2099728787248410645</guid>
-    </item>
-    <item>
-      <title>固定グローバルIP持ってるVyOSで WireGuard トンネル生やしたけど、tailscaleと違ってめちゃくちゃシンプルでいいね 自分で色々いじれるのは大事</title>
-      <link>https://x.com/public_zakojb/status/2099695480762691769</link>
-      <description>優羽: 固定グローバルIP持ってるVyOSで WireGuard トンネル生やしたけど、tailscaleと違ってめちゃくちゃシンプルでいいね 自分で色々いじれるのは大事</description>
-      <pubDate>Tue, 15 Sep 2026 03:03:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/public_zakojb/status/2099695480762691769</guid>
     </item>
   </channel>
 </rss>
