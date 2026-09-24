@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@SocketFM1 @asuhareya (実は双方 Cloudflare Tunnel を入れてゴニョればFreeでもいけるんだけど設定ヤバい)</title>
+      <link>https://x.com/nanasi_rasi/status/2102998538322124833</link>
+      <description>ななしぃ: @SocketFM1 @asuhareya (実は双方 Cloudflare Tunnel を入れてゴニョればFreeでもいけるんだけど設定ヤバい)</description>
+      <pubDate>Thu, 24 Sep 2026 05:48:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanasi_rasi/status/2102998538322124833</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 気になります👀 #みんなの自宅鯖LT会</title>
+      <link>https://x.com/mob_engineer/status/2102984269895446551</link>
+      <description>モブエンジニア: Cloudflare Tunnel 気になります👀 #みんなの自宅鯖LT会</description>
+      <pubDate>Thu, 24 Sep 2026 04:51:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mob_engineer/status/2102984269895446551</guid>
+    </item>
+    <item>
+      <title>@cr1sta_dev cloudflare tunnel とかで多分行けると思います</title>
+      <link>https://x.com/sangikousenuser/status/2102953490779975920</link>
+      <description>.zip爆弾 ぽーと: @cr1sta_dev cloudflare tunnel とかで多分行けると思います</description>
+      <pubDate>Thu, 24 Sep 2026 02:49:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sangikousenuser/status/2102953490779975920</guid>
+    </item>
+    <item>
+      <title>Cloudflareが Gateway の HTTP / Network policies に Traffic Destination selector を追加した。 通信の出口ごとにルールを分けられるようになった。Internet / Cloudflare WAN / Cloudflare Tunnel / Cloudflare One Client / Mesh を指定でき、API では `net.offramp.type`</title>
+      <link>https://x.com/multilayer/status/2102909799340089735</link>
+      <description>multilayer: Cloudflareが Gateway の HTTP / Network policies に Traffic Destination selector を追加した。 通信の出口ごとにルールを分けられるようになった。Internet / Cloudflare WAN / Cloudflare Tunnel / Cloudflare One Client / Mesh を指定でき、API では `net.offramp.type`</description>
+      <pubDate>Wed, 23 Sep 2026 23:55:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/multilayer/status/2102909799340089735</guid>
+    </item>
+    <item>
       <title>Linuxサーバ、私も自宅で2台動かしてるけど良いですよ～ 1台はDebian Bookworm, もう1台はRaspberry Pi OS Lite どちらも安定性で困ったことはないな、余裕で数か月動きます 私は基本、GUI入れずにSSHでリモートで操作、メンテしたり、自宅外からは Cloudflare Tunnel でも繋げるようにしてますﾈ</title>
       <link>https://x.com/JE6RTF/status/2102799982709600585</link>
       <description>けい@JE6RTF / ふくおかRF45: Linuxサーバ、私も自宅で2台動かしてるけど良いですよ～ 1台はDebian Bookworm, もう1台はRaspberry Pi OS Lite どちらも安定性で困ったことはないな、余裕で数か月動きます 私は基本、GUI入れずにSSHでリモートで操作、メンテしたり、自宅外からは Cloudflare Tunnel でも繋げるようにしてますﾈ</description>
@@ -24,6 +52,13 @@
       <description>にゃんける: Windowsから Cloudflare Tunnel で公開したCodexCLIラッパーWebUI。 こんな感じでログイン不要でどこでもエージェントが遊べる。 特にいいのが、アカウント情報を見ないから複数アカウントの扱いが楽。 Access設定をお忘れなく。 https://t.co/1q0XT3uuNA</description>
       <pubDate>Wed, 23 Sep 2026 09:47:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nyannkeru/status/2102696359933722903</guid>
+    </item>
+    <item>
+      <title>チャッピーに聞きながらMAP-E接続の自宅内NWにアクセスできる Cloudflare Tunnel を設定した。 これで出張先からもrfriendsで録音したラジオ番組を聞ける。 https://t.co/LmRLDrxuLM</title>
+      <link>https://x.com/cocoabottle/status/2102664202372727138</link>
+      <description>いのうえ: チャッピーに聞きながらMAP-E接続の自宅内NWにアクセスできる Cloudflare Tunnel を設定した。 これで出張先からもrfriendsで録音したラジオ番組を聞ける。 https://t.co/LmRLDrxuLM</description>
+      <pubDate>Wed, 23 Sep 2026 07:39:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cocoabottle/status/2102664202372727138</guid>
     </item>
     <item>
       <title>よし、dgxで cloudflare tunnel のセットアップ終わった 会場で同じネットワーク内での接続ができなくなっても接続いけそう （メイン同士は基から有線だけど）</title>
@@ -241,41 +276,6 @@
       <description>kenken: Chummer web 次は Cloudflare tunnel のURL固定するか。localhostは変えないから、mac動かしてるときだけ使えるって感じになるけど。</description>
       <pubDate>Sun, 13 Sep 2026 21:59:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/KFrimon/status/2099256765250699710</guid>
-    </item>
-    <item>
-      <title>Tailscaleやめて Cloudflare tunnel (or 類似サービス)とかにしようかなぁ。 好きなVPN使いにくいし、クライアントノードのDNSとルーティングテーブル汚染するし、ホストそのものを仮想プライベートネットワークに露出するからリスクあるし。</title>
-      <link>https://x.com/sashisashi569/status/2099057751242785055</link>
-      <description>sashisashi: Tailscaleやめて Cloudflare tunnel (or 類似サービス)とかにしようかなぁ。 好きなVPN使いにくいし、クライアントノードのDNSとルーティングテーブル汚染するし、ホストそのものを仮想プライベートネットワークに露出するからリスクあるし。</description>
-      <pubDate>Sun, 13 Sep 2026 08:49:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2099057751242785055</guid>
-    </item>
-    <item>
-      <title>RTX1300をOpenWRTなPCルーターで置き換えるにあたり、外出中にコケてしまった場合に備えて格安SIM+中華4Gルーター+OpenWRTの動くサブルーター+ Cloudflare Tunnel +vPro Remote Desktopで主回線が落ちても復活できるようにしたぞ</title>
-      <link>https://x.com/amc_cake/status/2098786751775179202</link>
-      <description>Am&amp;C: RTX1300をOpenWRTなPCルーターで置き換えるにあたり、外出中にコケてしまった場合に備えて格安SIM+中華4Gルーター+OpenWRTの動くサブルーター+ Cloudflare Tunnel +vPro Remote Desktopで主回線が落ちても復活できるようにしたぞ</description>
-      <pubDate>Sat, 12 Sep 2026 14:52:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amc_cake/status/2098786751775179202</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel は手軽だけどhttp(s)以外はキツいので、またArkやマイクラのサーバなんかを動かすならVPS＋WireGuardでポートフォワードするしかないだろうな…… 今はそれどころじゃないのでまたその時が来たら考えよう</title>
-      <link>https://x.com/marz04/status/2098764128668319792</link>
-      <description>まーず: Cloudflare Tunnel は手軽だけどhttp(s)以外はキツいので、またArkやマイクラのサーバなんかを動かすならVPS＋WireGuardでポートフォワードするしかないだろうな…… 今はそれどころじゃないのでまたその時が来たら考えよう</description>
-      <pubDate>Sat, 12 Sep 2026 13:22:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/marz04/status/2098764128668319792</guid>
-    </item>
-    <item>
-      <title>小さなVPSを立ててVPNトンネルを張ってなんとかするか、と思ったけど、どうせ個人用のNextcloudとツール用webサーバなので、手軽に Cloudflare Tunnel で解決した。 元々ドメインとDNSはCloudflareに移管してたからサクッといけた。 https://t.co/WPveTv0r98</title>
-      <link>https://x.com/marz04/status/2098761786229207325</link>
-      <description>まーず: 小さなVPSを立ててVPNトンネルを張ってなんとかするか、と思ったけど、どうせ個人用のNextcloudとツール用webサーバなので、手軽に Cloudflare Tunnel で解決した。 元々ドメインとDNSはCloudflareに移管してたからサクッといけた。 https://t.co/WPveTv0r98</description>
-      <pubDate>Sat, 12 Sep 2026 13:12:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/marz04/status/2098761786229207325</guid>
-    </item>
-    <item>
-      <title>Even G2からGrok Botを呼べるようにした Routineの公式Webhookを使い、iPhone＋Mac経由で往復。タップから実測約1分で返答が視界に。400字ずつスワイプで読める。 Cloudflare Tunnel でBot用の受信箱・返答口だけ公開。トークン認証＋質問は10件/時 https://t.co/0ERuzCld9c</title>
-      <link>https://x.com/dennonekomata/status/2098717722658128242</link>
-      <description>電脳ねこまた: Even G2からGrok Botを呼べるようにした Routineの公式Webhookを使い、iPhone＋Mac経由で往復。タップから実測約1分で返答が視界に。400字ずつスワイプで読める。 Cloudflare Tunnel でBot用の受信箱・返答口だけ公開。トークン認証＋質問は10件/時 https://t.co/0ERuzCld9c</description>
-      <pubDate>Sat, 12 Sep 2026 10:17:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dennonekomata/status/2098717722658128242</guid>
     </item>
   </channel>
 </rss>
