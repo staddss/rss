@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</title>
+      <link>https://x.com/RegulusTrash/status/2103092128213868794</link>
+      <description>regulus@れぐるす: GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</description>
+      <pubDate>Thu, 24 Sep 2026 12:00:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RegulusTrash/status/2103092128213868794</guid>
+    </item>
+    <item>
       <title>Pluton がセルフホスト型バックアップ管理ツール公開。Restic + Rclone で 70+ のストレージに自動暗号化バックアップ。3-2-1 バックアップ戦略対応、Web UI とスクリプト連携でエンタープライズ対応。 https://t.co/Ef3Sd8T6ot</title>
       <link>https://x.com/t1gerxt1ger/status/2102685483604349419</link>
       <description>tiger_serious: Pluton がセルフホスト型バックアップ管理ツール公開。Restic + Rclone で 70+ のストレージに自動暗号化バックアップ。3-2-1 バックアップ戦略対応、Web UI とスクリプト連携でエンタープライズ対応。 https://t.co/Ef3Sd8T6ot</description>
@@ -269,13 +276,6 @@
       <description>Junichi Nakata (そせじ番長) : Japanese IT engineer: と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</description>
       <pubDate>Tue, 25 Aug 2026 16:46:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/jnakata2014/status/2092292643502075932</guid>
-    </item>
-    <item>
-      <title>Google cloudで rclone 専用のOAuth認証環境を作ってラズパイの rclone から GoogleDriveへアクセスできるようにした😘お金かからないはず</title>
-      <link>https://x.com/_ta98_/status/2092277715131093211</link>
-      <description>TA98: Google cloudで rclone 専用のOAuth認証環境を作ってラズパイの rclone から GoogleDriveへアクセスできるようにした😘お金かからないはず</description>
-      <pubDate>Tue, 25 Aug 2026 15:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_ta98_/status/2092277715131093211</guid>
     </item>
   </channel>
 </rss>

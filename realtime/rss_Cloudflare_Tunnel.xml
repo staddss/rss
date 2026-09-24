@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>LXCでサーバー構築設計してって頼んだのに、暴走して環境構築終わらせてきた しっかりと Cloudflare Tunnel も併せて公開されとる…</title>
+      <link>https://x.com/takku_4331/status/2103112252236988436</link>
+      <description>やみち: LXCでサーバー構築設計してって頼んだのに、暴走して環境構築終わらせてきた しっかりと Cloudflare Tunnel も併せて公開されとる…</description>
+      <pubDate>Thu, 24 Sep 2026 13:20:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takku_4331/status/2103112252236988436</guid>
+    </item>
+    <item>
+      <title>できるのか自分でも非常に興味があるのでQwen3.8-27B Q4_K_Mを Cloudflare Tunnel で公開し、OpenAI API互換のエンドポイントで動作するかのサンプルを作ってみている https://t.co/ai3SsWEBgB https://t.co/XUI5dfY2Jv</title>
+      <link>https://x.com/cr1sta_dev/status/2103077263369736271</link>
+      <description>くりすた: できるのか自分でも非常に興味があるのでQwen3.8-27B Q4_K_Mを Cloudflare Tunnel で公開し、OpenAI API互換のエンドポイントで動作するかのサンプルを作ってみている https://t.co/ai3SsWEBgB https://t.co/XUI5dfY2Jv</description>
+      <pubDate>Thu, 24 Sep 2026 11:01:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cr1sta_dev/status/2103077263369736271</guid>
+    </item>
+    <item>
       <title>@SocketFM1 @asuhareya (実は双方 Cloudflare Tunnel を入れてゴニョればFreeでもいけるんだけど設定ヤバい)</title>
       <link>https://x.com/nanasi_rasi/status/2102998538322124833</link>
       <description>ななしぃ: @SocketFM1 @asuhareya (実は双方 Cloudflare Tunnel を入れてゴニョればFreeでもいけるんだけど設定ヤバい)</description>
@@ -17,6 +31,13 @@
       <description>モブエンジニア: Cloudflare Tunnel 気になります👀 #みんなの自宅鯖LT会</description>
       <pubDate>Thu, 24 Sep 2026 04:51:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mob_engineer/status/2102984269895446551</guid>
+    </item>
+    <item>
+      <title>トップバッターはfkuMnkさんから「家にあるLinuxデスクトップに Cloudflare Tunnel でRDP接続するし」です！！ #みんなの自宅鯖LT会</title>
+      <link>https://x.com/mob_engineer/status/2102983431420592188</link>
+      <description>モブエンジニア: トップバッターはfkuMnkさんから「家にあるLinuxデスクトップに Cloudflare Tunnel でRDP接続するし」です！！ #みんなの自宅鯖LT会</description>
+      <pubDate>Thu, 24 Sep 2026 04:48:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mob_engineer/status/2102983431420592188</guid>
     </item>
     <item>
       <title>@cr1sta_dev cloudflare tunnel とかで多分行けると思います</title>
@@ -255,27 +276,6 @@
       <description>𝕐𝕦𝕚: クラウドアップロードOKなら俺もロケフリをSaaS化してやろうかなチューナーは各自で持ってUDPパンチホールか cloudflare tunnel で接続してもらって</description>
       <pubDate>Mon, 14 Sep 2026 14:27:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5yuim/status/2099505433518194888</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel でリバースプロキシになるとはいえ、普通に自宅サーバーで普段使いの回線に乗っけてるからDoS来ても困るんだよな</title>
-      <link>https://x.com/sashisashi569/status/2099318481376395671</link>
-      <description>sashisashi: Cloudflare Tunnel でリバースプロキシになるとはいえ、普通に自宅サーバーで普段使いの回線に乗っけてるからDoS来ても困るんだよな</description>
-      <pubDate>Mon, 14 Sep 2026 02:05:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2099318481376395671</guid>
-    </item>
-    <item>
-      <title>どうせ Cloudflare Tunnel にするならNextcloudの公開リンクとFederationを使えるようにしたいけど、Federationは機械的にアクセスされるからそのへんにウヨウヨしてるボットを弾くのはだいぶ無理そうだな</title>
-      <link>https://x.com/sashisashi569/status/2099315755343040978</link>
-      <description>sashisashi: どうせ Cloudflare Tunnel にするならNextcloudの公開リンクとFederationを使えるようにしたいけど、Federationは機械的にアクセスされるからそのへんにウヨウヨしてるボットを弾くのはだいぶ無理そうだな</description>
-      <pubDate>Mon, 14 Sep 2026 01:54:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2099315755343040978</guid>
-    </item>
-    <item>
-      <title>Chummer web 次は Cloudflare tunnel のURL固定するか。localhostは変えないから、mac動かしてるときだけ使えるって感じになるけど。</title>
-      <link>https://x.com/KFrimon/status/2099256765250699710</link>
-      <description>kenken: Chummer web 次は Cloudflare tunnel のURL固定するか。localhostは変えないから、mac動かしてるときだけ使えるって感じになるけど。</description>
-      <pubDate>Sun, 13 Sep 2026 21:59:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KFrimon/status/2099256765250699710</guid>
     </item>
   </channel>
 </rss>
