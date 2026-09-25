@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/RegulusTrash/status/2103092128213868794</guid>
     </item>
     <item>
+      <title>クリスタ素材のバックアップデータとりあえずGoogleDriveに暗号化して上げておこうかな～ rclone +cryptでいけそう</title>
+      <link>https://x.com/noc_pie/status/2102783798740123735</link>
+      <description>のく: クリスタ素材のバックアップデータとりあえずGoogleDriveに暗号化して上げておこうかな～ rclone +cryptでいけそう</description>
+      <pubDate>Wed, 23 Sep 2026 15:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/noc_pie/status/2102783798740123735</guid>
+    </item>
+    <item>
       <title>Pluton がセルフホスト型バックアップ管理ツール公開。Restic + Rclone で 70+ のストレージに自動暗号化バックアップ。3-2-1 バックアップ戦略対応、Web UI とスクリプト連携でエンタープライズ対応。 https://t.co/Ef3Sd8T6ot</title>
       <link>https://x.com/t1gerxt1ger/status/2102685483604349419</link>
       <description>tiger_serious: Pluton がセルフホスト型バックアップ管理ツール公開。Restic + Rclone で 70+ のストレージに自動暗号化バックアップ。3-2-1 バックアップ戦略対応、Web UI とスクリプト連携でエンタープライズ対応。 https://t.co/Ef3Sd8T6ot</description>
@@ -269,13 +276,6 @@
       <description>やぐちはるお@LangCore VPoE: rclone って何？</description>
       <pubDate>Fri, 28 Aug 2026 01:34:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/haruo2177/status/2093150298135208243</guid>
-    </item>
-    <item>
-      <title>と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</title>
-      <link>https://x.com/jnakata2014/status/2092292643502075932</link>
-      <description>Junichi Nakata (そせじ番長) : Japanese IT engineer: と思ったらsshfsは開発終了みたいなことになってる。 Rclone というのがかわりにつかえそうだ。</description>
-      <pubDate>Tue, 25 Aug 2026 16:46:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jnakata2014/status/2092292643502075932</guid>
     </item>
   </channel>
 </rss>

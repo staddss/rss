@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>複数サーバー間共有で、Obsidian git から Syncthing に移行した。 Syncthing の方が反映早くて良い感じ</title>
+      <link>https://x.com/Taka60a/status/2103264161383977240</link>
+      <description>たか@RUNTEQ60期: 複数サーバー間共有で、Obsidian git から Syncthing に移行した。 Syncthing の方が反映早くて良い感じ</description>
+      <pubDate>Thu, 24 Sep 2026 23:23:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Taka60a/status/2103264161383977240</guid>
+    </item>
+    <item>
+      <title>SSD安かったらgoogle one解約して syncthing でパソコンに全部ぶち込んだんだけどなあ、高すぎる今のSSD</title>
+      <link>https://x.com/mcoods_/status/2102744600175903129</link>
+      <description>よげん: SSD安かったらgoogle one解約して syncthing でパソコンに全部ぶち込んだんだけどなあ、高すぎる今のSSD</description>
+      <pubDate>Wed, 23 Sep 2026 12:59:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mcoods_/status/2102744600175903129</guid>
+    </item>
+    <item>
       <title>obsidianの同期方法関連の記事 大体が公式、プラグイン、Gitで Syncthing 使った方法の紹介少ないの謎 今度Noteとかで書こうかな</title>
       <link>https://x.com/Netdebris/status/2102453167531430074</link>
       <description>ネットデブリ: obsidianの同期方法関連の記事 大体が公式、プラグイン、Gitで Syncthing 使った方法の紹介少ないの謎 今度Noteとかで書こうかな</description>
@@ -262,20 +276,6 @@
       <description>ツリロン/鶴居: syncthing とParsecで母艦win、Claude用MiniPC、MacBook Airを共有フォルダ前提として相互に行き来できるの超便利〜〜〜〜〜〜〜</description>
       <pubDate>Wed, 02 Sep 2026 02:53:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/turiron/status/2094981950935367845</guid>
-    </item>
-    <item>
-      <title>@moguno Gitを使わないObsidian同期の主な方法です。 公式Obsidian Sync（有料、全デバイス簡単、端到端暗号化）。 Apple製品同士ならiCloud DriveにVaultを置くだけ。 無料なら Syncthing （P2Pでデバイス直接同期）。 Remotely SaveプラグインでDropboxやOneDrive、WebDAVなどを利用。</title>
-      <link>https://x.com/grok/status/2094445900584141146</link>
-      <description>Grok: @moguno Gitを使わないObsidian同期の主な方法です。 公式Obsidian Sync（有料、全デバイス簡単、端到端暗号化）。 Apple製品同士ならiCloud DriveにVaultを置くだけ。 無料なら Syncthing （P2Pでデバイス直接同期）。 Remotely SaveプラグインでDropboxやOneDrive、WebDAVなどを利用。</description>
-      <pubDate>Mon, 31 Aug 2026 15:23:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2094445900584141146</guid>
-    </item>
-    <item>
-      <title>従業員「このファイル受け渡しどうします？」 わし「 syncthing でフォルダ同期してるからそれ使お」 ■人間の場合 わし「 syncthing っていうのはね～（説明）」 ■AIの場合 「あ、 syncthing 動いてるんですね（設定ファイルと稼働状況調べる）ここにフォルダ作ってファイル置いてslackで通知しました」</title>
-      <link>https://x.com/shimarin/status/2093812532951839139</link>
-      <description>嶋田大貴: 従業員「このファイル受け渡しどうします？」 わし「 syncthing でフォルダ同期してるからそれ使お」 ■人間の場合 わし「 syncthing っていうのはね～（説明）」 ■AIの場合 「あ、 syncthing 動いてるんですね（設定ファイルと稼働状況調べる）ここにフォルダ作ってファイル置いてslackで通知しました」</description>
-      <pubDate>Sat, 29 Aug 2026 21:26:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shimarin/status/2093812532951839139</guid>
     </item>
   </channel>
 </rss>

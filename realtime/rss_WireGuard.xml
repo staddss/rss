@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard -goは1KiBのパケットも64KiBバッファへコピーしていた。Linux/Androidでこのコピーを省き約5%高速化し、subnet router等にはストリーム単位で並列化するmulti-queueを導入。netmapキャッシュで劣悪回線下の起動を1-2桁速める / We’re making Tailscale faster https://t.co/Cyuo3hik4Z</title>
+      <link>https://x.com/__su888/status/2103245843860017169</link>
+      <description>su8 / denchu: wireguard -goは1KiBのパケットも64KiBバッファへコピーしていた。Linux/Androidでこのコピーを省き約5%高速化し、subnet router等にはストリーム単位で並列化するmulti-queueを導入。netmapキャッシュで劣悪回線下の起動を1-2桁速める / We’re making Tailscale faster https://t.co/Cyuo3hik4Z</description>
+      <pubDate>Thu, 24 Sep 2026 22:11:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2103245843860017169</guid>
+    </item>
+    <item>
+      <title>@Hidamarickti うちはzerotier試したことあるんですがパケロス多くて今は WireGuard に落ち着きました</title>
+      <link>https://x.com/knmusicstudio/status/2103034205764726969</link>
+      <description>Syo.D🔯KuroNekoMusicStudio: @Hidamarickti うちはzerotier試したことあるんですがパケロス多くて今は WireGuard に落ち着きました</description>
+      <pubDate>Thu, 24 Sep 2026 08:10:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/knmusicstudio/status/2103034205764726969</guid>
+    </item>
+    <item>
       <title>VPS借りて WireGuard 建てて参加させる方がドメイン分けなくていいし安全そうではある</title>
       <link>https://x.com/rain1208_v/status/2102798215754182965</link>
       <description>rain1208🎖: VPS借りて WireGuard 建てて参加させる方がドメイン分けなくていいし安全そうではある</description>
@@ -262,20 +276,6 @@
       <description>Yoichiro Takehora (竹洞 陽一郎) | 株式会社Spelldata: @ButakoTamagawa はい、まさにIPsec VPNやSSL-VPNの置き換えとして使える技術です。 ただ、単にVPNプロトコルを WireGuard に置き換える、という理解よりも、「Internet-facingなVPNゲートウェイに全員が接続する」という従来型VPNのアーキテクチャそのものを変える、と考えた方が分かりやすいです。</description>
       <pubDate>Tue, 15 Sep 2026 14:00:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/takehora/status/2099860800559251866</guid>
-    </item>
-    <item>
-      <title>Tailscaleが最強な理由 ・ルーターのポート開放が一切不要 ・ WireGuard 採用で高速かつセキュア ・個人利用は最大100デバイスまで無料 ・Obsidianやファイルサーバーの同期にも最適 具体的なセットアップ手順はnoteへ👇 https://t.co/T2olt78OoK</title>
-      <link>https://x.com/kurumi_koushiki/status/2099810549811056694</link>
-      <description>くるみWEB−Advance 公式: Tailscaleが最強な理由 ・ルーターのポート開放が一切不要 ・ WireGuard 採用で高速かつセキュア ・個人利用は最大100デバイスまで無料 ・Obsidianやファイルサーバーの同期にも最適 具体的なセットアップ手順はnoteへ👇 https://t.co/T2olt78OoK</description>
-      <pubDate>Tue, 15 Sep 2026 10:40:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kurumi_koushiki/status/2099810549811056694</guid>
-    </item>
-    <item>
-      <title>docomoのMVNOを使ってると Wireguard への感謝が忘れられなくなる。</title>
-      <link>https://x.com/yanorei32/status/2099805396512944418</link>
-      <description>あねてあ™ @ yr32.net: docomoのMVNOを使ってると Wireguard への感謝が忘れられなくなる。</description>
-      <pubDate>Tue, 15 Sep 2026 10:19:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yanorei32/status/2099805396512944418</guid>
     </item>
   </channel>
 </rss>
