@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近はLinuxでも Rclone をホストにして、OneDriveを運用するなど、己のコンピューティングの技術が飛躍的に向上しているような気がする。#Microsoft365 #Word https://t.co/hLAW9rle6A</title>
+      <link>https://x.com/takashi19861223/status/2103155383628091493</link>
+      <description>兼子崇志: 最近はLinuxでも Rclone をホストにして、OneDriveを運用するなど、己のコンピューティングの技術が飛躍的に向上しているような気がする。#Microsoft365 #Word https://t.co/hLAW9rle6A</description>
+      <pubDate>Thu, 24 Sep 2026 16:11:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takashi19861223/status/2103155383628091493</guid>
+    </item>
+    <item>
       <title>GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</title>
       <link>https://x.com/RegulusTrash/status/2103092128213868794</link>
       <description>regulus@れぐるす: GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</description>
@@ -269,13 +276,6 @@
       <description>かじ@管理人: 【 Rclone をGUIで自動化】クラウドバックアップ最適化ツール「RcloneBackupAutomator」 https://t.co/h8WV3lnWJU</description>
       <pubDate>Fri, 28 Aug 2026 09:26:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kumayyxx/status/2093268923974385940</guid>
-    </item>
-    <item>
-      <title>rclone って何？</title>
-      <link>https://x.com/haruo2177/status/2093150298135208243</link>
-      <description>やぐちはるお@LangCore VPoE: rclone って何？</description>
-      <pubDate>Fri, 28 Aug 2026 01:34:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/haruo2177/status/2093150298135208243</guid>
     </item>
   </channel>
 </rss>

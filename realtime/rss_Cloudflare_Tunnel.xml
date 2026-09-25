@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>windows対応だるすぎてbondriverのラッパー書いてそれを cloudflare tunnel でクラウド上のサービスに登録させてクラウドアプリからロケフリするっていうの考えたことあるけど普通に捕まりそうだからやめた</title>
+      <link>https://x.com/5yuim/status/2103115782570049833</link>
+      <description>𝕐𝕦𝕚: windows対応だるすぎてbondriverのラッパー書いてそれを cloudflare tunnel でクラウド上のサービスに登録させてクラウドアプリからロケフリするっていうの考えたことあるけど普通に捕まりそうだからやめた</description>
+      <pubDate>Thu, 24 Sep 2026 13:34:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2103115782570049833</guid>
+    </item>
+    <item>
       <title>LXCでサーバー構築設計してって頼んだのに、暴走して環境構築終わらせてきた しっかりと Cloudflare Tunnel も併せて公開されとる…</title>
       <link>https://x.com/takku_4331/status/2103112252236988436</link>
       <description>やみち: LXCでサーバー構築設計してって頼んだのに、暴走して環境構築終わらせてきた しっかりと Cloudflare Tunnel も併せて公開されとる…</description>
@@ -269,13 +276,6 @@
       <description>Naoki Aoyama: P2P の マネージドプロバイダーとして Cloudflare に対応したらしい。 うまくいけば CouchDB 要らなくなるだろうか、 Cloudflare Tunnel 配下でホストすると TCP keep-alive しないからなのか 80秒で切れる事象があったな(1/N --- Release 1.0.29 · vrtmrz/obsidian-livesync https://t.co/uLbAZus1OV</description>
       <pubDate>Wed, 16 Sep 2026 23:46:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/naa0yama/status/2100370892690006171</guid>
-    </item>
-    <item>
-      <title>クラウドアップロードOKなら俺もロケフリをSaaS化してやろうかなチューナーは各自で持ってUDPパンチホールか cloudflare tunnel で接続してもらって</title>
-      <link>https://x.com/5yuim/status/2099505433518194888</link>
-      <description>𝕐𝕦𝕚: クラウドアップロードOKなら俺もロケフリをSaaS化してやろうかなチューナーは各自で持ってUDPパンチホールか cloudflare tunnel で接続してもらって</description>
-      <pubDate>Mon, 14 Sep 2026 14:27:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2099505433518194888</guid>
     </item>
   </channel>
 </rss>
