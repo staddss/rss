@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>CGNAT・固定IPなしでも爆速接続！ WireGuard メッシュVPNとHeadscale自作コントロールプレーン https://t.co/IdTeSR5TP4</title>
+      <link>https://x.com/shikisokukusoku/status/2103326001241497806</link>
+      <description>「色即是空」な「空即是色」blog: CGNAT・固定IPなしでも爆速接続！ WireGuard メッシュVPNとHeadscale自作コントロールプレーン https://t.co/IdTeSR5TP4</description>
+      <pubDate>Fri, 25 Sep 2026 03:29:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shikisokukusoku/status/2103326001241497806</guid>
+    </item>
+    <item>
       <title>リモートからのVPN用にローカルに Wireguard サーバー構築しようとして四苦八苦してます…… てめぇ！動きやがれ！と</title>
       <link>https://x.com/DJKKT2025/status/2103285957877465549</link>
       <description>アルス＠昔ながらのエンジニア: リモートからのVPN用にローカルに Wireguard サーバー構築しようとして四苦八苦してます…… てめぇ！動きやがれ！と</description>
@@ -269,13 +276,6 @@
       <description>エックスサーバー【公式】: 【XServer 固定IPアクセス】 このたび『XServer 固定IPアクセス』の接続方法が、従来の「 WireGuard 」に加え、新たに「IKEv2」に対応しました。 🔷 WireGuard 「 WireGuard 」アプリを利用して接続します。 専用アプリによるシンプルな接続を重視する場合におすすめです。 🔷IKEv2 https://t.co/XYA48reZW7</description>
       <pubDate>Wed, 16 Sep 2026 05:56:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/xserverjp/status/2100101600291553550</guid>
-    </item>
-    <item>
-      <title>デジタル庁でさえVPNの脆弱性から侵入されました。 政府共通基盤GSSが「Medium」評価の脆弱性を突かれ、個人情報最大24.6万件が漏えいの可能性(9/11発表)。 対策は最小権限・MFA・ログ監視、そして WireGuard 型P2Pという選択肢も。 無料ITセカンドオピニオンで確認を。 #群馬 #埼玉 https://t.co/QMtRRjcV3e</title>
-      <link>https://x.com/Pierinijp/status/2100016068282773818</link>
-      <description>Pierini JP: デジタル庁でさえVPNの脆弱性から侵入されました。 政府共通基盤GSSが「Medium」評価の脆弱性を突かれ、個人情報最大24.6万件が漏えいの可能性(9/11発表)。 対策は最小権限・MFA・ログ監視、そして WireGuard 型P2Pという選択肢も。 無料ITセカンドオピニオンで確認を。 #群馬 #埼玉 https://t.co/QMtRRjcV3e</description>
-      <pubDate>Wed, 16 Sep 2026 00:17:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Pierinijp/status/2100016068282773818</guid>
     </item>
   </channel>
 </rss>
