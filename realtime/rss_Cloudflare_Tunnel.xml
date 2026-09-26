@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</title>
+      <link>https://x.com/5yuim/status/2103823512238780708</link>
+      <description>𝕐𝕦𝕚: 大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</description>
+      <pubDate>Sat, 26 Sep 2026 12:26:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2103823512238780708</guid>
+    </item>
+    <item>
       <title>Zellijを cloudflare tunnel のsshターミナルで使ったらめちゃくちゃ重かった</title>
       <link>https://x.com/40smi/status/2103351244429656548</link>
       <description>よすみ: Zellijを cloudflare tunnel のsshターミナルで使ったらめちゃくちゃ重かった</description>
@@ -269,13 +276,6 @@
       <description>あまね工研: Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</description>
       <pubDate>Thu, 17 Sep 2026 06:25:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/amanelab/status/2100471156499431932</guid>
-    </item>
-    <item>
-      <title>何度も書いてますが、古いパソコンに Ubuntu Server をインストールして、Nextcloud をインストール。Cloudflare でドメインを取って Cloudflare Tunnel で穴を開ければ、自家製クラウドストレージのできあがりです。おすすめ。 https://t.co/OemBQG0Id9</title>
-      <link>https://x.com/amanelab/status/2100462244962119871</link>
-      <description>あまね工研: 何度も書いてますが、古いパソコンに Ubuntu Server をインストールして、Nextcloud をインストール。Cloudflare でドメインを取って Cloudflare Tunnel で穴を開ければ、自家製クラウドストレージのできあがりです。おすすめ。 https://t.co/OemBQG0Id9</description>
-      <pubDate>Thu, 17 Sep 2026 05:49:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amanelab/status/2100462244962119871</guid>
     </item>
   </channel>
 </rss>

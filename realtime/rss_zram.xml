@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</title>
+      <link>https://x.com/studio_omochi_/status/2103439383605223655</link>
+      <description>スタジオおもち @ワーカーさんの意見を発信してます: 【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</description>
+      <pubDate>Fri, 25 Sep 2026 11:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/studio_omochi_/status/2103439383605223655</guid>
+    </item>
+    <item>
       <title>もしかして：amdgpu、VRAMぎりぎりまで使うとRAM空いててもswap使おうとする＞swap設定してないとOOM killer誤爆しまくる zram 設定したらクラッシュしなくなった気がする…</title>
       <link>https://x.com/RadxaNaoki/status/2103320142663057410</link>
       <description>Naoki@Radxa: もしかして：amdgpu、VRAMぎりぎりまで使うとRAM空いててもswap使おうとする＞swap設定してないとOOM killer誤爆しまくる zram 設定したらクラッシュしなくなった気がする…</description>

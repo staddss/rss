@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</title>
+      <link>https://x.com/tomatojuice_7/status/2103970414154350850</link>
+      <description>Tomato Juice (とまとじゅーす): 1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</description>
+      <pubDate>Sat, 26 Sep 2026 22:10:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomatojuice_7/status/2103970414154350850</guid>
+    </item>
+    <item>
       <title>追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</title>
       <link>https://x.com/ANK0R0_M0CHI/status/2103732589194580268</link>
       <description>ANK0R0_M0CHI: 追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</description>
@@ -269,13 +276,6 @@
       <description>横浜のIT屋: MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</description>
       <pubDate>Thu, 17 Sep 2026 04:08:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shonanlitore/status/2100436748732150103</guid>
-    </item>
-    <item>
-      <title>なんか部屋の中でスマホの速度遅いと思ったら、 wireguard 設定確認でwifi切ったままだった。</title>
-      <link>https://x.com/tanrakukairo/status/2100424121016533278</link>
-      <description>T2-F⋈短絡回路: なんか部屋の中でスマホの速度遅いと思ったら、 wireguard 設定確認でwifi切ったままだった。</description>
-      <pubDate>Thu, 17 Sep 2026 03:18:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanrakukairo/status/2100424121016533278</guid>
     </item>
   </channel>
 </rss>
