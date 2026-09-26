@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</title>
+      <link>https://x.com/himapoce/status/2103838074526679098</link>
+      <description>ひまぽーす: やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</description>
+      <pubDate>Sat, 26 Sep 2026 13:24:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/himapoce/status/2103838074526679098</guid>
+    </item>
+    <item>
+      <title>Syncthing を使おう…</title>
+      <link>https://x.com/hatoyagy/status/2103802746185171048</link>
+      <description>はとやぎ: Syncthing を使おう…</description>
+      <pubDate>Sat, 26 Sep 2026 11:03:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hatoyagy/status/2103802746185171048</guid>
+    </item>
+    <item>
+      <title>「 Syncthing 」は知らなかったが興味深い。 https://t.co/jOLpusvRcf</title>
+      <link>https://x.com/aoipuchu/status/2103687625202860420</link>
+      <description>あおいぷちゅ: 「 Syncthing 」は知らなかったが興味深い。 https://t.co/jOLpusvRcf</description>
+      <pubDate>Sat, 26 Sep 2026 03:26:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aoipuchu/status/2103687625202860420</guid>
+    </item>
+    <item>
       <title>複数サーバー間共有で、Obsidian git から Syncthing に移行した。 Syncthing の方が反映早くて良い感じ</title>
       <link>https://x.com/Taka60a/status/2103264161383977240</link>
       <description>たか@RUNTEQ60期: 複数サーバー間共有で、Obsidian git から Syncthing に移行した。 Syncthing の方が反映早くて良い感じ</description>
@@ -255,27 +276,6 @@
       <description>uehaj: 複数マシン・別OS間で、claude codeのセッション履歴とワーキングディレクトリをリモート同期( syncthing )し、 SessionStart Hookで「いまどのマシンでClaude Codeが実行しているか」を明記することで、Claude</description>
       <pubDate>Sun, 06 Sep 2026 02:25:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/uehaj/status/2096424416469201157</guid>
-    </item>
-    <item>
-      <title>複数マシン・別OS間で、 claudeのセッション履歴とワーキングディレクトリをリモート同期( syncthing )し、 SessionStart Hookで「いまどのマシンでClaude Codeが実行しているか」を明記することで、Claude</title>
-      <link>https://x.com/uehaj/status/2096424179356889091</link>
-      <description>uehaj: 複数マシン・別OS間で、 claudeのセッション履歴とワーキングディレクトリをリモート同期( syncthing )し、 SessionStart Hookで「いまどのマシンでClaude Codeが実行しているか」を明記することで、Claude</description>
-      <pubDate>Sun, 06 Sep 2026 02:24:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/uehaj/status/2096424179356889091</guid>
-    </item>
-    <item>
-      <title>ネット回線を失った瞬間、俺はスマホとPCのObsidianファイルの同期（ syncthing 使用）も取れなくなっており、新しいモデムが届くまでどっちの環境中心でObsidianを触るのか考えないければいけなくなってしまった。自由なようで不自由な現代人よ。</title>
-      <link>https://x.com/bass_panda/status/2095931406467862797</link>
-      <description>ゆるふわ眼鏡熊猫なう: ネット回線を失った瞬間、俺はスマホとPCのObsidianファイルの同期（ syncthing 使用）も取れなくなっており、新しいモデムが届くまでどっちの環境中心でObsidianを触るのか考えないければいけなくなってしまった。自由なようで不自由な現代人よ。</description>
-      <pubDate>Fri, 04 Sep 2026 17:46:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bass_panda/status/2095931406467862797</guid>
-    </item>
-    <item>
-      <title>今までおっかなびっくりエロいファイルも含めてGoogle Driveにミラーリングしてたりしたんですけども、 Syncthing で自室PCとリビングPCで同期させるようにして心が安定いたしました</title>
-      <link>https://x.com/yuriaki8/status/2095492651932110895</link>
-      <description>ユリアキ: 今までおっかなびっくりエロいファイルも含めてGoogle Driveにミラーリングしてたりしたんですけども、 Syncthing で自室PCとリビングPCで同期させるようにして心が安定いたしました</description>
-      <pubDate>Thu, 03 Sep 2026 12:42:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuriaki8/status/2095492651932110895</guid>
     </item>
   </channel>
 </rss>

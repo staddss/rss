@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>googleドライブ等は rclone か何かで自前の暗号レイヤー必須</title>
+      <link>https://x.com/CipherLilium/status/2103472370333933798</link>
+      <description>リリア: googleドライブ等は rclone か何かで自前の暗号レイヤー必須</description>
+      <pubDate>Fri, 25 Sep 2026 13:11:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CipherLilium/status/2103472370333933798</guid>
+    </item>
+    <item>
       <title>rclone でバックアップ中。あと約6日かかりそう</title>
       <link>https://x.com/QSjp_/status/2103391235792830586</link>
       <description>QSjp: rclone でバックアップ中。あと約6日かかりそう</description>
@@ -269,13 +276,6 @@
       <description>なおっぴ: rclone 凄いな</description>
       <pubDate>Sat, 29 Aug 2026 06:23:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/naopi298/status/2093585188655939681</guid>
-    </item>
-    <item>
-      <title>pCloudを rclone 中心に使うwrapperを作った。需要は俺にしか無いやつ。</title>
-      <link>https://x.com/42spg/status/2093370236317962684</link>
-      <description>たかふみ: pCloudを rclone 中心に使うwrapperを作った。需要は俺にしか無いやつ。</description>
-      <pubDate>Fri, 28 Aug 2026 16:08:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/42spg/status/2093370236317962684</guid>
     </item>
   </channel>
 </rss>
