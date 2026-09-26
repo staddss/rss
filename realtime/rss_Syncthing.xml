@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/Taka60a/status/2103264161383977240</guid>
     </item>
     <item>
+      <title>Mac miniを常駐させて Syncthing を導入したところ、複数端末のObsidian同期がかなり安定しました。 その運用についてnote書いたのでObsidianの同期周りで悩んでいる方は、ぜひ読んでみてください！ https://t.co/RyQnoiJ7T4</title>
+      <link>https://x.com/shotovim/status/2103129831860838536</link>
+      <description>松濤Vimmer: Mac miniを常駐させて Syncthing を導入したところ、複数端末のObsidian同期がかなり安定しました。 その運用についてnote書いたのでObsidianの同期周りで悩んでいる方は、ぜひ読んでみてください！ https://t.co/RyQnoiJ7T4</description>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shotovim/status/2103129831860838536</guid>
+    </item>
+    <item>
       <title>SSD安かったらgoogle one解約して syncthing でパソコンに全部ぶち込んだんだけどなあ、高すぎる今のSSD</title>
       <link>https://x.com/mcoods_/status/2102744600175903129</link>
       <description>よげん: SSD安かったらgoogle one解約して syncthing でパソコンに全部ぶち込んだんだけどなあ、高すぎる今のSSD</description>
@@ -269,13 +276,6 @@
       <description>ユリアキ: 今までおっかなびっくりエロいファイルも含めてGoogle Driveにミラーリングしてたりしたんですけども、 Syncthing で自室PCとリビングPCで同期させるようにして心が安定いたしました</description>
       <pubDate>Thu, 03 Sep 2026 12:42:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuriaki8/status/2095492651932110895</guid>
-    </item>
-    <item>
-      <title>syncthing とParsecで母艦win、Claude用MiniPC、MacBook Airを共有フォルダ前提として相互に行き来できるの超便利〜〜〜〜〜〜〜</title>
-      <link>https://x.com/turiron/status/2094981950935367845</link>
-      <description>ツリロン/鶴居: syncthing とParsecで母艦win、Claude用MiniPC、MacBook Airを共有フォルダ前提として相互に行き来できるの超便利〜〜〜〜〜〜〜</description>
-      <pubDate>Wed, 02 Sep 2026 02:53:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/turiron/status/2094981950935367845</guid>
     </item>
   </channel>
 </rss>

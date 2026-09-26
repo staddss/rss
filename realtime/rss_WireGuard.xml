@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</title>
+      <link>https://x.com/ANK0R0_M0CHI/status/2103732589194580268</link>
+      <description>ANK0R0_M0CHI: 追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</description>
+      <pubDate>Sat, 26 Sep 2026 06:25:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ANK0R0_M0CHI/status/2103732589194580268</guid>
+    </item>
+    <item>
+      <title>・トンネル方式変更方コマンド（PowerShell） ① WireGuard へ変更 warp-cli tunnel protocol set WireGuard ② WARPを再接続 warp-cli disconnect warp-cli connect ③ 設定確認 warp-cli settings 以下の表示になっていることを確認。 (consumer overrides) WARP tunnel protocol: WireGuard</title>
+      <link>https://x.com/ANK0R0_M0CHI/status/2103730029528277030</link>
+      <description>ANK0R0_M0CHI: ・トンネル方式変更方コマンド（PowerShell） ① WireGuard へ変更 warp-cli tunnel protocol set WireGuard ② WARPを再接続 warp-cli disconnect warp-cli connect ③ 設定確認 warp-cli settings 以下の表示になっていることを確認。 (consumer overrides) WARP tunnel protocol: WireGuard</description>
+      <pubDate>Sat, 26 Sep 2026 06:14:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ANK0R0_M0CHI/status/2103730029528277030</guid>
+    </item>
+    <item>
+      <title>AndroidでAdGuard起動したまま自宅にVPN通せるようになったので大変満足 次は暇な時に WireGuard をAmnesiaに変えられるか試してみよう</title>
+      <link>https://x.com/Maschinel/status/2103470001768505853</link>
+      <description>ろぼ＠大湊警備府: AndroidでAdGuard起動したまま自宅にVPN通せるようになったので大変満足 次は暇な時に WireGuard をAmnesiaに変えられるか試してみよう</description>
+      <pubDate>Fri, 25 Sep 2026 13:01:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Maschinel/status/2103470001768505853</guid>
+    </item>
+    <item>
       <title>CGNAT・固定IPなしでも爆速接続！ WireGuard メッシュVPNとHeadscale自作コントロールプレーン https://t.co/IdTeSR5TP4</title>
       <link>https://x.com/shikisokukusoku/status/2103326001241497806</link>
       <description>「色即是空」な「空即是色」blog: CGNAT・固定IPなしでも爆速接続！ WireGuard メッシュVPNとHeadscale自作コントロールプレーン https://t.co/IdTeSR5TP4</description>
@@ -255,27 +276,6 @@
       <description>富永道也｜AI活用実装・情報リテラシー顧問: この元ポストにより、私は Mango 2 を無料で入手できることになりました。ｽﾀｯｸﾁｬﾝのおかげです。ありがとうございます。@GLiNetWiFi 元記事を書いた後、もともと持っていた Mango はアマチュア無線のネットワーク用の WireGuard ルーターへとさらに進化してしまいました。 Mango https://t.co/LkF9qSQVdE https://t.co/9ajeAENF1F</description>
       <pubDate>Wed, 16 Sep 2026 12:31:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/4989er/status/2100200910379253819</guid>
-    </item>
-    <item>
-      <title>スマホ↔自宅の WireGuard VPN接続を復活させた 普段なら電車内で通信が詰まり気味になるのにそれがない DNSが詰まってたんかな？</title>
-      <link>https://x.com/yamato_1413/status/2100174999558738211</link>
-      <description>やまと⛷滑走22日: スマホ↔自宅の WireGuard VPN接続を復活させた 普段なら電車内で通信が詰まり気味になるのにそれがない DNSが詰まってたんかな？</description>
-      <pubDate>Wed, 16 Sep 2026 10:48:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yamato_1413/status/2100174999558738211</guid>
-    </item>
-    <item>
-      <title>・スマホでやりたいです → パソコンつけっぱでよければVPNや WireGuard でいけます 自分はtailscail使ってます</title>
-      <link>https://x.com/sec_lei/status/2100132337489256461</link>
-      <description>se: ・スマホでやりたいです → パソコンつけっぱでよければVPNや WireGuard でいけます 自分はtailscail使ってます</description>
-      <pubDate>Wed, 16 Sep 2026 07:59:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sec_lei/status/2100132337489256461</guid>
-    </item>
-    <item>
-      <title>【XServer 固定IPアクセス】 このたび『XServer 固定IPアクセス』の接続方法が、従来の「 WireGuard 」に加え、新たに「IKEv2」に対応しました。 🔷 WireGuard 「 WireGuard 」アプリを利用して接続します。 専用アプリによるシンプルな接続を重視する場合におすすめです。 🔷IKEv2 https://t.co/XYA48reZW7</title>
-      <link>https://x.com/xserverjp/status/2100101600291553550</link>
-      <description>エックスサーバー【公式】: 【XServer 固定IPアクセス】 このたび『XServer 固定IPアクセス』の接続方法が、従来の「 WireGuard 」に加え、新たに「IKEv2」に対応しました。 🔷 WireGuard 「 WireGuard 」アプリを利用して接続します。 専用アプリによるシンプルな接続を重視する場合におすすめです。 🔷IKEv2 https://t.co/XYA48reZW7</description>
-      <pubDate>Wed, 16 Sep 2026 05:56:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/xserverjp/status/2100101600291553550</guid>
     </item>
   </channel>
 </rss>

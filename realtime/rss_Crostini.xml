@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ARM64 な Chromebook で、Windows アプリを動かす方法、大きく ・Android 用の Winlator を使う ・ Crostini で、box64 をビルドし、x86_64 用のアーカイブを使う の2つがあるけど、結果としては box64 の方が動作は高速だったが、労力を考えると Winlator のほうがずっと良かった。まずは Winlator を</title>
+      <link>https://x.com/sakisan_28/status/2103359175548129681</link>
+      <description>Takayuki Iwasaki: ARM64 な Chromebook で、Windows アプリを動かす方法、大きく ・Android 用の Winlator を使う ・ Crostini で、box64 をビルドし、x86_64 用のアーカイブを使う の2つがあるけど、結果としては box64 の方が動作は高速だったが、労力を考えると Winlator のほうがずっと良かった。まずは Winlator を</description>
+      <pubDate>Fri, 25 Sep 2026 05:41:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2103359175548129681</guid>
+    </item>
+    <item>
       <title>box64 を 使って、Chromebook crostini で、wine 動かしたけど、なかなか大変だった box64 はバイナリもあるのかもしれないけど、自分でビルド。基本設定で大丈夫だった box64 のページにある Kron4ek/Wine-BuildsのWow64向けバイナリを展開 (要は x86_64 のファイルを展開したもの) (続く)</title>
       <link>https://x.com/sakisan_28/status/2103356046312169643</link>
       <description>Takayuki Iwasaki: box64 を 使って、Chromebook crostini で、wine 動かしたけど、なかなか大変だった box64 はバイナリもあるのかもしれないけど、自分でビルド。基本設定で大丈夫だった box64 のページにある Kron4ek/Wine-BuildsのWow64向けバイナリを展開 (要は x86_64 のファイルを展開したもの) (続く)</description>
