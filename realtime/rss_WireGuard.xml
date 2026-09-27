@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/tomatojuice_7/status/2103970414154350850</guid>
     </item>
     <item>
+      <title>Wireguard 問題ないけどOpenVPN(TCP)でトンネル内通信に問題が発生していたので、有識者とお話しながら解決した。他に問題がないか、OpenVPNを常用して様子を見る。</title>
+      <link>https://x.com/intinfinitycom/status/2103831052821385562</link>
+      <description>いんと∞: Wireguard 問題ないけどOpenVPN(TCP)でトンネル内通信に問題が発生していたので、有識者とお話しながら解決した。他に問題がないか、OpenVPNを常用して様子を見る。</description>
+      <pubDate>Sat, 26 Sep 2026 12:56:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/intinfinitycom/status/2103831052821385562</guid>
+    </item>
+    <item>
       <title>追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</title>
       <link>https://x.com/ANK0R0_M0CHI/status/2103732589194580268</link>
       <description>ANK0R0_M0CHI: 追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</description>
@@ -269,13 +276,6 @@
       <description>ふぐ毒: ちなみに今回は多分だけど wireguard 用にいじった設定のせいでaptまで影響が出てたよ</description>
       <pubDate>Thu, 17 Sep 2026 06:25:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/fugudoku_ttx/status/2100471104158757018</guid>
-    </item>
-    <item>
-      <title>MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</title>
-      <link>https://x.com/shonanlitore/status/2100436748732150103</link>
-      <description>横浜のIT屋: MikroTik hEXを2台お借りしました。 弊社では、主に WireGuard による拠点間VPN接続に利用しているため、まずはこの用途を中心に検証を進めていきます。 実際の使い勝手や WireGuard の性能、運用面など、いろいろ試してみたいと思います。 #MikroTik #ITネタ https://t.co/Qlt1BeV1G1</description>
-      <pubDate>Thu, 17 Sep 2026 04:08:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shonanlitore/status/2100436748732150103</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>良し 自作AIのデモの準備は一通り整ったから明日課長に見せるか。 課内用のgithubのprivateのリポジトリにソースもあげといたけど、とてもコードレビューする気になるようなボリュームじゃないから、まあ中身は見ないだろうw Cloudflare Tunnel で簡単にローカル環境のデモできるの本当に便利だな～</title>
+      <link>https://x.com/nanananaaa615/status/2103915915775770857</link>
+      <description>ならし！: 良し 自作AIのデモの準備は一通り整ったから明日課長に見せるか。 課内用のgithubのprivateのリポジトリにソースもあげといたけど、とてもコードレビューする気になるようなボリュームじゃないから、まあ中身は見ないだろうw Cloudflare Tunnel で簡単にローカル環境のデモできるの本当に便利だな～</description>
+      <pubDate>Sat, 26 Sep 2026 18:33:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanananaaa615/status/2103915915775770857</guid>
+    </item>
+    <item>
       <title>大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</title>
       <link>https://x.com/5yuim/status/2103823512238780708</link>
       <description>𝕐𝕦𝕚: 大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</description>
@@ -269,13 +276,6 @@
       <description>やも@: @9ura00 Cloudflare Workers + D1が制限はあるがとにかく安い。可用性も高い。個人開発レベルならばスケーリングで問題になることもないと思う。 可用性低くていいなら、適当な中古パソコン買ってきて自宅サーバーにして、 cloudflare tunnel で外部公開もあり。 最後にサーバ選びで大切なことはGMOを避ける。</description>
       <pubDate>Thu, 17 Sep 2026 06:46:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/YarmUI/status/2100476373945245885</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</title>
-      <link>https://x.com/amanelab/status/2100471156499431932</link>
-      <description>あまね工研: Cloudflare Tunnel は、自宅サーバを直接外に見せるのではなく、Cloudflare 側を入口にしたリバースプロキシのような仕組みです。自宅サーバは Cloudflare とだけ通信し、直接クライアントとはやり取りしません。Cloudflare Access と併用すれば、認証機構も入れられます。 https://t.co/QteozShaLU</description>
-      <pubDate>Thu, 17 Sep 2026 06:25:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amanelab/status/2100471156499431932</guid>
     </item>
   </channel>
 </rss>

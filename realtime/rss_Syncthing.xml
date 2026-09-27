@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Obsidianの同期設計を見直した：GitHub同期をLinux母艦に集約し、 Syncthing とn8n APIに分離する https://t.co/tH5fROyvCI Syncthing というツールの知識を得たことで、コンフリクト発生を避けるための実装をする気になった。</title>
+      <link>https://x.com/atauky/status/2103854859976163441</link>
+      <description>ベンコフ: Obsidianの同期設計を見直した：GitHub同期をLinux母艦に集約し、 Syncthing とn8n APIに分離する https://t.co/tH5fROyvCI Syncthing というツールの知識を得たことで、コンフリクト発生を避けるための実装をする気になった。</description>
+      <pubDate>Sat, 26 Sep 2026 14:31:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/atauky/status/2103854859976163441</guid>
+    </item>
+    <item>
       <title>やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</title>
       <link>https://x.com/himapoce/status/2103838074526679098</link>
       <description>ひまぽーす: やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</description>
@@ -269,13 +276,6 @@
       <description>置賜IoT情報交換会（仮）with IoTプロ・コミュニティ山形: (´ー｀) 。o（Logseq＋ Syncthing ＋ラズパイで、クラウドを経由しない、個人ナレッジ同期環境を作るプロジェクト...） https://t.co/tOcoMncsqS</description>
       <pubDate>Mon, 07 Sep 2026 20:37:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oitamaIoT/status/2097061731499704699</guid>
-    </item>
-    <item>
-      <title>複数PCのフォルダをクラウドストレージに預けず同期したいなら Syncthing 。端末同士で継続的に同期でき、通信はTLSで暗号化。接続する端末も明示的に許可する仕組み。Windows / macOS / Linuxなどで使えるオープンソース。</title>
-      <link>https://x.com/net_hakkutsu/status/2096561580678738065</link>
-      <description>アカリ｜ネット発掘室: 複数PCのフォルダをクラウドストレージに預けず同期したいなら Syncthing 。端末同士で継続的に同期でき、通信はTLSで暗号化。接続する端末も明示的に許可する仕組み。Windows / macOS / Linuxなどで使えるオープンソース。</description>
-      <pubDate>Sun, 06 Sep 2026 11:30:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/net_hakkutsu/status/2096561580678738065</guid>
     </item>
   </channel>
 </rss>

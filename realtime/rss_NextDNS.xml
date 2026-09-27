@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@tss_ontap_o 理解が正しいかわかりませんがCloudflareがRFCに従わず、glueを無条件に信用しキャッシュしてしまうということでしょうか？ 1.1.1.1や NextDNS 、J:COMのDNSが同じ問題を抱えている一方、8.8.8.8やAdGuard、Quad9、OpenDNSは安全そう...ですかね？</title>
+      <link>https://x.com/app_grove/status/2104060418956366238</link>
+      <description>AppGrove - アプリの並木: @tss_ontap_o 理解が正しいかわかりませんがCloudflareがRFCに従わず、glueを無条件に信用しキャッシュしてしまうということでしょうか？ 1.1.1.1や NextDNS 、J:COMのDNSが同じ問題を抱えている一方、8.8.8.8やAdGuard、Quad9、OpenDNSは安全そう...ですかね？</description>
+      <pubDate>Sun, 27 Sep 2026 04:07:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/app_grove/status/2104060418956366238</guid>
+    </item>
+    <item>
+      <title>NextDNS の先行アクセスでいくつも機能追加が行われていた。明示的に有効化する必要はある。レジデンシャルプロキシ対策はアツいけど、有用すぎて課金前提にならないか不安になるレベル https://t.co/LRlEnAdYqT</title>
+      <link>https://x.com/lightmare8/status/2103799386144936303</link>
+      <description>T0mmy: NextDNS の先行アクセスでいくつも機能追加が行われていた。明示的に有効化する必要はある。レジデンシャルプロキシ対策はアツいけど、有用すぎて課金前提にならないか不安になるレベル https://t.co/LRlEnAdYqT</description>
+      <pubDate>Sat, 26 Sep 2026 10:50:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/lightmare8/status/2103799386144936303</guid>
+    </item>
+    <item>
       <title>無料でDNSを使い続けるために NextDNS を噛ませた端末のブラウザにAdguardDNSを噛ませるみたいなダサいムーブをやめて大人しく年課金して脳の負担を減らしたい</title>
       <link>https://x.com/GooseberryPark/status/2103719194017857753</link>
       <description>🐤🐤🐤: 無料でDNSを使い続けるために NextDNS を噛ませた端末のブラウザにAdguardDNSを噛ませるみたいなダサいムーブをやめて大人しく年課金して脳の負担を減らしたい</description>
@@ -262,20 +276,6 @@
       <description>オオタトオル: NEXTDNS を使うのも有効です。 フィルタリングのプロバイダをいくつも設定できます ほとんどの有害なサイトはブロックされます。 https://t.co/AaP0k6MHuu</description>
       <pubDate>Sat, 05 Sep 2026 13:14:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/o_tooru/status/2096225566747951353</guid>
-    </item>
-    <item>
-      <title>NextDNS 一択だろ https://t.co/3KZ3fI3PoR</title>
-      <link>https://x.com/MCtech_Ringo/status/2095706415411474524</link>
-      <description>erialsan: NextDNS 一択だろ https://t.co/3KZ3fI3PoR</description>
-      <pubDate>Fri, 04 Sep 2026 02:52:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MCtech_Ringo/status/2095706415411474524</guid>
-    </item>
-    <item>
-      <title>お金はらって NextDNS ! Tailscaleとも相性ヨシ! https://t.co/6VFXXYJLNq</title>
-      <link>https://x.com/methylone/status/2095371856161468490</link>
-      <description>methylone: お金はらって NextDNS ! Tailscaleとも相性ヨシ! https://t.co/6VFXXYJLNq</description>
-      <pubDate>Thu, 03 Sep 2026 04:42:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/methylone/status/2095371856161468490</guid>
     </item>
   </channel>
 </rss>
