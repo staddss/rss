@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@namorton09 Syncthing のコンフリクト、私もローカルSSDで環境構築している時にハマりかけました…。ファイル競合は本当に焦りますよね。Google Keepへの逃避もすごくよく分かります。</title>
+      <link>https://x.com/DesignOkaka/status/2104148629086953670</link>
+      <description>okaka: @namorton09 Syncthing のコンフリクト、私もローカルSSDで環境構築している時にハマりかけました…。ファイル競合は本当に焦りますよね。Google Keepへの逃避もすごくよく分かります。</description>
+      <pubDate>Sun, 27 Sep 2026 09:58:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DesignOkaka/status/2104148629086953670</guid>
+    </item>
+    <item>
+      <title>Syncthing で共有している自宅サーバーのフォルダを長時間編集する時は、同期を一時停止して作業する方法があります。 https://t.co/KVaYmidwsl</title>
+      <link>https://x.com/murasametech/status/2104088662053179643</link>
+      <description>むらさん(Murasan): Syncthing で共有している自宅サーバーのフォルダを長時間編集する時は、同期を一時停止して作業する方法があります。 https://t.co/KVaYmidwsl</description>
+      <pubDate>Sun, 27 Sep 2026 06:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2104088662053179643</guid>
+    </item>
+    <item>
       <title>Obsidianの同期設計を見直した：GitHub同期をLinux母艦に集約し、 Syncthing とn8n APIに分離する https://t.co/tH5fROyvCI Syncthing というツールの知識を得たことで、コンフリクト発生を避けるための実装をする気になった。</title>
       <link>https://x.com/atauky/status/2103854859976163441</link>
       <description>ベンコフ: Obsidianの同期設計を見直した：GitHub同期をLinux母艦に集約し、 Syncthing とn8n APIに分離する https://t.co/tH5fROyvCI Syncthing というツールの知識を得たことで、コンフリクト発生を避けるための実装をする気になった。</description>
@@ -262,20 +276,6 @@
       <description>Kazunori Yamaguchi 山口和紀: ファイルは syncthing から、どのPCでも同期するようにして、paperlessは自宅サーバでhostして、外からはtailscaleで入る。 https://t.co/9vczqUaJuX</description>
       <pubDate>Wed, 09 Sep 2026 14:19:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kazunoriyamagu9/status/2097691420115313104</guid>
-    </item>
-    <item>
-      <title>Raspberry Pi公式が紹介した「第二の脳」。 Logseq＋ Syncthing ＋ラズパイで、自分のメモを自宅中心に同期。 ただし「同期＝バックアップ」ではありません。24時間運用向けに整理👇 https://t.co/uXGkN6gzwu #RaspberryPi #Logseq #PR</title>
-      <link>https://x.com/raspi24lab/status/2097111686180397298</link>
-      <description>ラズパイ節約ラボ: Raspberry Pi公式が紹介した「第二の脳」。 Logseq＋ Syncthing ＋ラズパイで、自分のメモを自宅中心に同期。 ただし「同期＝バックアップ」ではありません。24時間運用向けに整理👇 https://t.co/uXGkN6gzwu #RaspberryPi #Logseq #PR</description>
-      <pubDate>Mon, 07 Sep 2026 23:56:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/raspi24lab/status/2097111686180397298</guid>
-    </item>
-    <item>
-      <title>(´ー｀) 。o（Logseq＋ Syncthing ＋ラズパイで、クラウドを経由しない、個人ナレッジ同期環境を作るプロジェクト...） https://t.co/tOcoMncsqS</title>
-      <link>https://x.com/oitamaIoT/status/2097061731499704699</link>
-      <description>置賜IoT情報交換会（仮）with IoTプロ・コミュニティ山形: (´ー｀) 。o（Logseq＋ Syncthing ＋ラズパイで、クラウドを経由しない、個人ナレッジ同期環境を作るプロジェクト...） https://t.co/tOcoMncsqS</description>
-      <pubDate>Mon, 07 Sep 2026 20:37:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oitamaIoT/status/2097061731499704699</guid>
     </item>
   </channel>
 </rss>

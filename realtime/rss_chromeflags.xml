@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@marukun2227 @sakugosan @S0array 標準機能としてはできないけど、 chrome :// flags / これのplaylistっていうところをenabledにするとできるやで。</title>
+      <link>https://x.com/7k9Jx6N7hu96069/status/2104181565651583106</link>
+      <description>χ@凍結された: @marukun2227 @sakugosan @S0array 標準機能としてはできないけど、 chrome :// flags / これのplaylistっていうところをenabledにするとできるやで。</description>
+      <pubDate>Sun, 27 Sep 2026 12:09:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7k9Jx6N7hu96069/status/2104181565651583106</guid>
+    </item>
+    <item>
+      <title>@6529brave 解決策その1 アドレスバーに「 chrome :// flags /#force-color-profile」と入力 「Force color profile」の設定を Default から sRGB に変更 右下に表示される再起動を押す</title>
+      <link>https://x.com/Black_saaaan/status/2103834534194315362</link>
+      <description>Wood: @6529brave 解決策その1 アドレスバーに「 chrome :// flags /#force-color-profile」と入力 「Force color profile」の設定を Default から sRGB に変更 右下に表示される再起動を押す</description>
+      <pubDate>Sat, 26 Sep 2026 13:10:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Black_saaaan/status/2103834534194315362</guid>
+    </item>
+    <item>
       <title>Chromeのタブ垂直表示、正式に実装されたんですね。 （今まではβ版の chrome :// flags で試験フラグEnable操作が必要だった） 何十個もタブを同時に開くので重宝しています。 https://t.co/oWKlNv4cfD</title>
       <link>https://x.com/kswmochi/status/2103319904741134737</link>
       <description>Billy: Chromeのタブ垂直表示、正式に実装されたんですね。 （今まではβ版の chrome :// flags で試験フラグEnable操作が必要だった） 何十個もタブを同時に開くので重宝しています。 https://t.co/oWKlNv4cfD</description>
@@ -208,13 +222,6 @@
       <guid isPermaLink="true">https://x.com/HideStarV/status/2098247040451145832</guid>
     </item>
     <item>
-      <title>iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</title>
-      <link>https://x.com/shin_f/status/2098229746350100541</link>
-      <description>しん: iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</description>
-      <pubDate>Fri, 11 Sep 2026 01:58:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shin_f/status/2098229746350100541</guid>
-    </item>
-    <item>
       <title>Google Chrome の微妙すぎるアドレスバー、 chrome :// flags から ChromeNextIa を無効にすると元に戻せます このアドレスバーになるくらいならもう別のブラウザでいいかな https://t.co/a19qXPxmZe</title>
       <link>https://x.com/ntzr_hc/status/2098215334402785298</link>
       <description>りおんさん: Google Chrome の微妙すぎるアドレスバー、 chrome :// flags から ChromeNextIa を無効にすると元に戻せます このアドレスバーになるくらいならもう別のブラウザでいいかな https://t.co/a19qXPxmZe</description>
@@ -269,13 +276,6 @@
       <description>鹿王🦌: @crqasd ブラウザのハードウェアアクセラレーションをオフにする。 Chromeなら chrome :// flags /#use-angleを開いてD3D11on12を有効にする。 Windows 11のアプリの色を自動的に管理するをオフにする。 Nvidiaコントロールパネルで色深度を8から10に変える。 といった応急処置が出てきた。 https://t.co/6L52QLrDfH</description>
       <pubDate>Sun, 06 Sep 2026 03:24:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/DeerLord/status/2096439276125000096</guid>
-    </item>
-    <item>
-      <title>最近スマホ版のChrome使いにくすぎたので戻してみた chrome :// flags /#chrome-next-ia ↑をURL欄に。写真2〜3のようにして、再起動4のようになれば成功 https://t.co/WCCXwjl960</title>
-      <link>https://x.com/jank_cocoa/status/2095533288916123950</link>
-      <description>ココア＠バ美肉ジャンク系Vtuberになりたい: 最近スマホ版のChrome使いにくすぎたので戻してみた chrome :// flags /#chrome-next-ia ↑をURL欄に。写真2〜3のようにして、再起動4のようになれば成功 https://t.co/WCCXwjl960</description>
-      <pubDate>Thu, 03 Sep 2026 15:24:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jank_cocoa/status/2095533288916123950</guid>
     </item>
   </channel>
 </rss>

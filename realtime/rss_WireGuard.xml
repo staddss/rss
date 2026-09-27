@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>DDNS: os-ddclient プラグインでCloudFlareに接続 OpenVPN: FireTVなど証明書共有用 WireGuard : 個別マシン設定用 日本の友人によるとYamahaのルーターが定番のようですが、アメリカでは売っていないです。 ASUSのVPNルーターは１年で故障しました。あまり評判よくないみたい。 #VPN #ルーター</title>
+      <link>https://x.com/SuzukaBike/status/2104151019764818075</link>
+      <description>2拠点(🇯🇵⇄🇺🇸)ライダー｜GROM・YZ250・EC250: DDNS: os-ddclient プラグインでCloudFlareに接続 OpenVPN: FireTVなど証明書共有用 WireGuard : 個別マシン設定用 日本の友人によるとYamahaのルーターが定番のようですが、アメリカでは売っていないです。 ASUSのVPNルーターは１年で故障しました。あまり評判よくないみたい。 #VPN #ルーター</description>
+      <pubDate>Sun, 27 Sep 2026 10:07:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SuzukaBike/status/2104151019764818075</guid>
+    </item>
+    <item>
+      <title>@shiba_bnr34 Androidは今はIKEv2縛りみたいですね... WireGuard は対応してるルータどこだ...(Linuxサーバに入れてNAPTの穴掘りしないといけなさそうなヤカン) 自分が家のNVRにL2TP仕込んだの、おそくとも2019年の春みたいです。うーん、覚えてないｗ</title>
+      <link>https://x.com/g_plains/status/2104146059157201302</link>
+      <description>こてつ(ONO,Tetsuo): @shiba_bnr34 Androidは今はIKEv2縛りみたいですね... WireGuard は対応してるルータどこだ...(Linuxサーバに入れてNAPTの穴掘りしないといけなさそうなヤカン) 自分が家のNVRにL2TP仕込んだの、おそくとも2019年の春みたいです。うーん、覚えてないｗ</description>
+      <pubDate>Sun, 27 Sep 2026 09:48:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2104146059157201302</guid>
+    </item>
+    <item>
+      <title>Lolipopで固定IPサービスを契約しているんだけど、 Wireguard を有効にしてWSL2からリモートにSSHログインすると操作が途中で止まってしまっていた。.wslconfigに [wsl2] networkingMode=mirrored と書くと解決した</title>
+      <link>https://x.com/EilinenTuuli/status/2104145762179584232</link>
+      <description>K.N🇵🇸: Lolipopで固定IPサービスを契約しているんだけど、 Wireguard を有効にしてWSL2からリモートにSSHログインすると操作が途中で止まってしまっていた。.wslconfigに [wsl2] networkingMode=mirrored と書くと解決した</description>
+      <pubDate>Sun, 27 Sep 2026 09:46:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/EilinenTuuli/status/2104145762179584232</guid>
+    </item>
+    <item>
+      <title>Metrolistのフォークで WireGuard によるアプリ内プロキシや常にモバイルデータを使う機能、一部Liquid Glass UI対応したYT MusicストリーミングアプリのPipeTune作ったので気になったら見て https://t.co/5FauWQk2Fi</title>
+      <link>https://x.com/horihori1385/status/2103998848909848600</link>
+      <description>horihori: Metrolistのフォークで WireGuard によるアプリ内プロキシや常にモバイルデータを使う機能、一部Liquid Glass UI対応したYT MusicストリーミングアプリのPipeTune作ったので気になったら見て https://t.co/5FauWQk2Fi</description>
+      <pubDate>Sun, 27 Sep 2026 00:03:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/horihori1385/status/2103998848909848600</guid>
+    </item>
+    <item>
       <title>1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</title>
       <link>https://x.com/tomatojuice_7/status/2103970414154350850</link>
       <description>Tomato Juice (とまとじゅーす): 1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</description>
@@ -248,34 +276,6 @@
       <description>みにっつ.ts: Tailscale(Exit Node) + ProtonVPN( WireGuard )だと繋いでるサーバーがメンテナンスとかで落ちると通信不能になったので ProtonVPN(OpenVPN)に切り替えたよっていうひとりごと。</description>
       <pubDate>Thu, 17 Sep 2026 22:34:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dikndisk081/status/2100715028592857222</guid>
-    </item>
-    <item>
-      <title>TerraformでEC2・K8s・Docker上に開発環境を定義し、 WireGuard 接続＋アイドル自動停止で運用できるセルフホスト基盤。AIエージェントは制御プレーンで動作し、APIキーをワークスペースに置かず集中管理できるのが実用的。環境構築に数日かかるチームは試す価値あり？ https://t.co/zkinNHWKzw</title>
-      <link>https://x.com/LFrefman/status/2100535032259707134</link>
-      <description>Git_Shark: TerraformでEC2・K8s・Docker上に開発環境を定義し、 WireGuard 接続＋アイドル自動停止で運用できるセルフホスト基盤。AIエージェントは制御プレーンで動作し、APIキーをワークスペースに置かず集中管理できるのが実用的。環境構築に数日かかるチームは試す価値あり？ https://t.co/zkinNHWKzw</description>
-      <pubDate>Thu, 17 Sep 2026 10:39:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LFrefman/status/2100535032259707134</guid>
-    </item>
-    <item>
-      <title>記事だとわからなかったけど、確認したらアプリの作り自体が「Rethink DNS + Firewall + WireGuard VPN / Proxy」か VPNは使わなくても良い、と https://t.co/hA3q88kCSW https://t.co/IjCs7xSnet https://t.co/MBqKUxM0pX https://t.co/9fjjZkgGWu</title>
-      <link>https://x.com/osakanataro2/status/2100512245835075957</link>
-      <description>OSAKANA TARO: 記事だとわからなかったけど、確認したらアプリの作り自体が「Rethink DNS + Firewall + WireGuard VPN / Proxy」か VPNは使わなくても良い、と https://t.co/hA3q88kCSW https://t.co/IjCs7xSnet https://t.co/MBqKUxM0pX https://t.co/9fjjZkgGWu</description>
-      <pubDate>Thu, 17 Sep 2026 09:08:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/osakanataro2/status/2100512245835075957</guid>
-    </item>
-    <item>
-      <title>Tailscaleのsubnet routerってあれほんとにルーターっぽくNATしてんかな、ufwでVPNのサブネット入れてないのにアクセス出来てたから WireGuard だと特にそういうのがなくてufwに入れない、今更一個ずつサブネット許可するのめんどくさいんだよな</title>
-      <link>https://x.com/public_zakojb/status/2100507305142014183</link>
-      <description>優羽: Tailscaleのsubnet routerってあれほんとにルーターっぽくNATしてんかな、ufwでVPNのサブネット入れてないのにアクセス出来てたから WireGuard だと特にそういうのがなくてufwに入れない、今更一個ずつサブネット許可するのめんどくさいんだよな</description>
-      <pubDate>Thu, 17 Sep 2026 08:49:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/public_zakojb/status/2100507305142014183</guid>
-    </item>
-    <item>
-      <title>ちなみに今回は多分だけど wireguard 用にいじった設定のせいでaptまで影響が出てたよ</title>
-      <link>https://x.com/fugudoku_ttx/status/2100471104158757018</link>
-      <description>ふぐ毒: ちなみに今回は多分だけど wireguard 用にいじった設定のせいでaptまで影響が出てたよ</description>
-      <pubDate>Thu, 17 Sep 2026 06:25:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fugudoku_ttx/status/2100471104158757018</guid>
     </item>
   </channel>
 </rss>

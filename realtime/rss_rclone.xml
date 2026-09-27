@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/superdoccimo/status/2103859468916445605</guid>
     </item>
     <item>
+      <title>USB HDDはNASから外してLinux PC側へ。毎晩の rclone でGoogle Driveへ保存した後、rsyncでUSB HDDにも複製する流れにしました。 初回は約2万4千件・76GBを45分で完了。 NAS・クラウド・USB HDDの3か所体制に。 #rsync # rclone #バックアップ</title>
+      <link>https://x.com/NamikiAssoc/status/2103816218570551531</link>
+      <description>Namiki Associates K. K.: USB HDDはNASから外してLinux PC側へ。毎晩の rclone でGoogle Driveへ保存した後、rsyncでUSB HDDにも複製する流れにしました。 初回は約2万4千件・76GBを45分で完了。 NAS・クラウド・USB HDDの3か所体制に。 #rsync # rclone #バックアップ</description>
+      <pubDate>Sat, 26 Sep 2026 11:57:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NamikiAssoc/status/2103816218570551531</guid>
+    </item>
+    <item>
       <title>googleドライブ等は rclone か何かで自前の暗号レイヤー必須</title>
       <link>https://x.com/CipherLilium/status/2103472370333933798</link>
       <description>リリア: googleドライブ等は rclone か何かで自前の暗号レイヤー必須</description>
@@ -269,13 +276,6 @@
       <description>ミトコンドリオン: @tym1101 あの短いやり取りでもうここまで…（すごい） Tailscale(SMB)→RSAF( rclone )→端末の構成にして、 rclone のキャッシュを確保してあげればネットワーク不安定時も途切れずに再生できるようになるとおもう！</description>
       <pubDate>Wed, 02 Sep 2026 03:40:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mitochon_88/status/2094993953150185799</guid>
-    </item>
-    <item>
-      <title>@KinHase それはとりあえず、macOSでgoogle drive をマウントして、新着確認して実装してました。 https://t.co/E3OnlgSjdP 今回は、gsheets とかをどうやってバックアップしようかと調べてたところで、 rclone に行き着きました。</title>
-      <link>https://x.com/naopi298/status/2093598078473490884</link>
-      <description>なおっぴ: @KinHase それはとりあえず、macOSでgoogle drive をマウントして、新着確認して実装してました。 https://t.co/E3OnlgSjdP 今回は、gsheets とかをどうやってバックアップしようかと調べてたところで、 rclone に行き着きました。</description>
-      <pubDate>Sat, 29 Aug 2026 07:14:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/naopi298/status/2093598078473490884</guid>
     </item>
   </channel>
 </rss>

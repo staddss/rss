@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>5年ぶりくらい？に Rails チュートリアル始めてみた。自分のソフトウェア開発の原点というのもあり、エモい！ チュートリアル通りに GitHub Codespaces + Render で進めているけど、なんて便利なんだ！色々と進化している。 初めて挑戦した時は Heroku</title>
+      <link>https://x.com/hayasakadaichi/status/2104211952025391119</link>
+      <description>hayachi | XR・AI・数学: 5年ぶりくらい？に Rails チュートリアル始めてみた。自分のソフトウェア開発の原点というのもあり、エモい！ チュートリアル通りに GitHub Codespaces + Render で進めているけど、なんて便利なんだ！色々と進化している。 初めて挑戦した時は Heroku</description>
+      <pubDate>Sun, 27 Sep 2026 14:09:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hayasakadaichi/status/2104211952025391119</guid>
+    </item>
+    <item>
       <title>【新着記事】結論ファースト：GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と導入手順（実務ガイド） https://t.co/o9dITJZL6V #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2104068878846333204</link>
       <description>EngiNear: 【新着記事】結論ファースト：GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と導入手順（実務ガイド） https://t.co/o9dITJZL6V #エンジニア #ChatGPT #AI</description>
@@ -269,13 +276,6 @@
       <description>MP0¹⁰⁴: CodexやClaude Code…便利だけど、PCを持ち運ぶ間に作業を停止させないといけないのがなぁ。 プロンプトだけ投げたらPCをシャットダウンしてもクラウド上で処理して、移動先でパソコン立ち上げたら続きができる仕組みがあったらなぁ… GitHub Codespaces 、クラウドVM、VPS💡 https://t.co/BtjwVbMs7u</description>
       <pubDate>Wed, 09 Sep 2026 06:38:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/potter2023fpa/status/2097575316768325762</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9 どれを選ぶべきか（実務パターン別） https://t.co/jNJWlZ7yJQ #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2097485541797245437</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの最短決定ガイド： Codespaces ・Gitpod・Cloud9 どれを選ぶべきか（実務パターン別） https://t.co/jNJWlZ7yJQ #エンジニア #ChatGPT #AI</description>
-      <pubDate>Wed, 09 Sep 2026 00:41:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2097485541797245437</guid>
     </item>
   </channel>
 </rss>
