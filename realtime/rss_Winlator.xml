@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Winlator%22</link>
     <description>Latest search results for '&quot;Winlator&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromebook Crostini 上で Box64 - Wine を動かす実験、結局 Crostini の仮想環境では GPU にアクセスが困難で、フォールバックの WineD3D になるので、DirectDraw 時代の 2D ゲームはまあまあ動くが、それ以外は厳しいという結果に。 Android 環境の Winlator か Termux 上で遊ぶのがいいと思う。</title>
+      <link>https://x.com/sakisan_28/status/2104048730643308602</link>
+      <description>Takayuki Iwasaki: Chromebook Crostini 上で Box64 - Wine を動かす実験、結局 Crostini の仮想環境では GPU にアクセスが困難で、フォールバックの WineD3D になるので、DirectDraw 時代の 2D ゲームはまあまあ動くが、それ以外は厳しいという結果に。 Android 環境の Winlator か Termux 上で遊ぶのがいいと思う。</description>
+      <pubDate>Sun, 27 Sep 2026 03:21:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2104048730643308602</guid>
+    </item>
+    <item>
       <title>しかし結局何周も回って、 Winlator が一番簡単で、最適化もされていてパフォーマンスが良いという結論に。</title>
       <link>https://x.com/sakisan_28/status/2103850550723019121</link>
       <description>Takayuki Iwasaki: しかし結局何周も回って、 Winlator が一番簡単で、最適化もされていてパフォーマンスが良いという結論に。</description>

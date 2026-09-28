@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2104007205234118943</guid>
     </item>
     <item>
+      <title>GitHubに届いてるセキュリティアラート、自動処理に失敗したので Codespaces 開いてCopilotで対処してるけど、各社モデルが激しく強くなったので、この辺に出てくる廉価版モデルでも全然実用レベルだな……</title>
+      <link>https://x.com/toyoshim/status/2103869649310171559</link>
+      <description>とよしま: GitHubに届いてるセキュリティアラート、自動処理に失敗したので Codespaces 開いてCopilotで対処してるけど、各社モデルが激しく強くなったので、この辺に出てくる廉価版モデルでも全然実用レベルだな……</description>
+      <pubDate>Sat, 26 Sep 2026 15:29:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/toyoshim/status/2103869649310171559</guid>
+    </item>
+    <item>
       <title>@werner_welge1 14 failsからBUILD SUCCESSFULまで持っていくの、しびれますね笑。AABの署名までスマホ完結とのことですが、 Codespaces ではどこまで触っていますか？</title>
       <link>https://x.com/rpa_dake/status/2103798119481979046</link>
       <description>RPA | tool製作: @werner_welge1 14 failsからBUILD SUCCESSFULまで持っていくの、しびれますね笑。AABの署名までスマホ完結とのことですが、 Codespaces ではどこまで触っていますか？</description>
@@ -269,13 +276,6 @@
       <description>ketsumedo_yarou: codespaces 起動 -&gt; claude codeインスコして起動 とするだけで、（最近リモコネが自動で発動するようになったので）claudeスマホアプリからそのclaude codeに対しスマホ自然言語コーディングできるんだな</description>
       <pubDate>Wed, 09 Sep 2026 13:53:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ketsumedo_yarou/status/2097684886127874390</guid>
-    </item>
-    <item>
-      <title>CodexやClaude Code…便利だけど、PCを持ち運ぶ間に作業を停止させないといけないのがなぁ。 プロンプトだけ投げたらPCをシャットダウンしてもクラウド上で処理して、移動先でパソコン立ち上げたら続きができる仕組みがあったらなぁ… GitHub Codespaces 、クラウドVM、VPS💡 https://t.co/BtjwVbMs7u</title>
-      <link>https://x.com/potter2023fpa/status/2097575316768325762</link>
-      <description>MP0¹⁰⁴: CodexやClaude Code…便利だけど、PCを持ち運ぶ間に作業を停止させないといけないのがなぁ。 プロンプトだけ投げたらPCをシャットダウンしてもクラウド上で処理して、移動先でパソコン立ち上げたら続きができる仕組みがあったらなぁ… GitHub Codespaces 、クラウドVM、VPS💡 https://t.co/BtjwVbMs7u</description>
-      <pubDate>Wed, 09 Sep 2026 06:38:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/potter2023fpa/status/2097575316768325762</guid>
     </item>
   </channel>
 </rss>

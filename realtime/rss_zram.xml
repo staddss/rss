@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>swap領域を圧縮する実装として主に ZRAM とZswapがあるが、ハイバネーションを実現するためには ZRAM は使えないらしい。Zswapを採用しましょう。知見だ。 / “Swap, ZRAM , Zswap and Hibernate on NixOS” https://t.co/iQRQRQV129</title>
+      <link>https://x.com/matsuu/status/2104225789814428152</link>
+      <description>matsuu: swap領域を圧縮する実装として主に ZRAM とZswapがあるが、ハイバネーションを実現するためには ZRAM は使えないらしい。Zswapを採用しましょう。知見だ。 / “Swap, ZRAM , Zswap and Hibernate on NixOS” https://t.co/iQRQRQV129</description>
+      <pubDate>Sun, 27 Sep 2026 15:04:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/matsuu/status/2104225789814428152</guid>
+    </item>
+    <item>
+      <title>メモリ8GBでも、 zram やswapを駆使しつつできるだけ本体で処理しないよう工夫すれば️全然⭕️</title>
+      <link>https://x.com/reverie_rei_/status/2103869997554815232</link>
+      <description>糖衣: メモリ8GBでも、 zram やswapを駆使しつつできるだけ本体で処理しないよう工夫すれば️全然⭕️</description>
+      <pubDate>Sat, 26 Sep 2026 15:31:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/reverie_rei_/status/2103869997554815232</guid>
+    </item>
+    <item>
       <title>【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</title>
       <link>https://x.com/studio_omochi_/status/2103439383605223655</link>
       <description>スタジオおもち @ワーカーさんの意見を発信してます: 【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</description>

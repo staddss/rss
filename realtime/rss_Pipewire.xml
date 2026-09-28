@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>/etc/ pipewire / pipewire .conf.d/microphone-filter-chain-echo-cancel.confの webrtc.gain_control2.enabledをfalseにしてやると音質を保ちつつエコーキャンセルが効く が、ホワイトノイズが出る</title>
+      <link>https://x.com/qqqqwsxcd/status/2103903213904974124</link>
+      <description>q: /etc/ pipewire / pipewire .conf.d/microphone-filter-chain-echo-cancel.confの webrtc.gain_control2.enabledをfalseにしてやると音質を保ちつつエコーキャンセルが効く が、ホワイトノイズが出る</description>
+      <pubDate>Sat, 26 Sep 2026 17:43:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/qqqqwsxcd/status/2103903213904974124</guid>
+    </item>
+    <item>
       <title>GNOME Remote Desktop 50でビデオキャプチャデバイスのリダイレクトに対応した（mstsc.exe側でビデオキャプチャデバイスを有効にするとLinux側で PipeWire を通じて見える）んだけど、思ったより全然遅延がなくてちゃんとしてた。</title>
       <link>https://x.com/shimarin/status/2102217423172866263</link>
       <description>嶋田大貴: GNOME Remote Desktop 50でビデオキャプチャデバイスのリダイレクトに対応した（mstsc.exe側でビデオキャプチャデバイスを有効にするとLinux側で PipeWire を通じて見える）んだけど、思ったより全然遅延がなくてちゃんとしてた。</description>

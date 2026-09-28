@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@tss_ontap_o 軽く試した限りでは上記のような状況でした。Cloudflareと NextDNS を愛用していましたが考え直そうと思います。</title>
+      <link>https://x.com/app_grove/status/2104272113255546901</link>
+      <description>AppGrove - アプリの並木: @tss_ontap_o 軽く試した限りでは上記のような状況でした。Cloudflareと NextDNS を愛用していましたが考え直そうと思います。</description>
+      <pubDate>Sun, 27 Sep 2026 18:09:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/app_grove/status/2104272113255546901</guid>
+    </item>
+    <item>
+      <title>Tailscale+ NextDNS 使うとスマホも広告ブロック働いてよき ネットワークに絡むもので欲しいものが詰まってる🎁 挙動に不満があったBrave君、起動するとDiscordで不具合起きるようになったAdGuard君さよなら…</title>
+      <link>https://x.com/_krnya_/status/2104124021126332609</link>
+      <description>alice: Tailscale+ NextDNS 使うとスマホも広告ブロック働いてよき ネットワークに絡むもので欲しいものが詰まってる🎁 挙動に不満があったBrave君、起動するとDiscordで不具合起きるようになったAdGuard君さよなら…</description>
+      <pubDate>Sun, 27 Sep 2026 08:20:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_krnya_/status/2104124021126332609</guid>
+    </item>
+    <item>
       <title>@tss_ontap_o 理解が正しいかわかりませんがCloudflareがRFCに従わず、glueを無条件に信用しキャッシュしてしまうということでしょうか？ 1.1.1.1や NextDNS 、J:COMのDNSが同じ問題を抱えている一方、8.8.8.8やAdGuard、Quad9、OpenDNSは安全そう...ですかね？</title>
       <link>https://x.com/app_grove/status/2104060418956366238</link>
       <description>AppGrove - アプリの並木: @tss_ontap_o 理解が正しいかわかりませんがCloudflareがRFCに従わず、glueを無条件に信用しキャッシュしてしまうということでしょうか？ 1.1.1.1や NextDNS 、J:COMのDNSが同じ問題を抱えている一方、8.8.8.8やAdGuard、Quad9、OpenDNSは安全そう...ですかね？</description>
@@ -262,20 +276,6 @@
       <description>しお: とあるドメインがなぜか https://t.co/BQdVSnyZm1 のサーバのアドレスをひいていてなぜかと思ったら NextDNS のせいだった（dropされてた）</description>
       <pubDate>Wed, 09 Sep 2026 08:07:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/o_sio/status/2097597627764453584</guid>
-    </item>
-    <item>
-      <title>Adguard DNSのフィルター AdGuard DNSフィルタ AdGuard DNS ポップアップホストフィルタ uBlock₀ filters – Badware risks を入れているけど .click をブロックしてくれない 自分でフィルタ作成するしかないのか NextDNS だとチェック入れるだけで簡単なんだけど https://t.co/0BD2TWLlYh</title>
-      <link>https://x.com/imabarizine/status/2096323722278060294</link>
-      <description>IMABARIxZINE: Adguard DNSのフィルター AdGuard DNSフィルタ AdGuard DNS ポップアップホストフィルタ uBlock₀ filters – Badware risks を入れているけど .click をブロックしてくれない 自分でフィルタ作成するしかないのか NextDNS だとチェック入れるだけで簡単なんだけど https://t.co/0BD2TWLlYh</description>
-      <pubDate>Sat, 05 Sep 2026 19:44:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imabarizine/status/2096323722278060294</guid>
-    </item>
-    <item>
-      <title>NEXTDNS を使うのも有効です。 フィルタリングのプロバイダをいくつも設定できます ほとんどの有害なサイトはブロックされます。 https://t.co/AaP0k6MHuu</title>
-      <link>https://x.com/o_tooru/status/2096225566747951353</link>
-      <description>オオタトオル: NEXTDNS を使うのも有効です。 フィルタリングのプロバイダをいくつも設定できます ほとんどの有害なサイトはブロックされます。 https://t.co/AaP0k6MHuu</description>
-      <pubDate>Sat, 05 Sep 2026 13:14:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/o_tooru/status/2096225566747951353</guid>
     </item>
   </channel>
 </rss>

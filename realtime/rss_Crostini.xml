@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Crostini%22</link>
     <description>Latest search results for '&quot;Crostini&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromebook Crostini 上で Box64 - Wine を動かす実験、結局 Crostini の仮想環境では GPU にアクセスが困難で、フォールバックの WineD3D になるので、DirectDraw 時代の 2D ゲームはまあまあ動くが、それ以外は厳しいという結果に。 Android 環境の Winlator か Termux 上で遊ぶのがいいと思う。</title>
+      <link>https://x.com/sakisan_28/status/2104048730643308602</link>
+      <description>Takayuki Iwasaki: Chromebook Crostini 上で Box64 - Wine を動かす実験、結局 Crostini の仮想環境では GPU にアクセスが困難で、フォールバックの WineD3D になるので、DirectDraw 時代の 2D ゲームはまあまあ動くが、それ以外は厳しいという結果に。 Android 環境の Winlator か Termux 上で遊ぶのがいいと思う。</description>
+      <pubDate>Sun, 27 Sep 2026 03:21:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2104048730643308602</guid>
+    </item>
+    <item>
       <title>ARM64 な Chromebook で、Windows アプリを動かす方法、大きく ・Android 用の Winlator を使う ・ Crostini で、box64 をビルドし、x86_64 用のアーカイブを使う の2つがあるけど、結果としては box64 の方が動作は高速だったが、労力を考えると Winlator のほうがずっと良かった。まずは Winlator を</title>
       <link>https://x.com/sakisan_28/status/2103359175548129681</link>
       <description>Takayuki Iwasaki: ARM64 な Chromebook で、Windows アプリを動かす方法、大きく ・Android 用の Winlator を使う ・ Crostini で、box64 をビルドし、x86_64 用のアーカイブを使う の2つがあるけど、結果としては box64 の方が動作は高速だったが、労力を考えると Winlator のほうがずっと良かった。まずは Winlator を</description>

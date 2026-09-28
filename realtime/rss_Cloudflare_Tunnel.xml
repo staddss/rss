@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>うーん、ミーティング中にアプリを作れとclaudeに指示して、ミーティングの終わりには、 cloudflare tunnel 経由で固定ドメインのプロトタイプを共有、というのができてしまった 恐ろしい時代だなぁ</title>
+      <link>https://x.com/tokoroten/status/2104466719913935115</link>
+      <description>ところてん: うーん、ミーティング中にアプリを作れとclaudeに指示して、ミーティングの終わりには、 cloudflare tunnel 経由で固定ドメインのプロトタイプを共有、というのができてしまった 恐ろしい時代だなぁ</description>
+      <pubDate>Mon, 28 Sep 2026 07:02:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tokoroten/status/2104466719913935115</guid>
+    </item>
+    <item>
+      <title>@canmi21 沒開 cloudflare tunnel 單用tailscale已經很方便了🥺</title>
+      <link>https://x.com/nebulucia/status/2104390503877992651</link>
+      <description>y.a.e🇦🇺: @canmi21 沒開 cloudflare tunnel 單用tailscale已經很方便了🥺</description>
+      <pubDate>Mon, 28 Sep 2026 01:59:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nebulucia/status/2104390503877992651</guid>
+    </item>
+    <item>
+      <title>@robina33jp ね〜 実家にMiniPC置いてきたのまじで正解だわ そこにサーバープログラム設置して、 Cloudflare Tunnel でバイパスして、自前ドメインに紐づけ 自分で使う用はAutheliaで入口保護すれば、もうそれだけで個人アプリの完成よ</title>
+      <link>https://x.com/LunarHealWisdom/status/2104135541449228746</link>
+      <description>🧸🐉Yomi Watanuki: @robina33jp ね〜 実家にMiniPC置いてきたのまじで正解だわ そこにサーバープログラム設置して、 Cloudflare Tunnel でバイパスして、自前ドメインに紐づけ 自分で使う用はAutheliaで入口保護すれば、もうそれだけで個人アプリの完成よ</description>
+      <pubDate>Sun, 27 Sep 2026 09:06:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunarHealWisdom/status/2104135541449228746</guid>
+    </item>
+    <item>
       <title>良し 自作AIのデモの準備は一通り整ったから明日課長に見せるか。 課内用のgithubのprivateのリポジトリにソースもあげといたけど、とてもコードレビューする気になるようなボリュームじゃないから、まあ中身は見ないだろうw Cloudflare Tunnel で簡単にローカル環境のデモできるの本当に便利だな～</title>
       <link>https://x.com/nanananaaa615/status/2103915915775770857</link>
       <description>ならし！: 良し 自作AIのデモの準備は一通り整ったから明日課長に見せるか。 課内用のgithubのprivateのリポジトリにソースもあげといたけど、とてもコードレビューする気になるようなボリュームじゃないから、まあ中身は見ないだろうw Cloudflare Tunnel で簡単にローカル環境のデモできるの本当に便利だな～</description>
@@ -255,27 +276,6 @@
       <description>ぱけと｜新卒1年目: Cloudflare Tunnel 、無料プランだと100MB/req のアップロード制限があるのでそこだけ注意ですね。 本当に良いサービス。 https://t.co/pmqSu8cSPD</description>
       <pubDate>Thu, 17 Sep 2026 15:26:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/packet_lost_/status/2100607340693053918</guid>
-    </item>
-    <item>
-      <title>@black_kuroda Cloudflare Tunnel 自体というより、Cloudflare のプロキシ経由アップロード上限です。Free/Pro は約100MB、Business は約200MB。大きいファイルは分割アップロード、または DNS only / 非HTTPなら TCP 経路を検討を。 ローカル公開なら cftunnel（無料内網貫通・無料ドメイン・MIT）も便利です https://t.co/U4Bw0rSGFC</title>
-      <link>https://x.com/JayQinQT/status/2100606548401652160</link>
-      <description>Jay: @black_kuroda Cloudflare Tunnel 自体というより、Cloudflare のプロキシ経由アップロード上限です。Free/Pro は約100MB、Business は約200MB。大きいファイルは分割アップロード、または DNS only / 非HTTPなら TCP 経路を検討を。 ローカル公開なら cftunnel（無料内網貫通・無料ドメイン・MIT）も便利です https://t.co/U4Bw0rSGFC</description>
-      <pubDate>Thu, 17 Sep 2026 15:23:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JayQinQT/status/2100606548401652160</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel の100MBだかのアップロード制限は？</title>
-      <link>https://x.com/black_kuroda/status/2100592562876870775</link>
-      <description>ぱんだこω: Cloudflare Tunnel の100MBだかのアップロード制限は？</description>
-      <pubDate>Thu, 17 Sep 2026 14:27:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/black_kuroda/status/2100592562876870775</guid>
-    </item>
-    <item>
-      <title>@9ura00 Cloudflare Workers + D1が制限はあるがとにかく安い。可用性も高い。個人開発レベルならばスケーリングで問題になることもないと思う。 可用性低くていいなら、適当な中古パソコン買ってきて自宅サーバーにして、 cloudflare tunnel で外部公開もあり。 最後にサーバ選びで大切なことはGMOを避ける。</title>
-      <link>https://x.com/YarmUI/status/2100476373945245885</link>
-      <description>やも@: @9ura00 Cloudflare Workers + D1が制限はあるがとにかく安い。可用性も高い。個人開発レベルならばスケーリングで問題になることもないと思う。 可用性低くていいなら、適当な中古パソコン買ってきて自宅サーバーにして、 cloudflare tunnel で外部公開もあり。 最後にサーバ選びで大切なことはGMOを避ける。</description>
-      <pubDate>Thu, 17 Sep 2026 06:46:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/YarmUI/status/2100476373945245885</guid>
     </item>
   </channel>
 </rss>

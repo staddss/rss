@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Batocera41時代に扱ってた rclone -v1.69.1-go2.tar.gz なら一応通るみたい。 現行版のReleasesにはgo2用アーカイブなくてコケてる模様。</title>
+      <link>https://x.com/NullPopPoLab/status/2104490836436340905</link>
+      <description>ぬるぽっぽ工房: Batocera41時代に扱ってた rclone -v1.69.1-go2.tar.gz なら一応通るみたい。 現行版のReleasesにはgo2用アーカイブなくてコケてる模様。</description>
+      <pubDate>Mon, 28 Sep 2026 08:38:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NullPopPoLab/status/2104490836436340905</guid>
+    </item>
+    <item>
+      <title>rclone v1.72.1 もない。 https://t.co/T74LOrY1FK ソースならある。 https://t.co/Tq5xsCpKcj</title>
+      <link>https://x.com/NullPopPoLab/status/2104477066603438220</link>
+      <description>ぬるぽっぽ工房: rclone v1.72.1 もない。 https://t.co/T74LOrY1FK ソースならある。 https://t.co/Tq5xsCpKcj</description>
+      <pubDate>Mon, 28 Sep 2026 07:43:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NullPopPoLab/status/2104477066603438220</guid>
+    </item>
+    <item>
+      <title>クラウド間のファイル移動や同期をまとめて扱いたいなら rclone 。70以上のクラウドストレージに対応する無料OSSで、コピー・同期・暗号化・マウントなどをコマンドラインから操作できる。複数サービスをまたいで管理したい時に強い。 https://t.co/nBzQMJpxqP</title>
+      <link>https://x.com/net_hakkutsu/status/2104413313945784600</link>
+      <description>アカリ｜ネット発掘室: クラウド間のファイル移動や同期をまとめて扱いたいなら rclone 。70以上のクラウドストレージに対応する無料OSSで、コピー・同期・暗号化・マウントなどをコマンドラインから操作できる。複数サービスをまたいで管理したい時に強い。 https://t.co/nBzQMJpxqP</description>
+      <pubDate>Mon, 28 Sep 2026 03:30:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/net_hakkutsu/status/2104413313945784600</guid>
+    </item>
+    <item>
+      <title>クラウド検閲話題でよく挙がる Cryptomator を試用した感想 ●検閲嫌いの方にはお勧めできる ●GUIが親切。 Rclone Crypt と違い黒画面を触る必要がない ●クラウド関係なくファイル暗号化全般に使える ●クラウド利用時は、設定を調整しないと速度がガタ落ちする ●PCド初心者に使わせるには危険要素有</title>
+      <link>https://x.com/emem_zb/status/2104146800521396593</link>
+      <description>emem-zb: クラウド検閲話題でよく挙がる Cryptomator を試用した感想 ●検閲嫌いの方にはお勧めできる ●GUIが親切。 Rclone Crypt と違い黒画面を触る必要がない ●クラウド関係なくファイル暗号化全般に使える ●クラウド利用時は、設定を調整しないと速度がガタ落ちする ●PCド初心者に使わせるには危険要素有</description>
+      <pubDate>Sun, 27 Sep 2026 09:51:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/emem_zb/status/2104146800521396593</guid>
+    </item>
+    <item>
       <title>AIばかり触っていても、こういう基礎知識はやっぱり必要。 いま Rclone でOneDrive BusinessからGoogle Driveへ約48GBを移動中です。 これの良いところは、48GBをいったん自分のPCへ全部保存してから再アップロードする必要がないこと。 経路は OneDrive → 自分のPC上の Rclone → Google Drive https://t.co/dJ3O1sxuHq</title>
       <link>https://x.com/superdoccimo/status/2103859468916445605</link>
       <description>美濃加茂まむ: AIばかり触っていても、こういう基礎知識はやっぱり必要。 いま Rclone でOneDrive BusinessからGoogle Driveへ約48GBを移動中です。 これの良いところは、48GBをいったん自分のPCへ全部保存してから再アップロードする必要がないこと。 経路は OneDrive → 自分のPC上の Rclone → Google Drive https://t.co/dJ3O1sxuHq</description>
@@ -248,34 +276,6 @@
       <description>tourmaline: Rclone とCLIを組み合わせてFilenが常時爆速になったのでやっとメインへ本格的に移行できるわー。 構築まで色々面倒だったけどGeminiくんの協力で漕ぎ着けることができた。AIってすごいね。</description>
       <pubDate>Thu, 03 Sep 2026 13:43:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tourmaline0907/status/2095507902262079703</guid>
-    </item>
-    <item>
-      <title>AndroidとLinux NASの連携について。 基本はRSAF( RClone )経由でSFTP、VLCのみSMBという何とももどかしい。 NFSはAndroidの仕様と相性が悪いしVLCはSAFが使えない。 VLCでNFSは一応使えたがローカル限定でTailscaleを経由するとダメみたい。</title>
-      <link>https://x.com/toshi_custom/status/2095495334663446555</link>
-      <description>トシ改: AndroidとLinux NASの連携について。 基本はRSAF( RClone )経由でSFTP、VLCのみSMBという何とももどかしい。 NFSはAndroidの仕様と相性が悪いしVLCはSAFが使えない。 VLCでNFSは一応使えたがローカル限定でTailscaleを経由するとダメみたい。</description>
-      <pubDate>Thu, 03 Sep 2026 12:53:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/toshi_custom/status/2095495334663446555</guid>
-    </item>
-    <item>
-      <title>rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</title>
-      <link>https://x.com/hitoka_isaki/status/2095460825628864937</link>
-      <description>異咲ヒトカ🧬⛩️O-bul異世間メディア: rclone でDropboxを一括同期できるbatファイル作った バックアップが超楽になって良き</description>
-      <pubDate>Thu, 03 Sep 2026 10:36:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hitoka_isaki/status/2095460825628864937</guid>
-    </item>
-    <item>
-      <title>研究室のサーバーを Rclone でgoogle driveに同期させたら全然終わらん https://t.co/CDhop7XthF</title>
-      <link>https://x.com/sabakaaaaan69/status/2095041694488256963</link>
-      <description>さばかん: 研究室のサーバーを Rclone でgoogle driveに同期させたら全然終わらん https://t.co/CDhop7XthF</description>
-      <pubDate>Wed, 02 Sep 2026 06:50:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sabakaaaaan69/status/2095041694488256963</guid>
-    </item>
-    <item>
-      <title>@tym1101 あの短いやり取りでもうここまで…（すごい） Tailscale(SMB)→RSAF( rclone )→端末の構成にして、 rclone のキャッシュを確保してあげればネットワーク不安定時も途切れずに再生できるようになるとおもう！</title>
-      <link>https://x.com/mitochon_88/status/2094993953150185799</link>
-      <description>ミトコンドリオン: @tym1101 あの短いやり取りでもうここまで…（すごい） Tailscale(SMB)→RSAF( rclone )→端末の構成にして、 rclone のキャッシュを確保してあげればネットワーク不安定時も途切れずに再生できるようになるとおもう！</description>
-      <pubDate>Wed, 02 Sep 2026 03:40:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mitochon_88/status/2094993953150185799</guid>
     </item>
   </channel>
 </rss>
