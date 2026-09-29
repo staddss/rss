@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの結論と導入手順： Codespaces ・Gitpod・Cloud9 の選び方（実務POC付き） https://t.co/PTKO4uzdLm #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2104732044328677758</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの結論と導入手順： Codespaces ・Gitpod・Cloud9 の選び方（実務POC付き） https://t.co/PTKO4uzdLm #エンジニア #ChatGPT #AI</description>
+      <pubDate>Tue, 29 Sep 2026 00:36:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2104732044328677758</guid>
+    </item>
+    <item>
       <title>5年ぶりくらい？に Rails チュートリアル始めてみた。自分のソフトウェア開発の原点というのもあり、エモい！ チュートリアル通りに GitHub Codespaces + Render で進めているけど、なんて便利なんだ！色々と進化している。 初めて挑戦した時は Heroku</title>
       <link>https://x.com/hayasakadaichi/status/2104211952025391119</link>
       <description>hayachi | XR・AI・数学: 5年ぶりくらい？に Rails チュートリアル始めてみた。自分のソフトウェア開発の原点というのもあり、エモい！ チュートリアル通りに GitHub Codespaces + Render で進めているけど、なんて便利なんだ！色々と進化している。 初めて挑戦した時は Heroku</description>
@@ -269,13 +276,6 @@
       <description>ketsumedo_yarou: codespaces 上のcopilot、最初に「claude codeインスコして」で終わりなので、令和のInternet Explorerみがある（？）</description>
       <pubDate>Wed, 09 Sep 2026 14:01:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ketsumedo_yarou/status/2097686859140989127</guid>
-    </item>
-    <item>
-      <title>codespaces 起動 -&gt; claude codeインスコして起動 とするだけで、（最近リモコネが自動で発動するようになったので）claudeスマホアプリからそのclaude codeに対しスマホ自然言語コーディングできるんだな</title>
-      <link>https://x.com/ketsumedo_yarou/status/2097684886127874390</link>
-      <description>ketsumedo_yarou: codespaces 起動 -&gt; claude codeインスコして起動 とするだけで、（最近リモコネが自動で発動するようになったので）claudeスマホアプリからそのclaude codeに対しスマホ自然言語コーディングできるんだな</description>
-      <pubDate>Wed, 09 Sep 2026 13:53:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ketsumedo_yarou/status/2097684886127874390</guid>
     </item>
   </channel>
 </rss>

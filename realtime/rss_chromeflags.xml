@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>指定した時間にページ全体でダークモードが有効になる拡張機能を探してるんだけど、個人情報を収集しないと宣言されているものに絞ると、ちゃんと動くものが中々見つからない。もう手動で chrome :// flags #enable-force-darkをEnabledにした方が確実な気がしてきた</title>
+      <link>https://x.com/patriot821/status/2104599618227224926</link>
+      <description>パトリオット: 指定した時間にページ全体でダークモードが有効になる拡張機能を探してるんだけど、個人情報を収集しないと宣言されているものに絞ると、ちゃんと動くものが中々見つからない。もう手動で chrome :// flags #enable-force-darkをEnabledにした方が確実な気がしてきた</description>
+      <pubDate>Mon, 28 Sep 2026 15:50:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/patriot821/status/2104599618227224926</guid>
+    </item>
+    <item>
       <title>@marukun2227 @sakugosan @S0array 標準機能としてはできないけど、 chrome :// flags / これのplaylistっていうところをenabledにするとできるやで。</title>
       <link>https://x.com/7k9Jx6N7hu96069/status/2104181565651583106</link>
       <description>χ@凍結された: @marukun2227 @sakugosan @S0array 標準機能としてはできないけど、 chrome :// flags / これのplaylistっていうところをenabledにするとできるやで。</description>
@@ -222,6 +229,13 @@
       <guid isPermaLink="true">https://x.com/HideStarV/status/2098247040451145832</guid>
     </item>
     <item>
+      <title>iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</title>
+      <link>https://x.com/shin_f/status/2098229746350100541</link>
+      <description>しん: iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</description>
+      <pubDate>Fri, 11 Sep 2026 01:58:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shin_f/status/2098229746350100541</guid>
+    </item>
+    <item>
       <title>Google Chrome の微妙すぎるアドレスバー、 chrome :// flags から ChromeNextIa を無効にすると元に戻せます このアドレスバーになるくらいならもう別のブラウザでいいかな https://t.co/a19qXPxmZe</title>
       <link>https://x.com/ntzr_hc/status/2098215334402785298</link>
       <description>りおんさん: Google Chrome の微妙すぎるアドレスバー、 chrome :// flags から ChromeNextIa を無効にすると元に戻せます このアドレスバーになるくらいならもう別のブラウザでいいかな https://t.co/a19qXPxmZe</description>
@@ -262,20 +276,6 @@
       <description>しいんざき: @uPUNhqpbfN18765 んや、解決した Chrome :// flags にあるChoose ANGLE graphics backendをdefaultにしたらCPUの使用率跳ね上がるの治った これでハードウェアアクセラレーションをオンにできるようになったからYoutubeのかくつきもなおったぞ！ お騒がせすまんやで</description>
       <pubDate>Sun, 06 Sep 2026 12:31:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yum09snff/status/2096577079483769084</guid>
-    </item>
-    <item>
-      <title>Chromeでテキストを選択してGoogle検索しようとするとGeminiに相談があって邪魔だよね？ こうすれば消えます。 chrome :// flags のアクセス ↓ 「Glic」を検索して無効（Disabled）にしてブラウザ再起動。 マジで邪魔！ https://t.co/sjHiMFChSr</title>
-      <link>https://x.com/yuta_Rhapsody/status/2096446303576400207</link>
-      <description>yuta(ユタ): Chromeでテキストを選択してGoogle検索しようとするとGeminiに相談があって邪魔だよね？ こうすれば消えます。 chrome :// flags のアクセス ↓ 「Glic」を検索して無効（Disabled）にしてブラウザ再起動。 マジで邪魔！ https://t.co/sjHiMFChSr</description>
-      <pubDate>Sun, 06 Sep 2026 03:52:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuta_Rhapsody/status/2096446303576400207</guid>
-    </item>
-    <item>
-      <title>@crqasd ブラウザのハードウェアアクセラレーションをオフにする。 Chromeなら chrome :// flags /#use-angleを開いてD3D11on12を有効にする。 Windows 11のアプリの色を自動的に管理するをオフにする。 Nvidiaコントロールパネルで色深度を8から10に変える。 といった応急処置が出てきた。 https://t.co/6L52QLrDfH</title>
-      <link>https://x.com/DeerLord/status/2096439276125000096</link>
-      <description>鹿王🦌: @crqasd ブラウザのハードウェアアクセラレーションをオフにする。 Chromeなら chrome :// flags /#use-angleを開いてD3D11on12を有効にする。 Windows 11のアプリの色を自動的に管理するをオフにする。 Nvidiaコントロールパネルで色深度を8から10に変える。 といった応急処置が出てきた。 https://t.co/6L52QLrDfH</description>
-      <pubDate>Sun, 06 Sep 2026 03:24:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DeerLord/status/2096439276125000096</guid>
     </item>
   </channel>
 </rss>

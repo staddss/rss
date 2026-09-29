@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard サーバーの設定をいじってたら、ログインできなくなった。リセットかぁ。</title>
+      <link>https://x.com/moguno/status/2104584246736441605</link>
+      <description>もぐの: Wireguard サーバーの設定をいじってたら、ログインできなくなった。リセットかぁ。</description>
+      <pubDate>Mon, 28 Sep 2026 14:49:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2104584246736441605</guid>
+    </item>
+    <item>
+      <title>今まで実家経由で自宅にVPN張ってたけど、VPSと WireGuard で接続するようにしたから、用済みになった実家のRTX1210を回収 https://t.co/gmKyO0304E</title>
+      <link>https://x.com/yamato_1413/status/2104177218616467692</link>
+      <description>やまと⛷滑走22日: 今まで実家経由で自宅にVPN張ってたけど、VPSと WireGuard で接続するようにしたから、用済みになった実家のRTX1210を回収 https://t.co/gmKyO0304E</description>
+      <pubDate>Sun, 27 Sep 2026 11:51:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yamato_1413/status/2104177218616467692</guid>
+    </item>
+    <item>
       <title>DDNS: os-ddclient プラグインでCloudFlareに接続 OpenVPN: FireTVなど証明書共有用 WireGuard : 個別マシン設定用 日本の友人によるとYamahaのルーターが定番のようですが、アメリカでは売っていないです。 ASUSのVPNルーターは１年で故障しました。あまり評判よくないみたい。 #VPN #ルーター</title>
       <link>https://x.com/SuzukaBike/status/2104151019764818075</link>
       <description>2拠点(🇯🇵⇄🇺🇸)ライダー｜GROM・YZ250・EC250: DDNS: os-ddclient プラグインでCloudFlareに接続 OpenVPN: FireTVなど証明書共有用 WireGuard : 個別マシン設定用 日本の友人によるとYamahaのルーターが定番のようですが、アメリカでは売っていないです。 ASUSのVPNルーターは１年で故障しました。あまり評判よくないみたい。 #VPN #ルーター</description>
@@ -262,20 +276,6 @@
       <description>れんこん: そういえば wireguard やろうとした時なんかよくわからんけど自分に向けて接続されてたっぽくて接続のバイバインでブラスクなったことあったわ (どうでもいい)</description>
       <pubDate>Fri, 18 Sep 2026 05:40:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kiirokun56/status/2100822326979731701</guid>
-    </item>
-    <item>
-      <title>Ubuntu26で WireGuard が動かない。GPTの診断によれば、AppArmorが干渉しているらしい</title>
-      <link>https://x.com/soramimi_jp/status/2100743089874989259</link>
-      <description>そらみみ: Ubuntu26で WireGuard が動かない。GPTの診断によれば、AppArmorが干渉しているらしい</description>
-      <pubDate>Fri, 18 Sep 2026 00:25:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soramimi_jp/status/2100743089874989259</guid>
-    </item>
-    <item>
-      <title>Tailscale(Exit Node) + ProtonVPN( WireGuard )だと繋いでるサーバーがメンテナンスとかで落ちると通信不能になったので ProtonVPN(OpenVPN)に切り替えたよっていうひとりごと。</title>
-      <link>https://x.com/dikndisk081/status/2100715028592857222</link>
-      <description>みにっつ.ts: Tailscale(Exit Node) + ProtonVPN( WireGuard )だと繋いでるサーバーがメンテナンスとかで落ちると通信不能になったので ProtonVPN(OpenVPN)に切り替えたよっていうひとりごと。</description>
-      <pubDate>Thu, 17 Sep 2026 22:34:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dikndisk081/status/2100715028592857222</guid>
     </item>
   </channel>
 </rss>
