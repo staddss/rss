@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@LunarHealWisdom 頭おかしいくらいお得だからな。Archならpacman -S rclone fuse2。 rclone configでDrive追加して、 rclone mount gdrive: ~/gdrive --vfs-cache-mode writes --daemonでマウント。5TBがローカルみたいに使えるよ。</title>
+      <link>https://x.com/grok/status/2104884248570110288</link>
+      <description>Grok: @LunarHealWisdom 頭おかしいくらいお得だからな。Archならpacman -S rclone fuse2。 rclone configでDrive追加して、 rclone mount gdrive: ~/gdrive --vfs-cache-mode writes --daemonでマウント。5TBがローカルみたいに使えるよ。</description>
+      <pubDate>Tue, 29 Sep 2026 10:41:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2104884248570110288</guid>
+    </item>
+    <item>
+      <title>クラウドストレージとサーバーを直結。本記事では、ローカルPC側（PowerShell等）をブリッジとして、OneDriveからLinuxサーバーへの安全な認証情報（アクセストークン）の登録と設定方法、バックグラウンドでの安定転送を実現する具体的な記述手順（ rclone .confの設定）を詳述します。</title>
+      <link>https://x.com/BioinfoLab/status/2104766374912684050</link>
+      <description>バイオインフォマティクス実践ラボ: クラウドストレージとサーバーを直結。本記事では、ローカルPC側（PowerShell等）をブリッジとして、OneDriveからLinuxサーバーへの安全な認証情報（アクセストークン）の登録と設定方法、バックグラウンドでの安定転送を実現する具体的な記述手順（ rclone .confの設定）を詳述します。</description>
+      <pubDate>Tue, 29 Sep 2026 02:53:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BioinfoLab/status/2104766374912684050</guid>
+    </item>
+    <item>
       <title>@SyameimaruKoa rclone とかと組み合わせたらクラウドセーブなんてものができそうですね👀</title>
       <link>https://x.com/fitudao3788/status/2104504563814564208</link>
       <description>ふぃてゅ: @SyameimaruKoa rclone とかと組み合わせたらクラウドセーブなんてものができそうですね👀</description>
@@ -262,20 +276,6 @@
       <description>sureare/島徹: ふーむ。 ■用途別のおすすめ 写真・書類の同期 Dropbox か pCloud 数TBのバックアップ Wasabi東京 か GCS/S3東京 ＋ rclone 4K素材をクライアントへ送る MASV系</description>
       <pubDate>Sun, 06 Sep 2026 20:28:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sureare/status/2096697106077733235</guid>
-    </item>
-    <item>
-      <title>内訳はこんな感じ。 ・変換: cwebp q=95、サーバ上でその場変換、並列4で約184枚/秒 ・転送: rclone →R2、1枚1オブジェクトなので枚数律速で約81枚/秒 ・平均タイルサイズ: 50KB → 10.4KB ・転送費: PUT 1,349万回で約$60（一度だけ）、保管は月$2程度</title>
-      <link>https://x.com/shi__works/status/2096426197366530331</link>
-      <description>shi-works: 内訳はこんな感じ。 ・変換: cwebp q=95、サーバ上でその場変換、並列4で約184枚/秒 ・転送: rclone →R2、1枚1オブジェクトなので枚数律速で約81枚/秒 ・平均タイルサイズ: 50KB → 10.4KB ・転送費: PUT 1,349万回で約$60（一度だけ）、保管は月$2程度</description>
-      <pubDate>Sun, 06 Sep 2026 02:32:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shi__works/status/2096426197366530331</guid>
-    </item>
-    <item>
-      <title>アメブロを投稿しました。 『コマンドツール rclone クラウドからクラウドへデータコピー』 #アメブロ #ドライブ # rclone #クラウド #容量節約 https://t.co/3eo5uo61hk</title>
-      <link>https://x.com/ereruku188/status/2095853665106133078</link>
-      <description>rereuku: アメブロを投稿しました。 『コマンドツール rclone クラウドからクラウドへデータコピー』 #アメブロ #ドライブ # rclone #クラウド #容量節約 https://t.co/3eo5uo61hk</description>
-      <pubDate>Fri, 04 Sep 2026 12:37:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ereruku188/status/2095853665106133078</guid>
     </item>
   </channel>
 </rss>

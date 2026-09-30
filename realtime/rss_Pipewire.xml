@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ストリーミング中の音声、誰かのツイートで見たとおり context\.properties = { steamos.filters.echo-cancellation = false steamos.filters.noise-suppression = false } を~/.config/ pipewire / pipewire .conf.d/99-disable-mic-ns-aec.conf に書いてサービス再起動したら安定した感じがする</title>
+      <link>https://x.com/mewl_me/status/2104564870083649985</link>
+      <description>m-hayabusa: ストリーミング中の音声、誰かのツイートで見たとおり context\.properties = { steamos.filters.echo-cancellation = false steamos.filters.noise-suppression = false } を~/.config/ pipewire / pipewire .conf.d/99-disable-mic-ns-aec.conf に書いてサービス再起動したら安定した感じがする</description>
+      <pubDate>Mon, 28 Sep 2026 13:32:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mewl_me/status/2104564870083649985</guid>
+    </item>
+    <item>
       <title>/etc/ pipewire / pipewire .conf.d/microphone-filter-chain-echo-cancel.confの webrtc.gain_control2.enabledをfalseにしてやると音質を保ちつつエコーキャンセルが効く が、ホワイトノイズが出る</title>
       <link>https://x.com/qqqqwsxcd/status/2103903213904974124</link>
       <description>q: /etc/ pipewire / pipewire .conf.d/microphone-filter-chain-echo-cancel.confの webrtc.gain_control2.enabledをfalseにしてやると音質を保ちつつエコーキャンセルが効く が、ホワイトノイズが出る</description>
@@ -262,13 +269,6 @@
       <description>とりす⛄🐾❄☘🐕🐾🐾🦴: めも： Alma ・NTFS：（デフォだと）マウントできない（エラー） ・NVidia：ドライバは別途（入れるまで1操作ごとにフリーズする程度の重さ） ・音周り： PipeWire 周りの問題が消えない。音が出ない ・Bluetooth：デフォだと使えない（別途設定等が必要）→無線キーボードだと詰む ・BTイヤホン：使える</description>
       <pubDate>Tue, 01 Sep 2026 04:22:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t_tetosuki/status/2094642066701836769</guid>
-    </item>
-    <item>
-      <title>Ubuntu + PipeWire で「ゲーム機もPCもiPhoneも全部まとめて聴ける」低遅延ゲーミングオーディオミキサーを作った https://t.co/xqqYxUIHPE #Qiita 謝辞: Claude Code</title>
-      <link>https://x.com/tomohikoohhashi/status/2094070000982409614</link>
-      <description>tomohikoohhashi: Ubuntu + PipeWire で「ゲーム機もPCもiPhoneも全部まとめて聴ける」低遅延ゲーミングオーディオミキサーを作った https://t.co/xqqYxUIHPE #Qiita 謝辞: Claude Code</description>
-      <pubDate>Sun, 30 Aug 2026 14:29:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomohikoohhashi/status/2094070000982409614</guid>
     </item>
     <item>
       <title>Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</title>
