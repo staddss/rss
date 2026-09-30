@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@grok OCIのOPCと家のOpenWrtを Wireguard でつないでいる。家のOpenWrtの先にあるサーバにアクセスさせたいのだけれど、NAPTとルーティングとどっちがいい？</title>
+      <link>https://x.com/moguno/status/2104918615514624044</link>
+      <description>もぐの: @grok OCIのOPCと家のOpenWrtを Wireguard でつないでいる。家のOpenWrtの先にあるサーバにアクセスさせたいのだけれど、NAPTとルーティングとどっちがいい？</description>
+      <pubDate>Tue, 29 Sep 2026 12:58:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2104918615514624044</guid>
+    </item>
+    <item>
       <title>WireGuard ベースのVPNソリューション、Tailscaleの価格体系とプラン毎の特徴を分かりやすく解説します https://t.co/iYuhUaIAVu</title>
       <link>https://x.com/Celio_KK/status/2104707311000490095</link>
       <description>Celio K.K.: WireGuard ベースのVPNソリューション、Tailscaleの価格体系とプラン毎の特徴を分かりやすく解説します https://t.co/iYuhUaIAVu</description>
@@ -269,13 +276,6 @@
       <description>パンテラ・アンシア: IPSecは段階1、2の交渉やモード選択とか手間がかかるのに対して、 WireGuard は公開鍵1組+数行の設定のみで完結しちゃうんだな。😺 複雑難解よりも手軽で簡潔、安全性を下げずにという秘密基地の設計思想にぴったりである。 いい事を教えてもらった。😺 ワタクシ、英文、読むの時間かかりすぎ。</description>
       <pubDate>Fri, 18 Sep 2026 08:59:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PantheraUncia14/status/2100872288409432338</guid>
-    </item>
-    <item>
-      <title>VPSはGIPを安く調達するためのモンだと思ってるけど帯域デカいとある程度CPUないとキツいなー WireGuard ですら500Mbpsで頭打ちなるとことかあるしw</title>
-      <link>https://x.com/minosJP/status/2100864728373576089</link>
-      <description>minos: VPSはGIPを安く調達するためのモンだと思ってるけど帯域デカいとある程度CPUないとキツいなー WireGuard ですら500Mbpsで頭打ちなるとことかあるしw</description>
-      <pubDate>Fri, 18 Sep 2026 08:29:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minosJP/status/2100864728373576089</guid>
     </item>
   </channel>
 </rss>

@@ -270,12 +270,5 @@
       <pubDate>Tue, 01 Sep 2026 04:22:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t_tetosuki/status/2094642066701836769</guid>
     </item>
-    <item>
-      <title>Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</title>
-      <link>https://x.com/fedoraupdown/status/2094031339590947152</link>
-      <description>けんけん: Fedoraのサウンドがプチプチ音鳴るの直った！1. Pipewire 関連削除 2. Fedoraのクリーンインストールからrpmリスト取り出して全部インストール。 3.dnf reinstall \*で全パッケージ再インストール という力技ww 最初から3.でいけたかもしれないけどw</description>
-      <pubDate>Sun, 30 Aug 2026 11:55:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fedoraupdown/status/2094031339590947152</guid>
-    </item>
   </channel>
 </rss>

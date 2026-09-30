@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>長めの文章は大体PCで書くしAnytypeもあるから、Obsidianのスマホアプリとの同期は特に必要ないかと思ってたけど、 Syncthing 便利。</title>
+      <link>https://x.com/sbmt2020/status/2104914719924756780</link>
+      <description>森山たすく: 長めの文章は大体PCで書くしAnytypeもあるから、Obsidianのスマホアプリとの同期は特に必要ないかと思ってたけど、 Syncthing 便利。</description>
+      <pubDate>Tue, 29 Sep 2026 12:42:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sbmt2020/status/2104914719924756780</guid>
+    </item>
+    <item>
       <title>@DesignOkaka 普段何気なくやってる複数端末の同期って案外大変なんだなって思いました…！ ちなみにobsidianの同期は syncthing からアドオンのGit Syncに変えたら上手く動いてくれてます 今のところは</title>
       <link>https://x.com/namorton09/status/2104157787551080842</link>
       <description>ナモー: @DesignOkaka 普段何気なくやってる複数端末の同期って案外大変なんだなって思いました…！ ちなみにobsidianの同期は syncthing からアドオンのGit Syncに変えたら上手く動いてくれてます 今のところは</description>
@@ -269,13 +276,6 @@
       <description>なま川🍎: @midori9221 私は Syncthing +Tailscale で同期して個人バックアップ(？)実現してます あとNAS+Tailscale とかもいいです~ 外付けストレージと違って自然にデータが移動するので、バックアップ忘れたり頻度が下がったりしませんから最高です(ペンギンのスタンプ)</description>
       <pubDate>Thu, 10 Sep 2026 20:21:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/namaz_potak/status/2098144829922594950</guid>
-    </item>
-    <item>
-      <title>7days to dieに狂ってるので、 家の外でもdiscordでmod作成できるようになった。 作ったら Syncthing で同期。</title>
-      <link>https://x.com/minimal97/status/2097707070120415256</link>
-      <description>minimal97: 7days to dieに狂ってるので、 家の外でもdiscordでmod作成できるようになった。 作ったら Syncthing で同期。</description>
-      <pubDate>Wed, 09 Sep 2026 15:21:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minimal97/status/2097707070120415256</guid>
     </item>
   </channel>
 </rss>

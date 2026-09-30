@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>よかった…iPhoneのchromeのUI戻すことができた。 chrome :// flags /#chrome-next-ia ↑を開いて、DefaultからDisabledに変えて再既読するだけで元に戻る。さっさとすればよかった。 これで左下に戻るボタンが帰ってきた https://t.co/3TUEt70v5Z</title>
+      <link>https://x.com/areda_yoshitune/status/2104750978704761119</link>
+      <description>義経提督@親ばか: よかった…iPhoneのchromeのUI戻すことができた。 chrome :// flags /#chrome-next-ia ↑を開いて、DefaultからDisabledに変えて再既読するだけで元に戻る。さっさとすればよかった。 これで左下に戻るボタンが帰ってきた https://t.co/3TUEt70v5Z</description>
+      <pubDate>Tue, 29 Sep 2026 01:51:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/areda_yoshitune/status/2104750978704761119</guid>
+    </item>
+    <item>
       <title>指定した時間にページ全体でダークモードが有効になる拡張機能を探してるんだけど、個人情報を収集しないと宣言されているものに絞ると、ちゃんと動くものが中々見つからない。もう手動で chrome :// flags #enable-force-darkをEnabledにした方が確実な気がしてきた</title>
       <link>https://x.com/patriot821/status/2104599618227224926</link>
       <description>パトリオット: 指定した時間にページ全体でダークモードが有効になる拡張機能を探してるんだけど、個人情報を収集しないと宣言されているものに絞ると、ちゃんと動くものが中々見つからない。もう手動で chrome :// flags #enable-force-darkをEnabledにした方が確実な気がしてきた</description>
@@ -31,13 +38,6 @@
       <description>Billy: Chromeのタブ垂直表示、正式に実装されたんですね。 （今まではβ版の chrome :// flags で試験フラグEnable操作が必要だった） 何十個もタブを同時に開くので重宝しています。 https://t.co/oWKlNv4cfD</description>
       <pubDate>Fri, 25 Sep 2026 03:05:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kswmochi/status/2103319904741134737</guid>
-    </item>
-    <item>
-      <title>@Rinoprogram あ、スマホで変わるっぽい Chromeの chrome :// flags / のダークモードの影響かな PCはChrome使ってないからわからん https://t.co/zGXeWpy3dn</title>
-      <link>https://x.com/Almostcat_kyopr/status/2103024173128057105</link>
-      <description>競プロするわりとねこ: @Rinoprogram あ、スマホで変わるっぽい Chromeの chrome :// flags / のダークモードの影響かな PCはChrome使ってないからわからん https://t.co/zGXeWpy3dn</description>
-      <pubDate>Thu, 24 Sep 2026 07:30:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Almostcat_kyopr/status/2103024173128057105</guid>
     </item>
     <item>
       <title>Chrome flags とかこの起動オプションとかでバックグラウンドでの動作をさせるやつが一時期機能しなくなってたから、レジストリを直接弄ってたんだけどまた出来るようになったのかな？ それともブラウザのバージョンが新しいとやっぱりダメ？</title>
@@ -276,6 +276,13 @@
       <description>しいんざき: @uPUNhqpbfN18765 んや、解決した Chrome :// flags にあるChoose ANGLE graphics backendをdefaultにしたらCPUの使用率跳ね上がるの治った これでハードウェアアクセラレーションをオンにできるようになったからYoutubeのかくつきもなおったぞ！ お騒がせすまんやで</description>
       <pubDate>Sun, 06 Sep 2026 12:31:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yum09snff/status/2096577079483769084</guid>
+    </item>
+    <item>
+      <title>Chromeでテキストを選択してGoogle検索しようとするとGeminiに相談があって邪魔だよね？ こうすれば消えます。 chrome :// flags のアクセス ↓ 「Glic」を検索して無効（Disabled）にしてブラウザ再起動。 マジで邪魔！ https://t.co/sjHiMFChSr</title>
+      <link>https://x.com/yuta_Rhapsody/status/2096446303576400207</link>
+      <description>yuta(ユタ): Chromeでテキストを選択してGoogle検索しようとするとGeminiに相談があって邪魔だよね？ こうすれば消えます。 chrome :// flags のアクセス ↓ 「Glic」を検索して無効（Disabled）にしてブラウザ再起動。 マジで邪魔！ https://t.co/sjHiMFChSr</description>
+      <pubDate>Sun, 06 Sep 2026 03:52:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuta_Rhapsody/status/2096446303576400207</guid>
     </item>
   </channel>
 </rss>
