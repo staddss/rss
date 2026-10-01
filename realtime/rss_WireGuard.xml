@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>拠点間VPNとか WireGuard サーバーとかも作ってみたいけど、個人で遊ぶ分にはtailscaleが便利すぎて……</title>
+      <link>https://x.com/akira1011/status/2105511755325858142</link>
+      <description>あきら: 拠点間VPNとか WireGuard サーバーとかも作ってみたいけど、個人で遊ぶ分にはtailscaleが便利すぎて……</description>
+      <pubDate>Thu, 01 Oct 2026 04:14:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akira1011/status/2105511755325858142</guid>
+    </item>
+    <item>
+      <title>ポート開放できない自宅回線で、OCI + WireGuard + Proxmoxを使ってMinecraft統合版サーバーを公開した話 #oci #server #minecraftㅤ #proxmox https://t.co/xUpoZNw1Ky</title>
+      <link>https://x.com/asubelin/status/2105504644185432262</link>
+      <description>アスベリン: ポート開放できない自宅回線で、OCI + WireGuard + Proxmoxを使ってMinecraft統合版サーバーを公開した話 #oci #server #minecraftㅤ #proxmox https://t.co/xUpoZNw1Ky</description>
+      <pubDate>Thu, 01 Oct 2026 03:46:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/asubelin/status/2105504644185432262</guid>
+    </item>
+    <item>
       <title>NETGEARの古いインテリスイッチ。 ICMP REDIRECTに対応してないっぽいのでネットワーク構成を素直にした。 デフォゲがOpenWrtだと色々できて良い( WireGuard を終端させるようにした)</title>
       <link>https://x.com/moguno/status/2105328852298043531</link>
       <description>もぐの: NETGEARの古いインテリスイッチ。 ICMP REDIRECTに対応してないっぽいのでネットワーク構成を素直にした。 デフォゲがOpenWrtだと色々できて良い( WireGuard を終端させるようにした)</description>
@@ -17,6 +31,13 @@
       <description>alrein: @mini__tan proton + wireguard です！</description>
       <pubDate>Wed, 30 Sep 2026 12:51:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Rei22307/status/2105279368167875057</guid>
+    </item>
+    <item>
+      <title>@mini__tan 私もproten VPN ですね！無料です。 WireGuard というアプリも合わせて使います 詳しい方法はネット探しても見当たらず、たしかXで見かけました。元投稿見つけたら貼りますね</title>
+      <link>https://x.com/0120_322/status/2105257980006719567</link>
+      <description>たすく: @mini__tan 私もproten VPN ですね！無料です。 WireGuard というアプリも合わせて使います 詳しい方法はネット探しても見当たらず、たしかXで見かけました。元投稿見つけたら貼りますね</description>
+      <pubDate>Wed, 30 Sep 2026 11:26:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0120_322/status/2105257980006719567</guid>
     </item>
     <item>
       <title>WireGuard のロゴ結構すき ルーターにivpn噛ませて 端末にMullvadVPNがおすすめ構成です。 https://t.co/Ez39rVjXLg</title>
@@ -255,27 +276,6 @@
       <description>まえちん: そういえば直近で wireguard が何故か通らず自宅開発環境にアクセスできないことで大変不快な思いをしたので、流石に生 wireguard 構成刷新の機運が高まっている</description>
       <pubDate>Sun, 20 Sep 2026 12:41:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/maetin_coins/status/2101653084682477783</guid>
-    </item>
-    <item>
-      <title>🔧 TailscaleがNetcat風の新ツール「Tailcat」を公開 Tailscaleが、Netcatと同様の操作感で WireGuard 暗号化とNAT越えを実現する「Tailcat」を公開した。 IPアドレスやポート設定不要で、生成されたアドレスを相手に渡すだけで2台のPCを接続可能。</title>
-      <link>https://x.com/yunta_fukurou/status/2101627709218537699</link>
-      <description>梟 〜GLEANINGS〜: 🔧 TailscaleがNetcat風の新ツール「Tailcat」を公開 Tailscaleが、Netcatと同様の操作感で WireGuard 暗号化とNAT越えを実現する「Tailcat」を公開した。 IPアドレスやポート設定不要で、生成されたアドレスを相手に渡すだけで2台のPCを接続可能。</description>
-      <pubDate>Sun, 20 Sep 2026 11:01:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yunta_fukurou/status/2101627709218537699</guid>
-    </item>
-    <item>
-      <title>wireguard 経由でWinに繋がらないなーと思ったらこの前鍵再生成していたの忘れてた tcpdumpとかで疎通確認とかしてた自分が阿呆らしい</title>
-      <link>https://x.com/caphosra/status/2101561990930194493</link>
-      <description>かふぉすら: wireguard 経由でWinに繋がらないなーと思ったらこの前鍵再生成していたの忘れてた tcpdumpとかで疎通確認とかしてた自分が阿呆らしい</description>
-      <pubDate>Sun, 20 Sep 2026 06:39:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/caphosra/status/2101561990930194493</guid>
-    </item>
-    <item>
-      <title>Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</title>
-      <link>https://x.com/kazto_dev/status/2101144593115033963</link>
-      <description>kazto = NULL;: Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</description>
-      <pubDate>Sat, 19 Sep 2026 03:01:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazto_dev/status/2101144593115033963</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chrome の Omnibar にある「AI モード」ボタンを消すには、メニューの「表示 &gt; AI モードを常に表示」のチェックを外す。今まで chrome :// flags の中を探していたけど、別の場所にあった。 https://t.co/LmZoAqdBR2</title>
+      <link>https://x.com/suzuki6b6569/status/2105250296293363799</link>
+      <description>鈴木圭: Chrome の Omnibar にある「AI モード」ボタンを消すには、メニューの「表示 &gt; AI モードを常に表示」のチェックを外す。今まで chrome :// flags の中を探していたけど、別の場所にあった。 https://t.co/LmZoAqdBR2</description>
+      <pubDate>Wed, 30 Sep 2026 10:55:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/suzuki6b6569/status/2105250296293363799</guid>
+    </item>
+    <item>
       <title>よかった…iPhoneのchromeのUI戻すことができた。 chrome :// flags /#chrome-next-ia ↑を開いて、DefaultからDisabledに変えて再既読するだけで元に戻る。さっさとすればよかった。 これで左下に戻るボタンが帰ってきた https://t.co/3TUEt70v5Z</title>
       <link>https://x.com/areda_yoshitune/status/2104750978704761119</link>
       <description>義経提督@親ばか: よかった…iPhoneのchromeのUI戻すことができた。 chrome :// flags /#chrome-next-ia ↑を開いて、DefaultからDisabledに変えて再既読するだけで元に戻る。さっさとすればよかった。 これで左下に戻るボタンが帰ってきた https://t.co/3TUEt70v5Z</description>
@@ -269,13 +276,6 @@
       <description>しゃある: Google Chrome のアドレスバーで検索するとウソしか言わない💩AI サジェストが本当に邪魔なので chrome :// flags /#webui-omnibox-aim-popup disabled した もっと早く消せばよかった</description>
       <pubDate>Mon, 07 Sep 2026 00:00:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sharlm/status/2096750437420638703</guid>
-    </item>
-    <item>
-      <title>@uPUNhqpbfN18765 んや、解決した Chrome :// flags にあるChoose ANGLE graphics backendをdefaultにしたらCPUの使用率跳ね上がるの治った これでハードウェアアクセラレーションをオンにできるようになったからYoutubeのかくつきもなおったぞ！ お騒がせすまんやで</title>
-      <link>https://x.com/yum09snff/status/2096577079483769084</link>
-      <description>しいんざき: @uPUNhqpbfN18765 んや、解決した Chrome :// flags にあるChoose ANGLE graphics backendをdefaultにしたらCPUの使用率跳ね上がるの治った これでハードウェアアクセラレーションをオンにできるようになったからYoutubeのかくつきもなおったぞ！ お騒がせすまんやで</description>
-      <pubDate>Sun, 06 Sep 2026 12:31:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yum09snff/status/2096577079483769084</guid>
     </item>
   </channel>
 </rss>

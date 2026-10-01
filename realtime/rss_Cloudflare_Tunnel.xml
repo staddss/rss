@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/evisu_dev/status/2105135682532655206</guid>
     </item>
     <item>
+      <title>昔とは情勢違うから オンプレでも FWは基本開けない cloudflare tunnel 経由でサービス提供 とか、まぁそう言う運用しろって話。 まぁほんと久々にオンプレ環境みて センス悪…って何度思ったか</title>
+      <link>https://x.com/applesorce/status/2105131570336260141</link>
+      <description>applesorce: 昔とは情勢違うから オンプレでも FWは基本開けない cloudflare tunnel 経由でサービス提供 とか、まぁそう言う運用しろって話。 まぁほんと久々にオンプレ環境みて センス悪…って何度思ったか</description>
+      <pubDate>Wed, 30 Sep 2026 03:04:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/applesorce/status/2105131570336260141</guid>
+    </item>
+    <item>
       <title>@gggggggggoto Cloudflare Tunnel で外向きにポート開けなくて済むの、自宅運用だとかなり楽ですよね。 10日以上安定してるのも気になります。 Mac mini側はSSH含めてLAN内だけに閉じてる感じですか？ それとも管理系もTunnel経由に寄せているのでしょうか？</title>
       <link>https://x.com/evisu_dev/status/2105085314721263770</link>
       <description>ヱビス@業務改善・既存Web改修: @gggggggggoto Cloudflare Tunnel で外向きにポート開けなくて済むの、自宅運用だとかなり楽ですよね。 10日以上安定してるのも気になります。 Mac mini側はSSH含めてLAN内だけに閉じてる感じですか？ それとも管理系もTunnel経由に寄せているのでしょうか？</description>

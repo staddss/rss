@@ -40,13 +40,6 @@
       <guid isPermaLink="true">https://x.com/darekasan_net/status/2100493525419020727</guid>
     </item>
     <item>
-      <title>@chekke1999 https://t.co/3gMh26GSL5 これ見る限り動きそうですね apt policy libcamera-tools pipewire -libcamera wireplumber lsmod | grep -E &quot;ipu6|ov13b10&quot; modinfo ov13b10 modinfo intel_ipu6 modinfo intel_ipu6_isys ls /lib/firmware/intel/ipu/ ドライバ、パッケージ、ファームウェア確認 続く</title>
-      <link>https://x.com/ggrks_me/status/2100411846905962802</link>
-      <description>uzumo: @chekke1999 https://t.co/3gMh26GSL5 これ見る限り動きそうですね apt policy libcamera-tools pipewire -libcamera wireplumber lsmod | grep -E &quot;ipu6|ov13b10&quot; modinfo ov13b10 modinfo intel_ipu6 modinfo intel_ipu6_isys ls /lib/firmware/intel/ipu/ ドライバ、パッケージ、ファームウェア確認 続く</description>
-      <pubDate>Thu, 17 Sep 2026 02:29:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ggrks_me/status/2100411846905962802</guid>
-    </item>
-    <item>
       <title>久しぶりにLMMSのAlpha 2が出た 長かったな… まあメイン開発者が忙殺されている上にやること山積み出し…(.sf4への対応、Qt5からQt6への移植、 PipeWire への移行、その他もろもろ) LMMS 1.3.0-alpha.2 is out! https://t.co/D0JbIsTyZJ</title>
       <link>https://x.com/RE_DO/status/2099708534934159694</link>
       <description>錆人形/RE_DO: 久しぶりにLMMSのAlpha 2が出た 長かったな… まあメイン開発者が忙殺されている上にやること山積み出し…(.sf4への対応、Qt5からQt6への移植、 PipeWire への移行、その他もろもろ) LMMS 1.3.0-alpha.2 is out! https://t.co/D0JbIsTyZJ</description>
@@ -262,13 +255,6 @@
       <description>udon: 音の合成って単にみんな興味がないから今のやり方で満足してる説あるな。ワイには他の人と違ってこれをやりたい動機がたまたまある。 ちょっと真面目に考えてみようかな Linuxで言えば pipewire 的な物をクロック数に依存しないやり方でやればええんやろ？ https://t.co/fLYiumSCGI</description>
       <pubDate>Tue, 01 Sep 2026 15:59:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gehirun7/status/2094817446012375060</guid>
-    </item>
-    <item>
-      <title>めも： Alma ・NTFS：（デフォだと）マウントできない（エラー） ・NVidia：ドライバは別途（入れるまで1操作ごとにフリーズする程度の重さ） ・音周り： PipeWire 周りの問題が消えない。音が出ない ・Bluetooth：デフォだと使えない（別途設定等が必要）→無線キーボードだと詰む ・BTイヤホン：使える</title>
-      <link>https://x.com/t_tetosuki/status/2094642066701836769</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: めも： Alma ・NTFS：（デフォだと）マウントできない（エラー） ・NVidia：ドライバは別途（入れるまで1操作ごとにフリーズする程度の重さ） ・音周り： PipeWire 周りの問題が消えない。音が出ない ・Bluetooth：デフォだと使えない（別途設定等が必要）→無線キーボードだと詰む ・BTイヤホン：使える</description>
-      <pubDate>Tue, 01 Sep 2026 04:22:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2094642066701836769</guid>
     </item>
   </channel>
 </rss>
