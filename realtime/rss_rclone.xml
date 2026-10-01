@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>「バックアップはある」と安心していませんか。 Rclone 停止と/cloudのマウント解除後もlsyncdのメインプロセスだけが起動し、停止にほぼ半年気づけず。再発防止ではマウント状態とlsyncdの稼働をcronで確認し、異常時にメール通知。難しいのは、どこを監視点にするかです。 https://t.co/2UnCMUckHC</title>
+      <link>https://x.com/futurespirits/status/2105160712977027515</link>
+      <description>株式会社フューチャースピリッツ: 「バックアップはある」と安心していませんか。 Rclone 停止と/cloudのマウント解除後もlsyncdのメインプロセスだけが起動し、停止にほぼ半年気づけず。再発防止ではマウント状態とlsyncdの稼働をcronで確認し、異常時にメール通知。難しいのは、どこを監視点にするかです。 https://t.co/2UnCMUckHC</description>
+      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/futurespirits/status/2105160712977027515</guid>
+    </item>
+    <item>
       <title>うーん、 rclone でGoogle Driveとsyncしているのだけど、細かいファイルが2万くらいを超えたあたりからちょいちょいRate limitに当たったり調子悪くなるの、なんとかしてほしいな...(諦める？</title>
       <link>https://x.com/k_nishijima/status/2105080396794999236</link>
       <description>西島 幸一郎: うーん、 rclone でGoogle Driveとsyncしているのだけど、細かいファイルが2万くらいを超えたあたりからちょいちょいRate limitに当たったり調子悪くなるの、なんとかしてほしいな...(諦める？</description>
@@ -269,13 +276,6 @@
       <description>キタきつね: Rclone Auth Proxy Bypass PoC: Critical CVE-2026-41176 Allows Unauthenticated Command Execution（ Rclone の認証回避脆弱性、未認証でコマンド実行につながるPoCが公開） #SecurityOnline (Sep 7) https://t.co/Fr05KKefK3</description>
       <pubDate>Tue, 08 Sep 2026 04:45:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/foxbook/status/2097184572077179128</guid>
-    </item>
-    <item>
-      <title>Rclone で重大(Critical)な認証回避の脆弱性。GHSA-xwwr-4h3p-r22c（CVSS未採番）はCVSSスコア9.8で、--auth-keyを設定せず rclone serve s3 --auth-proxyを実行している場合に認証回避が成立。バージョン1.75.1で修正。 https://t.co/OPyoJLQDzl</title>
-      <link>https://x.com/__kokumoto/status/2097161558183104689</link>
-      <description>kokumօtօ: Rclone で重大(Critical)な認証回避の脆弱性。GHSA-xwwr-4h3p-r22c（CVSS未採番）はCVSSスコア9.8で、--auth-keyを設定せず rclone serve s3 --auth-proxyを実行している場合に認証回避が成立。バージョン1.75.1で修正。 https://t.co/OPyoJLQDzl</description>
-      <pubDate>Tue, 08 Sep 2026 03:14:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__kokumoto/status/2097161558183104689</guid>
     </item>
   </channel>
 </rss>

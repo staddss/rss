@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NETGEARの古いインテリスイッチ。 ICMP REDIRECTに対応してないっぽいのでネットワーク構成を素直にした。 デフォゲがOpenWrtだと色々できて良い( WireGuard を終端させるようにした)</title>
+      <link>https://x.com/moguno/status/2105328852298043531</link>
+      <description>もぐの: NETGEARの古いインテリスイッチ。 ICMP REDIRECTに対応してないっぽいのでネットワーク構成を素直にした。 デフォゲがOpenWrtだと色々できて良い( WireGuard を終端させるようにした)</description>
+      <pubDate>Wed, 30 Sep 2026 16:08:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2105328852298043531</guid>
+    </item>
+    <item>
+      <title>@mini__tan proton + wireguard です！</title>
+      <link>https://x.com/Rei22307/status/2105279368167875057</link>
+      <description>alrein: @mini__tan proton + wireguard です！</description>
+      <pubDate>Wed, 30 Sep 2026 12:51:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Rei22307/status/2105279368167875057</guid>
+    </item>
+    <item>
+      <title>WireGuard のロゴ結構すき ルーターにivpn噛ませて 端末にMullvadVPNがおすすめ構成です。 https://t.co/Ez39rVjXLg</title>
+      <link>https://x.com/84616/status/2105250273610600582</link>
+      <description>😾: WireGuard のロゴ結構すき ルーターにivpn噛ませて 端末にMullvadVPNがおすすめ構成です。 https://t.co/Ez39rVjXLg</description>
+      <pubDate>Wed, 30 Sep 2026 10:55:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/84616/status/2105250273610600582</guid>
+    </item>
+    <item>
+      <title>@btcmos 現在有很多路由器支持VPN Clients和Server，比如Glinet的，支持30多個VPN，也支持自定義的 Wireguard OpenVPN等協議，我最近才開始研究。 其他很多品牌型號的也支持，還有一些支持openwrt的路由器也可以設置，就是要麻煩一點兒，需要點兒Linux技術</title>
+      <link>https://x.com/CarlXu/status/2105156749653361099</link>
+      <description>Carl Xu: @btcmos 現在有很多路由器支持VPN Clients和Server，比如Glinet的，支持30多個VPN，也支持自定義的 Wireguard OpenVPN等協議，我最近才開始研究。 其他很多品牌型號的也支持，還有一些支持openwrt的路由器也可以設置，就是要麻煩一點兒，需要點兒Linux技術</description>
+      <pubDate>Wed, 30 Sep 2026 04:44:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CarlXu/status/2105156749653361099</guid>
+    </item>
+    <item>
       <title>@grok OCIのOPCと家のOpenWrtを Wireguard でつないでいる。家のOpenWrtの先にあるサーバにアクセスさせたいのだけれど、NAPTとルーティングとどっちがいい？</title>
       <link>https://x.com/moguno/status/2104918615514624044</link>
       <description>もぐの: @grok OCIのOPCと家のOpenWrtを Wireguard でつないでいる。家のOpenWrtの先にあるサーバにアクセスさせたいのだけれど、NAPTとルーティングとどっちがいい？</description>
@@ -248,34 +276,6 @@
       <description>kazto = NULL;: Tailscaleは一定便利だけども、自分で WireGuard 設定すれば外部から自宅サーバに接続するって目的は果たせるんだよなぁ。</description>
       <pubDate>Sat, 19 Sep 2026 03:01:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kazto_dev/status/2101144593115033963</guid>
-    </item>
-    <item>
-      <title>セルフホストの熱意が高まったので、immich と wireguard を NAS に建てた。 今回はいつまで保守できるか...</title>
-      <link>https://x.com/daidai_biyori/status/2101140713761362126</link>
-      <description>だいだい: セルフホストの熱意が高まったので、immich と wireguard を NAS に建てた。 今回はいつまで保守できるか...</description>
-      <pubDate>Sat, 19 Sep 2026 02:45:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/daidai_biyori/status/2101140713761362126</guid>
-    </item>
-    <item>
-      <title>@6H56yPSB9S60285 @soichi1208tenko 開示されるようなことせずプライバシー保護だけで使うなら別にProtonでいいよ Mullvad使うに越したことはないけどProtonなら WireGuard で使うのおすすめ</title>
-      <link>https://x.com/motorcycle11111/status/2101106329427542089</link>
-      <description>ハソール名言bot: @6H56yPSB9S60285 @soichi1208tenko 開示されるようなことせずプライバシー保護だけで使うなら別にProtonでいいよ Mullvad使うに越したことはないけどProtonなら WireGuard で使うのおすすめ</description>
-      <pubDate>Sat, 19 Sep 2026 00:29:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/motorcycle11111/status/2101106329427542089</guid>
-    </item>
-    <item>
-      <title>サブPCをPop!_OSにして半年くらい経った。 非常に使いやすく、良いOSだと思うんだけど、なんというか「未完成感」があまりに強い。 Mac製ZIPは展開すると文字化けするし（7zとかのコマンドや3rdのファイラなら化けない）、 WireGuard の設定をGUIから読み込むと一部無視するし。</title>
-      <link>https://x.com/kkotaro0111/status/2100906394686021701</link>
-      <description>川嶋光太郎 - ウェブデザイナー / フロントエンドエンジニア: サブPCをPop!_OSにして半年くらい経った。 非常に使いやすく、良いOSだと思うんだけど、なんというか「未完成感」があまりに強い。 Mac製ZIPは展開すると文字化けするし（7zとかのコマンドや3rdのファイラなら化けない）、 WireGuard の設定をGUIから読み込むと一部無視するし。</description>
-      <pubDate>Fri, 18 Sep 2026 11:14:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kkotaro0111/status/2100906394686021701</guid>
-    </item>
-    <item>
-      <title>IPSecは段階1、2の交渉やモード選択とか手間がかかるのに対して、 WireGuard は公開鍵1組+数行の設定のみで完結しちゃうんだな。😺 複雑難解よりも手軽で簡潔、安全性を下げずにという秘密基地の設計思想にぴったりである。 いい事を教えてもらった。😺 ワタクシ、英文、読むの時間かかりすぎ。</title>
-      <link>https://x.com/PantheraUncia14/status/2100872288409432338</link>
-      <description>パンテラ・アンシア: IPSecは段階1、2の交渉やモード選択とか手間がかかるのに対して、 WireGuard は公開鍵1組+数行の設定のみで完結しちゃうんだな。😺 複雑難解よりも手軽で簡潔、安全性を下げずにという秘密基地の設計思想にぴったりである。 いい事を教えてもらった。😺 ワタクシ、英文、読むの時間かかりすぎ。</description>
-      <pubDate>Fri, 18 Sep 2026 08:59:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PantheraUncia14/status/2100872288409432338</guid>
     </item>
   </channel>
 </rss>

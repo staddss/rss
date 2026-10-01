@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メモリをどうにか増やしたい ⚫︎VRAM ⚪︎HDDにメモリスワップ ◾︎遅い ⚪︎SSDにメモリスワップ ◾︎書き込み上限すぐ来がち ⚪︎正直にRAM買う ◾︎高い ⚪︎もう使わないスマホを使う ◾︎めんどう ⚫︎ ZRAM ⚪︎メモリを圧縮しちゃえばいい ◾︎ツールがない</title>
+      <link>https://x.com/taou684340/status/2104946606462410886</link>
+      <description>たくまる@活動終了: メモリをどうにか増やしたい ⚫︎VRAM ⚪︎HDDにメモリスワップ ◾︎遅い ⚪︎SSDにメモリスワップ ◾︎書き込み上限すぐ来がち ⚪︎正直にRAM買う ◾︎高い ⚪︎もう使わないスマホを使う ◾︎めんどう ⚫︎ ZRAM ⚪︎メモリを圧縮しちゃえばいい ◾︎ツールがない</description>
+      <pubDate>Tue, 29 Sep 2026 14:49:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taou684340/status/2104946606462410886</guid>
+    </item>
+    <item>
       <title>swap領域を圧縮する実装として主に ZRAM とZswapがあるが、ハイバネーションを実現するためには ZRAM は使えないらしい。Zswapを採用しましょう。知見だ。 / “Swap, ZRAM , Zswap and Hibernate on NixOS” https://t.co/iQRQRQV129</title>
       <link>https://x.com/matsuu/status/2104225789814428152</link>
       <description>matsuu: swap領域を圧縮する実装として主に ZRAM とZswapがあるが、ハイバネーションを実現するためには ZRAM は使えないらしい。Zswapを採用しましょう。知見だ。 / “Swap, ZRAM , Zswap and Hibernate on NixOS” https://t.co/iQRQRQV129</description>
