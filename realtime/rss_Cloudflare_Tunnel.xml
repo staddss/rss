@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>A100使う程ではないんで使ってないですが、Colab使えば今あるラズパイ4B 2GBでもボイボ動画を外でも作れることに気づいた スマホとか ｜ Cloudflare Tunnel ｜ ラズパイ NAS HTTP ｜ Colab CLI ｜ T4 GPU って感じ？LAN内でボイボが動くまではいけた https://t.co/EDlNJ1q6RI</title>
+      <link>https://x.com/404_YD/status/2105872154134987171</link>
+      <description>よんまるよんD: A100使う程ではないんで使ってないですが、Colab使えば今あるラズパイ4B 2GBでもボイボ動画を外でも作れることに気づいた スマホとか ｜ Cloudflare Tunnel ｜ ラズパイ NAS HTTP ｜ Colab CLI ｜ T4 GPU って感じ？LAN内でボイボが動くまではいけた https://t.co/EDlNJ1q6RI</description>
+      <pubDate>Fri, 02 Oct 2026 04:07:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/404_YD/status/2105872154134987171</guid>
+    </item>
+    <item>
       <title>@momiji_manjyuu Cloudflare Tunnel でSSH掘るのではありませんか？</title>
       <link>https://x.com/Agent_x23890/status/2105627188171305136</link>
       <description>エージェントX (x23890): @momiji_manjyuu Cloudflare Tunnel でSSH掘るのではありませんか？</description>
@@ -17,6 +24,13 @@
       <description>いとじゅん: Cloudflare Tunnel の電気代困る度と暖房効果で草 #omotesandorb</description>
       <pubDate>Thu, 01 Oct 2026 11:09:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/itojum1230/status/2105616188667781457</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel がまさにこの仕組みで作られてるな https://t.co/8kvZiqKAfC</title>
+      <link>https://x.com/undoroid/status/2105602524858163402</link>
+      <description>undoroid: Cloudflare Tunnel がまさにこの仕組みで作られてるな https://t.co/8kvZiqKAfC</description>
+      <pubDate>Thu, 01 Oct 2026 10:15:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/undoroid/status/2105602524858163402</guid>
     </item>
     <item>
       <title>@gggggggggoto なるほど、管理系はTailscaleなんですね。 Cloudflare Tunnel はWeb公開、SSH/SFTPはTailscaleで分ける形だとかなりすっきりしますね。 外から安全に触れる手段があると、トラブル時も安心そうです。</title>
@@ -262,20 +276,6 @@
       <description>Jay: @Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</description>
       <pubDate>Sat, 19 Sep 2026 19:02:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2101386530933682579</guid>
-    </item>
-    <item>
-      <title>まって、今までマイクラ鯖の知識しか無かったから気づかなかったけど cloudflare tunnel ってHTTPSなら無料プランでもアプリなし接続できたよね VPN建てなくてよかった？</title>
-      <link>https://x.com/Elnabu1022/status/2101374181866897486</link>
-      <description>くりえいたーもどき㍿: まって、今までマイクラ鯖の知識しか無かったから気づかなかったけど cloudflare tunnel ってHTTPSなら無料プランでもアプリなし接続できたよね VPN建てなくてよかった？</description>
-      <pubDate>Sat, 19 Sep 2026 18:13:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Elnabu1022/status/2101374181866897486</guid>
-    </item>
-    <item>
-      <title>移転が面倒なのでドメイン含めてデジロック時代から使ってたけど、GMO傘下になってどんどん変になってって、ここまでクオリティ下がっちゃったらちょっともうダメね。 XServerと Cloudflare Tunnel に振り分けてやろ。 しかし移転するにもマジでDBのダンプやばいわ。どうしよ。</title>
-      <link>https://x.com/gggggggggoto/status/2100975498545545626</link>
-      <description>ごとうさちお - Sachio Goto: 移転が面倒なのでドメイン含めてデジロック時代から使ってたけど、GMO傘下になってどんどん変になってって、ここまでクオリティ下がっちゃったらちょっともうダメね。 XServerと Cloudflare Tunnel に振り分けてやろ。 しかし移転するにもマジでDBのダンプやばいわ。どうしよ。</description>
-      <pubDate>Fri, 18 Sep 2026 15:49:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gggggggggoto/status/2100975498545545626</guid>
     </item>
   </channel>
 </rss>

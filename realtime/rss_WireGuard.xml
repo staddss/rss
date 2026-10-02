@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kaminari_it 使いたいポートが電話やFAX用に使われていて使えない。 WireGuard はまず使えない 51820 OpenVPNは使えるけど低速 セッションをもう１回線契約する必要がある。 Android端末のVPNはIEKv2/Ipsecが標準になったので転送設定が複雑になった。 ポート転送を行おうとするとボルトネックが発生する</title>
+      <link>https://x.com/taizou50/status/2105919860773699587</link>
+      <description>太ちゃんねる: @kaminari_it 使いたいポートが電話やFAX用に使われていて使えない。 WireGuard はまず使えない 51820 OpenVPNは使えるけど低速 セッションをもう１回線契約する必要がある。 Android端末のVPNはIEKv2/Ipsecが標準になったので転送設定が複雑になった。 ポート転送を行おうとするとボルトネックが発生する</description>
+      <pubDate>Fri, 02 Oct 2026 07:16:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taizou50/status/2105919860773699587</guid>
+    </item>
+    <item>
+      <title>@kobefs wireguard vpnの出番ですかね</title>
+      <link>https://x.com/7sistere2/status/2105870784409522680</link>
+      <description>りっか: @kobefs wireguard vpnの出番ですかね</description>
+      <pubDate>Fri, 02 Oct 2026 04:01:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7sistere2/status/2105870784409522680</guid>
+    </item>
+    <item>
+      <title>wireguard を自分で設定するのら～ https://t.co/pVUQQJbzrK</title>
+      <link>https://x.com/nanase_oikawa/status/2105843539632697687</link>
+      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: wireguard を自分で設定するのら～ https://t.co/pVUQQJbzrK</description>
+      <pubDate>Fri, 02 Oct 2026 02:13:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2105843539632697687</guid>
+    </item>
+    <item>
+      <title>Tailscale( WireGuard )の挙動を概ね理解した。仮に心配するとしたら通信先と通信タイミングが読み取られることだけど、両方NAT越し(片方キャリア)だし関係ない。個人で使うなら良いかな。</title>
+      <link>https://x.com/kurogane255/status/2105791672189845997</link>
+      <description>黒鋼: Tailscale( WireGuard )の挙動を概ね理解した。仮に心配するとしたら通信先と通信タイミングが読み取られることだけど、両方NAT越し(片方キャリア)だし関係ない。個人で使うなら良いかな。</description>
+      <pubDate>Thu, 01 Oct 2026 22:47:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kurogane255/status/2105791672189845997</guid>
+    </item>
+    <item>
       <title>Tailscale( WireGuard )の挙動を概ね理解した。仮に心配するとしたら通信先と通通信タイミングが読み取られることだけど、両方NAT越し(片方キャリア)だし関係ない。個人で使うなら良いかな。</title>
       <link>https://x.com/kurogane255/status/2105791473480544563</link>
       <description>黒鋼: Tailscale( WireGuard )の挙動を概ね理解した。仮に心配するとしたら通信先と通通信タイミングが読み取られることだけど、両方NAT越し(片方キャリア)だし関係ない。個人で使うなら良いかな。</description>
@@ -248,34 +276,6 @@
       <description>Toshifumi Sakaguchi: wireguard が楽すぎて、IPSEC使う気になれない。</description>
       <pubDate>Tue, 22 Sep 2026 02:07:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/siskrn/status/2102218160019828858</guid>
-    </item>
-    <item>
-      <title>Tailscaleチームが、中央サーバー不要で動くP2P暗号化netcat「Tailcat」をOSS公開しました。 TailscaleアカウントやOSのroot権限が不要で、Tailscale中核の「magicsock」を活用して端末間で WireGuard トンネルを直接確立します。 https://t.co/xVO1moTpH4</title>
-      <link>https://x.com/masato_ai_log/status/2102027568291754000</link>
-      <description>Masato｜AIを現実につなぐ実験屋: Tailscaleチームが、中央サーバー不要で動くP2P暗号化netcat「Tailcat」をOSS公開しました。 TailscaleアカウントやOSのroot権限が不要で、Tailscale中核の「magicsock」を活用して端末間で WireGuard トンネルを直接確立します。 https://t.co/xVO1moTpH4</description>
-      <pubDate>Mon, 21 Sep 2026 13:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/masato_ai_log/status/2102027568291754000</guid>
-    </item>
-    <item>
-      <title>@FrankkkkkkLau WARP是用的 wireguard ?</title>
-      <link>https://x.com/notrealnatsume/status/2101980668658110553</link>
-      <description>subnet: @FrankkkkkkLau WARP是用的 wireguard ?</description>
-      <pubDate>Mon, 21 Sep 2026 10:23:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/notrealnatsume/status/2101980668658110553</guid>
-    </item>
-    <item>
-      <title>@sahenjpn 同時接続台数無制限！この時点でMillenを買う必要はなくなったな() IP汚染問題なら、TailscaleでWindscribe-OpenVPN→Proton- Wireguard (OpenWrt)に繋いで多段階するか ありがとう！！</title>
-      <link>https://x.com/L_port53/status/2101977574440354218</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @sahenjpn 同時接続台数無制限！この時点でMillenを買う必要はなくなったな() IP汚染問題なら、TailscaleでWindscribe-OpenVPN→Proton- Wireguard (OpenWrt)に繋いで多段階するか ありがとう！！</description>
-      <pubDate>Mon, 21 Sep 2026 10:11:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2101977574440354218</guid>
-    </item>
-    <item>
-      <title>VPSと自宅のラボのProxmoxに WireGuard でトンネル掘る。</title>
-      <link>https://x.com/CandiLaboratory/status/2101943173635547293</link>
-      <description>candi-lab.: VPSと自宅のラボのProxmoxに WireGuard でトンネル掘る。</description>
-      <pubDate>Mon, 21 Sep 2026 07:54:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CandiLaboratory/status/2101943173635547293</guid>
     </item>
   </channel>
 </rss>
