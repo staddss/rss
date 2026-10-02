@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>RAM8GBのパソコン、うちのなし崩し的なメインラップトップなTOUGHBOOK CF-20 7Y57はlabwcでベースライン消費を抑えてもブラウザ数発とターミナルとEDAで zram 行きになって激遅になるけども、MacBook NeoとかなんかはCPU速いからRAM圧縮食らっても体感速度悪くないんだなというのは最近実物見て思った</title>
+      <link>https://x.com/khu/status/2105574068766597237</link>
+      <description>kenhou: RAM8GBのパソコン、うちのなし崩し的なメインラップトップなTOUGHBOOK CF-20 7Y57はlabwcでベースライン消費を抑えてもブラウザ数発とターミナルとEDAで zram 行きになって激遅になるけども、MacBook NeoとかなんかはCPU速いからRAM圧縮食らっても体感速度悪くないんだなというのは最近実物見て思った</description>
+      <pubDate>Thu, 01 Oct 2026 08:22:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/khu/status/2105574068766597237</guid>
+    </item>
+    <item>
       <title>メモリをどうにか増やしたい ⚫︎VRAM ⚪︎HDDにメモリスワップ ◾︎遅い ⚪︎SSDにメモリスワップ ◾︎書き込み上限すぐ来がち ⚪︎正直にRAM買う ◾︎高い ⚪︎もう使わないスマホを使う ◾︎めんどう ⚫︎ ZRAM ⚪︎メモリを圧縮しちゃえばいい ◾︎ツールがない</title>
       <link>https://x.com/taou684340/status/2104946606462410886</link>
       <description>たくまる@活動終了: メモリをどうにか増やしたい ⚫︎VRAM ⚪︎HDDにメモリスワップ ◾︎遅い ⚪︎SSDにメモリスワップ ◾︎書き込み上限すぐ来がち ⚪︎正直にRAM買う ◾︎高い ⚪︎もう使わないスマホを使う ◾︎めんどう ⚫︎ ZRAM ⚪︎メモリを圧縮しちゃえばいい ◾︎ツールがない</description>
@@ -129,13 +136,6 @@
       <description>【公式】フォルシア株式会社: 【Zennを更新しました】 検証環境のEC2コスト削減のため「 zram 」を試すも、普通のswapの方が速かった検証結果を解説！条件による向き不向きなど役立つ知見を紹介しています。是非ご覧ください！ #フォルシア #AWS #Linux https://t.co/gxzldXw5io</description>
       <pubDate>Thu, 03 Sep 2026 07:00:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/FORCIA_PR/status/2095406515175997578</guid>
-    </item>
-    <item>
-      <title>Raspberry Pi、メモリ不足だからすぐ買い替え？ その前に「 zram 」を試す価値があります。 RAMの一部を圧縮して使うので、古いPiの延命に役立つことがあります。 ただし万能ではないので、向いているケース・注意点をまとめました。 https://t.co/KxbI6K5uJj #RaspberryPi #Linux #節約</title>
-      <link>https://x.com/raspi24lab/status/2094744438849572961</link>
-      <description>ラズパイ節約ラボ: Raspberry Pi、メモリ不足だからすぐ買い替え？ その前に「 zram 」を試す価値があります。 RAMの一部を圧縮して使うので、古いPiの延命に役立つことがあります。 ただし万能ではないので、向いているケース・注意点をまとめました。 https://t.co/KxbI6K5uJj #RaspberryPi #Linux #節約</description>
-      <pubDate>Tue, 01 Sep 2026 11:09:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/raspi24lab/status/2094744438849572961</guid>
     </item>
   </channel>
 </rss>
