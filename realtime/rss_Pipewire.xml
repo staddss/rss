@@ -172,12 +172,5 @@
       <pubDate>Fri, 04 Sep 2026 05:43:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095749493836894511</guid>
     </item>
-    <item>
-      <title>wayland環境構築に向けてdebian13からcinnamon環境がフルにそろってるLMDE7に戻した kernel7.2でAMD-CPU対応が進むし10月以降に7.3リリース見込みだしwayland導入に向けbackportsで7.1.xカーネル化cuda関連導入してGPUドライバも最新に pipewire 、jackとaudio関連も投入まで終えた 続きは終末からかな</title>
-      <link>https://x.com/LegacyGrandblue/status/2095510333649805588</link>
-      <description>黄金のLegacy Grandblue❖Kujata: wayland環境構築に向けてdebian13からcinnamon環境がフルにそろってるLMDE7に戻した kernel7.2でAMD-CPU対応が進むし10月以降に7.3リリース見込みだしwayland導入に向けbackportsで7.1.xカーネル化cuda関連導入してGPUドライバも最新に pipewire 、jackとaudio関連も投入まで終えた 続きは終末からかな</description>
-      <pubDate>Thu, 03 Sep 2026 13:52:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LegacyGrandblue/status/2095510333649805588</guid>
-    </item>
   </channel>
 </rss>
