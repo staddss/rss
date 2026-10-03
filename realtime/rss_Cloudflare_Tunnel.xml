@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>は？ Cloudflare Tunnel error 困るんだが https://t.co/DVCURxeL09</title>
+      <link>https://x.com/shimabox/status/2106181030403285317</link>
+      <description>しまぶ: は？ Cloudflare Tunnel error 困るんだが https://t.co/DVCURxeL09</description>
+      <pubDate>Sat, 03 Oct 2026 00:34:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shimabox/status/2106181030403285317</guid>
+    </item>
+    <item>
       <title>無料なの意味わからんやつ置いとく ・Tailscale（個人なら端末は無制限） ・ Cloudflare Tunnel （ポート開けずに自宅サーバー公開） ・GitHub（非公開リポジトリ無制限、Actions月2,000分） これ全部タダってどういうこと（）</title>
       <link>https://x.com/spa335L/status/2105877364886639050</link>
       <description>spa★ブログと個人開発: 無料なの意味わからんやつ置いとく ・Tailscale（個人なら端末は無制限） ・ Cloudflare Tunnel （ポート開けずに自宅サーバー公開） ・GitHub（非公開リポジトリ無制限、Actions月2,000分） これ全部タダってどういうこと（）</description>
@@ -269,13 +276,6 @@
       <description>Git_Shark: Androidスマホから自宅のWindows11上のUnsloth環境に直接問い合わせ、無料のオンラインモデルを使わず自分のデータと自分のGPUだけで完結させたいという相談。解決策としてTailscaleや Cloudflare Tunnel で常時VPN化し、Open WebUIと独自ドメインで安全に外部公開する案が支持を集めた。</description>
       <pubDate>Sun, 20 Sep 2026 00:05:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/LFrefman/status/2101462743048237140</guid>
-    </item>
-    <item>
-      <title>@Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</title>
-      <link>https://x.com/JayQinQT/status/2101386530933682579</link>
-      <description>Jay: @Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</description>
-      <pubDate>Sat, 19 Sep 2026 19:02:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JayQinQT/status/2101386530933682579</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</title>
+      <link>https://x.com/grok/status/2106204402881089741</link>
+      <description>Grok: @moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</description>
+      <pubDate>Sat, 03 Oct 2026 02:07:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2106204402881089741</guid>
+    </item>
+    <item>
+      <title>@_ryu15_ tailscale使えばなんと wireguard もついてきてセキュリティも割と強いんですねぇ</title>
+      <link>https://x.com/sahenjpn/status/2105952446732456372</link>
+      <description>sahen: @_ryu15_ tailscale使えばなんと wireguard もついてきてセキュリティも割と強いんですねぇ</description>
+      <pubDate>Fri, 02 Oct 2026 09:26:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sahenjpn/status/2105952446732456372</guid>
+    </item>
+    <item>
       <title>@kaminari_it 使いたいポートが電話やFAX用に使われていて使えない。 WireGuard はまず使えない 51820 OpenVPNは使えるけど低速 セッションをもう１回線契約する必要がある。 Android端末のVPNはIEKv2/Ipsecが標準になったので転送設定が複雑になった。 ポート転送を行おうとするとボルトネックが発生する</title>
       <link>https://x.com/taizou50/status/2105919860773699587</link>
       <description>太ちゃんねる: @kaminari_it 使いたいポートが電話やFAX用に使われていて使えない。 WireGuard はまず使えない 51820 OpenVPNは使えるけど低速 セッションをもう１回線契約する必要がある。 Android端末のVPNはIEKv2/Ipsecが標準になったので転送設定が複雑になった。 ポート転送を行おうとするとボルトネックが発生する</description>
@@ -262,20 +276,6 @@
       <description>ぴんころ: Minecraft ↓ localhost:25565 ↓ Tailcat ↓ WireGuard 暗号化通信 ↓ 直接P2P または DERP Relay ↓ Tailcat ↓ localhost:25565 ↓ Minecraft Server 多分こんな感じだけど、双方にTailcatが必要だけどね いけそう</description>
       <pubDate>Tue, 22 Sep 2026 09:46:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pinkoro2979/status/2102333797912265039</guid>
-    </item>
-    <item>
-      <title>家ルーターに WireGuard 入れ外出先に Quest 持ってくだけで快適に PCVR できるようになった！遅延も感じない</title>
-      <link>https://x.com/kisenone/status/2102268665836261592</link>
-      <description>きせのん: 家ルーターに WireGuard 入れ外出先に Quest 持ってくだけで快適に PCVR できるようになった！遅延も感じない</description>
-      <pubDate>Tue, 22 Sep 2026 05:28:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kisenone/status/2102268665836261592</guid>
-    </item>
-    <item>
-      <title>wireguard が楽すぎて、IPSEC使う気になれない。</title>
-      <link>https://x.com/siskrn/status/2102218160019828858</link>
-      <description>Toshifumi Sakaguchi: wireguard が楽すぎて、IPSEC使う気になれない。</description>
-      <pubDate>Tue, 22 Sep 2026 02:07:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/siskrn/status/2102218160019828858</guid>
     </item>
   </channel>
 </rss>

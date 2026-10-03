@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>64GB版とか出すくらいだし、DGX Sparkの後継機はでなさそうだから買っちゃうか・・・いやMac Studio 512GBを待っても・・・いや最近strata流行ってるし古いパーツ集めるのも面白そう・・・でも消費電力加味するとDGX Sparkか・・・？あえての Ryzen AI Max + PRO 495か・・・ って一生悩み続けてる</title>
+      <link>https://x.com/5000e12/status/2106275235729412292</link>
+      <description>かんた: 64GB版とか出すくらいだし、DGX Sparkの後継機はでなさそうだから買っちゃうか・・・いやMac Studio 512GBを待っても・・・いや最近strata流行ってるし古いパーツ集めるのも面白そう・・・でも消費電力加味するとDGX Sparkか・・・？あえての Ryzen AI Max + PRO 495か・・・ って一生悩み続けてる</description>
+      <pubDate>Sat, 03 Oct 2026 06:48:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5000e12/status/2106275235729412292</guid>
+    </item>
+    <item>
       <title>面白い構成だけども、画像の価格に騙されかけた。 Starting at $5,999 = Ryzen ai max 495+128GB MEM, no R9700 &amp; 100GbE $9,000+ = as same as Picture :) https://t.co/Dm8muJyogF</title>
       <link>https://x.com/stsouta/status/2106072907336302920</link>
       <description>S0TA-e8218: 面白い構成だけども、画像の価格に騙されかけた。 Starting at $5,999 = Ryzen ai max 495+128GB MEM, no R9700 &amp; 100GbE $9,000+ = as same as Picture :) https://t.co/Dm8muJyogF</description>
       <pubDate>Fri, 02 Oct 2026 17:24:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/stsouta/status/2106072907336302920</guid>
+    </item>
+    <item>
+      <title>価格115万円のミニPC。メモリ192GBの Ryzen AI Max + PRO 495搭載機 - PC Watch https://t.co/pJUf9btZCs</title>
+      <link>https://x.com/karyu2026/status/2105902358211555790</link>
+      <description>火龍: 価格115万円のミニPC。メモリ192GBの Ryzen AI Max + PRO 495搭載機 - PC Watch https://t.co/pJUf9btZCs</description>
+      <pubDate>Fri, 02 Oct 2026 06:07:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/karyu2026/status/2105902358211555790</guid>
     </item>
     <item>
       <title>Mac miniの64GBユニファイドメモリは Ryzen AI Max + 395 を積んだPCみたいな System用とLLM用にメモリ割り当てを決めなくていいから 無茶すれば50GB分もLLMに載せるなんて暴挙もできるらしい 久々にMac使ってみたいのもあるから 多少値が張っても、とりあえず頼んでみることに</title>
@@ -262,20 +276,6 @@
       <description>A-Uta: Local LLM - Qwen3.8-Flash-Next改 AMDのGPUでも速くなるかも？！ テスターを募集中らしいです。 私の EVO-X2 128GB(AMD Ryzen AI Max + 395)は、該当するのかな？😌 #地元のLLM https://t.co/l3Zprssl0g</description>
       <pubDate>Mon, 28 Sep 2026 09:41:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/UtaAoya/status/2104506819544789000</guid>
-    </item>
-    <item>
-      <title>APUの動作でCPUかGPUかで電力の取り合いになってGPUが性能出しきれないので Ryzen AI MAX + 395からCore数を半分にした8C16TでRadeon8060Sなモデルもあったねー(*=ω=)ﾉ</title>
-      <link>https://x.com/Mofumoppy/status/2104502159945654567</link>
-      <description>もふこ: APUの動作でCPUかGPUかで電力の取り合いになってGPUが性能出しきれないので Ryzen AI MAX + 395からCore数を半分にした8C16TでRadeon8060Sなモデルもあったねー(*=ω=)ﾉ</description>
-      <pubDate>Mon, 28 Sep 2026 09:23:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Mofumoppy/status/2104502159945654567</guid>
-    </item>
-    <item>
-      <title>APUだとCPU＆GPUで Ryzen AI MAX + 395が一番強いけどIntelもそこそこ良い感じの出したねCore Ultra X7 358HでiGPUがIntel Arc B390で Ryzen AI MAX + 395内臓のRadeon8080Sの下につくほどのスコアー(*=ω=)ﾉ</title>
-      <link>https://x.com/Mofumoppy/status/2104501811860385894</link>
-      <description>もふこ: APUだとCPU＆GPUで Ryzen AI MAX + 395が一番強いけどIntelもそこそこ良い感じの出したねCore Ultra X7 358HでiGPUがIntel Arc B390で Ryzen AI MAX + 395内臓のRadeon8080Sの下につくほどのスコアー(*=ω=)ﾉ</description>
-      <pubDate>Mon, 28 Sep 2026 09:21:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Mofumoppy/status/2104501811860385894</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>zram -generatorってファイルシステム作成してマウントする機能あったのか</title>
+      <link>https://x.com/mapoyon/status/2105886061058728062</link>
+      <description>まぽよん@(Titan): zram -generatorってファイルシステム作成してマウントする機能あったのか</description>
+      <pubDate>Fri, 02 Oct 2026 05:02:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mapoyon/status/2105886061058728062</guid>
+    </item>
+    <item>
       <title>チャットgptやLINE、ブラウザのスクロールがカクカクしてた問題も解決。 かこって検索ができなくなったので、ルート化してMiCTSから起動できるように。 ramも一応、 zRAM を3G、swapを2Gの物理ram合わせて9G体制に。 アプリも、かなり落ちにくくなって、最高です。</title>
       <link>https://x.com/nucleosomeh3ht/status/2105787123215573464</link>
       <description>脊髄: チャットgptやLINE、ブラウザのスクロールがカクカクしてた問題も解決。 かこって検索ができなくなったので、ルート化してMiCTSから起動できるように。 ramも一応、 zRAM を3G、swapを2Gの物理ram合わせて9G体制に。 アプリも、かなり落ちにくくなって、最高です。</description>
@@ -136,13 +143,6 @@
       <description>倫理観の欠如: Galaxyの zRAM の無効化は zRAM そのものを無効にせず圧縮の積極性の調整を変動させるかのような動きなのか？ 有効/無効で容量に変化がないので他社と扱いが異なる</description>
       <pubDate>Mon, 07 Sep 2026 03:53:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/heavycheesecake/status/2096809160147173887</guid>
-    </item>
-    <item>
-      <title>【Zennを更新しました】 検証環境のEC2コスト削減のため「 zram 」を試すも、普通のswapの方が速かった検証結果を解説！条件による向き不向きなど役立つ知見を紹介しています。是非ご覧ください！ #フォルシア #AWS #Linux https://t.co/gxzldXw5io</title>
-      <link>https://x.com/FORCIA_PR/status/2095406515175997578</link>
-      <description>【公式】フォルシア株式会社: 【Zennを更新しました】 検証環境のEC2コスト削減のため「 zram 」を試すも、普通のswapの方が速かった検証結果を解説！条件による向き不向きなど役立つ知見を紹介しています。是非ご覧ください！ #フォルシア #AWS #Linux https://t.co/gxzldXw5io</description>
-      <pubDate>Thu, 03 Sep 2026 07:00:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/FORCIA_PR/status/2095406515175997578</guid>
     </item>
   </channel>
 </rss>
