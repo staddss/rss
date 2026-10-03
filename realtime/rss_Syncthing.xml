@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>本当に教えたい自宅セルフホストアプリ5選 🥇Ignis：Web版Obsidian。VNC不要 🥈 Syncthing ：超万能ローカル同期 🥉Immich：AI・OCR・動画変換対応のGoogleフォト代替 4️⃣Hister：見たWebページを自動保存＆全文検索 5️⃣AgentDVR：USBカメラも使えるWeb型NVR https://t.co/mdlGc28XWa</title>
+      <link>https://x.com/shigetoroku1010/status/2105965404992819398</link>
+      <description>重藤 六🐸ガジェットブロガー: 本当に教えたい自宅セルフホストアプリ5選 🥇Ignis：Web版Obsidian。VNC不要 🥈 Syncthing ：超万能ローカル同期 🥉Immich：AI・OCR・動画変換対応のGoogleフォト代替 4️⃣Hister：見たWebページを自動保存＆全文検索 5️⃣AgentDVR：USBカメラも使えるWeb型NVR https://t.co/mdlGc28XWa</description>
+      <pubDate>Fri, 02 Oct 2026 10:17:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2105965404992819398</guid>
+    </item>
+    <item>
+      <title>複数のPC使う人は Syncthing おすすめ。 データが一瞬で同期されて、初めて使った時は感動した。 https://t.co/8YoyJIXcpZ</title>
+      <link>https://x.com/kuroma_note/status/2105697683600208359</link>
+      <description>クロマ: 複数のPC使う人は Syncthing おすすめ。 データが一瞬で同期されて、初めて使った時は感動した。 https://t.co/8YoyJIXcpZ</description>
+      <pubDate>Thu, 01 Oct 2026 16:33:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuroma_note/status/2105697683600208359</guid>
+    </item>
+    <item>
       <title>@shotovim かなり近しいことをObsidian Syncでやっているのですが、 Syncthing を使うことの良さ、よければお伺いしたいです…！</title>
       <link>https://x.com/usutaku_channel/status/2105464151644778753</link>
       <description>usutaku: @shotovim かなり近しいことをObsidian Syncでやっているのですが、 Syncthing を使うことの良さ、よければお伺いしたいです…！</description>
@@ -262,20 +276,6 @@
       <description>増井敏克: 私も気になる。 私は1つ前のがバックアップ用の端末。 可能ならもう1つ前が検証用の端末。 これをmacOS、Windowsでそれぞれなので、現状は3台ずつ。 すべて Syncthing でときどき起動して同期&amp;定期的にrsyncで遠隔地保管。 普段から3台は起動してるので常時3台にコピーがある。 https://t.co/5EMdmFOY1C</description>
       <pubDate>Sat, 12 Sep 2026 08:17:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/masuipeo/status/2098687446737395810</guid>
-    </item>
-    <item>
-      <title>メリットはとにかく同期が速いこと。 Syncthing への変更前はOneDriveの同期の遅れ＋Foldersyncの実行のタイミング（1時間に1回とか）による遅延があり「出かける前にPCで加えた変更がスマホに反映されてねえ」て状況がよくあったが、変更後はそういう問題がまったくないので使ってて気持ちいい。</title>
-      <link>https://x.com/tk20130801/status/2098642298473246985</link>
-      <description>tk20130801: メリットはとにかく同期が速いこと。 Syncthing への変更前はOneDriveの同期の遅れ＋Foldersyncの実行のタイミング（1時間に1回とか）による遅延があり「出かける前にPCで加えた変更がスマホに反映されてねえ」て状況がよくあったが、変更後はそういう問題がまったくないので使ってて気持ちいい。</description>
-      <pubDate>Sat, 12 Sep 2026 05:18:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tk20130801/status/2098642298473246985</guid>
-    </item>
-    <item>
-      <title>ObisidianのVaultの同期を Syncthing に乗り換えたことのデメリットはLAN外でのデータの取得が不可になったこと。VPNを張ればできるっぽいけど、元ポストにも書いたが自分の運用ではそこまで必要がないと割り切って切り捨て。今のところ問題ない。</title>
-      <link>https://x.com/tk20130801/status/2098639649912782886</link>
-      <description>tk20130801: ObisidianのVaultの同期を Syncthing に乗り換えたことのデメリットはLAN外でのデータの取得が不可になったこと。VPNを張ればできるっぽいけど、元ポストにも書いたが自分の運用ではそこまで必要がないと割り切って切り捨て。今のところ問題ない。</description>
-      <pubDate>Sat, 12 Sep 2026 05:07:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tk20130801/status/2098639649912782886</guid>
     </item>
   </channel>
 </rss>

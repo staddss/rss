@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Linuxデスクトップには「いま動いているプロセスがどのアプリか」を統一的に知る仕組みがない。 https://t.co/bIg5QlfK2i D-BusはPIDを見る。 PipeWire はcgroupパスを覗く。 Waylandはソケットの資格情報を使う。 XDGポータルはFlatpak専用。 https://t.co/bVLCrbXVX5</title>
+      <link>https://x.com/joho_no_todai/status/2106159989312409794</link>
+      <description>情報の灯台: Linuxデスクトップには「いま動いているプロセスがどのアプリか」を統一的に知る仕組みがない。 https://t.co/bIg5QlfK2i D-BusはPIDを見る。 PipeWire はcgroupパスを覗く。 Waylandはソケットの資格情報を使う。 XDGポータルはFlatpak専用。 https://t.co/bVLCrbXVX5</description>
+      <pubDate>Fri, 02 Oct 2026 23:10:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2106159989312409794</guid>
+    </item>
+    <item>
       <title>ストリーミング中の音声、誰かのツイートで見たとおり context\.properties = { steamos.filters.echo-cancellation = false steamos.filters.noise-suppression = false } を~/.config/ pipewire / pipewire .conf.d/99-disable-mic-ns-aec.conf に書いてサービス再起動したら安定した感じがする</title>
       <link>https://x.com/mewl_me/status/2104564870083649985</link>
       <description>m-hayabusa: ストリーミング中の音声、誰かのツイートで見たとおり context\.properties = { steamos.filters.echo-cancellation = false steamos.filters.noise-suppression = false } を~/.config/ pipewire / pipewire .conf.d/99-disable-mic-ns-aec.conf に書いてサービス再起動したら安定した感じがする</description>
@@ -171,27 +178,6 @@
       <description>黄金のLegacy Grandblue❖Kujata: wayland環境構築に向けてdebian13からcinnamon環境がフルにそろってるLMDE7に戻した kernel7.2でAMD-CPU対応が進むし10月以降に7.3リリース見込みだしwayland導入に向けbackportsで7.1.xカーネル化cuda関連導入してGPUドライバも最新に pipewire 、jackとaudio関連も投入まで終えた 続きは終末からかな</description>
       <pubDate>Thu, 03 Sep 2026 13:52:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/LegacyGrandblue/status/2095510333649805588</guid>
-    </item>
-    <item>
-      <title>他のチャンネルの音量設定を拾ってる感じだけど、 とりあえず、欲しいデバイスを表示させてから systemctl --user restart wireplumber pipewire pipewire -pulse ですっきりさせればいいか… （0.5.17で表示と音量設定とかのインデックスずれが直るかは謎）</title>
-      <link>https://x.com/t_tetosuki/status/2095283426626781628</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: 他のチャンネルの音量設定を拾ってる感じだけど、 とりあえず、欲しいデバイスを表示させてから systemctl --user restart wireplumber pipewire pipewire -pulse ですっきりさせればいいか… （0.5.17で表示と音量設定とかのインデックスずれが直るかは謎）</description>
-      <pubDate>Wed, 02 Sep 2026 22:51:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095283426626781628</guid>
-    </item>
-    <item>
-      <title>wireplumber pipewire pipewire -pulse を（一旦止めたけど）リスタートすると、 wireplumber[27164]: spa.bluez5: BlueZ system service is not available 以外のエラーが消えるんだ… （音声の設定画面もすっきりするけど） これはもう1個ぐらい隠れてるパターンだよね…</title>
-      <link>https://x.com/t_tetosuki/status/2095277977059868693</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: wireplumber pipewire pipewire -pulse を（一旦止めたけど）リスタートすると、 wireplumber[27164]: spa.bluez5: BlueZ system service is not available 以外のエラーが消えるんだ… （音声の設定画面もすっきりするけど） これはもう1個ぐらい隠れてるパターンだよね…</description>
-      <pubDate>Wed, 02 Sep 2026 22:29:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095277977059868693</guid>
-    </item>
-    <item>
-      <title>pipewire の修正後の配布待ちかな…（ソース自体はもう変更されてたけど） とりあえずBlueZのバージョンは新しい方に戻しとこ…</title>
-      <link>https://x.com/t_tetosuki/status/2095183249639395411</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: pipewire の修正後の配布待ちかな…（ソース自体はもう変更されてたけど） とりあえずBlueZのバージョンは新しい方に戻しとこ…</description>
-      <pubDate>Wed, 02 Sep 2026 16:13:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095183249639395411</guid>
     </item>
   </channel>
 </rss>
