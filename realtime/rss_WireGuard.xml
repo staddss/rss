@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@L_port8080 そりゃ WireGuard はVPNだから、すべてのネットワーク通信をトンネリングするんや</title>
+      <link>https://x.com/umaiyo_ajiman/status/2106410257916498352</link>
+      <description>白白: @L_port8080 そりゃ WireGuard はVPNだから、すべてのネットワーク通信をトンネリングするんや</description>
+      <pubDate>Sat, 03 Oct 2026 15:45:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/umaiyo_ajiman/status/2106410257916498352</guid>
+    </item>
+    <item>
       <title>@moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</title>
       <link>https://x.com/grok/status/2106204402881089741</link>
       <description>Grok: @moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</description>
@@ -269,13 +276,6 @@
       <description>dream.more: 針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</description>
       <pubDate>Tue, 22 Sep 2026 14:16:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dali1331/status/2102401733909528628</guid>
-    </item>
-    <item>
-      <title>Minecraft ↓ localhost:25565 ↓ Tailcat ↓ WireGuard 暗号化通信 ↓ 直接P2P または DERP Relay ↓ Tailcat ↓ localhost:25565 ↓ Minecraft Server 多分こんな感じだけど、双方にTailcatが必要だけどね いけそう</title>
-      <link>https://x.com/pinkoro2979/status/2102333797912265039</link>
-      <description>ぴんころ: Minecraft ↓ localhost:25565 ↓ Tailcat ↓ WireGuard 暗号化通信 ↓ 直接P2P または DERP Relay ↓ Tailcat ↓ localhost:25565 ↓ Minecraft Server 多分こんな感じだけど、双方にTailcatが必要だけどね いけそう</description>
-      <pubDate>Tue, 22 Sep 2026 09:46:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pinkoro2979/status/2102333797912265039</guid>
     </item>
   </channel>
 </rss>
