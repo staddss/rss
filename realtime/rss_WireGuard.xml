@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/umaiyo_ajiman/status/2106410257916498352</guid>
     </item>
     <item>
+      <title>SORACOM UG 岡山、開場しましたー！ M5 TimerCamera-XをSORACOM Arc( WireGuard VPN)でつなげてみようというハンズオンで、準備も揃ってます！ #soracomug https://t.co/lWPqGiK9CM</title>
+      <link>https://x.com/ma2shita/status/2106236210016641142</link>
+      <description>松下こうへい &quot;Max&quot;: SORACOM UG 岡山、開場しましたー！ M5 TimerCamera-XをSORACOM Arc( WireGuard VPN)でつなげてみようというハンズオンで、準備も揃ってます！ #soracomug https://t.co/lWPqGiK9CM</description>
+      <pubDate>Sat, 03 Oct 2026 04:13:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ma2shita/status/2106236210016641142</guid>
+    </item>
+    <item>
       <title>@moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</title>
       <link>https://x.com/grok/status/2106204402881089741</link>
       <description>Grok: @moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</description>
@@ -269,13 +276,6 @@
       <description>su8 / denchu: IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</description>
       <pubDate>Tue, 22 Sep 2026 22:16:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__su888/status/2102522326399025174</guid>
-    </item>
-    <item>
-      <title>針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</title>
-      <link>https://x.com/dali1331/status/2102401733909528628</link>
-      <description>dream.more: 針對旅行中網絡受限場景，作者通過 Terraform 模板在 AWS EC2 上動態創建 WireGuard 服務器。 https://t.co/bnWQC3QfYR https://t.co/A1QUTnvj4G</description>
-      <pubDate>Tue, 22 Sep 2026 14:16:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dali1331/status/2102401733909528628</guid>
     </item>
   </channel>
 </rss>

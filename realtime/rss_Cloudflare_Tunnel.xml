@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なんか流行っているらしいAIモデリング 最近100$配布されたCCのクラウドセッション用クレジットを手元のUnityを操作するのに使えたのでやり方だけ書いときます ① Unity側でMCP for UnityをHTTPモードで起動 ② Cloudflare Tunnel でサブドメインを公開し、Accessのサービストークン認証を必須にする https://t.co/metIA64OSv</title>
+      <link>https://x.com/hrs0_0m/status/2106461614715314458</link>
+      <description>HRSM: なんか流行っているらしいAIモデリング 最近100$配布されたCCのクラウドセッション用クレジットを手元のUnityを操作するのに使えたのでやり方だけ書いときます ① Unity側でMCP for UnityをHTTPモードで起動 ② Cloudflare Tunnel でサブドメインを公開し、Accessのサービストークン認証を必須にする https://t.co/metIA64OSv</description>
+      <pubDate>Sat, 03 Oct 2026 19:09:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hrs0_0m/status/2106461614715314458</guid>
+    </item>
+    <item>
       <title>claudecodeでの開発は割と序盤からブラウザで操作できるように画面作ってやってる 今では画像にコメントを付けて渡せるようにしてるし同時に3セッションを見ながら捌ける仕組みになってる ドメインと cloudflare tunnel があれば外出先でも作業できるから便利 https://t.co/xL0BtbMVLm</title>
       <link>https://x.com/KuriMikan_/status/2106255157684228116</link>
       <description>ないとー: claudecodeでの開発は割と序盤からブラウザで操作できるように画面作ってやってる 今では画像にコメントを付けて渡せるようにしてるし同時に3セッションを見ながら捌ける仕組みになってる ドメインと cloudflare tunnel があれば外出先でも作業できるから便利 https://t.co/xL0BtbMVLm</description>
@@ -269,13 +276,6 @@
       <description>Git_Shark: Androidスマホから自宅のWindows11上のUnsloth環境に直接問い合わせ、無料のオンラインモデルを使わず自分のデータと自分のGPUだけで完結させたいという相談。解決策としてTailscaleや Cloudflare Tunnel で常時VPN化し、Open WebUIと独自ドメインで安全に外部公開する案が支持を集めた。</description>
       <pubDate>Sun, 20 Sep 2026 00:05:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/LFrefman/status/2101462743048237140</guid>
-    </item>
-    <item>
-      <title>@Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</title>
-      <link>https://x.com/JayQinQT/status/2101386530933682579</link>
-      <description>Jay: @Elnabu1022 そそうHTTPS開けなら Cloudflare Tunnel のFreeでVPN不要です。ず ` cloudflared tunnel --url http://localhost:3000` でし外から502ならアプリ127.0.0.1:3000で待受しいか、Origin URLートを確認と切分けきま無料内網穿透・リバープロシ cftunnel（*.trycloudflare.comもりますhttps://t.co/0ip4fppg59</description>
-      <pubDate>Sat, 19 Sep 2026 19:02:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JayQinQT/status/2101386530933682579</guid>
     </item>
   </channel>
 </rss>
