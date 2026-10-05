@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>設定不要。1行で公開完了 Cloudflare Quick Tunnels登場、通常の Cloudflare Tunnel との違いと使い分け https://t.co/M9vHBvb6x9 #AI #AIツール</title>
+      <link>https://x.com/ai_topica/status/2106636799229759873</link>
+      <description>AI Topica: 設定不要。1行で公開完了 Cloudflare Quick Tunnels登場、通常の Cloudflare Tunnel との違いと使い分け https://t.co/M9vHBvb6x9 #AI #AIツール</description>
+      <pubDate>Sun, 04 Oct 2026 06:45:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ai_topica/status/2106636799229759873</guid>
+    </item>
+    <item>
       <title>なんか流行っているらしいAIモデリング 最近100$配布されたCCのクラウドセッション用クレジットを手元のUnityを操作するのに使えたのでやり方だけ書いときます ① Unity側でMCP for UnityをHTTPモードで起動 ② Cloudflare Tunnel でサブドメインを公開し、Accessのサービストークン認証を必須にする https://t.co/metIA64OSv</title>
       <link>https://x.com/hrs0_0m/status/2106461614715314458</link>
       <description>HRSM: なんか流行っているらしいAIモデリング 最近100$配布されたCCのクラウドセッション用クレジットを手元のUnityを操作するのに使えたのでやり方だけ書いときます ① Unity側でMCP for UnityをHTTPモードで起動 ② Cloudflare Tunnel でサブドメインを公開し、Accessのサービストークン認証を必須にする https://t.co/metIA64OSv</description>
@@ -269,13 +276,6 @@
       <description>aiAnyDay: ngrok,funnel 厳しいか？ Cloudflare Tunnel サービス cloudflared tunnel --url http://localhost:8000 https://t.co/BwdFw94zch</description>
       <pubDate>Sun, 20 Sep 2026 01:25:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aiAnyDay/status/2101482786578423906</guid>
-    </item>
-    <item>
-      <title>Androidスマホから自宅のWindows11上のUnsloth環境に直接問い合わせ、無料のオンラインモデルを使わず自分のデータと自分のGPUだけで完結させたいという相談。解決策としてTailscaleや Cloudflare Tunnel で常時VPN化し、Open WebUIと独自ドメインで安全に外部公開する案が支持を集めた。</title>
-      <link>https://x.com/LFrefman/status/2101462743048237140</link>
-      <description>Git_Shark: Androidスマホから自宅のWindows11上のUnsloth環境に直接問い合わせ、無料のオンラインモデルを使わず自分のデータと自分のGPUだけで完結させたいという相談。解決策としてTailscaleや Cloudflare Tunnel で常時VPN化し、Open WebUIと独自ドメインで安全に外部公開する案が支持を集めた。</description>
-      <pubDate>Sun, 20 Sep 2026 00:05:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LFrefman/status/2101462743048237140</guid>
     </item>
   </channel>
 </rss>

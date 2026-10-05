@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone によるファイルサーバのバックアップ。 SMB/CIFSをサポートしてるから、SAMBAなしでファイルのコピーが可能。Dockerボリュームで共有フォルダを・・・みたいなことを考えずにDockerコンテナで完結できる。 https://t.co/awY3XGMXqD</title>
+      <link>https://x.com/moguno/status/2106542251791073354</link>
+      <description>もぐの: rclone によるファイルサーバのバックアップ。 SMB/CIFSをサポートしてるから、SAMBAなしでファイルのコピーが可能。Dockerボリュームで共有フォルダを・・・みたいなことを考えずにDockerコンテナで完結できる。 https://t.co/awY3XGMXqD</description>
+      <pubDate>Sun, 04 Oct 2026 00:29:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2106542251791073354</guid>
+    </item>
+    <item>
       <title>@amatsuki_tei_ おは甘です 旧パソコンでファイル共有して、robocopyか rclone でネットワーク転送するか、ファイル共有しなくてもローカルからUSB-HDDに転送した方が速いのでは？ コマンド？AIが答えてくれます。</title>
       <link>https://x.com/tama_aznable/status/2106537576035434608</link>
       <description>たま🌂🎐美少女に変態と言われたい🌧🍡🌙: @amatsuki_tei_ おは甘です 旧パソコンでファイル共有して、robocopyか rclone でネットワーク転送するか、ファイル共有しなくてもローカルからUSB-HDDに転送した方が速いのでは？ コマンド？AIが答えてくれます。</description>
@@ -269,13 +276,6 @@
       <description>1shuukan(D): rclone copyはこんな感じ。一番楽かもしれん。 https://t.co/DgH8EMDxR1</description>
       <pubDate>Sun, 13 Sep 2026 14:12:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/1shuukan_out/status/2099139142839918886</guid>
-    </item>
-    <item>
-      <title>rclone のローカルwebコンソール。ここから簡単に速度制限できてよいね！ しかし、nfsがそれはそれは良くフリーズするは、今は大人しく rclone copyで転送してる。。。 https://t.co/vURF74QAE6 https://t.co/edcbhH64QO</title>
-      <link>https://x.com/1shuukan_out/status/2099137371442672017</link>
-      <description>1shuukan(D): rclone のローカルwebコンソール。ここから簡単に速度制限できてよいね！ しかし、nfsがそれはそれは良くフリーズするは、今は大人しく rclone copyで転送してる。。。 https://t.co/vURF74QAE6 https://t.co/edcbhH64QO</description>
-      <pubDate>Sun, 13 Sep 2026 14:05:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/1shuukan_out/status/2099137371442672017</guid>
     </item>
   </channel>
 </rss>

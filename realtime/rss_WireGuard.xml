@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OPNsenseで WireGuard 構築完了。OpenVPNだとクライアントのグローバルIPが変わるたびにトンネル内のTCPコネクションが切れてたけど切れなくなった！</title>
+      <link>https://x.com/h1yrk/status/2106769497919217943</link>
+      <description>ゆうき: OPNsenseで WireGuard 構築完了。OpenVPNだとクライアントのグローバルIPが変わるたびにトンネル内のTCPコネクションが切れてたけど切れなくなった！</description>
+      <pubDate>Sun, 04 Oct 2026 15:32:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/h1yrk/status/2106769497919217943</guid>
+    </item>
+    <item>
+      <title>@neutron42jp しかも内部 WireGuard らしく速度もVPNの中でも優秀ときた</title>
+      <link>https://x.com/k1_n0_yu/status/2106720880667844766</link>
+      <description>きのゆ: @neutron42jp しかも内部 WireGuard らしく速度もVPNの中でも優秀ときた</description>
+      <pubDate>Sun, 04 Oct 2026 12:19:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/k1_n0_yu/status/2106720880667844766</guid>
+    </item>
+    <item>
+      <title>@markun_Dh iOSアプリの wireguard でスプリットトンネルなんてできたか...？ 常時繋いでるぞ、だからこそ謎</title>
+      <link>https://x.com/L_port8080/status/2106682333172801727</link>
+      <description>一樹（第二拠点）: @markun_Dh iOSアプリの wireguard でスプリットトンネルなんてできたか...？ 常時繋いでるぞ、だからこそ謎</description>
+      <pubDate>Sun, 04 Oct 2026 09:46:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2106682333172801727</guid>
+    </item>
+    <item>
       <title>@L_port8080 そりゃ WireGuard はVPNだから、すべてのネットワーク通信をトンネリングするんや</title>
       <link>https://x.com/umaiyo_ajiman/status/2106410257916498352</link>
       <description>白白: @L_port8080 そりゃ WireGuard はVPNだから、すべてのネットワーク通信をトンネリングするんや</description>
@@ -255,27 +276,6 @@
       <description>Syo.D🔯KuroNekoMusicStudio: @Hidamarickti うちはzerotier試したことあるんですがパケロス多くて今は WireGuard に落ち着きました</description>
       <pubDate>Thu, 24 Sep 2026 08:10:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/knmusicstudio/status/2103034205764726969</guid>
-    </item>
-    <item>
-      <title>VPS借りて WireGuard 建てて参加させる方がドメイン分けなくていいし安全そうではある</title>
-      <link>https://x.com/rain1208_v/status/2102798215754182965</link>
-      <description>rain1208🎖: VPS借りて WireGuard 建てて参加させる方がドメイン分けなくていいし安全そうではある</description>
-      <pubDate>Wed, 23 Sep 2026 16:32:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rain1208_v/status/2102798215754182965</guid>
-    </item>
-    <item>
-      <title>ルーター設定もDDNSも固定IPも一切不要。 TailscaleのNATトラバーサル技術により、安全な直通トンネル（ WireGuard ）を自動開通。外出先のスマホやMacから即座にアクセス可能。 実機検証と導入手順の全記録をnoteで公開しました👇 https://t.co/MoFAqdZ3Rh #おうちサーバー #Tailscale</title>
-      <link>https://x.com/shitohi_blog/status/2102616602676187635</link>
-      <description>草壁シトヒ 🛠️ メディア開発者 / ツール開発: ルーター設定もDDNSも固定IPも一切不要。 TailscaleのNATトラバーサル技術により、安全な直通トンネル（ WireGuard ）を自動開通。外出先のスマホやMacから即座にアクセス可能。 実機検証と導入手順の全記録をnoteで公開しました👇 https://t.co/MoFAqdZ3Rh #おうちサーバー #Tailscale</description>
-      <pubDate>Wed, 23 Sep 2026 04:30:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shitohi_blog/status/2102616602676187635</guid>
-    </item>
-    <item>
-      <title>IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</title>
-      <link>https://x.com/__su888/status/2102522326399025174</link>
-      <description>su8 / denchu: IPv4枯渇でCGNATが普及し、ポート開放による自宅サーバー公開は使えない。著者は仏の安価なVPSをブリッジにし、自宅側から張る WireGuard トンネルとiptablesのDNATで全ポートを転送する。静的IP(月約20ユーロ)不要で、代償はRTT+39msのみ / Self-Hosting Behind CGNAT https://t.co/HgN24JsHEA</description>
-      <pubDate>Tue, 22 Sep 2026 22:16:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__su888/status/2102522326399025174</guid>
     </item>
   </channel>
 </rss>

@@ -137,19 +137,5 @@
       <pubDate>Sat, 05 Sep 2026 14:52:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t_tetosuki/status/2096250136540397718</guid>
     </item>
-    <item>
-      <title>とりあえず systemctl --user stop wireplumber pipewire pipewire -pulse しちゃえば音が出るけど… （ pipewire -pulse はアンインストール済みだから、実際は要らない）</title>
-      <link>https://x.com/t_tetosuki/status/2095904702437474777</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: とりあえず systemctl --user stop wireplumber pipewire pipewire -pulse しちゃえば音が出るけど… （ pipewire -pulse はアンインストール済みだから、実際は要らない）</description>
-      <pubDate>Fri, 04 Sep 2026 15:59:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095904702437474777</guid>
-    </item>
-    <item>
-      <title>やっぱりどこかでデバイスの取り合いしてる… https://t.co/dztB3icvWT pipewire -pulse は pulseaudio の代替って書いている人もいるけど、KDEとの組み合わせで不具合が多発するからpulseaudioしか選択肢が無いんよね…（pulseaudio-qt が入ってたりするのも、その辺りだと思うし）</title>
-      <link>https://x.com/t_tetosuki/status/2095904088403955880</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: やっぱりどこかでデバイスの取り合いしてる… https://t.co/dztB3icvWT pipewire -pulse は pulseaudio の代替って書いている人もいるけど、KDEとの組み合わせで不具合が多発するからpulseaudioしか選択肢が無いんよね…（pulseaudio-qt が入ってたりするのも、その辺りだと思うし）</description>
-      <pubDate>Fri, 04 Sep 2026 15:57:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2095904088403955880</guid>
-    </item>
   </channel>
 </rss>
