@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard が個人端末でもカジュアルに使えるようになったのと相性がいいというか、わかってる設計だな</title>
+      <link>https://x.com/one_asuka/status/2106942648007434294</link>
+      <description>一平魔人: Wireguard が個人端末でもカジュアルに使えるようになったのと相性がいいというか、わかってる設計だな</description>
+      <pubDate>Mon, 05 Oct 2026 03:00:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/one_asuka/status/2106942648007434294</guid>
+    </item>
+    <item>
+      <title>@gobimyon WireGuard の穴は開けてます。</title>
+      <link>https://x.com/Aomaru_S/status/2106884143099596901</link>
+      <description>Aomaru.S: @gobimyon WireGuard の穴は開けてます。</description>
+      <pubDate>Sun, 04 Oct 2026 23:08:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Aomaru_S/status/2106884143099596901</guid>
+    </item>
+    <item>
       <title>OPNsenseで WireGuard 構築完了。OpenVPNだとクライアントのグローバルIPが変わるたびにトンネル内のTCPコネクションが切れてたけど切れなくなった！</title>
       <link>https://x.com/h1yrk/status/2106769497919217943</link>
       <description>ゆうき: OPNsenseで WireGuard 構築完了。OpenVPNだとクライアントのグローバルIPが変わるたびにトンネル内のTCPコネクションが切れてたけど切れなくなった！</description>
@@ -262,20 +276,6 @@
       <description>横浜のIT屋: ■MikroTik hEX テスト中 WireGuard も簡単に設定できます。 #MikroTik #ITネタ https://t.co/Mfivm6UIgV</description>
       <pubDate>Thu, 24 Sep 2026 23:37:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shonanlitore/status/2103267513949901141</guid>
-    </item>
-    <item>
-      <title>wireguard -goは1KiBのパケットも64KiBバッファへコピーしていた。Linux/Androidでこのコピーを省き約5%高速化し、subnet router等にはストリーム単位で並列化するmulti-queueを導入。netmapキャッシュで劣悪回線下の起動を1-2桁速める / We’re making Tailscale faster https://t.co/Cyuo3hik4Z</title>
-      <link>https://x.com/__su888/status/2103245843860017169</link>
-      <description>su8 / denchu: wireguard -goは1KiBのパケットも64KiBバッファへコピーしていた。Linux/Androidでこのコピーを省き約5%高速化し、subnet router等にはストリーム単位で並列化するmulti-queueを導入。netmapキャッシュで劣悪回線下の起動を1-2桁速める / We’re making Tailscale faster https://t.co/Cyuo3hik4Z</description>
-      <pubDate>Thu, 24 Sep 2026 22:11:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/__su888/status/2103245843860017169</guid>
-    </item>
-    <item>
-      <title>@Hidamarickti うちはzerotier試したことあるんですがパケロス多くて今は WireGuard に落ち着きました</title>
-      <link>https://x.com/knmusicstudio/status/2103034205764726969</link>
-      <description>Syo.D🔯KuroNekoMusicStudio: @Hidamarickti うちはzerotier試したことあるんですがパケロス多くて今は WireGuard に落ち着きました</description>
-      <pubDate>Thu, 24 Sep 2026 08:10:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/knmusicstudio/status/2103034205764726969</guid>
     </item>
   </channel>
 </rss>
