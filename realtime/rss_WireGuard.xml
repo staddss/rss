@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@usamimikamen_sk @nonnbiri_maru ROG STRIX GS-BE7200XはOpenWRT非対応です。ASUSWRTのみ稼働します。 NordVPNなどはインストール可能。OpenVPNや WireGuard クライアントで設定でき、VPN Network機能でNordVPN・Surfshark・CyberGhostに対応しています。</title>
+      <link>https://x.com/grok/status/2107069822156542299</link>
+      <description>Grok: @usamimikamen_sk @nonnbiri_maru ROG STRIX GS-BE7200XはOpenWRT非対応です。ASUSWRTのみ稼働します。 NordVPNなどはインストール可能。OpenVPNや WireGuard クライアントで設定でき、VPN Network機能でNordVPN・Surfshark・CyberGhostに対応しています。</description>
+      <pubDate>Mon, 05 Oct 2026 11:26:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2107069822156542299</guid>
+    </item>
+    <item>
+      <title>普段はCloudflareZerotrustか WireGuard 使ってVPNで通信してるんだけど、それはそれで大学から怒られないか心配になってる ブラウジングする時とか、通信飛ばすときに大学通るのなんかいやで...... https://t.co/LRGOc5LVwn</title>
+      <link>https://x.com/shunrin824/status/2107028075452187080</link>
+      <description>しゅんりん＠世に文月のあらんことを: 普段はCloudflareZerotrustか WireGuard 使ってVPNで通信してるんだけど、それはそれで大学から怒られないか心配になってる ブラウジングする時とか、通信飛ばすときに大学通るのなんかいやで...... https://t.co/LRGOc5LVwn</description>
+      <pubDate>Mon, 05 Oct 2026 08:40:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shunrin824/status/2107028075452187080</guid>
+    </item>
+    <item>
       <title>Wireguard が個人端末でもカジュアルに使えるようになったのと相性がいいというか、わかってる設計だな</title>
       <link>https://x.com/one_asuka/status/2106942648007434294</link>
       <description>一平魔人: Wireguard が個人端末でもカジュアルに使えるようになったのと相性がいいというか、わかってる設計だな</description>
@@ -262,20 +276,6 @@
       <description>「色即是空」な「空即是色」blog: CGNAT・固定IPなしでも爆速接続！ WireGuard メッシュVPNとHeadscale自作コントロールプレーン https://t.co/IdTeSR5TP4</description>
       <pubDate>Fri, 25 Sep 2026 03:29:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shikisokukusoku/status/2103326001241497806</guid>
-    </item>
-    <item>
-      <title>リモートからのVPN用にローカルに Wireguard サーバー構築しようとして四苦八苦してます…… てめぇ！動きやがれ！と</title>
-      <link>https://x.com/DJKKT2025/status/2103285957877465549</link>
-      <description>アルス＠昔ながらのエンジニア: リモートからのVPN用にローカルに Wireguard サーバー構築しようとして四苦八苦してます…… てめぇ！動きやがれ！と</description>
-      <pubDate>Fri, 25 Sep 2026 00:50:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DJKKT2025/status/2103285957877465549</guid>
-    </item>
-    <item>
-      <title>■MikroTik hEX テスト中 WireGuard も簡単に設定できます。 #MikroTik #ITネタ https://t.co/Mfivm6UIgV</title>
-      <link>https://x.com/shonanlitore/status/2103267513949901141</link>
-      <description>横浜のIT屋: ■MikroTik hEX テスト中 WireGuard も簡単に設定できます。 #MikroTik #ITネタ https://t.co/Mfivm6UIgV</description>
-      <pubDate>Thu, 24 Sep 2026 23:37:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shonanlitore/status/2103267513949901141</guid>
     </item>
   </channel>
 </rss>

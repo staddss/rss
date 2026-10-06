@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>
+      <link>https://x.com/joho_no_todai/status/2107107612995260785</link>
+      <description>情報の灯台: Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</description>
+      <pubDate>Mon, 05 Oct 2026 13:56:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2107107612995260785</guid>
+    </item>
+    <item>
+      <title>systemd- zram -generatorとmbxのおかげでrustディスク容量喰いすぎ問題をそこそこ改善できた</title>
+      <link>https://x.com/mapoyon/status/2106790850961580378</link>
+      <description>まぽよん@(Titan): systemd- zram -generatorとmbxのおかげでrustディスク容量喰いすぎ問題をそこそこ改善できた</description>
+      <pubDate>Sun, 04 Oct 2026 16:57:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mapoyon/status/2106790850961580378</guid>
+    </item>
+    <item>
       <title>zram -generatorってファイルシステム作成してマウントする機能あったのか</title>
       <link>https://x.com/mapoyon/status/2105886061058728062</link>
       <description>まぽよん@(Titan): zram -generatorってファイルシステム作成してマウントする機能あったのか</description>
