@@ -123,12 +123,5 @@
       <pubDate>Sun, 06 Sep 2026 11:41:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/t_tetosuki/status/2096564414657011864</guid>
     </item>
-    <item>
-      <title>今のところ、これでいけるっぽい雰囲気 pulseaudio -k systemctl --user stop wireplumber pipewire （ pipewire -pulseはパッケージが競合するから入ってない） 音が出るかの確認は paplay -d @DEFAULT_SINK@ /usr/share/sounds/alsa/Front_Center.wav とかで</title>
-      <link>https://x.com/t_tetosuki/status/2096519397347381686</link>
-      <description>とりす⛄🐾❄☘🐕🐾🐾🦴: 今のところ、これでいけるっぽい雰囲気 pulseaudio -k systemctl --user stop wireplumber pipewire （ pipewire -pulseはパッケージが競合するから入ってない） 音が出るかの確認は paplay -d @DEFAULT_SINK@ /usr/share/sounds/alsa/Front_Center.wav とかで</description>
-      <pubDate>Sun, 06 Sep 2026 08:42:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_tetosuki/status/2096519397347381686</guid>
-    </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これってインフラ絡むと無理なんすよ最大限譲歩して cloudflare tunnel かな</title>
+      <link>https://x.com/5yuim/status/2107370906964386135</link>
+      <description>結 v11: これってインフラ絡むと無理なんすよ最大限譲歩して cloudflare tunnel かな</description>
+      <pubDate>Tue, 06 Oct 2026 07:22:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2107370906964386135</guid>
+    </item>
+    <item>
+      <title>@asahiVRC Cloudflare Tunnel を使うのが一番楽ですね VPNだとバッテリー食うし都度オンにするのも面倒だったりするので ただ、その分外部から攻撃されるリスクはもちろん高まるので、パスワードを強固なものにしたりCloudflare側の設定で接続元のIPを日本に限定したりしておくとかなり安全に運用できると思います</title>
+      <link>https://x.com/ogatomo21/status/2107149846130065508</link>
+      <description>Tomoya Ogawa (小川 智也) | OgaTomo Systems: @asahiVRC Cloudflare Tunnel を使うのが一番楽ですね VPNだとバッテリー食うし都度オンにするのも面倒だったりするので ただ、その分外部から攻撃されるリスクはもちろん高まるので、パスワードを強固なものにしたりCloudflare側の設定で接続元のIPを日本に限定したりしておくとかなり安全に運用できると思います</description>
+      <pubDate>Mon, 05 Oct 2026 16:44:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ogatomo21/status/2107149846130065508</guid>
+    </item>
+    <item>
       <title>無料のDDNSサービス+ Cloudflare Tunnel の組み合わせはいいぞ</title>
       <link>https://x.com/komepiri1234/status/2107096624925421682</link>
       <description>こめぴり: 無料のDDNSサービス+ Cloudflare Tunnel の組み合わせはいいぞ</description>
@@ -262,20 +276,6 @@
       <description>ふうなこ♡☻🎀: @GamesGenzo スマホやっぱりいいですよねー！私は Cloudflare Tunnel ってサービスでスマホからでも外部からでもアクセスできるようにしてますよぉー！</description>
       <pubDate>Tue, 22 Sep 2026 10:55:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Naagii0117/status/2102350947901173882</guid>
-    </item>
-    <item>
-      <title>自宅鯖でのB地区復旧は案外スムースに着地したので、 CloudFlare Tunnel + Access で外部からの閲覧までもっていこう。職場でも似たようなことやってるし。 ただ一般公開するには怖い。IISそんな詳しくないし（Apacherなりに詳しいわけでもないが。</title>
-      <link>https://x.com/exbaron/status/2102341415426760726</link>
-      <description>ギガ男爵（中年男性？: 自宅鯖でのB地区復旧は案外スムースに着地したので、 CloudFlare Tunnel + Access で外部からの閲覧までもっていこう。職場でも似たようなことやってるし。 ただ一般公開するには怖い。IISそんな詳しくないし（Apacherなりに詳しいわけでもないが。</description>
-      <pubDate>Tue, 22 Sep 2026 10:17:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/exbaron/status/2102341415426760726</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 経由になったことで速度が下がるかどうか試さないとな。</title>
-      <link>https://x.com/sashisashi569/status/2102334709015703573</link>
-      <description>sashisashi: Cloudflare Tunnel 経由になったことで速度が下がるかどうか試さないとな。</description>
-      <pubDate>Tue, 22 Sep 2026 09:50:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2102334709015703573</guid>
     </item>
   </channel>
 </rss>
