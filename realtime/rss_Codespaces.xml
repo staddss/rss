@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短選び方（ Codespaces ・Gitpod・Cloud9）｜PoCテンプレ×コスト試算付き https://t.co/HaM1rTuv6I #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2107631144258740310</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短選び方（ Codespaces ・Gitpod・Cloud9）｜PoCテンプレ×コスト試算付き https://t.co/HaM1rTuv6I #エンジニア #ChatGPT #AI</description>
+      <pubDate>Wed, 07 Oct 2026 00:36:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2107631144258740310</guid>
+    </item>
+    <item>
       <title>TECH CAMPの「Claude Code 4日間チャレンジ」DAY2。GitHub Codespaces でClaude Codeを動かし、自己紹介サイトからUI改善、単位変換ツール、ポモドーロタイマーまで作成。コードを書く練習だけでなく、AIへ指示してWebツールを形にする流れを実践。#ClaudeCode #AI活用 #Web制作 #Webデザイン</title>
       <link>https://x.com/tomo_webm/status/2107320911838011870</link>
       <description>とも@WEBマーケ: TECH CAMPの「Claude Code 4日間チャレンジ」DAY2。GitHub Codespaces でClaude Codeを動かし、自己紹介サイトからUI改善、単位変換ツール、ポモドーロタイマーまで作成。コードを書く練習だけでなく、AIへ指示してWebツールを形にする流れを実践。#ClaudeCode #AI活用 #Web制作 #Webデザイン</description>
@@ -269,13 +276,6 @@
       <description>うみれおん（Kaito Udagawa）: @labelmake OBSのプラグインのインストール時の挙動を Codespaces 上のGUIでテストするやつです。CIでも動いてます。僕が書きました</description>
       <pubDate>Sun, 20 Sep 2026 09:16:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/umireon/status/2101601348882202945</guid>
-    </item>
-    <item>
-      <title>@labelmake 実はGitHub Codespaces ってVNCとかxvfbとかを入れるとGUIが動くんですよ アクセシビリティツリーに触って自動テストをするみたいなシステムを組んだらGUIのテストがかなり楽になりましたね Openboxとかが軽くておすすめです</title>
-      <link>https://x.com/umireon/status/2101593020907069622</link>
-      <description>うみれおん（Kaito Udagawa）: @labelmake 実はGitHub Codespaces ってVNCとかxvfbとかを入れるとGUIが動くんですよ アクセシビリティツリーに触って自動テストをするみたいなシステムを組んだらGUIのテストがかなり楽になりましたね Openboxとかが軽くておすすめです</description>
-      <pubDate>Sun, 20 Sep 2026 08:43:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/umireon/status/2101593020907069622</guid>
     </item>
   </channel>
 </rss>

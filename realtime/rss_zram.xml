@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>更新されたよ、見に来てね!→ Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/EscQAWIokN #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/YInKisCTld</title>
+      <link>https://x.com/DensukeO/status/2107601816972337521</link>
+      <description>dopen🇺🇦: 更新されたよ、見に来てね!→ Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/EscQAWIokN #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/YInKisCTld</description>
+      <pubDate>Tue, 06 Oct 2026 22:40:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DensukeO/status/2107601816972337521</guid>
+    </item>
+    <item>
+      <title>ZRAM もZswapもCPUが圧縮・展開を処理する。 ページにアクセスするたびにフォルトが起き、展開を待つ。 https://t.co/O5MmUThiTG メタのCRAMはこの前提を変える。 ハードウェアが圧縮を担い、バイト単位で直接アクセスできる。 読み取りはDRAM同等の速度。書き込みで ZRAM の5〜37倍。 https://t.co/1fehQjQ5tP</title>
+      <link>https://x.com/joho_no_todai/status/2107430774295462267</link>
+      <description>情報の灯台: ZRAM もZswapもCPUが圧縮・展開を処理する。 ページにアクセスするたびにフォルトが起き、展開を待つ。 https://t.co/O5MmUThiTG メタのCRAMはこの前提を変える。 ハードウェアが圧縮を担い、バイト単位で直接アクセスできる。 読み取りはDRAM同等の速度。書き込みで ZRAM の5〜37倍。 https://t.co/1fehQjQ5tP</description>
+      <pubDate>Tue, 06 Oct 2026 11:20:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2107430774295462267</guid>
+    </item>
+    <item>
+      <title>zRAM カリカリにチューンして運用してるんだけど、CPU リソース余ってる全人類にオススメしたい。 https://t.co/N0eclOaCbg</title>
+      <link>https://x.com/takano32/status/2107118192791588974</link>
+      <description>takano32: zRAM カリカリにチューンして運用してるんだけど、CPU リソース余ってる全人類にオススメしたい。 https://t.co/N0eclOaCbg</description>
+      <pubDate>Mon, 05 Oct 2026 14:38:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takano32/status/2107118192791588974</guid>
+    </item>
+    <item>
       <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>
       <link>https://x.com/joho_no_todai/status/2107107612995260785</link>
       <description>情報の灯台: Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</description>
