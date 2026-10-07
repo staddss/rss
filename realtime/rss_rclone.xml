@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone でlinuxサーバにDropboxのスナップショットとることにして、API制限も考えてゆっくりめ設定で同期したんだけど、12時間たっても全然終わってない。どのぐらい時間かかりそうか見積もりたくてもそのコマンドが全然かえってこなかったし、そりゃそうか。容量的には数十ギガしか使ってないんだけど</title>
+      <link>https://x.com/PharaohKJ/status/2107631067163418625</link>
+      <description>ふぁらお加藤: rclone でlinuxサーバにDropboxのスナップショットとることにして、API制限も考えてゆっくりめ設定で同期したんだけど、12時間たっても全然終わってない。どのぐらい時間かかりそうか見積もりたくてもそのコマンドが全然かえってこなかったし、そりゃそうか。容量的には数十ギガしか使ってないんだけど</description>
+      <pubDate>Wed, 07 Oct 2026 00:36:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PharaohKJ/status/2107631067163418625</guid>
+    </item>
+    <item>
       <title>rclone でpcloudにアクセスできるように設定してあるのだけど、なんか今は繋がらない…昨日は繋がったのに コマンドでトークンを再認証しようとしてもブラウザに「Invalid 'client_id'.」って表示されてすすまない</title>
       <link>https://x.com/ne9612/status/2107045950816678150</link>
       <description>ねくろいちにー: rclone でpcloudにアクセスできるように設定してあるのだけど、なんか今は繋がらない…昨日は繋がったのに コマンドでトークンを再認証しようとしてもブラウザに「Invalid 'client_id'.」って表示されてすすまない</description>
@@ -269,13 +276,6 @@
       <description>多情仏心: rclone はとても良いけど、googleはMFA (Multi-Factor Authentication, 多要素認証)を有効にしないとOAuthがエラーになるみたいだし、それ以前にアカウントの選択が出ないから一つやる度に全ログアウトが必要になるみたい。</description>
       <pubDate>Tue, 15 Sep 2026 12:44:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/jiangminjp/status/2099841743172866344</guid>
-    </item>
-    <item>
-      <title>('A`)えー白状します ('A`)きょう一日、rsyncと rclone (のそれぞれmanpage)と格闘してたらおわってました</title>
-      <link>https://x.com/g_plains/status/2099821632273723777</link>
-      <description>こてつ(ONO,Tetsuo): ('A`)えー白状します ('A`)きょう一日、rsyncと rclone (のそれぞれmanpage)と格闘してたらおわってました</description>
-      <pubDate>Tue, 15 Sep 2026 11:24:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2099821632273723777</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>GCPのe2-microインスタンスは zram 使うと格段に安定性増すな。 通常のswapが重すぎるからかも。</title>
+      <link>https://x.com/surface0/status/2107682170244608317</link>
+      <description>𝙨𝙪𝙧𝙛𝙖𝙘𝙚𝟬: GCPのe2-microインスタンスは zram 使うと格段に安定性増すな。 通常のswapが重すぎるからかも。</description>
+      <pubDate>Wed, 07 Oct 2026 03:59:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/surface0/status/2107682170244608317</guid>
+    </item>
+    <item>
+      <title>更新されたよ、見に来てね!→ 共有の部品は、壊れるときも一緒？ Atlassian CVE-2026-21589・Linux ZRAM の作り直し・Linux Plumbers Conference 2026・mold 3.0（Rust）・Linux 35周年（2026/10/7 Linux・OSSトレンド） https://t.co/YoU3gpotNh</title>
+      <link>https://x.com/DensukeO/status/2107635781619831172</link>
+      <description>dopen🇺🇦: 更新されたよ、見に来てね!→ 共有の部品は、壊れるときも一緒？ Atlassian CVE-2026-21589・Linux ZRAM の作り直し・Linux Plumbers Conference 2026・mold 3.0（Rust）・Linux 35周年（2026/10/7 Linux・OSSトレンド） https://t.co/YoU3gpotNh</description>
+      <pubDate>Wed, 07 Oct 2026 00:55:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DensukeO/status/2107635781619831172</guid>
+    </item>
+    <item>
+      <title>更新されたよ、見に来てね!→ 【小屋が摩天楼に】Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/Gqt5VVmJat #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/BQvi4RJUEW</title>
+      <link>https://x.com/DensukeO/status/2107615656581673399</link>
+      <description>dopen🇺🇦: 更新されたよ、見に来てね!→ 【小屋が摩天楼に】Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/Gqt5VVmJat #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/BQvi4RJUEW</description>
+      <pubDate>Tue, 06 Oct 2026 23:35:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DensukeO/status/2107615656581673399</guid>
+    </item>
+    <item>
       <title>更新されたよ、見に来てね!→ Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/EscQAWIokN #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/YInKisCTld</title>
       <link>https://x.com/DensukeO/status/2107601816972337521</link>
       <description>dopen🇺🇦: 更新されたよ、見に来てね!→ Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/EscQAWIokN #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/YInKisCTld</description>
@@ -164,20 +185,6 @@
       <description>🧅あどたん❯❯❯❯❄🧁🐌☄️🌽（みょみょん会）: 3GB→OSが1.8GB使用で足りない 4GB→OSが2.2GB使用で足りない 12GB→OSが6GB使用で場合によっては足りない 全領域 zram 化→6GB以上で快適（ただしLMKがバグる場合がある） とりあえずOSはメモリ2GB以内に収まるようにしてほしい https://t.co/zbD6MkoKLb</description>
       <pubDate>Sat, 12 Sep 2026 05:08:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Ado_tann/status/2098639940062175485</guid>
-    </item>
-    <item>
-      <title>Apple TV HD（A1625）でLinux起動。 Git・開発ツール・ zram に加えて、作業状態の保存＆再起動後の復元もできるようになりました。内蔵ストレージは触らず、RAMだけで動きます。 https://t.co/tNHlcQfCCm</title>
-      <link>https://x.com/tkinjo1/status/2096886808823087270</link>
-      <description>たくみ🌗: Apple TV HD（A1625）でLinux起動。 Git・開発ツール・ zram に加えて、作業状態の保存＆再起動後の復元もできるようになりました。内蔵ストレージは触らず、RAMだけで動きます。 https://t.co/tNHlcQfCCm</description>
-      <pubDate>Mon, 07 Sep 2026 09:02:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tkinjo1/status/2096886808823087270</guid>
-    </item>
-    <item>
-      <title>Galaxyの zRAM の無効化は zRAM そのものを無効にせず圧縮の積極性の調整を変動させるかのような動きなのか？ 有効/無効で容量に変化がないので他社と扱いが異なる</title>
-      <link>https://x.com/heavycheesecake/status/2096809160147173887</link>
-      <description>倫理観の欠如: Galaxyの zRAM の無効化は zRAM そのものを無効にせず圧縮の積極性の調整を変動させるかのような動きなのか？ 有効/無効で容量に変化がないので他社と扱いが異なる</description>
-      <pubDate>Mon, 07 Sep 2026 03:53:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/heavycheesecake/status/2096809160147173887</guid>
     </item>
   </channel>
 </rss>

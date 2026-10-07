@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>LTE ルーター Teltonika RUT956 を経由して配下のマシンへ WireGuard でリモートアクセスしてみた | DevelopersIO https://t.co/Zlu3MIheqK</title>
+      <link>https://x.com/yokatsuki/status/2107710323197133163</link>
+      <description>Yosuke Katsuki: LTE ルーター Teltonika RUT956 を経由して配下のマシンへ WireGuard でリモートアクセスしてみた | DevelopersIO https://t.co/Zlu3MIheqK</description>
+      <pubDate>Wed, 07 Oct 2026 05:51:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yokatsuki/status/2107710323197133163</guid>
+    </item>
+    <item>
+      <title>とりあえず wireguard で無理やりアメリカに固定してるけど合ってんのかしらこれで</title>
+      <link>https://x.com/amzkjunkie/status/2107687755837042721</link>
+      <description>甘酒: とりあえず wireguard で無理やりアメリカに固定してるけど合ってんのかしらこれで</description>
+      <pubDate>Wed, 07 Oct 2026 04:21:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amzkjunkie/status/2107687755837042721</guid>
+    </item>
+    <item>
+      <title>talescaleマジ神すぎ、 wireguard やってたときなんで作ろうとしてなかった</title>
+      <link>https://x.com/niyuna/status/2107610007613395382</link>
+      <description>fuyutsuki9: talescaleマジ神すぎ、 wireguard やってたときなんで作ろうとしてなかった</description>
+      <pubDate>Tue, 06 Oct 2026 23:12:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/niyuna/status/2107610007613395382</guid>
+    </item>
+    <item>
       <title>@usamimikamen_sk @nonnbiri_maru ROG STRIX GS-BE7200XはOpenWRT非対応です。ASUSWRTのみ稼働します。 NordVPNなどはインストール可能。OpenVPNや WireGuard クライアントで設定でき、VPN Network機能でNordVPN・Surfshark・CyberGhostに対応しています。</title>
       <link>https://x.com/grok/status/2107069822156542299</link>
       <description>Grok: @usamimikamen_sk @nonnbiri_maru ROG STRIX GS-BE7200XはOpenWRT非対応です。ASUSWRTのみ稼働します。 NordVPNなどはインストール可能。OpenVPNや WireGuard クライアントで設定でき、VPN Network機能でNordVPN・Surfshark・CyberGhostに対応しています。</description>
@@ -255,27 +276,6 @@
       <description>ANK0R0_M0CHI: 追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</description>
       <pubDate>Sat, 26 Sep 2026 06:25:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ANK0R0_M0CHI/status/2103732589194580268</guid>
-    </item>
-    <item>
-      <title>・トンネル方式変更方コマンド（PowerShell） ① WireGuard へ変更 warp-cli tunnel protocol set WireGuard ② WARPを再接続 warp-cli disconnect warp-cli connect ③ 設定確認 warp-cli settings 以下の表示になっていることを確認。 (consumer overrides) WARP tunnel protocol: WireGuard</title>
-      <link>https://x.com/ANK0R0_M0CHI/status/2103730029528277030</link>
-      <description>ANK0R0_M0CHI: ・トンネル方式変更方コマンド（PowerShell） ① WireGuard へ変更 warp-cli tunnel protocol set WireGuard ② WARPを再接続 warp-cli disconnect warp-cli connect ③ 設定確認 warp-cli settings 以下の表示になっていることを確認。 (consumer overrides) WARP tunnel protocol: WireGuard</description>
-      <pubDate>Sat, 26 Sep 2026 06:14:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ANK0R0_M0CHI/status/2103730029528277030</guid>
-    </item>
-    <item>
-      <title>@thebyan_mania あるあるだね。サーバー遠いor混雑だと遅くなる。 WireGuard に変えて近いサーバー（日本ならJP）選んで、Secure Coreオフ、VPN Acceleratorオン確認してみて。無料版は特に制限ありやすいよ。</title>
-      <link>https://x.com/grok/status/2103646649583100106</link>
-      <description>Grok: @thebyan_mania あるあるだね。サーバー遠いor混雑だと遅くなる。 WireGuard に変えて近いサーバー（日本ならJP）選んで、Secure Coreオフ、VPN Acceleratorオン確認してみて。無料版は特に制限ありやすいよ。</description>
-      <pubDate>Sat, 26 Sep 2026 00:43:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2103646649583100106</guid>
-    </item>
-    <item>
-      <title>AndroidでAdGuard起動したまま自宅にVPN通せるようになったので大変満足 次は暇な時に WireGuard をAmnesiaに変えられるか試してみよう</title>
-      <link>https://x.com/Maschinel/status/2103470001768505853</link>
-      <description>ろぼ＠大湊警備府: AndroidでAdGuard起動したまま自宅にVPN通せるようになったので大変満足 次は暇な時に WireGuard をAmnesiaに変えられるか試してみよう</description>
-      <pubDate>Fri, 25 Sep 2026 13:01:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Maschinel/status/2103470001768505853</guid>
     </item>
   </channel>
 </rss>

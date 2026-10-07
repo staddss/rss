@@ -33,6 +33,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2107267467802263810</guid>
     </item>
     <item>
+      <title>VS Codeが流行った理由が理解できない人はちゃんとドキュメンタリーを見たほうがいい https://t.co/8rLsPsAfk0 LSP、DAP、プラグインのプロセス分離、Remote 、Dev Containers、GitHub Codespaces ... これらの概念はVS Codeがなければそもそも生まれなかったものなので https://t.co/wxOGaa4YZz</title>
+      <link>https://x.com/R0u9h/status/2106992664495440233</link>
+      <description>LaPh: VS Codeが流行った理由が理解できない人はちゃんとドキュメンタリーを見たほうがいい https://t.co/8rLsPsAfk0 LSP、DAP、プラグインのプロセス分離、Remote 、Dev Containers、GitHub Codespaces ... これらの概念はVS Codeがなければそもそも生まれなかったものなので https://t.co/wxOGaa4YZz</description>
+      <pubDate>Mon, 05 Oct 2026 06:19:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/R0u9h/status/2106992664495440233</guid>
+    </item>
+    <item>
       <title>Codespaces を連続稼働可能な最大時間は 12h だと。これを超えそうになると警告が出るので、一度停止させて再接続してね…って感じになってるらしい。 https://t.co/ToqZWad1A1 https://t.co/gSBOYMILGU</title>
       <link>https://x.com/v_intestine/status/2106939949258092941</link>
       <description>intestine: Codespaces を連続稼働可能な最大時間は 12h だと。これを超えそうになると警告が出るので、一度停止させて再接続してね…って感じになってるらしい。 https://t.co/ToqZWad1A1 https://t.co/gSBOYMILGU</description>
@@ -269,13 +276,6 @@
       <description>ひな🐣50代から人生再起動|hinanote: AIに初課金しました！ claudeです claudeデスクトップをダウンロードするのが楽なんだろうけど、一番安全そうなgithub codespaces で使い始めました vaultってリポジトリ作って、そこに… だ、だ、第2の脳…作ってみようかと ↑なんかこの言葉使うの照れます🤭 …あ、obsidian入れてないや…😦</description>
       <pubDate>Sun, 20 Sep 2026 13:10:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hinanote_life/status/2101660345832005972</guid>
-    </item>
-    <item>
-      <title>@labelmake OBSのプラグインのインストール時の挙動を Codespaces 上のGUIでテストするやつです。CIでも動いてます。僕が書きました</title>
-      <link>https://x.com/umireon/status/2101601348882202945</link>
-      <description>うみれおん（Kaito Udagawa）: @labelmake OBSのプラグインのインストール時の挙動を Codespaces 上のGUIでテストするやつです。CIでも動いてます。僕が書きました</description>
-      <pubDate>Sun, 20 Sep 2026 09:16:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/umireon/status/2101601348882202945</guid>
     </item>
   </channel>
 </rss>
