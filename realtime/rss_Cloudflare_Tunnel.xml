@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これは本当に同じ意見です。 Cloudflare Tunnel に URL をつけて実装しないとできないような、Passkey とか Social Login の実装なんかは、これなしに実装できたかと言われると自信がない。試したことはないけど、Tailscale Funnel が類似な技術になるのかな？ https://t.co/XJ6Tz95Hma</title>
+      <link>https://x.com/SeahalJa/status/2107911777883476465</link>
+      <description>SEAHAL(Ja): これは本当に同じ意見です。 Cloudflare Tunnel に URL をつけて実装しないとできないような、Passkey とか Social Login の実装なんかは、これなしに実装できたかと言われると自信がない。試したことはないけど、Tailscale Funnel が類似な技術になるのかな？ https://t.co/XJ6Tz95Hma</description>
+      <pubDate>Wed, 07 Oct 2026 19:11:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2107911777883476465</guid>
+    </item>
+    <item>
+      <title>cloudflaredで Cloudflare Tunnel 使ってウェブサイト作るのが超絶に楽過ぎるので便利なのだが、本当にそれでいいのか？と逆に悩む。もう証明書もFWも何もかも気にしなくてよくなる感じがむしろ怖い。</title>
+      <link>https://x.com/espresso3389/status/2107904991973540259</link>
+      <description>Takashi Kawasaki: cloudflaredで Cloudflare Tunnel 使ってウェブサイト作るのが超絶に楽過ぎるので便利なのだが、本当にそれでいいのか？と逆に悩む。もう証明書もFWも何もかも気にしなくてよくなる感じがむしろ怖い。</description>
+      <pubDate>Wed, 07 Oct 2026 18:44:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/espresso3389/status/2107904991973540259</guid>
+    </item>
+    <item>
+      <title>なんかいいtcp proxyねーかなー。 cloudflare tunnel でもいーけど、自前でcloudflaredを動かすのはな</title>
+      <link>https://x.com/cml5YQ/status/2107897633977311657</link>
+      <description>cml5YQ==: なんかいいtcp proxyねーかなー。 cloudflare tunnel でもいーけど、自前でcloudflaredを動かすのはな</description>
+      <pubDate>Wed, 07 Oct 2026 18:15:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cml5YQ/status/2107897633977311657</guid>
+    </item>
+    <item>
+      <title>自宅サーバー全て Cloudflare Tunnel で公開しつつCloudflare Accessで認証認可して使ってるけど最近の情報お漏らし祭りを見ると流石にこわいなーとづまりすとことなる</title>
+      <link>https://x.com/hiroto_f_/status/2107853350826111218</link>
+      <description>ْ: 自宅サーバー全て Cloudflare Tunnel で公開しつつCloudflare Accessで認証認可して使ってるけど最近の情報お漏らし祭りを見ると流石にこわいなーとづまりすとことなる</description>
+      <pubDate>Wed, 07 Oct 2026 15:19:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiroto_f_/status/2107853350826111218</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel の導入があとは1年遅かったら、今回のサイバー攻撃祭りの前菜みたいなノリで餌食になってたかもと考えると恐ろしいのだ</title>
+      <link>https://x.com/raspberry_craft/status/2107834176829526160</link>
+      <description>ﾌﾟﾛ(ｸﾞﾗﾐﾝｸﾞ見習い中のｱﾗ)イさん: Cloudflare Tunnel の導入があとは1年遅かったら、今回のサイバー攻撃祭りの前菜みたいなノリで餌食になってたかもと考えると恐ろしいのだ</description>
+      <pubDate>Wed, 07 Oct 2026 14:03:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/raspberry_craft/status/2107834176829526160</guid>
+    </item>
+    <item>
+      <title>cloudflare tunnel で自宅鯖を公開するのは良い判断だったのかもしれない、セキュリティ的にも 昨今の状況を考えると丸腰でポート開放とかはできないよな</title>
+      <link>https://x.com/takuminmin0718/status/2107808266831151594</link>
+      <description>taku minmin: cloudflare tunnel で自宅鯖を公開するのは良い判断だったのかもしれない、セキュリティ的にも 昨今の状況を考えると丸腰でポート開放とかはできないよな</description>
+      <pubDate>Wed, 07 Oct 2026 12:20:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takuminmin0718/status/2107808266831151594</guid>
+    </item>
+    <item>
+      <title>自分しか使わないのにポート開けとく意義も薄いなと思ってこないだポート全部閉めて Cloudflare Tunnel 入れた、これもちょいちょいアプデが掛かるので気をつけなければ……</title>
+      <link>https://x.com/s_sasamatsu/status/2107806239380152545</link>
+      <description>笹松しいたけ: 自分しか使わないのにポート開けとく意義も薄いなと思ってこないだポート全部閉めて Cloudflare Tunnel 入れた、これもちょいちょいアプデが掛かるので気をつけなければ……</description>
+      <pubDate>Wed, 07 Oct 2026 12:12:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/s_sasamatsu/status/2107806239380152545</guid>
+    </item>
+    <item>
       <title>cloudflare tunnel で自宅鯖に繋いでwebページを開いてるから表示遅すぎるんよね フロントエンドだけでもpagesに置いてAPIの公開にしようかな</title>
       <link>https://x.com/rain1208_v/status/2107777383180968113</link>
       <description>rain1208🎖: cloudflare tunnel で自宅鯖に繋いでwebページを開いてるから表示遅すぎるんよね フロントエンドだけでもpagesに置いてAPIの公開にしようかな</description>
@@ -24,6 +73,13 @@
       <description>abeshi: セキュリティも普通になります。 Cloudflare Tunnel は、ルーターのポート開放や固定IPアドレスを使わずに、自宅や社内のローカルサーバーを安全にインターネットへ公開できる無料のサービスです。 [1, 2] 主な特徴とメリット</description>
       <pubDate>Wed, 07 Oct 2026 09:40:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/abeshi_mark2/status/2107768005610639404</guid>
+    </item>
+    <item>
+      <title>@KARENE_210w Cloudflare Tunnel あれ便利だよね〜使いたいなと思ったけど移行めんどくてやってないw</title>
+      <link>https://x.com/kanaxpon/status/2107755141382443505</link>
+      <description>かなぽん: @KARENE_210w Cloudflare Tunnel あれ便利だよね〜使いたいなと思ったけど移行めんどくてやってないw</description>
+      <pubDate>Wed, 07 Oct 2026 08:49:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kanaxpon/status/2107755141382443505</guid>
     </item>
     <item>
       <title>@kanaxpon かれねは cloudflare tunnel です 昔ポート開放（v4）してたけどセキュリティ心配で変更したよ</title>
@@ -220,62 +276,6 @@
       <description>𝕐𝕦𝕚: 大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</description>
       <pubDate>Sat, 26 Sep 2026 12:26:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5yuim/status/2103823512238780708</guid>
-    </item>
-    <item>
-      <title>windows対応だるすぎてbondriverのラッパー書いてそれを cloudflare tunnel でクラウド上のサービスに登録させてクラウドアプリからロケフリするっていうの考えたことあるけど普通に捕まりそうだからやめた</title>
-      <link>https://x.com/5yuim/status/2103115782570049833</link>
-      <description>𝕐𝕦𝕚: windows対応だるすぎてbondriverのラッパー書いてそれを cloudflare tunnel でクラウド上のサービスに登録させてクラウドアプリからロケフリするっていうの考えたことあるけど普通に捕まりそうだからやめた</description>
-      <pubDate>Thu, 24 Sep 2026 13:34:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2103115782570049833</guid>
-    </item>
-    <item>
-      <title>LXCでサーバー構築設計してって頼んだのに、暴走して環境構築終わらせてきた しっかりと Cloudflare Tunnel も併せて公開されとる…</title>
-      <link>https://x.com/takku_4331/status/2103112252236988436</link>
-      <description>やみち: LXCでサーバー構築設計してって頼んだのに、暴走して環境構築終わらせてきた しっかりと Cloudflare Tunnel も併せて公開されとる…</description>
-      <pubDate>Thu, 24 Sep 2026 13:20:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takku_4331/status/2103112252236988436</guid>
-    </item>
-    <item>
-      <title>できるのか自分でも非常に興味があるのでQwen3.8-27B Q4_K_Mを Cloudflare Tunnel で公開し、OpenAI API互換のエンドポイントで動作するかのサンプルを作ってみている https://t.co/ai3SsWEBgB https://t.co/XUI5dfY2Jv</title>
-      <link>https://x.com/cr1sta_dev/status/2103077263369736271</link>
-      <description>くりすた: できるのか自分でも非常に興味があるのでQwen3.8-27B Q4_K_Mを Cloudflare Tunnel で公開し、OpenAI API互換のエンドポイントで動作するかのサンプルを作ってみている https://t.co/ai3SsWEBgB https://t.co/XUI5dfY2Jv</description>
-      <pubDate>Thu, 24 Sep 2026 11:01:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cr1sta_dev/status/2103077263369736271</guid>
-    </item>
-    <item>
-      <title>@SocketFM1 @asuhareya (実は双方 Cloudflare Tunnel を入れてゴニョればFreeでもいけるんだけど設定ヤバい)</title>
-      <link>https://x.com/nanasi_rasi/status/2102998538322124833</link>
-      <description>ななしぃ: @SocketFM1 @asuhareya (実は双方 Cloudflare Tunnel を入れてゴニョればFreeでもいけるんだけど設定ヤバい)</description>
-      <pubDate>Thu, 24 Sep 2026 05:48:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanasi_rasi/status/2102998538322124833</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 気になります👀 #みんなの自宅鯖LT会</title>
-      <link>https://x.com/mob_engineer/status/2102984269895446551</link>
-      <description>モブエンジニア: Cloudflare Tunnel 気になります👀 #みんなの自宅鯖LT会</description>
-      <pubDate>Thu, 24 Sep 2026 04:51:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mob_engineer/status/2102984269895446551</guid>
-    </item>
-    <item>
-      <title>トップバッターはfkuMnkさんから「家にあるLinuxデスクトップに Cloudflare Tunnel でRDP接続するし」です！！ #みんなの自宅鯖LT会</title>
-      <link>https://x.com/mob_engineer/status/2102983431420592188</link>
-      <description>モブエンジニア: トップバッターはfkuMnkさんから「家にあるLinuxデスクトップに Cloudflare Tunnel でRDP接続するし」です！！ #みんなの自宅鯖LT会</description>
-      <pubDate>Thu, 24 Sep 2026 04:48:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mob_engineer/status/2102983431420592188</guid>
-    </item>
-    <item>
-      <title>@cr1sta_dev cloudflare tunnel とかで多分行けると思います</title>
-      <link>https://x.com/sangikousenuser/status/2102953490779975920</link>
-      <description>.zip爆弾 ぽーと: @cr1sta_dev cloudflare tunnel とかで多分行けると思います</description>
-      <pubDate>Thu, 24 Sep 2026 02:49:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sangikousenuser/status/2102953490779975920</guid>
-    </item>
-    <item>
-      <title>Cloudflareが Gateway の HTTP / Network policies に Traffic Destination selector を追加した。 通信の出口ごとにルールを分けられるようになった。Internet / Cloudflare WAN / Cloudflare Tunnel / Cloudflare One Client / Mesh を指定でき、API では `net.offramp.type`</title>
-      <link>https://x.com/multilayer/status/2102909799340089735</link>
-      <description>multilayer: Cloudflareが Gateway の HTTP / Network policies に Traffic Destination selector を追加した。 通信の出口ごとにルールを分けられるようになった。Internet / Cloudflare WAN / Cloudflare Tunnel / Cloudflare One Client / Mesh を指定でき、API では `net.offramp.type`</description>
-      <pubDate>Wed, 23 Sep 2026 23:55:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/multilayer/status/2102909799340089735</guid>
     </item>
   </channel>
 </rss>

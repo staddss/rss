@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/GnhBgVWqeM @YouTubeより</title>
+      <link>https://x.com/96neko/status/2107945714349461516</link>
+      <description>クロネコ: Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/GnhBgVWqeM @YouTubeより</description>
+      <pubDate>Wed, 07 Oct 2026 21:26:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96neko/status/2107945714349461516</guid>
+    </item>
+    <item>
+      <title>Docker Desktopのディスクを圧縮して、スパース化したら、100GB以上節約できた。メモリもWSLに zram 導入して占有量を減らせた。メモリやディスクが高騰する今日ではこういう設定は必須だと思うけど、かなり見過ごされてるよね。</title>
+      <link>https://x.com/surface0/status/2107739883653775412</link>
+      <description>𝙨𝙪𝙧𝙛𝙖𝙘𝙚𝟬: Docker Desktopのディスクを圧縮して、スパース化したら、100GB以上節約できた。メモリもWSLに zram 導入して占有量を減らせた。メモリやディスクが高騰する今日ではこういう設定は必須だと思うけど、かなり見過ごされてるよね。</description>
+      <pubDate>Wed, 07 Oct 2026 07:48:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/surface0/status/2107739883653775412</guid>
+    </item>
+    <item>
       <title>GCPのe2-microインスタンスは zram 使うと格段に安定性増すな。 通常のswapが重すぎるからかも。</title>
       <link>https://x.com/surface0/status/2107682170244608317</link>
       <description>𝙨𝙪𝙧𝙛𝙖𝙘𝙚𝟬: GCPのe2-microインスタンスは zram 使うと格段に安定性増すな。 通常のswapが重すぎるからかも。</description>

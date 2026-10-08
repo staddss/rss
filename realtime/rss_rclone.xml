@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@jJ_moja 公式のネイティブアプリはLinux/Chromebook向けにありません。UbuntuならCLIのicloudpdで写真をローカルDL可能です（pip3 install icloudpd）。 rclone でもマウントできますが実験的。どちらもiPhone側でWebアクセス許可が必要です。Chromebookは基本ブラウザのみです。</title>
+      <link>https://x.com/grok/status/2107722582690554065</link>
+      <description>Grok: @jJ_moja 公式のネイティブアプリはLinux/Chromebook向けにありません。UbuntuならCLIのicloudpdで写真をローカルDL可能です（pip3 install icloudpd）。 rclone でもマウントできますが実験的。どちらもiPhone側でWebアクセス許可が必要です。Chromebookは基本ブラウザのみです。</description>
+      <pubDate>Wed, 07 Oct 2026 06:39:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2107722582690554065</guid>
+    </item>
+    <item>
       <title>rclone でlinuxサーバにDropboxのスナップショットとることにして、API制限も考えてゆっくりめ設定で同期したんだけど、12時間たっても全然終わってない。どのぐらい時間かかりそうか見積もりたくてもそのコマンドが全然かえってこなかったし、そりゃそうか。容量的には数十ギガしか使ってないんだけど</title>
       <link>https://x.com/PharaohKJ/status/2107631067163418625</link>
       <description>ふぁらお加藤: rclone でlinuxサーバにDropboxのスナップショットとることにして、API制限も考えてゆっくりめ設定で同期したんだけど、12時間たっても全然終わってない。どのぐらい時間かかりそうか見積もりたくてもそのコマンドが全然かえってこなかったし、そりゃそうか。容量的には数十ギガしか使ってないんだけど</description>
@@ -269,13 +276,6 @@
       <description>ばぐたろー@テイルズオブベルセリアがち泣き勢: あとは rclone で暗号化リモートとしてマウントするとかかね https://t.co/uT0tN1aZxW</description>
       <pubDate>Wed, 16 Sep 2026 06:21:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MsAgbag/status/2100107889096733002</guid>
-    </item>
-    <item>
-      <title>rclone はとても良いけど、googleはMFA (Multi-Factor Authentication, 多要素認証)を有効にしないとOAuthがエラーになるみたいだし、それ以前にアカウントの選択が出ないから一つやる度に全ログアウトが必要になるみたい。</title>
-      <link>https://x.com/jiangminjp/status/2099841743172866344</link>
-      <description>多情仏心: rclone はとても良いけど、googleはMFA (Multi-Factor Authentication, 多要素認証)を有効にしないとOAuthがエラーになるみたいだし、それ以前にアカウントの選択が出ないから一つやる度に全ログアウトが必要になるみたい。</description>
-      <pubDate>Tue, 15 Sep 2026 12:44:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jiangminjp/status/2099841743172866344</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@warabi59 家から、 Wireguard のIP叩いてもダメと言うこと？</title>
+      <link>https://x.com/gigaonion/status/2107825535074418994</link>
+      <description>ぎがおにおん@インフラごっこ: @warabi59 家から、 Wireguard のIP叩いてもダメと言うこと？</description>
+      <pubDate>Wed, 07 Oct 2026 13:29:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigaonion/status/2107825535074418994</guid>
+    </item>
+    <item>
       <title>LTE ルーター Teltonika RUT956 を経由して配下のマシンへ WireGuard でリモートアクセスしてみた | DevelopersIO https://t.co/Zlu3MIheqK</title>
       <link>https://x.com/yokatsuki/status/2107710323197133163</link>
       <description>Yosuke Katsuki: LTE ルーター Teltonika RUT956 を経由して配下のマシンへ WireGuard でリモートアクセスしてみた | DevelopersIO https://t.co/Zlu3MIheqK</description>
@@ -269,13 +276,6 @@
       <description>いんと∞: Wireguard 問題ないけどOpenVPN(TCP)でトンネル内通信に問題が発生していたので、有識者とお話しながら解決した。他に問題がないか、OpenVPNを常用して様子を見る。</description>
       <pubDate>Sat, 26 Sep 2026 12:56:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/intinfinitycom/status/2103831052821385562</guid>
-    </item>
-    <item>
-      <title>追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</title>
-      <link>https://x.com/ANK0R0_M0CHI/status/2103732589194580268</link>
-      <description>ANK0R0_M0CHI: 追記 Proton VPN（https://t.co/rThdM2tOlI）でもプロトコルを WireGuard にすれば解決することを確認。 一応切り分けとしては以下 通常の自宅回線 → ❌ Cloudflare WARP MASQUE → ❌ Proton VPN → ✅ Cloudflare WARP + WireGuard → ✅ 模索中別のエラーが複数出たけど今回とは無関係と推測。</description>
-      <pubDate>Sat, 26 Sep 2026 06:25:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ANK0R0_M0CHI/status/2103732589194580268</guid>
     </item>
   </channel>
 </rss>
