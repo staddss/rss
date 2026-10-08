@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/yokatsuki/status/2107710323197133163</guid>
     </item>
     <item>
+      <title>LTE ルーター Teltonika RUT956 を経由して配下のマシンへ WireGuard でリモートアクセスしてみた https://t.co/9aP9Fo1nW7 #DevelopersIO</title>
+      <link>https://x.com/maroon1st/status/2107709674527273451</link>
+      <description>Hajime Oguri a.k.a. Guri: LTE ルーター Teltonika RUT956 を経由して配下のマシンへ WireGuard でリモートアクセスしてみた https://t.co/9aP9Fo1nW7 #DevelopersIO</description>
+      <pubDate>Wed, 07 Oct 2026 05:48:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maroon1st/status/2107709674527273451</guid>
+    </item>
+    <item>
       <title>とりあえず wireguard で無理やりアメリカに固定してるけど合ってんのかしらこれで</title>
       <link>https://x.com/amzkjunkie/status/2107687755837042721</link>
       <description>甘酒: とりあえず wireguard で無理やりアメリカに固定してるけど合ってんのかしらこれで</description>
@@ -269,13 +276,6 @@
       <description>Tomato Juice (とまとじゅーす): 1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</description>
       <pubDate>Sat, 26 Sep 2026 22:10:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tomatojuice_7/status/2103970414154350850</guid>
-    </item>
-    <item>
-      <title>Wireguard 問題ないけどOpenVPN(TCP)でトンネル内通信に問題が発生していたので、有識者とお話しながら解決した。他に問題がないか、OpenVPNを常用して様子を見る。</title>
-      <link>https://x.com/intinfinitycom/status/2103831052821385562</link>
-      <description>いんと∞: Wireguard 問題ないけどOpenVPN(TCP)でトンネル内通信に問題が発生していたので、有識者とお話しながら解決した。他に問題がないか、OpenVPNを常用して様子を見る。</description>
-      <pubDate>Sat, 26 Sep 2026 12:56:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/intinfinitycom/status/2103831052821385562</guid>
     </item>
   </channel>
 </rss>

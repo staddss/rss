@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>本日は、Qiita記事に向けた環境作成 ・GitHub Codespaces 上に新規リポジトリ作成 ・Linux環境にAWS CLIとTerraformをインストール Codespaces 使用は、1か月振りで色々と忘れていましたが、だいぶ勘が戻ってきました。 #OpenTelemetry #Grafana #Qiita #AWS #Terraform</title>
+      <link>https://x.com/Python410386/status/2107835005372453135</link>
+      <description>わた| Python: 本日は、Qiita記事に向けた環境作成 ・GitHub Codespaces 上に新規リポジトリ作成 ・Linux環境にAWS CLIとTerraformをインストール Codespaces 使用は、1か月振りで色々と忘れていましたが、だいぶ勘が戻ってきました。 #OpenTelemetry #Grafana #Qiita #AWS #Terraform</description>
+      <pubDate>Wed, 07 Oct 2026 14:06:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Python410386/status/2107835005372453135</guid>
+    </item>
+    <item>
       <title>SSH署名できないっぽい？ SSHエージェント入れてもらって鍵ファイルを配置すればいいんだろうけどうーんって感じ このへん勝手にやってくれるGitHub Codespaces は楽でいいね https://t.co/oHgpHhclzg</title>
       <link>https://x.com/_Tsuuko_/status/2107690345186373728</link>
       <description>つうこ: SSH署名できないっぽい？ SSHエージェント入れてもらって鍵ファイルを配置すればいいんだろうけどうーんって感じ このへん勝手にやってくれるGitHub Codespaces は楽でいいね https://t.co/oHgpHhclzg</description>
@@ -269,13 +276,6 @@
       <description>ひな🐣50代から人生再起動|hinanote: codespaces でclaude code動かすの、あまり気にせずAutoモードが使えて、楽🥰 変なとこ触られる危険がないもんね</description>
       <pubDate>Mon, 21 Sep 2026 09:34:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hinanote_life/status/2101968251572068486</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの最短判断ガイド： Codespaces vs Gitpod vs Cloud9（PoC手順付き） https://t.co/879Q0pEZHR #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2101831728486641676</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの最短判断ガイド： Codespaces vs Gitpod vs Cloud9（PoC手順付き） https://t.co/879Q0pEZHR #エンジニア #ChatGPT #AI</description>
-      <pubDate>Mon, 21 Sep 2026 00:31:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2101831728486641676</guid>
     </item>
   </channel>
 </rss>

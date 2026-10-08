@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@old_pgmrs_will 現在、自宅PCをWebサーバにしていますが、 Cloudflare Tunnel と Cloudflare Acaess 使っていろいろ試しています。 昔はこんなサービス使う場合は月に1万円ぐらいかかりそうな感じでしたが、今は無料で使えて、設定もGrokBotが全てやってくれるのでなんと良い時代になったことか</title>
+      <link>https://x.com/TanakaKenichi_/status/2108103661209661689</link>
+      <description>たなかけんいちまる: @old_pgmrs_will 現在、自宅PCをWebサーバにしていますが、 Cloudflare Tunnel と Cloudflare Acaess 使っていろいろ試しています。 昔はこんなサービス使う場合は月に1万円ぐらいかかりそうな感じでしたが、今は無料で使えて、設定もGrokBotが全てやってくれるのでなんと良い時代になったことか</description>
+      <pubDate>Thu, 08 Oct 2026 07:54:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TanakaKenichi_/status/2108103661209661689</guid>
+    </item>
+    <item>
+      <title>nat instanceってバカ高いから cloudflare tunnel つかえばいいのか！！</title>
+      <link>https://x.com/oujirouu/status/2108102614152069616</link>
+      <description>きりまんじゃろ: nat instanceってバカ高いから cloudflare tunnel つかえばいいのか！！</description>
+      <pubDate>Thu, 08 Oct 2026 07:50:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oujirouu/status/2108102614152069616</guid>
+    </item>
+    <item>
+      <title>最近 Cloudflare Tunnel をオススメしている情報をよく見るからやろうと思ったけど、これドメイン登録必須なのか。 しかもリクエスト単位のアップロード制限もあるし速度も速くないから、用途的に完全な置換は出来ないなぁ。 それでドメイン管理を始めるのもけっこうめんどくさい。。</title>
+      <link>https://x.com/96sc_/status/2108083079818662151</link>
+      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: 最近 Cloudflare Tunnel をオススメしている情報をよく見るからやろうと思ったけど、これドメイン登録必須なのか。 しかもリクエスト単位のアップロード制限もあるし速度も速くないから、用途的に完全な置換は出来ないなぁ。 それでドメイン管理を始めるのもけっこうめんどくさい。。</description>
+      <pubDate>Thu, 08 Oct 2026 06:32:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96sc_/status/2108083079818662151</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel いつもありがとう</title>
+      <link>https://x.com/fractal_10/status/2108037568285888936</link>
+      <description>fr: Cloudflare Tunnel いつもありがとう</description>
+      <pubDate>Thu, 08 Oct 2026 03:31:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fractal_10/status/2108037568285888936</guid>
+    </item>
+    <item>
+      <title>今もう Cloudflare Tunnel しか信用できない</title>
+      <link>https://x.com/fractal_10/status/2108037329671864589</link>
+      <description>fr: 今もう Cloudflare Tunnel しか信用できない</description>
+      <pubDate>Thu, 08 Oct 2026 03:30:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fractal_10/status/2108037329671864589</guid>
+    </item>
+    <item>
+      <title>Cloudflare tunnel を自宅鯖に採用はしてない。あまり外部サービスに依存したくないから。自律的に動作して、トラブっても縮退で済むようにしたい。</title>
+      <link>https://x.com/rioriost/status/2107946732151845370</link>
+      <description>ただの養蜂家だ🐝🇺🇦: Cloudflare tunnel を自宅鯖に採用はしてない。あまり外部サービスに依存したくないから。自律的に動作して、トラブっても縮退で済むようにしたい。</description>
+      <pubDate>Wed, 07 Oct 2026 21:30:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rioriost/status/2107946732151845370</guid>
+    </item>
+    <item>
       <title>これは本当に同じ意見です。 Cloudflare Tunnel に URL をつけて実装しないとできないような、Passkey とか Social Login の実装なんかは、これなしに実装できたかと言われると自信がない。試したことはないけど、Tailscale Funnel が類似な技術になるのかな？ https://t.co/XJ6Tz95Hma</title>
       <link>https://x.com/SeahalJa/status/2107911777883476465</link>
       <description>SEAHAL(Ja): これは本当に同じ意見です。 Cloudflare Tunnel に URL をつけて実装しないとできないような、Passkey とか Social Login の実装なんかは、これなしに実装できたかと言われると自信がない。試したことはないけど、Tailscale Funnel が類似な技術になるのかな？ https://t.co/XJ6Tz95Hma</description>
@@ -187,13 +229,6 @@
       <guid isPermaLink="true">https://x.com/shimabox/status/2106181030403285317</guid>
     </item>
     <item>
-      <title>無料なの意味わからんやつ置いとく ・Tailscale（個人なら端末は無制限） ・ Cloudflare Tunnel （ポート開けずに自宅サーバー公開） ・GitHub（非公開リポジトリ無制限、Actions月2,000分） これ全部タダってどういうこと（）</title>
-      <link>https://x.com/spa335L/status/2105877364886639050</link>
-      <description>spa★ブログと個人開発: 無料なの意味わからんやつ置いとく ・Tailscale（個人なら端末は無制限） ・ Cloudflare Tunnel （ポート開けずに自宅サーバー公開） ・GitHub（非公開リポジトリ無制限、Actions月2,000分） これ全部タダってどういうこと（）</description>
-      <pubDate>Fri, 02 Oct 2026 04:27:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/spa335L/status/2105877364886639050</guid>
-    </item>
-    <item>
       <title>A100使う程ではないんで使ってないですが、Colab使えば今あるラズパイ4B 2GBでもボイボ動画を外でも作れることに気づいた スマホとか ｜ Cloudflare Tunnel ｜ ラズパイ NAS HTTP ｜ Colab CLI ｜ T4 GPU って感じ？LAN内でボイボが動くまではいけた https://t.co/EDlNJ1q6RI</title>
       <link>https://x.com/404_YD/status/2105872154134987171</link>
       <description>よんまるよんD: A100使う程ではないんで使ってないですが、Colab使えば今あるラズパイ4B 2GBでもボイボ動画を外でも作れることに気づいた スマホとか ｜ Cloudflare Tunnel ｜ ラズパイ NAS HTTP ｜ Colab CLI ｜ T4 GPU って感じ？LAN内でボイボが動くまではいけた https://t.co/EDlNJ1q6RI</description>
@@ -241,41 +276,6 @@
       <description>ヱビス@業務改善・既存Web改修: @gggggggggoto Cloudflare Tunnel で外向きにポート開けなくて済むの、自宅運用だとかなり楽ですよね。 10日以上安定してるのも気になります。 Mac mini側はSSH含めてLAN内だけに閉じてる感じですか？ それとも管理系もTunnel経由に寄せているのでしょうか？</description>
       <pubDate>Wed, 30 Sep 2026 00:00:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/evisu_dev/status/2105085314721263770</guid>
-    </item>
-    <item>
-      <title>うーん、ミーティング中にアプリを作れとclaudeに指示して、ミーティングの終わりには、 cloudflare tunnel 経由で固定ドメインのプロトタイプを共有、というのができてしまった 恐ろしい時代だなぁ</title>
-      <link>https://x.com/tokoroten/status/2104466719913935115</link>
-      <description>ところてん: うーん、ミーティング中にアプリを作れとclaudeに指示して、ミーティングの終わりには、 cloudflare tunnel 経由で固定ドメインのプロトタイプを共有、というのができてしまった 恐ろしい時代だなぁ</description>
-      <pubDate>Mon, 28 Sep 2026 07:02:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tokoroten/status/2104466719913935115</guid>
-    </item>
-    <item>
-      <title>@canmi21 沒開 cloudflare tunnel 單用tailscale已經很方便了🥺</title>
-      <link>https://x.com/nebulucia/status/2104390503877992651</link>
-      <description>y.a.e🇦🇺: @canmi21 沒開 cloudflare tunnel 單用tailscale已經很方便了🥺</description>
-      <pubDate>Mon, 28 Sep 2026 01:59:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nebulucia/status/2104390503877992651</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel とCloudflare Access便利すぎた もうngrokいらないな、、</title>
-      <link>https://x.com/Bdash_88/status/2104343470139957702</link>
-      <description>Bダッシュ: Cloudflare Tunnel とCloudflare Access便利すぎた もうngrokいらないな、、</description>
-      <pubDate>Sun, 27 Sep 2026 22:52:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Bdash_88/status/2104343470139957702</guid>
-    </item>
-    <item>
-      <title>良し 自作AIのデモの準備は一通り整ったから明日課長に見せるか。 課内用のgithubのprivateのリポジトリにソースもあげといたけど、とてもコードレビューする気になるようなボリュームじゃないから、まあ中身は見ないだろうw Cloudflare Tunnel で簡単にローカル環境のデモできるの本当に便利だな～</title>
-      <link>https://x.com/nanananaaa615/status/2103915915775770857</link>
-      <description>ならし！: 良し 自作AIのデモの準備は一通り整ったから明日課長に見せるか。 課内用のgithubのprivateのリポジトリにソースもあげといたけど、とてもコードレビューする気になるようなボリュームじゃないから、まあ中身は見ないだろうw Cloudflare Tunnel で簡単にローカル環境のデモできるの本当に便利だな～</description>
-      <pubDate>Sat, 26 Sep 2026 18:33:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanananaaa615/status/2103915915775770857</guid>
-    </item>
-    <item>
-      <title>大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</title>
-      <link>https://x.com/5yuim/status/2103823512238780708</link>
-      <description>𝕐𝕦𝕚: 大体のひとはサーバ公開なんてしてないしできない環境でも cloudflare tunnel で公開したりとか考えないやろうなtailscaleでイントラのサービス開くだけ？</description>
-      <pubDate>Sat, 26 Sep 2026 12:26:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2103823512238780708</guid>
     </item>
   </channel>
 </rss>

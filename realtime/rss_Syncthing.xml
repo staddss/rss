@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今すぐ ResticとNASと複数事業者のS3と Syncthing を使ってデータをバックアップ取るんだ</title>
+      <link>https://x.com/tumf/status/2107848201718124548</link>
+      <description>tumf: 今すぐ ResticとNASと複数事業者のS3と Syncthing を使ってデータをバックアップ取るんだ</description>
+      <pubDate>Wed, 07 Oct 2026 14:59:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tumf/status/2107848201718124548</guid>
+    </item>
+    <item>
       <title>Syncthing ゆるゆるバックアップ用にめっちゃべんり〜〜</title>
       <link>https://x.com/yu_510n/status/2107840050591650243</link>
       <description>ゆ。@みかんばこ: Syncthing ゆるゆるバックアップ用にめっちゃべんり〜〜</description>
@@ -269,13 +276,6 @@
       <description>ohyapuru🔞: syncthing みたいなローカル共有すると、中華激安タブを並べて一個ずつに資料貼り付け、卓上で疑似的に本資料として使ったりも出来るゾ、もはやクラウドなんて原始時代に戻れないゾ</description>
       <pubDate>Thu, 17 Sep 2026 11:49:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ohyapuru/status/2100552737570336918</guid>
-    </item>
-    <item>
-      <title>@maahes_42516 端末に仮想ドライブとしてマウントするためにクラウドサービスが提供するアプリを入れる必要があるって事ですね それを受け入れる上でどこが信用できるかという事 HNDL はローカルでの管理であってもそのリスクが付きまといますね ローカル &gt; NAS = SyncThing &gt; クラウド って感じでしょうかね</title>
-      <link>https://x.com/ryo14636405/status/2100509281640718428</link>
-      <description>Ryo: @maahes_42516 端末に仮想ドライブとしてマウントするためにクラウドサービスが提供するアプリを入れる必要があるって事ですね それを受け入れる上でどこが信用できるかという事 HNDL はローカルでの管理であってもそのリスクが付きまといますね ローカル &gt; NAS = SyncThing &gt; クラウド って感じでしょうかね</description>
-      <pubDate>Thu, 17 Sep 2026 08:56:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryo14636405/status/2100509281640718428</guid>
     </item>
   </channel>
 </rss>
