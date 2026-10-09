@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>MacとLinux のファイル共有に syncthing を使う。これはいい。</title>
+      <link>https://x.com/J_kaliy/status/2108345928688325084</link>
+      <description>林　譲治: MacとLinux のファイル共有に syncthing を使う。これはいい。</description>
+      <pubDate>Thu, 08 Oct 2026 23:56:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/J_kaliy/status/2108345928688325084</guid>
+    </item>
+    <item>
       <title>今すぐ ResticとNASと複数事業者のS3と Syncthing を使ってデータをバックアップ取るんだ</title>
       <link>https://x.com/tumf/status/2107848201718124548</link>
       <description>tumf: 今すぐ ResticとNASと複数事業者のS3と Syncthing を使ってデータをバックアップ取るんだ</description>
@@ -269,13 +276,6 @@
       <description>okaka: @hitsuji__works 復活はしませんでした。うちは Syncthing で、除外設定が端末ごとに別で同期されないので、スマホ側にも同じ除外を入れてから消しています。除外を入れる前に消すと、削除がMacにも伝わって本体まで消えるので、順番だけ気をつけました。</description>
       <pubDate>Thu, 17 Sep 2026 14:18:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/DesignOkaka/status/2100590315115893208</guid>
-    </item>
-    <item>
-      <title>syncthing みたいなローカル共有すると、中華激安タブを並べて一個ずつに資料貼り付け、卓上で疑似的に本資料として使ったりも出来るゾ、もはやクラウドなんて原始時代に戻れないゾ</title>
-      <link>https://x.com/ohyapuru/status/2100552737570336918</link>
-      <description>ohyapuru🔞: syncthing みたいなローカル共有すると、中華激安タブを並べて一個ずつに資料貼り付け、卓上で疑似的に本資料として使ったりも出来るゾ、もはやクラウドなんて原始時代に戻れないゾ</description>
-      <pubDate>Thu, 17 Sep 2026 11:49:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ohyapuru/status/2100552737570336918</guid>
     </item>
   </channel>
 </rss>

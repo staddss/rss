@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>何言ってるのかと思ったら、 ZRAM （ディスク扱いの圧縮領域でディスクI/Oのオーバーヘッドがある）と比べて、ディスク扱いしないRAM領域のまま圧縮領域を作ったら動作が速かった ってことかな https://t.co/LzxTUIHYnF</title>
+      <link>https://x.com/Tizumi_meed/status/2108157856738578688</link>
+      <description>Tizumi 水地千澄: 何言ってるのかと思ったら、 ZRAM （ディスク扱いの圧縮領域でディスクI/Oのオーバーヘッドがある）と比べて、ディスク扱いしないRAM領域のまま圧縮領域を作ったら動作が速かった ってことかな https://t.co/LzxTUIHYnF</description>
+      <pubDate>Thu, 08 Oct 2026 11:29:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tizumi_meed/status/2108157856738578688</guid>
+    </item>
+    <item>
       <title>Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/GnhBgVWqeM @YouTubeより</title>
       <link>https://x.com/96neko/status/2107945714349461516</link>
       <description>クロネコ: Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/GnhBgVWqeM @YouTubeより</description>
       <pubDate>Wed, 07 Oct 2026 21:26:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/96neko/status/2107945714349461516</guid>
+    </item>
+    <item>
+      <title>zram っぽいことして圧縮出たとしても再展開エラーあるっぽくて案の定ってかんじ</title>
+      <link>https://x.com/makino_615/status/2107908092528873676</link>
+      <description>まっきーの: zram っぽいことして圧縮出たとしても再展開エラーあるっぽくて案の定ってかんじ</description>
+      <pubDate>Wed, 07 Oct 2026 18:57:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/makino_615/status/2107908092528873676</guid>
     </item>
     <item>
       <title>Docker Desktopのディスクを圧縮して、スパース化したら、100GB以上節約できた。メモリもWSLに zram 導入して占有量を減らせた。メモリやディスクが高騰する今日ではこういう設定は必須だと思うけど、かなり見過ごされてるよね。</title>
@@ -108,13 +122,6 @@
       <description>matsuu: swap領域を圧縮する実装として主に ZRAM とZswapがあるが、ハイバネーションを実現するためには ZRAM は使えないらしい。Zswapを採用しましょう。知見だ。 / “Swap, ZRAM , Zswap and Hibernate on NixOS” https://t.co/iQRQRQV129</description>
       <pubDate>Sun, 27 Sep 2026 15:04:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/matsuu/status/2104225789814428152</guid>
-    </item>
-    <item>
-      <title>メモリ8GBでも、 zram やswapを駆使しつつできるだけ本体で処理しないよう工夫すれば️全然⭕️</title>
-      <link>https://x.com/reverie_rei_/status/2103869997554815232</link>
-      <description>糖衣: メモリ8GBでも、 zram やswapを駆使しつつできるだけ本体で処理しないよう工夫すれば️全然⭕️</description>
-      <pubDate>Sat, 26 Sep 2026 15:31:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/reverie_rei_/status/2103869997554815232</guid>
     </item>
     <item>
       <title>【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</title>

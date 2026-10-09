@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>これまでのレベルではちょっと看過できない状況になってきたので、SSHの公開Port を CloudFlare Tunnel で被せようと思ったんだが、おいらの使い方だとちょっと運用がめんどくさすぎるので、ちょいと検討中。</title>
+      <link>https://x.com/holyz/status/2108197175641645127</link>
+      <description>holyz: これまでのレベルではちょっと看過できない状況になってきたので、SSHの公開Port を CloudFlare Tunnel で被せようと思ったんだが、おいらの使い方だとちょっと運用がめんどくさすぎるので、ちょいと検討中。</description>
+      <pubDate>Thu, 08 Oct 2026 14:05:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/holyz/status/2108197175641645127</guid>
+    </item>
+    <item>
       <title>@old_pgmrs_will 現在、自宅PCをWebサーバにしていますが、 Cloudflare Tunnel と Cloudflare Acaess 使っていろいろ試しています。 昔はこんなサービス使う場合は月に1万円ぐらいかかりそうな感じでしたが、今は無料で使えて、設定もGrokBotが全てやってくれるのでなんと良い時代になったことか</title>
       <link>https://x.com/TanakaKenichi_/status/2108103661209661689</link>
       <description>たなかけんいちまる: @old_pgmrs_will 現在、自宅PCをWebサーバにしていますが、 Cloudflare Tunnel と Cloudflare Acaess 使っていろいろ試しています。 昔はこんなサービス使う場合は月に1万円ぐらいかかりそうな感じでしたが、今は無料で使えて、設定もGrokBotが全てやってくれるのでなんと良い時代になったことか</description>
@@ -269,13 +276,6 @@
       <description>applesorce: 昔とは情勢違うから オンプレでも FWは基本開けない cloudflare tunnel 経由でサービス提供 とか、まぁそう言う運用しろって話。 まぁほんと久々にオンプレ環境みて センス悪…って何度思ったか</description>
       <pubDate>Wed, 30 Sep 2026 03:04:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/applesorce/status/2105131570336260141</guid>
-    </item>
-    <item>
-      <title>@gggggggggoto Cloudflare Tunnel で外向きにポート開けなくて済むの、自宅運用だとかなり楽ですよね。 10日以上安定してるのも気になります。 Mac mini側はSSH含めてLAN内だけに閉じてる感じですか？ それとも管理系もTunnel経由に寄せているのでしょうか？</title>
-      <link>https://x.com/evisu_dev/status/2105085314721263770</link>
-      <description>ヱビス@業務改善・既存Web改修: @gggggggggoto Cloudflare Tunnel で外向きにポート開けなくて済むの、自宅運用だとかなり楽ですよね。 10日以上安定してるのも気になります。 Mac mini側はSSH含めてLAN内だけに閉じてる感じですか？ それとも管理系もTunnel経由に寄せているのでしょうか？</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/evisu_dev/status/2105085314721263770</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>次は「Vita（外出先）」→「 WireGuard 」→「自宅ルーター（埼玉）」→「Raspberry Pi4B」→「自宅LAN」→「nasne」が目標</title>
+      <link>https://x.com/arios_sofia/status/2108179700963332132</link>
+      <description>セリエス: 次は「Vita（外出先）」→「 WireGuard 」→「自宅ルーター（埼玉）」→「Raspberry Pi4B」→「自宅LAN」→「nasne」が目標</description>
+      <pubDate>Thu, 08 Oct 2026 12:56:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arios_sofia/status/2108179700963332132</guid>
+    </item>
+    <item>
+      <title>やったあ！ようやく「実家PC（千葉）」→「 WireGuard 」→「自宅（埼玉）LAN」→「nasne」まで繋げられた。 長かった・・・。 何だかんだ4ヶ月くらい消費した(´ཀ`」 ∠) https://t.co/ayoMWWTdxV</title>
+      <link>https://x.com/arios_sofia/status/2108179571896119543</link>
+      <description>セリエス: やったあ！ようやく「実家PC（千葉）」→「 WireGuard 」→「自宅（埼玉）LAN」→「nasne」まで繋げられた。 長かった・・・。 何だかんだ4ヶ月くらい消費した(´ཀ`」 ∠) https://t.co/ayoMWWTdxV</description>
+      <pubDate>Thu, 08 Oct 2026 12:55:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/arios_sofia/status/2108179571896119543</guid>
+    </item>
+    <item>
+      <title>ようやく自前の WireGuard 網ができたのでとってもよきだね(*'▽')</title>
+      <link>https://x.com/mizuki_flat/status/2108164891655929942</link>
+      <description>mizuki_guruguru: ようやく自前の WireGuard 網ができたのでとってもよきだね(*'▽')</description>
+      <pubDate>Thu, 08 Oct 2026 11:57:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mizuki_flat/status/2108164891655929942</guid>
+    </item>
+    <item>
+      <title>@gigaonion 侵入っていうとなんか危ない文言だよな...w 僕は家に常に動いてる鯖が何台もあって、常にどれかの回線には繋がってて、入口も複数あって、監視基盤も複数あって... だから、外からSSHできなくなることほぼない... 君も複数経路持つといいよ...w (Tailscaleと WireGuard 併用とか、SoftEtherとか)</title>
+      <link>https://x.com/markun_Dh/status/2108005147125395934</link>
+      <description>まりも: @gigaonion 侵入っていうとなんか危ない文言だよな...w 僕は家に常に動いてる鯖が何台もあって、常にどれかの回線には繋がってて、入口も複数あって、監視基盤も複数あって... だから、外からSSHできなくなることほぼない... 君も複数経路持つといいよ...w (Tailscaleと WireGuard 併用とか、SoftEtherとか)</description>
+      <pubDate>Thu, 08 Oct 2026 01:22:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun_Dh/status/2108005147125395934</guid>
+    </item>
+    <item>
       <title>@warabi59 家から、 Wireguard のIP叩いてもダメと言うこと？</title>
       <link>https://x.com/gigaonion/status/2107825535074418994</link>
       <description>ぎがおにおん@インフラごっこ: @warabi59 家から、 Wireguard のIP叩いてもダメと言うこと？</description>
@@ -248,34 +276,6 @@
       <description>2拠点(🇯🇵⇄🇺🇸)ライダー｜GROM・YZ250・EC250: DDNS: os-ddclient プラグインでCloudFlareに接続 OpenVPN: FireTVなど証明書共有用 WireGuard : 個別マシン設定用 日本の友人によるとYamahaのルーターが定番のようですが、アメリカでは売っていないです。 ASUSのVPNルーターは１年で故障しました。あまり評判よくないみたい。 #VPN #ルーター</description>
       <pubDate>Sun, 27 Sep 2026 10:07:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/SuzukaBike/status/2104151019764818075</guid>
-    </item>
-    <item>
-      <title>@shiba_bnr34 Androidは今はIKEv2縛りみたいですね... WireGuard は対応してるルータどこだ...(Linuxサーバに入れてNAPTの穴掘りしないといけなさそうなヤカン) 自分が家のNVRにL2TP仕込んだの、おそくとも2019年の春みたいです。うーん、覚えてないｗ</title>
-      <link>https://x.com/g_plains/status/2104146059157201302</link>
-      <description>こてつ(ONO,Tetsuo): @shiba_bnr34 Androidは今はIKEv2縛りみたいですね... WireGuard は対応してるルータどこだ...(Linuxサーバに入れてNAPTの穴掘りしないといけなさそうなヤカン) 自分が家のNVRにL2TP仕込んだの、おそくとも2019年の春みたいです。うーん、覚えてないｗ</description>
-      <pubDate>Sun, 27 Sep 2026 09:48:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2104146059157201302</guid>
-    </item>
-    <item>
-      <title>Lolipopで固定IPサービスを契約しているんだけど、 Wireguard を有効にしてWSL2からリモートにSSHログインすると操作が途中で止まってしまっていた。.wslconfigに [wsl2] networkingMode=mirrored と書くと解決した</title>
-      <link>https://x.com/EilinenTuuli/status/2104145762179584232</link>
-      <description>K.N🇵🇸: Lolipopで固定IPサービスを契約しているんだけど、 Wireguard を有効にしてWSL2からリモートにSSHログインすると操作が途中で止まってしまっていた。.wslconfigに [wsl2] networkingMode=mirrored と書くと解決した</description>
-      <pubDate>Sun, 27 Sep 2026 09:46:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/EilinenTuuli/status/2104145762179584232</guid>
-    </item>
-    <item>
-      <title>Metrolistのフォークで WireGuard によるアプリ内プロキシや常にモバイルデータを使う機能、一部Liquid Glass UI対応したYT MusicストリーミングアプリのPipeTune作ったので気になったら見て https://t.co/5FauWQk2Fi</title>
-      <link>https://x.com/horihori1385/status/2103998848909848600</link>
-      <description>horihori: Metrolistのフォークで WireGuard によるアプリ内プロキシや常にモバイルデータを使う機能、一部Liquid Glass UI対応したYT MusicストリーミングアプリのPipeTune作ったので気になったら見て https://t.co/5FauWQk2Fi</description>
-      <pubDate>Sun, 27 Sep 2026 00:03:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/horihori1385/status/2103998848909848600</guid>
-    </item>
-    <item>
-      <title>1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</title>
-      <link>https://x.com/tomatojuice_7/status/2103970414154350850</link>
-      <description>Tomato Juice (とまとじゅーす): 1台余っていたN100搭載のAceMagicで、VPN＋Xrayサーバーの構築完了！🚀 WireGuard / Xray / Nginx / dnsmasq / Cloudflare DDNSまでまとめて構築して、Ansibleで別マシンにも同じ環境を自動で再構築可能なのです。 GitHub Pages👇 https://t.co/InV0wDhLMf #Ansible # WireGuard #Xray #自宅サーバー https://t.co/aXgTIN659U</description>
-      <pubDate>Sat, 26 Sep 2026 22:10:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomatojuice_7/status/2103970414154350850</guid>
     </item>
   </channel>
 </rss>
