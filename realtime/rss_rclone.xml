@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Pcloud5TB追加したら公式アプリでマウントは問題無いが rclone マウントだと rclone configでのトークン再設定が必要になった https://t.co/0sbeUYjAUK</title>
+      <link>https://x.com/aivaspern/status/2108400427737948271</link>
+      <description>nobu shiba: Pcloud5TB追加したら公式アプリでマウントは問題無いが rclone マウントだと rclone configでのトークン再設定が必要になった https://t.co/0sbeUYjAUK</description>
+      <pubDate>Fri, 09 Oct 2026 03:33:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aivaspern/status/2108400427737948271</guid>
+    </item>
+    <item>
       <title>クラウド事業者に盗まれたり見られたり漏洩したりしてもいいように、自前の暗号化を併用する時代になったんでしょう。 rclone か何かで。 性悪説。</title>
       <link>https://x.com/CipherLilium/status/2107958847528972375</link>
       <description>リリア: クラウド事業者に盗まれたり見られたり漏洩したりしてもいいように、自前の暗号化を併用する時代になったんでしょう。 rclone か何かで。 性悪説。</description>
@@ -269,20 +276,6 @@
       <description>ナユタ: rclone とかのE2E使いましょう https://t.co/i0Ds1ikEFA</description>
       <pubDate>Thu, 17 Sep 2026 00:58:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/n_yut_/status/2100388990444863628</guid>
-    </item>
-    <item>
-      <title>rclone などで透過的に暗号化した上でストアしたほうがいいのでは説?(ゴッゴルドライブなどのban問題</title>
-      <link>https://x.com/abyssluke/status/2100164287088177662</link>
-      <description>abyssluke is outfluencer: rclone などで透過的に暗号化した上でストアしたほうがいいのでは説?(ゴッゴルドライブなどのban問題</description>
-      <pubDate>Wed, 16 Sep 2026 10:05:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/abyssluke/status/2100164287088177662</guid>
-    </item>
-    <item>
-      <title>あとは rclone で暗号化リモートとしてマウントするとかかね https://t.co/uT0tN1aZxW</title>
-      <link>https://x.com/MsAgbag/status/2100107889096733002</link>
-      <description>ばぐたろー@テイルズオブベルセリアがち泣き勢: あとは rclone で暗号化リモートとしてマウントするとかかね https://t.co/uT0tN1aZxW</description>
-      <pubDate>Wed, 16 Sep 2026 06:21:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MsAgbag/status/2100107889096733002</guid>
     </item>
   </channel>
 </rss>
