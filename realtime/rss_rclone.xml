@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@wasaist ('A`)...... https://t.co/6U4YIBVgg2 確かに「 rclone で家庭内サーバのログをS3に保管」はやってみたいのはまあそう</title>
+      <link>https://x.com/g_plains/status/2108780417591681411</link>
+      <description>こてつ(ONO,Tetsuo): @wasaist ('A`)...... https://t.co/6U4YIBVgg2 確かに「 rclone で家庭内サーバのログをS3に保管」はやってみたいのはまあそう</description>
+      <pubDate>Sat, 10 Oct 2026 04:43:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2108780417591681411</guid>
+    </item>
+    <item>
       <title>Pcloud5TB追加したら公式アプリでマウントは問題無いが rclone マウントだと rclone configでのトークン再設定が必要になった https://t.co/0sbeUYjAUK</title>
       <link>https://x.com/aivaspern/status/2108400427737948271</link>
       <description>nobu shiba: Pcloud5TB追加したら公式アプリでマウントは問題無いが rclone マウントだと rclone configでのトークン再設定が必要になった https://t.co/0sbeUYjAUK</description>
       <pubDate>Fri, 09 Oct 2026 03:33:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aivaspern/status/2108400427737948271</guid>
+    </item>
+    <item>
+      <title>@niku_it_cto rclone とかrsyncつかってあちこちにバラしておかないと・・・</title>
+      <link>https://x.com/kou_yan/status/2108368442168689068</link>
+      <description>こうやん＠PM 小型船舶免許1級受かったよ〜ん＼(^o^)／: @niku_it_cto rclone とかrsyncつかってあちこちにバラしておかないと・・・</description>
+      <pubDate>Fri, 09 Oct 2026 01:26:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kou_yan/status/2108368442168689068</guid>
     </item>
     <item>
       <title>クラウド事業者に盗まれたり見られたり漏洩したりしてもいいように、自前の暗号化を併用する時代になったんでしょう。 rclone か何かで。 性悪説。</title>
@@ -269,13 +283,6 @@
       <description>こてつ(ONO,Tetsuo): やばい 客先で🤖さんに「ねー上席要望がこんなんなんだけどさー」って会話しながらシェルスクリプト書いてたら rclone とかrsyncとかごりっごりの今後誰もメンテできなさそうなやっばいスクリプトできちゃった 一応詳細設計には残すけどさー 一応Markdownで思考過程も残すけどさー</description>
       <pubDate>Thu, 17 Sep 2026 10:32:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/g_plains/status/2100533436779987155</guid>
-    </item>
-    <item>
-      <title>rclone とかのE2E使いましょう https://t.co/i0Ds1ikEFA</title>
-      <link>https://x.com/n_yut_/status/2100388990444863628</link>
-      <description>ナユタ: rclone とかのE2E使いましょう https://t.co/i0Ds1ikEFA</description>
-      <pubDate>Thu, 17 Sep 2026 00:58:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n_yut_/status/2100388990444863628</guid>
     </item>
   </channel>
 </rss>

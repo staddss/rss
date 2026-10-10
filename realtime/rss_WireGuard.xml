@@ -26,6 +26,13 @@
       <guid isPermaLink="true">https://x.com/kitaichi_T2/status/2108570546321412367</guid>
     </item>
     <item>
+      <title>orcaとcapsomniaとtailscaleで外出先からでも安全にAI駆動開発できるようになってうれぴ スマホからtailnetまで wireguard でVPN接続できるのめちゃめちゃいい</title>
+      <link>https://x.com/potaku_dev/status/2108549202666295317</link>
+      <description>kwd: orcaとcapsomniaとtailscaleで外出先からでも安全にAI駆動開発できるようになってうれぴ スマホからtailnetまで wireguard でVPN接続できるのめちゃめちゃいい</description>
+      <pubDate>Fri, 09 Oct 2026 13:24:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/potaku_dev/status/2108549202666295317</guid>
+    </item>
+    <item>
       <title>自宅クラウドサービスで情報漏洩したら嫌だねぇ｡｡｡｡ 外部からは wireguard 経由でしかアクセスできないようにしていてさらにその経路では不必要なポートは遮断してあるけど どうだろうか🤔 やっぱりアンマネージスイッチではなく L3スイッチを導入してしっかり内部も分けたいところ #JTWMG電算部</title>
       <link>https://x.com/jinten2141/status/2108520630521872877</link>
       <description>今天玩一玩 🔜未定💦: 自宅クラウドサービスで情報漏洩したら嫌だねぇ｡｡｡｡ 外部からは wireguard 経由でしかアクセスできないようにしていてさらにその経路では不必要なポートは遮断してあるけど どうだろうか🤔 やっぱりアンマネージスイッチではなく L3スイッチを導入してしっかり内部も分けたいところ #JTWMG電算部</description>
@@ -269,13 +276,6 @@
       <description>😾: WireGuard のロゴ結構すき ルーターにivpn噛ませて 端末にMullvadVPNがおすすめ構成です。 https://t.co/Ez39rVjXLg</description>
       <pubDate>Wed, 30 Sep 2026 10:55:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/84616/status/2105250273610600582</guid>
-    </item>
-    <item>
-      <title>@btcmos 現在有很多路由器支持VPN Clients和Server，比如Glinet的，支持30多個VPN，也支持自定義的 Wireguard OpenVPN等協議，我最近才開始研究。 其他很多品牌型號的也支持，還有一些支持openwrt的路由器也可以設置，就是要麻煩一點兒，需要點兒Linux技術</title>
-      <link>https://x.com/CarlXu/status/2105156749653361099</link>
-      <description>Carl Xu: @btcmos 現在有很多路由器支持VPN Clients和Server，比如Glinet的，支持30多個VPN，也支持自定義的 Wireguard OpenVPN等協議，我最近才開始研究。 其他很多品牌型號的也支持，還有一些支持openwrt的路由器也可以設置，就是要麻煩一點兒，需要點兒Linux技術</description>
-      <pubDate>Wed, 30 Sep 2026 04:44:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CarlXu/status/2105156749653361099</guid>
     </item>
   </channel>
 </rss>
