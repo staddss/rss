@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22xremap%22</link>
     <description>Latest search results for '&quot;xremap&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>タッチパッドのdwt（Disable While Typing）が効かなかった件、設定が足りていなかった。 xremap 使用時は入力が仮想キーボード経由になるので、それを内蔵キーボード扱いにする設定が必要。 libinputのquirkで MatchName= xremap * に AttrKeyboardIntegration=internal を付けたら解決</title>
+      <link>https://x.com/imtaplet/status/2108717093189517319</link>
+      <description>imtaplet@元駆け出しエンジニア: タッチパッドのdwt（Disable While Typing）が効かなかった件、設定が足りていなかった。 xremap 使用時は入力が仮想キーボード経由になるので、それを内蔵キーボード扱いにする設定が必要。 libinputのquirkで MatchName= xremap * に AttrKeyboardIntegration=internal を付けたら解決</description>
+      <pubDate>Sat, 10 Oct 2026 00:31:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/imtaplet/status/2108717093189517319</guid>
+    </item>
+    <item>
+      <title>【備忘録】 キー入力中にうっかり手のひらがタッチパッドに触れてカーソルが動いてしまう問題を解決するためにdwt（Disable While Typing）設定を有効にしたい。有効にしたつもりなのに体感としてdwtが効かなかった。環境： xremap 使用 👇解決策と原因</title>
+      <link>https://x.com/imtaplet/status/2108717091524358202</link>
+      <description>imtaplet@元駆け出しエンジニア: 【備忘録】 キー入力中にうっかり手のひらがタッチパッドに触れてカーソルが動いてしまう問題を解決するためにdwt（Disable While Typing）設定を有効にしたい。有効にしたつもりなのに体感としてdwtが効かなかった。環境： xremap 使用 👇解決策と原因</description>
+      <pubDate>Sat, 10 Oct 2026 00:31:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/imtaplet/status/2108717091524358202</guid>
+    </item>
+    <item>
       <title>あれ… xremap のモード切り替えうごいてないかも…</title>
       <link>https://x.com/sin_clav/status/2106067992526406018</link>
       <description>t-sin🙃: あれ… xremap のモード切り替えうごいてないかも…</description>
@@ -31,13 +45,6 @@
       <description>ｓｍ🫎🦌: xremap の設定まだなんだけどとりあえず起動させるためMintのsystemdに書いて実験してみるか</description>
       <pubDate>Thu, 17 Sep 2026 22:24:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sjky_sm/status/2100712423254798338</guid>
-    </item>
-    <item>
-      <title>おはようございます Mintの環境をArtix側に寄せての色々テストで xremap を試してみました これ自作のblenderマウス入れ替えと同じこととkeydでできたことが一緒くたにできて処理ごと定義もできてあたしの色々が再発明となりました あわれむなものいいたげになるなこっちみるな！！ #キューポッシュ https://t.co/qVLByI1wuY</title>
-      <link>https://x.com/sjky_sm/status/2097811958900859005</link>
-      <description>ｓｍ🫎🦌: おはようございます Mintの環境をArtix側に寄せての色々テストで xremap を試してみました これ自作のblenderマウス入れ替えと同じこととkeydでできたことが一緒くたにできて処理ごと定義もできてあたしの色々が再発明となりました あわれむなものいいたげになるなこっちみるな！！ #キューポッシュ https://t.co/qVLByI1wuY</description>
-      <pubDate>Wed, 09 Sep 2026 22:18:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sjky_sm/status/2097811958900859005</guid>
     </item>
   </channel>
 </rss>

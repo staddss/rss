@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing でファイルを同期する時、版保存を有効にすると、別の端末から届いた変更で置き換わる前のファイルを残せます。 見落としやすいのは、その端末で自分が直接編集した変更は、同じ端末の版保存だけでは保護されないこと。どちらで編集し、どちらが受け取るかが大事です。 https://t.co/uPbI5YEE2H</title>
+      <link>https://x.com/murasametech/status/2108437312900309351</link>
+      <description>むらさん(Murasan): Syncthing でファイルを同期する時、版保存を有効にすると、別の端末から届いた変更で置き換わる前のファイルを残せます。 見落としやすいのは、その端末で自分が直接編集した変更は、同じ端末の版保存だけでは保護されないこと。どちらで編集し、どちらが受け取るかが大事です。 https://t.co/uPbI5YEE2H</description>
+      <pubDate>Fri, 09 Oct 2026 06:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2108437312900309351</guid>
+    </item>
+    <item>
       <title>Syncthing がなぜか接続できなくて格闘してたら1限終わってた 直でTailscaleのIPアドレスを書いて解決</title>
       <link>https://x.com/_e6d9bb/status/2108366138476556347</link>
       <description>さぶてみそ: Syncthing がなぜか接続できなくて格闘してたら1限終わってた 直でTailscaleのIPアドレスを書いて解決</description>
@@ -269,13 +276,6 @@
       <description>もちさん(かわいい): apk作ったときにスマホに転送するの手間なので 勝手にアップロードして一覧とテスト項目を表示してくれるやつとかを作ろうかとおもいます！ syncthing みたいなのでもいいのですが 公開urlがあるとアーティファクトみたいに使えていいので claudeがskillで都度デプロイするようにします！</description>
       <pubDate>Sat, 19 Sep 2026 11:29:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/motisan_info/status/2101272448146825302</guid>
-    </item>
-    <item>
-      <title>日常使いに必須のカレンダーやメールは移した。ドキュメント類は少しづつ。あとPCやモバイル端末間で、ネットを経由せずにデータ同期できる Syncthing というソフトを使い始めてとても便利。 https://t.co/wNNNdfndDe</title>
-      <link>https://x.com/honyomhito/status/2101132742474011096</link>
-      <description>ほんよむひと: 日常使いに必須のカレンダーやメールは移した。ドキュメント類は少しづつ。あとPCやモバイル端末間で、ネットを経由せずにデータ同期できる Syncthing というソフトを使い始めてとても便利。 https://t.co/wNNNdfndDe</description>
-      <pubDate>Sat, 19 Sep 2026 02:14:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/honyomhito/status/2101132742474011096</guid>
     </item>
   </channel>
 </rss>
