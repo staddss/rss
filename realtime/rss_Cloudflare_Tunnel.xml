@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅のNASで動かしてるアプリに Cloudflare Tunnel 経由で接続できるように諸々の設定をしたけど、Opusに教えてもらわなかったら一人では絶対無理だったw</title>
+      <link>https://x.com/yusuke_kokubo/status/2109218614461247885</link>
+      <description>こくぼ@Leaner Technologies: 自宅のNASで動かしてるアプリに Cloudflare Tunnel 経由で接続できるように諸々の設定をしたけど、Opusに教えてもらわなかったら一人では絶対無理だったw</description>
+      <pubDate>Sun, 11 Oct 2026 09:44:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yusuke_kokubo/status/2109218614461247885</guid>
+    </item>
+    <item>
+      <title>@0xVibly @MinLiBuilds 可以， Cloudflare Tunnel 完全行得通。裝 cloudflared 把本地 Qwen API 隧道成公開 HTTPS endpoint，Muse／Pi 直接填那個 URL 當 base_url 就用得上，免裝 Tailscale。記得加上 API key 或 Cloudflare Access 做驗證，避免完全公開被掃到。Tailscale</title>
+      <link>https://x.com/grok/status/2109111558592675873</link>
+      <description>Grok: @0xVibly @MinLiBuilds 可以， Cloudflare Tunnel 完全行得通。裝 cloudflared 把本地 Qwen API 隧道成公開 HTTPS endpoint，Muse／Pi 直接填那個 URL 當 base_url 就用得上，免裝 Tailscale。記得加上 API key 或 Cloudflare Access 做驗證，避免完全公開被掃到。Tailscale</description>
+      <pubDate>Sun, 11 Oct 2026 02:39:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2109111558592675873</guid>
+    </item>
+    <item>
+      <title>@MinLiBuilds @grok 直接用 Cloudflare tunnel 弄一個 Public endpoint 不是就行了嗎？</title>
+      <link>https://x.com/0xVibly/status/2109111424379503006</link>
+      <description>0xVibly: @MinLiBuilds @grok 直接用 Cloudflare tunnel 弄一個 Public endpoint 不是就行了嗎？</description>
+      <pubDate>Sun, 11 Oct 2026 02:38:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0xVibly/status/2109111424379503006</guid>
+    </item>
+    <item>
       <title>【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</title>
       <link>https://x.com/akira_x_kanou/status/2108940419174392062</link>
       <description>Akira Kano: 【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</description>
@@ -255,27 +276,6 @@
       <description>しまぶ: は？ Cloudflare Tunnel error 困るんだが https://t.co/DVCURxeL09</description>
       <pubDate>Sat, 03 Oct 2026 00:34:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shimabox/status/2106181030403285317</guid>
-    </item>
-    <item>
-      <title>A100使う程ではないんで使ってないですが、Colab使えば今あるラズパイ4B 2GBでもボイボ動画を外でも作れることに気づいた スマホとか ｜ Cloudflare Tunnel ｜ ラズパイ NAS HTTP ｜ Colab CLI ｜ T4 GPU って感じ？LAN内でボイボが動くまではいけた https://t.co/EDlNJ1q6RI</title>
-      <link>https://x.com/404_YD/status/2105872154134987171</link>
-      <description>よんまるよんD: A100使う程ではないんで使ってないですが、Colab使えば今あるラズパイ4B 2GBでもボイボ動画を外でも作れることに気づいた スマホとか ｜ Cloudflare Tunnel ｜ ラズパイ NAS HTTP ｜ Colab CLI ｜ T4 GPU って感じ？LAN内でボイボが動くまではいけた https://t.co/EDlNJ1q6RI</description>
-      <pubDate>Fri, 02 Oct 2026 04:07:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/404_YD/status/2105872154134987171</guid>
-    </item>
-    <item>
-      <title>@momiji_manjyuu Cloudflare Tunnel でSSH掘るのではありませんか？</title>
-      <link>https://x.com/Agent_x23890/status/2105627188171305136</link>
-      <description>エージェントX (x23890): @momiji_manjyuu Cloudflare Tunnel でSSH掘るのではありませんか？</description>
-      <pubDate>Thu, 01 Oct 2026 11:53:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Agent_x23890/status/2105627188171305136</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel の電気代困る度と暖房効果で草 #omotesandorb</title>
-      <link>https://x.com/itojum1230/status/2105616188667781457</link>
-      <description>いとじゅん: Cloudflare Tunnel の電気代困る度と暖房効果で草 #omotesandorb</description>
-      <pubDate>Thu, 01 Oct 2026 11:09:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itojum1230/status/2105616188667781457</guid>
     </item>
   </channel>
 </rss>

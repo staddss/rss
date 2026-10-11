@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Ryzen AI Max + 395のミニPC（EVO-X2・96GB）でも、WindowsのままStrataで125Bが動いた 毎秒50トークン前後で、日本語も自然だった 公式ではLinux向けの扱いだが、Windows版の配布物にこのチップ用の部品が入っていた 同じ機械の人の参考までに https://t.co/6WkNwiqhu3</title>
+      <link>https://x.com/daily_hack_lab/status/2109212147683320268</link>
+      <description>Masaki@ミニPCで自宅AI: Ryzen AI Max + 395のミニPC（EVO-X2・96GB）でも、WindowsのままStrataで125Bが動いた 毎秒50トークン前後で、日本語も自然だった 公式ではLinux向けの扱いだが、Windows版の配布物にこのチップ用の部品が入っていた 同じ機械の人の参考までに https://t.co/6WkNwiqhu3</description>
+      <pubDate>Sun, 11 Oct 2026 09:18:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/daily_hack_lab/status/2109212147683320268</guid>
+    </item>
+    <item>
       <title>@yhkondo AMDの Ryzen AI Max 395/495のものもいいと思います。 128GBの統合メモリで70万円で、用途的にも一番あいそうです。</title>
       <link>https://x.com/kis/status/2109020961903448513</link>
       <description>きしだൠ(K1S): @yhkondo AMDの Ryzen AI Max 395/495のものもいいと思います。 128GBの統合メモリで70万円で、用途的にも一番あいそうです。</description>
@@ -31,6 +38,13 @@
       <description>松原正和 (m.matsubara): Ryzen AI Max + 395 の Windows PC で Strata 動作しました。 Qwen3.8-Flash-Next (4bit量子化)がそこそこのパフォーマンスで動作しますが、起動はかなり遅く、GPUメモリをたくさん使うせいか休止モードがうまく動作しなくなりました。 https://t.co/5XoDC1hm85</description>
       <pubDate>Sat, 10 Oct 2026 10:29:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/m_matsubara/status/2108867453271069079</guid>
+    </item>
+    <item>
+      <title>@GameLiveJP 見てるよ。上の画像はスペック比較のテンプレで「Up to」表記。下の製品カードは具体的な販売SKUの固定スペックだから「Up to」なし。詳細では両方とも Ryzen AI MAX + 395＋128GB＋1TB確定。配列違いだけ。</title>
+      <link>https://x.com/grok/status/2108835643686031774</link>
+      <description>Grok: @GameLiveJP 見てるよ。上の画像はスペック比較のテンプレで「Up to」表記。下の製品カードは具体的な販売SKUの固定スペックだから「Up to」なし。詳細では両方とも Ryzen AI MAX + 395＋128GB＋1TB確定。配列違いだけ。</description>
+      <pubDate>Sat, 10 Oct 2026 08:22:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2108835643686031774</guid>
     </item>
     <item>
       <title>@GameLiveJP 両方とも「Up to」って書いてあるよ。製品ページのテンプレでシリーズの最大構成を示してるだけ。実際のKJPは全部 Ryzen AI MAX + 395＋128GB＋1TB固定で同一。S00040はJIS配列、S00030はUS配列の違いだけ。</title>
@@ -262,20 +276,6 @@
       <description>ふるでら: 30万切るんだー うーんメモリ32GBがネックかも48GBバージョン出ないかな GPD WIN Max 3 国内正規版 ポータブルゲーミングノートPC 9.06型 AMD Ryzen AI MAX + Windows 11 Home NPU搭載 着脱式バッテリー 天空オリジナルパッケージ ( Ryzen AI Max + 388 メモリ32GB/SSD1TB) https://t.co/H91XmB8T3S</description>
       <pubDate>Wed, 07 Oct 2026 03:05:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pui2Fredericar/status/2107668649251307896</guid>
-    </item>
-    <item>
-      <title>ミニPCでQwen3.8-Flash-Nextをブン回せ！Strataが待望の Ryzen AI Max +対応 https://t.co/6pSp5HlpnZ https://t.co/fLW1WJjybv</title>
-      <link>https://x.com/pc_watch/status/2107667512779534656</link>
-      <description>PC Watch: ミニPCでQwen3.8-Flash-Nextをブン回せ！Strataが待望の Ryzen AI Max +対応 https://t.co/6pSp5HlpnZ https://t.co/fLW1WJjybv</description>
-      <pubDate>Wed, 07 Oct 2026 03:01:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pc_watch/status/2107667512779534656</guid>
-    </item>
-    <item>
-      <title>Local LLM - Qwen3.8-Flash-Next改 StrataをAMD Ryzen AI Max + 395で動かしたベンチ。うちの EVO-X2の参考になります。halgen超え？ 重要なモデル量子化サイズ【UD-1Q4_XS』ね。画像にしか無かったのでテキストでも書いて欲しかった https://t.co/hXtdui5LQs</title>
-      <link>https://x.com/UtaAoya/status/2107658027537174933</link>
-      <description>A-Uta: Local LLM - Qwen3.8-Flash-Next改 StrataをAMD Ryzen AI Max + 395で動かしたベンチ。うちの EVO-X2の参考になります。halgen超え？ 重要なモデル量子化サイズ【UD-1Q4_XS』ね。画像にしか無かったのでテキストでも書いて欲しかった https://t.co/hXtdui5LQs</description>
-      <pubDate>Wed, 07 Oct 2026 02:23:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UtaAoya/status/2107658027537174933</guid>
     </item>
   </channel>
 </rss>

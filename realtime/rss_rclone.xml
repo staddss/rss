@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Rclone と言うプログラムをはじめて使ってクラウドのバックアップ先を追加しているが30分で約40GBくらい移行できてる。2日くらいは掛かるけど必要な作業だ…。 https://t.co/XcAq0e8Yao</title>
+      <link>https://x.com/rotejin/status/2109020187337032149</link>
+      <description>ろてじん: Rclone と言うプログラムをはじめて使ってクラウドのバックアップ先を追加しているが30分で約40GBくらい移行できてる。2日くらいは掛かるけど必要な作業だ…。 https://t.co/XcAq0e8Yao</description>
+      <pubDate>Sat, 10 Oct 2026 20:36:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rotejin/status/2109020187337032149</guid>
+    </item>
+    <item>
       <title>@wasaist ('A`)...... https://t.co/6U4YIBVgg2 確かに「 rclone で家庭内サーバのログをS3に保管」はやってみたいのはまあそう</title>
       <link>https://x.com/g_plains/status/2108780417591681411</link>
       <description>こてつ(ONO,Tetsuo): @wasaist ('A`)...... https://t.co/6U4YIBVgg2 確かに「 rclone で家庭内サーバのログをS3に保管」はやってみたいのはまあそう</description>
@@ -269,13 +276,6 @@
       <description>あまね工研: @felice90 あ、ありますね。私は細々したものしか上げないので、日頃は気になりませんが、大きなものを取り扱うときは、 rclone の Nextcloud 向け WebDAV のチャンクアップロード(--webdav-nextcloud-chunk-size)などを使うといいかもです。</description>
       <pubDate>Thu, 17 Sep 2026 23:41:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/amanelab/status/2100731820107272623</guid>
-    </item>
-    <item>
-      <title>rclone -cryptすごいな gdriveを完全にプライベートストレージ化できるな</title>
-      <link>https://x.com/MauerkastenN/status/2100615182733164700</link>
-      <description>mauerkasten-nacht: rclone -cryptすごいな gdriveを完全にプライベートストレージ化できるな</description>
-      <pubDate>Thu, 17 Sep 2026 15:57:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MauerkastenN/status/2100615182733164700</guid>
     </item>
   </channel>
 </rss>
