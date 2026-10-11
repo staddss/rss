@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@yhkondo AMDの Ryzen AI Max 395/495のものもいいと思います。 128GBの統合メモリで70万円で、用途的にも一番あいそうです。</title>
+      <link>https://x.com/kis/status/2109020961903448513</link>
+      <description>きしだൠ(K1S): @yhkondo AMDの Ryzen AI Max 395/495のものもいいと思います。 128GBの統合メモリで70万円で、用途的にも一番あいそうです。</description>
+      <pubDate>Sat, 10 Oct 2026 20:39:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kis/status/2109020961903448513</guid>
+    </item>
+    <item>
+      <title>ただ、 Ryzen AI Max +と64GBメモリのEVO-X2の発売直後価格が21万円台だったと思うから、高コスパ水準でそれより上と考えると世知辛くはある。</title>
+      <link>https://x.com/midou_pcmovie/status/2108926391693844858</link>
+      <description>御堂純@ガジェット・映像制作: ただ、 Ryzen AI Max +と64GBメモリのEVO-X2の発売直後価格が21万円台だったと思うから、高コスパ水準でそれより上と考えると世知辛くはある。</description>
+      <pubDate>Sat, 10 Oct 2026 14:23:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/midou_pcmovie/status/2108926391693844858</guid>
+    </item>
+    <item>
+      <title>Strata派生のproject-mayaで、GLM5.3-Flash (Maya-L/157GB)のStrix Halo( Ryzen AI Max + 395)上での動作を確認。prefill 150 t/s、出力10 t/s前後。 重みが150GB超えてるから、メモリを105GB食った上でSSDリードが常時1.0～2.0GB/sなのがちょっと怖い。 あと取れていないステータスが多い。 https://t.co/9DKlO89WPt</title>
+      <link>https://x.com/gadgetrip/status/2108923867037323361</link>
+      <description>がじぇっとりっぷ: Strata派生のproject-mayaで、GLM5.3-Flash (Maya-L/157GB)のStrix Halo( Ryzen AI Max + 395)上での動作を確認。prefill 150 t/s、出力10 t/s前後。 重みが150GB超えてるから、メモリを105GB食った上でSSDリードが常時1.0～2.0GB/sなのがちょっと怖い。 あと取れていないステータスが多い。 https://t.co/9DKlO89WPt</description>
+      <pubDate>Sat, 10 Oct 2026 14:13:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gadgetrip/status/2108923867037323361</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max + 395 の Windows PC で Strata 動作しました。 Qwen3.8-Flash-Next (4bit量子化)がそこそこのパフォーマンスで動作しますが、起動はかなり遅く、GPUメモリをたくさん使うせいか休止モードがうまく動作しなくなりました。 https://t.co/5XoDC1hm85</title>
+      <link>https://x.com/m_matsubara/status/2108867453271069079</link>
+      <description>松原正和 (m.matsubara): Ryzen AI Max + 395 の Windows PC で Strata 動作しました。 Qwen3.8-Flash-Next (4bit量子化)がそこそこのパフォーマンスで動作しますが、起動はかなり遅く、GPUメモリをたくさん使うせいか休止モードがうまく動作しなくなりました。 https://t.co/5XoDC1hm85</description>
+      <pubDate>Sat, 10 Oct 2026 10:29:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m_matsubara/status/2108867453271069079</guid>
+    </item>
+    <item>
       <title>@GameLiveJP 両方とも「Up to」って書いてあるよ。製品ページのテンプレでシリーズの最大構成を示してるだけ。実際のKJPは全部 Ryzen AI MAX + 395＋128GB＋1TB固定で同一。S00040はJIS配列、S00030はUS配列の違いだけ。</title>
       <link>https://x.com/grok/status/2108835080323948767</link>
       <description>Grok: @GameLiveJP 両方とも「Up to」って書いてあるよ。製品ページのテンプレでシリーズの最大構成を示してるだけ。実際のKJPは全部 Ryzen AI MAX + 395＋128GB＋1TB固定で同一。S00040はJIS配列、S00030はUS配列の違いだけ。</description>
@@ -248,34 +276,6 @@
       <description>A-Uta: Local LLM - Qwen3.8-Flash-Next改 StrataをAMD Ryzen AI Max + 395で動かしたベンチ。うちの EVO-X2の参考になります。halgen超え？ 重要なモデル量子化サイズ【UD-1Q4_XS』ね。画像にしか無かったのでテキストでも書いて欲しかった https://t.co/hXtdui5LQs</description>
       <pubDate>Wed, 07 Oct 2026 02:23:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/UtaAoya/status/2107658027537174933</guid>
-    </item>
-    <item>
-      <title>第10回 EVO-X2（ Ryzen AI Max + 395 / 128GB）+ Qwen3.8-Flash-Next用のllama.cpp改造で長コンテキストのTGを高速化した話 #LocalLLM - Qiita https://t.co/uBsUCi58nX</title>
-      <link>https://x.com/atw70008450/status/2107499025574527433</link>
-      <description>a_tw: 第10回 EVO-X2（ Ryzen AI Max + 395 / 128GB）+ Qwen3.8-Flash-Next用のllama.cpp改造で長コンテキストのTGを高速化した話 #LocalLLM - Qiita https://t.co/uBsUCi58nX</description>
-      <pubDate>Tue, 06 Oct 2026 15:51:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/atw70008450/status/2107499025574527433</guid>
-    </item>
-    <item>
-      <title>私たちは、128 GB の Ryzen AI Max + プロセッサを搭載したエージェントコンピュータ上で動作する新しい Windows Hermes Agent デスクトップボットモードを使用して、Qwen モデルをスタックしました。 詳しくは: https://t.co/rzxhmjwOyg https://t.co/TIm2MrZaHn</title>
-      <link>https://x.com/amdjapan/status/2107457407555191041</link>
-      <description>AMD Japan: 私たちは、128 GB の Ryzen AI Max + プロセッサを搭載したエージェントコンピュータ上で動作する新しい Windows Hermes Agent デスクトップボットモードを使用して、Qwen モデルをスタックしました。 詳しくは: https://t.co/rzxhmjwOyg https://t.co/TIm2MrZaHn</description>
-      <pubDate>Tue, 06 Oct 2026 13:06:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amdjapan/status/2107457407555191041</guid>
-    </item>
-    <item>
-      <title>マウス、約95万円の Ryzen AI Max +搭載ミニPC「DAIV CX-A9A60」発売 - PC Watch https://t.co/wX8arvBNta</title>
-      <link>https://x.com/kernel_thread/status/2107418214192095640</link>
-      <description>kernel_thread C108 日曜日南 r-44a: マウス、約95万円の Ryzen AI Max +搭載ミニPC「DAIV CX-A9A60」発売 - PC Watch https://t.co/wX8arvBNta</description>
-      <pubDate>Tue, 06 Oct 2026 10:30:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kernel_thread/status/2107418214192095640</guid>
-    </item>
-    <item>
-      <title>GPD WIN Max 3 9.06インチ・165Hz AMOLEDに、 Ryzen AI Max +を搭載したハイエンドUMPC。 価格は30万円台～と決して安くはないですが、近年のPC価格の動向やスペックを考えると、かなり健闘している印象です。大画面・高性能を持ち運べる、かなり尖った一台です😊 https://t.co/OKbwY9keUl</title>
-      <link>https://x.com/tonchikiroku/status/2107414490530922589</link>
-      <description>とんちき録: GPD WIN Max 3 9.06インチ・165Hz AMOLEDに、 Ryzen AI Max +を搭載したハイエンドUMPC。 価格は30万円台～と決して安くはないですが、近年のPC価格の動向やスペックを考えると、かなり健闘している印象です。大画面・高性能を持ち運べる、かなり尖った一台です😊 https://t.co/OKbwY9keUl</description>
-      <pubDate>Tue, 06 Oct 2026 10:15:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tonchikiroku/status/2107414490530922589</guid>
     </item>
   </channel>
 </rss>

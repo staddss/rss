@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@nishikawa5515 上流にDNSプロシキを建てられて53ポートを全部上流側で解決する様に仕向けられると中だけでの解決が難しい気がするけど、外部にブロックされないポートで wireguard サーバでも立ててトネリングしたのかな…。</title>
+      <link>https://x.com/itoippei/status/2108957423415533778</link>
+      <description>ippei: @nishikawa5515 上流にDNSプロシキを建てられて53ポートを全部上流側で解決する様に仕向けられると中だけでの解決が難しい気がするけど、外部にブロックされないポートで wireguard サーバでも立ててトネリングしたのかな…。</description>
+      <pubDate>Sat, 10 Oct 2026 16:26:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/itoippei/status/2108957423415533778</guid>
+    </item>
+    <item>
+      <title>WireGuard のセットアップできてホクホク</title>
+      <link>https://x.com/shunrin824/status/2108862146214027415</link>
+      <description>しゅんりん＠世に文月のあらんことを: WireGuard のセットアップできてホクホク</description>
+      <pubDate>Sat, 10 Oct 2026 10:08:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shunrin824/status/2108862146214027415</guid>
+    </item>
+    <item>
+      <title>Wireguard ってよくわからんから、Tailscale 使ってる側面もあって、じゃあ Wireguard を理解しても Tailscale はやめるか？っていわれると、便利だから使っちゃうと思うんだよね。でも、これ、侵入されたら厄介だぞ？</title>
+      <link>https://x.com/SeahalJa/status/2108759268682002938</link>
+      <description>SEAHAL(Ja): Wireguard ってよくわからんから、Tailscale 使ってる側面もあって、じゃあ Wireguard を理解しても Tailscale はやめるか？っていわれると、便利だから使っちゃうと思うんだよね。でも、これ、侵入されたら厄介だぞ？</description>
+      <pubDate>Sat, 10 Oct 2026 03:19:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2108759268682002938</guid>
+    </item>
+    <item>
       <title>◆ Amazon今日のタイムセール ◆ TP-Link 5G モバイルWi-Fi ルーター Wi-Fi 6E トライバンド AXE3600 最大3.4Gbps nanoSIM対応 ギガビットWAN/LAN タッチスクリーン WireGuard VPN 3... #PR https://t.co/hKjnBUDRLE 🔸 日用品セール商品一覧 https://t.co/iaaVej8qBu</title>
       <link>https://x.com/earthqua804/status/2108632588214546540</link>
       <description>ネット通販のタイムセール/特価セール: ◆ Amazon今日のタイムセール ◆ TP-Link 5G モバイルWi-Fi ルーター Wi-Fi 6E トライバンド AXE3600 最大3.4Gbps nanoSIM対応 ギガビットWAN/LAN タッチスクリーン WireGuard VPN 3... #PR https://t.co/hKjnBUDRLE 🔸 日用品セール商品一覧 https://t.co/iaaVej8qBu</description>
@@ -255,27 +276,6 @@
       <description>もぐの: NETGEARの古いインテリスイッチ。 ICMP REDIRECTに対応してないっぽいのでネットワーク構成を素直にした。 デフォゲがOpenWrtだと色々できて良い( WireGuard を終端させるようにした)</description>
       <pubDate>Wed, 30 Sep 2026 16:08:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/moguno/status/2105328852298043531</guid>
-    </item>
-    <item>
-      <title>@mini__tan proton + wireguard です！</title>
-      <link>https://x.com/Rei22307/status/2105279368167875057</link>
-      <description>alrein: @mini__tan proton + wireguard です！</description>
-      <pubDate>Wed, 30 Sep 2026 12:51:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Rei22307/status/2105279368167875057</guid>
-    </item>
-    <item>
-      <title>@mini__tan 私もproten VPN ですね！無料です。 WireGuard というアプリも合わせて使います 詳しい方法はネット探しても見当たらず、たしかXで見かけました。元投稿見つけたら貼りますね</title>
-      <link>https://x.com/0120_322/status/2105257980006719567</link>
-      <description>たすく: @mini__tan 私もproten VPN ですね！無料です。 WireGuard というアプリも合わせて使います 詳しい方法はネット探しても見当たらず、たしかXで見かけました。元投稿見つけたら貼りますね</description>
-      <pubDate>Wed, 30 Sep 2026 11:26:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/0120_322/status/2105257980006719567</guid>
-    </item>
-    <item>
-      <title>WireGuard のロゴ結構すき ルーターにivpn噛ませて 端末にMullvadVPNがおすすめ構成です。 https://t.co/Ez39rVjXLg</title>
-      <link>https://x.com/84616/status/2105250273610600582</link>
-      <description>😾: WireGuard のロゴ結構すき ルーターにivpn噛ませて 端末にMullvadVPNがおすすめ構成です。 https://t.co/Ez39rVjXLg</description>
-      <pubDate>Wed, 30 Sep 2026 10:55:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/84616/status/2105250273610600582</guid>
     </item>
   </channel>
 </rss>

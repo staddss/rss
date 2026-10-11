@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</title>
+      <link>https://x.com/akira_x_kanou/status/2108940419174392062</link>
+      <description>Akira Kano: 【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</description>
+      <pubDate>Sat, 10 Oct 2026 15:19:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/akira_x_kanou/status/2108940419174392062</guid>
+    </item>
+    <item>
+      <title>きょうは中学生の前での特別授業。 Claude CodeでWebアプリを作成し、 Cloudflare Tunnel つかってローカルアプリを一時的に公開して使ってもらって大好評。Ngrok使わなくてもいいのは超ラクだった。 https://t.co/TRRvQIQDPZ</title>
+      <link>https://x.com/fado_dev/status/2108740330568986748</link>
+      <description>Fado: きょうは中学生の前での特別授業。 Claude CodeでWebアプリを作成し、 Cloudflare Tunnel つかってローカルアプリを一時的に公開して使ってもらって大好評。Ngrok使わなくてもいいのは超ラクだった。 https://t.co/TRRvQIQDPZ</description>
+      <pubDate>Sat, 10 Oct 2026 02:04:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fado_dev/status/2108740330568986748</guid>
+    </item>
+    <item>
       <title>これまでのレベルではちょっと看過できない状況になってきたので、SSHの公開Port を CloudFlare Tunnel で被せようと思ったんだが、おいらの使い方だとちょっと運用がめんどくさすぎるので、ちょいと検討中。</title>
       <link>https://x.com/holyz/status/2108197175641645127</link>
       <description>holyz: これまでのレベルではちょっと看過できない状況になってきたので、SSHの公開Port を CloudFlare Tunnel で被せようと思ったんだが、おいらの使い方だとちょっと運用がめんどくさすぎるので、ちょいと検討中。</description>
@@ -262,20 +276,6 @@
       <description>いとじゅん: Cloudflare Tunnel の電気代困る度と暖房効果で草 #omotesandorb</description>
       <pubDate>Thu, 01 Oct 2026 11:09:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/itojum1230/status/2105616188667781457</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel がまさにこの仕組みで作られてるな https://t.co/8kvZiqKAfC</title>
-      <link>https://x.com/undoroid/status/2105602524858163402</link>
-      <description>undoroid: Cloudflare Tunnel がまさにこの仕組みで作られてるな https://t.co/8kvZiqKAfC</description>
-      <pubDate>Thu, 01 Oct 2026 10:15:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/undoroid/status/2105602524858163402</guid>
-    </item>
-    <item>
-      <title>@gggggggggoto なるほど、管理系はTailscaleなんですね。 Cloudflare Tunnel はWeb公開、SSH/SFTPはTailscaleで分ける形だとかなりすっきりしますね。 外から安全に触れる手段があると、トラブル時も安心そうです。</title>
-      <link>https://x.com/evisu_dev/status/2105135682532655206</link>
-      <description>ヱビス@業務改善・既存Web改修: @gggggggggoto なるほど、管理系はTailscaleなんですね。 Cloudflare Tunnel はWeb公開、SSH/SFTPはTailscaleで分ける形だとかなりすっきりしますね。 外から安全に触れる手段があると、トラブル時も安心そうです。</description>
-      <pubDate>Wed, 30 Sep 2026 03:20:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/evisu_dev/status/2105135682532655206</guid>
     </item>
   </channel>
 </rss>
