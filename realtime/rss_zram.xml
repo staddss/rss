@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>昔は32GBならswap込み、それよりもう少しかさ増しすればswapを絞ってもかなり安定するくらいだったのにAndroid15くらいからカーネルのコンパイルの最後の方で異常なメモリの消費をするようになったので48GB+ ZRAM 16GBでも普通に死んで帰ってこないの涙が止まらない</title>
+      <link>https://x.com/n4ne_3/status/2109199117893423417</link>
+      <description>なね: 昔は32GBならswap込み、それよりもう少しかさ増しすればswapを絞ってもかなり安定するくらいだったのにAndroid15くらいからカーネルのコンパイルの最後の方で異常なメモリの消費をするようになったので48GB+ ZRAM 16GBでも普通に死んで帰ってこないの涙が止まらない</description>
+      <pubDate>Sun, 11 Oct 2026 08:27:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/n4ne_3/status/2109199117893423417</guid>
+    </item>
+    <item>
       <title>MetaのエンジニアがLinux向けに開発した圧縮メモリ技術「CRAM」が、既存の ZRAM と比べて読み取り性能で最大452倍の改善を達成したと報告されています。 スワップ経由という迂回路を排除し、NUMAノードとして直接メモリ上で動かすという発想の転換が、この大幅な性能向上につながっているようです。 https://t.co/4o2RqiSAou</title>
       <link>https://x.com/techfeedapp/status/2108309679465955661</link>
       <description>TechFeed公式: MetaのエンジニアがLinux向けに開発した圧縮メモリ技術「CRAM」が、既存の ZRAM と比べて読み取り性能で最大452倍の改善を達成したと報告されています。 スワップ経由という迂回路を排除し、NUMAノードとして直接メモリ上で動かすという発想の転換が、この大幅な性能向上につながっているようです。 https://t.co/4o2RqiSAou</description>
@@ -206,13 +213,6 @@
       <description>wezsley corea: 今、一番旅行に行ってみたい場所はどこ？ ☕ zRAM https://t.co/4h82w74wOM</description>
       <pubDate>Sat, 12 Sep 2026 15:46:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/wezsleystar/status/2098800478272524742</guid>
-    </item>
-    <item>
-      <title>3GB→OSが1.8GB使用で足りない 4GB→OSが2.2GB使用で足りない 12GB→OSが6GB使用で場合によっては足りない 全領域 zram 化→6GB以上で快適（ただしLMKがバグる場合がある） とりあえずOSはメモリ2GB以内に収まるようにしてほしい https://t.co/zbD6MkoKLb</title>
-      <link>https://x.com/Ado_tann/status/2098639940062175485</link>
-      <description>🧅あどたん❯❯❯❯❄🧁🐌☄️🌽（みょみょん会）: 3GB→OSが1.8GB使用で足りない 4GB→OSが2.2GB使用で足りない 12GB→OSが6GB使用で場合によっては足りない 全領域 zram 化→6GB以上で快適（ただしLMKがバグる場合がある） とりあえずOSはメモリ2GB以内に収まるようにしてほしい https://t.co/zbD6MkoKLb</description>
-      <pubDate>Sat, 12 Sep 2026 05:08:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Ado_tann/status/2098639940062175485</guid>
     </item>
   </channel>
 </rss>

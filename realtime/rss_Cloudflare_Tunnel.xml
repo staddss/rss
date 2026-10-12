@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</title>
+      <link>https://x.com/Fushihara/status/2109536386785415298</link>
+      <description>フシハラ: webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</description>
+      <pubDate>Mon, 12 Oct 2026 06:47:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Fushihara/status/2109536386785415298</guid>
+    </item>
+    <item>
       <title>t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</title>
       <link>https://x.com/simplelattice/status/2109362579139383458</link>
       <description>lattice: t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</description>
@@ -269,13 +276,6 @@
       <description>u-na-gi: 趣味のアプリは家の余ってるサーバーに適当にdeployして cloudflare tunnel で公開にしがち</description>
       <pubDate>Mon, 05 Oct 2026 00:04:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RuNacy48028Tech/status/2106898173759471926</guid>
-    </item>
-    <item>
-      <title>設定不要。1行で公開完了 Cloudflare Quick Tunnels登場、通常の Cloudflare Tunnel との違いと使い分け https://t.co/M9vHBvb6x9 #AI #AIツール</title>
-      <link>https://x.com/ai_topica/status/2106636799229759873</link>
-      <description>AI Topica: 設定不要。1行で公開完了 Cloudflare Quick Tunnels登場、通常の Cloudflare Tunnel との違いと使い分け https://t.co/M9vHBvb6x9 #AI #AIツール</description>
-      <pubDate>Sun, 04 Oct 2026 06:45:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ai_topica/status/2106636799229759873</guid>
     </item>
   </channel>
 </rss>

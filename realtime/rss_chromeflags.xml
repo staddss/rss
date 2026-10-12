@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeで右クリックした時に出てくる「Geminiに相談」は chrome :// flags から glic を Disabled にすれば消せる。ブラウザ上部の表示も消えたのでスッキリ。</title>
+      <link>https://x.com/MrGreen71304746/status/2109528874891837552</link>
+      <description>鈴蘭 🌷: Chromeで右クリックした時に出てくる「Geminiに相談」は chrome :// flags から glic を Disabled にすれば消せる。ブラウザ上部の表示も消えたのでスッキリ。</description>
+      <pubDate>Mon, 12 Oct 2026 06:17:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MrGreen71304746/status/2109528874891837552</guid>
+    </item>
+    <item>
       <title>Chromeの右クリックに出る「Geminiに相談」、 chrome :// flags /#glic を Disabled にすれば消せる。 google検索しようとしてgeminiサイドパネルが開いてマウス投げた人はぜひ。 https://t.co/G6HBWwlYwq</title>
       <link>https://x.com/resolved_id/status/2109192430482522399</link>
       <description>なかの / NAKANO | エンジニア: Chromeの右クリックに出る「Geminiに相談」、 chrome :// flags /#glic を Disabled にすれば消せる。 google検索しようとしてgeminiサイドパネルが開いてマウス投げた人はぜひ。 https://t.co/G6HBWwlYwq</description>
@@ -250,13 +257,6 @@
       <guid isPermaLink="true">https://x.com/tkmkz/status/2098759024015708404</guid>
     </item>
     <item>
-      <title>？昨日までiOSでのchromeで共有ボタン出ていたのに、なぜか消えている。 以下の操作で復活を確認 1. Chromeのアドレスバーに ` chrome :// flags /#chrome-next-ia` と入力 2. Chrome Next IA を Disabled 3. Chromeを完全終了して再起動</title>
-      <link>https://x.com/endo_5501/status/2098690488845177123</link>
-      <description>えんどー5501: ？昨日までiOSでのchromeで共有ボタン出ていたのに、なぜか消えている。 以下の操作で復活を確認 1. Chromeのアドレスバーに ` chrome :// flags /#chrome-next-ia` と入力 2. Chrome Next IA を Disabled 3. Chromeを完全終了して再起動</description>
-      <pubDate>Sat, 12 Sep 2026 08:29:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/endo_5501/status/2098690488845177123</guid>
-    </item>
-    <item>
       <title>スマホ版のChromeのUIが変わって不快な人は以下の設定をしてみてください。 ① chrome :// flags と検索 ②開いたページでchromeNextlaを検索 ③DefaultからDisabledに変更 ④Chromeを再起動する これで以前の状態に戻せます。 https://t.co/tbAoJymctp</title>
       <link>https://x.com/murabito_ms/status/2098338890654638409</link>
       <description>むらびと: スマホ版のChromeのUIが変わって不快な人は以下の設定をしてみてください。 ① chrome :// flags と検索 ②開いたページでchromeNextlaを検索 ③DefaultからDisabledに変更 ④Chromeを再起動する これで以前の状態に戻せます。 https://t.co/tbAoJymctp</description>
@@ -264,11 +264,11 @@
       <guid isPermaLink="true">https://x.com/murabito_ms/status/2098338890654638409</guid>
     </item>
     <item>
-      <title>iOSのChromeの黒いバー消す方法メモ Chromeで新しいページ開く→ アドレスバーに chrome :// flags /#chrome-next-iaを打って開く→ ChromeNextIa項目をdisabledにする→アプリをタスクキル再起動 https://t.co/q4EkqcrPiJ</title>
-      <link>https://x.com/dp_ua9__/status/2098252845543985274</link>
-      <description>半天狗.bot: iOSのChromeの黒いバー消す方法メモ Chromeで新しいページ開く→ アドレスバーに chrome :// flags /#chrome-next-iaを打って開く→ ChromeNextIa項目をdisabledにする→アプリをタスクキル再起動 https://t.co/q4EkqcrPiJ</description>
-      <pubDate>Fri, 11 Sep 2026 03:30:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dp_ua9__/status/2098252845543985274</guid>
+      <title>iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</title>
+      <link>https://x.com/shin_f/status/2098229746350100541</link>
+      <description>しん: iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</description>
+      <pubDate>Fri, 11 Sep 2026 01:58:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shin_f/status/2098229746350100541</guid>
     </item>
     <item>
       <title>Google Chrome の微妙すぎるアドレスバー、 chrome :// flags から ChromeNextIa を無効にすると元に戻せます このアドレスバーになるくらいならもう別のブラウザでいいかな https://t.co/a19qXPxmZe</title>

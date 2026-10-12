@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の比較と導入手順（実務向け） https://t.co/rGAlbGKbRh #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2109444359246533014</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の比較と導入手順（実務向け） https://t.co/rGAlbGKbRh #エンジニア #ChatGPT #AI</description>
+      <pubDate>Mon, 12 Oct 2026 00:41:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2109444359246533014</guid>
+    </item>
+    <item>
       <title>またもや変な時間に起きたな？ GitHub UNIVERSE近いしもうちょい予習を…GitHub CopilotとOpenTelemetry、サンドボックス、モデル選択と持ち込みに興味あり。 GitHubのスタックでいうと GitHub Codespaces GitHub Copilot SDK GitHub Copilot GitHub Actions Actionsはそこまでウェイト高くない。</title>
       <link>https://x.com/ymd65536/status/2109319597577126054</link>
       <description>Kento.Yamada: またもや変な時間に起きたな？ GitHub UNIVERSE近いしもうちょい予習を…GitHub CopilotとOpenTelemetry、サンドボックス、モデル選択と持ち込みに興味あり。 GitHubのスタックでいうと GitHub Codespaces GitHub Copilot SDK GitHub Copilot GitHub Actions Actionsはそこまでウェイト高くない。</description>
@@ -12,11 +19,11 @@
       <guid isPermaLink="true">https://x.com/ymd65536/status/2109319597577126054</guid>
     </item>
     <item>
-      <title>【AI社員JARVIS開発記録｜Day 5】🤖⚡ AIにX投稿を手伝ってもらうためのWebアプリ開発、今日も進展！ Cloud Codexが作ったプログラムをGitHubに受け渡して、 Codespaces で動作確認に挑戦。 最初はiPhoneで操作してたんだけど…… ターミナルに入力した「か」が消えなくなって大苦戦www😂</title>
-      <link>https://x.com/yoppigpt/status/2109264146743107735</link>
-      <description>よっぴー｜電気施工管理×AI: 【AI社員JARVIS開発記録｜Day 5】🤖⚡ AIにX投稿を手伝ってもらうためのWebアプリ開発、今日も進展！ Cloud Codexが作ったプログラムをGitHubに受け渡して、 Codespaces で動作確認に挑戦。 最初はiPhoneで操作してたんだけど…… ターミナルに入力した「か」が消えなくなって大苦戦www😂</description>
-      <pubDate>Sun, 11 Oct 2026 12:45:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yoppigpt/status/2109264146743107735</guid>
+      <title>ブログを書きました。 &gt;GitHub Codespaces でOceanBaseを起動して、Python・Jupyter・dbtから接続してみた｜Kento.Yamada https://t.co/qj3NiULn1S #zenn</title>
+      <link>https://x.com/ymd65536/status/2109223074570936361</link>
+      <description>Kento.Yamada: ブログを書きました。 &gt;GitHub Codespaces でOceanBaseを起動して、Python・Jupyter・dbtから接続してみた｜Kento.Yamada https://t.co/qj3NiULn1S #zenn</description>
+      <pubDate>Sun, 11 Oct 2026 10:02:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ymd65536/status/2109223074570936361</guid>
     </item>
     <item>
       <title>【新着記事】実務で失敗しないクラウドIDEの選び方：GitHub Codespaces / Gitpod / AWS Cloud9 比較と導入手順 https://t.co/hM4BLrhDNB #エンジニア #ChatGPT #AI</title>
@@ -269,13 +276,6 @@
       <description>うみれおん（Kaito Udagawa）: ChromiumとかGitHub Codespaces でビルドできるんじゃないですか？知らんけど</description>
       <pubDate>Fri, 25 Sep 2026 15:44:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/umireon/status/2103510868403376420</guid>
-    </item>
-    <item>
-      <title>＼AIを、業務改善の力に。／ 本日9/25、1〜5年目社員を中心に 社内向け技術研修を実施しました✨ 6月に続く今回のテーマは、 AIエージェントを活用した 「業務改善アプリ」の開発。 GitHub Codespaces を使い、 自分の業務にある課題から要件を考え、 AIと対話しながらアプリを実装しました。 https://t.co/1fMGMcx5Wh</title>
-      <link>https://x.com/comsoft_corp/status/2103397845583749191</link>
-      <description>コムソフト株式会社 【公式】: ＼AIを、業務改善の力に。／ 本日9/25、1〜5年目社員を中心に 社内向け技術研修を実施しました✨ 6月に続く今回のテーマは、 AIエージェントを活用した 「業務改善アプリ」の開発。 GitHub Codespaces を使い、 自分の業務にある課題から要件を考え、 AIと対話しながらアプリを実装しました。 https://t.co/1fMGMcx5Wh</description>
-      <pubDate>Fri, 25 Sep 2026 08:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/comsoft_corp/status/2103397845583749191</guid>
     </item>
   </channel>
 </rss>

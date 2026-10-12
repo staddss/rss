@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>使いこなせなかった・長続きしなかったもの ・Notion(Obsidianとignisで良い) ・地元のLLM(ChatGPTでいい。どうせ検索使うし。なんかうまくいかないことが多すぎる気がする) ・瞑想(長続きしない) ・Nextcloud(クライアントのアプデが面倒。 Syncthing でよくね？) ・Zabbix・Grafana(定着せず)</title>
+      <link>https://x.com/shigetoroku1010/status/2109543080559030504</link>
+      <description>重藤 六🐸ガジェットブロガー: 使いこなせなかった・長続きしなかったもの ・Notion(Obsidianとignisで良い) ・地元のLLM(ChatGPTでいい。どうせ検索使うし。なんかうまくいかないことが多すぎる気がする) ・瞑想(長続きしない) ・Nextcloud(クライアントのアプデが面倒。 Syncthing でよくね？) ・Zabbix・Grafana(定着せず)</description>
+      <pubDate>Mon, 12 Oct 2026 07:13:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigetoroku1010/status/2109543080559030504</guid>
+    </item>
+    <item>
       <title>Obsidianと Syncthing 使うことである程度データ主権は取り戻せた。あとはLocal LLM頑張らないとな。。。</title>
       <link>https://x.com/shutoito/status/2108868076657930660</link>
       <description>Gyroid: Obsidianと Syncthing 使うことである程度データ主権は取り戻せた。あとはLocal LLM頑張らないとな。。。</description>
@@ -269,13 +276,6 @@
       <description>大北天魔王：如月翔也⋈構造化系TRPGer: @tomoshibi_hello とりあえずテストしたんですが、 各デバイス（パソコンは Syncthing /Androidは Syncthing Fork/iOSはMobius Sync Pro：Mobius Sync Proのみ800円買い切り）で、Syncthinkサーバは自分のRaspberry Pi5に2TBのHDDを付けたもので実装してみました。 Raspberry</description>
       <pubDate>Sun, 20 Sep 2026 23:24:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/showya_kiss/status/2101814710819774468</guid>
-    </item>
-    <item>
-      <title>@showya_kiss 全部Obsidianに集約、すごく分かります。自分はクラウド同期でお茶を濁してるんですが、出先のスマホからだと「開くのが億劫」で止まりがちでした。 Syncthing なら手書きメモの取り込みまで回せそうですね。そのあたり、どう運用される予定ですか？</title>
-      <link>https://x.com/tomoshibi_hello/status/2101810882837938297</link>
-      <description>燈火 | AIと「第二の脳」で働く: @showya_kiss 全部Obsidianに集約、すごく分かります。自分はクラウド同期でお茶を濁してるんですが、出先のスマホからだと「開くのが億劫」で止まりがちでした。 Syncthing なら手書きメモの取り込みまで回せそうですね。そのあたり、どう運用される予定ですか？</description>
-      <pubDate>Sun, 20 Sep 2026 23:08:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomoshibi_hello/status/2101810882837938297</guid>
     </item>
   </channel>
 </rss>

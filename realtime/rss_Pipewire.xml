@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cycling'74 Max 9 を Linux に Bottles 経由でインストールしたけれど、普通の Pipewire 環境の Debianノートでは音が出るけれど、 普段使っている Jack環境の Debian ミニPCでは音が出ない。</title>
+      <link>https://x.com/Inqb8tr_jp/status/2109194712070734031</link>
+      <description>Leg End 🇵🇸🇺🇦 MOD Desktop推し: Cycling'74 Max 9 を Linux に Bottles 経由でインストールしたけれど、普通の Pipewire 環境の Debianノートでは音が出るけれど、 普段使っている Jack環境の Debian ミニPCでは音が出ない。</description>
+      <pubDate>Sun, 11 Oct 2026 08:09:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Inqb8tr_jp/status/2109194712070734031</guid>
+    </item>
+    <item>
       <title>配布されているMSHVのdebは一つ古いDebian 12 (bookworm) 向けで、かつ PipeWire に依存しているようなので導入見送り</title>
       <link>https://x.com/JQ3JUK/status/2108425533906395463</link>
       <description>JQ3JUK: 配布されているMSHVのdebは一つ古いDebian 12 (bookworm) 向けで、かつ PipeWire に依存しているようなので導入見送り</description>
@@ -80,20 +87,6 @@
       <description>ssh neutron42@fedora: @kk621meemee_sub ディストロは関係ないんじゃないか？ pipewire 系と相性が悪かったらしい</description>
       <pubDate>Sat, 12 Sep 2026 11:45:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/neutron42jp/status/2098739665918656674</guid>
-    </item>
-    <item>
-      <title>@jun1228909 soundbarって拡張機能が原因だった。 pipewire とかそこら辺の初期化で死んでたのかね。</title>
-      <link>https://x.com/neutron42jp/status/2098710580563714441</link>
-      <description>ssh neutron42@fedora: @jun1228909 soundbarって拡張機能が原因だった。 pipewire とかそこら辺の初期化で死んでたのかね。</description>
-      <pubDate>Sat, 12 Sep 2026 09:49:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/neutron42jp/status/2098710580563714441</guid>
-    </item>
-    <item>
-      <title>ゲーミングLinux、サスペンドから復帰後、HDMIに繋いでるモニターから音が出ない。 調べると、 Pipewire の音声出力先であるHDMIのSinkが休止状態になってたっぽい。 休止を解除するコマンドがわからんので、AIエージェント使ってOSをいじってもらい解除する。</title>
-      <link>https://x.com/yuskesuzki/status/2098561969104318633</link>
-      <description>すずき@ニセ道民: ゲーミングLinux、サスペンドから復帰後、HDMIに繋いでるモニターから音が出ない。 調べると、 Pipewire の音声出力先であるHDMIのSinkが休止状態になってたっぽい。 休止を解除するコマンドがわからんので、AIエージェント使ってOSをいじってもらい解除する。</description>
-      <pubDate>Fri, 11 Sep 2026 23:58:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yuskesuzki/status/2098561969104318633</guid>
     </item>
   </channel>
 </rss>

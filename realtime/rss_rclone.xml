@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>大量のファイルを別の場所へ運ぶ処理が途中で落ちると、再試行の回数を増やして様子を見る、という置き方になる。ところがログに出てくる再試行の行数は、こちらが指定した回数と合わないことがある。 rclone 公式のフラグ解説を読むと、再試行という同じ語が2つの別の階層に割り当てられていた。</title>
+      <link>https://x.com/nao_aifounder/status/2109080940903538956</link>
+      <description>N | AI×連続起業家: 大量のファイルを別の場所へ運ぶ処理が途中で落ちると、再試行の回数を増やして様子を見る、という置き方になる。ところがログに出てくる再試行の行数は、こちらが指定した回数と合わないことがある。 rclone 公式のフラグ解説を読むと、再試行という同じ語が2つの別の階層に割り当てられていた。</description>
+      <pubDate>Sun, 11 Oct 2026 00:37:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nao_aifounder/status/2109080940903538956</guid>
+    </item>
+    <item>
       <title>Rclone と言うプログラムをはじめて使ってクラウドのバックアップ先を追加しているが30分で約40GBくらい移行できてる。2日くらいは掛かるけど必要な作業だ…。 https://t.co/XcAq0e8Yao</title>
       <link>https://x.com/rotejin/status/2109020187337032149</link>
       <description>ろてじん: Rclone と言うプログラムをはじめて使ってクラウドのバックアップ先を追加しているが30分で約40GBくらい移行できてる。2日くらいは掛かるけど必要な作業だ…。 https://t.co/XcAq0e8Yao</description>
@@ -269,13 +276,6 @@
       <description>Yu Ihara: Googledriveとかにリモートのサーバーからrsyncみたいなことやりたいと思ってたら rclone という素晴らしいOSSを発見して感謝しかない</description>
       <pubDate>Fri, 18 Sep 2026 02:23:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/y___ih/status/2100772728852857246</guid>
-    </item>
-    <item>
-      <title>@felice90 あ、ありますね。私は細々したものしか上げないので、日頃は気になりませんが、大きなものを取り扱うときは、 rclone の Nextcloud 向け WebDAV のチャンクアップロード(--webdav-nextcloud-chunk-size)などを使うといいかもです。</title>
-      <link>https://x.com/amanelab/status/2100731820107272623</link>
-      <description>あまね工研: @felice90 あ、ありますね。私は細々したものしか上げないので、日頃は気になりませんが、大きなものを取り扱うときは、 rclone の Nextcloud 向け WebDAV のチャンクアップロード(--webdav-nextcloud-chunk-size)などを使うといいかもです。</description>
-      <pubDate>Thu, 17 Sep 2026 23:41:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/amanelab/status/2100731820107272623</guid>
     </item>
   </channel>
 </rss>
