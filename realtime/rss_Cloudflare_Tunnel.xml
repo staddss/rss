@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</title>
+      <link>https://x.com/simplelattice/status/2109362579139383458</link>
+      <description>lattice: t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</description>
+      <pubDate>Sun, 11 Oct 2026 19:16:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/simplelattice/status/2109362579139383458</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel を使って自宅にあるmacへ出先からでもアクセスできるようにした。 Codexのリモートでもいいけど、普通にvncで繋げられるのは便利</title>
+      <link>https://x.com/ao_8_midori/status/2109289449431662844</link>
+      <description>あおみどり: Cloudflare Tunnel を使って自宅にあるmacへ出先からでもアクセスできるようにした。 Codexのリモートでもいいけど、普通にvncで繋げられるのは便利</description>
+      <pubDate>Sun, 11 Oct 2026 14:26:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ao_8_midori/status/2109289449431662844</guid>
+    </item>
+    <item>
       <title>自宅のNASで動かしてるアプリに Cloudflare Tunnel 経由で接続できるように諸々の設定をしたけど、Opusに教えてもらわなかったら一人では絶対無理だったw</title>
       <link>https://x.com/yusuke_kokubo/status/2109218614461247885</link>
       <description>こくぼ@Leaner Technologies: 自宅のNASで動かしてるアプリに Cloudflare Tunnel 経由で接続できるように諸々の設定をしたけど、Opusに教えてもらわなかったら一人では絶対無理だったw</description>
@@ -31,6 +45,13 @@
       <description>Akira Kano: 【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</description>
       <pubDate>Sat, 10 Oct 2026 15:19:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akira_x_kanou/status/2108940419174392062</guid>
+    </item>
+    <item>
+      <title>Mullvadに接続しながら Cloudflare Tunnel で公開しようとしたら何回やってもできないから、調べたらCloudflareがMullvadのサーバーををブロックしてるようだった（Abuse対策？） のでProton VPNに切り替えたらVPN経由で公開できましたとさ</title>
+      <link>https://x.com/cheenanet/status/2108859917461533120</link>
+      <description>Cheena: Mullvadに接続しながら Cloudflare Tunnel で公開しようとしたら何回やってもできないから、調べたらCloudflareがMullvadのサーバーををブロックしてるようだった（Abuse対策？） のでProton VPNに切り替えたらVPN経由で公開できましたとさ</description>
+      <pubDate>Sat, 10 Oct 2026 09:59:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cheenanet/status/2108859917461533120</guid>
     </item>
     <item>
       <title>きょうは中学生の前での特別授業。 Claude CodeでWebアプリを作成し、 Cloudflare Tunnel つかってローカルアプリを一時的に公開して使ってもらって大好評。Ngrok使わなくてもいいのは超ラクだった。 https://t.co/TRRvQIQDPZ</title>
@@ -255,27 +276,6 @@
       <description>AI Topica: 設定不要。1行で公開完了 Cloudflare Quick Tunnels登場、通常の Cloudflare Tunnel との違いと使い分け https://t.co/M9vHBvb6x9 #AI #AIツール</description>
       <pubDate>Sun, 04 Oct 2026 06:45:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ai_topica/status/2106636799229759873</guid>
-    </item>
-    <item>
-      <title>なんか流行っているらしいAIモデリング 最近100$配布されたCCのクラウドセッション用クレジットを手元のUnityを操作するのに使えたのでやり方だけ書いときます ① Unity側でMCP for UnityをHTTPモードで起動 ② Cloudflare Tunnel でサブドメインを公開し、Accessのサービストークン認証を必須にする https://t.co/metIA64OSv</title>
-      <link>https://x.com/hrs0_0m/status/2106461614715314458</link>
-      <description>HRSM: なんか流行っているらしいAIモデリング 最近100$配布されたCCのクラウドセッション用クレジットを手元のUnityを操作するのに使えたのでやり方だけ書いときます ① Unity側でMCP for UnityをHTTPモードで起動 ② Cloudflare Tunnel でサブドメインを公開し、Accessのサービストークン認証を必須にする https://t.co/metIA64OSv</description>
-      <pubDate>Sat, 03 Oct 2026 19:09:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hrs0_0m/status/2106461614715314458</guid>
-    </item>
-    <item>
-      <title>claudecodeでの開発は割と序盤からブラウザで操作できるように画面作ってやってる 今では画像にコメントを付けて渡せるようにしてるし同時に3セッションを見ながら捌ける仕組みになってる ドメインと cloudflare tunnel があれば外出先でも作業できるから便利 https://t.co/xL0BtbMVLm</title>
-      <link>https://x.com/KuriMikan_/status/2106255157684228116</link>
-      <description>ないとー: claudecodeでの開発は割と序盤からブラウザで操作できるように画面作ってやってる 今では画像にコメントを付けて渡せるようにしてるし同時に3セッションを見ながら捌ける仕組みになってる ドメインと cloudflare tunnel があれば外出先でも作業できるから便利 https://t.co/xL0BtbMVLm</description>
-      <pubDate>Sat, 03 Oct 2026 05:28:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KuriMikan_/status/2106255157684228116</guid>
-    </item>
-    <item>
-      <title>は？ Cloudflare Tunnel error 困るんだが https://t.co/DVCURxeL09</title>
-      <link>https://x.com/shimabox/status/2106181030403285317</link>
-      <description>しまぶ: は？ Cloudflare Tunnel error 困るんだが https://t.co/DVCURxeL09</description>
-      <pubDate>Sat, 03 Oct 2026 00:34:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shimabox/status/2106181030403285317</guid>
     </item>
   </channel>
 </rss>

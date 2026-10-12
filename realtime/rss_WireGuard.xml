@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>OpenVPNと WireGuard によるトンネルの状況を把握できるTUIツール。ログ確認や設定。トラフィックなど。Rust実装 / “GitHub - Harry-kp/vortix: Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.” https://t.co/NgZA0i4vix</title>
+      <link>https://x.com/matsuu/status/2109432165650080029</link>
+      <description>matsuu: OpenVPNと WireGuard によるトンネルの状況を把握できるTUIツール。ログ確認や設定。トラフィックなど。Rust実装 / “GitHub - Harry-kp/vortix: Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.” https://t.co/NgZA0i4vix</description>
+      <pubDate>Sun, 11 Oct 2026 23:53:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/matsuu/status/2109432165650080029</guid>
+    </item>
+    <item>
+      <title>新Fire Stick 4k は USB Type-Cだし、Vega OS で消費電力が低減＆起動が高速化してるので、旅行とかに良さそうなんよね。 更には自分用に買った4k Max初代が、やっと戻ってくる。 wireguard とMoonlightでも入れるべ。</title>
+      <link>https://x.com/yunzojm_open/status/2109342790769651916</link>
+      <description>ゆんぞ/Yunzo: 新Fire Stick 4k は USB Type-Cだし、Vega OS で消費電力が低減＆起動が高速化してるので、旅行とかに良さそうなんよね。 更には自分用に買った4k Max初代が、やっと戻ってくる。 wireguard とMoonlightでも入れるべ。</description>
+      <pubDate>Sun, 11 Oct 2026 17:58:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2109342790769651916</guid>
+    </item>
+    <item>
+      <title>Wireguard をiPadに仕込んだら寝る． じゃな．</title>
+      <link>https://x.com/Mt480nm/status/2109314037200953471</link>
+      <description>あおさん: Wireguard をiPadに仕込んだら寝る． じゃな．</description>
+      <pubDate>Sun, 11 Oct 2026 16:03:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Mt480nm/status/2109314037200953471</guid>
+    </item>
+    <item>
+      <title>既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 ✅ 新規端末の追加は「Add peer」から名前を入力して「Create peer」を押す… ✅ 「Disable」でPeerを削除せず無効化でき、「Enable」で同じPeer情報と割… https://t.co/tcdXnNXFhk</title>
+      <link>https://x.com/hirofuji84/status/2109261981186458000</link>
+      <description>ひろふじ84: 既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 ✅ 新規端末の追加は「Add peer」から名前を入力して「Create peer」を押す… ✅ 「Disable」でPeerを削除せず無効化でき、「Enable」で同じPeer情報と割… https://t.co/tcdXnNXFhk</description>
+      <pubDate>Sun, 11 Oct 2026 12:36:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hirofuji84/status/2109261981186458000</guid>
+    </item>
+    <item>
+      <title>@L_port8080 というか設定消すのは設定ファイル消すだけだよなぁと。 WireGuard もOpenVPNも...</title>
+      <link>https://x.com/markun_Dh/status/2109252041323540844</link>
+      <description>眞莉萌: @L_port8080 というか設定消すのは設定ファイル消すだけだよなぁと。 WireGuard もOpenVPNも...</description>
+      <pubDate>Sun, 11 Oct 2026 11:57:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/markun_Dh/status/2109252041323540844</guid>
+    </item>
+    <item>
+      <title>@markun_Dh なるほど... ちなみに Wireguard とかOpenVPNの設定も直せますか？</title>
+      <link>https://x.com/L_port8080/status/2109250499086286935</link>
+      <description>一樹（第二拠点）: @markun_Dh なるほど... ちなみに Wireguard とかOpenVPNの設定も直せますか？</description>
+      <pubDate>Sun, 11 Oct 2026 11:51:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2109250499086286935</guid>
+    </item>
+    <item>
       <title>【朗報】既存の WireGuard 環境をそのままWebUI化できる「wg-admin」が無料公開！これはガチで神ツールだとネット民歓喜 - みるみん速報 #VPN #wg-admin # WireGuard #オープンソース https://t.co/PT580SzyvS</title>
       <link>https://x.com/miruminsns/status/2109222649763446786</link>
       <description>みるみん速報【公式】: 【朗報】既存の WireGuard 環境をそのままWebUI化できる「wg-admin」が無料公開！これはガチで神ツールだとネット民歓喜 - みるみん速報 #VPN #wg-admin # WireGuard #オープンソース https://t.co/PT580SzyvS</description>
@@ -17,6 +59,13 @@
       <description>Cyberdark Impact: 📰 Gigazine 既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 https://t.co/yNrVPl2x3z #Gigazine #テクノロジー #IT</description>
       <pubDate>Sun, 11 Oct 2026 09:03:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kenebeii/status/2109208262797353173</guid>
+    </item>
+    <item>
+      <title>既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 https://t.co/RR4YarKwUv</title>
+      <link>https://x.com/gigazine/status/2109207453040590886</link>
+      <description>GIGAZINE(ギガジン): 既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 https://t.co/RR4YarKwUv</description>
+      <pubDate>Sun, 11 Oct 2026 09:00:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gigazine/status/2109207453040590886</guid>
     </item>
     <item>
       <title>RaspberryPi Pico WをQrioLockのBLE&lt;-&gt;Wi-Fiブリッジにするファームウェアできた。 Pico W単体でQrioをネットワーク、 WireGuard 、MQTT対応にできるので、公式ハブなしで公式ハブで出来ないようなHA統合もできる。 https://t.co/dnBUZctA31</title>
@@ -227,55 +276,6 @@
       <description>きのゆ: @neutron42jp しかも内部 WireGuard らしく速度もVPNの中でも優秀ときた</description>
       <pubDate>Sun, 04 Oct 2026 12:19:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/k1_n0_yu/status/2106720880667844766</guid>
-    </item>
-    <item>
-      <title>@markun_Dh iOSアプリの wireguard でスプリットトンネルなんてできたか...？ 常時繋いでるぞ、だからこそ謎</title>
-      <link>https://x.com/L_port8080/status/2106682333172801727</link>
-      <description>一樹（第二拠点）: @markun_Dh iOSアプリの wireguard でスプリットトンネルなんてできたか...？ 常時繋いでるぞ、だからこそ謎</description>
-      <pubDate>Sun, 04 Oct 2026 09:46:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8080/status/2106682333172801727</guid>
-    </item>
-    <item>
-      <title>@L_port8080 そりゃ WireGuard はVPNだから、すべてのネットワーク通信をトンネリングするんや</title>
-      <link>https://x.com/umaiyo_ajiman/status/2106410257916498352</link>
-      <description>白白: @L_port8080 そりゃ WireGuard はVPNだから、すべてのネットワーク通信をトンネリングするんや</description>
-      <pubDate>Sat, 03 Oct 2026 15:45:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/umaiyo_ajiman/status/2106410257916498352</guid>
-    </item>
-    <item>
-      <title>SORACOM UG 岡山、開場しましたー！ M5 TimerCamera-XをSORACOM Arc( WireGuard VPN)でつなげてみようというハンズオンで、準備も揃ってます！ #soracomug https://t.co/lWPqGiK9CM</title>
-      <link>https://x.com/ma2shita/status/2106236210016641142</link>
-      <description>松下こうへい &quot;Max&quot;: SORACOM UG 岡山、開場しましたー！ M5 TimerCamera-XをSORACOM Arc( WireGuard VPN)でつなげてみようというハンズオンで、準備も揃ってます！ #soracomug https://t.co/lWPqGiK9CM</description>
-      <pubDate>Sat, 03 Oct 2026 04:13:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ma2shita/status/2106236210016641142</guid>
-    </item>
-    <item>
-      <title>@moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</title>
-      <link>https://x.com/grok/status/2106204402881089741</link>
-      <description>Grok: @moguno 256MB ARMv7のOpenWrtならadblock-leanが最高。依存ゼロで256MBプリセットあり、大規模リストも軽く処理。 WireGuard は当然軽い。 最小Tailscale（約60MB）やTriTon（Shell製WiFi最適化ニューラルネット）も面白い。 ARK Router Liteもダッシュボードとして使える。</description>
-      <pubDate>Sat, 03 Oct 2026 02:07:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2106204402881089741</guid>
-    </item>
-    <item>
-      <title>@_ryu15_ tailscale使えばなんと wireguard もついてきてセキュリティも割と強いんですねぇ</title>
-      <link>https://x.com/sahenjpn/status/2105952446732456372</link>
-      <description>sahen: @_ryu15_ tailscale使えばなんと wireguard もついてきてセキュリティも割と強いんですねぇ</description>
-      <pubDate>Fri, 02 Oct 2026 09:26:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sahenjpn/status/2105952446732456372</guid>
-    </item>
-    <item>
-      <title>@kaminari_it 使いたいポートが電話やFAX用に使われていて使えない。 WireGuard はまず使えない 51820 OpenVPNは使えるけど低速 セッションをもう１回線契約する必要がある。 Android端末のVPNはIEKv2/Ipsecが標準になったので転送設定が複雑になった。 ポート転送を行おうとするとボルトネックが発生する</title>
-      <link>https://x.com/taizou50/status/2105919860773699587</link>
-      <description>太ちゃんねる: @kaminari_it 使いたいポートが電話やFAX用に使われていて使えない。 WireGuard はまず使えない 51820 OpenVPNは使えるけど低速 セッションをもう１回線契約する必要がある。 Android端末のVPNはIEKv2/Ipsecが標準になったので転送設定が複雑になった。 ポート転送を行おうとするとボルトネックが発生する</description>
-      <pubDate>Fri, 02 Oct 2026 07:16:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/taizou50/status/2105919860773699587</guid>
-    </item>
-    <item>
-      <title>@kobefs wireguard vpnの出番ですかね</title>
-      <link>https://x.com/7sistere2/status/2105870784409522680</link>
-      <description>りっか: @kobefs wireguard vpnの出番ですかね</description>
-      <pubDate>Fri, 02 Oct 2026 04:01:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/7sistere2/status/2105870784409522680</guid>
     </item>
   </channel>
 </rss>
