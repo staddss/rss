@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>今夜は、 Ryzen AI Max +395 ユニファイドメモリ64GB PC Ubuntu24.04にROCmをインストールしてみました。 これでOllamaやLMstudioでのローカルAI使用が問題無く出来るようになりそうです。 Vulkanもインストール出来たと思いますが、良く分かりません。</title>
+      <link>https://x.com/mamoTurboBlade/status/2109647336641327209</link>
+      <description>ターボブレード: 今夜は、 Ryzen AI Max +395 ユニファイドメモリ64GB PC Ubuntu24.04にROCmをインストールしてみました。 これでOllamaやLMstudioでのローカルAI使用が問題無く出来るようになりそうです。 Vulkanもインストール出来たと思いますが、良く分かりません。</description>
+      <pubDate>Mon, 12 Oct 2026 14:08:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mamoTurboBlade/status/2109647336641327209</guid>
+    </item>
+    <item>
+      <title>ふむ。GMKtecからも Ryzen AI Max + PRO 495のマシンが発売された模様。 https://t.co/kB8PQLD8MA SSDなしの構成で100万超えとる・・・。 DGX Sparkより高い。</title>
+      <link>https://x.com/shigeyuki_hirai/status/2109579939897135270</link>
+      <description>Shigeyuki Hirai / 平♯重行: ふむ。GMKtecからも Ryzen AI Max + PRO 495のマシンが発売された模様。 https://t.co/kB8PQLD8MA SSDなしの構成で100万超えとる・・・。 DGX Sparkより高い。</description>
+      <pubDate>Mon, 12 Oct 2026 09:40:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shigeyuki_hirai/status/2109579939897135270</guid>
+    </item>
+    <item>
       <title>Strata、AMDの Ryzen AI Max +（EVO-X2・96GB／Windows）でも動きました 125BのIQ2_XSで毎秒50トークン前後 初期設定のままだと起動しないので、 --mmap-experts を足して --expert-cache を 26000 にするのがコツでした https://t.co/BkpWwOuLI3</title>
       <link>https://x.com/daily_hack_lab/status/2109577642362146954</link>
       <description>Masaki@ミニPCで自宅AI: Strata、AMDの Ryzen AI Max +（EVO-X2・96GB／Windows）でも動きました 125BのIQ2_XSで毎秒50トークン前後 初期設定のままだと起動しないので、 --mmap-experts を足して --expert-cache を 26000 にするのがコツでした https://t.co/BkpWwOuLI3</description>
@@ -262,20 +276,6 @@
       <description>Tomonori Kouya: 「192GBメモリ構成は2026年12月に販売開始予定」・・・コレがいくらになるかを知りたいな。＞日本HP、最大192GBメモリの Ryzen AI Max PRO 400搭載16型モバイルワークステーション - PC Watch https://t.co/WqNCT8Dssz</description>
       <pubDate>Wed, 07 Oct 2026 10:51:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tkouya/status/2107785773827387700</guid>
-    </item>
-    <item>
-      <title>ミニPCでQwen3.8-Flash-Nextをブン回せ！Strataが待望の Ryzen AI Max +対応 - PC Watch https://t.co/M6LnIGjOwK</title>
-      <link>https://x.com/irregular_prime/status/2107764377931915737</link>
-      <description>えふきぅ（おがっち）: ミニPCでQwen3.8-Flash-Nextをブン回せ！Strataが待望の Ryzen AI Max +対応 - PC Watch https://t.co/M6LnIGjOwK</description>
-      <pubDate>Wed, 07 Oct 2026 09:26:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/irregular_prime/status/2107764377931915737</guid>
-    </item>
-    <item>
-      <title>HP、最大192GBメモリの Ryzen AI Max PRO 400搭載16型モバイルワークステーション - PC Watch https://t.co/kYMLbUprkF</title>
-      <link>https://x.com/noimi/status/2107747286709305551</link>
-      <description>清水健二: HP、最大192GBメモリの Ryzen AI Max PRO 400搭載16型モバイルワークステーション - PC Watch https://t.co/kYMLbUprkF</description>
-      <pubDate>Wed, 07 Oct 2026 08:18:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noimi/status/2107747286709305551</guid>
     </item>
   </channel>
 </rss>

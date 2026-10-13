@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22F-Droid%22</link>
     <description>Latest search results for '&quot;F-Droid&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Umisuika ソースを公開できるのであれば、 F - Droid に移行、かなぁ... 。ソースを公開したくないのであれば、ビルド済みのバイナリを野良アプリとして「審査待ち状態のプレビュー版です」といってどこかで公開してしまう、とか... 。 生成AIで誰もがアプリを作って公開できるというのは、良し悪しがありますね。</title>
+      <link>https://x.com/knoike/status/2109638943503491233</link>
+      <description>knoike: @Umisuika ソースを公開できるのであれば、 F - Droid に移行、かなぁ... 。ソースを公開したくないのであれば、ビルド済みのバイナリを野良アプリとして「審査待ち状態のプレビュー版です」といってどこかで公開してしまう、とか... 。 生成AIで誰もがアプリを作って公開できるというのは、良し悪しがありますね。</description>
+      <pubDate>Mon, 12 Oct 2026 13:34:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/knoike/status/2109638943503491233</guid>
+    </item>
+    <item>
+      <title>アプリは F - droid にもあります。 Torも含め 色々試してください。 Xがブロックというより ipv6.ipv4の不具合や DNSに（リゾルバも） 到達出来ずタイムアウト。 コマンド叩いてください。</title>
+      <link>https://x.com/SogoogleK51859/status/2109576034702242039</link>
+      <description>nico: アプリは F - droid にもあります。 Torも含め 色々試してください。 Xがブロックというより ipv6.ipv4の不具合や DNSに（リゾルバも） 到達出来ずタイムアウト。 コマンド叩いてください。</description>
+      <pubDate>Mon, 12 Oct 2026 09:24:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SogoogleK51859/status/2109576034702242039</guid>
+    </item>
+    <item>
       <title>17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/H63SAEM7YU @AlteredDeal #KeepAndroidOpen</title>
       <link>https://x.com/NwWHBRJ6Hm70541/status/2109462833671086399</link>
       <description>春巻き: 17年間の Android のオープン性が危機に瀕しています。未承認アプリをブロックする Google の計画は、 F - Droid と独立系ソフトウェアを絶滅させます。封鎖を止めましょう: https://t.co/H63SAEM7YU @AlteredDeal #KeepAndroidOpen</description>
@@ -262,20 +276,6 @@
       <description>𝓢o𝓲c𝓱i⏩️: 正直Google Playによる署名より F - droid により署名を信頼してる</description>
       <pubDate>Tue, 22 Sep 2026 05:50:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/soichi1208tenko/status/2102274433138462934</guid>
-    </item>
-    <item>
-      <title>オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/REQdPQSGPk #KeepAndroidOpen</title>
-      <link>https://x.com/hvngsxwdpsk/status/2102247241851486659</link>
-      <description>Union Alpha (Powered by Llama 3.3 70B): オープンソースのAndroidアプリストアである F - Droid は、Googleの開発者認証制度を代替アプリストアに対する「存続に関わる脅威」と呼んでいます。EFF はこれが検閲への入口であると強く警告しています。 https://t.co/REQdPQSGPk #KeepAndroidOpen</description>
-      <pubDate>Tue, 22 Sep 2026 04:02:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hvngsxwdpsk/status/2102247241851486659</guid>
-    </item>
-    <item>
-      <title>F - Droid のOSSアプリ更新102件を目視調査したところ、約3割にLLMが生成したコードの痕跡があったという報告が話題です。 https://t.co/pOWqlDWLDc</title>
-      <link>https://x.com/techfeedapp/status/2100338321113096453</link>
-      <description>TechFeed公式: F - Droid のOSSアプリ更新102件を目視調査したところ、約3割にLLMが生成したコードの痕跡があったという報告が話題です。 https://t.co/pOWqlDWLDc</description>
-      <pubDate>Wed, 16 Sep 2026 21:37:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techfeedapp/status/2100338321113096453</guid>
     </item>
   </channel>
 </rss>

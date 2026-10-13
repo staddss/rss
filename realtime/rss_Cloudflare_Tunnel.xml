@@ -5,11 +5,46 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflare tunnel で非常用sshという名の脆弱なポイントを用意した．</title>
+      <link>https://x.com/t3u_tsu/status/2109755591048757597</link>
+      <description>t3u: cloudflare tunnel で非常用sshという名の脆弱なポイントを用意した．</description>
+      <pubDate>Mon, 12 Oct 2026 21:18:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2109755591048757597</guid>
+    </item>
+    <item>
+      <title>vaultwardenを cloudflare tunnel 経由で立ててたけど、そもそも公開する必要なかったことに気付いたのでtailscale内に移動した。tailscale serveなんてものがあるなんて便利</title>
+      <link>https://x.com/wada203/status/2109643492205158710</link>
+      <description>WADA@アプリ開発: vaultwardenを cloudflare tunnel 経由で立ててたけど、そもそも公開する必要なかったことに気付いたのでtailscale内に移動した。tailscale serveなんてものがあるなんて便利</description>
+      <pubDate>Mon, 12 Oct 2026 13:52:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wada203/status/2109643492205158710</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel ＆Accessの設定出来たけど、なんか設定がダルいな… Cloudflare Access からトークンをコピーしてTunnelの拡張設定に入れるとか、1クリックじゃ出来ないのこれ？感が凄い。 自分の理想は my-system[.]example[.] 、 localhost:12345 https://t.co/yUPUhxlRkQ</title>
+      <link>https://x.com/Fushihara/status/2109632283833667770</link>
+      <description>フシハラ: Cloudflare Tunnel ＆Accessの設定出来たけど、なんか設定がダルいな… Cloudflare Access からトークンをコピーしてTunnelの拡張設定に入れるとか、1クリックじゃ出来ないのこれ？感が凄い。 自分の理想は my-system[.]example[.] 、 localhost:12345 https://t.co/yUPUhxlRkQ</description>
+      <pubDate>Mon, 12 Oct 2026 13:08:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Fushihara/status/2109632283833667770</guid>
+    </item>
+    <item>
+      <title>正直TS抜きっていうけどTSの規格保持する必要ないしダウンロード機能も塞いでコピープロテクションとDRM対応して cloudflare tunnel をパッケージング化してDigibestのチューナーとセット売りしようかな</title>
+      <link>https://x.com/5yuim/status/2109608971535516035</link>
+      <description>結 v11: 正直TS抜きっていうけどTSの規格保持する必要ないしダウンロード機能も塞いでコピープロテクションとDRM対応して cloudflare tunnel をパッケージング化してDigibestのチューナーとセット売りしようかな</description>
+      <pubDate>Mon, 12 Oct 2026 11:35:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2109608971535516035</guid>
+    </item>
+    <item>
       <title>webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</title>
       <link>https://x.com/Fushihara/status/2109536386785415298</link>
       <description>フシハラ: webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</description>
       <pubDate>Mon, 12 Oct 2026 06:47:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fushihara/status/2109536386785415298</guid>
+    </item>
+    <item>
+      <title>うちはアプライアンスではなく CloudFlare + tunnel とGoogle cloud認証組み合わせてるが、それでもヤバいもんかな。 ま、絶対なんてものがないのはわかるが。 https://t.co/g4kAFxxERY</title>
+      <link>https://x.com/exbaron/status/2109389507133141154</link>
+      <description>ギガ男爵（中年男性？: うちはアプライアンスではなく CloudFlare + tunnel とGoogle cloud認証組み合わせてるが、それでもヤバいもんかな。 ま、絶対なんてものがないのはわかるが。 https://t.co/g4kAFxxERY</description>
+      <pubDate>Sun, 11 Oct 2026 21:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/exbaron/status/2109389507133141154</guid>
     </item>
     <item>
       <title>t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</title>
@@ -241,41 +276,6 @@
       <description>こめぴり: 無料のDDNSサービス+ Cloudflare Tunnel の組み合わせはいいぞ</description>
       <pubDate>Mon, 05 Oct 2026 13:12:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/komepiri1234/status/2107096624925421682</guid>
-    </item>
-    <item>
-      <title>talos+ cloudflare tunnel +cilium+denpaのプリビルドイメージ作ってインストールするだけで録画鯖ができるISO要りますか？いらんかそんなもん</title>
-      <link>https://x.com/5yuim/status/2107070924688363856</link>
-      <description>結 v11: talos+ cloudflare tunnel +cilium+denpaのプリビルドイメージ作ってインストールするだけで録画鯖ができるISO要りますか？いらんかそんなもん</description>
-      <pubDate>Mon, 05 Oct 2026 11:30:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2107070924688363856</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 経由だと全部 127.0.0.1 に見える件と、LAN 限定の管理画面 https://t.co/PjxgzzGxGy</title>
-      <link>https://x.com/falled_can/status/2106992411457298783</link>
-      <description>落ちていたビール缶: Cloudflare Tunnel 経由だと全部 127.0.0.1 に見える件と、LAN 限定の管理画面 https://t.co/PjxgzzGxGy</description>
-      <pubDate>Mon, 05 Oct 2026 06:18:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/falled_can/status/2106992411457298783</guid>
-    </item>
-    <item>
-      <title>ほぅ 「「 Cloudflare Tunnel 」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能」 https://t.co/NtWoj9psfX</title>
-      <link>https://x.com/someone7140/status/2106972292622500325</link>
-      <description>なかつがわ: ほぅ 「「 Cloudflare Tunnel 」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能」 https://t.co/NtWoj9psfX</description>
-      <pubDate>Mon, 05 Oct 2026 04:58:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/someone7140/status/2106972292622500325</guid>
-    </item>
-    <item>
-      <title>@hibit_at そのあたりも移行しました cloudflare tunnel でローカルのMacminiに繋いで そこでImmichとかを動かしています</title>
-      <link>https://x.com/alla__genovese/status/2106906442926342244</link>
-      <description>ばじる: @hibit_at そのあたりも移行しました cloudflare tunnel でローカルのMacminiに繋いで そこでImmichとかを動かしています</description>
-      <pubDate>Mon, 05 Oct 2026 00:36:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/alla__genovese/status/2106906442926342244</guid>
-    </item>
-    <item>
-      <title>趣味のアプリは家の余ってるサーバーに適当にdeployして cloudflare tunnel で公開にしがち</title>
-      <link>https://x.com/RuNacy48028Tech/status/2106898173759471926</link>
-      <description>u-na-gi: 趣味のアプリは家の余ってるサーバーに適当にdeployして cloudflare tunnel で公開にしがち</description>
-      <pubDate>Mon, 05 Oct 2026 00:04:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RuNacy48028Tech/status/2106898173759471926</guid>
     </item>
   </channel>
 </rss>

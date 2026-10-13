@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22GameHub%22</link>
     <description>Latest search results for '&quot;GameHub&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>KONKR POCKET FITにてDroidDeck モンスターハンターワールド GameHub ではなんとか動いていたタイトルなんですが、意外とGameNativeでは動作が困難でした。パフォーマンスというより、動作がままならないというか。 DroidDeckでは何一つ設定を行うこともなく、普通に起動。 https://t.co/pz7weWKF2x</title>
-      <link>https://x.com/omochichi/status/2109472503286636865</link>
-      <description>もち: KONKR POCKET FITにてDroidDeck モンスターハンターワールド GameHub ではなんとか動いていたタイトルなんですが、意外とGameNativeでは動作が困難でした。パフォーマンスというより、動作がままならないというか。 DroidDeckでは何一つ設定を行うこともなく、普通に起動。 https://t.co/pz7weWKF2x</description>
-      <pubDate>Mon, 12 Oct 2026 02:33:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/omochichi/status/2109472503286636865</guid>
+      <title>DroidDeckで色々と試したところ GameHub では遊べなかった（起動はするけど操作できない）ゲームは遊べるようになっまので概ね良好。UEで作られたゲームは起動オプション-dx11を入れないとレイトレーシングの初期化でこけてそうだけど、まぁ問題なし</title>
+      <link>https://x.com/nakfiv/status/2109823559812133085</link>
+      <description>nakfiv a.k.a. noriP デジゲー博 A-15ab: DroidDeckで色々と試したところ GameHub では遊べなかった（起動はするけど操作できない）ゲームは遊べるようになっまので概ね良好。UEで作られたゲームは起動オプション-dx11を入れないとレイトレーシングの初期化でこけてそうだけど、まぁ問題なし</description>
+      <pubDate>Tue, 13 Oct 2026 01:48:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nakfiv/status/2109823559812133085</guid>
+    </item>
+    <item>
+      <title>@MilkyG6 Gamehub は何か怪しいので使いません…Steamアカウント権限をGameSirに直接渡す行為</title>
+      <link>https://x.com/RatFlat/status/2109813683539128349</link>
+      <description>黒ラット （崩）: @MilkyG6 Gamehub は何か怪しいので使いません…Steamアカウント権限をGameSirに直接渡す行為</description>
+      <pubDate>Tue, 13 Oct 2026 01:09:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RatFlat/status/2109813683539128349</guid>
+    </item>
+    <item>
+      <title>すげぇー gamehub で動かなかったまのさばが動く</title>
+      <link>https://x.com/Salvere_00/status/2109673838267244658</link>
+      <description>そば: すげぇー gamehub で動かなかったまのさばが動く</description>
+      <pubDate>Mon, 12 Oct 2026 15:53:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Salvere_00/status/2109673838267244658</guid>
+    </item>
+    <item>
+      <title>KONKR POCKET FITにてDroidDeck モンスターハンターワールド GameHub では最低画質で動作させていた導入部をかなり高画質目の設定で。 素晴らしいパフォーマンスで動作しますね〜 https://t.co/isMq2AS74j</title>
+      <link>https://x.com/omochichi/status/2109607757582413992</link>
+      <description>もち: KONKR POCKET FITにてDroidDeck モンスターハンターワールド GameHub では最低画質で動作させていた導入部をかなり高画質目の設定で。 素晴らしいパフォーマンスで動作しますね〜 https://t.co/isMq2AS74j</description>
+      <pubDate>Mon, 12 Oct 2026 11:30:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/omochichi/status/2109607757582413992</guid>
+    </item>
+    <item>
+      <title>KONKR POCKET FITにてDroidDeck バイオハザード4 GameHub でもGameNativeでも、異様にパフォーマンスが低かったこのタイトルが、何事もなく60fpsで動作します。 理由はよくわかりません！ https://t.co/5hzACFS8s1</title>
+      <link>https://x.com/omochichi/status/2109598426392580543</link>
+      <description>もち: KONKR POCKET FITにてDroidDeck バイオハザード4 GameHub でもGameNativeでも、異様にパフォーマンスが低かったこのタイトルが、何事もなく60fpsで動作します。 理由はよくわかりません！ https://t.co/5hzACFS8s1</description>
+      <pubDate>Mon, 12 Oct 2026 10:53:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/omochichi/status/2109598426392580543</guid>
     </item>
     <item>
       <title>これすごい。もっと流行るべき。 【特集】AndroidでSteamライブラリのゲームが遊べる「 GameHub 」を徹底検証 - PC Watch https://t.co/4rRqrXgI8N</title>
@@ -31,6 +59,13 @@
       <description>聖魔竜騎士ＴＡＴＳＵ: 【REDMAGIC Astra2で GameHub を試した結果】 ✅Steam版NTE：起動後ブラックアウトで進行不可 ✅Steam版幻塔：起動からログインまではできるがサーバー接続時にエラー発生して進行不可 ✅Steam版スノブレ：起動してタイトル画面までいけるがアカウントログイン画面が全く表示されずに進行不可 ※続く↓</description>
       <pubDate>Sun, 11 Oct 2026 11:43:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/HolyDemonDragon/status/2109248501649650028</guid>
+    </item>
+    <item>
+      <title>最近Android携帯機でSteamのゲームが動くと話題なので入れてみる ※ GameHub ではないです https://t.co/7Us1glOY1u</title>
+      <link>https://x.com/RatFlat/status/2109161290459447516</link>
+      <description>黒ラット （崩）: 最近Android携帯機でSteamのゲームが動くと話題なので入れてみる ※ GameHub ではないです https://t.co/7Us1glOY1u</description>
+      <pubDate>Sun, 11 Oct 2026 05:56:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RatFlat/status/2109161290459447516</guid>
     </item>
     <item>
       <title>WindowsのSteamでしか動かなかったゲームを、Macの Gamehub で起動して、さらにSunshine + MoonlightでiPhoneにストリーミングする、という環境をついに手に入れた…！最高すぎる。これでベッドでドラクエ出来る。ここまで長かった…</title>
@@ -241,41 +276,6 @@
       <description>幸: @Arts_asmr gamehub てやつ！ あれは値段見て買う気失せたなぁ……高すぎじゃない？値段と使う頻度が見合わない気がするなぁ😇</description>
       <pubDate>Thu, 01 Oct 2026 10:37:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sachi649_/status/2105607997519008171</guid>
-    </item>
-    <item>
-      <title>FFオリジン GameHub で動いたぜって人居る？</title>
-      <link>https://x.com/Extremers/status/2105326149446541473</link>
-      <description>Yucchis: FFオリジン GameHub で動いたぜって人居る？</description>
-      <pubDate>Wed, 30 Sep 2026 15:57:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Extremers/status/2105326149446541473</guid>
-    </item>
-    <item>
-      <title>知らん間に gamehub の使い勝手がかなり上がってる こっちでええやん</title>
-      <link>https://x.com/goozra4/status/2105271279486128201</link>
-      <description>ぐー: 知らん間に gamehub の使い勝手がかなり上がってる こっちでええやん</description>
-      <pubDate>Wed, 30 Sep 2026 12:19:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/goozra4/status/2105271279486128201</guid>
-    </item>
-    <item>
-      <title>Gamehub 、スマホでSteam版P3Rできちゃった</title>
-      <link>https://x.com/Minoriya4/status/2105226282355298661</link>
-      <description>ミノリヤ: Gamehub 、スマホでSteam版P3Rできちゃった</description>
-      <pubDate>Wed, 30 Sep 2026 09:20:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Minoriya4/status/2105226282355298661</guid>
-    </item>
-    <item>
-      <title>Steamでエースコンバット8買ったのだけど、 GameHub で8はおもくて動かないだろうしZEROをRedmagicでやろうと思ってたんだけど8まで入れないとならんのね……数GBのゲームのために140GBもストレージ使うのか……</title>
-      <link>https://x.com/e231_joban/status/2104805247952769044</link>
-      <description>いーたん⛩️: Steamでエースコンバット8買ったのだけど、 GameHub で8はおもくて動かないだろうしZEROをRedmagicでやろうと思ってたんだけど8まで入れないとならんのね……数GBのゲームのために140GBもストレージ使うのか……</description>
-      <pubDate>Tue, 29 Sep 2026 05:27:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/e231_joban/status/2104805247952769044</guid>
-    </item>
-    <item>
-      <title>@sou1042tzk きゅーさんの壊れた1TB、交換対応だったら良かったのに🥲 ally最後に使ったのは確かのらとと1だったような… 2は Gamehub かなんかでやりました🙄</title>
-      <link>https://x.com/h36zap/status/2104780686729097419</link>
-      <description>zap: @sou1042tzk きゅーさんの壊れた1TB、交換対応だったら良かったのに🥲 ally最後に使ったのは確かのらとと1だったような… 2は Gamehub かなんかでやりました🙄</description>
-      <pubDate>Tue, 29 Sep 2026 03:49:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/h36zap/status/2104780686729097419</guid>
     </item>
   </channel>
 </rss>

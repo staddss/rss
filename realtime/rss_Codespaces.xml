@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短選定ガイド： Codespaces / Gitpod / Cloud9 の比較と実務PoC手順 https://t.co/VvVjYyVggg #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2109806633400332294</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド： Codespaces / Gitpod / Cloud9 の比較と実務PoC手順 https://t.co/VvVjYyVggg #エンジニア #ChatGPT #AI</description>
+      <pubDate>Tue, 13 Oct 2026 00:41:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2109806633400332294</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の比較と導入手順（実務向け） https://t.co/rGAlbGKbRh #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2109444359246533014</link>
       <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の比較と導入手順（実務向け） https://t.co/rGAlbGKbRh #エンジニア #ChatGPT #AI</description>
@@ -17,6 +24,13 @@
       <description>Kento.Yamada: またもや変な時間に起きたな？ GitHub UNIVERSE近いしもうちょい予習を…GitHub CopilotとOpenTelemetry、サンドボックス、モデル選択と持ち込みに興味あり。 GitHubのスタックでいうと GitHub Codespaces GitHub Copilot SDK GitHub Copilot GitHub Actions Actionsはそこまでウェイト高くない。</description>
       <pubDate>Sun, 11 Oct 2026 16:25:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ymd65536/status/2109319597577126054</guid>
+    </item>
+    <item>
+      <title>【AI社員JARVIS開発記録｜Day 5】🤖⚡ AIにX投稿を手伝ってもらうためのWebアプリ開発、今日も進展！ Cloud Codexが作ったプログラムをGitHubに受け渡して、 Codespaces で動作確認に挑戦。 最初はiPhoneで操作してたんだけど…… ターミナルに入力した「か」が消えなくなって大苦戦www😂</title>
+      <link>https://x.com/yoppigpt/status/2109264146743107735</link>
+      <description>よっぴー｜電気施工管理×AI: 【AI社員JARVIS開発記録｜Day 5】🤖⚡ AIにX投稿を手伝ってもらうためのWebアプリ開発、今日も進展！ Cloud Codexが作ったプログラムをGitHubに受け渡して、 Codespaces で動作確認に挑戦。 最初はiPhoneで操作してたんだけど…… ターミナルに入力した「か」が消えなくなって大苦戦www😂</description>
+      <pubDate>Sun, 11 Oct 2026 12:45:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yoppigpt/status/2109264146743107735</guid>
     </item>
     <item>
       <title>ブログを書きました。 &gt;GitHub Codespaces でOceanBaseを起動して、Python・Jupyter・dbtから接続してみた｜Kento.Yamada https://t.co/qj3NiULn1S #zenn</title>
@@ -269,13 +283,6 @@
       <description>EngiNear: 【新着記事】結論先出しで選ぶクラウドIDE：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適解と導入手順（エンジニア向け） https://t.co/pP71WFnmTl #エンジニア #ChatGPT #AI</description>
       <pubDate>Sat, 26 Sep 2026 00:41:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2103646101060362519</guid>
-    </item>
-    <item>
-      <title>ChromiumとかGitHub Codespaces でビルドできるんじゃないですか？知らんけど</title>
-      <link>https://x.com/umireon/status/2103510868403376420</link>
-      <description>うみれおん（Kaito Udagawa）: ChromiumとかGitHub Codespaces でビルドできるんじゃないですか？知らんけど</description>
-      <pubDate>Fri, 25 Sep 2026 15:44:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/umireon/status/2103510868403376420</guid>
     </item>
   </channel>
 </rss>
