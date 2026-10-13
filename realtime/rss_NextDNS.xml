@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>nextdns はオススメ、本当に。</title>
+      <link>https://x.com/dzm_mzd/status/2109948702450479139</link>
+      <description>demio: nextdns はオススメ、本当に。</description>
+      <pubDate>Tue, 13 Oct 2026 10:05:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dzm_mzd/status/2109948702450479139</guid>
+    </item>
+    <item>
+      <title>NextDNS の開発者が Netflix の共同創業者なの強すぎる。</title>
+      <link>https://x.com/voluntas/status/2109940990459199624</link>
+      <description>V: NextDNS の開発者が Netflix の共同創業者なの強すぎる。</description>
+      <pubDate>Tue, 13 Oct 2026 09:35:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/voluntas/status/2109940990459199624</guid>
+    </item>
+    <item>
+      <title>@k4takori_penlo 無料で使うなら nextdns のほうがいいちょっと設定複雑だけど</title>
+      <link>https://x.com/kkpjq/status/2109495524172931530</link>
+      <description>極浪: @k4takori_penlo 無料で使うなら nextdns のほうがいいちょっと設定複雑だけど</description>
+      <pubDate>Mon, 12 Oct 2026 04:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kkpjq/status/2109495524172931530</guid>
+    </item>
+    <item>
       <title>広告対策で NextDNS を使っていると、ロケーションがこんな感じになるみたい。 特にProxy噛ましているわけではないけど。 https://t.co/2LI5pFbIf9</title>
       <link>https://x.com/o_tooru/status/2109263129041575949</link>
       <description>オオタトオル: 広告対策で NextDNS を使っていると、ロケーションがこんな感じになるみたい。 特にProxy噛ましているわけではないけど。 https://t.co/2LI5pFbIf9</description>
@@ -255,27 +276,6 @@
       <description>我が心の呪い【カース・オブ・マイハート】: nextdns いい感じ。 もう少し使ってみて良さそうなら有料プラン買おう。 1year2.5kで安いし。</description>
       <pubDate>Tue, 22 Sep 2026 02:21:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cocoa6874/status/2102221743452795212</guid>
-    </item>
-    <item>
-      <title>NextDNS のクエリ数カウントがよくわからんな、百万クエリ超えてるのに警告出ないなと思ってたら、ブロッククエリが30万超えたら漸く出てきたけど、どうもブロッククエリ数基準でもなさそうだし</title>
-      <link>https://x.com/cetacea/status/2101952581044260974</link>
-      <description>🌊🐳🐋🐬: NextDNS のクエリ数カウントがよくわからんな、百万クエリ超えてるのに警告出ないなと思ってたら、ブロッククエリが30万超えたら漸く出てきたけど、どうもブロッククエリ数基準でもなさそうだし</description>
-      <pubDate>Mon, 21 Sep 2026 08:32:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cetacea/status/2101952581044260974</guid>
-    </item>
-    <item>
-      <title>最近 NextDNS のアップデートがされていてブロック項目が増えてるのでadguard dnsより簡単で便利な気がする あまり誤爆も少ないのでパソコンは NextDNS に移行してしばらく様子見</title>
-      <link>https://x.com/imabarizine/status/2101857216886383084</link>
-      <description>IMABARIxZINE: 最近 NextDNS のアップデートがされていてブロック項目が増えてるのでadguard dnsより簡単で便利な気がする あまり誤爆も少ないのでパソコンは NextDNS に移行してしばらく様子見</description>
-      <pubDate>Mon, 21 Sep 2026 02:13:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imabarizine/status/2101857216886383084</guid>
-    </item>
-    <item>
-      <title>openwrtに nextdns cliを入れた いままでluci-app-https-dns-proxyを入れて nextdns を設定してたけど ルーターのアップデートのついでに試しに nextdns cliを入れたらちゃんとキャッシュが効いて Adguard Homeの並列リクエストぐらいには効果がありそう</title>
-      <link>https://x.com/imabarizine/status/2100597598147268728</link>
-      <description>IMABARIxZINE: openwrtに nextdns cliを入れた いままでluci-app-https-dns-proxyを入れて nextdns を設定してたけど ルーターのアップデートのついでに試しに nextdns cliを入れたらちゃんとキャッシュが効いて Adguard Homeの並列リクエストぐらいには効果がありそう</description>
-      <pubDate>Thu, 17 Sep 2026 14:47:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imabarizine/status/2100597598147268728</guid>
     </item>
   </channel>
 </rss>

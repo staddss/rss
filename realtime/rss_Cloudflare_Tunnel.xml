@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>よっしゃ。 CloudFlare Tunnel 経由でローカルのPaseo MCP WrapperにChatGPTから接続できた。 これで勝つる。 https://t.co/A6oBONOiXO</title>
+      <link>https://x.com/Malicha_45/status/2109845613902963022</link>
+      <description>Malicha.45: よっしゃ。 CloudFlare Tunnel 経由でローカルのPaseo MCP WrapperにChatGPTから接続できた。 これで勝つる。 https://t.co/A6oBONOiXO</description>
+      <pubDate>Tue, 13 Oct 2026 03:16:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Malicha_45/status/2109845613902963022</guid>
+    </item>
+    <item>
+      <title>セルフホスト、個人開発者こそ取り入れるべきだと実感してます。クラウドの従量課金に怯えず、自分のVPSで気軽に検証できるのが最高です。 ・Docker Composeでまとめて管理 ・ Cloudflare Tunnel で安全に外部公開 ・バックアップ自動化は絶対必須 小さく始めて育てていく感覚、たまりません🔥</title>
+      <link>https://x.com/kygo_coding/status/2109796371566039455</link>
+      <description>カイゴ | AI駆動エンジニア: セルフホスト、個人開発者こそ取り入れるべきだと実感してます。クラウドの従量課金に怯えず、自分のVPSで気軽に検証できるのが最高です。 ・Docker Composeでまとめて管理 ・ Cloudflare Tunnel で安全に外部公開 ・バックアップ自動化は絶対必須 小さく始めて育てていく感覚、たまりません🔥</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kygo_coding/status/2109796371566039455</guid>
+    </item>
+    <item>
       <title>cloudflare tunnel で非常用sshという名の脆弱なポイントを用意した．</title>
       <link>https://x.com/t3u_tsu/status/2109755591048757597</link>
       <description>t3u: cloudflare tunnel で非常用sshという名の脆弱なポイントを用意した．</description>
@@ -262,20 +276,6 @@
       <description>結 v11: 個人的には今どこどこのispでもルーターでポートフォワードできるんだしそれで公開してoidc認証使ってほしいそのために大層な実装をしてるのにネットワーク環境でポートフォワードできなくても cloudflare tunnel とかあるし</description>
       <pubDate>Tue, 06 Oct 2026 06:46:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5yuim/status/2107361834043048055</guid>
-    </item>
-    <item>
-      <title>@asahiVRC Cloudflare Tunnel を使うのが一番楽ですね VPNだとバッテリー食うし都度オンにするのも面倒だったりするので ただ、その分外部から攻撃されるリスクはもちろん高まるので、パスワードを強固なものにしたりCloudflare側の設定で接続元のIPを日本に限定したりしておくとかなり安全に運用できると思います</title>
-      <link>https://x.com/ogatomo21/status/2107149846130065508</link>
-      <description>Tomoya Ogawa (小川 智也) | OgaTomo Systems: @asahiVRC Cloudflare Tunnel を使うのが一番楽ですね VPNだとバッテリー食うし都度オンにするのも面倒だったりするので ただ、その分外部から攻撃されるリスクはもちろん高まるので、パスワードを強固なものにしたりCloudflare側の設定で接続元のIPを日本に限定したりしておくとかなり安全に運用できると思います</description>
-      <pubDate>Mon, 05 Oct 2026 16:44:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ogatomo21/status/2107149846130065508</guid>
-    </item>
-    <item>
-      <title>無料のDDNSサービス+ Cloudflare Tunnel の組み合わせはいいぞ</title>
-      <link>https://x.com/komepiri1234/status/2107096624925421682</link>
-      <description>こめぴり: 無料のDDNSサービス+ Cloudflare Tunnel の組み合わせはいいぞ</description>
-      <pubDate>Mon, 05 Oct 2026 13:12:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/komepiri1234/status/2107096624925421682</guid>
     </item>
   </channel>
 </rss>

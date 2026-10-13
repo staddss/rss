@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/septendec/status/2109517319051641299</guid>
     </item>
     <item>
+      <title>Minisforum S5 面白そうかも。Windows を入れて HDD ケースを繋いで、NAS+NW ドライブ構成にしたうえで Backblaze でバックアップ取得とか組めるとストレージの集約ができそう。</title>
+      <link>https://x.com/septendec/status/2109511694464729456</link>
+      <description>septendec: Minisforum S5 面白そうかも。Windows を入れて HDD ケースを繋いで、NAS+NW ドライブ構成にしたうえで Backblaze でバックアップ取得とか組めるとストレージの集約ができそう。</description>
+      <pubDate>Mon, 12 Oct 2026 05:09:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/septendec/status/2109511694464729456</guid>
+    </item>
+    <item>
       <title>金を出す気があって、本気で対災害込みで考えるなら、Amazon S3 Glacier Deep Archive とか Backblaze B2 に暗号化バックアップも並列すれば良いし、物理バックアップを遠隔の家族か友人や倉庫で管理すれば良いし。 金さえ出すなら安全なバックアップ環境なんかいくらでも個人でもできるからね</title>
       <link>https://x.com/makudoru/status/2109411652206817311</link>
       <description>nashu: 金を出す気があって、本気で対災害込みで考えるなら、Amazon S3 Glacier Deep Archive とか Backblaze B2 に暗号化バックアップも並列すれば良いし、物理バックアップを遠隔の家族か友人や倉庫で管理すれば良いし。 金さえ出すなら安全なバックアップ環境なんかいくらでも個人でもできるからね</description>
@@ -171,13 +178,6 @@
       <description>ジャンクマン: 配信予定が急遽変更になってしまい本当に申し訳ありません PCが不調でデータ消失が怖いので 以前から検討していたバックアップサービス「 Backblaze 」を遂に導入しました 現在PCに接続している全ドライブをバックアップ作業中 使い勝手良さそうなので、無料期間終わったら 年間プランに入るつもりです https://t.co/zbLjgweZfm</description>
       <pubDate>Thu, 17 Sep 2026 11:41:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JUNKMAN5555/status/2100550747712839961</guid>
-    </item>
-    <item>
-      <title>これの backblaze バージョンで仕組み作っとこうかな。超低額でいけそう https://t.co/yWBBRl6sCZ</title>
-      <link>https://x.com/HACKsaw_xxx/status/2098999534357790995</link>
-      <description>ふじさわ | HACKsaw: これの backblaze バージョンで仕組み作っとこうかな。超低額でいけそう https://t.co/yWBBRl6sCZ</description>
-      <pubDate>Sun, 13 Sep 2026 04:57:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/HACKsaw_xxx/status/2098999534357790995</guid>
     </item>
   </channel>
 </rss>

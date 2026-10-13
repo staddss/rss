@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone とさくらのオブジェクトストレージ組み合わせて自動で定期的に重めのデータのバックアップを取る運用始めてみたけど便利だな 割と低コストだし柔軟性もあっていい感じ</title>
+      <link>https://x.com/kneas_KH/status/2109569067715891390</link>
+      <description>ニース: rclone とさくらのオブジェクトストレージ組み合わせて自動で定期的に重めのデータのバックアップを取る運用始めてみたけど便利だな 割と低コストだし柔軟性もあっていい感じ</description>
+      <pubDate>Mon, 12 Oct 2026 08:57:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kneas_KH/status/2109569067715891390</guid>
+    </item>
+    <item>
       <title>大量のファイルを別の場所へ運ぶ処理が途中で落ちると、再試行の回数を増やして様子を見る、という置き方になる。ところがログに出てくる再試行の行数は、こちらが指定した回数と合わないことがある。 rclone 公式のフラグ解説を読むと、再試行という同じ語が2つの別の階層に割り当てられていた。</title>
       <link>https://x.com/nao_aifounder/status/2109080940903538956</link>
       <description>N | AI×連続起業家: 大量のファイルを別の場所へ運ぶ処理が途中で落ちると、再試行の回数を増やして様子を見る、という置き方になる。ところがログに出てくる再試行の行数は、こちらが指定した回数と合わないことがある。 rclone 公式のフラグ解説を読むと、再試行という同じ語が2つの別の階層に割り当てられていた。</description>
