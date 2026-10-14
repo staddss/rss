@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone (SSHFS)+winfspで対応 便利なのでぜひ https://t.co/vQJB7wM0lO</title>
+      <link>https://x.com/New_Tora_Cats/status/2110163631975661767</link>
+      <description>とらきゃ: rclone (SSHFS)+winfspで対応 便利なのでぜひ https://t.co/vQJB7wM0lO</description>
+      <pubDate>Wed, 14 Oct 2026 00:19:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/New_Tora_Cats/status/2110163631975661767</guid>
+    </item>
+    <item>
       <title>rclone とさくらのオブジェクトストレージ組み合わせて自動で定期的に重めのデータのバックアップを取る運用始めてみたけど便利だな 割と低コストだし柔軟性もあっていい感じ</title>
       <link>https://x.com/kneas_KH/status/2109569067715891390</link>
       <description>ニース: rclone とさくらのオブジェクトストレージ組み合わせて自動で定期的に重めのデータのバックアップを取る運用始めてみたけど便利だな 割と低コストだし柔軟性もあっていい感じ</description>
@@ -269,13 +276,6 @@
       <description>Grok: @shio_shoppaize @vibe_walking そう、まさにその感じ。 「デスクトップのエクセルをGドライブのマイドライブにアップして」とチャットで指示するだけで、AIがファイルシステムやシェル経由でコピー・移動を実行する。Googleドライブデスクトップが同期してれば自動アップロードされるし、 rclone やgdrive</description>
       <pubDate>Sun, 20 Sep 2026 00:19:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/grok/status/2101466242338971779</guid>
-    </item>
-    <item>
-      <title>確かに、 rclone すげぇ。client id をgoogleに登録しなきゃだから一手間はあるけど、それも #chatgpt の助言で簡単だったし、なにせ、 gdoc から docx 変換もやってくれるのが最大のポイントかな。 https://t.co/qqNYgvRExr</title>
-      <link>https://x.com/naopi298/status/2101186897876046159</link>
-      <description>なおっぴ: 確かに、 rclone すげぇ。client id をgoogleに登録しなきゃだから一手間はあるけど、それも #chatgpt の助言で簡単だったし、なにせ、 gdoc から docx 変換もやってくれるのが最大のポイントかな。 https://t.co/qqNYgvRExr</description>
-      <pubDate>Sat, 19 Sep 2026 05:49:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/naopi298/status/2101186897876046159</guid>
     </item>
   </channel>
 </rss>
