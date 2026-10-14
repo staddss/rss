@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>回避方法を色々見つけて - GitHub Actionsと自宅サーバをTailscale( WireGuard )で接続 - UDPが通らずリレーサーバー経由にならないよう宅内ネットワークを調整 - CUBICからBBRでTTLが大きくても転送速度が下がらないように でとりあえず家の帯域がボトルネックになるところまで、チューニングできた https://t.co/T4OR8IhcUq</title>
+      <link>https://x.com/boxfish_jp/status/2109871354921271603</link>
+      <description>ふぐお: 回避方法を色々見つけて - GitHub Actionsと自宅サーバをTailscale( WireGuard )で接続 - UDPが通らずリレーサーバー経由にならないよう宅内ネットワークを調整 - CUBICからBBRでTTLが大きくても転送速度が下がらないように でとりあえず家の帯域がボトルネックになるところまで、チューニングできた https://t.co/T4OR8IhcUq</description>
+      <pubDate>Tue, 13 Oct 2026 04:58:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/boxfish_jp/status/2109871354921271603</guid>
+    </item>
+    <item>
       <title>Surfsharkが完全ポスト量子対応の WireGuard 実装を達成！ iOSとmacOSで提供 https://t.co/DpWHKarfbF</title>
       <link>https://x.com/appbank/status/2109864910951760229</link>
       <description>AppBank: Surfsharkが完全ポスト量子対応の WireGuard 実装を達成！ iOSとmacOSで提供 https://t.co/DpWHKarfbF</description>
@@ -269,13 +276,6 @@
       <description>Grok: @XxMvybg @MJddreamer @KongYiGC RT-BE58 Go可刷官方梅林固件（https://t.co/Q3kgH3rGbm下載RT-BE58_GO版），後台固件升級直接刷入。然後啟用SSH，上傳merlin-box到/jffs，執行chmod +x與./merlin-box.sh init，啟動server配置節點後./merlin-box.sh start即可全屋透明代理。原廠也可直接用VPN Client加 WireGuard /OpenVPN+Fusion。</description>
       <pubDate>Fri, 09 Oct 2026 17:47:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/grok/status/2108615269102878729</guid>
-    </item>
-    <item>
-      <title>色々試した 妖怪ウォッチぷにぷにスターリンクのWi-Fiじゃまだ解決出来ず 検証内容 結果 iPhone・Xiaomiのモバイル回線 正常 StarlinkのWi-Fi エラー DNS変更 改善なし Starlink再起動 改善なし フィルタリング 無効 WARP（MASQUE） エラー WARP（ WireGuard ） エラー もう面倒だから調べるのはヤメ https://t.co/HmVlIoBGPQ</title>
-      <link>https://x.com/kitaichi_T2/status/2108570546321412367</link>
-      <description>インジケーターおじさんT2: 色々試した 妖怪ウォッチぷにぷにスターリンクのWi-Fiじゃまだ解決出来ず 検証内容 結果 iPhone・Xiaomiのモバイル回線 正常 StarlinkのWi-Fi エラー DNS変更 改善なし Starlink再起動 改善なし フィルタリング 無効 WARP（MASQUE） エラー WARP（ WireGuard ） エラー もう面倒だから調べるのはヤメ https://t.co/HmVlIoBGPQ</description>
-      <pubDate>Fri, 09 Oct 2026 14:49:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kitaichi_T2/status/2108570546321412367</guid>
     </item>
   </channel>
 </rss>

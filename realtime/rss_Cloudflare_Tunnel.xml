@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@59Kja 可能か不可能かでいえば可能 ただ相応の重めの処理が継続されるのであれば素直にミニPCを買うのが良いかと 自宅サーバーで公開も構わないと思いますが個人的には生IPを晒したくないので CDNを挟んで使う方が良いです Cloudflare Tunnel を利用したりして</title>
+      <link>https://x.com/Toshinari1993/status/2109874420273799625</link>
+      <description>横山 インフラエンジニア系コンサルタント: @59Kja 可能か不可能かでいえば可能 ただ相応の重めの処理が継続されるのであれば素直にミニPCを買うのが良いかと 自宅サーバーで公開も構わないと思いますが個人的には生IPを晒したくないので CDNを挟んで使う方が良いです Cloudflare Tunnel を利用したりして</description>
+      <pubDate>Tue, 13 Oct 2026 05:10:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Toshinari1993/status/2109874420273799625</guid>
+    </item>
+    <item>
       <title>よっしゃ。 CloudFlare Tunnel 経由でローカルのPaseo MCP WrapperにChatGPTから接続できた。 これで勝つる。 https://t.co/A6oBONOiXO</title>
       <link>https://x.com/Malicha_45/status/2109845613902963022</link>
       <description>Malicha.45: よっしゃ。 CloudFlare Tunnel 経由でローカルのPaseo MCP WrapperにChatGPTから接続できた。 これで勝つる。 https://t.co/A6oBONOiXO</description>
@@ -269,13 +276,6 @@
       <description>結 v11: これってインフラ絡むと無理なんすよ最大限譲歩して cloudflare tunnel かな</description>
       <pubDate>Tue, 06 Oct 2026 07:22:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5yuim/status/2107370906964386135</guid>
-    </item>
-    <item>
-      <title>個人的には今どこどこのispでもルーターでポートフォワードできるんだしそれで公開してoidc認証使ってほしいそのために大層な実装をしてるのにネットワーク環境でポートフォワードできなくても cloudflare tunnel とかあるし</title>
-      <link>https://x.com/5yuim/status/2107361834043048055</link>
-      <description>結 v11: 個人的には今どこどこのispでもルーターでポートフォワードできるんだしそれで公開してoidc認証使ってほしいそのために大層な実装をしてるのにネットワーク環境でポートフォワードできなくても cloudflare tunnel とかあるし</description>
-      <pubDate>Tue, 06 Oct 2026 06:46:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2107361834043048055</guid>
     </item>
   </channel>
 </rss>
