@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>HomeGrid VPN の macOS 版を公開しました。 ・Apple シリコン（M1 以降）・macOS 15 以降 ・ダッシュボードで発行したトークンを入れるだけで接続 ・新しい版が出たら、アプリがお知らせします ダウンロードは公式サイトの「ダウンロード」ページから。Intel の Mac は、引き続き WireGuard</title>
+      <link>https://x.com/homegrid_vpn/status/2110715790773403969</link>
+      <description>HomeGrid VPN: HomeGrid VPN の macOS 版を公開しました。 ・Apple シリコン（M1 以降）・macOS 15 以降 ・ダッシュボードで発行したトークンを入れるだけで接続 ・新しい版が出たら、アプリがお知らせします ダウンロードは公式サイトの「ダウンロード」ページから。Intel の Mac は、引き続き WireGuard</description>
+      <pubDate>Thu, 15 Oct 2026 12:53:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/homegrid_vpn/status/2110715790773403969</guid>
+    </item>
+    <item>
       <title>スマホの Discord で「VPN サーバーを起動して」と送ると、Hermes Agent が Vultr に WireGuard のサーバーを作って、確かめてから返事をくれる仕組みを作りました。 出先の Wi-Fi で使いたいときだけ起動しています。 https://t.co/23BGBqKtpp #HermesAgent # WireGuard</title>
       <link>https://x.com/seedflower_dev/status/2110396442552705412</link>
       <description>Seedflower（管理人）: スマホの Discord で「VPN サーバーを起動して」と送ると、Hermes Agent が Vultr に WireGuard のサーバーを作って、確かめてから返事をくれる仕組みを作りました。 出先の Wi-Fi で使いたいときだけ起動しています。 https://t.co/23BGBqKtpp #HermesAgent # WireGuard</description>
@@ -269,13 +276,6 @@
       <description>ippei: @nishikawa5515 上流にDNSプロシキを建てられて53ポートを全部上流側で解決する様に仕向けられると中だけでの解決が難しい気がするけど、外部にブロックされないポートで wireguard サーバでも立ててトネリングしたのかな…。</description>
       <pubDate>Sat, 10 Oct 2026 16:26:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/itoippei/status/2108957423415533778</guid>
-    </item>
-    <item>
-      <title>WireGuard のセットアップできてホクホク</title>
-      <link>https://x.com/shunrin824/status/2108862146214027415</link>
-      <description>しゅんりん＠世に文月のあらんことを: WireGuard のセットアップできてホクホク</description>
-      <pubDate>Sat, 10 Oct 2026 10:08:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shunrin824/status/2108862146214027415</guid>
     </item>
   </channel>
 </rss>
