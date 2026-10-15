@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Googlebook%22</link>
     <description>Latest search results for '&quot;Googlebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@tk4_jj 読んでもらってありがとうございます！ Pixelデスクトップモードがベースになっていますね。 メニューはまるっきり一緒です。 Pixelとの連携のスムーズさピカイチ。 Googlebook はスマホをベースにラップトップも使いたい人向けのパソコンと感じました。 Linuxはがんばって欲しいｗ</title>
+      <link>https://x.com/pcefancom/status/2110848054001832354</link>
+      <description>タケイマコト: @tk4_jj 読んでもらってありがとうございます！ Pixelデスクトップモードがベースになっていますね。 メニューはまるっきり一緒です。 Pixelとの連携のスムーズさピカイチ。 Googlebook はスマホをベースにラップトップも使いたい人向けのパソコンと感じました。 Linuxはがんばって欲しいｗ</description>
+      <pubDate>Thu, 15 Oct 2026 21:39:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pcefancom/status/2110848054001832354</guid>
+    </item>
+    <item>
+      <title>Googlebook のLinuxターミナルは、AIエージェントにsudo権限を与えながらも、すべての操作をDebian Linux VMの内部に閉じ込めることで「ホストOSを壊さない」設計を実現しています。 https://t.co/EKBFmTw7Sb</title>
+      <link>https://x.com/techfeedapp/status/2110845592389976234</link>
+      <description>TechFeed公式: Googlebook のLinuxターミナルは、AIエージェントにsudo権限を与えながらも、すべての操作をDebian Linux VMの内部に閉じ込めることで「ホストOSを壊さない」設計を実現しています。 https://t.co/EKBFmTw7Sb</description>
+      <pubDate>Thu, 15 Oct 2026 21:29:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techfeedapp/status/2110845592389976234</guid>
+    </item>
+    <item>
       <title>技適マークってそういやどうなのでしょう。 Googlebook 本体には見当たらなかった。</title>
       <link>https://x.com/pcefancom/status/2110745407307620688</link>
       <description>タケイマコト: 技適マークってそういやどうなのでしょう。 Googlebook 本体には見当たらなかった。</description>
@@ -262,20 +276,6 @@
       <description>タケイマコト: 【 Googlebook 】一部 Googlebook のOLEDで黒がグレー表示、Googleが原因特定と修正を準備中 - GCジャーナル https://t.co/kMotya63aZ</description>
       <pubDate>Thu, 15 Oct 2026 01:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/pcefancom/status/2110537030166045107</guid>
-    </item>
-    <item>
-      <title>【 Googlebook 】Chrome 155で Googlebook の任意Webページがウィンドウ付きWebアプリ化可能に - GCジャーナル https://t.co/DhbBJCOk5g</title>
-      <link>https://x.com/pcefancom/status/2110536011868700939</link>
-      <description>タケイマコト: 【 Googlebook 】Chrome 155で Googlebook の任意Webページがウィンドウ付きWebアプリ化可能に - GCジャーナル https://t.co/DhbBJCOk5g</description>
-      <pubDate>Thu, 15 Oct 2026 00:59:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pcefancom/status/2110536011868700939</guid>
-    </item>
-    <item>
-      <title>ChromeOSが2034年でサポート終了になった場合、ChromeOS Flexの立ち位置はどうなるのか https://t.co/Sv0Z5Sh0R0 これはホントそう思うわ。 寧ろさっさと Googlebook OS Flex (?) を出して、PC 環境に広めてしまう方が成功すると思うんだが……</title>
-      <link>https://x.com/hafucco/status/2110529782014456042</link>
-      <description>はふ: ChromeOSが2034年でサポート終了になった場合、ChromeOS Flexの立ち位置はどうなるのか https://t.co/Sv0Z5Sh0R0 これはホントそう思うわ。 寧ろさっさと Googlebook OS Flex (?) を出して、PC 環境に広めてしまう方が成功すると思うんだが……</description>
-      <pubDate>Thu, 15 Oct 2026 00:34:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hafucco/status/2110529782014456042</guid>
     </item>
   </channel>
 </rss>
