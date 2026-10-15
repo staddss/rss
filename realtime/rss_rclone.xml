@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>registry を on-failure の再起動設定で動かしても、panic のあとコンテナは running のまま、再起動の回数は 0 でした( rclone 1.75.1 と 1.75.2、registry 2 と 3)。ログには「http: panic serving」。この測定では、panic はリクエストごとに捕捉されていました。</title>
+      <link>https://x.com/tane_log/status/2110594164220158334</link>
+      <description>tanelog: registry を on-failure の再起動設定で動かしても、panic のあとコンテナは running のまま、再起動の回数は 0 でした( rclone 1.75.1 と 1.75.2、registry 2 と 3)。ログには「http: panic serving」。この測定では、panic はリクエストごとに捕捉されていました。</description>
+      <pubDate>Thu, 15 Oct 2026 04:50:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tane_log/status/2110594164220158334</guid>
+    </item>
+    <item>
+      <title>registry の保存先に rclone serve s3 を使う構成で、push のあとに skopeo inspect --tls-verify=false docker://&lt;registry&gt;:5000/alpine:push を実行すると、manifest unknown でした( rclone 1.75.1、registry:2)。push したイメージが保存されていない、という確かめ方です。</title>
+      <link>https://x.com/tane_log/status/2110594130585989405</link>
+      <description>tanelog: registry の保存先に rclone serve s3 を使う構成で、push のあとに skopeo inspect --tls-verify=false docker://&lt;registry&gt;:5000/alpine:push を実行すると、manifest unknown でした( rclone 1.75.1、registry:2)。push したイメージが保存されていない、という確かめ方です。</description>
+      <pubDate>Thu, 15 Oct 2026 04:50:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tane_log/status/2110594130585989405</guid>
+    </item>
+    <item>
+      <title>rclone serve s3 を Docker registry の保存先にすると、push が nil pointer の panic で失敗しました。 rclone 1.75.1 と 1.75.2、registry 2 と 3 の4通りすべてで同じ。SeaweedFS では成功でした。 https://t.co/gLrnzvPaj9 # rclone #Docker</title>
+      <link>https://x.com/tane_log/status/2110594098625417508</link>
+      <description>tanelog: rclone serve s3 を Docker registry の保存先にすると、push が nil pointer の panic で失敗しました。 rclone 1.75.1 と 1.75.2、registry 2 と 3 の4通りすべてで同じ。SeaweedFS では成功でした。 https://t.co/gLrnzvPaj9 # rclone #Docker</description>
+      <pubDate>Thu, 15 Oct 2026 04:50:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tane_log/status/2110594098625417508</guid>
+    </item>
+    <item>
       <title>rclone (SSHFS)+winfspで対応 便利なのでぜひ https://t.co/vQJB7wM0lO</title>
       <link>https://x.com/New_Tora_Cats/status/2110163631975661767</link>
       <description>とらきゃ: rclone (SSHFS)+winfspで対応 便利なのでぜひ https://t.co/vQJB7wM0lO</description>
@@ -255,27 +276,6 @@
       <description>Namiki Associates K. K.: 商店街のIT環境整備、本日の小ネタ。 NAS約90GBをGoogle Workspaceへバックアップ中、まさかの商店街一帯が停電。 15分ほどで復電し、NASも復帰。 Linux PCからNASをSMB2でRead Onlyマウントし直し、Google Driveへの rclone も再開。 最後は nohup rclone copy ... &amp;</description>
       <pubDate>Mon, 21 Sep 2026 13:07:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NamikiAssoc/status/2102021996653801857</guid>
-    </item>
-    <item>
-      <title>Rclone 使って1つのフォルダを複数のクラウドサービスに分散ULできることが分かった。 試してみて技術的に面白かったけど自分的に意味があるかというと……。 そもそも10TBオーバーのおうちクラウドにNextcloudでアクセスできる今、数十GBあったところで誤差。</title>
-      <link>https://x.com/makotofd2/status/2101987584046137470</link>
-      <description>法条真琴@次どこ行こう？: Rclone 使って1つのフォルダを複数のクラウドサービスに分散ULできることが分かった。 試してみて技術的に面白かったけど自分的に意味があるかというと……。 そもそも10TBオーバーのおうちクラウドにNextcloudでアクセスできる今、数十GBあったところで誤差。</description>
-      <pubDate>Mon, 21 Sep 2026 10:51:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/makotofd2/status/2101987584046137470</guid>
-    </item>
-    <item>
-      <title>この週末(連休)、結局ギョームで触ったことの振り返りしかやってねーな... いやZabbixは昨年の今頃触ったネタの掘り直しなんだが rsync rclone zabbix snmptrap 、あと定期的に記憶が飛ぶrsyslog/logrotate 周り...ダメだねー歳だねー orz</title>
-      <link>https://x.com/g_plains/status/2101965797019316361</link>
-      <description>こてつ(ONO,Tetsuo): この週末(連休)、結局ギョームで触ったことの振り返りしかやってねーな... いやZabbixは昨年の今頃触ったネタの掘り直しなんだが rsync rclone zabbix snmptrap 、あと定期的に記憶が飛ぶrsyslog/logrotate 周り...ダメだねー歳だねー orz</description>
-      <pubDate>Mon, 21 Sep 2026 09:24:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2101965797019316361</guid>
-    </item>
-    <item>
-      <title>@shio_shoppaize @vibe_walking そう、まさにその感じ。 「デスクトップのエクセルをGドライブのマイドライブにアップして」とチャットで指示するだけで、AIがファイルシステムやシェル経由でコピー・移動を実行する。Googleドライブデスクトップが同期してれば自動アップロードされるし、 rclone やgdrive</title>
-      <link>https://x.com/grok/status/2101466242338971779</link>
-      <description>Grok: @shio_shoppaize @vibe_walking そう、まさにその感じ。 「デスクトップのエクセルをGドライブのマイドライブにアップして」とチャットで指示するだけで、AIがファイルシステムやシェル経由でコピー・移動を実行する。Googleドライブデスクトップが同期してれば自動アップロードされるし、 rclone やgdrive</description>
-      <pubDate>Sun, 20 Sep 2026 00:19:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2101466242338971779</guid>
     </item>
   </channel>
 </rss>

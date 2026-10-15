@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/seedflower_dev/status/2110396442552705412</guid>
     </item>
     <item>
+      <title>実は検閲とかで Wireguard 弾かれたりする某国とかもあるんだけどグレートなファイアウォールってこういうアプローチで止めれると思っている runetale obfs対応予定です https://t.co/DZRNT2Bs3S</title>
+      <link>https://x.com/shintaoku/status/2110209662700360145</link>
+      <description>gx14ac: 実は検閲とかで Wireguard 弾かれたりする某国とかもあるんだけどグレートなファイアウォールってこういうアプローチで止めれると思っている runetale obfs対応予定です https://t.co/DZRNT2Bs3S</description>
+      <pubDate>Wed, 14 Oct 2026 03:22:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shintaoku/status/2110209662700360145</guid>
+    </item>
+    <item>
       <title>LastPass プレミアムが欠かせないネット生活を送る私にとっては月4$の追加で完璧なノーログVPNへの常時接続が可能になるのならこれは良い話に思える。 早めにOpenVPNや WireGuard 、PPTPに対応してくれるなら真剣にプラン移行を考えますよ。 #LastPass https://t.co/0ZgBMnhecT</title>
       <link>https://x.com/mofurian/status/2110056989338599781</link>
       <description>もふりあん: LastPass プレミアムが欠かせないネット生活を送る私にとっては月4$の追加で完璧なノーログVPNへの常時接続が可能になるのならこれは良い話に思える。 早めにOpenVPNや WireGuard 、PPTPに対応してくれるなら真剣にプラン移行を考えますよ。 #LastPass https://t.co/0ZgBMnhecT</description>
@@ -269,13 +276,6 @@
       <description>しゅんりん＠世に文月のあらんことを: WireGuard のセットアップできてホクホク</description>
       <pubDate>Sat, 10 Oct 2026 10:08:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shunrin824/status/2108862146214027415</guid>
-    </item>
-    <item>
-      <title>Wireguard ってよくわからんから、Tailscale 使ってる側面もあって、じゃあ Wireguard を理解しても Tailscale はやめるか？っていわれると、便利だから使っちゃうと思うんだよね。でも、これ、侵入されたら厄介だぞ？</title>
-      <link>https://x.com/SeahalJa/status/2108759268682002938</link>
-      <description>SEAHAL(Ja): Wireguard ってよくわからんから、Tailscale 使ってる側面もあって、じゃあ Wireguard を理解しても Tailscale はやめるか？っていわれると、便利だから使っちゃうと思うんだよね。でも、これ、侵入されたら厄介だぞ？</description>
-      <pubDate>Sat, 10 Oct 2026 03:19:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2108759268682002938</guid>
     </item>
   </channel>
 </rss>
