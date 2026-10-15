@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/homegrid_vpn/status/2110715790773403969</guid>
     </item>
     <item>
+      <title>@Chenfacai0 WireGuard 怎么获取</title>
+      <link>https://x.com/pengshisan152/status/2110541658127573361</link>
+      <description>雨十三: @Chenfacai0 WireGuard 怎么获取</description>
+      <pubDate>Thu, 15 Oct 2026 01:21:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pengshisan152/status/2110541658127573361</guid>
+    </item>
+    <item>
       <title>スマホの Discord で「VPN サーバーを起動して」と送ると、Hermes Agent が Vultr に WireGuard のサーバーを作って、確かめてから返事をくれる仕組みを作りました。 出先の Wi-Fi で使いたいときだけ起動しています。 https://t.co/23BGBqKtpp #HermesAgent # WireGuard</title>
       <link>https://x.com/seedflower_dev/status/2110396442552705412</link>
       <description>Seedflower（管理人）: スマホの Discord で「VPN サーバーを起動して」と送ると、Hermes Agent が Vultr に WireGuard のサーバーを作って、確かめてから返事をくれる仕組みを作りました。 出先の Wi-Fi で使いたいときだけ起動しています。 https://t.co/23BGBqKtpp #HermesAgent # WireGuard</description>
@@ -269,13 +276,6 @@
       <description>ippei: @Nori0819 ラズパイも省電力で良いですね！ 私はubuntu26入れてLEDで稼働状況を示してモニタレス運用出来るようにし、overlay fsでいきなり電源切ってもOKなLAN内 WireGuard クライアントをラズパイで作って客先に入れました。小さくてカワイイのでうちにも１台欲しいなと思いました。</description>
       <pubDate>Sun, 11 Oct 2026 00:13:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/itoippei/status/2109074917002203314</guid>
-    </item>
-    <item>
-      <title>@nishikawa5515 上流にDNSプロシキを建てられて53ポートを全部上流側で解決する様に仕向けられると中だけでの解決が難しい気がするけど、外部にブロックされないポートで wireguard サーバでも立ててトネリングしたのかな…。</title>
-      <link>https://x.com/itoippei/status/2108957423415533778</link>
-      <description>ippei: @nishikawa5515 上流にDNSプロシキを建てられて53ポートを全部上流側で解決する様に仕向けられると中だけでの解決が難しい気がするけど、外部にブロックされないポートで wireguard サーバでも立ててトネリングしたのかな…。</description>
-      <pubDate>Sat, 10 Oct 2026 16:26:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itoippei/status/2108957423415533778</guid>
     </item>
   </channel>
 </rss>
