@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そんなことより先に Syncthing を使ってMac miniと MacBook Airでフォルダを同期させてMacBook Airでも同じようにAIを使えるようにしたい。</title>
+      <link>https://x.com/otomoto/status/2110385338120302889</link>
+      <description>otomoto: そんなことより先に Syncthing を使ってMac miniと MacBook Airでフォルダを同期させてMacBook Airでも同じようにAIを使えるようにしたい。</description>
+      <pubDate>Wed, 14 Oct 2026 15:00:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/otomoto/status/2110385338120302889</guid>
+    </item>
+    <item>
+      <title>Syncthing でEmacsで作成したorgファイルを同期しつつ、ファイルが同期されたらorg-publishで自動的に静的サイト作られるようにしてある。自分用Obsidianの最終形にしたい</title>
+      <link>https://x.com/dark_thiele/status/2110319889101799449</link>
+      <description>矢澪チール: Syncthing でEmacsで作成したorgファイルを同期しつつ、ファイルが同期されたらorg-publishで自動的に静的サイト作られるようにしてある。自分用Obsidianの最終形にしたい</description>
+      <pubDate>Wed, 14 Oct 2026 10:40:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dark_thiele/status/2110319889101799449</guid>
+    </item>
+    <item>
       <title>使いこなせなかった・長続きしなかったもの ・Notion(Obsidianとignisで良い) ・地元のLLM(ChatGPTでいい。どうせ検索使うし。なんかうまくいかないことが多すぎる気がする) ・瞑想(長続きしない) ・Nextcloud(クライアントのアプデが面倒。 Syncthing でよくね？) ・Zabbix・Grafana(定着せず)</title>
       <link>https://x.com/shigetoroku1010/status/2109543080559030504</link>
       <description>重藤 六🐸ガジェットブロガー: 使いこなせなかった・長続きしなかったもの ・Notion(Obsidianとignisで良い) ・地元のLLM(ChatGPTでいい。どうせ検索使うし。なんかうまくいかないことが多すぎる気がする) ・瞑想(長続きしない) ・Nextcloud(クライアントのアプデが面倒。 Syncthing でよくね？) ・Zabbix・Grafana(定着せず)</description>
@@ -262,20 +276,6 @@
       <description>ショウ・ザマ　lv.52: そしてDropboxみたいに2台のPC間で350万ファイルを同期させるとハングするみたいなのでフォルダの登録は片方のPCにしてA-B間は syncthing みたいなP2Pで同期させる方が良いらしい。 GeminiPro、クラウド5TB課金のオマケにしては良い仕事してくれる。 あとオマケのYouTubeのCM入らないのは神だ。</description>
       <pubDate>Mon, 21 Sep 2026 23:11:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shou__zama2/status/2102173910775271585</guid>
-    </item>
-    <item>
-      <title>@shotovim クラウドサービスは避けるようにAIに言われてしまうので、 syncthing 導入しました</title>
-      <link>https://x.com/sakashiiiii/status/2102128493140287982</link>
-      <description>🌺チェレステさかしー/Al/散歩/東京Uberエンジョイ勢: @shotovim クラウドサービスは避けるようにAIに言われてしまうので、 syncthing 導入しました</description>
-      <pubDate>Mon, 21 Sep 2026 20:11:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sakashiiiii/status/2102128493140287982</guid>
-    </item>
-    <item>
-      <title>ということで重い腰を上げてObsidianに syncthing を導入しました。かなり快適です。 https://t.co/NMS9YiqESr</title>
-      <link>https://x.com/shotovim/status/2102034704669286568</link>
-      <description>松濤Vimmer: ということで重い腰を上げてObsidianに syncthing を導入しました。かなり快適です。 https://t.co/NMS9YiqESr</description>
-      <pubDate>Mon, 21 Sep 2026 13:58:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shotovim/status/2102034704669286568</guid>
     </item>
   </channel>
 </rss>

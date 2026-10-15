@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>セキュリティ上の理由でNASを外部に解放してなかったけど cloudflare tunnel 使って公開すれば幾分ましだな。 やろうかな。</title>
+      <link>https://x.com/teslur/status/2110457801927729260</link>
+      <description>深堀哲史（育休）: セキュリティ上の理由でNASを外部に解放してなかったけど cloudflare tunnel 使って公開すれば幾分ましだな。 やろうかな。</description>
+      <pubDate>Wed, 14 Oct 2026 19:48:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teslur/status/2110457801927729260</guid>
+    </item>
+    <item>
+      <title>AWSのパブリックIPv4は、2024年2月から1個あたり1時間0.005ドルかかります。 付けっぱなしだと月3.6ドルほど。 Cloudflare Tunnel （外から入口を開けずに公開する仕組み）なら、IPv6だけのサーバーでもWeb公開できます。 小さな固定費ほど見直す価値あり。IPv4代、気にしてますか？ #AWS</title>
+      <link>https://x.com/bzroni/status/2110327285731692791</link>
+      <description>roni|クラウドを目指し始めた男: AWSのパブリックIPv4は、2024年2月から1個あたり1時間0.005ドルかかります。 付けっぱなしだと月3.6ドルほど。 Cloudflare Tunnel （外から入口を開けずに公開する仕組み）なら、IPv6だけのサーバーでもWeb公開できます。 小さな固定費ほど見直す価値あり。IPv4代、気にしてますか？ #AWS</description>
+      <pubDate>Wed, 14 Oct 2026 11:10:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bzroni/status/2110327285731692791</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel の裏で本当の IP を取って、怪しいアクセスを自動でブロックするまで https://t.co/vkdFd3oHwn #自宅サーバー #Cloudflare #Apache #セキュリティ #mod_remoteip</title>
       <link>https://x.com/falled_can/status/2110324991703331200</link>
       <description>落ちていたビール缶: Cloudflare Tunnel の裏で本当の IP を取って、怪しいアクセスを自動でブロックするまで https://t.co/vkdFd3oHwn #自宅サーバー #Cloudflare #Apache #セキュリティ #mod_remoteip</description>
@@ -262,20 +276,6 @@
       <description>abeshi: セキュリティも普通になります。 Cloudflare Tunnel は、ルーターのポート開放や固定IPアドレスを使わずに、自宅や社内のローカルサーバーを安全にインターネットへ公開できる無料のサービスです。 [1, 2] 主な特徴とメリット</description>
       <pubDate>Wed, 07 Oct 2026 09:40:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/abeshi_mark2/status/2107768005610639404</guid>
-    </item>
-    <item>
-      <title>@KARENE_210w Cloudflare Tunnel あれ便利だよね〜使いたいなと思ったけど移行めんどくてやってないw</title>
-      <link>https://x.com/kanaxpon/status/2107755141382443505</link>
-      <description>かなぽん: @KARENE_210w Cloudflare Tunnel あれ便利だよね〜使いたいなと思ったけど移行めんどくてやってないw</description>
-      <pubDate>Wed, 07 Oct 2026 08:49:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kanaxpon/status/2107755141382443505</guid>
-    </item>
-    <item>
-      <title>@kanaxpon かれねは cloudflare tunnel です 昔ポート開放（v4）してたけどセキュリティ心配で変更したよ</title>
-      <link>https://x.com/KARENE_210w/status/2107754747490865367</link>
-      <description>かれね: @kanaxpon かれねは cloudflare tunnel です 昔ポート開放（v4）してたけどセキュリティ心配で変更したよ</description>
-      <pubDate>Wed, 07 Oct 2026 08:47:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KARENE_210w/status/2107754747490865367</guid>
     </item>
   </channel>
 </rss>
