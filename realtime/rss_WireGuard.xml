@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ラボ内で、名前を引けて逆引きもできるまで小さくした最小インターネット空間にすると、こんな感じ。 個人的に大好きな推しのNginx, WireGuard が皆無になるのですよ :-) https://t.co/PY8T6Pl1Is https://t.co/5yhTPgDQr0</title>
+      <link>https://x.com/munepixyz/status/2110978661126197540</link>
+      <description>Munehiro Yamamoto: ラボ内で、名前を引けて逆引きもできるまで小さくした最小インターネット空間にすると、こんな感じ。 個人的に大好きな推しのNginx, WireGuard が皆無になるのですよ :-) https://t.co/PY8T6Pl1Is https://t.co/5yhTPgDQr0</description>
+      <pubDate>Fri, 16 Oct 2026 06:18:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/munepixyz/status/2110978661126197540</guid>
+    </item>
+    <item>
+      <title>LTEから Wireguard 通って自宅サーバーにSSHできることも確認したので、これでいつでも保守できるね💪 https://t.co/zzILWtGw0y</title>
+      <link>https://x.com/Yui0471/status/2110925718926610504</link>
+      <description>風庭ゆい: LTEから Wireguard 通って自宅サーバーにSSHできることも確認したので、これでいつでも保守できるね💪 https://t.co/zzILWtGw0y</description>
+      <pubDate>Fri, 16 Oct 2026 02:48:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Yui0471/status/2110925718926610504</guid>
+    </item>
+    <item>
+      <title>外出時のスマホ、 WireGuard いれて、DDNSで家サーバに接続して、Pi-hole噛ましてクソ広告を殲滅する。帰宅後に切るのが面倒、外出時にまたWG入れるのが面倒、どうにかならんのかってGPTに聞いたら、LANの内外でスプリットホライズンDNSにすればいいって教えてくれたのでやってみた。</title>
+      <link>https://x.com/GEEEEEK17/status/2110740046508863957</link>
+      <description>おい小池: 外出時のスマホ、 WireGuard いれて、DDNSで家サーバに接続して、Pi-hole噛ましてクソ広告を殲滅する。帰宅後に切るのが面倒、外出時にまたWG入れるのが面倒、どうにかならんのかってGPTに聞いたら、LANの内外でスプリットホライズンDNSにすればいいって教えてくれたのでやってみた。</description>
+      <pubDate>Thu, 15 Oct 2026 14:30:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/GEEEEEK17/status/2110740046508863957</guid>
+    </item>
+    <item>
       <title>HomeGrid VPN の macOS 版を公開しました。 ・Apple シリコン（M1 以降）・macOS 15 以降 ・ダッシュボードで発行したトークンを入れるだけで接続 ・新しい版が出たら、アプリがお知らせします ダウンロードは公式サイトの「ダウンロード」ページから。Intel の Mac は、引き続き WireGuard</title>
       <link>https://x.com/homegrid_vpn/status/2110715790773403969</link>
       <description>HomeGrid VPN: HomeGrid VPN の macOS 版を公開しました。 ・Apple シリコン（M1 以降）・macOS 15 以降 ・ダッシュボードで発行したトークンを入れるだけで接続 ・新しい版が出たら、アプリがお知らせします ダウンロードは公式サイトの「ダウンロード」ページから。Intel の Mac は、引き続き WireGuard</description>
@@ -255,27 +276,6 @@
       <description>あまみや: RaspberryPi Pico WをQrioLockのBLE&lt;-&gt;Wi-Fiブリッジにするファームウェアできた。 Pico W単体でQrioをネットワーク、 WireGuard 、MQTT対応にできるので、公式ハブなしで公式ハブで出来ないようなHA統合もできる。 https://t.co/dnBUZctA31</description>
       <pubDate>Sun, 11 Oct 2026 04:34:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Am4app/status/2109140535105708360</guid>
-    </item>
-    <item>
-      <title>@shibanyan_1 ですね〜 横展開の防止と組み合わせつつ、が堅牢ですね TLSだと管理が重いので wireguard とかになるんですかね〜</title>
-      <link>https://x.com/___Tokino/status/2109113365977350549</link>
-      <description>ときの: @shibanyan_1 ですね〜 横展開の防止と組み合わせつつ、が堅牢ですね TLSだと管理が重いので wireguard とかになるんですかね〜</description>
-      <pubDate>Sun, 11 Oct 2026 02:46:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/___Tokino/status/2109113365977350549</guid>
-    </item>
-    <item>
-      <title>アヴェリア、 WireGuard 接続に対応しました。 これにより、アヴェリア本体と外部サーバー間をVPN経由で接続可能に。 ローカル中心の構成を維持しつつ、必要な通信だけを安全に外部へ伸ばせる構成になりました。 しかも既存の構成を大きく変更せず、そのまま対応できたのが地味に強い。</title>
-      <link>https://x.com/Anvelk_Security/status/2109085105721639291</link>
-      <description>合同会社Anvelk Innovations: アヴェリア、 WireGuard 接続に対応しました。 これにより、アヴェリア本体と外部サーバー間をVPN経由で接続可能に。 ローカル中心の構成を維持しつつ、必要な通信だけを安全に外部へ伸ばせる構成になりました。 しかも既存の構成を大きく変更せず、そのまま対応できたのが地味に強い。</description>
-      <pubDate>Sun, 11 Oct 2026 00:54:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Anvelk_Security/status/2109085105721639291</guid>
-    </item>
-    <item>
-      <title>@Nori0819 ラズパイも省電力で良いですね！ 私はubuntu26入れてLEDで稼働状況を示してモニタレス運用出来るようにし、overlay fsでいきなり電源切ってもOKなLAN内 WireGuard クライアントをラズパイで作って客先に入れました。小さくてカワイイのでうちにも１台欲しいなと思いました。</title>
-      <link>https://x.com/itoippei/status/2109074917002203314</link>
-      <description>ippei: @Nori0819 ラズパイも省電力で良いですね！ 私はubuntu26入れてLEDで稼働状況を示してモニタレス運用出来るようにし、overlay fsでいきなり電源切ってもOKなLAN内 WireGuard クライアントをラズパイで作って客先に入れました。小さくてカワイイのでうちにも１台欲しいなと思いました。</description>
-      <pubDate>Sun, 11 Oct 2026 00:13:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itoippei/status/2109074917002203314</guid>
     </item>
   </channel>
 </rss>
