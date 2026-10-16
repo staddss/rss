@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</title>
+      <link>https://x.com/inaridiy/status/2111092856677122227</link>
+      <description>inaridiy: とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</description>
+      <pubDate>Fri, 16 Oct 2026 13:52:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/inaridiy/status/2111092856677122227</guid>
+    </item>
+    <item>
+      <title>自宅PCへのsshを Cloudflare Tunnel で実現してたんだけど、普通に今まで使ってたTailscaleでええやん・・・ってなった今。</title>
+      <link>https://x.com/Shaula0x0400/status/2110660625315905812</link>
+      <description>Shaula(しゃうら): 自宅PCへのsshを Cloudflare Tunnel で実現してたんだけど、普通に今まで使ってたTailscaleでええやん・・・ってなった今。</description>
+      <pubDate>Thu, 15 Oct 2026 09:14:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Shaula0x0400/status/2110660625315905812</guid>
+    </item>
+    <item>
       <title>ノート PC あまりにも動作が重すぎて，真面目に自宅のデスクトップ PC からの Cloudflare Tunnel を利用したリモートデスクトップ接続を検討</title>
       <link>https://x.com/8_7_10/status/2110609426789138764</link>
       <description>HA710: ノート PC あまりにも動作が重すぎて，真面目に自宅のデスクトップ PC からの Cloudflare Tunnel を利用したリモートデスクトップ接続を検討</description>
@@ -199,20 +213,6 @@
       <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: 最近 Cloudflare Tunnel をオススメしている情報をよく見るからやろうと思ったけど、これドメイン登録必須なのか。 しかもリクエスト単位のアップロード制限もあるし速度も速くないから、用途的に完全な置換は出来ないなぁ。 それでドメイン管理を始めるのもけっこうめんどくさい。。</description>
       <pubDate>Thu, 08 Oct 2026 06:32:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/96sc_/status/2108083079818662151</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel いつもありがとう</title>
-      <link>https://x.com/fractal_10/status/2108037568285888936</link>
-      <description>fr: Cloudflare Tunnel いつもありがとう</description>
-      <pubDate>Thu, 08 Oct 2026 03:31:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fractal_10/status/2108037568285888936</guid>
-    </item>
-    <item>
-      <title>今もう Cloudflare Tunnel しか信用できない</title>
-      <link>https://x.com/fractal_10/status/2108037329671864589</link>
-      <description>fr: 今もう Cloudflare Tunnel しか信用できない</description>
-      <pubDate>Thu, 08 Oct 2026 03:30:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fractal_10/status/2108037329671864589</guid>
     </item>
     <item>
       <title>Cloudflare tunnel を自宅鯖に採用はしてない。あまり外部サービスに依存したくないから。自律的に動作して、トラブっても縮退で済むようにしたい。</title>

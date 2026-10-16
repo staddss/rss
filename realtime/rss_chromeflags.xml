@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【設定方法】 1. アドレスバーに次を入力 chrome :// flags /#browser-initiated-automatic-picture-in-picture 2. ハイライトされた項目を「Enabled」にする https://t.co/uxzY5qocXJ</title>
+      <link>https://x.com/taiyosuzuki_eng/status/2110729999884157144</link>
+      <description>Taiyo Suzuki: 【設定方法】 1. アドレスバーに次を入力 chrome :// flags /#browser-initiated-automatic-picture-in-picture 2. ハイライトされた項目を「Enabled」にする https://t.co/uxzY5qocXJ</description>
+      <pubDate>Thu, 15 Oct 2026 13:50:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taiyosuzuki_eng/status/2110729999884157144</guid>
+    </item>
+    <item>
       <title>@H2Footwork chrome :// flags でOverride software rendering list を有効にすると改善されるゾ</title>
       <link>https://x.com/su_123x/status/2110301160309698806</link>
       <description>す: @H2Footwork chrome :// flags でOverride software rendering list を有効にすると改善されるゾ</description>
@@ -241,13 +248,6 @@
       <description>さらしる: 備忘録 chromeの右クリックのGeminiに相談を消す方法 chrome :// flags でGlicを検索してDisabledにして再起動</description>
       <pubDate>Fri, 10 Jul 2026 02:48:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sarasiru/status/2075411887454556649</guid>
-    </item>
-    <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
   </channel>
 </rss>

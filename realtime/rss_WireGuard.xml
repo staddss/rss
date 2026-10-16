@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>学タブから WireGuard 経由でGuacamoleでメインPCをRDP接続。 強すぎる。 ProxmoxのnoVNCとは大違い https://t.co/TtIUokKfg8</title>
+      <link>https://x.com/Toufkun_exe/status/2111006758907023723</link>
+      <description>豆腐くん: 学タブから WireGuard 経由でGuacamoleでメインPCをRDP接続。 強すぎる。 ProxmoxのnoVNCとは大違い https://t.co/TtIUokKfg8</description>
+      <pubDate>Fri, 16 Oct 2026 08:10:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Toufkun_exe/status/2111006758907023723</guid>
+    </item>
+    <item>
       <title>ラボ内で、名前を引けて逆引きもできるまで小さくした最小インターネット空間にすると、こんな感じ。 個人的に大好きな推しのNginx, WireGuard が皆無になるのですよ :-) https://t.co/PY8T6Pl1Is https://t.co/5yhTPgDQr0</title>
       <link>https://x.com/munepixyz/status/2110978661126197540</link>
       <description>Munehiro Yamamoto: ラボ内で、名前を引けて逆引きもできるまで小さくした最小インターネット空間にすると、こんな感じ。 個人的に大好きな推しのNginx, WireGuard が皆無になるのですよ :-) https://t.co/PY8T6Pl1Is https://t.co/5yhTPgDQr0</description>
@@ -269,13 +276,6 @@
       <description>GIGAZINE(ギガジン): 既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 https://t.co/RR4YarKwUv</description>
       <pubDate>Sun, 11 Oct 2026 09:00:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gigazine/status/2109207453040590886</guid>
-    </item>
-    <item>
-      <title>RaspberryPi Pico WをQrioLockのBLE&lt;-&gt;Wi-Fiブリッジにするファームウェアできた。 Pico W単体でQrioをネットワーク、 WireGuard 、MQTT対応にできるので、公式ハブなしで公式ハブで出来ないようなHA統合もできる。 https://t.co/dnBUZctA31</title>
-      <link>https://x.com/Am4app/status/2109140535105708360</link>
-      <description>あまみや: RaspberryPi Pico WをQrioLockのBLE&lt;-&gt;Wi-Fiブリッジにするファームウェアできた。 Pico W単体でQrioをネットワーク、 WireGuard 、MQTT対応にできるので、公式ハブなしで公式ハブで出来ないようなHA統合もできる。 https://t.co/dnBUZctA31</description>
-      <pubDate>Sun, 11 Oct 2026 04:34:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Am4app/status/2109140535105708360</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>flightradar24のフィーダーのRaspberry Pi OSをbookwormからtrixieに上げた。元々はflightradar24のRaspberry Pi OS Liteベースの公式イメージなんだけど、もとのDebeanのEoLが2028年なのと、 zram を使ったスワップを使いたかったから。スワップを切るのは嫌だけど、SDカードには書きたくない。</title>
+      <link>https://x.com/7n2jju/status/2110715030627029111</link>
+      <description>Nobuyoshi Sato: flightradar24のフィーダーのRaspberry Pi OSをbookwormからtrixieに上げた。元々はflightradar24のRaspberry Pi OS Liteベースの公式イメージなんだけど、もとのDebeanのEoLが2028年なのと、 zram を使ったスワップを使いたかったから。スワップを切るのは嫌だけど、SDカードには書きたくない。</description>
+      <pubDate>Thu, 15 Oct 2026 12:50:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/7n2jju/status/2110715030627029111</guid>
+    </item>
+    <item>
       <title>【Void Linux】 zram を設定する方法｜しろみち @Nico_LunaOrbit https://t.co/pKJ1TbkwFV</title>
       <link>https://x.com/Nico_LunaOrbit/status/2110622320226377922</link>
       <description>しろみち: 【Void Linux】 zram を設定する方法｜しろみち @Nico_LunaOrbit https://t.co/pKJ1TbkwFV</description>
