@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>久しぶりに Cloudflare Tunnel を開けていてログ見てたんだが、明らか人でないもがリンクをさかのぼって、当たりをつけて認証ページとか見てるアクセスしようとしてた。たぶん、これ検索ボットでないんだよな。きっと、AI が脆弱性を探してクロールしてたんだよな～。</title>
+      <link>https://x.com/SeahalJa/status/2111134973025820775</link>
+      <description>SEAHAL(Ja): 久しぶりに Cloudflare Tunnel を開けていてログ見てたんだが、明らか人でないもがリンクをさかのぼって、当たりをつけて認証ページとか見てるアクセスしようとしてた。たぶん、これ検索ボットでないんだよな。きっと、AI が脆弱性を探してクロールしてたんだよな～。</description>
+      <pubDate>Fri, 16 Oct 2026 16:39:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2111134973025820775</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 、自宅直結のOpenVPN(TCP)より遅いかな</title>
+      <link>https://x.com/soramimi_jp/status/2111105651015610560</link>
+      <description>そらみみ: Cloudflare Tunnel 、自宅直結のOpenVPN(TCP)より遅いかな</description>
+      <pubDate>Fri, 16 Oct 2026 14:43:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/soramimi_jp/status/2111105651015610560</guid>
+    </item>
+    <item>
       <title>とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</title>
       <link>https://x.com/inaridiy/status/2111092856677122227</link>
       <description>inaridiy: とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</description>
@@ -262,20 +276,6 @@
       <description>taku minmin: cloudflare tunnel で自宅鯖を公開するのは良い判断だったのかもしれない、セキュリティ的にも 昨今の状況を考えると丸腰でポート開放とかはできないよな</description>
       <pubDate>Wed, 07 Oct 2026 12:20:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/takuminmin0718/status/2107808266831151594</guid>
-    </item>
-    <item>
-      <title>自分しか使わないのにポート開けとく意義も薄いなと思ってこないだポート全部閉めて Cloudflare Tunnel 入れた、これもちょいちょいアプデが掛かるので気をつけなければ……</title>
-      <link>https://x.com/s_sasamatsu/status/2107806239380152545</link>
-      <description>笹松しいたけ: 自分しか使わないのにポート開けとく意義も薄いなと思ってこないだポート全部閉めて Cloudflare Tunnel 入れた、これもちょいちょいアプデが掛かるので気をつけなければ……</description>
-      <pubDate>Wed, 07 Oct 2026 12:12:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/s_sasamatsu/status/2107806239380152545</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel で自宅鯖に繋いでwebページを開いてるから表示遅すぎるんよね フロントエンドだけでもpagesに置いてAPIの公開にしようかな</title>
-      <link>https://x.com/rain1208_v/status/2107777383180968113</link>
-      <description>rain1208🎖: cloudflare tunnel で自宅鯖に繋いでwebページを開いてるから表示遅すぎるんよね フロントエンドだけでもpagesに置いてAPIの公開にしようかな</description>
-      <pubDate>Wed, 07 Oct 2026 10:17:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rain1208_v/status/2107777383180968113</guid>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/tkanno003/status/2110785778637025657</guid>
     </item>
     <item>
+      <title>@yhkondo いや本当、Google Driveに rclone とかもう土台無理な話だということがわかりました。Thunderbolt 5ならHDDでもよいので8TBのRAIDがほしいです。</title>
+      <link>https://x.com/officesatojapan/status/2110777959221203392</link>
+      <description>佐藤剛裕: @yhkondo いや本当、Google Driveに rclone とかもう土台無理な話だということがわかりました。Thunderbolt 5ならHDDでもよいので8TBのRAIDがほしいです。</description>
+      <pubDate>Thu, 15 Oct 2026 17:00:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/officesatojapan/status/2110777959221203392</guid>
+    </item>
+    <item>
       <title>registry を on-failure の再起動設定で動かしても、panic のあとコンテナは running のまま、再起動の回数は 0 でした( rclone 1.75.1 と 1.75.2、registry 2 と 3)。ログには「http: panic serving」。この測定では、panic はリクエストごとに捕捉されていました。</title>
       <link>https://x.com/tane_log/status/2110594164220158334</link>
       <description>tanelog: registry を on-failure の再起動設定で動かしても、panic のあとコンテナは running のまま、再起動の回数は 0 でした( rclone 1.75.1 と 1.75.2、registry 2 と 3)。ログには「http: panic serving」。この測定では、panic はリクエストごとに捕捉されていました。</description>
