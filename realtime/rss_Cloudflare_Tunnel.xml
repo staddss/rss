@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel で、1アカウントあたりのルート数の上限が1,000から50,000に増えた（米国時間10/16）。 対象は Cloudflare Tunnel とCloudflare MeshのCIDRルートとホスト名ルートで、すべてのアカウントに自動で適用されるので、設定の変更はいらないとのこと。</title>
+      <link>https://x.com/multilayer/status/2111246461988217283</link>
+      <description>multilayer: Cloudflare Tunnel で、1アカウントあたりのルート数の上限が1,000から50,000に増えた（米国時間10/16）。 対象は Cloudflare Tunnel とCloudflare MeshのCIDRルートとホスト名ルートで、すべてのアカウントに自動で適用されるので、設定の変更はいらないとのこと。</description>
+      <pubDate>Sat, 17 Oct 2026 00:02:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/multilayer/status/2111246461988217283</guid>
+    </item>
+    <item>
+      <title>NASにForgejo+ Cloudflare Tunnel がいいか。</title>
+      <link>https://x.com/miccinakatani/status/2111245820742025422</link>
+      <description>😺MICCI.ai🍌: NASにForgejo+ Cloudflare Tunnel がいいか。</description>
+      <pubDate>Sat, 17 Oct 2026 00:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/miccinakatani/status/2111245820742025422</guid>
+    </item>
+    <item>
       <title>久しぶりに Cloudflare Tunnel を開けていてログ見てたんだが、明らか人でないもがリンクをさかのぼって、当たりをつけて認証ページとか見てるアクセスしようとしてた。たぶん、これ検索ボットでないんだよな。きっと、AI が脆弱性を探してクロールしてたんだよな～。</title>
       <link>https://x.com/SeahalJa/status/2111134973025820775</link>
       <description>SEAHAL(Ja): 久しぶりに Cloudflare Tunnel を開けていてログ見てたんだが、明らか人でないもがリンクをさかのぼって、当たりをつけて認証ページとか見てるアクセスしようとしてた。たぶん、これ検索ボットでないんだよな。きっと、AI が脆弱性を探してクロールしてたんだよな～。</description>
@@ -262,20 +276,6 @@
       <description>ْ: 自宅サーバー全て Cloudflare Tunnel で公開しつつCloudflare Accessで認証認可して使ってるけど最近の情報お漏らし祭りを見ると流石にこわいなーとづまりすとことなる</description>
       <pubDate>Wed, 07 Oct 2026 15:19:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hiroto_f_/status/2107853350826111218</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel の導入があとは1年遅かったら、今回のサイバー攻撃祭りの前菜みたいなノリで餌食になってたかもと考えると恐ろしいのだ</title>
-      <link>https://x.com/raspberry_craft/status/2107834176829526160</link>
-      <description>ﾌﾟﾛ(ｸﾞﾗﾐﾝｸﾞ見習い中のｱﾗ)イさん: Cloudflare Tunnel の導入があとは1年遅かったら、今回のサイバー攻撃祭りの前菜みたいなノリで餌食になってたかもと考えると恐ろしいのだ</description>
-      <pubDate>Wed, 07 Oct 2026 14:03:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/raspberry_craft/status/2107834176829526160</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel で自宅鯖を公開するのは良い判断だったのかもしれない、セキュリティ的にも 昨今の状況を考えると丸腰でポート開放とかはできないよな</title>
-      <link>https://x.com/takuminmin0718/status/2107808266831151594</link>
-      <description>taku minmin: cloudflare tunnel で自宅鯖を公開するのは良い判断だったのかもしれない、セキュリティ的にも 昨今の状況を考えると丸腰でポート開放とかはできないよな</description>
-      <pubDate>Wed, 07 Oct 2026 12:20:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takuminmin0718/status/2107808266831151594</guid>
     </item>
   </channel>
 </rss>
