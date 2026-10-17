@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2111315780231115195</guid>
     </item>
     <item>
+      <title>とりあえず wireguard の口は残してるけど、ISPからIPv4 PPPoEを廃止されるとこれも使えなくなるので、出先から自宅への計算機資源への接続をどうするか考えなければならなさそう</title>
+      <link>https://x.com/cardarno2/status/2111106268647805097</link>
+      <description>かるだん: とりあえず wireguard の口は残してるけど、ISPからIPv4 PPPoEを廃止されるとこれも使えなくなるので、出先から自宅への計算機資源への接続をどうするか考えなければならなさそう</description>
+      <pubDate>Fri, 16 Oct 2026 14:45:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cardarno2/status/2111106268647805097</guid>
+    </item>
+    <item>
       <title>記事を投稿しました！ VPSを入口に、オンプレUbuntuのWebアプリを公開する 第2回 ― ConoHa VPSのSSHを整え、 WireGuard で事務所Ubuntuとつなぐ on #Qiita https://t.co/b3oWXDNF5S</title>
       <link>https://x.com/godotys01/status/2111095872738185375</link>
       <description>Tetsuya godo: 記事を投稿しました！ VPSを入口に、オンプレUbuntuのWebアプリを公開する 第2回 ― ConoHa VPSのSSHを整え、 WireGuard で事務所Ubuntuとつなぐ on #Qiita https://t.co/b3oWXDNF5S</description>
@@ -269,13 +276,6 @@
       <description>anya: コンテキスト次第で、 例えばselfhostedなユーザならCloudflareやtailscaleに任せたりでいいし古典的な技でいえばport knockingだっていい。 変に国内IPで絞るくらいなら wireguard とかでトンネル組めという考えとかもあるだろうし十人十色なんだろうと思うんだけども、 https://t.co/OKtPGbuVM5</description>
       <pubDate>Sun, 11 Oct 2026 10:54:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/anya_tokugawa/status/2109236093182980184</guid>
-    </item>
-    <item>
-      <title>【朗報】既存の WireGuard 環境をそのままWebUI化できる「wg-admin」が無料公開！これはガチで神ツールだとネット民歓喜 - みるみん速報 #VPN #wg-admin # WireGuard #オープンソース https://t.co/PT580SzyvS</title>
-      <link>https://x.com/miruminsns/status/2109222649763446786</link>
-      <description>みるみん速報【公式】: 【朗報】既存の WireGuard 環境をそのままWebUI化できる「wg-admin」が無料公開！これはガチで神ツールだとネット民歓喜 - みるみん速報 #VPN #wg-admin # WireGuard #オープンソース https://t.co/PT580SzyvS</description>
-      <pubDate>Sun, 11 Oct 2026 10:00:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/miruminsns/status/2109222649763446786</guid>
     </item>
   </channel>
 </rss>

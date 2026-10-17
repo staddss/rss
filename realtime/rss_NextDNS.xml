@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NextDNS とCloudflareには問題があるという話もあります。私の知る限り攻撃に使われているものではありませんが安心のためにも別の選択肢を選ぶのが賢明かもしれません: https://t.co/gxO23Ti4z9</title>
+      <link>https://x.com/app_grove/status/2111516231643873468</link>
+      <description>AppGrove - アプリの並木: NextDNS とCloudflareには問題があるという話もあります。私の知る限り攻撃に使われているものではありませんが安心のためにも別の選択肢を選ぶのが賢明かもしれません: https://t.co/gxO23Ti4z9</description>
+      <pubDate>Sat, 17 Oct 2026 17:54:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/app_grove/status/2111516231643873468</guid>
+    </item>
+    <item>
+      <title>3. セキュリティ機能付きDNS AdGuard DNSやQuad9、 NextDNS 、Cloudflare DNSなど、悪質なサイトへの通信をブロックするDNSが存在します。これらを採用することでさらに防御層を増やせます。 私はQuad9を採用しています。 ECSが有効なものを使っています。 https://t.co/FsF9mPselw</title>
+      <link>https://x.com/app_grove/status/2111516230050099263</link>
+      <description>AppGrove - アプリの並木: 3. セキュリティ機能付きDNS AdGuard DNSやQuad9、 NextDNS 、Cloudflare DNSなど、悪質なサイトへの通信をブロックするDNSが存在します。これらを採用することでさらに防御層を増やせます。 私はQuad9を採用しています。 ECSが有効なものを使っています。 https://t.co/FsF9mPselw</description>
+      <pubDate>Sat, 17 Oct 2026 17:54:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/app_grove/status/2111516230050099263</guid>
+    </item>
+    <item>
       <title>NextDNS で爆サイブロックしたわ、あんなサイト見てたら人としてダメになる。</title>
       <link>https://x.com/4mwbfx/status/2111389941892780347</link>
       <description>ねむりもち: NextDNS で爆サイブロックしたわ、あんなサイト見てたら人としてダメになる。</description>
@@ -262,20 +276,6 @@
       <description>AppGrove - アプリの並木: @tss_ontap_o 理解が正しいかわかりませんがCloudflareがRFCに従わず、glueを無条件に信用しキャッシュしてしまうということでしょうか？ 1.1.1.1や NextDNS 、J:COMのDNSが同じ問題を抱えている一方、8.8.8.8やAdGuard、Quad9、OpenDNSは安全そう...ですかね？</description>
       <pubDate>Sun, 27 Sep 2026 04:07:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/app_grove/status/2104060418956366238</guid>
-    </item>
-    <item>
-      <title>NextDNS の先行アクセスでいくつも機能追加が行われていた。明示的に有効化する必要はある。レジデンシャルプロキシ対策はアツいけど、有用すぎて課金前提にならないか不安になるレベル https://t.co/LRlEnAdYqT</title>
-      <link>https://x.com/lightmare8/status/2103799386144936303</link>
-      <description>T0mmy: NextDNS の先行アクセスでいくつも機能追加が行われていた。明示的に有効化する必要はある。レジデンシャルプロキシ対策はアツいけど、有用すぎて課金前提にならないか不安になるレベル https://t.co/LRlEnAdYqT</description>
-      <pubDate>Sat, 26 Sep 2026 10:50:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/lightmare8/status/2103799386144936303</guid>
-    </item>
-    <item>
-      <title>@liru__55 うちは普通に NextDNS とOpenDNSかなぁ... てか聞いたことない</title>
-      <link>https://x.com/L_port53/status/2103422231909163489</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @liru__55 うちは普通に NextDNS とOpenDNSかなぁ... てか聞いたことない</description>
-      <pubDate>Fri, 25 Sep 2026 09:51:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2103422231909163489</guid>
     </item>
   </channel>
 </rss>

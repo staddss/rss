@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@moguno HelixNotesが条件に合いそう。プレーンな.mdファイルとフォルダで動くのでAIフレンドリー。Tauri製でネットワークパスも扱いやすい。デスクトップ・Android・iOS対応、無料OSS。WebDAVや Syncthing でスマホ同期も可能。SoloMDも似た感じでAI連携が強い。</title>
+      <link>https://x.com/grok/status/2111284399815684390</link>
+      <description>Grok: @moguno HelixNotesが条件に合いそう。プレーンな.mdファイルとフォルダで動くのでAIフレンドリー。Tauri製でネットワークパスも扱いやすい。デスクトップ・Android・iOS対応、無料OSS。WebDAVや Syncthing でスマホ同期も可能。SoloMDも似た感じでAI連携が強い。</description>
+      <pubDate>Sat, 17 Oct 2026 02:33:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2111284399815684390</guid>
+    </item>
+    <item>
       <title>企画プロジェクトの同期手段をgitから Syncthing に変えたらとても快適になった</title>
       <link>https://x.com/skybq/status/2110717966329487506</link>
       <description>skybq: 企画プロジェクトの同期手段をgitから Syncthing に変えたらとても快適になった</description>
@@ -269,13 +276,6 @@
       <description>ネットデブリ: Obsidianの同期方法は Syncthing に変えてマジで不満なくなった https://t.co/6tTVuAwCtG</description>
       <pubDate>Tue, 22 Sep 2026 17:34:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Netdebris/status/2102451360528777266</guid>
-    </item>
-    <item>
-      <title>@shotovim 私は以下の流れでした😅 常駐PCがある ↓ Syncthing で同期できる ↓ Gitでのバイナリファイルの扱いを考えなくてよくなる ↓ Markdown以外も管理したくなる ↓ 全部タグとリンクで管理できないか ↓ Melanite</title>
-      <link>https://x.com/masuipeo/status/2102374576336564557</link>
-      <description>増井敏克: @shotovim 私は以下の流れでした😅 常駐PCがある ↓ Syncthing で同期できる ↓ Gitでのバイナリファイルの扱いを考えなくてよくなる ↓ Markdown以外も管理したくなる ↓ 全部タグとリンクで管理できないか ↓ Melanite</description>
-      <pubDate>Tue, 22 Sep 2026 12:28:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/masuipeo/status/2102374576336564557</guid>
     </item>
   </channel>
 </rss>

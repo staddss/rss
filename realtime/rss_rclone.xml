@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【脱・中間ツール】Restic ＋ Cloudflare R2で「 Rclone 」を外してS3ネイティブ直結にした理由と移行手順 #半ちゃーはん特盛り / テック別館 https://t.co/18cvBuxCJP</title>
+      <link>https://x.com/Chahaaaaaan7000/status/2111277485707104757</link>
+      <description>ちゃーはん: 【脱・中間ツール】Restic ＋ Cloudflare R2で「 Rclone 」を外してS3ネイティブ直結にした理由と移行手順 #半ちゃーはん特盛り / テック別館 https://t.co/18cvBuxCJP</description>
+      <pubDate>Sat, 17 Oct 2026 02:05:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Chahaaaaaan7000/status/2111277485707104757</guid>
+    </item>
+    <item>
       <title>[Blog] Plex Media Serverで音楽ライブラリ｜クラウド編 設定作業のほぼ全てをChatGPTに任せ、 Rclone ( rclone )でMacにクラウドをマウント。Plex Media Serverで音楽ライブラリを構築した備忘録。 https://t.co/OezNFTSqb2</title>
       <link>https://x.com/tkanno003/status/2110785778637025657</link>
       <description>菅野忠則 Tadanori Kanno: [Blog] Plex Media Serverで音楽ライブラリ｜クラウド編 設定作業のほぼ全てをChatGPTに任せ、 Rclone ( rclone )でMacにクラウドをマウント。Plex Media Serverで音楽ライブラリを構築した備忘録。 https://t.co/OezNFTSqb2</description>
@@ -269,13 +276,6 @@
       <description>regulus@れぐるす: GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</description>
       <pubDate>Thu, 24 Sep 2026 12:00:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RegulusTrash/status/2103092128213868794</guid>
-    </item>
-    <item>
-      <title>クリスタ素材のバックアップデータとりあえずGoogleDriveに暗号化して上げておこうかな～ rclone +cryptでいけそう</title>
-      <link>https://x.com/noc_pie/status/2102783798740123735</link>
-      <description>のく: クリスタ素材のバックアップデータとりあえずGoogleDriveに暗号化して上げておこうかな～ rclone +cryptでいけそう</description>
-      <pubDate>Wed, 23 Sep 2026 15:35:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noc_pie/status/2102783798740123735</guid>
     </item>
   </channel>
 </rss>
