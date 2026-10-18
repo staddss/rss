@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/JunIseya1212/status/2111599938287350243</guid>
     </item>
     <item>
+      <title>5年ぶりぐらいにlinuxカーネル入れ替え。いつの間にか wireguard がソースに入っていて👍</title>
+      <link>https://x.com/tailhome/status/2111598581341954132</link>
+      <description>TAILHOME: 5年ぶりぐらいにlinuxカーネル入れ替え。いつの間にか wireguard がソースに入っていて👍</description>
+      <pubDate>Sat, 17 Oct 2026 23:21:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tailhome/status/2111598581341954132</guid>
+    </item>
+    <item>
       <title>台湾で WireGuard が減速するケースは今度ISPでけんさくしてみるか。傾向が出てくるだろう。</title>
       <link>https://x.com/mutaguch/status/2111470874285183411</link>
       <description>冷氣開放 ex.ろくばんしゃ ていいち: 台湾で WireGuard が減速するケースは今度ISPでけんさくしてみるか。傾向が出てくるだろう。</description>
@@ -269,13 +276,6 @@
       <description>ひろふじ84: 既に実行中の WireGuard ホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能 ✅ 新規端末の追加は「Add peer」から名前を入力して「Create peer」を押す… ✅ 「Disable」でPeerを削除せず無効化でき、「Enable」で同じPeer情報と割… https://t.co/tcdXnNXFhk</description>
       <pubDate>Sun, 11 Oct 2026 12:36:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hirofuji84/status/2109261981186458000</guid>
-    </item>
-    <item>
-      <title>@L_port8080 というか設定消すのは設定ファイル消すだけだよなぁと。 WireGuard もOpenVPNも...</title>
-      <link>https://x.com/markun_Dh/status/2109252041323540844</link>
-      <description>眞莉萌: @L_port8080 というか設定消すのは設定ファイル消すだけだよなぁと。 WireGuard もOpenVPNも...</description>
-      <pubDate>Sun, 11 Oct 2026 11:57:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/markun_Dh/status/2109252041323540844</guid>
     </item>
   </channel>
 </rss>

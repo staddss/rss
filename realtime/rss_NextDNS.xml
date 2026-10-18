@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>急遽 NextDNS を入れた理由はこれですね https://t.co/fVq4Mm5EOM</title>
+      <link>https://x.com/yuracafe_/status/2111795565130289504</link>
+      <description>ゆらカフェ: 急遽 NextDNS を入れた理由はこれですね https://t.co/fVq4Mm5EOM</description>
+      <pubDate>Sun, 18 Oct 2026 12:24:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuracafe_/status/2111795565130289504</guid>
+    </item>
+    <item>
+      <title>@yuracafe_ NextDNS とAdguardhomeで使用感違いますか？ もし使ったことあったら教えていただきたいです</title>
+      <link>https://x.com/kuni_256/status/2111791156778635622</link>
+      <description>kuni: @yuracafe_ NextDNS とAdguardhomeで使用感違いますか？ もし使ったことあったら教えていただきたいです</description>
+      <pubDate>Sun, 18 Oct 2026 12:07:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuni_256/status/2111791156778635622</guid>
+    </item>
+    <item>
+      <title>NextDNS なぜもっと早く導入しなかったんだ tailscaleとも相性が良いですしランニングコストも安くて素晴らしい</title>
+      <link>https://x.com/yuracafe_/status/2111784854178128345</link>
+      <description>ゆらカフェ: NextDNS なぜもっと早く導入しなかったんだ tailscaleとも相性が良いですしランニングコストも安くて素晴らしい</description>
+      <pubDate>Sun, 18 Oct 2026 11:41:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuracafe_/status/2111784854178128345</guid>
+    </item>
+    <item>
+      <title>NextDNS を導入することにしました</title>
+      <link>https://x.com/yuracafe_/status/2111703790097490080</link>
+      <description>ゆらカフェ: NextDNS を導入することにしました</description>
+      <pubDate>Sun, 18 Oct 2026 06:19:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuracafe_/status/2111703790097490080</guid>
+    </item>
+    <item>
       <title>NextDNS とCloudflareには問題があるという話もあります。私の知る限り攻撃に使われているものではありませんが安心のためにも別の選択肢を選ぶのが賢明かもしれません: https://t.co/gxO23Ti4z9</title>
       <link>https://x.com/app_grove/status/2111516231643873468</link>
       <description>AppGrove - アプリの並木: NextDNS とCloudflareには問題があるという話もあります。私の知る限り攻撃に使われているものではありませんが安心のためにも別の選択肢を選ぶのが賢明かもしれません: https://t.co/gxO23Ti4z9</description>
@@ -248,34 +276,6 @@
       <description>Kdroidwin: @sky7mobile_138 AdSpamBlockは性能やブロック精度があまり良くないのでAdGuard（有料）や NextDNS などが良いですよ。</description>
       <pubDate>Fri, 02 Oct 2026 10:58:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Kdroidwin1/status/2105975713220497716</guid>
-    </item>
-    <item>
-      <title>広告ブロックするために NextDNS を使ってますが導入・設定お手軽で便利です。 Android/iPhone/Mac/Windows/Linux など多くの環境で利用できます。 https://t.co/40GetVnZ1W #ad</title>
-      <link>https://x.com/rkarsnk_new/status/2105270043412168799</link>
-      <description>カナやん: 広告ブロックするために NextDNS を使ってますが導入・設定お手軽で便利です。 Android/iPhone/Mac/Windows/Linux など多くの環境で利用できます。 https://t.co/40GetVnZ1W #ad</description>
-      <pubDate>Wed, 30 Sep 2026 12:14:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rkarsnk_new/status/2105270043412168799</guid>
-    </item>
-    <item>
-      <title>NextDNS も危ないらしい https://t.co/cUqBJeVuHn</title>
-      <link>https://x.com/tss_ontap_o/status/2104407455602213256</link>
-      <description>浸透いうな (浸透待ちは時に危険): NextDNS も危ないらしい https://t.co/cUqBJeVuHn</description>
-      <pubDate>Mon, 28 Sep 2026 03:06:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tss_ontap_o/status/2104407455602213256</guid>
-    </item>
-    <item>
-      <title>@tss_ontap_o 軽く試した限りでは上記のような状況でした。Cloudflareと NextDNS を愛用していましたが考え直そうと思います。</title>
-      <link>https://x.com/app_grove/status/2104272113255546901</link>
-      <description>AppGrove - アプリの並木: @tss_ontap_o 軽く試した限りでは上記のような状況でした。Cloudflareと NextDNS を愛用していましたが考え直そうと思います。</description>
-      <pubDate>Sun, 27 Sep 2026 18:09:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/app_grove/status/2104272113255546901</guid>
-    </item>
-    <item>
-      <title>Tailscale+ NextDNS 使うとスマホも広告ブロック働いてよき ネットワークに絡むもので欲しいものが詰まってる🎁 挙動に不満があったBrave君、起動するとDiscordで不具合起きるようになったAdGuard君さよなら…</title>
-      <link>https://x.com/_krnya_/status/2104124021126332609</link>
-      <description>alice: Tailscale+ NextDNS 使うとスマホも広告ブロック働いてよき ネットワークに絡むもので欲しいものが詰まってる🎁 挙動に不満があったBrave君、起動するとDiscordで不具合起きるようになったAdGuard君さよなら…</description>
-      <pubDate>Sun, 27 Sep 2026 08:20:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_krnya_/status/2104124021126332609</guid>
     </item>
   </channel>
 </rss>
