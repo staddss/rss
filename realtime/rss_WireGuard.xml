@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>手持ちのもので 443ポート/UDP通信 となる WireGuard サーバーでHTTPプロキシ テスト(^^) 特にセキュリティソフトに文句言われる事なくモバイルで自宅サーバーへHTTPプロキシとして接続可能👍 しばらく様子見して、VPSへ本物のステルス通信 443/UDP QUICとポート自動切替のサーバーを構築予定 https://t.co/dMBjmhdkZz https://t.co/SP1W2XpNXZ</title>
+      <link>https://x.com/JunIseya1212/status/2111599938287350243</link>
+      <description>Jun Iseya: 手持ちのもので 443ポート/UDP通信 となる WireGuard サーバーでHTTPプロキシ テスト(^^) 特にセキュリティソフトに文句言われる事なくモバイルで自宅サーバーへHTTPプロキシとして接続可能👍 しばらく様子見して、VPSへ本物のステルス通信 443/UDP QUICとポート自動切替のサーバーを構築予定 https://t.co/dMBjmhdkZz https://t.co/SP1W2XpNXZ</description>
+      <pubDate>Sat, 17 Oct 2026 23:27:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JunIseya1212/status/2111599938287350243</guid>
+    </item>
+    <item>
+      <title>台湾で WireGuard が減速するケースは今度ISPでけんさくしてみるか。傾向が出てくるだろう。</title>
+      <link>https://x.com/mutaguch/status/2111470874285183411</link>
+      <description>冷氣開放 ex.ろくばんしゃ ていいち: 台湾で WireGuard が減速するケースは今度ISPでけんさくしてみるか。傾向が出てくるだろう。</description>
+      <pubDate>Sat, 17 Oct 2026 14:54:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mutaguch/status/2111470874285183411</guid>
+    </item>
+    <item>
       <title>Community Over Code Glasgow 2026で、Apache NuttXへの WireGuard VPN移植について発表してきました！ 初めての海外技術カンファレンス登壇。 OSSコミュニティの皆さんとも交流できて、楽しかったです！ Slides: https://t.co/a9Tb3SIS91 #communityovercode</title>
       <link>https://x.com/fox_aki310ooooo/status/2111315780231115195</link>
       <description>aki310: Community Over Code Glasgow 2026で、Apache NuttXへの WireGuard VPN移植について発表してきました！ 初めての海外技術カンファレンス登壇。 OSSコミュニティの皆さんとも交流できて、楽しかったです！ Slides: https://t.co/a9Tb3SIS91 #communityovercode</description>
@@ -262,20 +276,6 @@
       <description>眞莉萌: @L_port8080 というか設定消すのは設定ファイル消すだけだよなぁと。 WireGuard もOpenVPNも...</description>
       <pubDate>Sun, 11 Oct 2026 11:57:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/markun_Dh/status/2109252041323540844</guid>
-    </item>
-    <item>
-      <title>@markun_Dh なるほど... ちなみに Wireguard とかOpenVPNの設定も直せますか？</title>
-      <link>https://x.com/L_port8080/status/2109250499086286935</link>
-      <description>一樹（第二拠点）: @markun_Dh なるほど... ちなみに Wireguard とかOpenVPNの設定も直せますか？</description>
-      <pubDate>Sun, 11 Oct 2026 11:51:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8080/status/2109250499086286935</guid>
-    </item>
-    <item>
-      <title>コンテキスト次第で、 例えばselfhostedなユーザならCloudflareやtailscaleに任せたりでいいし古典的な技でいえばport knockingだっていい。 変に国内IPで絞るくらいなら wireguard とかでトンネル組めという考えとかもあるだろうし十人十色なんだろうと思うんだけども、 https://t.co/OKtPGbuVM5</title>
-      <link>https://x.com/anya_tokugawa/status/2109236093182980184</link>
-      <description>anya: コンテキスト次第で、 例えばselfhostedなユーザならCloudflareやtailscaleに任せたりでいいし古典的な技でいえばport knockingだっていい。 変に国内IPで絞るくらいなら wireguard とかでトンネル組めという考えとかもあるだろうし十人十色なんだろうと思うんだけども、 https://t.co/OKtPGbuVM5</description>
-      <pubDate>Sun, 11 Oct 2026 10:54:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/anya_tokugawa/status/2109236093182980184</guid>
     </item>
   </channel>
 </rss>
