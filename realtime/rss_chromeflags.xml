@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>chrome :// flags /#chrome-next-ia ChromeNextIaを無効化</title>
+      <link>https://x.com/jellyfishShang/status/2112078093741695091</link>
+      <description>上勾: chrome :// flags /#chrome-next-ia ChromeNextIaを無効化</description>
+      <pubDate>Mon, 19 Oct 2026 07:07:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jellyfishShang/status/2112078093741695091</guid>
+    </item>
+    <item>
+      <title>Chrome君もそこそこ設定いじらないと使いにくくなったなーAI系に無駄なリソース取られたくないので「 chrome :// flags /」を入力して「AI Mode」「Omnibox」 「entrypoint」のそれぞれを検索ボックスで探す関連項目を→Disabled（無効）にするとさっぱりする(*=ω=)ﾉ</title>
+      <link>https://x.com/Mofumoppy/status/2112030081866744115</link>
+      <description>もふこ: Chrome君もそこそこ設定いじらないと使いにくくなったなーAI系に無駄なリソース取られたくないので「 chrome :// flags /」を入力して「AI Mode」「Omnibox」 「entrypoint」のそれぞれを検索ボックスで探す関連項目を→Disabled（無効）にするとさっぱりする(*=ω=)ﾉ</description>
+      <pubDate>Mon, 19 Oct 2026 03:56:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Mofumoppy/status/2112030081866744115</guid>
+    </item>
+    <item>
+      <title>もうちょっと調べたらchromeはこの設定をオンを前提にしているらしくて，これオフにするより, chrome :// flags からHardware-accelerated video decodeの方をオフにしたほうがいいかも 原因は動画再生でgpu(VCN)を使うことなので，上の設定でchromeの動画再生のみgpu無効化すれば解決かな？</title>
+      <link>https://x.com/RealKnifeee/status/2112018148430143963</link>
+      <description>本物のナイフ: もうちょっと調べたらchromeはこの設定をオンを前提にしているらしくて，これオフにするより, chrome :// flags からHardware-accelerated video decodeの方をオフにしたほうがいいかも 原因は動画再生でgpu(VCN)を使うことなので，上の設定でchromeの動画再生のみgpu無効化すれば解決かな？</description>
+      <pubDate>Mon, 19 Oct 2026 03:09:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RealKnifeee/status/2112018148430143963</guid>
+    </item>
+    <item>
+      <title>Android版Chromeの AIによる概要 を無効化する方法見つけたから書いとく URL欄に「 chrome :// flags /#omnibox-site-search」と入力 選択肢を Enabled に変更し、画面下部の「Relaunch」で再起動する。 と検索エンジンURLで入力できるようになるから そこにhttps://t.co/JT4G8KAlTZ を登録すればいい</title>
+      <link>https://x.com/_3_9_4_/status/2112009070400176210</link>
+      <description>さくよ SAKUYO: Android版Chromeの AIによる概要 を無効化する方法見つけたから書いとく URL欄に「 chrome :// flags /#omnibox-site-search」と入力 選択肢を Enabled に変更し、画面下部の「Relaunch」で再起動する。 と検索エンジンURLで入力できるようになるから そこにhttps://t.co/JT4G8KAlTZ を登録すればいい</description>
+      <pubDate>Mon, 19 Oct 2026 02:32:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_3_9_4_/status/2112009070400176210</guid>
+    </item>
+    <item>
       <title>ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</title>
       <link>https://x.com/non_de_lion/status/2111939648742408454</link>
       <description>Non･de･lion: ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</description>
@@ -215,20 +243,6 @@
       <guid isPermaLink="true">https://x.com/hakata_no_onago/status/2101264166090850375</guid>
     </item>
     <item>
-      <title>Chromの分割ビュー 上下ができるはずだったけど消えた で調べてできるようにした chrome :// flags ↓ splitで検索 Stacked Split Views を選ぶ ↓ Enabled で再起動</title>
-      <link>https://x.com/tomotana/status/2101130905905774705</link>
-      <description>田中友尋 | Tomohiko Tanaka | (株) ハマ企画: Chromの分割ビュー 上下ができるはずだったけど消えた で調べてできるようにした chrome :// flags ↓ splitで検索 Stacked Split Views を選ぶ ↓ Enabled で再起動</description>
-      <pubDate>Sat, 19 Sep 2026 02:06:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tomotana/status/2101130905905774705</guid>
-    </item>
-    <item>
-      <title>新しいiOSのchromeのUIが使い辛いなと思って検索したら chrome :// flags で変えれるのね そこで nextと検索してAIをdisableにすると前と同じUIに</title>
-      <link>https://x.com/ryu2works/status/2101120674266042476</link>
-      <description>RYU: 新しいiOSのchromeのUIが使い辛いなと思って検索したら chrome :// flags で変えれるのね そこで nextと検索してAIをdisableにすると前と同じUIに</description>
-      <pubDate>Sat, 19 Sep 2026 01:26:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryu2works/status/2101120674266042476</guid>
-    </item>
-    <item>
       <title>自分用確認メモ） ■Windowsの設定→アクセシビリティ→視覚効果→スクロールバーを常に表示する ■Chromeのアドレスバーに「 chrome :// flags /#overlay-scrollbars」を入力。 画面上部にある「Overlay Scrollbars」の項目を「Disabled（無効）」に変更。 画面右下「Relaunch（再起動）」</title>
       <link>https://x.com/nanika_tsuzuru/status/2100375027900432892</link>
       <description>愛賀 綴／『チビと私の平々凡々』続編連載中！: 自分用確認メモ） ■Windowsの設定→アクセシビリティ→視覚効果→スクロールバーを常に表示する ■Chromeのアドレスバーに「 chrome :// flags /#overlay-scrollbars」を入力。 画面上部にある「Overlay Scrollbars」の項目を「Disabled（無効）」に変更。 画面右下「Relaunch（再起動）」</description>
@@ -250,18 +264,18 @@
       <guid isPermaLink="true">https://x.com/tkmkz/status/2098761514991980930</guid>
     </item>
     <item>
+      <title>iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</title>
+      <link>https://x.com/shin_f/status/2098229746350100541</link>
+      <description>しん: iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</description>
+      <pubDate>Fri, 11 Sep 2026 01:58:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shin_f/status/2098229746350100541</guid>
+    </item>
+    <item>
       <title>備忘録 chromeの右クリックのGeminiに相談を消す方法 chrome :// flags でGlicを検索してDisabledにして再起動</title>
       <link>https://x.com/sarasiru/status/2075411887454556649</link>
       <description>さらしる: 備忘録 chromeの右クリックのGeminiに相談を消す方法 chrome :// flags でGlicを検索してDisabledにして再起動</description>
       <pubDate>Fri, 10 Jul 2026 02:48:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sarasiru/status/2075411887454556649</guid>
-    </item>
-    <item>
-      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
-      <link>https://x.com/cotodaman/status/2065536945976140248</link>
-      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
-      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
   </channel>
 </rss>

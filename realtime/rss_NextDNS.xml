@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>例の広告読み込んだだけでスパイウェア完成、が怖くなってきたので、ChromeにuBO Liteと、OS全体に NextDNS 導入してみた。これでいつでもどんとこいや！ ちなみに導入は全部例によってHermes先生がやってくれました。</title>
+      <link>https://x.com/emadurandal_cgj/status/2112062905206399081</link>
+      <description>emadurandal_cgj: 例の広告読み込んだだけでスパイウェア完成、が怖くなってきたので、ChromeにuBO Liteと、OS全体に NextDNS 導入してみた。これでいつでもどんとこいや！ ちなみに導入は全部例によってHermes先生がやってくれました。</description>
+      <pubDate>Mon, 19 Oct 2026 06:06:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/emadurandal_cgj/status/2112062905206399081</guid>
+    </item>
+    <item>
+      <title>NextDNS めっちゃ良いな。 家族全体のデバイスから半分近く無駄なクエリが作られていることがわかった。 https://t.co/ZM8GeTlXBv</title>
+      <link>https://x.com/kpang0/status/2112039336753725686</link>
+      <description>Yusuke Kato 🏸🚴‍♂️🏕🍻🍷🍶🥃: NextDNS めっちゃ良いな。 家族全体のデバイスから半分近く無駄なクエリが作られていることがわかった。 https://t.co/ZM8GeTlXBv</description>
+      <pubDate>Mon, 19 Oct 2026 04:33:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kpang0/status/2112039336753725686</guid>
+    </item>
+    <item>
+      <title>耳目を集めるニュースや渋滞情報からtiktokに誘導するポスト、引用ポストが多いのが面倒。うっかりURLをタップしそうになるので、すべて NextDNS で弾く。</title>
+      <link>https://x.com/takanyo/status/2112004905607274544</link>
+      <description>takanyo: 耳目を集めるニュースや渋滞情報からtiktokに誘導するポスト、引用ポストが多いのが面倒。うっかりURLをタップしそうになるので、すべて NextDNS で弾く。</description>
+      <pubDate>Mon, 19 Oct 2026 02:16:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takanyo/status/2112004905607274544</guid>
+    </item>
+    <item>
+      <title>@youyouboydragon 横から失礼します NextDNS やControl Dで遮断すれのとは違うのですか？</title>
+      <link>https://x.com/L_port8000/status/2111959386927088053</link>
+      <description>一樹（いつき）: @youyouboydragon 横から失礼します NextDNS やControl Dで遮断すれのとは違うのですか？</description>
+      <pubDate>Sun, 18 Oct 2026 23:15:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8000/status/2111959386927088053</guid>
+    </item>
+    <item>
       <title>@avocadollm オススメです。 AdGuardというのを使います。 Windows11のPCを24時間立ち上げっぱなしにして、（無料で入れ子でLinuxを入れて？）AdGuard Homeを入れるとゼロ円で使えます。 NexTDNS というのだと2500円で外でもスマホで広告ブロック出来ます。</title>
       <link>https://x.com/whiteangel9999/status/2111950945215221763</link>
       <description>ちいさな天使: @avocadollm オススメです。 AdGuardというのを使います。 Windows11のPCを24時間立ち上げっぱなしにして、（無料で入れ子でLinuxを入れて？）AdGuard Homeを入れるとゼロ円で使えます。 NexTDNS というのだと2500円で外でもスマホで広告ブロック出来ます。</description>
@@ -248,34 +276,6 @@
       <description>methylone: 例えば Tailscale の機器名が NextDNS のログに出る、サーバと端末でプロファイルを分けられる、Tailscale は DoH にして NextDNS に送る iPhone入れても便利</description>
       <pubDate>Wed, 07 Oct 2026 04:41:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/methylone/status/2107692881955922400</guid>
-    </item>
-    <item>
-      <title>しかし Tailscale と NextDNS が相性良く作ってあるの神</title>
-      <link>https://x.com/methylone/status/2107691336535277928</link>
-      <description>methylone: しかし Tailscale と NextDNS が相性良く作ってあるの神</description>
-      <pubDate>Wed, 07 Oct 2026 04:35:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/methylone/status/2107691336535277928</guid>
-    </item>
-    <item>
-      <title>もはや ルータ含め周辺機器やIoTがぶら下がってるLANは公道と変わらん、信じないことにしたw Tailscale + NextDNS で名前解決も暗号化にしといた</title>
-      <link>https://x.com/methylone/status/2107683310277390534</link>
-      <description>methylone: もはや ルータ含め周辺機器やIoTがぶら下がってるLANは公道と変わらん、信じないことにしたw Tailscale + NextDNS で名前解決も暗号化にしといた</description>
-      <pubDate>Wed, 07 Oct 2026 04:03:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/methylone/status/2107683310277390534</guid>
-    </item>
-    <item>
-      <title>NextDNS えらい便利だな</title>
-      <link>https://x.com/moz_guitar/status/2107402053496832432</link>
-      <description>もず🐱🎸: NextDNS えらい便利だな</description>
-      <pubDate>Tue, 06 Oct 2026 09:26:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moz_guitar/status/2107402053496832432</guid>
-    </item>
-    <item>
-      <title>@Javakamee 私もです👍 画像は NextDNS ですね</title>
-      <link>https://x.com/L_port8000/status/2107386635927384523</link>
-      <description>一樹（いつき）: @Javakamee 私もです👍 画像は NextDNS ですね</description>
-      <pubDate>Tue, 06 Oct 2026 08:25:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8000/status/2107386635927384523</guid>
     </item>
   </channel>
 </rss>

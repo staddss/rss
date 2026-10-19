@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone syncは、コピー元に合わせてコピー先を更新するコマンドで、コピー元にないファイルはコピー先から削除されます。バックアップ先を同期する前に、何が変わるかを確かめる手順です。 https://t.co/eRoQ8OTfFR</title>
+      <link>https://x.com/murasametech/status/2112061196816027777</link>
+      <description>むらさん(Murasan): rclone syncは、コピー元に合わせてコピー先を更新するコマンドで、コピー元にないファイルはコピー先から削除されます。バックアップ先を同期する前に、何が変わるかを確かめる手順です。 https://t.co/eRoQ8OTfFR</description>
+      <pubDate>Mon, 19 Oct 2026 06:00:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2112061196816027777</guid>
+    </item>
+    <item>
       <title>【記事更新】【脱・中間ツール】Restic ＋ Cloudflare R2で「 Rclone 」を外してS3ネイティブ直結にした理由と移行手順 #技術ブログ #Linux https://t.co/18cvBuxCJP</title>
       <link>https://x.com/Chahaaaaaan7000/status/2111591475368878271</link>
       <description>ちゃーはん: 【記事更新】【脱・中間ツール】Restic ＋ Cloudflare R2で「 Rclone 」を外してS3ネイティブ直結にした理由と移行手順 #技術ブログ #Linux https://t.co/18cvBuxCJP</description>
@@ -269,20 +276,6 @@
       <description>QSjp: rclone でバックアップ中。あと約6日かかりそう</description>
       <pubDate>Fri, 25 Sep 2026 07:48:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/QSjp_/status/2103391235792830586</guid>
-    </item>
-    <item>
-      <title>最近はLinuxでも Rclone をホストにして、OneDriveを運用するなど、己のコンピューティングの技術が飛躍的に向上しているような気がする。#Microsoft365 #Word https://t.co/hLAW9rle6A</title>
-      <link>https://x.com/takashi19861223/status/2103155383628091493</link>
-      <description>兼子崇志: 最近はLinuxでも Rclone をホストにして、OneDriveを運用するなど、己のコンピューティングの技術が飛躍的に向上しているような気がする。#Microsoft365 #Word https://t.co/hLAW9rle6A</description>
-      <pubDate>Thu, 24 Sep 2026 16:11:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takashi19861223/status/2103155383628091493</guid>
-    </item>
-    <item>
-      <title>GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</title>
-      <link>https://x.com/RegulusTrash/status/2103092128213868794</link>
-      <description>regulus@れぐるす: GoogleDriveにファイルを転送する rclone というコマンドがあるのか。tarとかでかためた、ブラウザとかマウントした状態の移動とかだと途中で止まっちゃう容量のあるやつをアップロードするのに便利。</description>
-      <pubDate>Thu, 24 Sep 2026 12:00:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RegulusTrash/status/2103092128213868794</guid>
     </item>
   </channel>
 </rss>
