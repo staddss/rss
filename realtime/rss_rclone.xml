@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【WAFログ速報】 34.83.66.181（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/pqDlMJH7CQ</title>
+      <link>https://x.com/zerizerizeri_bl/status/2112167754828755441</link>
+      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.83.66.181（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/pqDlMJH7CQ</description>
+      <pubDate>Mon, 19 Oct 2026 13:03:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2112167754828755441</guid>
+    </item>
+    <item>
+      <title>【WAFログ速報】 34.21.165.99（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/AisZUcyBLH</title>
+      <link>https://x.com/zerizerizeri_bl/status/2112167663778816354</link>
+      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.21.165.99（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/AisZUcyBLH</description>
+      <pubDate>Mon, 19 Oct 2026 13:03:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2112167663778816354</guid>
+    </item>
+    <item>
+      <title>【WAFログ速報】 35.196.252.168（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/DU8mfvnCml</title>
+      <link>https://x.com/zerizerizeri_bl/status/2112167524179783920</link>
+      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 35.196.252.168（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/DU8mfvnCml</description>
+      <pubDate>Mon, 19 Oct 2026 13:02:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2112167524179783920</guid>
+    </item>
+    <item>
+      <title>コストが気になるならS3的な奴に定期的に rclone でも良いよなと、システム作ってると思う。AIにやらせればE2EEで定期自動バックアップツールとかも1時間ぐらいでつくれそう。まあ、僕はお金払ってGoogle様に預けてるけどね。 https://t.co/QlOeiRzqS8</title>
+      <link>https://x.com/espresso3389/status/2112086591216980417</link>
+      <description>Takashi Kawasaki: コストが気になるならS3的な奴に定期的に rclone でも良いよなと、システム作ってると思う。AIにやらせればE2EEで定期自動バックアップツールとかも1時間ぐらいでつくれそう。まあ、僕はお金払ってGoogle様に預けてるけどね。 https://t.co/QlOeiRzqS8</description>
+      <pubDate>Mon, 19 Oct 2026 07:40:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/espresso3389/status/2112086591216980417</guid>
+    </item>
+    <item>
       <title>rclone syncは、コピー元に合わせてコピー先を更新するコマンドで、コピー元にないファイルはコピー先から削除されます。バックアップ先を同期する前に、何が変わるかを確かめる手順です。 https://t.co/eRoQ8OTfFR</title>
       <link>https://x.com/murasametech/status/2112061196816027777</link>
       <description>むらさん(Murasan): rclone syncは、コピー元に合わせてコピー先を更新するコマンドで、コピー元にないファイルはコピー先から削除されます。バックアップ先を同期する前に、何が変わるかを確かめる手順です。 https://t.co/eRoQ8OTfFR</description>
@@ -248,34 +276,6 @@
       <description>emem-zb: クラウド検閲話題でよく挙がる Cryptomator を試用した感想 ●検閲嫌いの方にはお勧めできる ●GUIが親切。 Rclone Crypt と違い黒画面を触る必要がない ●クラウド関係なくファイル暗号化全般に使える ●クラウド利用時は、設定を調整しないと速度がガタ落ちする ●PCド初心者に使わせるには危険要素有</description>
       <pubDate>Sun, 27 Sep 2026 09:51:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/emem_zb/status/2104146800521396593</guid>
-    </item>
-    <item>
-      <title>AIばかり触っていても、こういう基礎知識はやっぱり必要。 いま Rclone でOneDrive BusinessからGoogle Driveへ約48GBを移動中です。 これの良いところは、48GBをいったん自分のPCへ全部保存してから再アップロードする必要がないこと。 経路は OneDrive → 自分のPC上の Rclone → Google Drive https://t.co/dJ3O1sxuHq</title>
-      <link>https://x.com/superdoccimo/status/2103859468916445605</link>
-      <description>美濃加茂まむ: AIばかり触っていても、こういう基礎知識はやっぱり必要。 いま Rclone でOneDrive BusinessからGoogle Driveへ約48GBを移動中です。 これの良いところは、48GBをいったん自分のPCへ全部保存してから再アップロードする必要がないこと。 経路は OneDrive → 自分のPC上の Rclone → Google Drive https://t.co/dJ3O1sxuHq</description>
-      <pubDate>Sat, 26 Sep 2026 14:49:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/superdoccimo/status/2103859468916445605</guid>
-    </item>
-    <item>
-      <title>USB HDDはNASから外してLinux PC側へ。毎晩の rclone でGoogle Driveへ保存した後、rsyncでUSB HDDにも複製する流れにしました。 初回は約2万4千件・76GBを45分で完了。 NAS・クラウド・USB HDDの3か所体制に。 #rsync # rclone #バックアップ</title>
-      <link>https://x.com/NamikiAssoc/status/2103816218570551531</link>
-      <description>Namiki Associates K. K.: USB HDDはNASから外してLinux PC側へ。毎晩の rclone でGoogle Driveへ保存した後、rsyncでUSB HDDにも複製する流れにしました。 初回は約2万4千件・76GBを45分で完了。 NAS・クラウド・USB HDDの3か所体制に。 #rsync # rclone #バックアップ</description>
-      <pubDate>Sat, 26 Sep 2026 11:57:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NamikiAssoc/status/2103816218570551531</guid>
-    </item>
-    <item>
-      <title>googleドライブ等は rclone か何かで自前の暗号レイヤー必須</title>
-      <link>https://x.com/CipherLilium/status/2103472370333933798</link>
-      <description>リリア: googleドライブ等は rclone か何かで自前の暗号レイヤー必須</description>
-      <pubDate>Fri, 25 Sep 2026 13:11:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CipherLilium/status/2103472370333933798</guid>
-    </item>
-    <item>
-      <title>rclone でバックアップ中。あと約6日かかりそう</title>
-      <link>https://x.com/QSjp_/status/2103391235792830586</link>
-      <description>QSjp: rclone でバックアップ中。あと約6日かかりそう</description>
-      <pubDate>Fri, 25 Sep 2026 07:48:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/QSjp_/status/2103391235792830586</guid>
     </item>
   </channel>
 </rss>
