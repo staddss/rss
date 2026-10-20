@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【WAFログ速報】 34.95.218.116（14回）: ディレクトリトラバーサル攻撃を検知。/ rclone .confに対して不正なリクエストを14回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/UcSaq9T5OE</title>
+      <link>https://x.com/zerizerizeri_bl/status/2112167901893738807</link>
+      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.95.218.116（14回）: ディレクトリトラバーサル攻撃を検知。/ rclone .confに対して不正なリクエストを14回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/UcSaq9T5OE</description>
+      <pubDate>Mon, 19 Oct 2026 13:04:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2112167901893738807</guid>
+    </item>
+    <item>
       <title>【WAFログ速報】 34.83.66.181（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/pqDlMJH7CQ</title>
       <link>https://x.com/zerizerizeri_bl/status/2112167754828755441</link>
       <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.83.66.181（17回）: 意図しないファイルの公開の可能性（.conf）攻撃を検知。/ rclone .confに対して不正なリクエストを17回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/pqDlMJH7CQ</description>
@@ -269,13 +276,6 @@
       <description>アカリ｜ネット発掘室: クラウド間のファイル移動や同期をまとめて扱いたいなら rclone 。70以上のクラウドストレージに対応する無料OSSで、コピー・同期・暗号化・マウントなどをコマンドラインから操作できる。複数サービスをまたいで管理したい時に強い。 https://t.co/nBzQMJpxqP</description>
       <pubDate>Mon, 28 Sep 2026 03:30:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/net_hakkutsu/status/2104413313945784600</guid>
-    </item>
-    <item>
-      <title>クラウド検閲話題でよく挙がる Cryptomator を試用した感想 ●検閲嫌いの方にはお勧めできる ●GUIが親切。 Rclone Crypt と違い黒画面を触る必要がない ●クラウド関係なくファイル暗号化全般に使える ●クラウド利用時は、設定を調整しないと速度がガタ落ちする ●PCド初心者に使わせるには危険要素有</title>
-      <link>https://x.com/emem_zb/status/2104146800521396593</link>
-      <description>emem-zb: クラウド検閲話題でよく挙がる Cryptomator を試用した感想 ●検閲嫌いの方にはお勧めできる ●GUIが親切。 Rclone Crypt と違い黒画面を触る必要がない ●クラウド関係なくファイル暗号化全般に使える ●クラウド利用時は、設定を調整しないと速度がガタ落ちする ●PCド初心者に使わせるには危険要素有</description>
-      <pubDate>Sun, 27 Sep 2026 09:51:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/emem_zb/status/2104146800521396593</guid>
     </item>
   </channel>
 </rss>
