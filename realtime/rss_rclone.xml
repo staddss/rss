@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Google Driveの約470GBをOneDriveへ移行しました。 rclone も試しましたが、最終的にSynology NASのCloud Syncを経由する方法を選択。 NASが24時間動いているので、Macを動かさなくても作業すすみました。</title>
+      <link>https://x.com/Pen12252/status/2112296977757278225</link>
+      <description>Sandy16L: Google Driveの約470GBをOneDriveへ移行しました。 rclone も試しましたが、最終的にSynology NASのCloud Syncを経由する方法を選択。 NASが24時間動いているので、Macを動かさなくても作業すすみました。</description>
+      <pubDate>Mon, 19 Oct 2026 21:36:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Pen12252/status/2112296977757278225</guid>
+    </item>
+    <item>
       <title>【WAFログ速報】 34.95.218.116（14回）: ディレクトリトラバーサル攻撃を検知。/ rclone .confに対して不正なリクエストを14回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/UcSaq9T5OE</title>
       <link>https://x.com/zerizerizeri_bl/status/2112167901893738807</link>
       <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.95.218.116（14回）: ディレクトリトラバーサル攻撃を検知。/ rclone .confに対して不正なリクエストを14回送信。システムの脆弱性を探る試行が確認されており、継続的な監視とWAFルールの見直しが必要。 #WAF #セキュリティ #脅威検知 https://t.co/UcSaq9T5OE</description>
@@ -269,13 +276,6 @@
       <description>ぬるぽっぽ工房: rclone v1.72.1 もない。 https://t.co/T74LOrY1FK ソースならある。 https://t.co/Tq5xsCpKcj</description>
       <pubDate>Mon, 28 Sep 2026 07:43:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NullPopPoLab/status/2104477066603438220</guid>
-    </item>
-    <item>
-      <title>クラウド間のファイル移動や同期をまとめて扱いたいなら rclone 。70以上のクラウドストレージに対応する無料OSSで、コピー・同期・暗号化・マウントなどをコマンドラインから操作できる。複数サービスをまたいで管理したい時に強い。 https://t.co/nBzQMJpxqP</title>
-      <link>https://x.com/net_hakkutsu/status/2104413313945784600</link>
-      <description>アカリ｜ネット発掘室: クラウド間のファイル移動や同期をまとめて扱いたいなら rclone 。70以上のクラウドストレージに対応する無料OSSで、コピー・同期・暗号化・マウントなどをコマンドラインから操作できる。複数サービスをまたいで管理したい時に強い。 https://t.co/nBzQMJpxqP</description>
-      <pubDate>Mon, 28 Sep 2026 03:30:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/net_hakkutsu/status/2104413313945784600</guid>
     </item>
   </channel>
 </rss>

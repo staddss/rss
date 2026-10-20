@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>自宅鯖から cloudflare tunnel でMCPをchatgptにつなげたぞ！</title>
+      <link>https://x.com/suzukake88/status/2112173051207123049</link>
+      <description>すずかけ: 自宅鯖から cloudflare tunnel でMCPをchatgptにつなげたぞ！</description>
+      <pubDate>Mon, 19 Oct 2026 13:24:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/suzukake88/status/2112173051207123049</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel で、1アカウントあたりのルート数の上限が1,000から50,000に増えた（米国時間10/16）。 対象は Cloudflare Tunnel とCloudflare MeshのCIDRルートとホスト名ルートで、すべてのアカウントに自動で適用されるので、設定の変更はいらないとのこと。</title>
       <link>https://x.com/multilayer/status/2111246461988217283</link>
       <description>multilayer: Cloudflare Tunnel で、1アカウントあたりのルート数の上限が1,000から50,000に増えた（米国時間10/16）。 対象は Cloudflare Tunnel とCloudflare MeshのCIDRルートとホスト名ルートで、すべてのアカウントに自動で適用されるので、設定の変更はいらないとのこと。</description>
@@ -269,13 +276,6 @@
       <description>Takashi Kawasaki: cloudflaredで Cloudflare Tunnel 使ってウェブサイト作るのが超絶に楽過ぎるので便利なのだが、本当にそれでいいのか？と逆に悩む。もう証明書もFWも何もかも気にしなくてよくなる感じがむしろ怖い。</description>
       <pubDate>Wed, 07 Oct 2026 18:44:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/espresso3389/status/2107904991973540259</guid>
-    </item>
-    <item>
-      <title>なんかいいtcp proxyねーかなー。 cloudflare tunnel でもいーけど、自前でcloudflaredを動かすのはな</title>
-      <link>https://x.com/cml5YQ/status/2107897633977311657</link>
-      <description>cml5YQ==: なんかいいtcp proxyねーかなー。 cloudflare tunnel でもいーけど、自前でcloudflaredを動かすのはな</description>
-      <pubDate>Wed, 07 Oct 2026 18:15:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cml5YQ/status/2107897633977311657</guid>
     </item>
   </channel>
 </rss>

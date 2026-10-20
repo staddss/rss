@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Linux の WireGuard って初めて試したんだけど、すごいね……。すごい便利</title>
+      <link>https://x.com/ginpei_jp/status/2112426541154181486</link>
+      <description>高梨ギンペイ: Linux の WireGuard って初めて試したんだけど、すごいね……。すごい便利</description>
+      <pubDate>Tue, 20 Oct 2026 06:11:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ginpei_jp/status/2112426541154181486</guid>
+    </item>
+    <item>
       <title>今日は帰ってからHyper-V→Ubuntu→Docker→ WireGuard とAdGuard Homeまでやった</title>
       <link>https://x.com/ZAKO_hitsuji/status/2112191912572830006</link>
       <description>EightKaz/よわひつじ: 今日は帰ってからHyper-V→Ubuntu→Docker→ WireGuard とAdGuard Homeまでやった</description>
@@ -269,13 +276,6 @@
       <description>AI開発コネクト: wg-adminは、管理ツールとして非常に便利です。設定ファイルの書き換えを簡素化でき、時間の節約になるでしょう。 WireGuard でVPNを運用している場合は、導入を検討してもらえると助かります。</description>
       <pubDate>Mon, 12 Oct 2026 08:10:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ai_develop_conn/status/2109557261609980215</guid>
-    </item>
-    <item>
-      <title>wg-adminは、既存の WireGuard 設定を引き継ぎ、Peerの追加や編集を行うことができます。ブラウザからQRコードを生成したり、接続状況を確認したりすることも可能です。 #生成AI #AI #AIニュース https://t.co/7xFxA9nWFB</title>
-      <link>https://x.com/ai_develop_conn/status/2109557258308993245</link>
-      <description>AI開発コネクト: wg-adminは、既存の WireGuard 設定を引き継ぎ、Peerの追加や編集を行うことができます。ブラウザからQRコードを生成したり、接続状況を確認したりすることも可能です。 #生成AI #AI #AIニュース https://t.co/7xFxA9nWFB</description>
-      <pubDate>Mon, 12 Oct 2026 08:10:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ai_develop_conn/status/2109557258308993245</guid>
     </item>
   </channel>
 </rss>
