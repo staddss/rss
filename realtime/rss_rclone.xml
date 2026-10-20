@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>DropboxをLinuxマシンにバックアップとってる rclone 、いろいろ速度制限入れてるとはいえ、60Gごときの同期に2日以上かかってるw Transferred: 4.016 MiB / 4.016 MiB, 100%, 4.112 KiB/s, ETA 0s Checks: 1344977 / 1344977, 100%, Listed 3068138 Deleted: 88</title>
+      <link>https://x.com/PharaohKJ/status/2112462611036205561</link>
+      <description>ふぁらお加藤: DropboxをLinuxマシンにバックアップとってる rclone 、いろいろ速度制限入れてるとはいえ、60Gごときの同期に2日以上かかってるw Transferred: 4.016 MiB / 4.016 MiB, 100%, 4.112 KiB/s, ETA 0s Checks: 1344977 / 1344977, 100%, Listed 3068138 Deleted: 88</description>
+      <pubDate>Tue, 20 Oct 2026 08:35:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PharaohKJ/status/2112462611036205561</guid>
+    </item>
+    <item>
       <title>Google Driveの約470GBをOneDriveへ移行しました。 rclone も試しましたが、最終的にSynology NASのCloud Syncを経由する方法を選択。 NASが24時間動いているので、Macを動かさなくても作業すすみました。</title>
       <link>https://x.com/Pen12252/status/2112296977757278225</link>
       <description>Sandy16L: Google Driveの約470GBをOneDriveへ移行しました。 rclone も試しましたが、最終的にSynology NASのCloud Syncを経由する方法を選択。 NASが24時間動いているので、Macを動かさなくても作業すすみました。</description>
@@ -269,13 +276,6 @@
       <description>ぬるぽっぽ工房: Batocera41時代に扱ってた rclone -v1.69.1-go2.tar.gz なら一応通るみたい。 現行版のReleasesにはgo2用アーカイブなくてコケてる模様。</description>
       <pubDate>Mon, 28 Sep 2026 08:38:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NullPopPoLab/status/2104490836436340905</guid>
-    </item>
-    <item>
-      <title>rclone v1.72.1 もない。 https://t.co/T74LOrY1FK ソースならある。 https://t.co/Tq5xsCpKcj</title>
-      <link>https://x.com/NullPopPoLab/status/2104477066603438220</link>
-      <description>ぬるぽっぽ工房: rclone v1.72.1 もない。 https://t.co/T74LOrY1FK ソースならある。 https://t.co/Tq5xsCpKcj</description>
-      <pubDate>Mon, 28 Sep 2026 07:43:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NullPopPoLab/status/2104477066603438220</guid>
     </item>
   </channel>
 </rss>

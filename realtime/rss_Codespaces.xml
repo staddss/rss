@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2112342199421603894</guid>
     </item>
     <item>
+      <title>ようやくGitHubの Codespaces 、おっかなびっくりじゃなくて、こんなんでいけるか？みたいなメンタルで使えるようになった。ターミナルも、このコマンド、よく分からんけど、なんか前にGitのハンズオンでやったことあるな？という既視感でやれるようになったから、やっぱり慣れなんだなぁ。</title>
+      <link>https://x.com/totonori0522/status/2112167316725366922</link>
+      <description>トト: ようやくGitHubの Codespaces 、おっかなびっくりじゃなくて、こんなんでいけるか？みたいなメンタルで使えるようになった。ターミナルも、このコマンド、よく分からんけど、なんか前にGitのハンズオンでやったことあるな？という既視感でやれるようになったから、やっぱり慣れなんだなぁ。</description>
+      <pubDate>Mon, 19 Oct 2026 13:01:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/totonori0522/status/2112167316725366922</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE比較ガイド： Codespaces ・Gitpod・Cloud9 の実務的な選び方と1週間PoC手順 https://t.co/lYvTdQZicq #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2111979805616828913</link>
       <description>EngiNear: 【新着記事】クラウドIDE比較ガイド： Codespaces ・Gitpod・Cloud9 の実務的な選び方と1週間PoC手順 https://t.co/lYvTdQZicq #エンジニア #ChatGPT #AI</description>
@@ -269,13 +276,6 @@
       <description>EngiNear: 【新着記事】クラウドIDE比較ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と2週間トライの手順（エンジニア向け） https://t.co/JnmlO5dlJu #エンジニア #ChatGPT #AI</description>
       <pubDate>Sun, 04 Oct 2026 00:36:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2106543985904812417</guid>
-    </item>
-    <item>
-      <title>https://t.co/fKphuPDkca Actions/Agents/ Codespaces /Dependabot シークレットが1コマンドでコピー可能。リポジトリアクセス権限の設定がコピーされてなかったのを修正した。</title>
-      <link>https://x.com/srz_zumix/status/2106296198189699231</link>
-      <description>ずみっくす（黄色）: https://t.co/fKphuPDkca Actions/Agents/ Codespaces /Dependabot シークレットが1コマンドでコピー可能。リポジトリアクセス権限の設定がコピーされてなかったのを修正した。</description>
-      <pubDate>Sat, 03 Oct 2026 08:12:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/srz_zumix/status/2106296198189699231</guid>
     </item>
   </channel>
 </rss>

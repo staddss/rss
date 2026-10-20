@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '&quot;Pipewire&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>作業枠に来ていただいた人に教えてもらったんだが どうやらひまりのライブ投影というよりかは、Wayland環境とOBSの PipeWire 間の問題で描画が止まっているそうな 自分ではずっとひまりのテレビ画面が真っ暗なので全然気づかなかったが どうにかならんかなぁ</title>
+      <link>https://x.com/yocto_mns/status/2112169440284750111</link>
+      <description>ゲームを作っているのはyoctoさん: 作業枠に来ていただいた人に教えてもらったんだが どうやらひまりのライブ投影というよりかは、Wayland環境とOBSの PipeWire 間の問題で描画が止まっているそうな 自分ではずっとひまりのテレビ画面が真っ暗なので全然気づかなかったが どうにかならんかなぁ</description>
+      <pubDate>Mon, 19 Oct 2026 13:10:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yocto_mns/status/2112169440284750111</guid>
+    </item>
+    <item>
       <title>Pi400で音出せない問題は、Btデバイスなら音出せた。ただPCMエンコードで pipewire -alsaが必要だった。wp-playは再生できるのにaplayは再生できなくてまじでわけわかめだった。AIちゃん有能すぎる</title>
       <link>https://x.com/_akagire_/status/2111837171846115653</link>
       <description>しぃる: Pi400で音出せない問題は、Btデバイスなら音出せた。ただPCMエンコードで pipewire -alsaが必要だった。wp-playは再生できるのにaplayは再生できなくてまじでわけわかめだった。AIちゃん有能すぎる</description>
@@ -108,13 +115,6 @@
       <description>嶋田大貴: GNOME Remote Desktop 50でビデオキャプチャデバイスのリダイレクトに対応した（mstsc.exe側でビデオキャプチャデバイスを有効にするとLinux側で PipeWire を通じて見える）んだけど、思ったより全然遅延がなくてちゃんとしてた。</description>
       <pubDate>Tue, 22 Sep 2026 02:04:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shimarin/status/2102217423172866263</guid>
-    </item>
-    <item>
-      <title>Linux向けで出してるの有名どこだとシンセのVitalくらいしか知らないっすね Waves,iZotope,fabFilterからMelda,kiloheartsなんかの無料プラグインまで、だいたい非対応 Win向けのVSTやLV2/CLAPを抽出しても当然動くはずもなく（実験済み あとDAWは Pipewire とFlatpakのせいで混沌です https://t.co/p8Opr9jioG</title>
-      <link>https://x.com/OnslaughtktnP/status/2101624949731733548</link>
-      <description>猛攻型ことねP(ひうが) | 低浮上 Discord欲しい方ご連絡を: Linux向けで出してるの有名どこだとシンセのVitalくらいしか知らないっすね Waves,iZotope,fabFilterからMelda,kiloheartsなんかの無料プラグインまで、だいたい非対応 Win向けのVSTやLV2/CLAPを抽出しても当然動くはずもなく（実験済み あとDAWは Pipewire とFlatpakのせいで混沌です https://t.co/p8Opr9jioG</description>
-      <pubDate>Sun, 20 Sep 2026 10:50:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OnslaughtktnP/status/2101624949731733548</guid>
     </item>
   </channel>
 </rss>
