@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>なんか今日頻繁にしょぼかる死んでんな Error 1033 Cloudflare Tunnel error</title>
+      <link>https://x.com/kurosan_1f/status/2112902309865021702</link>
+      <description>くろさん✿: なんか今日頻繁にしょぼかる死んでんな Error 1033 Cloudflare Tunnel error</description>
+      <pubDate>Wed, 21 Oct 2026 13:42:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kurosan_1f/status/2112902309865021702</guid>
+    </item>
+    <item>
+      <title>自宅サーバー公開を止めて Cloudflare Tunnel に切り替えた過去の自分を褒めてやりたい まぁ WordPress 止めてアップグレードに着手してるけど https://t.co/G75Ibj2A3U</title>
+      <link>https://x.com/tjlDotEsB26uXTr/status/2112879844065521831</link>
+      <description>玖堂恵: 自宅サーバー公開を止めて Cloudflare Tunnel に切り替えた過去の自分を褒めてやりたい まぁ WordPress 止めてアップグレードに着手してるけど https://t.co/G75Ibj2A3U</description>
+      <pubDate>Wed, 21 Oct 2026 12:13:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tjlDotEsB26uXTr/status/2112879844065521831</guid>
+    </item>
+    <item>
+      <title>自宅ネットワークの関係で Cloudflare Tunnel 経由にした副作用でCloudflare経由にしたけど なんかラッキー選択だったらしい（Cloudflare WAFのPHP脆弱性対応）</title>
+      <link>https://x.com/abdda149/status/2112879312013795410</link>
+      <description>Volk149: 自宅ネットワークの関係で Cloudflare Tunnel 経由にした副作用でCloudflare経由にしたけど なんかラッキー選択だったらしい（Cloudflare WAFのPHP脆弱性対応）</description>
+      <pubDate>Wed, 21 Oct 2026 12:10:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/abdda149/status/2112879312013795410</guid>
+    </item>
+    <item>
+      <title>本題とはちょっと違うけど、 Cloudflare Tunnel （cloudflared）を利用すると、Cloudflareをリバースプロキシとして経由するため、サーバーの実IPを外部に公開せずにWebサービスを運用できます。 さらにCloudflare WAFでアクセス制御を行い、Cloudflare https://t.co/0vGhFXY6hP</title>
+      <link>https://x.com/taiyop/status/2112837958269317300</link>
+      <description>たいよっぷ | Harness Engineer: 本題とはちょっと違うけど、 Cloudflare Tunnel （cloudflared）を利用すると、Cloudflareをリバースプロキシとして経由するため、サーバーの実IPを外部に公開せずにWebサービスを運用できます。 さらにCloudflare WAFでアクセス制御を行い、Cloudflare https://t.co/0vGhFXY6hP</description>
+      <pubDate>Wed, 21 Oct 2026 09:26:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taiyop/status/2112837958269317300</guid>
+    </item>
+    <item>
+      <title>自宅サーバー公開の名残りで Cloudflare tunnel 使用でも DMZ に配置しておいてよかった</title>
+      <link>https://x.com/tjlDotEsB26uXTr/status/2112835062651929019</link>
+      <description>玖堂恵: 自宅サーバー公開の名残りで Cloudflare tunnel 使用でも DMZ に配置しておいてよかった</description>
+      <pubDate>Wed, 21 Oct 2026 09:15:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tjlDotEsB26uXTr/status/2112835062651929019</guid>
+    </item>
+    <item>
       <title>ゆーもちゃんが、CloudComputeのおすすめの使い方を紹介！✨ 🌐 Webサイト公開 → Cloudflare Tunnel ＋ 共有IPプランがおすすめ！ 🎮 VPN・ゲームサーバー → 専有IPプランがおすすめ！ 💻 開発・テスト環境 → 好きなOSで自由に構築！ 🗄️ データベース・各種サービス → https://t.co/mwrPsa2TLI</title>
       <link>https://x.com/UGOEMOCloud/status/2112769508389835224</link>
       <description>UGOEMO Cloud: ゆーもちゃんが、CloudComputeのおすすめの使い方を紹介！✨ 🌐 Webサイト公開 → Cloudflare Tunnel ＋ 共有IPプランがおすすめ！ 🎮 VPN・ゲームサーバー → 専有IPプランがおすすめ！ 💻 開発・テスト環境 → 好きなOSで自由に構築！ 🗄️ データベース・各種サービス → https://t.co/mwrPsa2TLI</description>
@@ -24,6 +59,13 @@
       <description>abeshi: こうなってるよ。 【インターネット】 │ ▼ Cloudflare │ ▼ Cloudflare Tunnel │ ▼ 【自宅Windowsマシン】 │ ▼ Docker Desktop │ ▼ WSL2（Linux環境） │ ▼ Docker Engine │</description>
       <pubDate>Tue, 20 Oct 2026 13:44:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/abeshi_mark2/status/2112540381296623699</guid>
+    </item>
+    <item>
+      <title>@pdhaku0 保守は人によって求めるレベルが違うので何とも言えないですが、判断材料になれば… 【構成】Proxmox上にct立てて cloudflare tunnel （or tailscale）で接続、Dockerで立ててるので定期的に最新化する感じでやってます</title>
+      <link>https://x.com/TomyFovos/status/2112537150042607844</link>
+      <description>Tomy: @pdhaku0 保守は人によって求めるレベルが違うので何とも言えないですが、判断材料になれば… 【構成】Proxmox上にct立てて cloudflare tunnel （or tailscale）で接続、Dockerで立ててるので定期的に最新化する感じでやってます</description>
+      <pubDate>Tue, 20 Oct 2026 13:31:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TomyFovos/status/2112537150042607844</guid>
     </item>
     <item>
       <title>@neutron42jp 調べたが、私の用途には全く適してなさそう 公開するなら cloudflare tunnel を使うと思う</title>
@@ -234,48 +276,6 @@
       <description>Akira Kano: 【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</description>
       <pubDate>Sat, 10 Oct 2026 15:19:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/akira_x_kanou/status/2108940419174392062</guid>
-    </item>
-    <item>
-      <title>Mullvadに接続しながら Cloudflare Tunnel で公開しようとしたら何回やってもできないから、調べたらCloudflareがMullvadのサーバーををブロックしてるようだった（Abuse対策？） のでProton VPNに切り替えたらVPN経由で公開できましたとさ</title>
-      <link>https://x.com/cheenanet/status/2108859917461533120</link>
-      <description>Cheena: Mullvadに接続しながら Cloudflare Tunnel で公開しようとしたら何回やってもできないから、調べたらCloudflareがMullvadのサーバーををブロックしてるようだった（Abuse対策？） のでProton VPNに切り替えたらVPN経由で公開できましたとさ</description>
-      <pubDate>Sat, 10 Oct 2026 09:59:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheenanet/status/2108859917461533120</guid>
-    </item>
-    <item>
-      <title>きょうは中学生の前での特別授業。 Claude CodeでWebアプリを作成し、 Cloudflare Tunnel つかってローカルアプリを一時的に公開して使ってもらって大好評。Ngrok使わなくてもいいのは超ラクだった。 https://t.co/TRRvQIQDPZ</title>
-      <link>https://x.com/fado_dev/status/2108740330568986748</link>
-      <description>Fado: きょうは中学生の前での特別授業。 Claude CodeでWebアプリを作成し、 Cloudflare Tunnel つかってローカルアプリを一時的に公開して使ってもらって大好評。Ngrok使わなくてもいいのは超ラクだった。 https://t.co/TRRvQIQDPZ</description>
-      <pubDate>Sat, 10 Oct 2026 02:04:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fado_dev/status/2108740330568986748</guid>
-    </item>
-    <item>
-      <title>これまでのレベルではちょっと看過できない状況になってきたので、SSHの公開Port を CloudFlare Tunnel で被せようと思ったんだが、おいらの使い方だとちょっと運用がめんどくさすぎるので、ちょいと検討中。</title>
-      <link>https://x.com/holyz/status/2108197175641645127</link>
-      <description>holyz: これまでのレベルではちょっと看過できない状況になってきたので、SSHの公開Port を CloudFlare Tunnel で被せようと思ったんだが、おいらの使い方だとちょっと運用がめんどくさすぎるので、ちょいと検討中。</description>
-      <pubDate>Thu, 08 Oct 2026 14:05:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/holyz/status/2108197175641645127</guid>
-    </item>
-    <item>
-      <title>@TanakaKenichi_ ですねー、ほんと便利な環境がお安く使えるようになってありがたい限りです セキュリティ周りの細かい設定を手動でやるのしんどいですしね... Cloudflare Tunnel 使うと Grok Bot 環境で動かしてるアプリに外からアクセスできたりするのも気に入ってます</title>
-      <link>https://x.com/old_pgmrs_will/status/2108106836088181032</link>
-      <description>いにしえ@高信頼AIニュース&quot;NeuralWire.org&quot;運営｜Will Oldgram: @TanakaKenichi_ ですねー、ほんと便利な環境がお安く使えるようになってありがたい限りです セキュリティ周りの細かい設定を手動でやるのしんどいですしね... Cloudflare Tunnel 使うと Grok Bot 環境で動かしてるアプリに外からアクセスできたりするのも気に入ってます</description>
-      <pubDate>Thu, 08 Oct 2026 08:06:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2108106836088181032</guid>
-    </item>
-    <item>
-      <title>@old_pgmrs_will 現在、自宅PCをWebサーバにしていますが、 Cloudflare Tunnel と Cloudflare Acaess 使っていろいろ試しています。 昔はこんなサービス使う場合は月に1万円ぐらいかかりそうな感じでしたが、今は無料で使えて、設定もGrokBotが全てやってくれるのでなんと良い時代になったことか</title>
-      <link>https://x.com/TanakaKenichi_/status/2108103661209661689</link>
-      <description>たなかけんいちまる: @old_pgmrs_will 現在、自宅PCをWebサーバにしていますが、 Cloudflare Tunnel と Cloudflare Acaess 使っていろいろ試しています。 昔はこんなサービス使う場合は月に1万円ぐらいかかりそうな感じでしたが、今は無料で使えて、設定もGrokBotが全てやってくれるのでなんと良い時代になったことか</description>
-      <pubDate>Thu, 08 Oct 2026 07:54:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TanakaKenichi_/status/2108103661209661689</guid>
-    </item>
-    <item>
-      <title>nat instanceってバカ高いから cloudflare tunnel つかえばいいのか！！</title>
-      <link>https://x.com/oujirouu/status/2108102614152069616</link>
-      <description>きりまんじゃろ: nat instanceってバカ高いから cloudflare tunnel つかえばいいのか！！</description>
-      <pubDate>Thu, 08 Oct 2026 07:50:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oujirouu/status/2108102614152069616</guid>
     </item>
   </channel>
 </rss>
