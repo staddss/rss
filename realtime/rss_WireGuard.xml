@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard やShadowsocks使えば良い 日本人はとにかく怖いものには触らなければ良いと思ってるようだけど、ちゃんと知識付けた対応したほうが良くない？ https://t.co/OqEBXPQlI2</title>
+      <link>https://x.com/numanuma_72/status/2112786973803126980</link>
+      <description>mio💛: WireGuard やShadowsocks使えば良い 日本人はとにかく怖いものには触らなければ良いと思ってるようだけど、ちゃんと知識付けた対応したほうが良くない？ https://t.co/OqEBXPQlI2</description>
+      <pubDate>Wed, 21 Oct 2026 06:04:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/numanuma_72/status/2112786973803126980</guid>
+    </item>
+    <item>
+      <title>社内やクライアント先のVPNを検討中。 WireGuard が良さげな感じかな</title>
+      <link>https://x.com/dochin3926/status/2112755988176806134</link>
+      <description>どうちん: 社内やクライアント先のVPNを検討中。 WireGuard が良さげな感じかな</description>
+      <pubDate>Wed, 21 Oct 2026 04:00:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dochin3926/status/2112755988176806134</guid>
+    </item>
+    <item>
+      <title>Tailscaleから WireGuard だけに切り替えた</title>
+      <link>https://x.com/jp7wfp/status/2112699122310656204</link>
+      <description>ののゆー: Tailscaleから WireGuard だけに切り替えた</description>
+      <pubDate>Wed, 21 Oct 2026 00:14:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jp7wfp/status/2112699122310656204</guid>
+    </item>
+    <item>
+      <title>@matsuu leak detection と split tunnel が入っているのが大きな違いです。 WireGuard と OpenVPN を同じTUIで切り替えられるので、ログとトラフィックを同じ画面で確認できるのは設計として正しいと思います。</title>
+      <link>https://x.com/vshengbro/status/2112637769109704937</link>
+      <description>sheng: @matsuu leak detection と split tunnel が入っているのが大きな違いです。 WireGuard と OpenVPN を同じTUIで切り替えられるので、ログとトラフィックを同じ画面で確認できるのは設計として正しいと思います。</description>
+      <pubDate>Tue, 20 Oct 2026 20:11:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/vshengbro/status/2112637769109704937</guid>
+    </item>
+    <item>
       <title>Linux の WireGuard って初めて試したんだけど、すごいね……。すごい便利</title>
       <link>https://x.com/ginpei_jp/status/2112426541154181486</link>
       <description>高梨ギンペイ: Linux の WireGuard って初めて試したんだけど、すごいね……。すごい便利</description>
@@ -248,34 +276,6 @@
       <description>Aomaru.S: PostfixとDovecotでメールサーバが完成🙌 ついでにGitLabにもSMTP設定してシステムメール送れるようにした🙌 独自ドメインだからDNSも構築してるし、外出先から使えるように WireGuard も動いてる。 ほんといろんなサーバが連携してるよ、、、 https://t.co/yqUPrRpef3</description>
       <pubDate>Mon, 12 Oct 2026 12:44:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Aomaru_S/status/2109626274281046143</guid>
-    </item>
-    <item>
-      <title>Pi-hole 19800円 DDNS＋ WireGuard 8800円(ボリ気味ｗ 商品化どうｗ https://t.co/paX8LDVoOd</title>
-      <link>https://x.com/GEEEEEK17/status/2109611476902379995</link>
-      <description>おい小池: Pi-hole 19800円 DDNS＋ WireGuard 8800円(ボリ気味ｗ 商品化どうｗ https://t.co/paX8LDVoOd</description>
-      <pubDate>Mon, 12 Oct 2026 11:45:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GEEEEEK17/status/2109611476902379995</guid>
-    </item>
-    <item>
-      <title>DDNS＋Pi-hole 19800円 + WireGuard 8800円(ボリ気味ｗ 商品化どうｗ https://t.co/r584nm0e9k</title>
-      <link>https://x.com/GEEEEEK17/status/2109610195123151017</link>
-      <description>おい小池: DDNS＋Pi-hole 19800円 + WireGuard 8800円(ボリ気味ｗ 商品化どうｗ https://t.co/r584nm0e9k</description>
-      <pubDate>Mon, 12 Oct 2026 11:40:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GEEEEEK17/status/2109610195123151017</guid>
-    </item>
-    <item>
-      <title>Nord &lt;-&gt; オプタゲ10G 素 WireGuard で3Gbps超えるらしいw https://t.co/2TZMPZkohY</title>
-      <link>https://x.com/minosJP/status/2109607086246232230</link>
-      <description>minos: Nord &lt;-&gt; オプタゲ10G 素 WireGuard で3Gbps超えるらしいw https://t.co/2TZMPZkohY</description>
-      <pubDate>Mon, 12 Oct 2026 11:28:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/minosJP/status/2109607086246232230</guid>
-    </item>
-    <item>
-      <title>セルフホストで簡単に管理を効率化できるのは魅力的ですね。 WireGuard の運用環境をより快適にする良いツールだと思います。 https://t.co/OGLTi1O2LY</title>
-      <link>https://x.com/tamamaniconico/status/2109606623601959240</link>
-      <description>たまま@楽天社員: セルフホストで簡単に管理を効率化できるのは魅力的ですね。 WireGuard の運用環境をより快適にする良いツールだと思います。 https://t.co/OGLTi1O2LY</description>
-      <pubDate>Mon, 12 Oct 2026 11:26:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tamamaniconico/status/2109606623601959240</guid>
     </item>
   </channel>
 </rss>

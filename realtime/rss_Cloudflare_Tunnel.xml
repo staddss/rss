@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ゆーもちゃんが、CloudComputeのおすすめの使い方を紹介！✨ 🌐 Webサイト公開 → Cloudflare Tunnel ＋ 共有IPプランがおすすめ！ 🎮 VPN・ゲームサーバー → 専有IPプランがおすすめ！ 💻 開発・テスト環境 → 好きなOSで自由に構築！ 🗄️ データベース・各種サービス → https://t.co/mwrPsa2TLI</title>
+      <link>https://x.com/UGOEMOCloud/status/2112769508389835224</link>
+      <description>UGOEMO Cloud: ゆーもちゃんが、CloudComputeのおすすめの使い方を紹介！✨ 🌐 Webサイト公開 → Cloudflare Tunnel ＋ 共有IPプランがおすすめ！ 🎮 VPN・ゲームサーバー → 専有IPプランがおすすめ！ 💻 開発・テスト環境 → 好きなOSで自由に構築！ 🗄️ データベース・各種サービス → https://t.co/mwrPsa2TLI</description>
+      <pubDate>Wed, 21 Oct 2026 04:54:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UGOEMOCloud/status/2112769508389835224</guid>
+    </item>
+    <item>
+      <title>@xiombatsg privateなHeadlessにして Cloudflare tunnel を想定してます</title>
+      <link>https://x.com/MotoyasuYamada/status/2112761978540470428</link>
+      <description>やまもん🔥チャリ走🔥: @xiombatsg privateなHeadlessにして Cloudflare tunnel を想定してます</description>
+      <pubDate>Wed, 21 Oct 2026 04:24:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MotoyasuYamada/status/2112761978540470428</guid>
+    </item>
+    <item>
       <title>こうなってるよ。 【インターネット】 │ ▼ Cloudflare │ ▼ Cloudflare Tunnel │ ▼ 【自宅Windowsマシン】 │ ▼ Docker Desktop │ ▼ WSL2（Linux環境） │ ▼ Docker Engine │</title>
       <link>https://x.com/abeshi_mark2/status/2112540381296623699</link>
       <description>abeshi: こうなってるよ。 【インターネット】 │ ▼ Cloudflare │ ▼ Cloudflare Tunnel │ ▼ 【自宅Windowsマシン】 │ ▼ Docker Desktop │ ▼ WSL2（Linux環境） │ ▼ Docker Engine │</description>
@@ -262,20 +276,6 @@
       <description>きりまんじゃろ: nat instanceってバカ高いから cloudflare tunnel つかえばいいのか！！</description>
       <pubDate>Thu, 08 Oct 2026 07:50:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oujirouu/status/2108102614152069616</guid>
-    </item>
-    <item>
-      <title>最近 Cloudflare Tunnel をオススメしている情報をよく見るからやろうと思ったけど、これドメイン登録必須なのか。 しかもリクエスト単位のアップロード制限もあるし速度も速くないから、用途的に完全な置換は出来ないなぁ。 それでドメイン管理を始めるのもけっこうめんどくさい。。</title>
-      <link>https://x.com/96sc_/status/2108083079818662151</link>
-      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: 最近 Cloudflare Tunnel をオススメしている情報をよく見るからやろうと思ったけど、これドメイン登録必須なのか。 しかもリクエスト単位のアップロード制限もあるし速度も速くないから、用途的に完全な置換は出来ないなぁ。 それでドメイン管理を始めるのもけっこうめんどくさい。。</description>
-      <pubDate>Thu, 08 Oct 2026 06:32:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/96sc_/status/2108083079818662151</guid>
-    </item>
-    <item>
-      <title>Cloudflare tunnel を自宅鯖に採用はしてない。あまり外部サービスに依存したくないから。自律的に動作して、トラブっても縮退で済むようにしたい。</title>
-      <link>https://x.com/rioriost/status/2107946732151845370</link>
-      <description>ただの養蜂家だ🐝🇺🇦: Cloudflare tunnel を自宅鯖に採用はしてない。あまり外部サービスに依存したくないから。自律的に動作して、トラブっても縮退で済むようにしたい。</description>
-      <pubDate>Wed, 07 Oct 2026 21:30:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rioriost/status/2107946732151845370</guid>
     </item>
   </channel>
 </rss>
