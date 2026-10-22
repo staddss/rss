@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/MotoyasuYamada/status/2113055950924075436</guid>
     </item>
     <item>
+      <title>結局ロリポップのサーバーのメンテナンスが終わるかこの時間に読めないので、業務に支障を来す訳にもいかず、急遽 Cloudflare Tunnel で業務システムを一時的に取引先に公開して凌ぐことにした。 まぁあと2時間以内にメンテナンスが終わればそれがベストではあるんだけどね〜 これで寝れる。</title>
+      <link>https://x.com/KanaguPhoto/status/2113031656177328153</link>
+      <description>KANAGU: 結局ロリポップのサーバーのメンテナンスが終わるかこの時間に読めないので、業務に支障を来す訳にもいかず、急遽 Cloudflare Tunnel で業務システムを一時的に取引先に公開して凌ぐことにした。 まぁあと2時間以内にメンテナンスが終わればそれがベストではあるんだけどね〜 これで寝れる。</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KanaguPhoto/status/2113031656177328153</guid>
+    </item>
+    <item>
       <title>うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</title>
       <link>https://x.com/keita_roboin/status/2112967678281621803</link>
       <description>ろぼいん: うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</description>
@@ -269,13 +276,6 @@
       <description>フシハラ: webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</description>
       <pubDate>Mon, 12 Oct 2026 06:47:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fushihara/status/2109536386785415298</guid>
-    </item>
-    <item>
-      <title>うちはアプライアンスではなく CloudFlare + tunnel とGoogle cloud認証組み合わせてるが、それでもヤバいもんかな。 ま、絶対なんてものがないのはわかるが。 https://t.co/g4kAFxxERY</title>
-      <link>https://x.com/exbaron/status/2109389507133141154</link>
-      <description>ギガ男爵（中年男性？: うちはアプライアンスではなく CloudFlare + tunnel とGoogle cloud認証組み合わせてるが、それでもヤバいもんかな。 ま、絶対なんてものがないのはわかるが。 https://t.co/g4kAFxxERY</description>
-      <pubDate>Sun, 11 Oct 2026 21:03:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/exbaron/status/2109389507133141154</guid>
     </item>
   </channel>
 </rss>

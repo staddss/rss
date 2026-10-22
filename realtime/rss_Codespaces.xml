@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】実務で選ぶクラウドIDE比較： Codespaces ・Gitpod・Cloud9 の最短導入ガイド（PoCテンプレ付） https://t.co/zlUsama7MP #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2113068108055285877</link>
+      <description>EngiNear: 【新着記事】実務で選ぶクラウドIDE比較： Codespaces ・Gitpod・Cloud9 の最短導入ガイド（PoCテンプレ付） https://t.co/zlUsama7MP #エンジニア #ChatGPT #AI</description>
+      <pubDate>Thu, 22 Oct 2026 00:41:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2113068108055285877</guid>
+    </item>
+    <item>
       <title>先週 OSS として公開した network-xray は、 お手持ちの containerlab のラボでも使えます。 動いているプロトコルを state から判断して描くので、 RCLの問題専用ではありません。 README の「Open in GitHub Codespaces 」で 2～3 分ほどで試せます。 https://t.co/62BK2iN3Ge #containerlab #FRR https://t.co/r5PwgxFqVp</title>
       <link>https://x.com/routecrushlab/status/2112499068270461331</link>
       <description>routecrushlab: 先週 OSS として公開した network-xray は、 お手持ちの containerlab のラボでも使えます。 動いているプロトコルを state から判断して描くので、 RCLの問題専用ではありません。 README の「Open in GitHub Codespaces 」で 2～3 分ほどで試せます。 https://t.co/62BK2iN3Ge #containerlab #FRR https://t.co/r5PwgxFqVp</description>
@@ -269,20 +276,6 @@
       <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適な選び方と2週間PoC手順 https://t.co/OE5MWnLwCq #エンジニア #ChatGPT #AI</description>
       <pubDate>Mon, 05 Oct 2026 00:36:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2106906267780358174</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの実務的選び方：GitHub Codespaces ・Gitpod・AWS Cloud9 を短期PoCで決める方法 https://t.co/NwuYhXP9fJ #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2106604287102988398</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの実務的選び方：GitHub Codespaces ・Gitpod・AWS Cloud9 を短期PoCで決める方法 https://t.co/NwuYhXP9fJ #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sun, 04 Oct 2026 04:36:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2106604287102988398</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と2週間トライの手順（エンジニア向け） https://t.co/JnmlO5dlJu #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2106543985904812417</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較ガイド：GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と2週間トライの手順（エンジニア向け） https://t.co/JnmlO5dlJu #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sun, 04 Oct 2026 00:36:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2106543985904812417</guid>
     </item>
   </channel>
 </rss>

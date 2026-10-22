@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/aliexp_store/status/2112846462736548276</guid>
     </item>
     <item>
+      <title>@Serioladumeril どちらも128GBでモデルに使えるのは約96GB。差は帯域で、 Ryzen AI Max + 395は約256GB/s、M5 Maxは614GB/s。書く速度はほぼこの比（約2.4倍）です。llama.cppの実測では長いプロンプトを読む速さも約2.5倍（3,220 vs 1,289</title>
+      <link>https://x.com/MLXapp/status/2112840549744988657</link>
+      <description>MLX.app: @Serioladumeril どちらも128GBでモデルに使えるのは約96GB。差は帯域で、 Ryzen AI Max + 395は約256GB/s、M5 Maxは614GB/s。書く速度はほぼこの比（約2.4倍）です。llama.cppの実測では長いプロンプトを読む速さも約2.5倍（3,220 vs 1,289</description>
+      <pubDate>Wed, 21 Oct 2026 09:36:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MLXapp/status/2112840549744988657</guid>
+    </item>
+    <item>
       <title>メモリ帯域は細いけど初心者がただただのLLMだけのための箱として使うなら Ryzen AI Max 395の128GBモデルって安いんじゃなかろうか・・・？ クーポン込みで45万ぐらいなんだが？ Qwen3.8-Flash-NextのQ3〜Q4ならStrataで40tok/sぐらいでるみたい．</title>
       <link>https://x.com/Serioladumeril/status/2112815876961649025</link>
       <description>SS: メモリ帯域は細いけど初心者がただただのLLMだけのための箱として使うなら Ryzen AI Max 395の128GBモデルって安いんじゃなかろうか・・・？ クーポン込みで45万ぐらいなんだが？ Qwen3.8-Flash-NextのQ3〜Q4ならStrataで40tok/sぐらいでるみたい．</description>
@@ -269,13 +276,6 @@
       <description>SOZAI_desu｜低スペで生成AI実測: ▼概要 ・LFM2.5-24B-A2B（Liquid AI、10/13公開）：合計24B、1トークンあたり約2Bだけ動くMoE。考えてから答える推論モデル ・文脈は131Kトークン。日本語を含む16言語 ・初日から llama.cpp（GGUF）・MLX・vLLM・SGLang・ONNXに対応 ・公称の速さ：M5 Maxで184 tok/s、 Ryzen AI Max + 395で114</description>
       <pubDate>Wed, 14 Oct 2026 06:32:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sozai_desu/status/2110257301718454663</guid>
-    </item>
-    <item>
-      <title>@snapwith 現実的なのは、GB10か、 Ryzen AI Max ですか。</title>
-      <link>https://x.com/hisa0528/status/2110209521499111586</link>
-      <description>hisak: @snapwith 現実的なのは、GB10か、 Ryzen AI Max ですか。</description>
-      <pubDate>Wed, 14 Oct 2026 03:22:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hisa0528/status/2110209521499111586</guid>
     </item>
   </channel>
 </rss>

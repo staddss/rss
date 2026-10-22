@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>耐えてる(放置してるわけではない)けど WireGuard やられたら流石にハゲる #CVE祭り</title>
+      <link>https://x.com/miniminimoog/status/2113162168531325373</link>
+      <description>tyasuda_Сергий: 耐えてる(放置してるわけではない)けど WireGuard やられたら流石にハゲる #CVE祭り</description>
+      <pubDate>Thu, 22 Oct 2026 06:54:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/miniminimoog/status/2113162168531325373</guid>
+    </item>
+    <item>
+      <title>素の WireGuard 、バッテリー全然食わなくて最高</title>
+      <link>https://x.com/jp7wfp/status/2113101774358036809</link>
+      <description>ののゆー: 素の WireGuard 、バッテリー全然食わなくて最高</description>
+      <pubDate>Thu, 22 Oct 2026 02:54:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jp7wfp/status/2113101774358036809</guid>
+    </item>
+    <item>
+      <title>ふう、流行にのってphpのアップグレードを寝ずに完了させた、おれ、えらい。 これを機にコンテナのネットワークを切り分ける構成に見直して、クラウドのデータベースとは WireGuard で接続するようにしようかと。設定をぽちぽちできるNetBirdが運用やりやすくて、面白そう。</title>
+      <link>https://x.com/LA_kimiboku/status/2113076674816541068</link>
+      <description>君の餌は僕だ: ふう、流行にのってphpのアップグレードを寝ずに完了させた、おれ、えらい。 これを機にコンテナのネットワークを切り分ける構成に見直して、クラウドのデータベースとは WireGuard で接続するようにしようかと。設定をぽちぽちできるNetBirdが運用やりやすくて、面白そう。</description>
+      <pubDate>Thu, 22 Oct 2026 01:15:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LA_kimiboku/status/2113076674816541068</guid>
+    </item>
+    <item>
+      <title>待てよ、 Wireguard に参加してないokkskoltenだけは自分でPHPのチェックをしないとダメだな？？？ まだ寝れんわ…</title>
+      <link>https://x.com/hassich_lolicon/status/2112942705118687259</link>
+      <description>hassich/はしっち: 待てよ、 Wireguard に参加してないokkskoltenだけは自分でPHPのチェックをしないとダメだな？？？ まだ寝れんわ…</description>
+      <pubDate>Wed, 21 Oct 2026 16:22:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hassich_lolicon/status/2112942705118687259</guid>
+    </item>
+    <item>
       <title>wireguard でスマホから遠隔で弄れるので脆弱性対策終わるまで一時的にポート閉じておくことにした</title>
       <link>https://x.com/noc_creation/status/2112847101034213857</link>
       <description>のく@歴史創作: wireguard でスマホから遠隔で弄れるので脆弱性対策終わるまで一時的にポート閉じておくことにした</description>
@@ -248,34 +276,6 @@
       <description>gx14ac: 実は検閲とかで Wireguard 弾かれたりする某国とかもあるんだけどグレートなファイアウォールってこういうアプローチで止めれると思っている runetale obfs対応予定です https://t.co/DZRNT2Bs3S</description>
       <pubDate>Wed, 14 Oct 2026 03:22:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shintaoku/status/2110209662700360145</guid>
-    </item>
-    <item>
-      <title>LastPass プレミアムが欠かせないネット生活を送る私にとっては月4$の追加で完璧なノーログVPNへの常時接続が可能になるのならこれは良い話に思える。 早めにOpenVPNや WireGuard 、PPTPに対応してくれるなら真剣にプラン移行を考えますよ。 #LastPass https://t.co/0ZgBMnhecT</title>
-      <link>https://x.com/mofurian/status/2110056989338599781</link>
-      <description>もふりあん: LastPass プレミアムが欠かせないネット生活を送る私にとっては月4$の追加で完璧なノーログVPNへの常時接続が可能になるのならこれは良い話に思える。 早めにOpenVPNや WireGuard 、PPTPに対応してくれるなら真剣にプラン移行を考えますよ。 #LastPass https://t.co/0ZgBMnhecT</description>
-      <pubDate>Tue, 13 Oct 2026 17:16:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mofurian/status/2110056989338599781</guid>
-    </item>
-    <item>
-      <title>回避方法を色々見つけて - GitHub Actionsと自宅サーバをTailscale( WireGuard )で接続 - UDPが通らずリレーサーバー経由にならないよう宅内ネットワークを調整 - CUBICからBBRでTTLが大きくても転送速度が下がらないように でとりあえず家の帯域がボトルネックになるところまで、チューニングできた https://t.co/T4OR8IhcUq</title>
-      <link>https://x.com/boxfish_jp/status/2109871354921271603</link>
-      <description>ふぐお: 回避方法を色々見つけて - GitHub Actionsと自宅サーバをTailscale( WireGuard )で接続 - UDPが通らずリレーサーバー経由にならないよう宅内ネットワークを調整 - CUBICからBBRでTTLが大きくても転送速度が下がらないように でとりあえず家の帯域がボトルネックになるところまで、チューニングできた https://t.co/T4OR8IhcUq</description>
-      <pubDate>Tue, 13 Oct 2026 04:58:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/boxfish_jp/status/2109871354921271603</guid>
-    </item>
-    <item>
-      <title>Surfsharkが完全ポスト量子対応の WireGuard 実装を達成！ iOSとmacOSで提供 https://t.co/DpWHKarfbF</title>
-      <link>https://x.com/appbank/status/2109864910951760229</link>
-      <description>AppBank: Surfsharkが完全ポスト量子対応の WireGuard 実装を達成！ iOSとmacOSで提供 https://t.co/DpWHKarfbF</description>
-      <pubDate>Tue, 13 Oct 2026 04:32:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/appbank/status/2109864910951760229</guid>
-    </item>
-    <item>
-      <title>Surfsharkが完全なポスト量子対応の WireGuard 実装を達成 https://t.co/zu3lvlS7Iq</title>
-      <link>https://x.com/PRTIMES_TECH/status/2109780407453712605</link>
-      <description>PR TIMESテクノロジー: Surfsharkが完全なポスト量子対応の WireGuard 実装を達成 https://t.co/zu3lvlS7Iq</description>
-      <pubDate>Mon, 12 Oct 2026 22:57:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PRTIMES_TECH/status/2109780407453712605</guid>
     </item>
   </channel>
 </rss>
