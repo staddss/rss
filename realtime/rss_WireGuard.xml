@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard ベースで全クライアントとサーバーを通信させてるせいで移行が地獄</title>
+      <link>https://x.com/misakazip/status/2113167174139580804</link>
+      <description>みさか: WireGuard ベースで全クライアントとサーバーを通信させてるせいで移行が地獄</description>
+      <pubDate>Thu, 22 Oct 2026 07:14:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/misakazip/status/2113167174139580804</guid>
+    </item>
+    <item>
       <title>耐えてる(放置してるわけではない)けど WireGuard やられたら流石にハゲる #CVE祭り</title>
       <link>https://x.com/miniminimoog/status/2113162168531325373</link>
       <description>tyasuda_Сергий: 耐えてる(放置してるわけではない)けど WireGuard やられたら流石にハゲる #CVE祭り</description>
@@ -269,13 +276,6 @@
       <description>Seedflower（管理人）: スマホの Discord で「VPN サーバーを起動して」と送ると、Hermes Agent が Vultr に WireGuard のサーバーを作って、確かめてから返事をくれる仕組みを作りました。 出先の Wi-Fi で使いたいときだけ起動しています。 https://t.co/23BGBqKtpp #HermesAgent # WireGuard</description>
       <pubDate>Wed, 14 Oct 2026 15:44:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/seedflower_dev/status/2110396442552705412</guid>
-    </item>
-    <item>
-      <title>実は検閲とかで Wireguard 弾かれたりする某国とかもあるんだけどグレートなファイアウォールってこういうアプローチで止めれると思っている runetale obfs対応予定です https://t.co/DZRNT2Bs3S</title>
-      <link>https://x.com/shintaoku/status/2110209662700360145</link>
-      <description>gx14ac: 実は検閲とかで Wireguard 弾かれたりする某国とかもあるんだけどグレートなファイアウォールってこういうアプローチで止めれると思っている runetale obfs対応予定です https://t.co/DZRNT2Bs3S</description>
-      <pubDate>Wed, 14 Oct 2026 03:22:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shintaoku/status/2110209662700360145</guid>
     </item>
   </channel>
 </rss>

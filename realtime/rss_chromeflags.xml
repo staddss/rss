@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Linux版のChromeの chrome :// flags / の設定で 「Geminiに相談」ボタンが使えるようになるんなら、 Brave でも行けるか？と思って chrome :// flags / 見てみたら項目はあって Enabled にしてみたが表示されず・・・</title>
+      <link>https://x.com/tahatthi/status/2113208895976190066</link>
+      <description>tahatthi: Linux版のChromeの chrome :// flags / の設定で 「Geminiに相談」ボタンが使えるようになるんなら、 Brave でも行けるか？と思って chrome :// flags / 見てみたら項目はあって Enabled にしてみたが表示されず・・・</description>
+      <pubDate>Thu, 22 Oct 2026 10:00:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tahatthi/status/2113208895976190066</guid>
+    </item>
+    <item>
+      <title>最近急にブラウザ上で動画とかスクショとか chromeだけ色が飛ぶようになった人は以下をお試しください。 カラープロファイルの強制変更アドレスバーに chrome :// flags /#force-color-profile と入力してEnterを押す。 項目を「sRGB」などに変更する。 下部の「Relaunch」を押してChromeを再起動する。</title>
+      <link>https://x.com/RUsaginee3/status/2112926609053540696</link>
+      <description>うさぎ姉さん（サブ・日常用アカウント）シャドウバンがいつの間にか解除されてました💦: 最近急にブラウザ上で動画とかスクショとか chromeだけ色が飛ぶようになった人は以下をお試しください。 カラープロファイルの強制変更アドレスバーに chrome :// flags /#force-color-profile と入力してEnterを押す。 項目を「sRGB」などに変更する。 下部の「Relaunch」を押してChromeを再起動する。</description>
+      <pubDate>Wed, 21 Oct 2026 15:18:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RUsaginee3/status/2112926609053540696</guid>
+    </item>
+    <item>
       <title>@mistnmist Chromeのアドレスバーに chrome :// flags と入力して開く。 ページ内の検索欄に glic と入力する。 &quot;Glic&quot;を探し Disabled にする。 画面下部に表示される「再起動（Relaunch）」を押す。</title>
       <link>https://x.com/pache_wife2/status/2112863838014169416</link>
       <description>パチェは妻@配信用: @mistnmist Chromeのアドレスバーに chrome :// flags と入力して開く。 ページ内の検索欄に glic と入力する。 &quot;Glic&quot;を探し Disabled にする。 画面下部に表示される「再起動（Relaunch）」を押す。</description>
@@ -262,20 +276,6 @@
       <description>Wood: @6529brave 解決策その1 アドレスバーに「 chrome :// flags /#force-color-profile」と入力 「Force color profile」の設定を Default から sRGB に変更 右下に表示される再起動を押す</description>
       <pubDate>Sat, 26 Sep 2026 13:10:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Black_saaaan/status/2103834534194315362</guid>
-    </item>
-    <item>
-      <title>Chromeのタブ垂直表示、正式に実装されたんですね。 （今まではβ版の chrome :// flags で試験フラグEnable操作が必要だった） 何十個もタブを同時に開くので重宝しています。 https://t.co/oWKlNv4cfD</title>
-      <link>https://x.com/kswmochi/status/2103319904741134737</link>
-      <description>Billy: Chromeのタブ垂直表示、正式に実装されたんですね。 （今まではβ版の chrome :// flags で試験フラグEnable操作が必要だった） 何十個もタブを同時に開くので重宝しています。 https://t.co/oWKlNv4cfD</description>
-      <pubDate>Fri, 25 Sep 2026 03:05:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kswmochi/status/2103319904741134737</guid>
-    </item>
-    <item>
-      <title>自分用確認メモ） ■Windowsの設定→アクセシビリティ→視覚効果→スクロールバーを常に表示する ■Chromeのアドレスバーに「 chrome :// flags /#overlay-scrollbars」を入力。 画面上部にある「Overlay Scrollbars」の項目を「Disabled（無効）」に変更。 画面右下「Relaunch（再起動）」</title>
-      <link>https://x.com/nanika_tsuzuru/status/2100375027900432892</link>
-      <description>愛賀 綴／『チビと私の平々凡々』続編連載中！: 自分用確認メモ） ■Windowsの設定→アクセシビリティ→視覚効果→スクロールバーを常に表示する ■Chromeのアドレスバーに「 chrome :// flags /#overlay-scrollbars」を入力。 画面上部にある「Overlay Scrollbars」の項目を「Disabled（無効）」に変更。 画面右下「Relaunch（再起動）」</description>
-      <pubDate>Thu, 17 Sep 2026 00:03:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanika_tsuzuru/status/2100375027900432892</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そういえば Cloudflare Tunnel でも更新が降ってきていた 昨日のPostgresと合わせてコンテナ更新しておいたので事なきを得た https://t.co/aS7Oh38wem</title>
+      <link>https://x.com/RShirohara/status/2113093232959856733</link>
+      <description>城原零: そういえば Cloudflare Tunnel でも更新が降ってきていた 昨日のPostgresと合わせてコンテナ更新しておいたので事なきを得た https://t.co/aS7Oh38wem</description>
+      <pubDate>Thu, 22 Oct 2026 02:21:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RShirohara/status/2113093232959856733</guid>
+    </item>
+    <item>
       <title>利用対象が社内みたいなシステムはインターネットにおかずに、社内の隔離されたネットワークにおいて、 Cloudflare tunnel 経由でアクセスさせるのが良いかな？中途半端に対象が広い取引先向けのシステムは悩む</title>
       <link>https://x.com/MotoyasuYamada/status/2113055950924075436</link>
       <description>やまもん🔥チャリ走🔥: 利用対象が社内みたいなシステムはインターネットにおかずに、社内の隔離されたネットワークにおいて、 Cloudflare tunnel 経由でアクセスさせるのが良いかな？中途半端に対象が広い取引先向けのシステムは悩む</description>
@@ -269,13 +276,6 @@
       <description>結 v11: 正直TS抜きっていうけどTSの規格保持する必要ないしダウンロード機能も塞いでコピープロテクションとDRM対応して cloudflare tunnel をパッケージング化してDigibestのチューナーとセット売りしようかな</description>
       <pubDate>Mon, 12 Oct 2026 11:35:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5yuim/status/2109608971535516035</guid>
-    </item>
-    <item>
-      <title>webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</title>
-      <link>https://x.com/Fushihara/status/2109536386785415298</link>
-      <description>フシハラ: webサーバーを Cloudflare Tunnel に一本化するのってどうなんだろう。ポートを開く必要が無くなるのでとても楽ちんである事は間違いないのだけど、そこまでCloudflareに依存していいんだっけと踏みとどまってしまう。 まあawsとかさくらはそのくらい依存してるんだけどさ</description>
-      <pubDate>Mon, 12 Oct 2026 06:47:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Fushihara/status/2109536386785415298</guid>
     </item>
   </channel>
 </rss>
