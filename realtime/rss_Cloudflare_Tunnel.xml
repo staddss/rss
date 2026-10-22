@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>利用対象が社内みたいなシステムはインターネットにおかずに、社内の隔離されたネットワークにおいて、 Cloudflare tunnel 経由でアクセスさせるのが良いかな？中途半端に対象が広い取引先向けのシステムは悩む</title>
+      <link>https://x.com/MotoyasuYamada/status/2113055950924075436</link>
+      <description>やまもん🔥チャリ走🔥: 利用対象が社内みたいなシステムはインターネットにおかずに、社内の隔離されたネットワークにおいて、 Cloudflare tunnel 経由でアクセスさせるのが良いかな？中途半端に対象が広い取引先向けのシステムは悩む</description>
+      <pubDate>Wed, 21 Oct 2026 23:52:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MotoyasuYamada/status/2113055950924075436</guid>
+    </item>
+    <item>
+      <title>うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</title>
+      <link>https://x.com/keita_roboin/status/2112967678281621803</link>
+      <description>ろぼいん: うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</description>
+      <pubDate>Wed, 21 Oct 2026 18:02:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/keita_roboin/status/2112967678281621803</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 経由で自宅Nextcloud鯖にアクセスできてしまうので念の為鯖停止をした。 後日PHPのアップグレードを実施する（今日の夕方ぐらいにはリポジトリ公開されてるだろ、多分）</title>
+      <link>https://x.com/monmondy488/status/2112936383245660422</link>
+      <description>もんもん: Cloudflare Tunnel 経由で自宅Nextcloud鯖にアクセスできてしまうので念の為鯖停止をした。 後日PHPのアップグレードを実施する（今日の夕方ぐらいにはリポジトリ公開されてるだろ、多分）</description>
+      <pubDate>Wed, 21 Oct 2026 15:57:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/monmondy488/status/2112936383245660422</guid>
+    </item>
+    <item>
+      <title>続々と有名なWebサービスが閉じ始めた。 cloudflareをサーバの前に立ててればある程度は平気なのか？ cloudflare tunnel 使ってるから、海外IPアドレスを拒否して良しとして帰ってきちゃった。 https://t.co/mLVRBr3UkN</title>
+      <link>https://x.com/afqcho/status/2112918568144937182</link>
+      <description>雲類鷲七十: 続々と有名なWebサービスが閉じ始めた。 cloudflareをサーバの前に立ててればある程度は平気なのか？ cloudflare tunnel 使ってるから、海外IPアドレスを拒否して良しとして帰ってきちゃった。 https://t.co/mLVRBr3UkN</description>
+      <pubDate>Wed, 21 Oct 2026 14:46:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/afqcho/status/2112918568144937182</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel errorって何</title>
+      <link>https://x.com/muota_here/status/2112917547020681728</link>
+      <description>魚田雅彦: Cloudflare Tunnel errorって何</description>
+      <pubDate>Wed, 21 Oct 2026 14:42:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/muota_here/status/2112917547020681728</guid>
+    </item>
+    <item>
+      <title>@59Kja すでにほかの人がお勧めしてくれていると思うけど、 Cloudflare tunnel で必要なサービスだけ公開するだけでずいぶん安全になるとおもうよ（自宅の固定アドレスだとかポート開放だとかも考えなくていいし）</title>
+      <link>https://x.com/kawataso/status/2112909117534990373</link>
+      <description>kawataso: @59Kja すでにほかの人がお勧めしてくれていると思うけど、 Cloudflare tunnel で必要なサービスだけ公開するだけでずいぶん安全になるとおもうよ（自宅の固定アドレスだとかポート開放だとかも考えなくていいし）</description>
+      <pubDate>Wed, 21 Oct 2026 14:09:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kawataso/status/2112909117534990373</guid>
+    </item>
+    <item>
       <title>なんか今日頻繁にしょぼかる死んでんな Error 1033 Cloudflare Tunnel error</title>
       <link>https://x.com/kurosan_1f/status/2112902309865021702</link>
       <description>くろさん✿: なんか今日頻繁にしょぼかる死んでんな Error 1033 Cloudflare Tunnel error</description>
@@ -234,48 +276,6 @@
       <description>ギガ男爵（中年男性？: うちはアプライアンスではなく CloudFlare + tunnel とGoogle cloud認証組み合わせてるが、それでもヤバいもんかな。 ま、絶対なんてものがないのはわかるが。 https://t.co/g4kAFxxERY</description>
       <pubDate>Sun, 11 Oct 2026 21:03:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/exbaron/status/2109389507133141154</guid>
-    </item>
-    <item>
-      <title>t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</title>
-      <link>https://x.com/simplelattice/status/2109362579139383458</link>
-      <description>lattice: t3 codeほまによい… cloudflare tunnel とかでかなり自前でやれるしショートカットしたければt3 connect あるしOSSだしで選択肢を提供してくれるのがかなり良い。 はよgrokbotライクなbot機能こいこい</description>
-      <pubDate>Sun, 11 Oct 2026 19:16:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/simplelattice/status/2109362579139383458</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel を使って自宅にあるmacへ出先からでもアクセスできるようにした。 Codexのリモートでもいいけど、普通にvncで繋げられるのは便利</title>
-      <link>https://x.com/ao_8_midori/status/2109289449431662844</link>
-      <description>あおみどり: Cloudflare Tunnel を使って自宅にあるmacへ出先からでもアクセスできるようにした。 Codexのリモートでもいいけど、普通にvncで繋げられるのは便利</description>
-      <pubDate>Sun, 11 Oct 2026 14:26:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ao_8_midori/status/2109289449431662844</guid>
-    </item>
-    <item>
-      <title>自宅のNASで動かしてるアプリに Cloudflare Tunnel 経由で接続できるように諸々の設定をしたけど、Opusに教えてもらわなかったら一人では絶対無理だったw</title>
-      <link>https://x.com/yusuke_kokubo/status/2109218614461247885</link>
-      <description>こくぼ@Leaner Technologies: 自宅のNASで動かしてるアプリに Cloudflare Tunnel 経由で接続できるように諸々の設定をしたけど、Opusに教えてもらわなかったら一人では絶対無理だったw</description>
-      <pubDate>Sun, 11 Oct 2026 09:44:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yusuke_kokubo/status/2109218614461247885</guid>
-    </item>
-    <item>
-      <title>@0xVibly @MinLiBuilds 可以， Cloudflare Tunnel 完全行得通。裝 cloudflared 把本地 Qwen API 隧道成公開 HTTPS endpoint，Muse／Pi 直接填那個 URL 當 base_url 就用得上，免裝 Tailscale。記得加上 API key 或 Cloudflare Access 做驗證，避免完全公開被掃到。Tailscale</title>
-      <link>https://x.com/grok/status/2109111558592675873</link>
-      <description>Grok: @0xVibly @MinLiBuilds 可以， Cloudflare Tunnel 完全行得通。裝 cloudflared 把本地 Qwen API 隧道成公開 HTTPS endpoint，Muse／Pi 直接填那個 URL 當 base_url 就用得上，免裝 Tailscale。記得加上 API key 或 Cloudflare Access 做驗證，避免完全公開被掃到。Tailscale</description>
-      <pubDate>Sun, 11 Oct 2026 02:39:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2109111558592675873</guid>
-    </item>
-    <item>
-      <title>@MinLiBuilds @grok 直接用 Cloudflare tunnel 弄一個 Public endpoint 不是就行了嗎？</title>
-      <link>https://x.com/0xVibly/status/2109111424379503006</link>
-      <description>0xVibly: @MinLiBuilds @grok 直接用 Cloudflare tunnel 弄一個 Public endpoint 不是就行了嗎？</description>
-      <pubDate>Sun, 11 Oct 2026 02:38:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/0xVibly/status/2109111424379503006</guid>
-    </item>
-    <item>
-      <title>【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</title>
-      <link>https://x.com/akira_x_kanou/status/2108940419174392062</link>
-      <description>Akira Kano: 【Google ColabでComfyUI＋MiniMax H3を動かす手順＆注意点まとめ】 ローカルVRAMが足りなくても、Colab Pro（A100 40GB）＋ Cloudflare Tunnel で快適に構築できます。 ▼ 構築の5ステップ 1.環境準備: A100ランタイムでComfyUI＆Managerを導入 2.モデル取得: https://t.co/pqWe2CeNXm</description>
-      <pubDate>Sat, 10 Oct 2026 15:19:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/akira_x_kanou/status/2108940419174392062</guid>
     </item>
   </channel>
 </rss>
