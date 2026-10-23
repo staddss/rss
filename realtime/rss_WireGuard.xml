@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</title>
+      <link>https://x.com/ARwJtmjrInEY73B/status/2113566996671701150</link>
+      <description>魯水角: @zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</description>
+      <pubDate>Fri, 23 Oct 2026 09:43:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ARwJtmjrInEY73B/status/2113566996671701150</guid>
+    </item>
+    <item>
+      <title>@genzitu 情報ありがとうございます。 ドコモ光V6 でプロバイダはGMOで、バッファローのルーターの方式では駄目だと言うのは分かりました。 WireGuard VPN 対応のASUS RT-BE18000 なら対応可能で5万ぐらいで出来るまでたどり着きました。教えて頂いた方法も調べてみます。</title>
+      <link>https://x.com/OsamuKosaki/status/2113481409117733050</link>
+      <description>小崎: @genzitu 情報ありがとうございます。 ドコモ光V6 でプロバイダはGMOで、バッファローのルーターの方式では駄目だと言うのは分かりました。 WireGuard VPN 対応のASUS RT-BE18000 なら対応可能で5万ぐらいで出来るまでたどり着きました。教えて頂いた方法も調べてみます。</description>
+      <pubDate>Fri, 23 Oct 2026 04:03:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/OsamuKosaki/status/2113481409117733050</guid>
+    </item>
+    <item>
       <title>private networkは WireGuard ベース。でも設定は扱いやすく。 Tailscale repositoryには、`tailscaled` daemonと`tailscale` CLIを含む主要なopen-source codeがあります。Linux、Windows、macOSなどで動き、private WireGuard networkを構成できます。 https://t.co/VpPOlZPhxm</title>
       <link>https://x.com/plattypuus/status/2113468707741557030</link>
       <description>タイド: private networkは WireGuard ベース。でも設定は扱いやすく。 Tailscale repositoryには、`tailscaled` daemonと`tailscale` CLIを含む主要なopen-source codeがあります。Linux、Windows、macOSなどで動き、private WireGuard networkを構成できます。 https://t.co/VpPOlZPhxm</description>
@@ -262,20 +276,6 @@
       <description>豆腐くん: 学タブから WireGuard 経由でGuacamoleでメインPCをRDP接続。 強すぎる。 ProxmoxのnoVNCとは大違い https://t.co/TtIUokKfg8</description>
       <pubDate>Fri, 16 Oct 2026 08:10:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Toufkun_exe/status/2111006758907023723</guid>
-    </item>
-    <item>
-      <title>ラボ内で、名前を引けて逆引きもできるまで小さくした最小インターネット空間にすると、こんな感じ。 個人的に大好きな推しのNginx, WireGuard が皆無になるのですよ :-) https://t.co/PY8T6Pl1Is https://t.co/5yhTPgDQr0</title>
-      <link>https://x.com/munepixyz/status/2110978661126197540</link>
-      <description>Munehiro Yamamoto: ラボ内で、名前を引けて逆引きもできるまで小さくした最小インターネット空間にすると、こんな感じ。 個人的に大好きな推しのNginx, WireGuard が皆無になるのですよ :-) https://t.co/PY8T6Pl1Is https://t.co/5yhTPgDQr0</description>
-      <pubDate>Fri, 16 Oct 2026 06:18:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/munepixyz/status/2110978661126197540</guid>
-    </item>
-    <item>
-      <title>LTEから Wireguard 通って自宅サーバーにSSHできることも確認したので、これでいつでも保守できるね💪 https://t.co/zzILWtGw0y</title>
-      <link>https://x.com/Yui0471/status/2110925718926610504</link>
-      <description>風庭ゆい: LTEから Wireguard 通って自宅サーバーにSSHできることも確認したので、これでいつでも保守できるね💪 https://t.co/zzILWtGw0y</description>
-      <pubDate>Fri, 16 Oct 2026 02:48:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yui0471/status/2110925718926610504</guid>
     </item>
   </channel>
 </rss>

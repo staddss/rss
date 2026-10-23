@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/genzitu/status/2113478406323253309</guid>
     </item>
     <item>
+      <title>Cloudflare Tunnel で、cloudflaredのバージョン2026.10.0から、ingressルールを照合する前にURLを正規化できるようになった。 Cloudflare Accessの検証が必要なルールを持つTunnelで、セキュリティを高めるための機能とのこと。オリジンに送るURLのパスは変わらない。</title>
+      <link>https://x.com/multilayer/status/2113440135195070635</link>
+      <description>multilayer: Cloudflare Tunnel で、cloudflaredのバージョン2026.10.0から、ingressルールを照合する前にURLを正規化できるようになった。 Cloudflare Accessの検証が必要なルールを持つTunnelで、セキュリティを高めるための機能とのこと。オリジンに送るURLのパスは変わらない。</description>
+      <pubDate>Fri, 23 Oct 2026 01:19:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/multilayer/status/2113440135195070635</guid>
+    </item>
+    <item>
       <title>ChatGPTがDebian最新版への移行とPHPの更新手順を詳しく説明してくれたおかげで、WordPressを数時間で無事に移行できました。 Cloudflareについてもかなり詳しく、テスト環境の構築から、 Cloudflare Tunnel 経由での公開、DNSレコードの設定、本番環境への切り替えまで手順を教えてくれました</title>
       <link>https://x.com/ymikasa1/status/2113401730218201464</link>
       <description>Yoshiaki Mikasa: ChatGPTがDebian最新版への移行とPHPの更新手順を詳しく説明してくれたおかげで、WordPressを数時間で無事に移行できました。 Cloudflareについてもかなり詳しく、テスト環境の構築から、 Cloudflare Tunnel 経由での公開、DNSレコードの設定、本番環境への切り替えまで手順を教えてくれました</description>
@@ -269,13 +276,6 @@
       <description>カイゴ | AI駆動エンジニア: セルフホスト、個人開発者こそ取り入れるべきだと実感してます。クラウドの従量課金に怯えず、自分のVPSで気軽に検証できるのが最高です。 ・Docker Composeでまとめて管理 ・ Cloudflare Tunnel で安全に外部公開 ・バックアップ自動化は絶対必須 小さく始めて育てていく感覚、たまりません🔥</description>
       <pubDate>Tue, 13 Oct 2026 00:00:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kygo_coding/status/2109796371566039455</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel で非常用sshという名の脆弱なポイントを用意した．</title>
-      <link>https://x.com/t3u_tsu/status/2109755591048757597</link>
-      <description>t3u: cloudflare tunnel で非常用sshという名の脆弱なポイントを用意した．</description>
-      <pubDate>Mon, 12 Oct 2026 21:18:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t3u_tsu/status/2109755591048757597</guid>
     </item>
   </channel>
 </rss>
