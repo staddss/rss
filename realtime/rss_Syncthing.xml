@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</title>
+      <link>https://x.com/clockstep/status/2113514749732544826</link>
+      <description>いそじん: 本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</description>
+      <pubDate>Fri, 23 Oct 2026 06:15:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/clockstep/status/2113514749732544826</guid>
+    </item>
+    <item>
+      <title>androidの syncthing -forkがエンバグったのかSDカード側に書き込みできなくなっていた。代替の双方向同期を探さないと</title>
+      <link>https://x.com/cause_less/status/2113494767686578182</link>
+      <description>ko-zu: androidの syncthing -forkがエンバグったのかSDカード側に書き込みできなくなっていた。代替の双方向同期を探さないと</description>
+      <pubDate>Fri, 23 Oct 2026 04:56:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cause_less/status/2113494767686578182</guid>
+    </item>
+    <item>
+      <title>Syncthing とObsidianでP2Pメモアプリ作った #Obsidian</title>
+      <link>https://x.com/yahka9765/status/2113372065483153689</link>
+      <description>八幡: Syncthing とObsidianでP2Pメモアプリ作った #Obsidian</description>
+      <pubDate>Thu, 22 Oct 2026 20:48:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yahka9765/status/2113372065483153689</guid>
+    </item>
+    <item>
       <title>Syncthing がデフォルトのWebUIからコード実行出来てしまう仕様なのって地味にやばいと思うんだけど 設定ファイル側から設定できる仕様にしてほしい</title>
       <link>https://x.com/JNGAUL/status/2113327296304328908</link>
       <description>JNGAUL: Syncthing がデフォルトのWebUIからコード実行出来てしまう仕様なのって地味にやばいと思うんだけど 設定ファイル側から設定できる仕様にしてほしい</description>
@@ -255,27 +276,6 @@
       <description>okaka: @namorton09 Syncthing のコンフリクト、私もローカルSSDで環境構築している時にハマりかけました…。ファイル競合は本当に焦りますよね。Google Keepへの逃避もすごくよく分かります。</description>
       <pubDate>Sun, 27 Sep 2026 09:58:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/DesignOkaka/status/2104148629086953670</guid>
-    </item>
-    <item>
-      <title>Syncthing で共有している自宅サーバーのフォルダを長時間編集する時は、同期を一時停止して作業する方法があります。 https://t.co/KVaYmidwsl</title>
-      <link>https://x.com/murasametech/status/2104088662053179643</link>
-      <description>むらさん(Murasan): Syncthing で共有している自宅サーバーのフォルダを長時間編集する時は、同期を一時停止して作業する方法があります。 https://t.co/KVaYmidwsl</description>
-      <pubDate>Sun, 27 Sep 2026 06:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/murasametech/status/2104088662053179643</guid>
-    </item>
-    <item>
-      <title>Obsidianの同期設計を見直した：GitHub同期をLinux母艦に集約し、 Syncthing とn8n APIに分離する https://t.co/tH5fROyvCI Syncthing というツールの知識を得たことで、コンフリクト発生を避けるための実装をする気になった。</title>
-      <link>https://x.com/atauky/status/2103854859976163441</link>
-      <description>ベンコフ: Obsidianの同期設計を見直した：GitHub同期をLinux母艦に集約し、 Syncthing とn8n APIに分離する https://t.co/tH5fROyvCI Syncthing というツールの知識を得たことで、コンフリクト発生を避けるための実装をする気になった。</description>
-      <pubDate>Sat, 26 Sep 2026 14:31:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/atauky/status/2103854859976163441</guid>
-    </item>
-    <item>
-      <title>やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</title>
-      <link>https://x.com/himapoce/status/2103838074526679098</link>
-      <description>ひまぽーす: やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</description>
-      <pubDate>Sat, 26 Sep 2026 13:24:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/himapoce/status/2103838074526679098</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メインPCのLinux環境 まさかの Zram が入ってなかったので今更導入 https://t.co/bUcEjryBFa</title>
+      <link>https://x.com/Sittata_Sub/status/2113083562924843038</link>
+      <description>( ᐛ 2): メインPCのLinux環境 まさかの Zram が入ってなかったので今更導入 https://t.co/bUcEjryBFa</description>
+      <pubDate>Thu, 22 Oct 2026 01:42:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Sittata_Sub/status/2113083562924843038</guid>
+    </item>
+    <item>
       <title>zram とやらを知った これでうちのサーバーのメモリ不足によるスワップによるIO待ちの発生が減ると良いなあ</title>
       <link>https://x.com/ToYamaSoujin/status/2112907737017573797</link>
       <description>ToYama: zram とやらを知った これでうちのサーバーのメモリ不足によるスワップによるIO待ちの発生が減ると良いなあ</description>
@@ -206,27 +213,6 @@
       <description>Naoki@Radxa: もしかして：amdgpu、VRAMぎりぎりまで使うとRAM空いててもswap使おうとする＞swap設定してないとOOM killer誤爆しまくる zram 設定したらクラッシュしなくなった気がする…</description>
       <pubDate>Fri, 25 Sep 2026 03:06:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RadxaNaoki/status/2103320142663057410</guid>
-    </item>
-    <item>
-      <title>ノートPCのLinux Mint Debian Edition 7 neowofetch上ではLMDE 13表記 Zram 採用、Ramdisk化、ジャーナルOFF、カーネル7系でも けっこうまともに動作するもんだ https://t.co/do8Z7cOhyc</title>
-      <link>https://x.com/loosephoto/status/2102653274767991078</link>
-      <description>loosephoto: ノートPCのLinux Mint Debian Edition 7 neowofetch上ではLMDE 13表記 Zram 採用、Ramdisk化、ジャーナルOFF、カーネル7系でも けっこうまともに動作するもんだ https://t.co/do8Z7cOhyc</description>
-      <pubDate>Wed, 23 Sep 2026 06:56:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/loosephoto/status/2102653274767991078</guid>
-    </item>
-    <item>
-      <title>@taou684340 はい、その通りです。HDDスワップは寿命面で有利でもランダム性能が低すぎて実用になりません。 zram か物理RAM増設を優先するのが現実的です。</title>
-      <link>https://x.com/grok/status/2102560975622717514</link>
-      <description>Grok: @taou684340 はい、その通りです。HDDスワップは寿命面で有利でもランダム性能が低すぎて実用になりません。 zram か物理RAM増設を優先するのが現実的です。</description>
-      <pubDate>Wed, 23 Sep 2026 00:49:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2102560975622717514</guid>
-    </item>
-    <item>
-      <title>@taou684340 はい、SSDの書き込み寿命を削らない点ではその通りです。HDDは耐久制限がほぼないので。ただ前回通りランダム実効1MB/s未満で、スワップ多発時はシステムが極端に遅くほぼ使い物になりません。可能なら物理RAM増設か zram が現実的です。</title>
-      <link>https://x.com/grok/status/2102559457087545806</link>
-      <description>Grok: @taou684340 はい、SSDの書き込み寿命を削らない点ではその通りです。HDDは耐久制限がほぼないので。ただ前回通りランダム実効1MB/s未満で、スワップ多発時はシステムが極端に遅くほぼ使い物になりません。可能なら物理RAM増設か zram が現実的です。</description>
-      <pubDate>Wed, 23 Sep 2026 00:43:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2102559457087545806</guid>
     </item>
   </channel>
 </rss>

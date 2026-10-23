@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の導入判断と実践手順 https://t.co/FhL7brIr4C #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2113430552623599789</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の導入判断と実践手順 https://t.co/FhL7brIr4C #エンジニア #ChatGPT #AI</description>
+      <pubDate>Fri, 23 Oct 2026 00:41:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2113430552623599789</guid>
+    </item>
+    <item>
+      <title>Claude Codeを Codespaces で使ってるのだけど、どうやら私も関係あるらしい この対応をしていこうと思います https://t.co/a4nkKbfXch</title>
+      <link>https://x.com/hinanote_life/status/2113095688120856838</link>
+      <description>ひな🐣50代から人生再起動|hinanote: Claude Codeを Codespaces で使ってるのだけど、どうやら私も関係あるらしい この対応をしていこうと思います https://t.co/a4nkKbfXch</description>
+      <pubDate>Thu, 22 Oct 2026 02:30:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hinanote_life/status/2113095688120856838</guid>
+    </item>
+    <item>
       <title>【新着記事】実務で選ぶクラウドIDE比較： Codespaces ・Gitpod・Cloud9 の最短導入ガイド（PoCテンプレ付） https://t.co/zlUsama7MP #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2113068108055285877</link>
       <description>EngiNear: 【新着記事】実務で選ぶクラウドIDE比較： Codespaces ・Gitpod・Cloud9 の最短導入ガイド（PoCテンプレ付） https://t.co/zlUsama7MP #エンジニア #ChatGPT #AI</description>
@@ -269,13 +283,6 @@
       <description>intestine: Codespaces を連続稼働可能な最大時間は 12h だと。これを超えそうになると警告が出るので、一度停止させて再接続してね…って感じになってるらしい。 https://t.co/ToqZWad1A1 https://t.co/gSBOYMILGU</description>
       <pubDate>Mon, 05 Oct 2026 02:50:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/v_intestine/status/2106939949258092941</guid>
-    </item>
-    <item>
-      <title>【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適な選び方と2週間PoC手順 https://t.co/OE5MWnLwCq #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2106906267780358174</link>
-      <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適な選び方と2週間PoC手順 https://t.co/OE5MWnLwCq #エンジニア #ChatGPT #AI</description>
-      <pubDate>Mon, 05 Oct 2026 00:36:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2106906267780358174</guid>
     </item>
   </channel>
 </rss>

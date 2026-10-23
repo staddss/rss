@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>private networkは WireGuard ベース。でも設定は扱いやすく。 Tailscale repositoryには、`tailscaled` daemonと`tailscale` CLIを含む主要なopen-source codeがあります。Linux、Windows、macOSなどで動き、private WireGuard networkを構成できます。 https://t.co/VpPOlZPhxm</title>
+      <link>https://x.com/plattypuus/status/2113468707741557030</link>
+      <description>タイド: private networkは WireGuard ベース。でも設定は扱いやすく。 Tailscale repositoryには、`tailscaled` daemonと`tailscale` CLIを含む主要なopen-source codeがあります。Linux、Windows、macOSなどで動き、private WireGuard networkを構成できます。 https://t.co/VpPOlZPhxm</description>
+      <pubDate>Fri, 23 Oct 2026 03:13:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/plattypuus/status/2113468707741557030</guid>
+    </item>
+    <item>
+      <title>今日自宅PCとスマホ間で wireguard VPNを構築して最終的に無事にVPNは張れたけど、 ・VPNを有効にするとインターネット接続が出来なくなる ・ハンドシェイクに失敗してしまう という初見殺しにも程がある激ムズなトラブルにぶつかった。 備忘で役に立った記事残しておこう。 https://t.co/2bIEmYmnjf</title>
+      <link>https://x.com/RA9c6wJOHr71538/status/2113313642666192916</link>
+      <description>有機体46B: 今日自宅PCとスマホ間で wireguard VPNを構築して最終的に無事にVPNは張れたけど、 ・VPNを有効にするとインターネット接続が出来なくなる ・ハンドシェイクに失敗してしまう という初見殺しにも程がある激ムズなトラブルにぶつかった。 備忘で役に立った記事残しておこう。 https://t.co/2bIEmYmnjf</description>
+      <pubDate>Thu, 22 Oct 2026 16:56:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2113313642666192916</guid>
+    </item>
+    <item>
       <title>自宅PCとルーターのFW設定でローカルNWのsshしか許可せず他denyした状態で、 Wireguard VPNを自宅PCとスマホ間で張り、それから自宅のローカルNWとして遠隔でsshで自宅のPCやルーターにログイン出来る様になった🙌 これからAnsibleの勉強しながら構築して自宅のNW環境を遠隔監視出来る様にしていこう！</title>
       <link>https://x.com/RA9c6wJOHr71538/status/2113304442200281535</link>
       <description>有機体46B: 自宅PCとルーターのFW設定でローカルNWのsshしか許可せず他denyした状態で、 Wireguard VPNを自宅PCとスマホ間で張り、それから自宅のローカルNWとして遠隔でsshで自宅のPCやルーターにログイン出来る様になった🙌 これからAnsibleの勉強しながら構築して自宅のNW環境を遠隔監視出来る様にしていこう！</description>
@@ -262,20 +276,6 @@
       <description>風庭ゆい: LTEから Wireguard 通って自宅サーバーにSSHできることも確認したので、これでいつでも保守できるね💪 https://t.co/zzILWtGw0y</description>
       <pubDate>Fri, 16 Oct 2026 02:48:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Yui0471/status/2110925718926610504</guid>
-    </item>
-    <item>
-      <title>外出時のスマホ、 WireGuard いれて、DDNSで家サーバに接続して、Pi-hole噛ましてクソ広告を殲滅する。帰宅後に切るのが面倒、外出時にまたWG入れるのが面倒、どうにかならんのかってGPTに聞いたら、LANの内外でスプリットホライズンDNSにすればいいって教えてくれたのでやってみた。</title>
-      <link>https://x.com/GEEEEEK17/status/2110740046508863957</link>
-      <description>おい小池: 外出時のスマホ、 WireGuard いれて、DDNSで家サーバに接続して、Pi-hole噛ましてクソ広告を殲滅する。帰宅後に切るのが面倒、外出時にまたWG入れるのが面倒、どうにかならんのかってGPTに聞いたら、LANの内外でスプリットホライズンDNSにすればいいって教えてくれたのでやってみた。</description>
-      <pubDate>Thu, 15 Oct 2026 14:30:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GEEEEEK17/status/2110740046508863957</guid>
-    </item>
-    <item>
-      <title>HomeGrid VPN の macOS 版を公開しました。 ・Apple シリコン（M1 以降）・macOS 15 以降 ・ダッシュボードで発行したトークンを入れるだけで接続 ・新しい版が出たら、アプリがお知らせします ダウンロードは公式サイトの「ダウンロード」ページから。Intel の Mac は、引き続き WireGuard</title>
-      <link>https://x.com/homegrid_vpn/status/2110715790773403969</link>
-      <description>HomeGrid VPN: HomeGrid VPN の macOS 版を公開しました。 ・Apple シリコン（M1 以降）・macOS 15 以降 ・ダッシュボードで発行したトークンを入れるだけで接続 ・新しい版が出たら、アプリがお知らせします ダウンロードは公式サイトの「ダウンロード」ページから。Intel の Mac は、引き続き WireGuard</description>
-      <pubDate>Thu, 15 Oct 2026 12:53:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/homegrid_vpn/status/2110715790773403969</guid>
     </item>
   </channel>
 </rss>
