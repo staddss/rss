@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing がデフォルトのWebUIからコード実行出来てしまう仕様なのって地味にやばいと思うんだけど 設定ファイル側から設定できる仕様にしてほしい</title>
+      <link>https://x.com/JNGAUL/status/2113327296304328908</link>
+      <description>JNGAUL: Syncthing がデフォルトのWebUIからコード実行出来てしまう仕様なのって地味にやばいと思うんだけど 設定ファイル側から設定できる仕様にしてほしい</description>
+      <pubDate>Thu, 22 Oct 2026 17:51:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JNGAUL/status/2113327296304328908</guid>
+    </item>
+    <item>
       <title>自宅のNASで Syncthing をしたらいいのか・・・どんどん世の中は変わっていくなあ。</title>
       <link>https://x.com/happyman4jp/status/2113062046573199656</link>
       <description>はっぴ～まん　はぴさん: 自宅のNASで Syncthing をしたらいいのか・・・どんどん世の中は変わっていくなあ。</description>
@@ -269,20 +276,6 @@
       <description>ひまぽーす: やっとメインスマホ -&gt; immich -&gt; syncthing -&gt; pixel3 -&gt; Google photos が完成した。黒魔術は使ってない。 写真を撮ると自動でGoogleフォトにバックアップされるんですよ！（※普通です） まさか、後罪（クラウド）の触媒（アンリミテッド）を＜讃来歌（サブスクリプション）＞無しで？</description>
       <pubDate>Sat, 26 Sep 2026 13:24:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/himapoce/status/2103838074526679098</guid>
-    </item>
-    <item>
-      <title>Syncthing を使おう…</title>
-      <link>https://x.com/hatoyagy/status/2103802746185171048</link>
-      <description>はとやぎ: Syncthing を使おう…</description>
-      <pubDate>Sat, 26 Sep 2026 11:03:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hatoyagy/status/2103802746185171048</guid>
-    </item>
-    <item>
-      <title>obsidianで作ったメモを syncthing でファイルとして同期させようとしたらConflict出まくるなぁ GoogleKeepに戻ろっかな…</title>
-      <link>https://x.com/namorton09/status/2103777484684886456</link>
-      <description>ナモー: obsidianで作ったメモを syncthing でファイルとして同期させようとしたらConflict出まくるなぁ GoogleKeepに戻ろっかな…</description>
-      <pubDate>Sat, 26 Sep 2026 09:23:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/namorton09/status/2103777484684886456</guid>
     </item>
   </channel>
 </rss>

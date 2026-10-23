@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kyohsuke14 軽率に Cloudflare Tunnel 導入していくか</title>
+      <link>https://x.com/tako774/status/2113267656514314636</link>
+      <description>nanashi d('ω')b🕊️: @kyohsuke14 軽率に Cloudflare Tunnel 導入していくか</description>
+      <pubDate>Thu, 22 Oct 2026 13:54:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tako774/status/2113267656514314636</guid>
+    </item>
+    <item>
       <title>そういえば Cloudflare Tunnel でも更新が降ってきていた 昨日のPostgresと合わせてコンテナ更新しておいたので事なきを得た https://t.co/aS7Oh38wem</title>
       <link>https://x.com/RShirohara/status/2113093232959856733</link>
       <description>城原零: そういえば Cloudflare Tunnel でも更新が降ってきていた 昨日のPostgresと合わせてコンテナ更新しておいたので事なきを得た https://t.co/aS7Oh38wem</description>
@@ -269,13 +276,6 @@
       <description>フシハラ: Cloudflare Tunnel ＆Accessの設定出来たけど、なんか設定がダルいな… Cloudflare Access からトークンをコピーしてTunnelの拡張設定に入れるとか、1クリックじゃ出来ないのこれ？感が凄い。 自分の理想は my-system[.]example[.] 、 localhost:12345 https://t.co/yUPUhxlRkQ</description>
       <pubDate>Mon, 12 Oct 2026 13:08:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fushihara/status/2109632283833667770</guid>
-    </item>
-    <item>
-      <title>正直TS抜きっていうけどTSの規格保持する必要ないしダウンロード機能も塞いでコピープロテクションとDRM対応して cloudflare tunnel をパッケージング化してDigibestのチューナーとセット売りしようかな</title>
-      <link>https://x.com/5yuim/status/2109608971535516035</link>
-      <description>結 v11: 正直TS抜きっていうけどTSの規格保持する必要ないしダウンロード機能も塞いでコピープロテクションとDRM対応して cloudflare tunnel をパッケージング化してDigibestのチューナーとセット売りしようかな</description>
-      <pubDate>Mon, 12 Oct 2026 11:35:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2109608971535516035</guid>
     </item>
   </channel>
 </rss>
