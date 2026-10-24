@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@maruru_289 tailescaleはオンラインのメッシュサービスなんで端末毎にVPN貼っております。あと復帰したらサービス勝手に再起動させるので利便性でいうと⭕ 家の機器1個に依存はしてないので wireguard 諸々はあんまりメリットが見いだせず。 （上流が止まったら氏にますがまあ家の機器が死んでも同じなので） https://t.co/SohrOs5EVN</title>
+      <link>https://x.com/doplxyz/status/2113888483177881939</link>
+      <description>DOPPELGENGER: @maruru_289 tailescaleはオンラインのメッシュサービスなんで端末毎にVPN貼っております。あと復帰したらサービス勝手に再起動させるので利便性でいうと⭕ 家の機器1個に依存はしてないので wireguard 諸々はあんまりメリットが見いだせず。 （上流が止まったら氏にますがまあ家の機器が死んでも同じなので） https://t.co/SohrOs5EVN</description>
+      <pubDate>Sat, 24 Oct 2026 07:01:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/doplxyz/status/2113888483177881939</guid>
+    </item>
+    <item>
       <title>VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</title>
       <link>https://x.com/maruru_289/status/2113882588754674098</link>
       <description>田都 アリエル: VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</description>
@@ -269,13 +276,6 @@
       <description>Jun Iseya: 手持ちのもので 443ポート/UDP通信 となる WireGuard サーバーでHTTPプロキシ テスト(^^) 特にセキュリティソフトに文句言われる事なくモバイルで自宅サーバーへHTTPプロキシとして接続可能👍 しばらく様子見して、VPSへ本物のステルス通信 443/UDP QUICとポート自動切替のサーバーを構築予定 https://t.co/dMBjmhdkZz https://t.co/SP1W2XpNXZ</description>
       <pubDate>Sat, 17 Oct 2026 23:27:11 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JunIseya1212/status/2111599938287350243</guid>
-    </item>
-    <item>
-      <title>5年ぶりぐらいにlinuxカーネル入れ替え。いつの間にか wireguard がソースに入っていて👍</title>
-      <link>https://x.com/tailhome/status/2111598581341954132</link>
-      <description>TAILHOME: 5年ぶりぐらいにlinuxカーネル入れ替え。いつの間にか wireguard がソースに入っていて👍</description>
-      <pubDate>Sat, 17 Oct 2026 23:21:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tailhome/status/2111598581341954132</guid>
     </item>
   </channel>
 </rss>

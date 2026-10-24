@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>カルパシー氏が１年前に書いたセキュリティについてのブログ。パスワードは1Password、そしてパスキーはYubikey、生体認証はFaceID。WebブラウザはBrave。まあここまではいいとして、チャットはSignal、メールはProton、郵便物はバーチャルメールサービス、IoTスマートデバイスは避ける、VPN、 NextDNS</title>
+      <link>https://x.com/umiyuki_ai/status/2113969885630050474</link>
+      <description>うみゆき@AI研究: カルパシー氏が１年前に書いたセキュリティについてのブログ。パスワードは1Password、そしてパスキーはYubikey、生体認証はFaceID。WebブラウザはBrave。まあここまではいいとして、チャットはSignal、メールはProton、郵便物はバーチャルメールサービス、IoTスマートデバイスは避ける、VPN、 NextDNS</description>
+      <pubDate>Sat, 24 Oct 2026 12:24:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/umiyuki_ai/status/2113969885630050474</guid>
+    </item>
+    <item>
       <title>link-card(dot)onlineをミュートワードにすればおそらく踏むことはなくなる。 nextdns でhttps://t.co/kFgcbShRDiに置き換えたけど、似たようなサービスを都度乱数生成されると終わる防御策ではある https://t.co/x0HeYgrqoQ</title>
       <link>https://x.com/cokeraita/status/2113459615283523787</link>
       <description>mercysnow: link-card(dot)onlineをミュートワードにすればおそらく踏むことはなくなる。 nextdns でhttps://t.co/kFgcbShRDiに置き換えたけど、似たようなサービスを都度乱数生成されると終わる防御策ではある https://t.co/x0HeYgrqoQ</description>
@@ -269,20 +276,6 @@
       <description>V: NextDNS の開発者が Netflix の共同創業者なの強すぎる。</description>
       <pubDate>Tue, 13 Oct 2026 09:35:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/voluntas/status/2109940990459199624</guid>
-    </item>
-    <item>
-      <title>NextDNS 年額更新。本心から「DNSフィルタリングと宅内nameserverを運用するくらいなら全然安い」と思ってるので、おすすめです。 https://t.co/p9uJUPRVha</title>
-      <link>https://x.com/_manji0/status/2109910590080872736</link>
-      <description>まんじまる: NextDNS 年額更新。本心から「DNSフィルタリングと宅内nameserverを運用するくらいなら全然安い」と思ってるので、おすすめです。 https://t.co/p9uJUPRVha</description>
-      <pubDate>Tue, 13 Oct 2026 07:34:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_manji0/status/2109910590080872736</guid>
-    </item>
-    <item>
-      <title>@k4takori_penlo 無料で使うなら nextdns のほうがいいちょっと設定複雑だけど</title>
-      <link>https://x.com/kkpjq/status/2109495524172931530</link>
-      <description>極浪: @k4takori_penlo 無料で使うなら nextdns のほうがいいちょっと設定複雑だけど</description>
-      <pubDate>Mon, 12 Oct 2026 04:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kkpjq/status/2109495524172931530</guid>
     </item>
   </channel>
 </rss>
