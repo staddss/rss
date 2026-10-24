@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</title>
+      <link>https://x.com/Fuyu2356/status/2113614308601217427</link>
+      <description>ふゆ: tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</description>
+      <pubDate>Fri, 23 Oct 2026 12:51:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Fuyu2356/status/2113614308601217427</guid>
+    </item>
+    <item>
       <title>@zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</title>
       <link>https://x.com/ARwJtmjrInEY73B/status/2113566996671701150</link>
       <description>魯水角: @zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</description>
@@ -269,13 +276,6 @@
       <description>Tetsuya godo: 記事を投稿しました！ VPSを入口に、オンプレUbuntuのWebアプリを公開する 第2回 ― ConoHa VPSのSSHを整え、 WireGuard で事務所Ubuntuとつなぐ on #Qiita https://t.co/b3oWXDNF5S</description>
       <pubDate>Fri, 16 Oct 2026 14:04:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/godotys01/status/2111095872738185375</guid>
-    </item>
-    <item>
-      <title>学タブから WireGuard 経由でGuacamoleでメインPCをRDP接続。 強すぎる。 ProxmoxのnoVNCとは大違い https://t.co/TtIUokKfg8</title>
-      <link>https://x.com/Toufkun_exe/status/2111006758907023723</link>
-      <description>豆腐くん: 学タブから WireGuard 経由でGuacamoleでメインPCをRDP接続。 強すぎる。 ProxmoxのnoVNCとは大違い https://t.co/TtIUokKfg8</description>
-      <pubDate>Fri, 16 Oct 2026 08:10:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Toufkun_exe/status/2111006758907023723</guid>
     </item>
   </channel>
 </rss>
