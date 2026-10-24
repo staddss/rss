@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</title>
+      <link>https://x.com/maruru_289/status/2113882588754674098</link>
+      <description>田都 アリエル: VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</description>
+      <pubDate>Sat, 24 Oct 2026 06:37:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maruru_289/status/2113882588754674098</guid>
+    </item>
+    <item>
+      <title>Tailscale というより WireGuard の方がクリティカルかもしれない？ https://t.co/odvOmllDvr</title>
+      <link>https://x.com/HarusameTech/status/2113866661375930795</link>
+      <description>はるさめ🎥: Tailscale というより WireGuard の方がクリティカルかもしれない？ https://t.co/odvOmllDvr</description>
+      <pubDate>Sat, 24 Oct 2026 05:34:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HarusameTech/status/2113866661375930795</guid>
+    </item>
+    <item>
+      <title>VPNを入れて変わったこと ✅AWS全体のセキュリティ向上（接続IPを絞る） ✅メイン端末に外から簡単に繋げる（快適な操作） ✅顧客資産への接続がやりやすい WireGuard はVPNを通すものを指定できるので、１台の端末で快適に操作できる、これは発明ですわ💡</title>
+      <link>https://x.com/RyosanBIMania/status/2113807253300228506</link>
+      <description>りょうさん🍜町中華界一のデータ&amp;AIマニア🥟: VPNを入れて変わったこと ✅AWS全体のセキュリティ向上（接続IPを絞る） ✅メイン端末に外から簡単に繋げる（快適な操作） ✅顧客資産への接続がやりやすい WireGuard はVPNを通すものを指定できるので、１台の端末で快適に操作できる、これは発明ですわ💡</description>
+      <pubDate>Sat, 24 Oct 2026 01:38:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RyosanBIMania/status/2113807253300228506</guid>
+    </item>
+    <item>
+      <title>こないだPHPがなぜ苦手か、について考えたけど、それと同じでVPNも苦手だ。そもそもがなんらかの有料サービス契約しないと使えなかった。お金なかったし💦今ならVPSに wireguard でVPNできるけど、どうも好かんのよなー。変なイメージつくとよくないね。現状はVPSからリバーストンネルで接続してます。</title>
+      <link>https://x.com/yzr_wc/status/2113644207906992228</link>
+      <description>とーます: こないだPHPがなぜ苦手か、について考えたけど、それと同じでVPNも苦手だ。そもそもがなんらかの有料サービス契約しないと使えなかった。お金なかったし💦今ならVPSに wireguard でVPNできるけど、どうも好かんのよなー。変なイメージつくとよくないね。現状はVPSからリバーストンネルで接続してます。</description>
+      <pubDate>Fri, 23 Oct 2026 14:50:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yzr_wc/status/2113644207906992228</guid>
+    </item>
+    <item>
       <title>tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</title>
       <link>https://x.com/Fuyu2356/status/2113614308601217427</link>
       <description>ふゆ: tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</description>
@@ -248,34 +276,6 @@
       <description>TAILHOME: 5年ぶりぐらいにlinuxカーネル入れ替え。いつの間にか wireguard がソースに入っていて👍</description>
       <pubDate>Sat, 17 Oct 2026 23:21:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tailhome/status/2111598581341954132</guid>
-    </item>
-    <item>
-      <title>台湾で WireGuard が減速するケースは今度ISPでけんさくしてみるか。傾向が出てくるだろう。</title>
-      <link>https://x.com/mutaguch/status/2111470874285183411</link>
-      <description>冷氣開放 ex.ろくばんしゃ ていいち: 台湾で WireGuard が減速するケースは今度ISPでけんさくしてみるか。傾向が出てくるだろう。</description>
-      <pubDate>Sat, 17 Oct 2026 14:54:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mutaguch/status/2111470874285183411</guid>
-    </item>
-    <item>
-      <title>Community Over Code Glasgow 2026で、Apache NuttXへの WireGuard VPN移植について発表してきました！ 初めての海外技術カンファレンス登壇。 OSSコミュニティの皆さんとも交流できて、楽しかったです！ Slides: https://t.co/a9Tb3SIS91 #communityovercode</title>
-      <link>https://x.com/fox_aki310ooooo/status/2111315780231115195</link>
-      <description>aki310: Community Over Code Glasgow 2026で、Apache NuttXへの WireGuard VPN移植について発表してきました！ 初めての海外技術カンファレンス登壇。 OSSコミュニティの皆さんとも交流できて、楽しかったです！ Slides: https://t.co/a9Tb3SIS91 #communityovercode</description>
-      <pubDate>Sat, 17 Oct 2026 04:38:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2111315780231115195</guid>
-    </item>
-    <item>
-      <title>とりあえず wireguard の口は残してるけど、ISPからIPv4 PPPoEを廃止されるとこれも使えなくなるので、出先から自宅への計算機資源への接続をどうするか考えなければならなさそう</title>
-      <link>https://x.com/cardarno2/status/2111106268647805097</link>
-      <description>かるだん: とりあえず wireguard の口は残してるけど、ISPからIPv4 PPPoEを廃止されるとこれも使えなくなるので、出先から自宅への計算機資源への接続をどうするか考えなければならなさそう</description>
-      <pubDate>Fri, 16 Oct 2026 14:45:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cardarno2/status/2111106268647805097</guid>
-    </item>
-    <item>
-      <title>記事を投稿しました！ VPSを入口に、オンプレUbuntuのWebアプリを公開する 第2回 ― ConoHa VPSのSSHを整え、 WireGuard で事務所Ubuntuとつなぐ on #Qiita https://t.co/b3oWXDNF5S</title>
-      <link>https://x.com/godotys01/status/2111095872738185375</link>
-      <description>Tetsuya godo: 記事を投稿しました！ VPSを入口に、オンプレUbuntuのWebアプリを公開する 第2回 ― ConoHa VPSのSSHを整え、 WireGuard で事務所Ubuntuとつなぐ on #Qiita https://t.co/b3oWXDNF5S</description>
-      <pubDate>Fri, 16 Oct 2026 14:04:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/godotys01/status/2111095872738185375</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>museすごい syncthing もなんでもいける</title>
+      <link>https://x.com/hayas_e/status/2113814358757363770</link>
+      <description>ハル: museすごい syncthing もなんでもいける</description>
+      <pubDate>Sat, 24 Oct 2026 02:06:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hayas_e/status/2113814358757363770</guid>
+    </item>
+    <item>
       <title>本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</title>
       <link>https://x.com/clockstep/status/2113514749732544826</link>
       <description>いそじん: 本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</description>
@@ -17,6 +24,13 @@
       <description>ko-zu: androidの syncthing -forkがエンバグったのかSDカード側に書き込みできなくなっていた。代替の双方向同期を探さないと</description>
       <pubDate>Fri, 23 Oct 2026 04:56:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cause_less/status/2113494767686578182</guid>
+    </item>
+    <item>
+      <title>@penpenkobuta_zz keypassDXってアプリがあって、それをPCスマホ両方に入れる→ Chromeから保存してるパスワード一覧のcsvがダウンロードできるからこれを先のアプリにぶち込む→ Syncthing って同期アプリでパスワード一覧のデータだけ同期させるかんじ でもChromeもローカルでパスワードマネージャー動くから、実際は</title>
+      <link>https://x.com/catcatorcat/status/2113491181967671676</link>
+      <description>awamori: @penpenkobuta_zz keypassDXってアプリがあって、それをPCスマホ両方に入れる→ Chromeから保存してるパスワード一覧のcsvがダウンロードできるからこれを先のアプリにぶち込む→ Syncthing って同期アプリでパスワード一覧のデータだけ同期させるかんじ でもChromeもローカルでパスワードマネージャー動くから、実際は</description>
+      <pubDate>Fri, 23 Oct 2026 04:42:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/catcatorcat/status/2113491181967671676</guid>
     </item>
     <item>
       <title>Syncthing とObsidianでP2Pメモアプリ作った #Obsidian</title>
@@ -262,20 +276,6 @@
       <description>森山たすく: 長めの文章は大体PCで書くしAnytypeもあるから、Obsidianのスマホアプリとの同期は特に必要ないかと思ってたけど、 Syncthing 便利。</description>
       <pubDate>Tue, 29 Sep 2026 12:42:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sbmt2020/status/2104914719924756780</guid>
-    </item>
-    <item>
-      <title>@DesignOkaka 普段何気なくやってる複数端末の同期って案外大変なんだなって思いました…！ ちなみにobsidianの同期は syncthing からアドオンのGit Syncに変えたら上手く動いてくれてます 今のところは</title>
-      <link>https://x.com/namorton09/status/2104157787551080842</link>
-      <description>ナモー: @DesignOkaka 普段何気なくやってる複数端末の同期って案外大変なんだなって思いました…！ ちなみにobsidianの同期は syncthing からアドオンのGit Syncに変えたら上手く動いてくれてます 今のところは</description>
-      <pubDate>Sun, 27 Sep 2026 10:34:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/namorton09/status/2104157787551080842</guid>
-    </item>
-    <item>
-      <title>@namorton09 Syncthing のコンフリクト、私もローカルSSDで環境構築している時にハマりかけました…。ファイル競合は本当に焦りますよね。Google Keepへの逃避もすごくよく分かります。</title>
-      <link>https://x.com/DesignOkaka/status/2104148629086953670</link>
-      <description>okaka: @namorton09 Syncthing のコンフリクト、私もローカルSSDで環境構築している時にハマりかけました…。ファイル競合は本当に焦りますよね。Google Keepへの逃避もすごくよく分かります。</description>
-      <pubDate>Sun, 27 Sep 2026 09:58:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DesignOkaka/status/2104148629086953670</guid>
     </item>
   </channel>
 </rss>

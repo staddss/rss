@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の用途別おすすめと導入チェックリスト https://t.co/kjY4YUlv9K #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2113853262948409579</link>
+      <description>EngiNear: 【新着記事】クラウドIDE徹底比較： Codespaces ・Gitpod・Cloud9 の用途別おすすめと導入チェックリスト https://t.co/kjY4YUlv9K #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 24 Oct 2026 04:41:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2113853262948409579</guid>
+    </item>
+    <item>
+      <title>【新着記事】クラウドIDEの結論と導入手順： Codespaces ・Gitpod・Cloud9 の最適な選び方とPoCチェックリスト https://t.co/mMs2pVa43M #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2113791686014882187</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの結論と導入手順： Codespaces ・Gitpod・Cloud9 の最適な選び方とPoCチェックリスト https://t.co/mMs2pVa43M #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 24 Oct 2026 00:36:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2113791686014882187</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の導入判断と実践手順 https://t.co/FhL7brIr4C #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2113430552623599789</link>
       <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の導入判断と実践手順 https://t.co/FhL7brIr4C #エンジニア #ChatGPT #AI</description>
@@ -262,27 +276,6 @@
       <description>谷口 A KILLA⿻◯236m: Codespaces 使わせられるけど重いって</description>
       <pubDate>Tue, 06 Oct 2026 02:02:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/235bce/status/2107290328881603054</guid>
-    </item>
-    <item>
-      <title>【新着記事】結論：どれを選ぶべきか — GitHub Codespaces / Gitpod / AWS Cloud9 の比較と導入手順 https://t.co/hb82F9Saen #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2107267467802263810</link>
-      <description>EngiNear: 【新着記事】結論：どれを選ぶべきか — GitHub Codespaces / Gitpod / AWS Cloud9 の比較と導入手順 https://t.co/hb82F9Saen #エンジニア #ChatGPT #AI</description>
-      <pubDate>Tue, 06 Oct 2026 00:31:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2107267467802263810</guid>
-    </item>
-    <item>
-      <title>VS Codeが流行った理由が理解できない人はちゃんとドキュメンタリーを見たほうがいい https://t.co/8rLsPsAfk0 LSP、DAP、プラグインのプロセス分離、Remote 、Dev Containers、GitHub Codespaces ... これらの概念はVS Codeがなければそもそも生まれなかったものなので https://t.co/wxOGaa4YZz</title>
-      <link>https://x.com/R0u9h/status/2106992664495440233</link>
-      <description>LaPh: VS Codeが流行った理由が理解できない人はちゃんとドキュメンタリーを見たほうがいい https://t.co/8rLsPsAfk0 LSP、DAP、プラグインのプロセス分離、Remote 、Dev Containers、GitHub Codespaces ... これらの概念はVS Codeがなければそもそも生まれなかったものなので https://t.co/wxOGaa4YZz</description>
-      <pubDate>Mon, 05 Oct 2026 06:19:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/R0u9h/status/2106992664495440233</guid>
-    </item>
-    <item>
-      <title>Codespaces を連続稼働可能な最大時間は 12h だと。これを超えそうになると警告が出るので、一度停止させて再接続してね…って感じになってるらしい。 https://t.co/ToqZWad1A1 https://t.co/gSBOYMILGU</title>
-      <link>https://x.com/v_intestine/status/2106939949258092941</link>
-      <description>intestine: Codespaces を連続稼働可能な最大時間は 12h だと。これを超えそうになると警告が出るので、一度停止させて再接続してね…って感じになってるらしい。 https://t.co/ToqZWad1A1 https://t.co/gSBOYMILGU</description>
-      <pubDate>Mon, 05 Oct 2026 02:50:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/v_intestine/status/2106939949258092941</guid>
     </item>
   </channel>
 </rss>

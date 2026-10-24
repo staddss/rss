@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel ＋Accessのパス正規化は、2026.10.0でも既定オフ。更新だけで終えず、パス別保護の構成を棚卸しし、検証環境で有効化とルーティングを確認するポイントを整理しました。 https://t.co/18NcSqI8Ww</title>
+      <link>https://x.com/superdoccimo/status/2113799112663449831</link>
+      <description>美濃加茂まむ: Cloudflare Tunnel ＋Accessのパス正規化は、2026.10.0でも既定オフ。更新だけで終えず、パス別保護の構成を棚卸しし、検証環境で有効化とルーティングを確認するポイントを整理しました。 https://t.co/18NcSqI8Ww</description>
+      <pubDate>Sat, 24 Oct 2026 01:05:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/superdoccimo/status/2113799112663449831</guid>
+    </item>
+    <item>
+      <title>cloudflare tunnel とaccessの組み合わせを試して、可能性を感じた。便利やなあ</title>
+      <link>https://x.com/kishima/status/2113618478183928302</link>
+      <description>kishima: cloudflare tunnel とaccessの組み合わせを試して、可能性を感じた。便利やなあ</description>
+      <pubDate>Fri, 23 Oct 2026 13:08:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kishima/status/2113618478183928302</guid>
+    </item>
+    <item>
+      <title>Maybe important to repost this now that everyone is getting hacked If you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP It doesn't matter you have SSH key login, this is about exploits and vulnerabilities https://t.co/23QOH9SBzP</title>
+      <link>https://x.com/levelsio/status/2113587042185576853</link>
+      <description>@levelsio: Maybe important to repost this now that everyone is getting hacked If you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP It doesn't matter you have SSH key login, this is about exploits and vulnerabilities https://t.co/23QOH9SBzP</description>
+      <pubDate>Fri, 23 Oct 2026 11:03:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2113587042185576853</guid>
+    </item>
+    <item>
       <title>@OsamuKosaki 実を言うとですね・・・ 契約しているプロバイダによって出来るかどうかが決まってしまいます・・・ これをクリアした上で問題があるならばNW周りを疑ってかかるというのが定石なのです Cloudflare Tunnel 等の代替手段も検討してみるのも良いかと思います</title>
       <link>https://x.com/genzitu/status/2113478406323253309</link>
       <description>幻実: @OsamuKosaki 実を言うとですね・・・ 契約しているプロバイダによって出来るかどうかが決まってしまいます・・・ これをクリアした上で問題があるならばNW周りを疑ってかかるというのが定石なのです Cloudflare Tunnel 等の代替手段も検討してみるのも良いかと思います</description>
@@ -255,27 +276,6 @@
       <description>MF235: Cloudflareがめちゃくちゃ便利な件。 ポート開放もDDNSも不要！ Windows 11 + Caddy + Cloudflare Tunnel で自宅Webサーバを作る｜MF235 @MF235XBR https://t.co/KH7YXHFMui</description>
       <pubDate>Tue, 13 Oct 2026 14:38:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MF235XBR/status/2110017449592868922</guid>
-    </item>
-    <item>
-      <title>@59Kja 可能か不可能かでいえば可能 ただ相応の重めの処理が継続されるのであれば素直にミニPCを買うのが良いかと 自宅サーバーで公開も構わないと思いますが個人的には生IPを晒したくないので CDNを挟んで使う方が良いです Cloudflare Tunnel を利用したりして</title>
-      <link>https://x.com/Toshinari1993/status/2109874420273799625</link>
-      <description>横山 インフラエンジニア系コンサルタント: @59Kja 可能か不可能かでいえば可能 ただ相応の重めの処理が継続されるのであれば素直にミニPCを買うのが良いかと 自宅サーバーで公開も構わないと思いますが個人的には生IPを晒したくないので CDNを挟んで使う方が良いです Cloudflare Tunnel を利用したりして</description>
-      <pubDate>Tue, 13 Oct 2026 05:10:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Toshinari1993/status/2109874420273799625</guid>
-    </item>
-    <item>
-      <title>よっしゃ。 CloudFlare Tunnel 経由でローカルのPaseo MCP WrapperにChatGPTから接続できた。 これで勝つる。 https://t.co/A6oBONOiXO</title>
-      <link>https://x.com/Malicha_45/status/2109845613902963022</link>
-      <description>Malicha.45: よっしゃ。 CloudFlare Tunnel 経由でローカルのPaseo MCP WrapperにChatGPTから接続できた。 これで勝つる。 https://t.co/A6oBONOiXO</description>
-      <pubDate>Tue, 13 Oct 2026 03:16:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Malicha_45/status/2109845613902963022</guid>
-    </item>
-    <item>
-      <title>セルフホスト、個人開発者こそ取り入れるべきだと実感してます。クラウドの従量課金に怯えず、自分のVPSで気軽に検証できるのが最高です。 ・Docker Composeでまとめて管理 ・ Cloudflare Tunnel で安全に外部公開 ・バックアップ自動化は絶対必須 小さく始めて育てていく感覚、たまりません🔥</title>
-      <link>https://x.com/kygo_coding/status/2109796371566039455</link>
-      <description>カイゴ | AI駆動エンジニア: セルフホスト、個人開発者こそ取り入れるべきだと実感してます。クラウドの従量課金に怯えず、自分のVPSで気軽に検証できるのが最高です。 ・Docker Composeでまとめて管理 ・ Cloudflare Tunnel で安全に外部公開 ・バックアップ自動化は絶対必須 小さく始めて育てていく感覚、たまりません🔥</description>
-      <pubDate>Tue, 13 Oct 2026 00:00:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kygo_coding/status/2109796371566039455</guid>
     </item>
   </channel>
 </rss>
