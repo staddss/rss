@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/kikFORjp/status/2113946215981473991</guid>
     </item>
     <item>
+      <title>【PHP脆弱性の注意喚起】 7. 【個人開発者・VPS運用者向け】 Pieter Levels氏などが勧めているのはサーバーをインターネットから見えなくする方法です。 Web公開は Cloudflare Tunnel 、管理用のアクセスはTailscaleにして外からの直接接続をすべて閉じます。 攻撃される入り口が大きく減ります。</title>
+      <link>https://x.com/bestband2016/status/2113929239498039480</link>
+      <description>bestmusic: 【PHP脆弱性の注意喚起】 7. 【個人開発者・VPS運用者向け】 Pieter Levels氏などが勧めているのはサーバーをインターネットから見えなくする方法です。 Web公開は Cloudflare Tunnel 、管理用のアクセスはTailscaleにして外からの直接接続をすべて閉じます。 攻撃される入り口が大きく減ります。</description>
+      <pubDate>Sat, 24 Oct 2026 09:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bestband2016/status/2113929239498039480</guid>
+    </item>
+    <item>
       <title>【保存版】 『VPSをネットから切り離せ：Tailscale + Cloudflare Tunnel で守る基本』 最近、VPS（自分で借りるクラウド上の小さなサーバー）が世界中でハックされる被害が増えているが、Pieter https://t.co/ZzGiaMkYOC https://t.co/vC1HRd4eBi</title>
       <link>https://x.com/cursorvers/status/2113903322750914713</link>
       <description>大田原正幸｜医療AI/SIガバナンス｜Cursorvers: 【保存版】 『VPSをネットから切り離せ：Tailscale + Cloudflare Tunnel で守る基本』 最近、VPS（自分で借りるクラウド上の小さなサーバー）が世界中でハックされる被害が増えているが、Pieter https://t.co/ZzGiaMkYOC https://t.co/vC1HRd4eBi</description>
@@ -269,13 +276,6 @@
       <description>深堀哲史（育休）: セキュリティ上の理由でNASを外部に解放してなかったけど cloudflare tunnel 使って公開すれば幾分ましだな。 やろうかな。</description>
       <pubDate>Wed, 14 Oct 2026 19:48:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/teslur/status/2110457801927729260</guid>
-    </item>
-    <item>
-      <title>AWSのパブリックIPv4は、2024年2月から1個あたり1時間0.005ドルかかります。 付けっぱなしだと月3.6ドルほど。 Cloudflare Tunnel （外から入口を開けずに公開する仕組み）なら、IPv6だけのサーバーでもWeb公開できます。 小さな固定費ほど見直す価値あり。IPv4代、気にしてますか？ #AWS</title>
-      <link>https://x.com/bzroni/status/2110327285731692791</link>
-      <description>roni|クラウドを目指し始めた男: AWSのパブリックIPv4は、2024年2月から1個あたり1時間0.005ドルかかります。 付けっぱなしだと月3.6ドルほど。 Cloudflare Tunnel （外から入口を開けずに公開する仕組み）なら、IPv6だけのサーバーでもWeb公開できます。 小さな固定費ほど見直す価値あり。IPv4代、気にしてますか？ #AWS</description>
-      <pubDate>Wed, 14 Oct 2026 11:10:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bzroni/status/2110327285731692791</guid>
     </item>
   </channel>
 </rss>
