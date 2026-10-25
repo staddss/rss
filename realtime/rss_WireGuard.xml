@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/_takelot_/status/2114257751358767204</guid>
     </item>
     <item>
+      <title>@kamiya344 まぁ自分用だけだったら、、、 IPsecとか Wireguard 使う そもそも直のホスティングせずに必ず中継経由？AWS Systems Manager Session Managerみたいな感じで</title>
+      <link>https://x.com/TAC_yacht/status/2114178216827191390</link>
+      <description>T.A.C.: @kamiya344 まぁ自分用だけだったら、、、 IPsecとか Wireguard 使う そもそも直のホスティングせずに必ず中継経由？AWS Systems Manager Session Managerみたいな感じで</description>
+      <pubDate>Sun, 25 Oct 2026 02:12:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TAC_yacht/status/2114178216827191390</guid>
+    </item>
+    <item>
       <title>この黄色い箱を挟むと、ゲーム機もVPNにつながる。 GL.iNetの「Mango 2」、重さ100gのトラベルルーター。5GHzで最大866Mbps、 WireGuard とTailscaleに対応。 https://t.co/5PjhCOe4Y4</title>
       <link>https://x.com/GadgetTerminal2/status/2113971518447157434</link>
       <description>Gadget Terminal: この黄色い箱を挟むと、ゲーム機もVPNにつながる。 GL.iNetの「Mango 2」、重さ100gのトラベルルーター。5GHzで最大866Mbps、 WireGuard とTailscaleに対応。 https://t.co/5PjhCOe4Y4</description>
@@ -269,13 +276,6 @@
       <description>alwei: うちもセキュリティの問題で構築したわけではありませんが、VPNについては自社でサーバーを立てています。 オープンソースでシンプルでモダンかつ高速な WireGuard VPNです。 https://t.co/dTK5C10SpE おそらく利用可能なVPNの中でも最も高速で、ID,PWを管理しない秘密鍵方式でセキュリティも高い。</description>
       <pubDate>Mon, 19 Oct 2026 03:13:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aizen76/status/2112019206703337833</guid>
-    </item>
-    <item>
-      <title>Guacamole鯖に WireGuard で繋いでメインPCをRDP使って操作できるようにして最強の環境できてる なんならゲームもできる</title>
-      <link>https://x.com/Toufkun_exe/status/2111985565306638658</link>
-      <description>豆腐くん: Guacamole鯖に WireGuard で繋いでメインPCをRDP使って操作できるようにして最強の環境できてる なんならゲームもできる</description>
-      <pubDate>Mon, 19 Oct 2026 00:59:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Toufkun_exe/status/2111985565306638658</guid>
     </item>
   </channel>
 </rss>
