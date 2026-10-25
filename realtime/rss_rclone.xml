@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ｺﾞﾒﾝﾅｻｲ、 rclone は(10.25時点では)関係なさそです... https://t.co/hOzHeM595A しかし7zipは(CLIとして)使ってるとこ多いよね、そういえば某三河社方面の案件やったときもミドルウェアに7za.exeがバンドルされてたの思い出した</title>
+      <link>https://x.com/g_plains/status/2114264153187852488</link>
+      <description>こてつ(ONO,Tetsuo): ｺﾞﾒﾝﾅｻｲ、 rclone は(10.25時点では)関係なさそです... https://t.co/hOzHeM595A しかし7zipは(CLIとして)使ってるとこ多いよね、そういえば某三河社方面の案件やったときもミドルウェアに7za.exeがバンドルされてたの思い出した</description>
+      <pubDate>Sun, 25 Oct 2026 07:53:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2114264153187852488</guid>
+    </item>
+    <item>
+      <title>@sakky_hs rclone は大丈夫ぽい、早合点でした しかし範囲広いな、wingetぶっ込んでまとめて解決したいレベる</title>
+      <link>https://x.com/g_plains/status/2114257037685313625</link>
+      <description>こてつ(ONO,Tetsuo): @sakky_hs rclone は大丈夫ぽい、早合点でした しかし範囲広いな、wingetぶっ込んでまとめて解決したいレベる</description>
+      <pubDate>Sun, 25 Oct 2026 07:25:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2114257037685313625</guid>
+    </item>
+    <item>
+      <title>@bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</title>
+      <link>https://x.com/g_plains/status/2114209832672890893</link>
+      <description>こてつ(ONO,Tetsuo): @bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</description>
+      <pubDate>Sun, 25 Oct 2026 04:17:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2114209832672890893</guid>
+    </item>
+    <item>
+      <title>な、7zipも対象....?! (あいつもnwに繋がるんだっけ、ってことはnwつながるやつ、つまるところ rclone も対象かーめんどくさい) https://t.co/os3SpkmX3X</title>
+      <link>https://x.com/g_plains/status/2114189794163183726</link>
+      <description>こてつ(ONO,Tetsuo): な、7zipも対象....?! (あいつもnwに繋がるんだっけ、ってことはnwつながるやつ、つまるところ rclone も対象かーめんどくさい) https://t.co/os3SpkmX3X</description>
+      <pubDate>Sun, 25 Oct 2026 02:58:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2114189794163183726</guid>
+    </item>
+    <item>
+      <title>@keita_roboin 1PasswordのVaultsに Rclone とかで使用する鍵などの情報を保存しておいて CLIから1Passwordの認証経由で都度設定するようにしたら シェルスクリプト中に鍵をメモする必要がなくなるので 安全性が向上するんですよね</title>
+      <link>https://x.com/plutoj1975/status/2113900891426418689</link>
+      <description>ぷーさん＿元エンジ: @keita_roboin 1PasswordのVaultsに Rclone とかで使用する鍵などの情報を保存しておいて CLIから1Passwordの認証経由で都度設定するようにしたら シェルスクリプト中に鍵をメモする必要がなくなるので 安全性が向上するんですよね</description>
+      <pubDate>Sat, 24 Oct 2026 07:50:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/plutoj1975/status/2113900891426418689</guid>
+    </item>
+    <item>
       <title>@boraemon2000 ブログのバックアップ、ずっと後回しにしてます・・・ rclone でいけるなら、週末読んでみようかな📚</title>
       <link>https://x.com/bossnyan_ai/status/2113465323014017524</link>
       <description>ボスにゃん: @boraemon2000 ブログのバックアップ、ずっと後回しにしてます・・・ rclone でいけるなら、週末読んでみようかな📚</description>
@@ -241,41 +276,6 @@
       <description>トシ改: VSCodeなどでリモート開発するならcode-serverを使うんじゃなく rclone mountを使う方が便利だな。</description>
       <pubDate>Sat, 03 Oct 2026 03:26:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/toshi_custom/status/2106224364169621776</guid>
-    </item>
-    <item>
-      <title>2TのデータをMacのHDD圧迫せずにDropbox → rclone （Macを中継）→ Google Driveしてるけどターミナル様々やな・・・</title>
-      <link>https://x.com/typem1/status/2105681068707946966</link>
-      <description>事象の地平線を越えた👁️🕳️👁️むいち: 2TのデータをMacのHDD圧迫せずにDropbox → rclone （Macを中継）→ Google Driveしてるけどターミナル様々やな・・・</description>
-      <pubDate>Thu, 01 Oct 2026 15:27:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/typem1/status/2105681068707946966</guid>
-    </item>
-    <item>
-      <title>Rclone つかってもそれなりの時間かかる作業なんよなー</title>
-      <link>https://x.com/igana_0229/status/2105282787406422503</link>
-      <description>永#: Rclone つかってもそれなりの時間かかる作業なんよなー</description>
-      <pubDate>Wed, 30 Sep 2026 13:05:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/igana_0229/status/2105282787406422503</guid>
-    </item>
-    <item>
-      <title>「バックアップはある」と安心していませんか。 Rclone 停止と/cloudのマウント解除後もlsyncdのメインプロセスだけが起動し、停止にほぼ半年気づけず。再発防止ではマウント状態とlsyncdの稼働をcronで確認し、異常時にメール通知。難しいのは、どこを監視点にするかです。 https://t.co/2UnCMUckHC</title>
-      <link>https://x.com/futurespirits/status/2105160712977027515</link>
-      <description>株式会社フューチャースピリッツ: 「バックアップはある」と安心していませんか。 Rclone 停止と/cloudのマウント解除後もlsyncdのメインプロセスだけが起動し、停止にほぼ半年気づけず。再発防止ではマウント状態とlsyncdの稼働をcronで確認し、異常時にメール通知。難しいのは、どこを監視点にするかです。 https://t.co/2UnCMUckHC</description>
-      <pubDate>Wed, 30 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/futurespirits/status/2105160712977027515</guid>
-    </item>
-    <item>
-      <title>うーん、 rclone でGoogle Driveとsyncしているのだけど、細かいファイルが2万くらいを超えたあたりからちょいちょいRate limitに当たったり調子悪くなるの、なんとかしてほしいな...(諦める？</title>
-      <link>https://x.com/k_nishijima/status/2105080396794999236</link>
-      <description>西島 幸一郎: うーん、 rclone でGoogle Driveとsyncしているのだけど、細かいファイルが2万くらいを超えたあたりからちょいちょいRate limitに当たったり調子悪くなるの、なんとかしてほしいな...(諦める？</description>
-      <pubDate>Tue, 29 Sep 2026 23:40:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k_nishijima/status/2105080396794999236</guid>
-    </item>
-    <item>
-      <title>@LunarHealWisdom 頭おかしいくらいお得だからな。Archならpacman -S rclone fuse2。 rclone configでDrive追加して、 rclone mount gdrive: ~/gdrive --vfs-cache-mode writes --daemonでマウント。5TBがローカルみたいに使えるよ。</title>
-      <link>https://x.com/grok/status/2104884248570110288</link>
-      <description>Grok: @LunarHealWisdom 頭おかしいくらいお得だからな。Archならpacman -S rclone fuse2。 rclone configでDrive追加して、 rclone mount gdrive: ~/gdrive --vfs-cache-mode writes --daemonでマウント。5TBがローカルみたいに使えるよ。</description>
-      <pubDate>Tue, 29 Sep 2026 10:41:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2104884248570110288</guid>
     </item>
   </channel>
 </rss>

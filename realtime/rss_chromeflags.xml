@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeで右クリックした時に出てくる「Gemini に相談 」を消す方法 ①アドレスバーに chrome :// flags と入力してEnter ②上部の検索欄に glic と入力 ③Glic という項目を探す ④右側の Default を Disabled に変更。 ④画面下部の 「Relaunch（再起動）」 をクリック。</title>
+      <link>https://x.com/fullmalion/status/2114226427616997733</link>
+      <description>まっち💫: Chromeで右クリックした時に出てくる「Gemini に相談 」を消す方法 ①アドレスバーに chrome :// flags と入力してEnter ②上部の検索欄に glic と入力 ③Glic という項目を探す ④右側の Default を Disabled に変更。 ④画面下部の 「Relaunch（再起動）」 をクリック。</description>
+      <pubDate>Sun, 25 Oct 2026 05:23:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fullmalion/status/2114226427616997733</guid>
+    </item>
+    <item>
+      <title>Chromeの右クリックメニュー「Geminiに相談する」が検索すると続きで並んでて邪魔やったから chrome :// flags のGlic Context Menu Below SearchをDisabledにすればええかなと思ってたのに結局Glic項目(30個くらい)全オフにするまで消えんかった めっちゃ再起動した笑 https://t.co/sjJRGWyoJL</title>
+      <link>https://x.com/hiroomis/status/2114185320510206132</link>
+      <description>ひろおみ＠🏂⛄❄: Chromeの右クリックメニュー「Geminiに相談する」が検索すると続きで並んでて邪魔やったから chrome :// flags のGlic Context Menu Below SearchをDisabledにすればええかなと思ってたのに結局Glic項目(30個くらい)全オフにするまで消えんかった めっちゃ再起動した笑 https://t.co/sjJRGWyoJL</description>
+      <pubDate>Sun, 25 Oct 2026 02:40:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiroomis/status/2114185320510206132</guid>
+    </item>
+    <item>
       <title>テキストコピーからGoogle検索する時、右クリックで表示される「◯◯をGoogleで検索」の直下に「◯◯をGeminiに相談」という項があっていちいち選択ミスらないよう気を付けるの面倒なので消した。 chromeのアドレスに「 chrome :// flags 」で試験オプション一覧にアクセスして「Glic」を「Disabled」に。 https://t.co/bWiHqAqYEv</title>
       <link>https://x.com/miyamo_7/status/2113643555386520041</link>
       <description>みやも(大阪府）: テキストコピーからGoogle検索する時、右クリックで表示される「◯◯をGoogleで検索」の直下に「◯◯をGeminiに相談」という項があっていちいち選択ミスらないよう気を付けるの面倒なので消した。 chromeのアドレスに「 chrome :// flags 」で試験オプション一覧にアクセスして「Glic」を「Disabled」に。 https://t.co/bWiHqAqYEv</description>
@@ -262,27 +276,6 @@
       <description>鈴木圭: Chrome の Omnibar にある「AI モード」ボタンを消すには、メニューの「表示 &gt; AI モードを常に表示」のチェックを外す。今まで chrome :// flags の中を探していたけど、別の場所にあった。 https://t.co/LmZoAqdBR2</description>
       <pubDate>Wed, 30 Sep 2026 10:55:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/suzuki6b6569/status/2105250296293363799</guid>
-    </item>
-    <item>
-      <title>よかった…iPhoneのchromeのUI戻すことができた。 chrome :// flags /#chrome-next-ia ↑を開いて、DefaultからDisabledに変えて再既読するだけで元に戻る。さっさとすればよかった。 これで左下に戻るボタンが帰ってきた https://t.co/3TUEt70v5Z</title>
-      <link>https://x.com/areda_yoshitune/status/2104750978704761119</link>
-      <description>義経提督@親ばか: よかった…iPhoneのchromeのUI戻すことができた。 chrome :// flags /#chrome-next-ia ↑を開いて、DefaultからDisabledに変えて再既読するだけで元に戻る。さっさとすればよかった。 これで左下に戻るボタンが帰ってきた https://t.co/3TUEt70v5Z</description>
-      <pubDate>Tue, 29 Sep 2026 01:51:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/areda_yoshitune/status/2104750978704761119</guid>
-    </item>
-    <item>
-      <title>指定した時間にページ全体でダークモードが有効になる拡張機能を探してるんだけど、個人情報を収集しないと宣言されているものに絞ると、ちゃんと動くものが中々見つからない。もう手動で chrome :// flags #enable-force-darkをEnabledにした方が確実な気がしてきた</title>
-      <link>https://x.com/patriot821/status/2104599618227224926</link>
-      <description>パトリオット: 指定した時間にページ全体でダークモードが有効になる拡張機能を探してるんだけど、個人情報を収集しないと宣言されているものに絞ると、ちゃんと動くものが中々見つからない。もう手動で chrome :// flags #enable-force-darkをEnabledにした方が確実な気がしてきた</description>
-      <pubDate>Mon, 28 Sep 2026 15:50:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/patriot821/status/2104599618227224926</guid>
-    </item>
-    <item>
-      <title>なんかChromeとEdgeの背景が、ブラウザの更新によって突然白からクリーム色っぽく変わってしまった アドレスバーに「 chrome :// flags 」「edge://flags」と入力してEnter→「Force color profile」の設定を「sRGB」に変更してブラウザを再起動したら治りました https://t.co/N7itAiI8md</title>
-      <link>https://x.com/ik1004aikei/status/2104539277954851270</link>
-      <description>あいけい: なんかChromeとEdgeの背景が、ブラウザの更新によって突然白からクリーム色っぽく変わってしまった アドレスバーに「 chrome :// flags 」「edge://flags」と入力してEnter→「Force color profile」の設定を「sRGB」に変更してブラウザを再起動したら治りました https://t.co/N7itAiI8md</description>
-      <pubDate>Mon, 28 Sep 2026 11:50:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ik1004aikei/status/2104539277954851270</guid>
     </item>
   </channel>
 </rss>

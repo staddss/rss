@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>TCP/IPでlistenしたら負け。と考えると、 Cloudflare Tunnel 的なのを適用したら攻撃はやりにくくなるのか？を夢想しだした。 https://t.co/rNzPPofW93</title>
+      <link>https://x.com/moguno/status/2114184041176224171</link>
+      <description>もぐの: TCP/IPでlistenしたら負け。と考えると、 Cloudflare Tunnel 的なのを適用したら攻撃はやりにくくなるのか？を夢想しだした。 https://t.co/rNzPPofW93</description>
+      <pubDate>Sun, 25 Oct 2026 02:35:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2114184041176224171</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel を開始するためにドメイン登録して証明書が生成されたら、早速CTログからアクセスが始まる。 とはいえ全部サブドメイン運用なので ドメインへのアクセスはどうでもいい。 接続元は世界各地とTorだったりした。 https://t.co/VFjUNz1tvn</title>
+      <link>https://x.com/96sc_/status/2114163870659129477</link>
+      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: Cloudflare Tunnel を開始するためにドメイン登録して証明書が生成されたら、早速CTログからアクセスが始まる。 とはいえ全部サブドメイン運用なので ドメインへのアクセスはどうでもいい。 接続元は世界各地とTorだったりした。 https://t.co/VFjUNz1tvn</description>
+      <pubDate>Sun, 25 Oct 2026 01:15:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96sc_/status/2114163870659129477</guid>
+    </item>
+    <item>
+      <title>一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは</title>
+      <link>https://x.com/hantabaru1014/status/2114047267565101239</link>
+      <description>ばる: 一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは</description>
+      <pubDate>Sat, 24 Oct 2026 17:32:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hantabaru1014/status/2114047267565101239</guid>
+    </item>
+    <item>
       <title>昨日の個人開発売上 RevenueCat：7,000円 PayPal：8,000円 Admob：約627円 Adsense：約167円 合計：15,794円 今日はRubyとかRailsとかDokkuとかアップデートして、VPSをネットに公開せず Cloudflare Tunnel を通してのみアクセス可能にするなどした。</title>
       <link>https://x.com/kikFORjp/status/2113946215981473991</link>
       <description>Kengo.K: 昨日の個人開発売上 RevenueCat：7,000円 PayPal：8,000円 Admob：約627円 Adsense：約167円 合計：15,794円 今日はRubyとかRailsとかDokkuとかアップデートして、VPSをネットに公開せず Cloudflare Tunnel を通してのみアクセス可能にするなどした。</description>
@@ -255,27 +276,6 @@
       <description>Shaula(しゃうら): 自宅PCへのsshを Cloudflare Tunnel で実現してたんだけど、普通に今まで使ってたTailscaleでええやん・・・ってなった今。</description>
       <pubDate>Thu, 15 Oct 2026 09:14:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Shaula0x0400/status/2110660625315905812</guid>
-    </item>
-    <item>
-      <title>ノート PC あまりにも動作が重すぎて，真面目に自宅のデスクトップ PC からの Cloudflare Tunnel を利用したリモートデスクトップ接続を検討</title>
-      <link>https://x.com/8_7_10/status/2110609426789138764</link>
-      <description>HA710: ノート PC あまりにも動作が重すぎて，真面目に自宅のデスクトップ PC からの Cloudflare Tunnel を利用したリモートデスクトップ接続を検討</description>
-      <pubDate>Thu, 15 Oct 2026 05:51:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/8_7_10/status/2110609426789138764</guid>
-    </item>
-    <item>
-      <title>WAFのログ見てる。じぃ…。結構な頻度で攻撃されてるよねぇ。10年前じゃ考えられないレベル。 cloudflare tunnel で繋げてるアプリ開発中にだけ起動してる僕のローカルサーバーにも来るんだから無差別すぎる。 こういうことする人みんな関節逆にマッガーレ💫</title>
-      <link>https://x.com/tefista_numa/status/2110517031405748272</link>
-      <description>ぬまん@TEFISTA代表｜開発者: WAFのログ見てる。じぃ…。結構な頻度で攻撃されてるよねぇ。10年前じゃ考えられないレベル。 cloudflare tunnel で繋げてるアプリ開発中にだけ起動してる僕のローカルサーバーにも来るんだから無差別すぎる。 こういうことする人みんな関節逆にマッガーレ💫</description>
-      <pubDate>Wed, 14 Oct 2026 23:44:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tefista_numa/status/2110517031405748272</guid>
-    </item>
-    <item>
-      <title>セキュリティ上の理由でNASを外部に解放してなかったけど cloudflare tunnel 使って公開すれば幾分ましだな。 やろうかな。</title>
-      <link>https://x.com/teslur/status/2110457801927729260</link>
-      <description>深堀哲史（育休）: セキュリティ上の理由でNASを外部に解放してなかったけど cloudflare tunnel 使って公開すれば幾分ましだな。 やろうかな。</description>
-      <pubDate>Wed, 14 Oct 2026 19:48:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/teslur/status/2110457801927729260</guid>
     </item>
   </channel>
 </rss>
