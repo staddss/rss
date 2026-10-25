@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/g_plains/status/2114257037685313625</guid>
     </item>
     <item>
+      <title>rclone とかそうなんだけど、--helpしか付けないのにmanの全文みたいに長い文章と例を流さないでほしいんだよな こっちはただ--daemonつけて起動したwebdavマウントを停止したいだけなんだけど</title>
+      <link>https://x.com/sashisashi569/status/2114252637923426517</link>
+      <description>sashisashi: rclone とかそうなんだけど、--helpしか付けないのにmanの全文みたいに長い文章と例を流さないでほしいんだよな こっちはただ--daemonつけて起動したwebdavマウントを停止したいだけなんだけど</description>
+      <pubDate>Sun, 25 Oct 2026 07:08:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2114252637923426517</guid>
+    </item>
+    <item>
       <title>@bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</title>
       <link>https://x.com/g_plains/status/2114209832672890893</link>
       <description>こてつ(ONO,Tetsuo): @bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</description>
@@ -269,13 +276,6 @@
       <description>たま🌂🎐美少女に変態と言われたい🌧🍡🌙: @amatsuki_tei_ おは甘です 旧パソコンでファイル共有して、robocopyか rclone でネットワーク転送するか、ファイル共有しなくてもローカルからUSB-HDDに転送した方が速いのでは？ コマンド？AIが答えてくれます。</description>
       <pubDate>Sun, 04 Oct 2026 00:11:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tama_aznable/status/2106537576035434608</guid>
-    </item>
-    <item>
-      <title>VSCodeなどでリモート開発するならcode-serverを使うんじゃなく rclone mountを使う方が便利だな。</title>
-      <link>https://x.com/toshi_custom/status/2106224364169621776</link>
-      <description>トシ改: VSCodeなどでリモート開発するならcode-serverを使うんじゃなく rclone mountを使う方が便利だな。</description>
-      <pubDate>Sat, 03 Oct 2026 03:26:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/toshi_custom/status/2106224364169621776</guid>
     </item>
   </channel>
 </rss>

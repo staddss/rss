@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>SSMより、 Cloudflare Tunnel ＋Accessの方が無難か。</title>
+      <link>https://x.com/tatsu_btc/status/2114394979238076557</link>
+      <description>tatsu.btc: SSMより、 Cloudflare Tunnel ＋Accessの方が無難か。</description>
+      <pubDate>Sun, 25 Oct 2026 16:33:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tatsu_btc/status/2114394979238076557</guid>
+    </item>
+    <item>
+      <title>@doerai_dog Cloudflare Tunnel はポート開放せずに公開できるし、Accessと組み合わせればゼロトラストで認証もかけられるので、むしろ安全なイメージでした…！ Cloudflare自体への依存が怖いって感じですかね？</title>
+      <link>https://x.com/narikakun/status/2114192991602839755</link>
+      <description>なりかくん☄️: @doerai_dog Cloudflare Tunnel はポート開放せずに公開できるし、Accessと組み合わせればゼロトラストで認証もかけられるので、むしろ安全なイメージでした…！ Cloudflare自体への依存が怖いって感じですかね？</description>
+      <pubDate>Sun, 25 Oct 2026 03:11:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/narikakun/status/2114192991602839755</guid>
+    </item>
+    <item>
       <title>TCP/IPでlistenしたら負け。と考えると、 Cloudflare Tunnel 的なのを適用したら攻撃はやりにくくなるのか？を夢想しだした。 https://t.co/rNzPPofW93</title>
       <link>https://x.com/moguno/status/2114184041176224171</link>
       <description>もぐの: TCP/IPでlistenしたら負け。と考えると、 Cloudflare Tunnel 的なのを適用したら攻撃はやりにくくなるのか？を夢想しだした。 https://t.co/rNzPPofW93</description>
@@ -262,20 +276,6 @@
       <description>inaridiy: とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</description>
       <pubDate>Fri, 16 Oct 2026 13:52:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/inaridiy/status/2111092856677122227</guid>
-    </item>
-    <item>
-      <title>作った自作アプリを埋もれず管理する方法 ・常駐 Mac Mini ・ Cloudflare Tunnel ・Cloudflare Access これだけで本当十分 https://t.co/ExIx1i4q1w</title>
-      <link>https://x.com/shotovim/status/2111090489219063981</link>
-      <description>松濤Vimmer: 作った自作アプリを埋もれず管理する方法 ・常駐 Mac Mini ・ Cloudflare Tunnel ・Cloudflare Access これだけで本当十分 https://t.co/ExIx1i4q1w</description>
-      <pubDate>Fri, 16 Oct 2026 13:42:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shotovim/status/2111090489219063981</guid>
-    </item>
-    <item>
-      <title>自宅PCへのsshを Cloudflare Tunnel で実現してたんだけど、普通に今まで使ってたTailscaleでええやん・・・ってなった今。</title>
-      <link>https://x.com/Shaula0x0400/status/2110660625315905812</link>
-      <description>Shaula(しゃうら): 自宅PCへのsshを Cloudflare Tunnel で実現してたんだけど、普通に今まで使ってたTailscaleでええやん・・・ってなった今。</description>
-      <pubDate>Thu, 15 Oct 2026 09:14:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Shaula0x0400/status/2110660625315905812</guid>
     </item>
   </channel>
 </rss>
