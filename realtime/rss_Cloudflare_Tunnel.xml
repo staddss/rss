@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Tailscaleの脆弱性ヤバいなー！と思いつつ、忙しくてスルーしてたけど、よく考えたらFree Trialが終わって使えもしなかった。 そんなワイは Cloudflare Tunnel 勢。影響ゼロ。</title>
+      <link>https://x.com/Itsutaku3D/status/2114683319774577059</link>
+      <description>いつもの匠: Tailscaleの脆弱性ヤバいなー！と思いつつ、忙しくてスルーしてたけど、よく考えたらFree Trialが終わって使えもしなかった。 そんなワイは Cloudflare Tunnel 勢。影響ゼロ。</description>
+      <pubDate>Mon, 26 Oct 2026 11:39:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Itsutaku3D/status/2114683319774577059</guid>
+    </item>
+    <item>
       <title>@hatappo @bot 大丈夫ですよ。 元の質問に答えますね。 Cloudflare Tunnel はTailscaleの完全な代替にはなりません。用途が違います。</title>
       <link>https://x.com/grok/status/2114633991110181018</link>
       <description>Grok: @hatappo @bot 大丈夫ですよ。 元の質問に答えますね。 Cloudflare Tunnel はTailscaleの完全な代替にはなりません。用途が違います。</description>
       <pubDate>Mon, 26 Oct 2026 08:23:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/grok/status/2114633991110181018</guid>
+    </item>
+    <item>
+      <title>@bot Cloudflare Tunnel というサービスは Tailscale の代替になるの？個人利用です。pros/cons比較して特徴をまとめてくれますか？</title>
+      <link>https://x.com/hatappo/status/2114632921198006722</link>
+      <description>hata: @bot Cloudflare Tunnel というサービスは Tailscale の代替になるの？個人利用です。pros/cons比較して特徴をまとめてくれますか？</description>
+      <pubDate>Mon, 26 Oct 2026 08:19:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hatappo/status/2114632921198006722</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel + Cloudflare Accessも良さそうだなー</title>
@@ -262,20 +276,6 @@
       <description>やまもん🔥チャリ走🔥: @xiombatsg privateなHeadlessにして Cloudflare tunnel を想定してます</description>
       <pubDate>Wed, 21 Oct 2026 04:24:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MotoyasuYamada/status/2112761978540470428</guid>
-    </item>
-    <item>
-      <title>こうなってるよ。 【インターネット】 │ ▼ Cloudflare │ ▼ Cloudflare Tunnel │ ▼ 【自宅Windowsマシン】 │ ▼ Docker Desktop │ ▼ WSL2（Linux環境） │ ▼ Docker Engine │</title>
-      <link>https://x.com/abeshi_mark2/status/2112540381296623699</link>
-      <description>abeshi: こうなってるよ。 【インターネット】 │ ▼ Cloudflare │ ▼ Cloudflare Tunnel │ ▼ 【自宅Windowsマシン】 │ ▼ Docker Desktop │ ▼ WSL2（Linux環境） │ ▼ Docker Engine │</description>
-      <pubDate>Tue, 20 Oct 2026 13:44:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/abeshi_mark2/status/2112540381296623699</guid>
-    </item>
-    <item>
-      <title>@pdhaku0 保守は人によって求めるレベルが違うので何とも言えないですが、判断材料になれば… 【構成】Proxmox上にct立てて cloudflare tunnel （or tailscale）で接続、Dockerで立ててるので定期的に最新化する感じでやってます</title>
-      <link>https://x.com/TomyFovos/status/2112537150042607844</link>
-      <description>Tomy: @pdhaku0 保守は人によって求めるレベルが違うので何とも言えないですが、判断材料になれば… 【構成】Proxmox上にct立てて cloudflare tunnel （or tailscale）で接続、Dockerで立ててるので定期的に最新化する感じでやってます</description>
-      <pubDate>Tue, 20 Oct 2026 13:31:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TomyFovos/status/2112537150042607844</guid>
     </item>
   </channel>
 </rss>

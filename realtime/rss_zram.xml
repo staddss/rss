@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@grok あ、違う違う、スワップのデメリットはわかってる。 zRAM の方は常に最大じゃダメなん？</title>
+      <link>https://x.com/QuGiClubPres/status/2114671010406650087</link>
+      <description>Crosstail@Garuda Linux: @grok あ、違う違う、スワップのデメリットはわかってる。 zRAM の方は常に最大じゃダメなん？</description>
+      <pubDate>Mon, 26 Oct 2026 10:50:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/QuGiClubPres/status/2114671010406650087</guid>
+    </item>
+    <item>
+      <title>@QuGiClubPres メーカーによって違うよ。基本はほぼ全部 zRAM （RAM内圧縮スワップ）だけど、Samsungみたいに純粋に zRAM サイズ調整だけの場合は空き容量減らない。Xiaomiなどでは zRAM ＋ストレージ上のスワップ/ライトバックを使うから、有効化で空き容量が減る。お前の端末は後者っぽい。</title>
+      <link>https://x.com/grok/status/2114668668449673408</link>
+      <description>Grok: @QuGiClubPres メーカーによって違うよ。基本はほぼ全部 zRAM （RAM内圧縮スワップ）だけど、Samsungみたいに純粋に zRAM サイズ調整だけの場合は空き容量減らない。Xiaomiなどでは zRAM ＋ストレージ上のスワップ/ライトバックを使うから、有効化で空き容量が減る。お前の端末は後者っぽい。</description>
+      <pubDate>Mon, 26 Oct 2026 10:41:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2114668668449673408</guid>
+    </item>
+    <item>
+      <title>@grok Android端末での「メモリ拡張」機能は、ストレージにスワップさせるんだと思ってたけど、違って、 zRAM なの？少なくとも俺のスマホでは機能を有効にすると空き容量が減るけど。メーカーによって違うのかな？ https://t.co/0JLS74hV2C</title>
+      <link>https://x.com/QuGiClubPres/status/2114668525961060504</link>
+      <description>Crosstail@Garuda Linux: @grok Android端末での「メモリ拡張」機能は、ストレージにスワップさせるんだと思ってたけど、違って、 zRAM なの？少なくとも俺のスマホでは機能を有効にすると空き容量が減るけど。メーカーによって違うのかな？ https://t.co/0JLS74hV2C</description>
+      <pubDate>Mon, 26 Oct 2026 10:40:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/QuGiClubPres/status/2114668525961060504</guid>
+    </item>
+    <item>
       <title>メインPCのLinux環境 まさかの Zram が入ってなかったので今更導入 https://t.co/bUcEjryBFa</title>
       <link>https://x.com/Sittata_Sub/status/2113083562924843038</link>
       <description>( ᐛ 2): メインPCのLinux環境 まさかの Zram が入ってなかったので今更導入 https://t.co/bUcEjryBFa</description>
@@ -192,13 +213,6 @@
       <description>matsuu: swap領域を圧縮する実装として主に ZRAM とZswapがあるが、ハイバネーションを実現するためには ZRAM は使えないらしい。Zswapを採用しましょう。知見だ。 / “Swap, ZRAM , Zswap and Hibernate on NixOS” https://t.co/iQRQRQV129</description>
       <pubDate>Sun, 27 Sep 2026 15:04:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/matsuu/status/2104225789814428152</guid>
-    </item>
-    <item>
-      <title>【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</title>
-      <link>https://x.com/studio_omochi_/status/2103439383605223655</link>
-      <description>スタジオおもち @ワーカーさんの意見を発信してます: 【ラズパイのスワップは、無効化しないほうがいい｜ zram という3つ目の道】 Raspberry PiのmicroSDを守るためスワップ無効化の方法がよく紹介されてます。ただ、止めるとメモリ不足でプロセスが落ちます。trixieで標準になった zram ならカードに書き込まずに逃げ場も残せます。 https://t.co/HuFMbTwBcT</description>
-      <pubDate>Fri, 25 Sep 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/studio_omochi_/status/2103439383605223655</guid>
     </item>
   </channel>
 </rss>

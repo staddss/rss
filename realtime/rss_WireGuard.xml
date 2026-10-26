@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Android限定Rethink: DNS 無料 広告なし オープンソース ・アプリごとに通信を止められる ・どのアプリがどこに繋いでるか全部 見える ・広告とトラッカーをDNSで落とせる ・VPNも内蔵（ WireGuard ） https://t.co/181bYz6n8S</title>
+      <link>https://x.com/ugly_duck09/status/2114678645415682330</link>
+      <description>アヒル: Android限定Rethink: DNS 無料 広告なし オープンソース ・アプリごとに通信を止められる ・どのアプリがどこに繋いでるか全部 見える ・広告とトラッカーをDNSで落とせる ・VPNも内蔵（ WireGuard ） https://t.co/181bYz6n8S</description>
+      <pubDate>Mon, 26 Oct 2026 11:20:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ugly_duck09/status/2114678645415682330</guid>
+    </item>
+    <item>
+      <title>@nanase_oikawa CGNATすら越えられる、自宅VPNの強い味方、 WireGuard が大好きです IPsecよりも WireGuard</title>
+      <link>https://x.com/hamkichi_north/status/2114659589933379887</link>
+      <description>北のはむきち: @nanase_oikawa CGNATすら越えられる、自宅VPNの強い味方、 WireGuard が大好きです IPsecよりも WireGuard</description>
+      <pubDate>Mon, 26 Oct 2026 10:05:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hamkichi_north/status/2114659589933379887</guid>
+    </item>
+    <item>
       <title>と思ったら、Taliscale もきな臭くなってるようで。 DDNS+ WireGuard の設定が可能なら、自分で組み合わせた方がエエんかな。 https://t.co/sBuo3e9gYE</title>
       <link>https://x.com/yunzojm_open/status/2114614485940060175</link>
       <description>ゆんぞ/Yunzo: と思ったら、Taliscale もきな臭くなってるようで。 DDNS+ WireGuard の設定が可能なら、自分で組み合わせた方がエエんかな。 https://t.co/sBuo3e9gYE</description>
       <pubDate>Mon, 26 Oct 2026 07:05:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yunzojm_open/status/2114614485940060175</guid>
+    </item>
+    <item>
+      <title>@nftjapannftsub 会計ソフト専用マシンとか、写真編集専用マシンとかです。リモートデスクトップはWin11とかだとProが必要です。VPNは中華は絶対に避けましょう。YamahaかOPNSense(PC用フリーウェア)。ソフトは WireGuard , OpenVPNの順におすすめ。DDNS用にネームサーバーはCloudFlareがおすすめです。</title>
+      <link>https://x.com/SuzukaBike/status/2114589560680358135</link>
+      <description>2拠点(🇯🇵⇄🇺🇸)ライダー｜GROM・YZ250・EC250: @nftjapannftsub 会計ソフト専用マシンとか、写真編集専用マシンとかです。リモートデスクトップはWin11とかだとProが必要です。VPNは中華は絶対に避けましょう。YamahaかOPNSense(PC用フリーウェア)。ソフトは WireGuard , OpenVPNの順におすすめ。DDNS用にネームサーバーはCloudFlareがおすすめです。</description>
+      <pubDate>Mon, 26 Oct 2026 05:26:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SuzukaBike/status/2114589560680358135</guid>
     </item>
     <item>
       <title>接続に関しては ・Taliscale ・ WireGuard ＋常時起動サーバでDDNS あたりがよさげ。 Taliscaleは WireGuard にDDNSや自動設定の皮をかぶせたもの。 WireGuard はとにかくコードが小さいので、バグの入る余地が少なめ。もちろん、裏で使ってるアレコレの更新は必須ね。</title>
@@ -255,27 +276,6 @@
       <description>ののゆー: 素の WireGuard 、バッテリー全然食わなくて最高</description>
       <pubDate>Thu, 22 Oct 2026 02:54:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/jp7wfp/status/2113101774358036809</guid>
-    </item>
-    <item>
-      <title>ふう、流行にのってphpのアップグレードを寝ずに完了させた、おれ、えらい。 これを機にコンテナのネットワークを切り分ける構成に見直して、クラウドのデータベースとは WireGuard で接続するようにしようかと。設定をぽちぽちできるNetBirdが運用やりやすくて、面白そう。</title>
-      <link>https://x.com/LA_kimiboku/status/2113076674816541068</link>
-      <description>君の餌は僕だ: ふう、流行にのってphpのアップグレードを寝ずに完了させた、おれ、えらい。 これを機にコンテナのネットワークを切り分ける構成に見直して、クラウドのデータベースとは WireGuard で接続するようにしようかと。設定をぽちぽちできるNetBirdが運用やりやすくて、面白そう。</description>
-      <pubDate>Thu, 22 Oct 2026 01:15:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LA_kimiboku/status/2113076674816541068</guid>
-    </item>
-    <item>
-      <title>待てよ、 Wireguard に参加してないokkskoltenだけは自分でPHPのチェックをしないとダメだな？？？ まだ寝れんわ…</title>
-      <link>https://x.com/hassich_lolicon/status/2112942705118687259</link>
-      <description>hassich/はしっち: 待てよ、 Wireguard に参加してないokkskoltenだけは自分でPHPのチェックをしないとダメだな？？？ まだ寝れんわ…</description>
-      <pubDate>Wed, 21 Oct 2026 16:22:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hassich_lolicon/status/2112942705118687259</guid>
-    </item>
-    <item>
-      <title>wireguard でスマホから遠隔で弄れるので脆弱性対策終わるまで一時的にポート閉じておくことにした</title>
-      <link>https://x.com/noc_creation/status/2112847101034213857</link>
-      <description>のく@歴史創作: wireguard でスマホから遠隔で弄れるので脆弱性対策終わるまで一時的にポート閉じておくことにした</description>
-      <pubDate>Wed, 21 Oct 2026 10:02:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/noc_creation/status/2112847101034213857</guid>
     </item>
   </channel>
 </rss>
