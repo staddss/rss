@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing を使ってデバイス間でファイルを同期しているんですが、なんかスマホで作ったファイルが編集途中の時点までしか同期されていなくて、それに気付かずサーバー側でファイルに変更を加えてしまったせいでかなりの内容が消えてしまった</title>
+      <link>https://x.com/watasuke1024/status/2114594324789014540</link>
+      <description>わたすけ: Syncthing を使ってデバイス間でファイルを同期しているんですが、なんかスマホで作ったファイルが編集途中の時点までしか同期されていなくて、それに気付かずサーバー側でファイルに変更を加えてしまったせいでかなりの内容が消えてしまった</description>
+      <pubDate>Mon, 26 Oct 2026 05:45:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/watasuke1024/status/2114594324789014540</guid>
+    </item>
+    <item>
       <title>ファイルの同期、全部クラウドに預けるの不安な人おるやろ。 GitHubの「 Syncthing 」は、自分のPC同士で直接ファイルを同期してくれる無料ツールや。 他社のサーバーにデータを置かんでええし、通信も暗号化される。 店と家のPCをつなぐのにも使えるで💪 https://t.co/rlB8px5Isu</title>
       <link>https://x.com/BON_AI1616/status/2114082200023171139</link>
       <description>BON｜それタダでできるで: ファイルの同期、全部クラウドに預けるの不安な人おるやろ。 GitHubの「 Syncthing 」は、自分のPC同士で直接ファイルを同期してくれる無料ツールや。 他社のサーバーにデータを置かんでええし、通信も暗号化される。 店と家のPCをつなぐのにも使えるで💪 https://t.co/rlB8px5Isu</description>
@@ -269,20 +276,6 @@
       <description>usutaku: @shotovim かなり近しいことをObsidian Syncでやっているのですが、 Syncthing を使うことの良さ、よければお伺いしたいです…！</description>
       <pubDate>Thu, 01 Oct 2026 01:05:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/usutaku_channel/status/2105464151644778753</guid>
-    </item>
-    <item>
-      <title>Syncthing 導入してみました。さくさく同期してて良い感じです! https://t.co/inwp4JN35K</title>
-      <link>https://x.com/AI0061669843504/status/2105311893384749473</link>
-      <description>AIしぼり: Syncthing 導入してみました。さくさく同期してて良い感じです! https://t.co/inwp4JN35K</description>
-      <pubDate>Wed, 30 Sep 2026 15:00:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AI0061669843504/status/2105311893384749473</guid>
-    </item>
-    <item>
-      <title>@nico_ouchiwork DiscordからのAI社員ですよね！私はサブPCを24時間駆動させ、メインPCと Syncthing で連携させるのに苦戦して、ようやく実現しました💦 Codexのリモートもできるので、ありがたいですね。</title>
-      <link>https://x.com/ebookacademy369/status/2105113948844634223</link>
-      <description>しおぴー｜しおむすび出版・著者AI出版: @nico_ouchiwork DiscordからのAI社員ですよね！私はサブPCを24時間駆動させ、メインPCと Syncthing で連携させるのに苦戦して、ようやく実現しました💦 Codexのリモートもできるので、ありがたいですね。</description>
-      <pubDate>Wed, 30 Sep 2026 01:54:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ebookacademy369/status/2105113948844634223</guid>
     </item>
   </channel>
 </rss>

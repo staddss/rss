@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@hatappo @bot 大丈夫ですよ。 元の質問に答えますね。 Cloudflare Tunnel はTailscaleの完全な代替にはなりません。用途が違います。</title>
+      <link>https://x.com/grok/status/2114633991110181018</link>
+      <description>Grok: @hatappo @bot 大丈夫ですよ。 元の質問に答えますね。 Cloudflare Tunnel はTailscaleの完全な代替にはなりません。用途が違います。</description>
+      <pubDate>Mon, 26 Oct 2026 08:23:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2114633991110181018</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel + Cloudflare Accessも良さそうだなー</title>
+      <link>https://x.com/y4isse/status/2114600535479517223</link>
+      <description>やせ: Cloudflare Tunnel + Cloudflare Accessも良さそうだなー</description>
+      <pubDate>Mon, 26 Oct 2026 06:10:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/y4isse/status/2114600535479517223</guid>
+    </item>
+    <item>
+      <title>おうち Kubernetes してるけど，アクセス制御って Cloudflare Tunnel + Cloudflare Access で十分じゃないのかな？なにかほかにしたほうがいいんだろうか</title>
+      <link>https://x.com/fjktkm/status/2114598096617591107</link>
+      <description>フォーマッタ: おうち Kubernetes してるけど，アクセス制御って Cloudflare Tunnel + Cloudflare Access で十分じゃないのかな？なにかほかにしたほうがいいんだろうか</description>
+      <pubDate>Mon, 26 Oct 2026 06:00:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fjktkm/status/2114598096617591107</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel メインに移行しておいて正解だったな Meshもできたし</title>
+      <link>https://x.com/terudoru/status/2114581263076253948</link>
+      <description>terudoru: Cloudflare Tunnel メインに移行しておいて正解だったな Meshもできたし</description>
+      <pubDate>Mon, 26 Oct 2026 04:53:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/terudoru/status/2114581263076253948</guid>
+    </item>
+    <item>
+      <title>tailscale ちょっと気になってたけどやっぱ入れとかなくて正解だったな。似たようなので cloudflare tunnel もやめとこう。しばらくはとにかく入れるもの最小にして攻撃面をできるだけ減らしたほうが良さそう</title>
+      <link>https://x.com/torara46/status/2114579215307981220</link>
+      <description>とらら: tailscale ちょっと気になってたけどやっぱ入れとかなくて正解だったな。似たようなので cloudflare tunnel もやめとこう。しばらくはとにかく入れるもの最小にして攻撃面をできるだけ減らしたほうが良さそう</description>
+      <pubDate>Mon, 26 Oct 2026 04:45:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/torara46/status/2114579215307981220</guid>
+    </item>
+    <item>
+      <title>dots みたいな AI エージェントって Google の SSO を使いがちなので、Google ログインしていたサービスはほとんどアカウント削除した Tailscale は使わず、使っていたものはすべて Cloudflare Tunnel 経由にした https://t.co/ggJnlG669M</title>
+      <link>https://x.com/nukonuko/status/2114517813465669725</link>
+      <description>ぬこぬこ / NUKO 🇯🇵: dots みたいな AI エージェントって Google の SSO を使いがちなので、Google ログインしていたサービスはほとんどアカウント削除した Tailscale は使わず、使っていたものはすべて Cloudflare Tunnel 経由にした https://t.co/ggJnlG669M</description>
+      <pubDate>Mon, 26 Oct 2026 00:41:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nukonuko/status/2114517813465669725</guid>
+    </item>
+    <item>
+      <title>AWS SSMとか Cloudflare Tunnel みたいな高度なもん求めるなら金払うか自分で使えって話よ</title>
+      <link>https://x.com/dryoimo/status/2114411122493374759</link>
+      <description>ぱさいも: AWS SSMとか Cloudflare Tunnel みたいな高度なもん求めるなら金払うか自分で使えって話よ</description>
+      <pubDate>Sun, 25 Oct 2026 17:37:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dryoimo/status/2114411122493374759</guid>
+    </item>
+    <item>
       <title>SSMより、 Cloudflare Tunnel ＋Accessの方が無難か。</title>
       <link>https://x.com/tatsu_btc/status/2114394979238076557</link>
       <description>tatsu.btc: SSMより、 Cloudflare Tunnel ＋Accessの方が無難か。</description>
@@ -227,55 +276,6 @@
       <description>Tomy: @pdhaku0 保守は人によって求めるレベルが違うので何とも言えないですが、判断材料になれば… 【構成】Proxmox上にct立てて cloudflare tunnel （or tailscale）で接続、Dockerで立ててるので定期的に最新化する感じでやってます</description>
       <pubDate>Tue, 20 Oct 2026 13:31:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TomyFovos/status/2112537150042607844</guid>
-    </item>
-    <item>
-      <title>@neutron42jp 調べたが、私の用途には全く適してなさそう 公開するなら cloudflare tunnel を使うと思う</title>
-      <link>https://x.com/sashisashi569/status/2112388582161944868</link>
-      <description>sashisashi: @neutron42jp 調べたが、私の用途には全く適してなさそう 公開するなら cloudflare tunnel を使うと思う</description>
-      <pubDate>Tue, 20 Oct 2026 03:40:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2112388582161944868</guid>
-    </item>
-    <item>
-      <title>自宅鯖から cloudflare tunnel でMCPをchatgptにつなげたぞ！</title>
-      <link>https://x.com/suzukake88/status/2112173051207123049</link>
-      <description>すずかけ: 自宅鯖から cloudflare tunnel でMCPをchatgptにつなげたぞ！</description>
-      <pubDate>Mon, 19 Oct 2026 13:24:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/suzukake88/status/2112173051207123049</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel で、1アカウントあたりのルート数の上限が1,000から50,000に増えた（米国時間10/16）。 対象は Cloudflare Tunnel とCloudflare MeshのCIDRルートとホスト名ルートで、すべてのアカウントに自動で適用されるので、設定の変更はいらないとのこと。</title>
-      <link>https://x.com/multilayer/status/2111246461988217283</link>
-      <description>multilayer: Cloudflare Tunnel で、1アカウントあたりのルート数の上限が1,000から50,000に増えた（米国時間10/16）。 対象は Cloudflare Tunnel とCloudflare MeshのCIDRルートとホスト名ルートで、すべてのアカウントに自動で適用されるので、設定の変更はいらないとのこと。</description>
-      <pubDate>Sat, 17 Oct 2026 00:02:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/multilayer/status/2111246461988217283</guid>
-    </item>
-    <item>
-      <title>NASにForgejo+ Cloudflare Tunnel がいいか。</title>
-      <link>https://x.com/miccinakatani/status/2111245820742025422</link>
-      <description>😺MICCI.ai🍌: NASにForgejo+ Cloudflare Tunnel がいいか。</description>
-      <pubDate>Sat, 17 Oct 2026 00:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/miccinakatani/status/2111245820742025422</guid>
-    </item>
-    <item>
-      <title>久しぶりに Cloudflare Tunnel を開けていてログ見てたんだが、明らか人でないもがリンクをさかのぼって、当たりをつけて認証ページとか見てるアクセスしようとしてた。たぶん、これ検索ボットでないんだよな。きっと、AI が脆弱性を探してクロールしてたんだよな～。</title>
-      <link>https://x.com/SeahalJa/status/2111134973025820775</link>
-      <description>SEAHAL(Ja): 久しぶりに Cloudflare Tunnel を開けていてログ見てたんだが、明らか人でないもがリンクをさかのぼって、当たりをつけて認証ページとか見てるアクセスしようとしてた。たぶん、これ検索ボットでないんだよな。きっと、AI が脆弱性を探してクロールしてたんだよな～。</description>
-      <pubDate>Fri, 16 Oct 2026 16:39:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SeahalJa/status/2111134973025820775</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 、自宅直結のOpenVPN(TCP)より遅いかな</title>
-      <link>https://x.com/soramimi_jp/status/2111105651015610560</link>
-      <description>そらみみ: Cloudflare Tunnel 、自宅直結のOpenVPN(TCP)より遅いかな</description>
-      <pubDate>Fri, 16 Oct 2026 14:43:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/soramimi_jp/status/2111105651015610560</guid>
-    </item>
-    <item>
-      <title>とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</title>
-      <link>https://x.com/inaridiy/status/2111092856677122227</link>
-      <description>inaridiy: とりあえず個人開発鯖にVoid Platformセルフホストして、 Cloudflare Tunnel で適当に公開するかぁ？</description>
-      <pubDate>Fri, 16 Oct 2026 13:52:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/inaridiy/status/2111092856677122227</guid>
     </item>
   </channel>
 </rss>
