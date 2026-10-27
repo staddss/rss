@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</title>
+      <link>https://x.com/keiji_dl/status/2114925518055419958</link>
+      <description>神草経知｜NLP・Codex・Claude Code・Coworkをビジネス価値に変換する人: 昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</description>
+      <pubDate>Tue, 27 Oct 2026 03:41:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/keiji_dl/status/2114925518055419958</guid>
+    </item>
+    <item>
+      <title>PHP、Nodejsに続いて、LINE LIFF、tailscale、 cloudflare tunnel からも対応してくれ、ってセキュリティの連絡来る。どこにかにまとめサイトできてほしい。</title>
+      <link>https://x.com/kidapu/status/2114909361776869737</link>
+      <description>Tasuya Kida: PHP、Nodejsに続いて、LINE LIFF、tailscale、 cloudflare tunnel からも対応してくれ、ってセキュリティの連絡来る。どこにかにまとめサイトできてほしい。</description>
+      <pubDate>Tue, 27 Oct 2026 02:37:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kidapu/status/2114909361776869737</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel (旧cloudflared) はeMudhra証明書問題関連のアップデートが配信されているとのこと アプデしなきゃ…</title>
+      <link>https://x.com/const_myself/status/2114901015287988426</link>
+      <description>おがどら: Cloudflare Tunnel (旧cloudflared) はeMudhra証明書問題関連のアップデートが配信されているとのこと アプデしなきゃ…</description>
+      <pubDate>Tue, 27 Oct 2026 02:04:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/const_myself/status/2114901015287988426</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel 更新しなさいメール来てたし帰ったらやるか</title>
       <link>https://x.com/PureIllusionist/status/2114869117014667564</link>
       <description>しの: Cloudflare Tunnel 更新しなさいメール来てたし帰ったらやるか</description>
@@ -17,6 +38,13 @@
       <description>月見ルナ@kmzk-dev: サーバー立てて、 Cloudflare Tunnel で開いている人はバージョンチェック。 eMudhraの汚染のやつ。 https://t.co/aZjYr8ZeCy</description>
       <pubDate>Mon, 26 Oct 2026 23:47:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/env_k_k/status/2114866557658759183</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel のバージョンを今すぐ上げろってメールが来ててこんなん来るんやな～と思うなど ウチは日次で最新化してるから大丈夫よん</title>
+      <link>https://x.com/tenbaka5645/status/2114864588210716930</link>
+      <description>Cherno_man: Cloudflare Tunnel のバージョンを今すぐ上げろってメールが来ててこんなん来るんやな～と思うなど ウチは日次で最新化してるから大丈夫よん</description>
+      <pubDate>Mon, 26 Oct 2026 23:39:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tenbaka5645/status/2114864588210716930</guid>
     </item>
     <item>
       <title>一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは https://t.co/NYMzKojRxu</title>
@@ -248,34 +276,6 @@
       <description>魚田雅彦: Cloudflare Tunnel errorって何</description>
       <pubDate>Wed, 21 Oct 2026 14:42:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/muota_here/status/2112917547020681728</guid>
-    </item>
-    <item>
-      <title>@59Kja すでにほかの人がお勧めしてくれていると思うけど、 Cloudflare tunnel で必要なサービスだけ公開するだけでずいぶん安全になるとおもうよ（自宅の固定アドレスだとかポート開放だとかも考えなくていいし）</title>
-      <link>https://x.com/kawataso/status/2112909117534990373</link>
-      <description>kawataso: @59Kja すでにほかの人がお勧めしてくれていると思うけど、 Cloudflare tunnel で必要なサービスだけ公開するだけでずいぶん安全になるとおもうよ（自宅の固定アドレスだとかポート開放だとかも考えなくていいし）</description>
-      <pubDate>Wed, 21 Oct 2026 14:09:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kawataso/status/2112909117534990373</guid>
-    </item>
-    <item>
-      <title>なんか今日頻繁にしょぼかる死んでんな Error 1033 Cloudflare Tunnel error</title>
-      <link>https://x.com/kurosan_1f/status/2112902309865021702</link>
-      <description>くろさん✿: なんか今日頻繁にしょぼかる死んでんな Error 1033 Cloudflare Tunnel error</description>
-      <pubDate>Wed, 21 Oct 2026 13:42:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kurosan_1f/status/2112902309865021702</guid>
-    </item>
-    <item>
-      <title>自宅サーバー公開を止めて Cloudflare Tunnel に切り替えた過去の自分を褒めてやりたい まぁ WordPress 止めてアップグレードに着手してるけど https://t.co/G75Ibj2A3U</title>
-      <link>https://x.com/tjlDotEsB26uXTr/status/2112879844065521831</link>
-      <description>玖堂恵: 自宅サーバー公開を止めて Cloudflare Tunnel に切り替えた過去の自分を褒めてやりたい まぁ WordPress 止めてアップグレードに着手してるけど https://t.co/G75Ibj2A3U</description>
-      <pubDate>Wed, 21 Oct 2026 12:13:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tjlDotEsB26uXTr/status/2112879844065521831</guid>
-    </item>
-    <item>
-      <title>自宅ネットワークの関係で Cloudflare Tunnel 経由にした副作用でCloudflare経由にしたけど なんかラッキー選択だったらしい（Cloudflare WAFのPHP脆弱性対応）</title>
-      <link>https://x.com/abdda149/status/2112879312013795410</link>
-      <description>Volk149: 自宅ネットワークの関係で Cloudflare Tunnel 経由にした副作用でCloudflare経由にしたけど なんかラッキー選択だったらしい（Cloudflare WAFのPHP脆弱性対応）</description>
-      <pubDate>Wed, 21 Oct 2026 12:10:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/abdda149/status/2112879312013795410</guid>
     </item>
   </channel>
 </rss>

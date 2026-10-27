@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing って複数デバイスで同じファイルが編集されたときはconflictファイルを作ってくれるはずだし、そもそも編集したのって12時間以上も前なのになんで同期されてないんだよ おかしくないか？</title>
+      <link>https://x.com/watasuke1024/status/2114594326542250090</link>
+      <description>わたすけ: Syncthing って複数デバイスで同じファイルが編集されたときはconflictファイルを作ってくれるはずだし、そもそも編集したのって12時間以上も前なのになんで同期されてないんだよ おかしくないか？</description>
+      <pubDate>Mon, 26 Oct 2026 05:45:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/watasuke1024/status/2114594326542250090</guid>
+    </item>
+    <item>
       <title>Syncthing を使ってデバイス間でファイルを同期しているんですが、なんかスマホで作ったファイルが編集途中の時点までしか同期されていなくて、それに気付かずサーバー側でファイルに変更を加えてしまったせいでかなりの内容が消えてしまった</title>
       <link>https://x.com/watasuke1024/status/2114594324789014540</link>
       <description>わたすけ: Syncthing を使ってデバイス間でファイルを同期しているんですが、なんかスマホで作ったファイルが編集途中の時点までしか同期されていなくて、それに気付かずサーバー側でファイルに変更を加えてしまったせいでかなりの内容が消えてしまった</description>
@@ -269,13 +276,6 @@
       <description>usutaku: @shotovim かなり近しいことをObsidian Syncでやっているのですが、 Syncthing を使うことの良さ、よければお伺いしたいです…！</description>
       <pubDate>Thu, 01 Oct 2026 01:05:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/usutaku_channel/status/2105464151644778753</guid>
-    </item>
-    <item>
-      <title>Syncthing 導入してみました。さくさく同期してて良い感じです! https://t.co/inwp4JN35K</title>
-      <link>https://x.com/AI0061669843504/status/2105311893384749473</link>
-      <description>AIしぼり: Syncthing 導入してみました。さくさく同期してて良い感じです! https://t.co/inwp4JN35K</description>
-      <pubDate>Wed, 30 Sep 2026 15:00:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AI0061669843504/status/2105311893384749473</guid>
     </item>
   </channel>
 </rss>

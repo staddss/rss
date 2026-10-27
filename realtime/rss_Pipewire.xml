@@ -130,12 +130,5 @@
       <pubDate>Mon, 28 Sep 2026 13:32:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mewl_me/status/2104564870083649985</guid>
     </item>
-    <item>
-      <title>/etc/ pipewire / pipewire .conf.d/microphone-filter-chain-echo-cancel.confの webrtc.gain_control2.enabledをfalseにしてやると音質を保ちつつエコーキャンセルが効く が、ホワイトノイズが出る</title>
-      <link>https://x.com/qqqqwsxcd/status/2103903213904974124</link>
-      <description>q: /etc/ pipewire / pipewire .conf.d/microphone-filter-chain-echo-cancel.confの webrtc.gain_control2.enabledをfalseにしてやると音質を保ちつつエコーキャンセルが効く が、ホワイトノイズが出る</description>
-      <pubDate>Sat, 26 Sep 2026 17:43:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/qqqqwsxcd/status/2103903213904974124</guid>
-    </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDEの現場向け比較ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（POC付き） https://t.co/as0tKrwIp8 #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2114880109467349151</link>
+      <description>EngiNear: 【新着記事】クラウドIDEの現場向け比較ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（POC付き） https://t.co/as0tKrwIp8 #エンジニア #ChatGPT #AI</description>
+      <pubDate>Tue, 27 Oct 2026 00:41:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2114880109467349151</guid>
+    </item>
+    <item>
       <title>codespaces 使ってみたけど、多分課金しないとトロいまま GeminiとGithub連携できねぇかな</title>
       <link>https://x.com/YKVKDX12/status/2114220025985056870</link>
       <description>さうだーじ: codespaces 使ってみたけど、多分課金しないとトロいまま GeminiとGithub連携できねぇかな</description>
@@ -276,13 +283,6 @@
       <description>わた| Python: 本日は、Qiita記事に向けた環境作成 ・GitHub Codespaces 上に新規リポジトリ作成 ・Linux環境にAWS CLIとTerraformをインストール Codespaces 使用は、1か月振りで色々と忘れていましたが、だいぶ勘が戻ってきました。 #OpenTelemetry #Grafana #Qiita #AWS #Terraform</description>
       <pubDate>Wed, 07 Oct 2026 14:06:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Python410386/status/2107835005372453135</guid>
-    </item>
-    <item>
-      <title>SSH署名できないっぽい？ SSHエージェント入れてもらって鍵ファイルを配置すればいいんだろうけどうーんって感じ このへん勝手にやってくれるGitHub Codespaces は楽でいいね https://t.co/oHgpHhclzg</title>
-      <link>https://x.com/_Tsuuko_/status/2107690345186373728</link>
-      <description>つうこ: SSH署名できないっぽい？ SSHエージェント入れてもらって鍵ファイルを配置すればいいんだろうけどうーんって感じ このへん勝手にやってくれるGitHub Codespaces は楽でいいね https://t.co/oHgpHhclzg</description>
-      <pubDate>Wed, 07 Oct 2026 04:31:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Tsuuko_/status/2107690345186373728</guid>
     </item>
   </channel>
 </rss>
