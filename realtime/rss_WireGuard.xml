@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>wireguard でGIPバラ撒くのおもろすぎる</title>
+      <link>https://x.com/minosJP/status/2115102632251637941</link>
+      <description>minos: wireguard でGIPバラ撒くのおもろすぎる</description>
+      <pubDate>Tue, 27 Oct 2026 15:25:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/minosJP/status/2115102632251637941</guid>
+    </item>
+    <item>
+      <title>@zakisan1689669 WireGuard への切り替え、おつかれさまです！ こちらも調べたのですが、今回の問題は「Tailscale SSH」（Linux/Macの機能）やServe・Funnelを使っている場合が前提で、しかも通路の中に入った端末からの話でした。</title>
+      <link>https://x.com/Bcat_EA_Trader/status/2115073513816297918</link>
+      <description>黒猫トレーダー🐈‍⬛: @zakisan1689669 WireGuard への切り替え、おつかれさまです！ こちらも調べたのですが、今回の問題は「Tailscale SSH」（Linux/Macの機能）やServe・Funnelを使っている場合が前提で、しかも通路の中に入った端末からの話でした。</description>
+      <pubDate>Tue, 27 Oct 2026 13:29:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Bcat_EA_Trader/status/2115073513816297918</guid>
+    </item>
+    <item>
+      <title>WireGuard がソフトバンクAirでいけそ</title>
+      <link>https://x.com/yy932385935733/status/2115063144057905259</link>
+      <description>zzzzz: WireGuard がソフトバンクAirでいけそ</description>
+      <pubDate>Tue, 27 Oct 2026 12:48:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yy932385935733/status/2115063144057905259</guid>
+    </item>
+    <item>
+      <title>@public_zakojb この時ワイも wireguard 派に寝返ったわ</title>
+      <link>https://x.com/yotakun4132/status/2115062615361884537</link>
+      <description>yotakun 4132: @public_zakojb この時ワイも wireguard 派に寝返ったわ</description>
+      <pubDate>Tue, 27 Oct 2026 12:46:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yotakun4132/status/2115062615361884537</guid>
+    </item>
+    <item>
+      <title>wireguard ってwebGUIあったのか知らんかった</title>
+      <link>https://x.com/yotakun4132/status/2115062087227785448</link>
+      <description>yotakun 4132: wireguard ってwebGUIあったのか知らんかった</description>
+      <pubDate>Tue, 27 Oct 2026 12:44:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yotakun4132/status/2115062087227785448</guid>
+    </item>
+    <item>
+      <title>wireguard うまく行かないなーと小1時間格闘してたんだけどオチはTailscaleでした 殺すぞ～～～～～～～～～～～～～～～～～～～～～～～</title>
+      <link>https://x.com/yotakun4132/status/2115055792227496191</link>
+      <description>yotakun 4132: wireguard うまく行かないなーと小1時間格闘してたんだけどオチはTailscaleでした 殺すぞ～～～～～～～～～～～～～～～～～～～～～～～</description>
+      <pubDate>Tue, 27 Oct 2026 12:19:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yotakun4132/status/2115055792227496191</guid>
+    </item>
+    <item>
+      <title>Velocityで自宅のPCにマイクラ鯖を建てる案ですが、自宅（アパート）のネットワークの都合上、ポート開放ができないことが判明しました。 VPS上に wireguard を建て、自宅とVPSでトンネリングすることになるかと思います。</title>
+      <link>https://x.com/ShunsukeY116/status/2114807772399505721</link>
+      <description>Yamamoto Shunsuke: Velocityで自宅のPCにマイクラ鯖を建てる案ですが、自宅（アパート）のネットワークの都合上、ポート開放ができないことが判明しました。 VPS上に wireguard を建て、自宅とVPSでトンネリングすることになるかと思います。</description>
+      <pubDate>Mon, 26 Oct 2026 19:53:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShunsukeY116/status/2114807772399505721</guid>
+    </item>
+    <item>
       <title>これ、 Wireguard で構築したけど 前回より構築手こずっちゃった。 https://t.co/BDd884gXMi</title>
       <link>https://x.com/blue01wrx/status/2114724429507014786</link>
       <description>agemochi: これ、 Wireguard で構築したけど 前回より構築手こずっちゃった。 https://t.co/BDd884gXMi</description>
@@ -227,55 +276,6 @@
       <description>魯水角: @zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</description>
       <pubDate>Fri, 23 Oct 2026 09:43:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ARwJtmjrInEY73B/status/2113566996671701150</guid>
-    </item>
-    <item>
-      <title>@genzitu 情報ありがとうございます。 ドコモ光V6 でプロバイダはGMOで、バッファローのルーターの方式では駄目だと言うのは分かりました。 WireGuard VPN 対応のASUS RT-BE18000 なら対応可能で5万ぐらいで出来るまでたどり着きました。教えて頂いた方法も調べてみます。</title>
-      <link>https://x.com/OsamuKosaki/status/2113481409117733050</link>
-      <description>小崎: @genzitu 情報ありがとうございます。 ドコモ光V6 でプロバイダはGMOで、バッファローのルーターの方式では駄目だと言うのは分かりました。 WireGuard VPN 対応のASUS RT-BE18000 なら対応可能で5万ぐらいで出来るまでたどり着きました。教えて頂いた方法も調べてみます。</description>
-      <pubDate>Fri, 23 Oct 2026 04:03:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/OsamuKosaki/status/2113481409117733050</guid>
-    </item>
-    <item>
-      <title>private networkは WireGuard ベース。でも設定は扱いやすく。 Tailscale repositoryには、`tailscaled` daemonと`tailscale` CLIを含む主要なopen-source codeがあります。Linux、Windows、macOSなどで動き、private WireGuard networkを構成できます。 https://t.co/VpPOlZPhxm</title>
-      <link>https://x.com/plattypuus/status/2113468707741557030</link>
-      <description>タイド: private networkは WireGuard ベース。でも設定は扱いやすく。 Tailscale repositoryには、`tailscaled` daemonと`tailscale` CLIを含む主要なopen-source codeがあります。Linux、Windows、macOSなどで動き、private WireGuard networkを構成できます。 https://t.co/VpPOlZPhxm</description>
-      <pubDate>Fri, 23 Oct 2026 03:13:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/plattypuus/status/2113468707741557030</guid>
-    </item>
-    <item>
-      <title>今日自宅PCとスマホ間で wireguard VPNを構築して最終的に無事にVPNは張れたけど、 ・VPNを有効にするとインターネット接続が出来なくなる ・ハンドシェイクに失敗してしまう という初見殺しにも程がある激ムズなトラブルにぶつかった。 備忘で役に立った記事残しておこう。 https://t.co/2bIEmYmnjf</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2113313642666192916</link>
-      <description>有機体46B: 今日自宅PCとスマホ間で wireguard VPNを構築して最終的に無事にVPNは張れたけど、 ・VPNを有効にするとインターネット接続が出来なくなる ・ハンドシェイクに失敗してしまう という初見殺しにも程がある激ムズなトラブルにぶつかった。 備忘で役に立った記事残しておこう。 https://t.co/2bIEmYmnjf</description>
-      <pubDate>Thu, 22 Oct 2026 16:56:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2113313642666192916</guid>
-    </item>
-    <item>
-      <title>自宅PCとルーターのFW設定でローカルNWのsshしか許可せず他denyした状態で、 Wireguard VPNを自宅PCとスマホ間で張り、それから自宅のローカルNWとして遠隔でsshで自宅のPCやルーターにログイン出来る様になった🙌 これからAnsibleの勉強しながら構築して自宅のNW環境を遠隔監視出来る様にしていこう！</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2113304442200281535</link>
-      <description>有機体46B: 自宅PCとルーターのFW設定でローカルNWのsshしか許可せず他denyした状態で、 Wireguard VPNを自宅PCとスマホ間で張り、それから自宅のローカルNWとして遠隔でsshで自宅のPCやルーターにログイン出来る様になった🙌 これからAnsibleの勉強しながら構築して自宅のNW環境を遠隔監視出来る様にしていこう！</description>
-      <pubDate>Thu, 22 Oct 2026 16:20:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2113304442200281535</guid>
-    </item>
-    <item>
-      <title>セキュリティなんも知らんかったけど、 WireGuard ってやつでVPNできるらしい。いれてそれ以外のポート閉じるか</title>
-      <link>https://x.com/ushikunv/status/2113261475427213472</link>
-      <description>うしくん: セキュリティなんも知らんかったけど、 WireGuard ってやつでVPNできるらしい。いれてそれ以外のポート閉じるか</description>
-      <pubDate>Thu, 22 Oct 2026 13:29:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ushikunv/status/2113261475427213472</guid>
-    </item>
-    <item>
-      <title>WireGuard ベースで全クライアントとサーバーを通信させてるせいで移行が地獄</title>
-      <link>https://x.com/misakazip/status/2113167174139580804</link>
-      <description>みさか: WireGuard ベースで全クライアントとサーバーを通信させてるせいで移行が地獄</description>
-      <pubDate>Thu, 22 Oct 2026 07:14:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/misakazip/status/2113167174139580804</guid>
-    </item>
-    <item>
-      <title>耐えてる(放置してるわけではない)けど WireGuard やられたら流石にハゲる #CVE祭り</title>
-      <link>https://x.com/miniminimoog/status/2113162168531325373</link>
-      <description>tyasuda_Сергий: 耐えてる(放置してるわけではない)けど WireGuard やられたら流石にハゲる #CVE祭り</description>
-      <pubDate>Thu, 22 Oct 2026 06:54:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/miniminimoog/status/2113162168531325373</guid>
     </item>
   </channel>
 </rss>

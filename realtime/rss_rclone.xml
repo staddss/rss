@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【WAFログ速報】 34.74.107.168（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/zHQh8HR0nf</title>
+      <link>https://x.com/zerizerizeri_bl/status/2115078375140471104</link>
+      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.74.107.168（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/zHQh8HR0nf</description>
+      <pubDate>Tue, 27 Oct 2026 13:49:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2115078375140471104</guid>
+    </item>
+    <item>
+      <title>rclone 最高</title>
+      <link>https://x.com/Saku_0512_sec/status/2114972117926343126</link>
+      <description>Saku0512 / 佐藤佑作: rclone 最高</description>
+      <pubDate>Tue, 27 Oct 2026 06:47:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Saku_0512_sec/status/2114972117926343126</guid>
+    </item>
+    <item>
       <title>rclone でgoogle photoのpixel無制限アップロードできないかなと思って調べたらちょうど5日前にアップされたの見つけてびっくり https://t.co/pZFEbJ9tUN</title>
       <link>https://x.com/_Tsuuko_/status/2114354637092663636</link>
       <description>つうこ: rclone でgoogle photoのpixel無制限アップロードできないかなと思って調べたらちょうど5日前にアップされたの見つけてびっくり https://t.co/pZFEbJ9tUN</description>
@@ -262,20 +276,6 @@
       <description>ねくろいちにー: rclone でpcloudにアクセスできるように設定してあるのだけど、なんか今は繋がらない…昨日は繋がったのに コマンドでトークンを再認証しようとしてもブラウザに「Invalid 'client_id'.」って表示されてすすまない</description>
       <pubDate>Mon, 05 Oct 2026 09:51:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ne9612/status/2107045950816678150</guid>
-    </item>
-    <item>
-      <title>Claude Projectsのメモリもはやよくわからん auto-memoryがローカルと断絶されるの辛いな。 クラウドセッションはなんかVMに rclone でプロジェクトフォルダマウントしてた。これまでのクラウド環境とは別っぽい？？知らんけど。 https://t.co/oZBenbgHo1</title>
-      <link>https://x.com/shibamasa_dev/status/2106751410310439241</link>
-      <description>まさ／ぽん🇯🇵: Claude Projectsのメモリもはやよくわからん auto-memoryがローカルと断絶されるの辛いな。 クラウドセッションはなんかVMに rclone でプロジェクトフォルダマウントしてた。これまでのクラウド環境とは別っぽい？？知らんけど。 https://t.co/oZBenbgHo1</description>
-      <pubDate>Sun, 04 Oct 2026 14:20:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shibamasa_dev/status/2106751410310439241</guid>
-    </item>
-    <item>
-      <title>rclone によるファイルサーバのバックアップ。 SMB/CIFSをサポートしてるから、SAMBAなしでファイルのコピーが可能。Dockerボリュームで共有フォルダを・・・みたいなことを考えずにDockerコンテナで完結できる。 https://t.co/awY3XGMXqD</title>
-      <link>https://x.com/moguno/status/2106542251791073354</link>
-      <description>もぐの: rclone によるファイルサーバのバックアップ。 SMB/CIFSをサポートしてるから、SAMBAなしでファイルのコピーが可能。Dockerボリュームで共有フォルダを・・・みたいなことを考えずにDockerコンテナで完結できる。 https://t.co/awY3XGMXqD</description>
-      <pubDate>Sun, 04 Oct 2026 00:29:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2106542251791073354</guid>
     </item>
   </channel>
 </rss>

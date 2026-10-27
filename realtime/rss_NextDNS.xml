@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>最近話題の NextDNS を使い始めました。作ったプロファイルのIDをクライアントで指定する NextDNS サーバのサブドメインに指定する事でブロックリストを適用出来たり、ログや分析など色々出来て面白いですね。両親用のプロファイル作って変な広告出す所はブロックする運用してみようかな。</title>
+      <link>https://x.com/itocchi_3/status/2115010670752362644</link>
+      <description>itocchi: 最近話題の NextDNS を使い始めました。作ったプロファイルのIDをクライアントで指定する NextDNS サーバのサブドメインに指定する事でブロックリストを適用出来たり、ログや分析など色々出来て面白いですね。両親用のプロファイル作って変な広告出す所はブロックする運用してみようかな。</description>
+      <pubDate>Tue, 27 Oct 2026 09:20:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/itocchi_3/status/2115010670752362644</guid>
+    </item>
+    <item>
+      <title>スマホにDNS changerを入れて、 NextDNS をポチポチで切り替えて1年近く使ってるけど良き。通信帯域も節約できてる気がする。 https://t.co/M06bOcAICI</title>
+      <link>https://x.com/uchy_13/status/2114759231731892630</link>
+      <description>uchy: スマホにDNS changerを入れて、 NextDNS をポチポチで切り替えて1年近く使ってるけど良き。通信帯域も節約できてる気がする。 https://t.co/M06bOcAICI</description>
+      <pubDate>Mon, 26 Oct 2026 16:41:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/uchy_13/status/2114759231731892630</guid>
+    </item>
+    <item>
       <title>セキュリティ対策として NextDNS を導入しました。 危険なサイトへのアクセスを防げるだけでなく、副次的な効果で不要なDNSクエリが約15％削減され、Webページの表示も少し速くなった気がします。 月額250円程度なので、家庭のネットワークを手軽に強化したい人にはおすすめかな。</title>
       <link>https://x.com/x_mindcircus_x/status/2114701652682739927</link>
       <description>みじっと: セキュリティ対策として NextDNS を導入しました。 危険なサイトへのアクセスを防げるだけでなく、副次的な効果で不要なDNSクエリが約15％削減され、Webページの表示も少し速くなった気がします。 月額250円程度なので、家庭のネットワークを手軽に強化したい人にはおすすめかな。</description>
@@ -262,20 +276,6 @@
       <description>IMABARIxZINE: @m_sugimori nextdns とかadguard dnsだと ホモグラフはブロックできるので ブラウザのプライベートDNSで設定してる</description>
       <pubDate>Thu, 15 Oct 2026 01:51:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/imabarizine/status/2110548977049600455</guid>
-    </item>
-    <item>
-      <title>NextDNS はすごく便利なんだけど、auのwebチャットサポートがブロックされて少し驚いた。簡単にオンオフを制御できるようにしとくがいいね</title>
-      <link>https://x.com/shrkwh/status/2110176718451568743</link>
-      <description>シラカワ ヒロユキ: NextDNS はすごく便利なんだけど、auのwebチャットサポートがブロックされて少し驚いた。簡単にオンオフを制御できるようにしとくがいいね</description>
-      <pubDate>Wed, 14 Oct 2026 01:11:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shrkwh/status/2110176718451568743</guid>
-    </item>
-    <item>
-      <title>@0RNUGsxozyzlm79 あとは通信の前後を固めるしかない。 DNSフィルタの NextDNS とかAdGuard Homeとか。 無料〜30万クエリ超えで年3,000円程度らしいけど、導入すれば、名前解決時にマルウェア配布、フィッシング、C2サーバー、詐欺広告はイケそうですね。 これは契約した方がいいと思っています。 家庭でも30万は超える</title>
-      <link>https://x.com/whiteangel9999/status/2110068366459449720</link>
-      <description>ちいさな天使: @0RNUGsxozyzlm79 あとは通信の前後を固めるしかない。 DNSフィルタの NextDNS とかAdGuard Homeとか。 無料〜30万クエリ超えで年3,000円程度らしいけど、導入すれば、名前解決時にマルウェア配布、フィッシング、C2サーバー、詐欺広告はイケそうですね。 これは契約した方がいいと思っています。 家庭でも30万は超える</description>
-      <pubDate>Tue, 13 Oct 2026 18:01:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/whiteangel9999/status/2110068366459449720</guid>
     </item>
   </channel>
 </rss>

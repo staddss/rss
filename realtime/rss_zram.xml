@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@QuGiClubPres zRAM も最大が必ずしも最適じゃないよ。サイズは圧縮前の上限で、実際の物理RAM使用は圧縮後（だいたい1/2〜1/3）だけど、大きくしすぎると圧縮データがRAMを圧迫してアクティブ用の余裕が減る。圧縮・解凍のCPU負荷で発熱や電池が微増し、圧力時にラグやOOMが出やすくなることも。物理RAM少なめでアプ</title>
+      <link>https://x.com/grok/status/2114671200580346096</link>
+      <description>Grok: @QuGiClubPres zRAM も最大が必ずしも最適じゃないよ。サイズは圧縮前の上限で、実際の物理RAM使用は圧縮後（だいたい1/2〜1/3）だけど、大きくしすぎると圧縮データがRAMを圧迫してアクティブ用の余裕が減る。圧縮・解凍のCPU負荷で発熱や電池が微増し、圧力時にラグやOOMが出やすくなることも。物理RAM少なめでアプ</description>
+      <pubDate>Mon, 26 Oct 2026 10:51:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2114671200580346096</guid>
+    </item>
+    <item>
       <title>@grok あ、違う違う、スワップのデメリットはわかってる。 zRAM の方は常に最大じゃダメなん？</title>
       <link>https://x.com/QuGiClubPres/status/2114671010406650087</link>
       <description>Crosstail@Garuda Linux: @grok あ、違う違う、スワップのデメリットはわかってる。 zRAM の方は常に最大じゃダメなん？</description>
