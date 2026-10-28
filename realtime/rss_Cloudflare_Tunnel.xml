@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ポート開放なしで自宅サーバーを公開する： Cloudflare Tunnel + Access の構成｜たひろ https://t.co/SGaok91dS1 #zenn</title>
+      <link>https://x.com/rad0717/status/2115314975837470949</link>
+      <description>たひろ: ポート開放なしで自宅サーバーを公開する： Cloudflare Tunnel + Access の構成｜たひろ https://t.co/SGaok91dS1 #zenn</description>
+      <pubDate>Wed, 28 Oct 2026 05:29:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rad0717/status/2115314975837470949</guid>
+    </item>
+    <item>
+      <title>OpenCode と Cloudflare Tunnel の相性良くない。1~2日に 1 回は 502 出してくる。そのたびに Safari の設定からサイトデータ削除してログインし直し。</title>
+      <link>https://x.com/taikun_dev/status/2115241280628515111</link>
+      <description>tai-kun: OpenCode と Cloudflare Tunnel の相性良くない。1~2日に 1 回は 502 出してくる。そのたびに Safari の設定からサイトデータ削除してログインし直し。</description>
+      <pubDate>Wed, 28 Oct 2026 00:36:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taikun_dev/status/2115241280628515111</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</title>
       <link>https://x.com/kxn/status/2114949990477127905</link>
       <description>けｎ: Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</description>
@@ -262,20 +276,6 @@
       <description>ろぼいん: うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</description>
       <pubDate>Wed, 21 Oct 2026 18:02:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/keita_roboin/status/2112967678281621803</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 経由で自宅Nextcloud鯖にアクセスできてしまうので念の為鯖停止をした。 後日PHPのアップグレードを実施する（今日の夕方ぐらいにはリポジトリ公開されてるだろ、多分）</title>
-      <link>https://x.com/monmondy488/status/2112936383245660422</link>
-      <description>もんもん: Cloudflare Tunnel 経由で自宅Nextcloud鯖にアクセスできてしまうので念の為鯖停止をした。 後日PHPのアップグレードを実施する（今日の夕方ぐらいにはリポジトリ公開されてるだろ、多分）</description>
-      <pubDate>Wed, 21 Oct 2026 15:57:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/monmondy488/status/2112936383245660422</guid>
-    </item>
-    <item>
-      <title>続々と有名なWebサービスが閉じ始めた。 cloudflareをサーバの前に立ててればある程度は平気なのか？ cloudflare tunnel 使ってるから、海外IPアドレスを拒否して良しとして帰ってきちゃった。 https://t.co/mLVRBr3UkN</title>
-      <link>https://x.com/afqcho/status/2112918568144937182</link>
-      <description>雲類鷲七十: 続々と有名なWebサービスが閉じ始めた。 cloudflareをサーバの前に立ててればある程度は平気なのか？ cloudflare tunnel 使ってるから、海外IPアドレスを拒否して良しとして帰ってきちゃった。 https://t.co/mLVRBr3UkN</description>
-      <pubDate>Wed, 21 Oct 2026 14:46:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/afqcho/status/2112918568144937182</guid>
     </item>
   </channel>
 </rss>

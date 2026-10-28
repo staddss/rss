@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>NextDNS 導入してから3か月以上経ったけど、まあまあブロックできてるね～ すごいわ https://t.co/v11BAzzAkk</title>
+      <link>https://x.com/koko29482/status/2115067900579266926</link>
+      <description>ここまろ: NextDNS 導入してから3か月以上経ったけど、まあまあブロックできてるね～ すごいわ https://t.co/v11BAzzAkk</description>
+      <pubDate>Tue, 27 Oct 2026 13:07:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/koko29482/status/2115067900579266926</guid>
+    </item>
+    <item>
       <title>最近話題の NextDNS を使い始めました。作ったプロファイルのIDをクライアントで指定する NextDNS サーバのサブドメインに指定する事でブロックリストを適用出来たり、ログや分析など色々出来て面白いですね。両親用のプロファイル作って変な広告出す所はブロックする運用してみようかな。</title>
       <link>https://x.com/itocchi_3/status/2115010670752362644</link>
       <description>itocchi: 最近話題の NextDNS を使い始めました。作ったプロファイルのIDをクライアントで指定する NextDNS サーバのサブドメインに指定する事でブロックリストを適用出来たり、ログや分析など色々出来て面白いですね。両親用のプロファイル作って変な広告出す所はブロックする運用してみようかな。</description>
@@ -269,13 +276,6 @@
       <description>Roku: これ、結構前からある偽装方法で今のChromeではちゃんとブロックされる（1枚目） Firefoxはブロックされんけど、 NextDNS のようなDNSフィルタリングツールを導入しておけば検知してブロックしてくれる（2枚目） ってことでみんな NextDNS 入れろ。アプリ内広告も消えるぞ。 https://t.co/ssJEVfMsH6 https://t.co/crT6SqKXqw</description>
       <pubDate>Thu, 15 Oct 2026 03:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/roroku02/status/2110581222112174479</guid>
-    </item>
-    <item>
-      <title>@m_sugimori nextdns とかadguard dnsだと ホモグラフはブロックできるので ブラウザのプライベートDNSで設定してる</title>
-      <link>https://x.com/imabarizine/status/2110548977049600455</link>
-      <description>IMABARIxZINE: @m_sugimori nextdns とかadguard dnsだと ホモグラフはブロックできるので ブラウザのプライベートDNSで設定してる</description>
-      <pubDate>Thu, 15 Oct 2026 01:51:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imabarizine/status/2110548977049600455</guid>
     </item>
   </channel>
 </rss>

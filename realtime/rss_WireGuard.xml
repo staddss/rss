@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@maruru_289 それ以前に WireGuard ベースにも関わらずTUNを使うのが謎。</title>
+      <link>https://x.com/shiroko_bridge/status/2115311240109281702</link>
+      <description>砂橋シロコ: @maruru_289 それ以前に WireGuard ベースにも関わらずTUNを使うのが謎。</description>
+      <pubDate>Wed, 28 Oct 2026 05:14:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiroko_bridge/status/2115311240109281702</guid>
+    </item>
+    <item>
+      <title>@yomiplush @ WireGuardVPN そうですね！Tailscaleも内部では WireGuard を使っているので、自分も WireGuard で構築し直そうかな 一度構築してしまえば、あとはアプリでVPNをオンにするだけなので、運用自体はそこまで面倒ではなさそう。</title>
+      <link>https://x.com/feTfaZXp7n86129/status/2115284419544261101</link>
+      <description>Port 22: @yomiplush @ WireGuardVPN そうですね！Tailscaleも内部では WireGuard を使っているので、自分も WireGuard で構築し直そうかな 一度構築してしまえば、あとはアプリでVPNをオンにするだけなので、運用自体はそこまで面倒ではなさそう。</description>
+      <pubDate>Wed, 28 Oct 2026 03:28:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2115284419544261101</guid>
+    </item>
+    <item>
+      <title>HSMが認証取ってるであろうFIPS140、アレな仕様らしいので、、美しいと評判のGoの暗号ライブラリがFIPS140対応で酷いことになってるみたいなことを WireGuard の作者が言っていたり https://t.co/tme8IhO8bQ https://t.co/UGJRX9NQns</title>
+      <link>https://x.com/readonly859/status/2115270969141203017</link>
+      <description>readonly: HSMが認証取ってるであろうFIPS140、アレな仕様らしいので、、美しいと評判のGoの暗号ライブラリがFIPS140対応で酷いことになってるみたいなことを WireGuard の作者が言っていたり https://t.co/tme8IhO8bQ https://t.co/UGJRX9NQns</description>
+      <pubDate>Wed, 28 Oct 2026 02:34:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/readonly859/status/2115270969141203017</guid>
+    </item>
+    <item>
+      <title>どんな攻撃を受けるかわからないから家のネットワークを強化しといた。DNS over TLS(DNSはGoogle/Cloudflare)、2重ルータにして、自宅Wifi以外の通信は Wireguard でVPN接続するようにした。使ってたNASへの外部からの通信もやめてローカル運用だけにした・・。疲れた</title>
+      <link>https://x.com/pyokozo2020/status/2115119682688880735</link>
+      <description>ぴょこぞう: どんな攻撃を受けるかわからないから家のネットワークを強化しといた。DNS over TLS(DNSはGoogle/Cloudflare)、2重ルータにして、自宅Wifi以外の通信は Wireguard でVPN接続するようにした。使ってたNASへの外部からの通信もやめてローカル運用だけにした・・。疲れた</description>
+      <pubDate>Tue, 27 Oct 2026 16:33:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pyokozo2020/status/2115119682688880735</guid>
+    </item>
+    <item>
       <title>wireguard でGIPバラ撒くのおもろすぎる</title>
       <link>https://x.com/minosJP/status/2115102632251637941</link>
       <description>minos: wireguard でGIPバラ撒くのおもろすぎる</description>
@@ -248,34 +276,6 @@
       <description>田都 アリエル: VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</description>
       <pubDate>Sat, 24 Oct 2026 06:37:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/maruru_289/status/2113882588754674098</guid>
-    </item>
-    <item>
-      <title>Tailscale というより WireGuard の方がクリティカルかもしれない？ https://t.co/odvOmllDvr</title>
-      <link>https://x.com/HarusameTech/status/2113866661375930795</link>
-      <description>はるさめ🎥: Tailscale というより WireGuard の方がクリティカルかもしれない？ https://t.co/odvOmllDvr</description>
-      <pubDate>Sat, 24 Oct 2026 05:34:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/HarusameTech/status/2113866661375930795</guid>
-    </item>
-    <item>
-      <title>VPNを入れて変わったこと ✅AWS全体のセキュリティ向上（接続IPを絞る） ✅メイン端末に外から簡単に繋げる（快適な操作） ✅顧客資産への接続がやりやすい WireGuard はVPNを通すものを指定できるので、１台の端末で快適に操作できる、これは発明ですわ💡</title>
-      <link>https://x.com/RyosanBIMania/status/2113807253300228506</link>
-      <description>りょうさん🍜町中華界一のデータ&amp;AIマニア🥟: VPNを入れて変わったこと ✅AWS全体のセキュリティ向上（接続IPを絞る） ✅メイン端末に外から簡単に繋げる（快適な操作） ✅顧客資産への接続がやりやすい WireGuard はVPNを通すものを指定できるので、１台の端末で快適に操作できる、これは発明ですわ💡</description>
-      <pubDate>Sat, 24 Oct 2026 01:38:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RyosanBIMania/status/2113807253300228506</guid>
-    </item>
-    <item>
-      <title>こないだPHPがなぜ苦手か、について考えたけど、それと同じでVPNも苦手だ。そもそもがなんらかの有料サービス契約しないと使えなかった。お金なかったし💦今ならVPSに wireguard でVPNできるけど、どうも好かんのよなー。変なイメージつくとよくないね。現状はVPSからリバーストンネルで接続してます。</title>
-      <link>https://x.com/yzr_wc/status/2113644207906992228</link>
-      <description>とーます: こないだPHPがなぜ苦手か、について考えたけど、それと同じでVPNも苦手だ。そもそもがなんらかの有料サービス契約しないと使えなかった。お金なかったし💦今ならVPSに wireguard でVPNできるけど、どうも好かんのよなー。変なイメージつくとよくないね。現状はVPSからリバーストンネルで接続してます。</description>
-      <pubDate>Fri, 23 Oct 2026 14:50:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yzr_wc/status/2113644207906992228</guid>
-    </item>
-    <item>
-      <title>tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</title>
-      <link>https://x.com/Fuyu2356/status/2113614308601217427</link>
-      <description>ふゆ: tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</description>
-      <pubDate>Fri, 23 Oct 2026 12:51:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Fuyu2356/status/2113614308601217427</guid>
     </item>
   </channel>
 </rss>
