@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/minosJP/status/2115102632251637941</guid>
     </item>
     <item>
+      <title>家中の機器のDNSサーバ指定は自前のadguard homeサーバになってる。Quad9で危険ドメイン対策をしつつルールフィルターとセーフブラウジング入れてる。且つ別途adguard有料版もmacやwinに入れてるし、iPhoneは wireguard で外出先でも自宅adguard homeサーバ指定、且つadguard proでdns保護以外をオン</title>
+      <link>https://x.com/VA2018AV/status/2115092129425039660</link>
+      <description>WAW: 家中の機器のDNSサーバ指定は自前のadguard homeサーバになってる。Quad9で危険ドメイン対策をしつつルールフィルターとセーフブラウジング入れてる。且つ別途adguard有料版もmacやwinに入れてるし、iPhoneは wireguard で外出先でも自宅adguard homeサーバ指定、且つadguard proでdns保護以外をオン</description>
+      <pubDate>Tue, 27 Oct 2026 14:43:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/VA2018AV/status/2115092129425039660</guid>
+    </item>
+    <item>
       <title>@zakisan1689669 WireGuard への切り替え、おつかれさまです！ こちらも調べたのですが、今回の問題は「Tailscale SSH」（Linux/Macの機能）やServe・Funnelを使っている場合が前提で、しかも通路の中に入った端末からの話でした。</title>
       <link>https://x.com/Bcat_EA_Trader/status/2115073513816297918</link>
       <description>黒猫トレーダー🐈‍⬛: @zakisan1689669 WireGuard への切り替え、おつかれさまです！ こちらも調べたのですが、今回の問題は「Tailscale SSH」（Linux/Macの機能）やServe・Funnelを使っている場合が前提で、しかも通路の中に入った端末からの話でした。</description>
@@ -269,13 +276,6 @@
       <description>ふゆ: tailscale使ったら負けな気がして wireguard で学内でも通るようにゴニョニョしようとしたけどめんどくなったのでtailscaleを使用</description>
       <pubDate>Fri, 23 Oct 2026 12:51:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Fuyu2356/status/2113614308601217427</guid>
-    </item>
-    <item>
-      <title>@zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</title>
-      <link>https://x.com/ARwJtmjrInEY73B/status/2113566996671701150</link>
-      <description>魯水角: @zhaxinX VPN 去到國外的 但是 wireguard 就不懂了</description>
-      <pubDate>Fri, 23 Oct 2026 09:43:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ARwJtmjrInEY73B/status/2113566996671701150</guid>
     </item>
   </channel>
 </rss>
