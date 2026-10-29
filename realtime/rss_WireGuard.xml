@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</title>
+      <link>https://x.com/mocchan_dev/status/2115594365695668696</link>
+      <description>もつもつ: 脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</description>
+      <pubDate>Wed, 28 Oct 2026 23:59:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mocchan_dev/status/2115594365695668696</guid>
+    </item>
+    <item>
+      <title>どうやって外部からアクセスしてるんだろ Wireguard を自力で張るのかな、まさか直にアクセスするわけないし、、、 Cloudflare Zero Trustは確かに良いけど層は増えるよね、、 https://t.co/HqpEHA3LR3</title>
+      <link>https://x.com/i09jp/status/2115450429169660389</link>
+      <description>Kisaraki2021: どうやって外部からアクセスしてるんだろ Wireguard を自力で張るのかな、まさか直にアクセスするわけないし、、、 Cloudflare Zero Trustは確かに良いけど層は増えるよね、、 https://t.co/HqpEHA3LR3</description>
+      <pubDate>Wed, 28 Oct 2026 14:27:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/i09jp/status/2115450429169660389</guid>
+    </item>
+    <item>
+      <title>@R0Msendayo 拠点間接続にIPv6ネットワークの wireguard を使う 内部はIPv4/IPv6のDSをそのまま通せるのでルーティングするだけ</title>
+      <link>https://x.com/maruru_289/status/2115425091274277283</link>
+      <description>田都 アリエル: @R0Msendayo 拠点間接続にIPv6ネットワークの wireguard を使う 内部はIPv4/IPv6のDSをそのまま通せるのでルーティングするだけ</description>
+      <pubDate>Wed, 28 Oct 2026 12:46:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maruru_289/status/2115425091274277283</guid>
+    </item>
+    <item>
+      <title>以前 wireguard VPNを構築して、外出先のスマホから自宅PCの閉域ネットワークにリモートアクセス出来る様になったけど、頻繁にVPNが切断されてしまうの何故なんだろう。 とりあえずログ取得して解析して安定稼働を目指そう。</title>
+      <link>https://x.com/RA9c6wJOHr71538/status/2115386476989125116</link>
+      <description>有機体46B: 以前 wireguard VPNを構築して、外出先のスマホから自宅PCの閉域ネットワークにリモートアクセス出来る様になったけど、頻繁にVPNが切断されてしまうの何故なんだろう。 とりあえずログ取得して解析して安定稼働を目指そう。</description>
+      <pubDate>Wed, 28 Oct 2026 10:13:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2115386476989125116</guid>
+    </item>
+    <item>
+      <title>@shiroko_bridge まあL2はルーティングの事を考えると楽ではあるからね 私も wireguard とL2TPとかvxlanとかで無理やりL2ネットワーク伸ばすことはやらないとは言わないし</title>
+      <link>https://x.com/maruru_289/status/2115359014938882145</link>
+      <description>田都 アリエル: @shiroko_bridge まあL2はルーティングの事を考えると楽ではあるからね 私も wireguard とL2TPとかvxlanとかで無理やりL2ネットワーク伸ばすことはやらないとは言わないし</description>
+      <pubDate>Wed, 28 Oct 2026 08:24:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maruru_289/status/2115359014938882145</guid>
+    </item>
+    <item>
       <title>@maruru_289 それ以前に WireGuard ベースにも関わらずTUNを使うのが謎。</title>
       <link>https://x.com/shiroko_bridge/status/2115311240109281702</link>
       <description>砂橋シロコ: @maruru_289 それ以前に WireGuard ベースにも関わらずTUNを使うのが謎。</description>
@@ -241,41 +276,6 @@
       <description>こいぬのぽち@v0.1.11 aka ぽち: そういえば tailscale って内部的に WireGuard 使っているのか</description>
       <pubDate>Sun, 25 Oct 2026 13:47:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/koinunopochi/status/2114353069404389731</guid>
-    </item>
-    <item>
-      <title>@k_koyanagi_null 独自アーキテクチャになる事でよく知られた脆弱性を避ける方向性は、『どこから』の線引きが要りますよね……。 通信するのに物理的な線の規格から独自化が無理なのは考えたらわかる……。 では Wireguard くらいまではありモノを使って、その中で独自プロトコルで話すのはどうかな、とか……。</title>
-      <link>https://x.com/_takelot_/status/2114257751358767204</link>
-      <description>暗黒皇帝タケロット: @k_koyanagi_null 独自アーキテクチャになる事でよく知られた脆弱性を避ける方向性は、『どこから』の線引きが要りますよね……。 通信するのに物理的な線の規格から独自化が無理なのは考えたらわかる……。 では Wireguard くらいまではありモノを使って、その中で独自プロトコルで話すのはどうかな、とか……。</description>
-      <pubDate>Sun, 25 Oct 2026 07:28:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_takelot_/status/2114257751358767204</guid>
-    </item>
-    <item>
-      <title>@kamiya344 まぁ自分用だけだったら、、、 IPsecとか Wireguard 使う そもそも直のホスティングせずに必ず中継経由？AWS Systems Manager Session Managerみたいな感じで</title>
-      <link>https://x.com/TAC_yacht/status/2114178216827191390</link>
-      <description>T.A.C.: @kamiya344 まぁ自分用だけだったら、、、 IPsecとか Wireguard 使う そもそも直のホスティングせずに必ず中継経由？AWS Systems Manager Session Managerみたいな感じで</description>
-      <pubDate>Sun, 25 Oct 2026 02:12:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TAC_yacht/status/2114178216827191390</guid>
-    </item>
-    <item>
-      <title>この黄色い箱を挟むと、ゲーム機もVPNにつながる。 GL.iNetの「Mango 2」、重さ100gのトラベルルーター。5GHzで最大866Mbps、 WireGuard とTailscaleに対応。 https://t.co/5PjhCOe4Y4</title>
-      <link>https://x.com/GadgetTerminal2/status/2113971518447157434</link>
-      <description>Gadget Terminal: この黄色い箱を挟むと、ゲーム機もVPNにつながる。 GL.iNetの「Mango 2」、重さ100gのトラベルルーター。5GHzで最大866Mbps、 WireGuard とTailscaleに対応。 https://t.co/5PjhCOe4Y4</description>
-      <pubDate>Sat, 24 Oct 2026 12:31:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/GadgetTerminal2/status/2113971518447157434</guid>
-    </item>
-    <item>
-      <title>@maruru_289 tailescaleはオンラインのメッシュサービスなんで端末毎にVPN貼っております。あと復帰したらサービス勝手に再起動させるので利便性でいうと⭕ 家の機器1個に依存はしてないので wireguard 諸々はあんまりメリットが見いだせず。 （上流が止まったら氏にますがまあ家の機器が死んでも同じなので） https://t.co/SohrOs5EVN</title>
-      <link>https://x.com/doplxyz/status/2113888483177881939</link>
-      <description>DOPPELGENGER: @maruru_289 tailescaleはオンラインのメッシュサービスなんで端末毎にVPN貼っております。あと復帰したらサービス勝手に再起動させるので利便性でいうと⭕ 家の機器1個に依存はしてないので wireguard 諸々はあんまりメリットが見いだせず。 （上流が止まったら氏にますがまあ家の機器が死んでも同じなので） https://t.co/SohrOs5EVN</description>
-      <pubDate>Sat, 24 Oct 2026 07:01:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/doplxyz/status/2113888483177881939</guid>
-    </item>
-    <item>
-      <title>VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</title>
-      <link>https://x.com/maruru_289/status/2113882588754674098</link>
-      <description>田都 アリエル: VPNは実験機と同じところに立ててはいけません！ 当然ですが実験機再起動でVPNが切れる欠陥があります！ 大人しく別PCに wireguard を入れる他ない https://t.co/F3tBFWhxDd</description>
-      <pubDate>Sat, 24 Oct 2026 06:37:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/maruru_289/status/2113882588754674098</guid>
     </item>
   </channel>
 </rss>

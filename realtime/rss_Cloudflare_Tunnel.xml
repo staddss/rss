@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>先月、クラウドの従量課金を見て震えました。趣味のAPIが積み重なって請求が跳ね上がってたんです。それ以来、自宅サーバーに移行中。 セルフホストのTips ・Dockerでサービスごとにコンテナ分離 ・ Cloudflare Tunnel で外部公開、ポート開放不要 ・UPSは必須、停電で泣いた過去あり</title>
+      <link>https://x.com/kygo_coding/status/2115594529869078862</link>
+      <description>カイゴ | AI駆動エンジニア: 先月、クラウドの従量課金を見て震えました。趣味のAPIが積み重なって請求が跳ね上がってたんです。それ以来、自宅サーバーに移行中。 セルフホストのTips ・Dockerでサービスごとにコンテナ分離 ・ Cloudflare Tunnel で外部公開、ポート開放不要 ・UPSは必須、停電で泣いた過去あり</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kygo_coding/status/2115594529869078862</guid>
+    </item>
+    <item>
+      <title>無償 Cloudflare Tunnel →ローカルWAF→公開Webサーバー だけど、ローカルWAFでちょこちょこ検出上がるから 無償Cloudflareだとそんなもんか。</title>
+      <link>https://x.com/abdda149/status/2115449666364215745</link>
+      <description>Volk149: 無償 Cloudflare Tunnel →ローカルWAF→公開Webサーバー だけど、ローカルWAFでちょこちょこ検出上がるから 無償Cloudflareだとそんなもんか。</description>
+      <pubDate>Wed, 28 Oct 2026 14:24:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/abdda149/status/2115449666364215745</guid>
+    </item>
+    <item>
+      <title>ほんといい時代になりました。 自宅のネットワークに置いた時代遅れのPCが簡単に自宅サーバになる。 CloudFlare tunnel + １万ちょっとのラズパイ４で、立派に自宅サーバでDockerでWEBアプリ動かせてます。 EAもこのサーバで稼働させたい。GMOは怖いしｗ</title>
+      <link>https://x.com/fx_gots2/status/2115439164397355254</link>
+      <description>ごっつ@サイドFIRE 資産運用で２億円を目指す: ほんといい時代になりました。 自宅のネットワークに置いた時代遅れのPCが簡単に自宅サーバになる。 CloudFlare tunnel + １万ちょっとのラズパイ４で、立派に自宅サーバでDockerでWEBアプリ動かせてます。 EAもこのサーバで稼働させたい。GMOは怖いしｗ</description>
+      <pubDate>Wed, 28 Oct 2026 13:42:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fx_gots2/status/2115439164397355254</guid>
+    </item>
+    <item>
       <title>ポート開放なしで自宅サーバーを公開する： Cloudflare Tunnel + Access の構成｜たひろ https://t.co/SGaok91dS1 #zenn</title>
       <link>https://x.com/rad0717/status/2115314975837470949</link>
       <description>たひろ: ポート開放なしで自宅サーバーを公開する： Cloudflare Tunnel + Access の構成｜たひろ https://t.co/SGaok91dS1 #zenn</description>
@@ -17,6 +38,13 @@
       <description>tai-kun: OpenCode と Cloudflare Tunnel の相性良くない。1~2日に 1 回は 502 出してくる。そのたびに Safari の設定からサイトデータ削除してログインし直し。</description>
       <pubDate>Wed, 28 Oct 2026 00:36:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/taikun_dev/status/2115241280628515111</guid>
+    </item>
+    <item>
+      <title>@toruoka2016 GMOのやつはWindows+RDPのようですね。 sshで公開鍵認証(ed25519)なら安心。パスワード認証は不安。 fail2banでN回失敗したらIP banや、そもそも Cloudflare Tunnel でssh portを外部に公開しない方法であればより安心かと</title>
+      <link>https://x.com/dexdev/status/2115017756605387187</link>
+      <description>dex: @toruoka2016 GMOのやつはWindows+RDPのようですね。 sshで公開鍵認証(ed25519)なら安心。パスワード認証は不安。 fail2banでN回失敗したらIP banや、そもそも Cloudflare Tunnel でssh portを外部に公開しない方法であればより安心かと</description>
+      <pubDate>Tue, 27 Oct 2026 09:48:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dexdev/status/2115017756605387187</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</title>
@@ -248,34 +276,6 @@
       <description>nanashi d('ω')b🕊️: @kyohsuke14 軽率に Cloudflare Tunnel 導入していくか</description>
       <pubDate>Thu, 22 Oct 2026 13:54:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tako774/status/2113267656514314636</guid>
-    </item>
-    <item>
-      <title>そういえば Cloudflare Tunnel でも更新が降ってきていた 昨日のPostgresと合わせてコンテナ更新しておいたので事なきを得た https://t.co/aS7Oh38wem</title>
-      <link>https://x.com/RShirohara/status/2113093232959856733</link>
-      <description>城原零: そういえば Cloudflare Tunnel でも更新が降ってきていた 昨日のPostgresと合わせてコンテナ更新しておいたので事なきを得た https://t.co/aS7Oh38wem</description>
-      <pubDate>Thu, 22 Oct 2026 02:21:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RShirohara/status/2113093232959856733</guid>
-    </item>
-    <item>
-      <title>利用対象が社内みたいなシステムはインターネットにおかずに、社内の隔離されたネットワークにおいて、 Cloudflare tunnel 経由でアクセスさせるのが良いかな？中途半端に対象が広い取引先向けのシステムは悩む</title>
-      <link>https://x.com/MotoyasuYamada/status/2113055950924075436</link>
-      <description>やまもん🔥チャリ走🔥: 利用対象が社内みたいなシステムはインターネットにおかずに、社内の隔離されたネットワークにおいて、 Cloudflare tunnel 経由でアクセスさせるのが良いかな？中途半端に対象が広い取引先向けのシステムは悩む</description>
-      <pubDate>Wed, 21 Oct 2026 23:52:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MotoyasuYamada/status/2113055950924075436</guid>
-    </item>
-    <item>
-      <title>結局ロリポップのサーバーのメンテナンスが終わるかこの時間に読めないので、業務に支障を来す訳にもいかず、急遽 Cloudflare Tunnel で業務システムを一時的に取引先に公開して凌ぐことにした。 まぁあと2時間以内にメンテナンスが終わればそれがベストではあるんだけどね〜 これで寝れる。</title>
-      <link>https://x.com/KanaguPhoto/status/2113031656177328153</link>
-      <description>KANAGU: 結局ロリポップのサーバーのメンテナンスが終わるかこの時間に読めないので、業務に支障を来す訳にもいかず、急遽 Cloudflare Tunnel で業務システムを一時的に取引先に公開して凌ぐことにした。 まぁあと2時間以内にメンテナンスが終わればそれがベストではあるんだけどね〜 これで寝れる。</description>
-      <pubDate>Wed, 21 Oct 2026 22:16:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KanaguPhoto/status/2113031656177328153</guid>
-    </item>
-    <item>
-      <title>うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</title>
-      <link>https://x.com/keita_roboin/status/2112967678281621803</link>
-      <description>ろぼいん: うちのサイトはVPSのポートをすべて閉じた状態で Cloudflare Tunnel を使っているからCloudflare経由でないとアクセスできないようになっている https://t.co/9KebM37m5n</description>
-      <pubDate>Wed, 21 Oct 2026 18:02:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/keita_roboin/status/2112967678281621803</guid>
     </item>
   </channel>
 </rss>

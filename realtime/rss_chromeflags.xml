@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChromeのUIキモかったけど これをChromeのアドレスバーに貼り付けて、出てきたやつを無効に変更してブラウザ再起動したら元に戻ったわ chrome :// flags /#chrome-next-ia</title>
+      <link>https://x.com/willsnowy/status/2115395552489967975</link>
+      <description>うぃりあむ / William: ChromeのUIキモかったけど これをChromeのアドレスバーに貼り付けて、出てきたやつを無効に変更してブラウザ再起動したら元に戻ったわ chrome :// flags /#chrome-next-ia</description>
+      <pubDate>Wed, 28 Oct 2026 10:49:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/willsnowy/status/2115395552489967975</guid>
+    </item>
+    <item>
+      <title>chromeにAIの案内が出る様になったのと検索バークリックすると白飛びするようになってウザかったんだけど 1：検索バーに「 chrome :// flags 」を入力して検索 2：NTP Composebox（# ntp-composebox）を「Disable」にして右下のボタンからchrome再起動 で解決した</title>
+      <link>https://x.com/DUSKSTAR9/status/2115090014082318706</link>
+      <description>DUSKSTAR: chromeにAIの案内が出る様になったのと検索バークリックすると白飛びするようになってウザかったんだけど 1：検索バーに「 chrome :// flags 」を入力して検索 2：NTP Composebox（# ntp-composebox）を「Disable」にして右下のボタンからchrome再起動 で解決した</description>
+      <pubDate>Tue, 27 Oct 2026 14:35:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DUSKSTAR9/status/2115090014082318706</guid>
+    </item>
+    <item>
       <title>Googlebook 向け Chrome 156 にアップデートしても、「名前を付けて保存」でダウンロードフォルダを選べない場合は、以下のフラグで利用できる chrome :// flags #enable-download-save-as-system-file-dialog</title>
       <link>https://x.com/Helen_Tech/status/2114864830020780524</link>
       <description>おむらまさひで(HelenTech): Googlebook 向け Chrome 156 にアップデートしても、「名前を付けて保存」でダウンロードフォルダを選べない場合は、以下のフラグで利用できる chrome :// flags #enable-download-save-as-system-file-dialog</description>
@@ -269,13 +283,6 @@
       <description>す: @Rinoprogram chrome :// flags から、「Override software rendering list」を有効にして、「enhanced-h264ify」っていう拡張機能入れて、拡張機能の設定でAV1,VP9,VP8にチェックを入れると改善されるかも</description>
       <pubDate>Sun, 04 Oct 2026 15:38:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/su_123x/status/2106771014709592332</guid>
-    </item>
-    <item>
-      <title>クローム系ブラウザ chrome :// flags /#smooth-scrolling デフォルトでONして欲しいわよｗｗｗｗ</title>
-      <link>https://x.com/Lichiphen/status/2106696618875711582</link>
-      <description>Lichiphen(リシュ): クローム系ブラウザ chrome :// flags /#smooth-scrolling デフォルトでONして欲しいわよｗｗｗｗ</description>
-      <pubDate>Sun, 04 Oct 2026 10:43:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Lichiphen/status/2106696618875711582</guid>
     </item>
   </channel>
 </rss>
