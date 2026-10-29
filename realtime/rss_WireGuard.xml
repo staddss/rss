@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</title>
+      <link>https://x.com/ckkinn/status/2115714374753263753</link>
+      <description>アン: この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</description>
+      <pubDate>Thu, 29 Oct 2026 07:56:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ckkinn/status/2115714374753263753</guid>
+    </item>
+    <item>
+      <title>す～げ～アレコレ苦心した挙句、借りてるVPS2個目とスマホの Wireguard 接続ができた マジで何故か分からないけど持続的キープアライブを設定しないと通信でハンドシェイクしてくれなかったな スマホをクライアントにする場合だけかもしれないケド……</title>
+      <link>https://x.com/epEAUAekqt79043/status/2115607474049028112</link>
+      <description>末​⁠͏⁠⁠端​⁠͏⁠⁠消​⁠͏⁠⁠費​⁠͏⁠⁠者: す～げ～アレコレ苦心した挙句、借りてるVPS2個目とスマホの Wireguard 接続ができた マジで何故か分からないけど持続的キープアライブを設定しないと通信でハンドシェイクしてくれなかったな スマホをクライアントにする場合だけかもしれないケド……</description>
+      <pubDate>Thu, 29 Oct 2026 00:51:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/epEAUAekqt79043/status/2115607474049028112</guid>
+    </item>
+    <item>
       <title>脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</title>
       <link>https://x.com/mocchan_dev/status/2115594365695668696</link>
       <description>もつもつ: 脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</description>
@@ -262,20 +276,6 @@
       <description>zipperpull: 生 wireguard 民高みの見物(フラグになりませんように🙏🏼</description>
       <pubDate>Sun, 25 Oct 2026 17:15:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/zipperpull/status/2114405483092357187</guid>
-    </item>
-    <item>
-      <title>tailscaleもマネジメント層から下は WireGuard だからなあ</title>
-      <link>https://x.com/seizel/status/2114369470353580450</link>
-      <description>AMANDLA: tailscaleもマネジメント層から下は WireGuard だからなあ</description>
-      <pubDate>Sun, 25 Oct 2026 14:52:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/seizel/status/2114369470353580450</guid>
-    </item>
-    <item>
-      <title>そういえば tailscale って内部的に WireGuard 使っているのか</title>
-      <link>https://x.com/koinunopochi/status/2114353069404389731</link>
-      <description>こいぬのぽち@v0.1.11 aka ぽち: そういえば tailscale って内部的に WireGuard 使っているのか</description>
-      <pubDate>Sun, 25 Oct 2026 13:47:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/koinunopochi/status/2114353069404389731</guid>
     </item>
   </channel>
 </rss>

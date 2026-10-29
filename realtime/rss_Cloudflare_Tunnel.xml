@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>スマホの写真は家のサーバーへ：脱 Google フォトに向けた Immich × Cloudflare Tunnel ｜たひろ https://t.co/V5f5ZM1UBT</title>
+      <link>https://x.com/rad0717/status/2115652672636510706</link>
+      <description>たひろ: スマホの写真は家のサーバーへ：脱 Google フォトに向けた Immich × Cloudflare Tunnel ｜たひろ https://t.co/V5f5ZM1UBT</description>
+      <pubDate>Thu, 29 Oct 2026 03:51:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/rad0717/status/2115652672636510706</guid>
+    </item>
+    <item>
+      <title>Docker の Cloudflare Tunnel をアップデートする | 荒川仁志 公式サイト https://t.co/XnZVN5h6Z1</title>
+      <link>https://x.com/ha_thewriter/status/2115605282965635425</link>
+      <description>Hitoshi Arakawa | 荒川 仁志 | ہیتوشی اراکاوا: Docker の Cloudflare Tunnel をアップデートする | 荒川仁志 公式サイト https://t.co/XnZVN5h6Z1</description>
+      <pubDate>Thu, 29 Oct 2026 00:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ha_thewriter/status/2115605282965635425</guid>
+    </item>
+    <item>
       <title>先月、クラウドの従量課金を見て震えました。趣味のAPIが積み重なって請求が跳ね上がってたんです。それ以来、自宅サーバーに移行中。 セルフホストのTips ・Dockerでサービスごとにコンテナ分離 ・ Cloudflare Tunnel で外部公開、ポート開放不要 ・UPSは必須、停電で泣いた過去あり</title>
       <link>https://x.com/kygo_coding/status/2115594529869078862</link>
       <description>カイゴ | AI駆動エンジニア: 先月、クラウドの従量課金を見て震えました。趣味のAPIが積み重なって請求が跳ね上がってたんです。それ以来、自宅サーバーに移行中。 セルフホストのTips ・Dockerでサービスごとにコンテナ分離 ・ Cloudflare Tunnel で外部公開、ポート開放不要 ・UPSは必須、停電で泣いた過去あり</description>
@@ -262,20 +276,6 @@
       <description>multilayer: Cloudflare Tunnel で、cloudflaredのバージョン2026.10.0から、ingressルールを照合する前にURLを正規化できるようになった。 Cloudflare Accessの検証が必要なルールを持つTunnelで、セキュリティを高めるための機能とのこと。オリジンに送るURLのパスは変わらない。</description>
       <pubDate>Fri, 23 Oct 2026 01:19:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/multilayer/status/2113440135195070635</guid>
-    </item>
-    <item>
-      <title>ChatGPTがDebian最新版への移行とPHPの更新手順を詳しく説明してくれたおかげで、WordPressを数時間で無事に移行できました。 Cloudflareについてもかなり詳しく、テスト環境の構築から、 Cloudflare Tunnel 経由での公開、DNSレコードの設定、本番環境への切り替えまで手順を教えてくれました</title>
-      <link>https://x.com/ymikasa1/status/2113401730218201464</link>
-      <description>Yoshiaki Mikasa: ChatGPTがDebian最新版への移行とPHPの更新手順を詳しく説明してくれたおかげで、WordPressを数時間で無事に移行できました。 Cloudflareについてもかなり詳しく、テスト環境の構築から、 Cloudflare Tunnel 経由での公開、DNSレコードの設定、本番環境への切り替えまで手順を教えてくれました</description>
-      <pubDate>Thu, 22 Oct 2026 22:46:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ymikasa1/status/2113401730218201464</guid>
-    </item>
-    <item>
-      <title>@kyohsuke14 軽率に Cloudflare Tunnel 導入していくか</title>
-      <link>https://x.com/tako774/status/2113267656514314636</link>
-      <description>nanashi d('ω')b🕊️: @kyohsuke14 軽率に Cloudflare Tunnel 導入していくか</description>
-      <pubDate>Thu, 22 Oct 2026 13:54:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tako774/status/2113267656514314636</guid>
     </item>
   </channel>
 </rss>
