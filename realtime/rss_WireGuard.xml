@@ -5,11 +5,46 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そうか WireGuard 入れて IP制限したら良いのか？ラズパイもミニパソコンも おー かなりセキュリティ強固になる</title>
+      <link>https://x.com/kazuandmaho/status/2115943577348153599</link>
+      <description>darks9: そうか WireGuard 入れて IP制限したら良いのか？ラズパイもミニパソコンも おー かなりセキュリティ強固になる</description>
+      <pubDate>Thu, 29 Oct 2026 23:07:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kazuandmaho/status/2115943577348153599</guid>
+    </item>
+    <item>
+      <title>@t_nihonmatsu 正直なところ後述の理由から時間的にリスク評価はしなかったのですが、自己所有ドメインのメールサーバと WireGuard をUbuntuでインターネットに公開していたことと、対象サーバはVMでスナップショットから速やかに戻すことができることから緊急対応としました。</title>
+      <link>https://x.com/kameo_himitsu/status/2115895790011068470</link>
+      <description>かめお: @t_nihonmatsu 正直なところ後述の理由から時間的にリスク評価はしなかったのですが、自己所有ドメインのメールサーバと WireGuard をUbuntuでインターネットに公開していたことと、対象サーバはVMでスナップショットから速やかに戻すことができることから緊急対応としました。</description>
+      <pubDate>Thu, 29 Oct 2026 19:57:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kameo_himitsu/status/2115895790011068470</guid>
+    </item>
+    <item>
+      <title>@litzhaus @internet_watch IPsec、 WireGuard 、OpenVPNなどは破られた実績はありません。 簡易なVPNや安易な運用が脆弱をもたらすだけ。ゼロトラストを目指しても結局パスワードを盗まれたりなりすまされれば同じこと。ZTNAへ移行してもです。 だから技術ありきでは無くプロセスありきなんです。</title>
+      <link>https://x.com/everytimesme/status/2115779358854148202</link>
+      <description>lifecycle: @litzhaus @internet_watch IPsec、 WireGuard 、OpenVPNなどは破られた実績はありません。 簡易なVPNや安易な運用が脆弱をもたらすだけ。ゼロトラストを目指しても結局パスワードを盗まれたりなりすまされれば同じこと。ZTNAへ移行してもです。 だから技術ありきでは無くプロセスありきなんです。</description>
+      <pubDate>Thu, 29 Oct 2026 12:14:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/everytimesme/status/2115779358854148202</guid>
+    </item>
+    <item>
+      <title>スマホから Wireguard 繋ごうと思ったけど入れてないや</title>
+      <link>https://x.com/croisstra/status/2115770347513594025</link>
+      <description>croisstra: スマホから Wireguard 繋ごうと思ったけど入れてないや</description>
+      <pubDate>Thu, 29 Oct 2026 11:38:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/croisstra/status/2115770347513594025</guid>
+    </item>
+    <item>
       <title>この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</title>
       <link>https://x.com/ckkinn/status/2115714374753263753</link>
       <description>アン: この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</description>
       <pubDate>Thu, 29 Oct 2026 07:56:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ckkinn/status/2115714374753263753</guid>
+    </item>
+    <item>
+      <title>やっぱり WireGuard の導入ですかね。</title>
+      <link>https://x.com/saint_minny/status/2115711550770336109</link>
+      <description>Minny: やっぱり WireGuard の導入ですかね。</description>
+      <pubDate>Thu, 29 Oct 2026 07:45:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/saint_minny/status/2115711550770336109</guid>
     </item>
     <item>
       <title>す～げ～アレコレ苦心した挙句、借りてるVPS2個目とスマホの Wireguard 接続ができた マジで何故か分からないけど持続的キープアライブを設定しないと通信でハンドシェイクしてくれなかったな スマホをクライアントにする場合だけかもしれないケド……</title>
@@ -241,41 +276,6 @@
       <description>クリエーションライン株式会社【公式】: VPNを毎回手動で接続していませんか？🔌 WireGuard で社内ネットワーク接続の常識が変わる。シンプル設定と高速通信を実現する仕組みを解説👇 https://t.co/PH7i7QxUnR # WireGuard #VPN #社内ネットワーク #インフラ</description>
       <pubDate>Mon, 26 Oct 2026 01:28:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/creationline/status/2114529529465045288</guid>
-    </item>
-    <item>
-      <title>@SOU_BTC これがあるから WireGuard 使ってるんだよな</title>
-      <link>https://x.com/oni__gumo/status/2114519165956690293</link>
-      <description>鬼蜘蛛: @SOU_BTC これがあるから WireGuard 使ってるんだよな</description>
-      <pubDate>Mon, 26 Oct 2026 00:47:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oni__gumo/status/2114519165956690293</guid>
-    </item>
-    <item>
-      <title>@Bcat_EA_Trader 昨日、tailscaleで環境構築したのですが、脆弱性が見つかって WireGuard に切り替え中です。。</title>
-      <link>https://x.com/zakisan1689669/status/2114491993086922983</link>
-      <description>zakisan: @Bcat_EA_Trader 昨日、tailscaleで環境構築したのですが、脆弱性が見つかって WireGuard に切り替え中です。。</description>
-      <pubDate>Sun, 25 Oct 2026 22:59:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zakisan1689669/status/2114491993086922983</guid>
-    </item>
-    <item>
-      <title>(結果的に素の WireGuard に切り替えて正解だったという)</title>
-      <link>https://x.com/jp7wfp/status/2114483127192314083</link>
-      <description>ののゆー: (結果的に素の WireGuard に切り替えて正解だったという)</description>
-      <pubDate>Sun, 25 Oct 2026 22:23:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jp7wfp/status/2114483127192314083</guid>
-    </item>
-    <item>
-      <title>tailscale、 wireguard 部分が破られたわけではない。水平展開の余地があるという程度</title>
-      <link>https://x.com/methylone/status/2114458008742989973</link>
-      <description>methylone: tailscale、 wireguard 部分が破られたわけではない。水平展開の余地があるという程度</description>
-      <pubDate>Sun, 25 Oct 2026 20:44:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/methylone/status/2114458008742989973</guid>
-    </item>
-    <item>
-      <title>生 wireguard 民高みの見物(フラグになりませんように🙏🏼</title>
-      <link>https://x.com/zipperpull/status/2114405483092357187</link>
-      <description>zipperpull: 生 wireguard 民高みの見物(フラグになりませんように🙏🏼</description>
-      <pubDate>Sun, 25 Oct 2026 17:15:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zipperpull/status/2114405483092357187</guid>
     </item>
   </channel>
 </rss>

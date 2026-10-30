@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>htmlとcssを書く仕事、ほとんどやってない。 今日は「 Cloudflare Tunnel を使ってNext.js + Laravel Sanctum のローカル環境を外部にプレする」手順をまとめるお仕事をした。 証明書周りのエラーとかAI無かったら絶対解決出来なかったけど、なんとかなってしまう。</title>
+      <link>https://x.com/resistance_gowy/status/2115755901902848090</link>
+      <description>HTMLGO: htmlとcssを書く仕事、ほとんどやってない。 今日は「 Cloudflare Tunnel を使ってNext.js + Laravel Sanctum のローカル環境を外部にプレする」手順をまとめるお仕事をした。 証明書周りのエラーとかAI無かったら絶対解決出来なかったけど、なんとかなってしまう。</description>
+      <pubDate>Thu, 29 Oct 2026 10:41:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/resistance_gowy/status/2115755901902848090</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel のセキュリティ通知を受け、当社の利用状況を確認しました。 対象は停止中・接続0台。再利用に備え、構成ファイルのcloudflared既定版を2026.10.4へ更新しました。 確認結果と対応範囲はこちら。 https://t.co/1IVBiIqPuz https://t.co/ZsYLhjzXdz</title>
+      <link>https://x.com/r2en_/status/2115718377616691285</link>
+      <description>エウレカちゃん / AI駆動開発会社CEO🧧: Cloudflare Tunnel のセキュリティ通知を受け、当社の利用状況を確認しました。 対象は停止中・接続0台。再利用に備え、構成ファイルのcloudflared既定版を2026.10.4へ更新しました。 確認結果と対応範囲はこちら。 https://t.co/1IVBiIqPuz https://t.co/ZsYLhjzXdz</description>
+      <pubDate>Thu, 29 Oct 2026 08:12:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/r2en_/status/2115718377616691285</guid>
+    </item>
+    <item>
       <title>スマホの写真は家のサーバーへ：脱 Google フォトに向けた Immich × Cloudflare Tunnel ｜たひろ https://t.co/V5f5ZM1UBT</title>
       <link>https://x.com/rad0717/status/2115652672636510706</link>
       <description>たひろ: スマホの写真は家のサーバーへ：脱 Google フォトに向けた Immich × Cloudflare Tunnel ｜たひろ https://t.co/V5f5ZM1UBT</description>
@@ -262,20 +276,6 @@
       <description>@levelsio: Maybe important to repost this now that everyone is getting hacked If you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP It doesn't matter you have SSH key login, this is about exploits and vulnerabilities https://t.co/23QOH9SBzP</description>
       <pubDate>Fri, 23 Oct 2026 11:03:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/levelsio/status/2113587042185576853</guid>
-    </item>
-    <item>
-      <title>@OsamuKosaki 実を言うとですね・・・ 契約しているプロバイダによって出来るかどうかが決まってしまいます・・・ これをクリアした上で問題があるならばNW周りを疑ってかかるというのが定石なのです Cloudflare Tunnel 等の代替手段も検討してみるのも良いかと思います</title>
-      <link>https://x.com/genzitu/status/2113478406323253309</link>
-      <description>幻実: @OsamuKosaki 実を言うとですね・・・ 契約しているプロバイダによって出来るかどうかが決まってしまいます・・・ これをクリアした上で問題があるならばNW周りを疑ってかかるというのが定石なのです Cloudflare Tunnel 等の代替手段も検討してみるのも良いかと思います</description>
-      <pubDate>Fri, 23 Oct 2026 03:51:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/genzitu/status/2113478406323253309</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel で、cloudflaredのバージョン2026.10.0から、ingressルールを照合する前にURLを正規化できるようになった。 Cloudflare Accessの検証が必要なルールを持つTunnelで、セキュリティを高めるための機能とのこと。オリジンに送るURLのパスは変わらない。</title>
-      <link>https://x.com/multilayer/status/2113440135195070635</link>
-      <description>multilayer: Cloudflare Tunnel で、cloudflaredのバージョン2026.10.0から、ingressルールを照合する前にURLを正規化できるようになった。 Cloudflare Accessの検証が必要なルールを持つTunnelで、セキュリティを高めるための機能とのこと。オリジンに送るURLのパスは変わらない。</description>
-      <pubDate>Fri, 23 Oct 2026 01:19:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/multilayer/status/2113440135195070635</guid>
     </item>
   </channel>
 </rss>

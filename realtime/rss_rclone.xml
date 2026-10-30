@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</title>
+      <link>https://x.com/RmSg3_ta/status/2115746729978998800</link>
+      <description>マンマ・メッサーノ: rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</description>
+      <pubDate>Thu, 29 Oct 2026 10:05:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RmSg3_ta/status/2115746729978998800</guid>
+    </item>
+    <item>
       <title>【WAFログ速報】 136.87.14.12（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/cyh5k0Xv1H</title>
       <link>https://x.com/zerizerizeri_bl/status/2115078449320919446</link>
       <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 136.87.14.12（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/cyh5k0Xv1H</description>
@@ -276,13 +283,6 @@
       <description>ふぁらお加藤: rclone でlinuxサーバにDropboxのスナップショットとることにして、API制限も考えてゆっくりめ設定で同期したんだけど、12時間たっても全然終わってない。どのぐらい時間かかりそうか見積もりたくてもそのコマンドが全然かえってこなかったし、そりゃそうか。容量的には数十ギガしか使ってないんだけど</description>
       <pubDate>Wed, 07 Oct 2026 00:36:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PharaohKJ/status/2107631067163418625</guid>
-    </item>
-    <item>
-      <title>rclone でpcloudにアクセスできるように設定してあるのだけど、なんか今は繋がらない…昨日は繋がったのに コマンドでトークンを再認証しようとしてもブラウザに「Invalid 'client_id'.」って表示されてすすまない</title>
-      <link>https://x.com/ne9612/status/2107045950816678150</link>
-      <description>ねくろいちにー: rclone でpcloudにアクセスできるように設定してあるのだけど、なんか今は繋がらない…昨日は繋がったのに コマンドでトークンを再認証しようとしてもブラウザに「Invalid 'client_id'.」って表示されてすすまない</description>
-      <pubDate>Mon, 05 Oct 2026 09:51:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ne9612/status/2107045950816678150</guid>
     </item>
   </channel>
 </rss>
