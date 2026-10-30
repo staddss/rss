@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>CVE-2026-98432は自宅鯖で公開してるものは Cloudflare Tunnel で公開してるから影響なさそうで良かった</title>
+      <link>https://x.com/toshimaru0123/status/2116019195385385033</link>
+      <description>トシ丸: CVE-2026-98432は自宅鯖で公開してるものは Cloudflare Tunnel で公開してるから影響なさそうで良かった</description>
+      <pubDate>Fri, 30 Oct 2026 04:07:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/toshimaru0123/status/2116019195385385033</guid>
+    </item>
+    <item>
+      <title>CVE-2026-98432とかを見てしまうと、もうTCPをインターネットにさらすのは良くないなという気持ちになる。 Cloudflare Tunnel とか、WAFあるいはCDNなどのTCP終端させるようなものを経由させるとか、マネージドに乗っかってベンダー任せにするのが良いだろうなぁ</title>
+      <link>https://x.com/fukasawah/status/2115797475453980848</link>
+      <description>fukasawah: CVE-2026-98432とかを見てしまうと、もうTCPをインターネットにさらすのは良くないなという気持ちになる。 Cloudflare Tunnel とか、WAFあるいはCDNなどのTCP終端させるようなものを経由させるとか、マネージドに乗っかってベンダー任せにするのが良いだろうなぁ</description>
+      <pubDate>Thu, 29 Oct 2026 13:26:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fukasawah/status/2115797475453980848</guid>
+    </item>
+    <item>
       <title>htmlとcssを書く仕事、ほとんどやってない。 今日は「 Cloudflare Tunnel を使ってNext.js + Laravel Sanctum のローカル環境を外部にプレする」手順をまとめるお仕事をした。 証明書周りのエラーとかAI無かったら絶対解決出来なかったけど、なんとかなってしまう。</title>
       <link>https://x.com/resistance_gowy/status/2115755901902848090</link>
       <description>HTMLGO: htmlとcssを書く仕事、ほとんどやってない。 今日は「 Cloudflare Tunnel を使ってNext.js + Laravel Sanctum のローカル環境を外部にプレする」手順をまとめるお仕事をした。 証明書周りのエラーとかAI無かったら絶対解決出来なかったけど、なんとかなってしまう。</description>
@@ -262,20 +276,6 @@
       <description>美濃加茂まむ: Cloudflare Tunnel ＋Accessのパス正規化は、2026.10.0でも既定オフ。更新だけで終えず、パス別保護の構成を棚卸しし、検証環境で有効化とルーティングを確認するポイントを整理しました。 https://t.co/18NcSqI8Ww</description>
       <pubDate>Sat, 24 Oct 2026 01:05:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/superdoccimo/status/2113799112663449831</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel とaccessの組み合わせを試して、可能性を感じた。便利やなあ</title>
-      <link>https://x.com/kishima/status/2113618478183928302</link>
-      <description>kishima: cloudflare tunnel とaccessの組み合わせを試して、可能性を感じた。便利やなあ</description>
-      <pubDate>Fri, 23 Oct 2026 13:08:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kishima/status/2113618478183928302</guid>
-    </item>
-    <item>
-      <title>Maybe important to repost this now that everyone is getting hacked If you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP It doesn't matter you have SSH key login, this is about exploits and vulnerabilities https://t.co/23QOH9SBzP</title>
-      <link>https://x.com/levelsio/status/2113587042185576853</link>
-      <description>@levelsio: Maybe important to repost this now that everyone is getting hacked If you have a VPS, I recommend you to get if off the public internet and into a Tailscale network and Cloudflare Tunnel ASAP It doesn't matter you have SSH key login, this is about exploits and vulnerabilities https://t.co/23QOH9SBzP</description>
-      <pubDate>Fri, 23 Oct 2026 11:03:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2113587042185576853</guid>
     </item>
   </channel>
 </rss>
