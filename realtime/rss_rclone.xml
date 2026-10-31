@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Google Driveの大量整理、コネクタだと1件ごとに許可が必要でしんどかったけど、 rclone ＋cron同期にしたら一気に楽になった。しかもスクリプト実行だからトークン消費なし。道具は用途で使い分けるものだな📁</title>
+      <link>https://x.com/RmSg3_ta/status/2115973210399273144</link>
+      <description>マンマ・メッサーノ: Google Driveの大量整理、コネクタだと1件ごとに許可が必要でしんどかったけど、 rclone ＋cron同期にしたら一気に楽になった。しかもスクリプト実行だからトークン消費なし。道具は用途で使い分けるものだな📁</description>
+      <pubDate>Fri, 30 Oct 2026 01:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RmSg3_ta/status/2115973210399273144</guid>
+    </item>
+    <item>
       <title>rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</title>
       <link>https://x.com/RmSg3_ta/status/2115746729978998800</link>
       <description>マンマ・メッサーノ: rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</description>

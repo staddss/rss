@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</title>
+      <link>https://x.com/Hokko_sha/status/2116460886093402191</link>
+      <description>北光社: ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</description>
+      <pubDate>Sat, 31 Oct 2026 09:22:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2116460886093402191</guid>
+    </item>
+    <item>
+      <title>@ArmoredInfantry FreeTransitはEU圏のサーバーのみです。GRE(v4/v6どっちでも), SIT(v6のみ), Wireguard など色々あります。Route64も同様です。Route64は無償プランで2セッション持てるのでそこも良いですね。シンガポールリージョンは人気らしく空きがあるのを見たことないですね。空いてれば運がいいです。</title>
+      <link>https://x.com/shumaikun0716/status/2116424486090363189</link>
+      <description>shumaikun0716: @ArmoredInfantry FreeTransitはEU圏のサーバーのみです。GRE(v4/v6どっちでも), SIT(v6のみ), Wireguard など色々あります。Route64も同様です。Route64は無償プランで2セッション持てるのでそこも良いですね。シンガポールリージョンは人気らしく空きがあるのを見たことないですね。空いてれば運がいいです。</description>
+      <pubDate>Sat, 31 Oct 2026 06:58:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2116424486090363189</guid>
+    </item>
+    <item>
       <title>@AlotBLAHAJ @ec12edfae2cb221 wireguard 也行</title>
       <link>https://x.com/aunsuki132191/status/2116325167794458894</link>
       <description>aunsuki: @AlotBLAHAJ @ec12edfae2cb221 wireguard 也行</description>
@@ -24,6 +38,13 @@
       <description>黄昏￥: 3日前と今日、1週間で2回も「デバイスに問題があるため再起動します」が起きたのでWinDbg入れてminidumpを解析したら、3日前はntkrnlmp.exe、今日はNortonのnllwireguard.sysが原因だった(システムイベントログにも出てた) とりあえずNortonの設定でVPNオンの際 WireGuard を使わないよう変更して様子見</description>
       <pubDate>Fri, 30 Oct 2026 13:15:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/twilight_yen/status/2116157044336230563</guid>
+    </item>
+    <item>
+      <title>ヨーロッパと日本だと WireGuard でX程度なら遅延気にならないけど仕事は普通に辛い気がする https://t.co/4YITqhdXQo</title>
+      <link>https://x.com/InfoGather8/status/2116092428734361998</link>
+      <description>Info Gather: ヨーロッパと日本だと WireGuard でX程度なら遅延気にならないけど仕事は普通に辛い気がする https://t.co/4YITqhdXQo</description>
+      <pubDate>Fri, 30 Oct 2026 08:58:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/InfoGather8/status/2116092428734361998</guid>
     </item>
     <item>
       <title>AIエージェントをLinux VMごと利用できるMeta Museを使って、 WireGuard 越しに24時間IoTのデバイスの面倒を見てもらえないかな？という趣旨のブログです。 ご興味ある方はぜひ。 https://t.co/aRUFsoCSqI</title>
@@ -255,27 +276,6 @@
       <description>鯖虎: WireGuard 民ワイ、腕組みで見物（フラグ）</description>
       <pubDate>Mon, 26 Oct 2026 03:38:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Sabatora0843/status/2114562175801110537</guid>
-    </item>
-    <item>
-      <title>tailshaleの中身は wireguard なのだが</title>
-      <link>https://x.com/toohot_toeat/status/2114557233719853275</link>
-      <description>ねこじた: tailshaleの中身は wireguard なのだが</description>
-      <pubDate>Mon, 26 Oct 2026 03:18:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/toohot_toeat/status/2114557233719853275</guid>
-    </item>
-    <item>
-      <title>@nftjapannftsub @wakame29713 wireguard で自己管理しよう。</title>
-      <link>https://x.com/nanase_oikawa/status/2114556590103904648</link>
-      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: @nftjapannftsub @wakame29713 wireguard で自己管理しよう。</description>
-      <pubDate>Mon, 26 Oct 2026 03:15:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2114556590103904648</guid>
-    </item>
-    <item>
-      <title>VPNを「繋ぐ」操作、もう不要かもしれません。 WireGuard のオンデマンド接続なら、外出先でも家のサーバーがLANにいる時と同じ感覚で使えます。 設定のポイントを記事でまとめました👇 https://t.co/bemFUFNrcm # WireGuard #VPN #オンデマンド接続 #ホームサーバー</title>
-      <link>https://x.com/CL_toyama/status/2114544451473277385</link>
-      <description>クリエーションライン株式会社 富山事業所: VPNを「繋ぐ」操作、もう不要かもしれません。 WireGuard のオンデマンド接続なら、外出先でも家のサーバーがLANにいる時と同じ感覚で使えます。 設定のポイントを記事でまとめました👇 https://t.co/bemFUFNrcm # WireGuard #VPN #オンデマンド接続 #ホームサーバー</description>
-      <pubDate>Mon, 26 Oct 2026 02:27:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CL_toyama/status/2114544451473277385</guid>
     </item>
   </channel>
 </rss>

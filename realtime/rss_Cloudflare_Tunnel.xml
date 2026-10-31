@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>外出先から iOS アプリを実機で開発・確認する際のオススメ構成 ① 手元の Mac で Feature ブランチの API を起動 ② Cloudflare Tunnel で HTTPS 公開 ③ その URL につなぐアプリを TestFlight で配布 ④ iPhone で実機確認 API だけの変更なら再配布は必要ないです。ただiOS https://t.co/HyEaeG2yFe</title>
+      <link>https://x.com/suna_gaku/status/2116399816246972592</link>
+      <description>スナガク | Codexではじめるエージェンティックコーディング: 外出先から iOS アプリを実機で開発・確認する際のオススメ構成 ① 手元の Mac で Feature ブランチの API を起動 ② Cloudflare Tunnel で HTTPS 公開 ③ その URL につなぐアプリを TestFlight で配布 ④ iPhone で実機確認 API だけの変更なら再配布は必要ないです。ただiOS https://t.co/HyEaeG2yFe</description>
+      <pubDate>Sat, 31 Oct 2026 05:20:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/suna_gaku/status/2116399816246972592</guid>
+    </item>
+    <item>
       <title>各サーバーの前段にあるリバースプロキシをポートフォワーディングで外部公開する方式をやめて Cloudflare Tunnel 経由にしたの、今回の影響も緩和されてよかったと思う。 もうそういう時代ってことだよね。</title>
       <link>https://x.com/96sc_/status/2116041070060646806</link>
       <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: 各サーバーの前段にあるリバースプロキシをポートフォワーディングで外部公開する方式をやめて Cloudflare Tunnel 経由にしたの、今回の影響も緩和されてよかったと思う。 もうそういう時代ってことだよね。</description>
@@ -269,13 +276,6 @@
       <description>大田原正幸｜医療AI/SIガバナンス｜Cursorvers: 【保存版】 『VPSをネットから切り離せ：Tailscale + Cloudflare Tunnel で守る基本』 最近、VPS（自分で借りるクラウド上の小さなサーバー）が世界中でハックされる被害が増えているが、Pieter https://t.co/ZzGiaMkYOC https://t.co/vC1HRd4eBi</description>
       <pubDate>Sat, 24 Oct 2026 08:00:01 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cursorvers/status/2113903322750914713</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel ＋Accessのパス正規化は、2026.10.0でも既定オフ。更新だけで終えず、パス別保護の構成を棚卸しし、検証環境で有効化とルーティングを確認するポイントを整理しました。 https://t.co/18NcSqI8Ww</title>
-      <link>https://x.com/superdoccimo/status/2113799112663449831</link>
-      <description>美濃加茂まむ: Cloudflare Tunnel ＋Accessのパス正規化は、2026.10.0でも既定オフ。更新だけで終えず、パス別保護の構成を棚卸しし、検証環境で有効化とルーティングを確認するポイントを整理しました。 https://t.co/18NcSqI8Ww</description>
-      <pubDate>Sat, 24 Oct 2026 01:05:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/superdoccimo/status/2113799112663449831</guid>
     </item>
   </channel>
 </rss>
