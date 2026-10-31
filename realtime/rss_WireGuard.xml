@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>ヨーロッパと日本だと WireGuard でX程度なら遅延気にならないけど仕事は普通に辛い気がする https://t.co/4YITqhdXQo</title>
-      <link>https://x.com/InfoGather8/status/2116092428734361998</link>
-      <description>Info Gather: ヨーロッパと日本だと WireGuard でX程度なら遅延気にならないけど仕事は普通に辛い気がする https://t.co/4YITqhdXQo</description>
-      <pubDate>Fri, 30 Oct 2026 08:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/InfoGather8/status/2116092428734361998</guid>
+      <title>@AlotBLAHAJ @ec12edfae2cb221 wireguard 也行</title>
+      <link>https://x.com/aunsuki132191/status/2116325167794458894</link>
+      <description>aunsuki: @AlotBLAHAJ @ec12edfae2cb221 wireguard 也行</description>
+      <pubDate>Sat, 31 Oct 2026 00:23:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aunsuki132191/status/2116325167794458894</guid>
+    </item>
+    <item>
+      <title>Implementing WireGuard for Apache NuttX: A GSoC Journey into Secure, Hig... https://t.co/BUOJhsSau5 @YouTubeより 講演の動画公開されてた （境界性羞恥心で楽しもう！</title>
+      <link>https://x.com/fox_aki310ooooo/status/2116161420618564092</link>
+      <description>aki310: Implementing WireGuard for Apache NuttX: A GSoC Journey into Secure, Hig... https://t.co/BUOJhsSau5 @YouTubeより 講演の動画公開されてた （境界性羞恥心で楽しもう！</description>
+      <pubDate>Fri, 30 Oct 2026 13:32:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2116161420618564092</guid>
+    </item>
+    <item>
+      <title>3日前と今日、1週間で2回も「デバイスに問題があるため再起動します」が起きたのでWinDbg入れてminidumpを解析したら、3日前はntkrnlmp.exe、今日はNortonのnllwireguard.sysが原因だった(システムイベントログにも出てた) とりあえずNortonの設定でVPNオンの際 WireGuard を使わないよう変更して様子見</title>
+      <link>https://x.com/twilight_yen/status/2116157044336230563</link>
+      <description>黄昏￥: 3日前と今日、1週間で2回も「デバイスに問題があるため再起動します」が起きたのでWinDbg入れてminidumpを解析したら、3日前はntkrnlmp.exe、今日はNortonのnllwireguard.sysが原因だった(システムイベントログにも出てた) とりあえずNortonの設定でVPNオンの際 WireGuard を使わないよう変更して様子見</description>
+      <pubDate>Fri, 30 Oct 2026 13:15:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/twilight_yen/status/2116157044336230563</guid>
     </item>
     <item>
       <title>AIエージェントをLinux VMごと利用できるMeta Museを使って、 WireGuard 越しに24時間IoTのデバイスの面倒を見てもらえないかな？という趣旨のブログです。 ご興味ある方はぜひ。 https://t.co/aRUFsoCSqI</title>
@@ -262,20 +276,6 @@
       <description>クリエーションライン株式会社 富山事業所: VPNを「繋ぐ」操作、もう不要かもしれません。 WireGuard のオンデマンド接続なら、外出先でも家のサーバーがLANにいる時と同じ感覚で使えます。 設定のポイントを記事でまとめました👇 https://t.co/bemFUFNrcm # WireGuard #VPN #オンデマンド接続 #ホームサーバー</description>
       <pubDate>Mon, 26 Oct 2026 02:27:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CL_toyama/status/2114544451473277385</guid>
-    </item>
-    <item>
-      <title>VPNを「繋ぐ」操作、もう不要かもしれません。 WireGuard のオンデマンド接続なら、外出先でも家のサーバーがLANにいる時と同じ感覚で使えます。 設定のポイントを記事でまとめました👇 https://t.co/cbWqxhiIXW # WireGuard #VPN #オンデマンド接続 #ホームサーバー</title>
-      <link>https://x.com/creationline/status/2114544451464864154</link>
-      <description>クリエーションライン株式会社【公式】: VPNを「繋ぐ」操作、もう不要かもしれません。 WireGuard のオンデマンド接続なら、外出先でも家のサーバーがLANにいる時と同じ感覚で使えます。 設定のポイントを記事でまとめました👇 https://t.co/cbWqxhiIXW # WireGuard #VPN #オンデマンド接続 #ホームサーバー</description>
-      <pubDate>Mon, 26 Oct 2026 02:27:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/creationline/status/2114544451464864154</guid>
-    </item>
-    <item>
-      <title>(3A) リモートKVM 遠隔操作用の道具なので、手早いのが利点。ただしWoL（遠隔起動）とTaliscale（遠隔通信）に対応した製品を選ぶこと。Taliscale の代わりに WireGuard だと、自宅接続の設定が増えるので非推奨。 操作の使い心地や画面の反応はソフトベースに一歩劣る。</title>
-      <link>https://x.com/yunzojm_open/status/2114537973266198572</link>
-      <description>ゆんぞ/Yunzo: (3A) リモートKVM 遠隔操作用の道具なので、手早いのが利点。ただしWoL（遠隔起動）とTaliscale（遠隔通信）に対応した製品を選ぶこと。Taliscale の代わりに WireGuard だと、自宅接続の設定が増えるので非推奨。 操作の使い心地や画面の反応はソフトベースに一歩劣る。</description>
-      <pubDate>Mon, 26 Oct 2026 02:01:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2114537973266198572</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>各サーバーの前段にあるリバースプロキシをポートフォワーディングで外部公開する方式をやめて Cloudflare Tunnel 経由にしたの、今回の影響も緩和されてよかったと思う。 もうそういう時代ってことだよね。</title>
+      <link>https://x.com/96sc_/status/2116041070060646806</link>
+      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: 各サーバーの前段にあるリバースプロキシをポートフォワーディングで外部公開する方式をやめて Cloudflare Tunnel 経由にしたの、今回の影響も緩和されてよかったと思う。 もうそういう時代ってことだよね。</description>
+      <pubDate>Fri, 30 Oct 2026 05:34:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96sc_/status/2116041070060646806</guid>
+    </item>
+    <item>
       <title>CVE-2026-98432は自宅鯖で公開してるものは Cloudflare Tunnel で公開してるから影響なさそうで良かった</title>
       <link>https://x.com/toshimaru0123/status/2116019195385385033</link>
       <description>トシ丸: CVE-2026-98432は自宅鯖で公開してるものは Cloudflare Tunnel で公開してるから影響なさそうで良かった</description>
@@ -213,13 +220,6 @@
       <description>ぱさいも: AWS SSMとか Cloudflare Tunnel みたいな高度なもん求めるなら金払うか自分で使えって話よ</description>
       <pubDate>Sun, 25 Oct 2026 17:37:50 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dryoimo/status/2114411122493374759</guid>
-    </item>
-    <item>
-      <title>SSMより、 Cloudflare Tunnel ＋Accessの方が無難か。</title>
-      <link>https://x.com/tatsu_btc/status/2114394979238076557</link>
-      <description>tatsu.btc: SSMより、 Cloudflare Tunnel ＋Accessの方が無難か。</description>
-      <pubDate>Sun, 25 Oct 2026 16:33:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tatsu_btc/status/2114394979238076557</guid>
     </item>
     <item>
       <title>@doerai_dog Cloudflare Tunnel はポート開放せずに公開できるし、Accessと組み合わせればゼロトラストで認証もかけられるので、むしろ安全なイメージでした…！ Cloudflare自体への依存が怖いって感じですかね？</title>
