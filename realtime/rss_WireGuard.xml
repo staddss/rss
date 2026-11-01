@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>素の wireguard はNAT越えなどのP2P機能がないのでインターネットリーチャブルなホストをHUBにせざるを得ず、全通信がHUBを経由になるので効率は良くないし、ACLもなく、HUBが陥落したら世界が終わる。tailscaleをdisりつつ安易に代替に使えるソリューションではないような</title>
+      <link>https://x.com/nu774_/status/2116740133856870722</link>
+      <description>nu774: 素の wireguard はNAT越えなどのP2P機能がないのでインターネットリーチャブルなホストをHUBにせざるを得ず、全通信がHUBを経由になるので効率は良くないし、ACLもなく、HUBが陥落したら世界が終わる。tailscaleをdisりつつ安易に代替に使えるソリューションではないような</description>
+      <pubDate>Sun, 01 Nov 2026 03:52:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nu774_/status/2116740133856870722</guid>
+    </item>
+    <item>
       <title>Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</title>
       <link>https://x.com/Knit_OS/status/2116482400645755323</link>
       <description>ニット: Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</description>
       <pubDate>Sat, 31 Oct 2026 10:48:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Knit_OS/status/2116482400645755323</guid>
+    </item>
+    <item>
+      <title>暫定的にIPv6アドレスで WireGuard 設定してみて、本格的に使えそうならCloudflareの無料アカウント作って手持ちのドメインに紐づけたらいい、とチャッピーに言われて数ヶ月。 IPv6アドレスが何度再起動しても変わらないのでそのままになってる。 IPv6アドレスってそういうものなのか？</title>
+      <link>https://x.com/Hokko_sha/status/2116461836975616246</link>
+      <description>北光社: 暫定的にIPv6アドレスで WireGuard 設定してみて、本格的に使えそうならCloudflareの無料アカウント作って手持ちのドメインに紐づけたらいい、とチャッピーに言われて数ヶ月。 IPv6アドレスが何度再起動しても変わらないのでそのままになってる。 IPv6アドレスってそういうものなのか？</description>
+      <pubDate>Sat, 31 Oct 2026 09:26:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2116461836975616246</guid>
     </item>
     <item>
       <title>ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</title>
@@ -262,20 +276,6 @@
       <description>ゆんぞ/Yunzo: と思ったら、Taliscale もきな臭くなってるようで。 DDNS+ WireGuard の設定が可能なら、自分で組み合わせた方がエエんかな。 https://t.co/sBuo3e9gYE</description>
       <pubDate>Mon, 26 Oct 2026 07:05:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yunzojm_open/status/2114614485940060175</guid>
-    </item>
-    <item>
-      <title>@nftjapannftsub 会計ソフト専用マシンとか、写真編集専用マシンとかです。リモートデスクトップはWin11とかだとProが必要です。VPNは中華は絶対に避けましょう。YamahaかOPNSense(PC用フリーウェア)。ソフトは WireGuard , OpenVPNの順におすすめ。DDNS用にネームサーバーはCloudFlareがおすすめです。</title>
-      <link>https://x.com/SuzukaBike/status/2114589560680358135</link>
-      <description>2拠点(🇯🇵⇄🇺🇸)ライダー｜GROM・YZ250・EC250: @nftjapannftsub 会計ソフト専用マシンとか、写真編集専用マシンとかです。リモートデスクトップはWin11とかだとProが必要です。VPNは中華は絶対に避けましょう。YamahaかOPNSense(PC用フリーウェア)。ソフトは WireGuard , OpenVPNの順におすすめ。DDNS用にネームサーバーはCloudFlareがおすすめです。</description>
-      <pubDate>Mon, 26 Oct 2026 05:26:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SuzukaBike/status/2114589560680358135</guid>
-    </item>
-    <item>
-      <title>接続に関しては ・Taliscale ・ WireGuard ＋常時起動サーバでDDNS あたりがよさげ。 Taliscaleは WireGuard にDDNSや自動設定の皮をかぶせたもの。 WireGuard はとにかくコードが小さいので、バグの入る余地が少なめ。もちろん、裏で使ってるアレコレの更新は必須ね。</title>
-      <link>https://x.com/yunzojm_open/status/2114565883469414855</link>
-      <description>ゆんぞ/Yunzo: 接続に関しては ・Taliscale ・ WireGuard ＋常時起動サーバでDDNS あたりがよさげ。 Taliscaleは WireGuard にDDNSや自動設定の皮をかぶせたもの。 WireGuard はとにかくコードが小さいので、バグの入る余地が少なめ。もちろん、裏で使ってるアレコレの更新は必須ね。</description>
-      <pubDate>Mon, 26 Oct 2026 03:52:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2114565883469414855</guid>
     </item>
   </channel>
 </rss>
