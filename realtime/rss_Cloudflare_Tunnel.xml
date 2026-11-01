@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>外出先から iOS アプリを実機で開発・確認する際のオススメ構成 ① 手元の Mac で Feature ブランチの API を起動 ② Cloudflare Tunnel で HTTPS 公開 ③ その URL につなぐアプリを TestFlight で配布 ④ iPhone で実機確認 API だけの変更なら再配布は必要ないです。ただiOS https://t.co/HyEaeG2yFe</title>
-      <link>https://x.com/suna_gaku/status/2116399816246972592</link>
-      <description>スナガク | Codexではじめるエージェンティックコーディング: 外出先から iOS アプリを実機で開発・確認する際のオススメ構成 ① 手元の Mac で Feature ブランチの API を起動 ② Cloudflare Tunnel で HTTPS 公開 ③ その URL につなぐアプリを TestFlight で配布 ④ iPhone で実機確認 API だけの変更なら再配布は必要ないです。ただiOS https://t.co/HyEaeG2yFe</description>
-      <pubDate>Sat, 31 Oct 2026 05:20:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/suna_gaku/status/2116399816246972592</guid>
+      <title>自宅回線がCGNATじゃなくて本当に良かったです ポート開けないですし Cloudflare Tunnel で運用しているのでどうでもいいですけど、BANの巻き添えは食らいたくないですからね</title>
+      <link>https://x.com/moon_coffee_de/status/2116189961850622330</link>
+      <description>むーんこーひー: 自宅回線がCGNATじゃなくて本当に良かったです ポート開けないですし Cloudflare Tunnel で運用しているのでどうでもいいですけど、BANの巻き添えは食らいたくないですからね</description>
+      <pubDate>Fri, 30 Oct 2026 15:26:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moon_coffee_de/status/2116189961850622330</guid>
     </item>
     <item>
       <title>各サーバーの前段にあるリバースプロキシをポートフォワーディングで外部公開する方式をやめて Cloudflare Tunnel 経由にしたの、今回の影響も緩和されてよかったと思う。 もうそういう時代ってことだよね。</title>

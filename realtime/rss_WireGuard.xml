@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</title>
+      <link>https://x.com/Knit_OS/status/2116482400645755323</link>
+      <description>ニット: Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</description>
+      <pubDate>Sat, 31 Oct 2026 10:48:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Knit_OS/status/2116482400645755323</guid>
+    </item>
+    <item>
       <title>ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</title>
       <link>https://x.com/Hokko_sha/status/2116460886093402191</link>
       <description>北光社: ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</description>
@@ -269,13 +276,6 @@
       <description>ゆんぞ/Yunzo: 接続に関しては ・Taliscale ・ WireGuard ＋常時起動サーバでDDNS あたりがよさげ。 Taliscaleは WireGuard にDDNSや自動設定の皮をかぶせたもの。 WireGuard はとにかくコードが小さいので、バグの入る余地が少なめ。もちろん、裏で使ってるアレコレの更新は必須ね。</description>
       <pubDate>Mon, 26 Oct 2026 03:52:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yunzojm_open/status/2114565883469414855</guid>
-    </item>
-    <item>
-      <title>WireGuard 民ワイ、腕組みで見物（フラグ）</title>
-      <link>https://x.com/Sabatora0843/status/2114562175801110537</link>
-      <description>鯖虎: WireGuard 民ワイ、腕組みで見物（フラグ）</description>
-      <pubDate>Mon, 26 Oct 2026 03:38:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Sabatora0843/status/2114562175801110537</guid>
     </item>
   </channel>
 </rss>
