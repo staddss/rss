@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</title>
+      <link>https://x.com/kuninori/status/2117067525607633378</link>
+      <description>kuninori: ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</description>
+      <pubDate>Mon, 02 Nov 2026 01:33:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kuninori/status/2117067525607633378</guid>
+    </item>
+    <item>
       <title>@j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</title>
       <link>https://x.com/JayQinQT/status/2117028706870784066</link>
       <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
       <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
+    </item>
+    <item>
+      <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
+      <link>https://x.com/5yuim/status/2116860193086845095</link>
+      <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
+      <pubDate>Sun, 01 Nov 2026 11:49:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/5yuim/status/2116860193086845095</guid>
     </item>
     <item>
       <title>Grok BotにOrcaのオーケストレーションで作ったチームまるごと渡して開発してもらうか。 DGX SparkクラスタはLAN内なのでどうするか。 SoftEther経由もしくは Cloudflare Tunnel 経由とかでいいか。そうすれば、Grok BotがDGX Sparkクラスタをぶん回してくれて、ちょうど良い感じに暖が取れるぞ…</title>
@@ -262,20 +276,6 @@
       <description>なりかくん☄️: @doerai_dog Cloudflare Tunnel はポート開放せずに公開できるし、Accessと組み合わせればゼロトラストで認証もかけられるので、むしろ安全なイメージでした…！ Cloudflare自体への依存が怖いって感じですかね？</description>
       <pubDate>Sun, 25 Oct 2026 03:11:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/narikakun/status/2114192991602839755</guid>
-    </item>
-    <item>
-      <title>TCP/IPでlistenしたら負け。と考えると、 Cloudflare Tunnel 的なのを適用したら攻撃はやりにくくなるのか？を夢想しだした。 https://t.co/rNzPPofW93</title>
-      <link>https://x.com/moguno/status/2114184041176224171</link>
-      <description>もぐの: TCP/IPでlistenしたら負け。と考えると、 Cloudflare Tunnel 的なのを適用したら攻撃はやりにくくなるのか？を夢想しだした。 https://t.co/rNzPPofW93</description>
-      <pubDate>Sun, 25 Oct 2026 02:35:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moguno/status/2114184041176224171</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel を開始するためにドメイン登録して証明書が生成されたら、早速CTログからアクセスが始まる。 とはいえ全部サブドメイン運用なので ドメインへのアクセスはどうでもいい。 接続元は世界各地とTorだったりした。 https://t.co/VFjUNz1tvn</title>
-      <link>https://x.com/96sc_/status/2114163870659129477</link>
-      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: Cloudflare Tunnel を開始するためにドメイン登録して証明書が生成されたら、早速CTログからアクセスが始まる。 とはいえ全部サブドメイン運用なので ドメインへのアクセスはどうでもいい。 接続元は世界各地とTorだったりした。 https://t.co/VFjUNz1tvn</description>
-      <pubDate>Sun, 25 Oct 2026 01:15:20 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/96sc_/status/2114163870659129477</guid>
     </item>
   </channel>
 </rss>

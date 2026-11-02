@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '&quot;NextDNS&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>UniFiのUCGの設定で、「Encrypted DNS」に NextDNS の設定を入れた。</title>
+      <link>https://x.com/river24/status/2117195108798144636</link>
+      <description>river24: UniFiのUCGの設定で、「Encrypted DNS」に NextDNS の設定を入れた。</description>
+      <pubDate>Mon, 02 Nov 2026 10:00:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/river24/status/2117195108798144636</guid>
+    </item>
+    <item>
+      <title>HageZi系のフィルタを NextDNS 等で使っている場合は再生できないことがあるので注意してください。</title>
+      <link>https://x.com/Kdroidwin1/status/2117169303233659022</link>
+      <description>Kdroidwin: HageZi系のフィルタを NextDNS 等で使っている場合は再生できないことがあるので注意してください。</description>
+      <pubDate>Mon, 02 Nov 2026 08:17:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kdroidwin1/status/2117169303233659022</guid>
+    </item>
+    <item>
       <title>家のネットワークの設定見直しの一環で、 NextDNS を使い始めてみた。プロバイダのDNSじゃないと不都合が出るのか、そのあたりもわかってないので、しばし様子見。 / NextDNS https://t.co/JGeEyw6Y3Q</title>
       <link>https://x.com/river24/status/2116663096878285154</link>
       <description>river24: 家のネットワークの設定見直しの一環で、 NextDNS を使い始めてみた。プロバイダのDNSじゃないと不都合が出るのか、そのあたりもわかってないので、しばし様子見。 / NextDNS https://t.co/JGeEyw6Y3Q</description>
@@ -262,27 +276,6 @@
       <description>AppGrove - アプリの並木: 3. セキュリティ機能付きDNS AdGuard DNSやQuad9、 NextDNS 、Cloudflare DNSなど、悪質なサイトへの通信をブロックするDNSが存在します。これらを採用することでさらに防御層を増やせます。 私はQuad9を採用しています。 ECSが有効なものを使っています。 https://t.co/FsF9mPselw</description>
       <pubDate>Sat, 17 Oct 2026 17:54:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/app_grove/status/2111516230050099263</guid>
-    </item>
-    <item>
-      <title>NextDNS で爆サイブロックしたわ、あんなサイト見てたら人としてダメになる。</title>
-      <link>https://x.com/4mwbfx/status/2111389941892780347</link>
-      <description>ねむりもち: NextDNS で爆サイブロックしたわ、あんなサイト見てたら人としてダメになる。</description>
-      <pubDate>Sat, 17 Oct 2026 09:32:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/4mwbfx/status/2111389941892780347</guid>
-    </item>
-    <item>
-      <title>デフォルトで有効になってたっぽい NextDNS 有能 https://t.co/tRKtD23Sa8</title>
-      <link>https://x.com/MiyacoZero/status/2110977343288422408</link>
-      <description>みやこ: デフォルトで有効になってたっぽい NextDNS 有能 https://t.co/tRKtD23Sa8</description>
-      <pubDate>Fri, 16 Oct 2026 06:13:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MiyacoZero/status/2110977343288422408</guid>
-    </item>
-    <item>
-      <title>いやなんかちゃんとした設定あるじゃんやるじゃん NextDNS https://t.co/psd0VB1gG9</title>
-      <link>https://x.com/MiyacoZero/status/2110976963007676649</link>
-      <description>みやこ: いやなんかちゃんとした設定あるじゃんやるじゃん NextDNS https://t.co/psd0VB1gG9</description>
-      <pubDate>Fri, 16 Oct 2026 06:11:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MiyacoZero/status/2110976963007676649</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</title>
+      <link>https://x.com/HatchSystem/status/2116750316712730770</link>
+      <description>Hatch: Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</description>
+      <pubDate>Sun, 01 Nov 2026 04:32:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/HatchSystem/status/2116750316712730770</guid>
+    </item>
+    <item>
       <title>Google Driveの大量整理、コネクタだと1件ごとに許可が必要でしんどかったけど、 rclone ＋cron同期にしたら一気に楽になった。しかもスクリプト実行だからトークン消費なし。道具は用途で使い分けるものだな📁</title>
       <link>https://x.com/RmSg3_ta/status/2115973210399273144</link>
       <description>マンマ・メッサーノ: Google Driveの大量整理、コネクタだと1件ごとに許可が必要でしんどかったけど、 rclone ＋cron同期にしたら一気に楽になった。しかもスクリプト実行だからトークン消費なし。道具は用途で使い分けるものだな📁</description>
@@ -269,13 +276,6 @@
       <description>こうやん＠PM 小型船舶免許1級受かったよ〜ん＼(^o^)／: @niku_it_cto rclone とかrsyncつかってあちこちにバラしておかないと・・・</description>
       <pubDate>Fri, 09 Oct 2026 01:26:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kou_yan/status/2108368442168689068</guid>
-    </item>
-    <item>
-      <title>クラウド事業者に盗まれたり見られたり漏洩したりしてもいいように、自前の暗号化を併用する時代になったんでしょう。 rclone か何かで。 性悪説。</title>
-      <link>https://x.com/CipherLilium/status/2107958847528972375</link>
-      <description>リリア: クラウド事業者に盗まれたり見られたり漏洩したりしてもいいように、自前の暗号化を併用する時代になったんでしょう。 rclone か何かで。 性悪説。</description>
-      <pubDate>Wed, 07 Oct 2026 22:18:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CipherLilium/status/2107958847528972375</guid>
     </item>
   </channel>
 </rss>
