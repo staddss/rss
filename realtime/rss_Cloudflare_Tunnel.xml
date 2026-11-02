@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</title>
+      <link>https://x.com/JayQinQT/status/2117028706870784066</link>
+      <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
+      <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
+    </item>
+    <item>
+      <title>Grok BotにOrcaのオーケストレーションで作ったチームまるごと渡して開発してもらうか。 DGX SparkクラスタはLAN内なのでどうするか。 SoftEther経由もしくは Cloudflare Tunnel 経由とかでいいか。そうすれば、Grok BotがDGX Sparkクラスタをぶん回してくれて、ちょうど良い感じに暖が取れるぞ…</title>
+      <link>https://x.com/j5ik2o/status/2116811470533202156</link>
+      <description>加藤潤一(かとじゅん)@DGX Spark x4: Grok BotにOrcaのオーケストレーションで作ったチームまるごと渡して開発してもらうか。 DGX SparkクラスタはLAN内なのでどうするか。 SoftEther経由もしくは Cloudflare Tunnel 経由とかでいいか。そうすれば、Grok BotがDGX Sparkクラスタをぶん回してくれて、ちょうど良い感じに暖が取れるぞ…</description>
+      <pubDate>Sun, 01 Nov 2026 08:35:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/j5ik2o/status/2116811470533202156</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel とても便利そうだしこんなもの無料で使っていいんですかってなってる 早くNAS導入しないとな</title>
       <link>https://x.com/902qe3fr4ghnp7/status/2116739344291790998</link>
       <description>パセリ: Cloudflare Tunnel とても便利そうだしこんなもの無料で使っていいんですかってなってる 早くNAS導入しないとな</description>
@@ -262,20 +276,6 @@
       <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: Cloudflare Tunnel を開始するためにドメイン登録して証明書が生成されたら、早速CTログからアクセスが始まる。 とはいえ全部サブドメイン運用なので ドメインへのアクセスはどうでもいい。 接続元は世界各地とTorだったりした。 https://t.co/VFjUNz1tvn</description>
       <pubDate>Sun, 25 Oct 2026 01:15:20 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/96sc_/status/2114163870659129477</guid>
-    </item>
-    <item>
-      <title>一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは</title>
-      <link>https://x.com/hantabaru1014/status/2114047267565101239</link>
-      <description>ばる: 一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは</description>
-      <pubDate>Sat, 24 Oct 2026 17:32:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hantabaru1014/status/2114047267565101239</guid>
-    </item>
-    <item>
-      <title>昨日の個人開発売上 RevenueCat：7,000円 PayPal：8,000円 Admob：約627円 Adsense：約167円 合計：15,794円 今日はRubyとかRailsとかDokkuとかアップデートして、VPSをネットに公開せず Cloudflare Tunnel を通してのみアクセス可能にするなどした。</title>
-      <link>https://x.com/kikFORjp/status/2113946215981473991</link>
-      <description>Kengo.K: 昨日の個人開発売上 RevenueCat：7,000円 PayPal：8,000円 Admob：約627円 Adsense：約167円 合計：15,794円 今日はRubyとかRailsとかDokkuとかアップデートして、VPSをネットに公開せず Cloudflare Tunnel を通してのみアクセス可能にするなどした。</description>
-      <pubDate>Sat, 24 Oct 2026 10:50:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kikFORjp/status/2113946215981473991</guid>
     </item>
   </channel>
 </rss>

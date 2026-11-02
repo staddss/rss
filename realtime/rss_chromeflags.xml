@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>メモ ChromeがセッションをTPMチップで守る、Firefoxは拒否 https://t.co/1XNW4kFUI7 ChromeでTPMを使うDBSC（Device Bound Session Credentials）の解説。 DBSCが有効かは下記で確認できる。 chrome :// flags / を開き、 enable-bound-session-credentials-software-keys-for-manual-testing</title>
+      <link>https://x.com/KuniSuzaki/status/2116718793124720654</link>
+      <description>suzaki: メモ ChromeがセッションをTPMチップで守る、Firefoxは拒否 https://t.co/1XNW4kFUI7 ChromeでTPMを使うDBSC（Device Bound Session Credentials）の解説。 DBSCが有効かは下記で確認できる。 chrome :// flags / を開き、 enable-bound-session-credentials-software-keys-for-manual-testing</description>
+      <pubDate>Sun, 01 Nov 2026 02:27:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KuniSuzaki/status/2116718793124720654</guid>
+    </item>
+    <item>
       <title>Chromeの新しいウィンドウの検索バーの下にAIどうこうってのが勝手に出て視覚的にうざかったので消してみた。 1.アドレスバーに chrome :// flags と入力して移動 2.画面上の検索バーに NTP と入力 3.NTP Composeboxという項目のDefaultをDisabledに変更して、画面右下の 再起動 を押す https://t.co/EfNoZ3MAo2</title>
       <link>https://x.com/metal/status/2116670301786501627</link>
       <description>めたなんとかさん: Chromeの新しいウィンドウの検索バーの下にAIどうこうってのが勝手に出て視覚的にうざかったので消してみた。 1.アドレスバーに chrome :// flags と入力して移動 2.画面上の検索バーに NTP と入力 3.NTP Composeboxという項目のDefaultをDisabledに変更して、画面右下の 再起動 を押す https://t.co/EfNoZ3MAo2</description>
@@ -269,13 +276,6 @@
       <description>えーかー: @S_Love_X これで消えるはず 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される</description>
       <pubDate>Wed, 07 Oct 2026 10:26:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ACRESAN/status/2107779610628989258</guid>
-    </item>
-    <item>
-      <title>Steam FrameでGoogle Chromeを + から起動するとプロファイル読めないのは echo &quot;--password-store=kwallet6&quot; &gt;&gt; ~/.var/app/com.google.Chrome/config/ chrome - flags .conf でいい感じになった</title>
-      <link>https://x.com/mewl_me/status/2107051888852222351</link>
-      <description>m-hayabusa: Steam FrameでGoogle Chromeを + から起動するとプロファイル読めないのは echo &quot;--password-store=kwallet6&quot; &gt;&gt; ~/.var/app/com.google.Chrome/config/ chrome - flags .conf でいい感じになった</description>
-      <pubDate>Mon, 05 Oct 2026 10:14:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mewl_me/status/2107051888852222351</guid>
     </item>
   </channel>
 </rss>
