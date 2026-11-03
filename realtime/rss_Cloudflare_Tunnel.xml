@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel とかいう、ローカルで動作するプロセスのポートをインターネットの公開ドメインに繋ぎこむ、ZScalerのPublisher的な便利機能があることを知って歓喜。放置したら怖いけど、ちょっと試すにはいいな。 https://t.co/mcatB8kgoS</title>
+      <link>https://x.com/kthrtty/status/2117198088544883004</link>
+      <description>Katsu Tatsu: Cloudflare Tunnel とかいう、ローカルで動作するプロセスのポートをインターネットの公開ドメインに繋ぎこむ、ZScalerのPublisher的な便利機能があることを知って歓喜。放置したら怖いけど、ちょっと試すにはいいな。 https://t.co/mcatB8kgoS</description>
+      <pubDate>Mon, 02 Nov 2026 10:12:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kthrtty/status/2117198088544883004</guid>
+    </item>
+    <item>
       <title>ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</title>
       <link>https://x.com/kuninori/status/2117067525607633378</link>
       <description>kuninori: ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</description>
@@ -17,6 +24,13 @@
       <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
       <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
+    </item>
+    <item>
+      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
+      <link>https://x.com/levelsio/status/2116949634111115348</link>
+      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
+      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
     </item>
     <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
@@ -262,20 +276,6 @@
       <description>ぬこぬこ / NUKO 🇯🇵: dots みたいな AI エージェントって Google の SSO を使いがちなので、Google ログインしていたサービスはほとんどアカウント削除した Tailscale は使わず、使っていたものはすべて Cloudflare Tunnel 経由にした https://t.co/ggJnlG669M</description>
       <pubDate>Mon, 26 Oct 2026 00:41:47 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nukonuko/status/2114517813465669725</guid>
-    </item>
-    <item>
-      <title>AWS SSMとか Cloudflare Tunnel みたいな高度なもん求めるなら金払うか自分で使えって話よ</title>
-      <link>https://x.com/dryoimo/status/2114411122493374759</link>
-      <description>ぱさいも: AWS SSMとか Cloudflare Tunnel みたいな高度なもん求めるなら金払うか自分で使えって話よ</description>
-      <pubDate>Sun, 25 Oct 2026 17:37:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dryoimo/status/2114411122493374759</guid>
-    </item>
-    <item>
-      <title>@doerai_dog Cloudflare Tunnel はポート開放せずに公開できるし、Accessと組み合わせればゼロトラストで認証もかけられるので、むしろ安全なイメージでした…！ Cloudflare自体への依存が怖いって感じですかね？</title>
-      <link>https://x.com/narikakun/status/2114192991602839755</link>
-      <description>なりかくん☄️: @doerai_dog Cloudflare Tunnel はポート開放せずに公開できるし、Accessと組み合わせればゼロトラストで認証もかけられるので、むしろ安全なイメージでした…！ Cloudflare自体への依存が怖いって感じですかね？</description>
-      <pubDate>Sun, 25 Oct 2026 03:11:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/narikakun/status/2114192991602839755</guid>
     </item>
   </channel>
 </rss>

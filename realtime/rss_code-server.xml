@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>☁️Nextcloudの文書編集アプリでRCE脆弱性が悪用、外部公開インフラを分析 Nextcloudの「Collabora Online - Built-in CODE Server 」アプリで、リモートコード実行（RCE）脆弱性CVE-2026-110447が公開されました。 https://t.co/pzNvetW2I9</title>
+      <link>https://x.com/CriminalIP_JP/status/2117164824224297368</link>
+      <description>Criminal IP Japan: ☁️Nextcloudの文書編集アプリでRCE脆弱性が悪用、外部公開インフラを分析 Nextcloudの「Collabora Online - Built-in CODE Server 」アプリで、リモートコード実行（RCE）脆弱性CVE-2026-110447が公開されました。 https://t.co/pzNvetW2I9</description>
+      <pubDate>Mon, 02 Nov 2026 08:00:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CriminalIP_JP/status/2117164824224297368</guid>
+    </item>
+    <item>
       <title>米CISA、NextcloudのCollabora「Built-in- CODE - Server 」の認証不要OSコマンド実行脆弱性を悪用確認カタログに追加｜米CISAは10月23日、Nextcloudで文書編集サーバーを組み込むためのCollabora-Online「Built-in- CODE - Server 」のOSコマンドインジェクション脆弱性CVE-2026-110447を、悪用が確認された脆</title>
       <link>https://x.com/MalwareBibleJP/status/2114606964106006860</link>
       <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: 米CISA、NextcloudのCollabora「Built-in- CODE - Server 」の認証不要OSコマンド実行脆弱性を悪用確認カタログに追加｜米CISAは10月23日、Nextcloudで文書編集サーバーを組み込むためのCollabora-Online「Built-in- CODE - Server 」のOSコマンドインジェクション脆弱性CVE-2026-110447を、悪用が確認された脆</description>
@@ -122,13 +129,6 @@
       <description>ceo: Code - server コピペに難あり https://t.co/Re2ZGmaR98</description>
       <pubDate>Sun, 04 Oct 2026 16:10:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ceo_concourse/status/2106778887908921548</guid>
-    </item>
-    <item>
-      <title>code - server ずっと立ち上げっぱなしだけど</title>
-      <link>https://x.com/mcoods_/status/2106602580944236877</link>
-      <description>よげん: code - server ずっと立ち上げっぱなしだけど</description>
-      <pubDate>Sun, 04 Oct 2026 04:29:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mcoods_/status/2106602580944236877</guid>
     </item>
     <item>
       <title>#KiroUniversity の最終課題として、AWS Lambda MicroVMs で code - server を動かすアプリを作りました！ ハンズオン環境に使えるかなと思ってます！ https://t.co/42jIoekIBO</title>
