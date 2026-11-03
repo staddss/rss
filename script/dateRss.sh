@@ -4,6 +4,7 @@ OUTPUT_FILE="date.xml"
 MAX_ITEMS=10
 
 GUID=$(date "+%y%m%d%H%M%S")
+PUB_DATE=$(date -R)
 TODAY_DATE=$(date "+%Y/%m/%d")
 TODAY_WEEK=$(date "+%a")
 LIMIT_DATE=$(date -d "+29 days" "+%Y/%m/%d")
@@ -38,7 +39,7 @@ fi
       <title>${ITEM_TITLE}</title>
       <link>https://www.google.co.jp/search?q=${GUID}</link>
       <description></description>
-      <pubDate></pubDate>
+      <pubDate>${PUB_DATE}</pubDate>
       <guid>${GUID}</guid>
     </item>
 

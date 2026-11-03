@@ -4,6 +4,7 @@ OUTPUT_FILE="hour.xml"
 MAX_ITEMS=10
 
 GUID=$(date "+%y%m%d%H%M%S")
+PUB_DATE=$(date -R)
 CURRENT_HOUR=$(date "+%H")
 ITEM_TITLE="▼ ${CURRENT_HOUR}"
 
@@ -35,7 +36,7 @@ fi
       <title>${ITEM_TITLE}</title>
       <link>https://www.google.co.jp/search?q=${GUID}</link>
       <description></description>
-      <pubDate></pubDate>
+      <pubDate>${PUB_DATE}</pubDate>
       <guid>${GUID}</guid>
     </item>
 
