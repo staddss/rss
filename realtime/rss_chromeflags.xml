@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@umiyuki_ai 私もあんまわかってません。𝓼𝓸𝓻𝓻𝔂 DBSCオフはできるっちゃできるんですけど、DBSCを使わない方法ってたしか対応してないFirefox系かSafariを使うか、 chrome :// flags /内の無効化スイッチを使うかのどちらかだった気がするんですよね。</title>
+      <link>https://x.com/eitaar0/status/2117051971345473892</link>
+      <description>eitaar: @umiyuki_ai 私もあんまわかってません。𝓼𝓸𝓻𝓻𝔂 DBSCオフはできるっちゃできるんですけど、DBSCを使わない方法ってたしか対応してないFirefox系かSafariを使うか、 chrome :// flags /内の無効化スイッチを使うかのどちらかだった気がするんですよね。</description>
+      <pubDate>Mon, 02 Nov 2026 00:31:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/eitaar0/status/2117051971345473892</guid>
+    </item>
+    <item>
       <title>メモ ChromeがセッションをTPMチップで守る、Firefoxは拒否 https://t.co/1XNW4kFUI7 ChromeでTPMを使うDBSC（Device Bound Session Credentials）の解説。 DBSCが有効かは下記で確認できる。 chrome :// flags / を開き、 enable-bound-session-credentials-software-keys-for-manual-testing</title>
       <link>https://x.com/KuniSuzaki/status/2116718793124720654</link>
       <description>suzaki: メモ ChromeがセッションをTPMチップで守る、Firefoxは拒否 https://t.co/1XNW4kFUI7 ChromeでTPMを使うDBSC（Device Bound Session Credentials）の解説。 DBSCが有効かは下記で確認できる。 chrome :// flags / を開き、 enable-bound-session-credentials-software-keys-for-manual-testing</description>

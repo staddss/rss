@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>あまりにもツールを組み合わせて公立化する事が楽しすぎてダメだ orca,t3,tmux,herdrのターミナル検討とかgranola,amicalとか音声入力系 obsidian sh rclone で記録から保存 ここら辺悩んでる人居たら聞いて欲しい調べた量に対して俺一人が効率化されるだけなのもったいなさすぎる</title>
+      <link>https://x.com/nasubi_dev/status/2117179151912493060</link>
+      <description>なすび🍆: あまりにもツールを組み合わせて公立化する事が楽しすぎてダメだ orca,t3,tmux,herdrのターミナル検討とかgranola,amicalとか音声入力系 obsidian sh rclone で記録から保存 ここら辺悩んでる人居たら聞いて欲しい調べた量に対して俺一人が効率化されるだけなのもったいなさすぎる</description>
+      <pubDate>Mon, 02 Nov 2026 08:56:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nasubi_dev/status/2117179151912493060</guid>
+    </item>
+    <item>
       <title>Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</title>
       <link>https://x.com/HatchSystem/status/2116750316712730770</link>
       <description>Hatch: Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</description>
@@ -269,13 +276,6 @@
       <description>nobu shiba: Pcloud5TB追加したら公式アプリでマウントは問題無いが rclone マウントだと rclone configでのトークン再設定が必要になった https://t.co/0sbeUYjAUK</description>
       <pubDate>Fri, 09 Oct 2026 03:33:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/aivaspern/status/2108400427737948271</guid>
-    </item>
-    <item>
-      <title>@niku_it_cto rclone とかrsyncつかってあちこちにバラしておかないと・・・</title>
-      <link>https://x.com/kou_yan/status/2108368442168689068</link>
-      <description>こうやん＠PM 小型船舶免許1級受かったよ〜ん＼(^o^)／: @niku_it_cto rclone とかrsyncつかってあちこちにバラしておかないと・・・</description>
-      <pubDate>Fri, 09 Oct 2026 01:26:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kou_yan/status/2108368442168689068</guid>
     </item>
   </channel>
 </rss>

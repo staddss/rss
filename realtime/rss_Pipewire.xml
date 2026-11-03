@@ -123,12 +123,5 @@
       <pubDate>Tue, 06 Oct 2026 21:51:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tomoyan596sp/status/2107589603180056750</guid>
     </item>
-    <item>
-      <title>Linuxデスクトップには「いま動いているプロセスがどのアプリか」を統一的に知る仕組みがない。 https://t.co/bIg5QlfK2i D-BusはPIDを見る。 PipeWire はcgroupパスを覗く。 Waylandはソケットの資格情報を使う。 XDGポータルはFlatpak専用。 https://t.co/bVLCrbXVX5</title>
-      <link>https://x.com/joho_no_todai/status/2106159989312409794</link>
-      <description>情報の灯台: Linuxデスクトップには「いま動いているプロセスがどのアプリか」を統一的に知る仕組みがない。 https://t.co/bIg5QlfK2i D-BusはPIDを見る。 PipeWire はcgroupパスを覗く。 Waylandはソケットの資格情報を使う。 XDGポータルはFlatpak専用。 https://t.co/bVLCrbXVX5</description>
-      <pubDate>Fri, 02 Oct 2026 23:10:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2106159989312409794</guid>
-    </item>
   </channel>
 </rss>
