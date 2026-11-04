@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>アプリのインストール制限あるのでDNSフィルターブロックと内蔵のL2TP/IPsecのセットアップが優先 できるならApk入れたいけどね Wireguard (openvpn)+Protonとかでも 可能ならApk打ち込み方法やipaのSideLoad... https://t.co/sLydXof2As</title>
+      <link>https://x.com/L_port53/status/2117751843791290829</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: アプリのインストール制限あるのでDNSフィルターブロックと内蔵のL2TP/IPsecのセットアップが優先 できるならApk入れたいけどね Wireguard (openvpn)+Protonとかでも 可能ならApk打ち込み方法やipaのSideLoad... https://t.co/sLydXof2As</description>
+      <pubDate>Tue, 03 Nov 2026 22:52:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2117751843791290829</guid>
+    </item>
+    <item>
+      <title>【共通の注意事項】 アクセスできないサイトが存在します。その場合はサーバーを別の国にすることで解決できる場合があります。 U-NEXTはFreeeプラン用のサーバーをあえて選択することでなぜか利用できます。 プロトコルはSmart、Proton WireGuard （UDP）、 WireGuard （UDP）を推奨します。</title>
+      <link>https://x.com/Independist16/status/2117632732482433306</link>
+      <description>緑のたぬき: 【共通の注意事項】 アクセスできないサイトが存在します。その場合はサーバーを別の国にすることで解決できる場合があります。 U-NEXTはFreeeプラン用のサーバーをあえて選択することでなぜか利用できます。 プロトコルはSmart、Proton WireGuard （UDP）、 WireGuard （UDP）を推奨します。</description>
+      <pubDate>Tue, 03 Nov 2026 14:59:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Independist16/status/2117632732482433306</guid>
+    </item>
+    <item>
+      <title>@Tektro0327 ありがとうございます！ 自宅鯖構築頑張って、 wireguard VPN経由で自宅のネットワーク機器達を外出先でも遠隔監視出来る様にしたいと思います😊</title>
+      <link>https://x.com/RA9c6wJOHr71538/status/2117586753494405244</link>
+      <description>有機体46B: @Tektro0327 ありがとうございます！ 自宅鯖構築頑張って、 wireguard VPN経由で自宅のネットワーク機器達を外出先でも遠隔監視出来る様にしたいと思います😊</description>
+      <pubDate>Tue, 03 Nov 2026 11:56:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2117586753494405244</guid>
+    </item>
+    <item>
       <title>SORACOM Arcとの接続、まずは wireguard 何とかしないと</title>
       <link>https://x.com/furufind2/status/2117436249460109769</link>
       <description>furuTra46: SORACOM Arcとの接続、まずは wireguard 何とかしないと</description>
@@ -255,27 +276,6 @@
       <description>yotakun 4132: @public_zakojb この時ワイも wireguard 派に寝返ったわ</description>
       <pubDate>Tue, 27 Oct 2026 12:46:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yotakun4132/status/2115062615361884537</guid>
-    </item>
-    <item>
-      <title>wireguard ってwebGUIあったのか知らんかった</title>
-      <link>https://x.com/yotakun4132/status/2115062087227785448</link>
-      <description>yotakun 4132: wireguard ってwebGUIあったのか知らんかった</description>
-      <pubDate>Tue, 27 Oct 2026 12:44:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yotakun4132/status/2115062087227785448</guid>
-    </item>
-    <item>
-      <title>wireguard うまく行かないなーと小1時間格闘してたんだけどオチはTailscaleでした 殺すぞ～～～～～～～～～～～～～～～～～～～～～～～</title>
-      <link>https://x.com/yotakun4132/status/2115055792227496191</link>
-      <description>yotakun 4132: wireguard うまく行かないなーと小1時間格闘してたんだけどオチはTailscaleでした 殺すぞ～～～～～～～～～～～～～～～～～～～～～～～</description>
-      <pubDate>Tue, 27 Oct 2026 12:19:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yotakun4132/status/2115055792227496191</guid>
-    </item>
-    <item>
-      <title>Velocityで自宅のPCにマイクラ鯖を建てる案ですが、自宅（アパート）のネットワークの都合上、ポート開放ができないことが判明しました。 VPS上に wireguard を建て、自宅とVPSでトンネリングすることになるかと思います。</title>
-      <link>https://x.com/ShunsukeY116/status/2114807772399505721</link>
-      <description>Yamamoto Shunsuke: Velocityで自宅のPCにマイクラ鯖を建てる案ですが、自宅（アパート）のネットワークの都合上、ポート開放ができないことが判明しました。 VPS上に wireguard を建て、自宅とVPSでトンネリングすることになるかと思います。</description>
-      <pubDate>Mon, 26 Oct 2026 19:53:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ShunsukeY116/status/2114807772399505721</guid>
     </item>
   </channel>
 </rss>
