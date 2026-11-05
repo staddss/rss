@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</title>
+      <link>https://x.com/J_un_Suzuki/status/2118256232331149560</link>
+      <description>Jun Suzuki: そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</description>
+      <pubDate>Thu, 05 Nov 2026 08:16:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/J_un_Suzuki/status/2118256232331149560</guid>
+    </item>
+    <item>
+      <title>@EMV_CL そもそも決済情報がWebhookで帰ってくるので、 Cloudflare Tunnel 使うか素直に外にポート出すしかない</title>
+      <link>https://x.com/less_machitan/status/2118187171203236142</link>
+      <description>ｌｅｓｓ／ＮＦＣ🐢: @EMV_CL そもそも決済情報がWebhookで帰ってくるので、 Cloudflare Tunnel 使うか素直に外にポート出すしかない</description>
+      <pubDate>Thu, 05 Nov 2026 03:42:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/less_machitan/status/2118187171203236142</guid>
+    </item>
+    <item>
+      <title>Muse 内にWebサーバ立てて、 Cloudflare Tunnel 経由で公開できないかと挑戦したけど、できなかった Muse 曰く、ローカルプロキシが邪魔するんだと</title>
+      <link>https://x.com/pyuruco/status/2118055997772288213</link>
+      <description>pyuruco: Muse 内にWebサーバ立てて、 Cloudflare Tunnel 経由で公開できないかと挑戦したけど、できなかった Muse 曰く、ローカルプロキシが邪魔するんだと</description>
+      <pubDate>Wed, 04 Nov 2026 19:01:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pyuruco/status/2118055997772288213</guid>
+    </item>
+    <item>
       <title>@Holy_fox_LLM 俺は Cloudflare tunnel とproxmox使って中学のときに制限回避して、twitter見てたりgeforce nowとかでゲームしてた</title>
       <link>https://x.com/_1kz2ha/status/2117943402176417878</link>
       <description>かずは: @Holy_fox_LLM 俺は Cloudflare tunnel とproxmox使って中学のときに制限回避して、twitter見てたりgeforce nowとかでゲームしてた</description>
@@ -73,13 +94,6 @@
       <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
       <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
-    </item>
-    <item>
-      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
-      <link>https://x.com/levelsio/status/2116949634111115348</link>
-      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
-      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
     </item>
     <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
@@ -262,20 +276,6 @@
       <description>🇫🇷⚓️JET110🏴‍☠️🌹|出張族の日常・🌷: 一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは https://t.co/NYMzKojRxu</description>
       <pubDate>Mon, 26 Oct 2026 16:18:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dd2589/status/2114753545748803818</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel ってなんだよ！！！</title>
-      <link>https://x.com/_Za65/status/2114746272183988724</link>
-      <description>aaa: Cloudflare Tunnel ってなんだよ！！！</description>
-      <pubDate>Mon, 26 Oct 2026 15:49:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Za65/status/2114746272183988724</guid>
-    </item>
-    <item>
-      <title>Tailscaleの脆弱性ヤバいなー！と思いつつ、忙しくてスルーしてたけど、よく考えたらFree Trialが終わって使えもしなかった。 そんなワイは Cloudflare Tunnel 勢。影響ゼロ。</title>
-      <link>https://x.com/Itsutaku3D/status/2114683319774577059</link>
-      <description>いつもの匠: Tailscaleの脆弱性ヤバいなー！と思いつつ、忙しくてスルーしてたけど、よく考えたらFree Trialが終わって使えもしなかった。 そんなワイは Cloudflare Tunnel 勢。影響ゼロ。</description>
-      <pubDate>Mon, 26 Oct 2026 11:39:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Itsutaku3D/status/2114683319774577059</guid>
     </item>
   </channel>
 </rss>
