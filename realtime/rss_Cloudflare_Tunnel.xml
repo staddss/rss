@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Holy_fox_LLM 俺は Cloudflare tunnel とproxmox使って中学のときに制限回避して、twitter見てたりgeforce nowとかでゲームしてた</title>
+      <link>https://x.com/_1kz2ha/status/2117943402176417878</link>
+      <description>かずは: @Holy_fox_LLM 俺は Cloudflare tunnel とproxmox使って中学のときに制限回避して、twitter見てたりgeforce nowとかでゲームしてた</description>
+      <pubDate>Wed, 04 Nov 2026 11:33:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_1kz2ha/status/2117943402176417878</guid>
+    </item>
+    <item>
+      <title>今の現状で Cloudflare Tunnel とTailscaleに対しての徐々に主流になってきているが、ここまで広まるとそこに対しての攻撃PoCが出てくる可能性が上がるのはなんとも言えんよね 両者ともに開発サイクルは早いし Tailscaleに至ってはコアはWGだが、独自実装でラップしてしまってるものが多い</title>
+      <link>https://x.com/haturatutaro/status/2117700354548867158</link>
+      <description>今も元気ハツラツ太郎: 今の現状で Cloudflare Tunnel とTailscaleに対しての徐々に主流になってきているが、ここまで広まるとそこに対しての攻撃PoCが出てくる可能性が上がるのはなんとも言えんよね 両者ともに開発サイクルは早いし Tailscaleに至ってはコアはWGだが、独自実装でラップしてしまってるものが多い</description>
+      <pubDate>Tue, 03 Nov 2026 19:28:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/haturatutaro/status/2117700354548867158</guid>
+    </item>
+    <item>
       <title>こういう技術的な記事もちゃっぴーに「今話し合った内容をWordpressに投稿しておいて」って言ったらやってくれる有能。自前のmcpサーバーを使ってるけどWorkもCodexも不要。 Windows＋ Cloudflare Tunnel ＋Caddy＋PHPでローカルHTTPS接続を追加する方法 https://t.co/v3NTD1sKBB #ChatGPT #AI</title>
       <link>https://x.com/MF235XBR/status/2117620362766868972</link>
       <description>MF235: こういう技術的な記事もちゃっぴーに「今話し合った内容をWordpressに投稿しておいて」って言ったらやってくれる有能。自前のmcpサーバーを使ってるけどWorkもCodexも不要。 Windows＋ Cloudflare Tunnel ＋Caddy＋PHPでローカルHTTPS接続を追加する方法 https://t.co/v3NTD1sKBB #ChatGPT #AI</description>
@@ -262,20 +276,6 @@
       <description>いつもの匠: Tailscaleの脆弱性ヤバいなー！と思いつつ、忙しくてスルーしてたけど、よく考えたらFree Trialが終わって使えもしなかった。 そんなワイは Cloudflare Tunnel 勢。影響ゼロ。</description>
       <pubDate>Mon, 26 Oct 2026 11:39:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Itsutaku3D/status/2114683319774577059</guid>
-    </item>
-    <item>
-      <title>@hatappo @bot 大丈夫ですよ。 元の質問に答えますね。 Cloudflare Tunnel はTailscaleの完全な代替にはなりません。用途が違います。</title>
-      <link>https://x.com/grok/status/2114633991110181018</link>
-      <description>Grok: @hatappo @bot 大丈夫ですよ。 元の質問に答えますね。 Cloudflare Tunnel はTailscaleの完全な代替にはなりません。用途が違います。</description>
-      <pubDate>Mon, 26 Oct 2026 08:23:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2114633991110181018</guid>
-    </item>
-    <item>
-      <title>@bot Cloudflare Tunnel というサービスは Tailscale の代替になるの？個人利用です。pros/cons比較して特徴をまとめてくれますか？</title>
-      <link>https://x.com/hatappo/status/2114632921198006722</link>
-      <description>hata: @bot Cloudflare Tunnel というサービスは Tailscale の代替になるの？個人利用です。pros/cons比較して特徴をまとめてくれますか？</description>
-      <pubDate>Mon, 26 Oct 2026 08:19:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hatappo/status/2114632921198006722</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>museから WireGuard 経由で接続することはあきらめて、 ssh（鍵認証＋ポート変更＋fail2ban)で対応。 tailscaleでもよかった気がする。。</title>
+      <link>https://x.com/s4r_agent/status/2117994823617777739</link>
+      <description>knopp: museから WireGuard 経由で接続することはあきらめて、 ssh（鍵認証＋ポート変更＋fail2ban)で対応。 tailscaleでもよかった気がする。。</description>
+      <pubDate>Wed, 04 Nov 2026 14:58:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/s4r_agent/status/2117994823617777739</guid>
+    </item>
+    <item>
+      <title>Museから wireguard （wireproxy）で接続できずと四苦八苦 cloud shell（Azure）からはうまくいった</title>
+      <link>https://x.com/s4r_agent/status/2117933076219351457</link>
+      <description>knopp: Museから wireguard （wireproxy）で接続できずと四苦八苦 cloud shell（Azure）からはうまくいった</description>
+      <pubDate>Wed, 04 Nov 2026 10:52:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/s4r_agent/status/2117933076219351457</guid>
+    </item>
+    <item>
       <title>アプリのインストール制限あるのでDNSフィルターブロックと内蔵のL2TP/IPsecのセットアップが優先 できるならApk入れたいけどね Wireguard (openvpn)+Protonとかでも 可能ならApk打ち込み方法やipaのSideLoad... https://t.co/sLydXof2As</title>
       <link>https://x.com/L_port53/status/2117751843791290829</link>
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: アプリのインストール制限あるのでDNSフィルターブロックと内蔵のL2TP/IPsecのセットアップが優先 できるならApk入れたいけどね Wireguard (openvpn)+Protonとかでも 可能ならApk打ち込み方法やipaのSideLoad... https://t.co/sLydXof2As</description>
@@ -24,6 +38,13 @@
       <description>有機体46B: @Tektro0327 ありがとうございます！ 自宅鯖構築頑張って、 wireguard VPN経由で自宅のネットワーク機器達を外出先でも遠隔監視出来る様にしたいと思います😊</description>
       <pubDate>Tue, 03 Nov 2026 11:56:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2117586753494405244</guid>
+    </item>
+    <item>
+      <title>生まれて初めて自分でラックマウント型サーバーを買ってみた。 案の定、ファンの音が大騒音で草。 これからKali Linuxをサーバーにインストール後、Radius・SNMP・Ansibleの構築をして、既に構築済の wireguard VPN経由で遠隔監視出来る様にしよ。 #自宅鯖 #逸般の誤家庭 #Linux https://t.co/MeaDCUDsY8</title>
+      <link>https://x.com/RA9c6wJOHr71538/status/2117488764843175947</link>
+      <description>有機体46B: 生まれて初めて自分でラックマウント型サーバーを買ってみた。 案の定、ファンの音が大騒音で草。 これからKali Linuxをサーバーにインストール後、Radius・SNMP・Ansibleの構築をして、既に構築済の wireguard VPN経由で遠隔監視出来る様にしよ。 #自宅鯖 #逸般の誤家庭 #Linux https://t.co/MeaDCUDsY8</description>
+      <pubDate>Tue, 03 Nov 2026 05:27:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2117488764843175947</guid>
     </item>
     <item>
       <title>SORACOM Arcとの接続、まずは wireguard 何とかしないと</title>
@@ -255,27 +276,6 @@
       <description>WAW: 家中の機器のDNSサーバ指定は自前のadguard homeサーバになってる。Quad9で危険ドメイン対策をしつつルールフィルターとセーフブラウジング入れてる。且つ別途adguard有料版もmacやwinに入れてるし、iPhoneは wireguard で外出先でも自宅adguard homeサーバ指定、且つadguard proでdns保護以外をオン</description>
       <pubDate>Tue, 27 Oct 2026 14:43:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/VA2018AV/status/2115092129425039660</guid>
-    </item>
-    <item>
-      <title>@zakisan1689669 WireGuard への切り替え、おつかれさまです！ こちらも調べたのですが、今回の問題は「Tailscale SSH」（Linux/Macの機能）やServe・Funnelを使っている場合が前提で、しかも通路の中に入った端末からの話でした。</title>
-      <link>https://x.com/Bcat_EA_Trader/status/2115073513816297918</link>
-      <description>黒猫トレーダー🐈‍⬛: @zakisan1689669 WireGuard への切り替え、おつかれさまです！ こちらも調べたのですが、今回の問題は「Tailscale SSH」（Linux/Macの機能）やServe・Funnelを使っている場合が前提で、しかも通路の中に入った端末からの話でした。</description>
-      <pubDate>Tue, 27 Oct 2026 13:29:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Bcat_EA_Trader/status/2115073513816297918</guid>
-    </item>
-    <item>
-      <title>WireGuard がソフトバンクAirでいけそ</title>
-      <link>https://x.com/yy932385935733/status/2115063144057905259</link>
-      <description>zzzzz: WireGuard がソフトバンクAirでいけそ</description>
-      <pubDate>Tue, 27 Oct 2026 12:48:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yy932385935733/status/2115063144057905259</guid>
-    </item>
-    <item>
-      <title>@public_zakojb この時ワイも wireguard 派に寝返ったわ</title>
-      <link>https://x.com/yotakun4132/status/2115062615361884537</link>
-      <description>yotakun 4132: @public_zakojb この時ワイも wireguard 派に寝返ったわ</description>
-      <pubDate>Tue, 27 Oct 2026 12:46:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yotakun4132/status/2115062615361884537</guid>
     </item>
   </channel>
 </rss>

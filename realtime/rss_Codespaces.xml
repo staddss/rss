@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>再ビルドのたびにサインインし直しになる場合は、~/.claude を名前付きボリュームにマウントし、CLAUDE_CONFIG_DIR を同じパスに設定します。.claude.json もボリューム内に書かれるため、再ビルド後も設定が残ります。GitHub Codespaces でも同じ設定が必要です。 #ClaudeCode #DevContainer</title>
+      <link>https://x.com/chuki_dx/status/2117783971513917853</link>
+      <description>中小DXラボ｜情シス兼SE: 再ビルドのたびにサインインし直しになる場合は、~/.claude を名前付きボリュームにマウントし、CLAUDE_CONFIG_DIR を同じパスに設定します。.claude.json もボリューム内に書かれるため、再ビルド後も設定が残ります。GitHub Codespaces でも同じ設定が必要です。 #ClaudeCode #DevContainer</description>
+      <pubDate>Wed, 04 Nov 2026 01:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chuki_dx/status/2117783971513917853</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE比較（2026年版）：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と短期PoC手順 https://t.co/iw4Iue4V8l #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2117416773817389406</link>
       <description>EngiNear: 【新着記事】クラウドIDE比較（2026年版）：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と短期PoC手順 https://t.co/iw4Iue4V8l #エンジニア #ChatGPT #AI</description>
