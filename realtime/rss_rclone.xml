@@ -5,13 +5,6 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>@teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</title>
-      <link>https://x.com/DoubleJ794/status/2118307657572651227</link>
-      <description>ルーミアチャンネル二代目: @teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</description>
-      <pubDate>Thu, 05 Nov 2026 11:41:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DoubleJ794/status/2118307657572651227</guid>
-    </item>
-    <item>
       <title>@META_Zel Google Drive を除けば、容量さえ大きければ割となんでもありです 私は AmazonPhoto で画像データを、それ以外は rclone + InfiniCLOUD でバックアップを取ってます Amazon Photo はプライム会員は写真の容量無制限でアップロード出来ます InfiniCLOUD</title>
       <link>https://x.com/DoubleJ794/status/2118303250856501346</link>
       <description>ルーミアチャンネル二代目: @META_Zel Google Drive を除けば、容量さえ大きければ割となんでもありです 私は AmazonPhoto で画像データを、それ以外は rclone + InfiniCLOUD でバックアップを取ってます Amazon Photo はプライム会員は写真の容量無制限でアップロード出来ます InfiniCLOUD</description>
@@ -94,6 +87,13 @@
       <description>Daizu: ひとつのCLIツールを使っているだけでPCの全権限を与えていたとかでもないし、隔離環境だろうと rclone を使わせている以上この事故は防げなかった。ID指定で削除したならDeepSeek Hernessとかなら防げたかもしれないけど rclone が完璧に動いているなら問題ない操作だから止めてくれないかも</description>
       <pubDate>Tue, 03 Nov 2026 23:39:27 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/daizu_007/status/2117763616963473766</guid>
+    </item>
+    <item>
+      <title>反応見る限りあまり理解してない人が多そう。 rclone という外部ツールでGoogle Driveを操作させてたら rclone のバグを踏んで全データを削除しちゃったということでしょう。 https://t.co/iUIbi2CZ11 非公式ツールなのでGoogle側の対応は期待できないしバックアップとかの問題でもない。 https://t.co/dQRV80usx0</title>
+      <link>https://x.com/daizu_007/status/2117763614685991264</link>
+      <description>Daizu: 反応見る限りあまり理解してない人が多そう。 rclone という外部ツールでGoogle Driveを操作させてたら rclone のバグを踏んで全データを削除しちゃったということでしょう。 https://t.co/iUIbi2CZ11 非公式ツールなのでGoogle側の対応は期待できないしバックアップとかの問題でもない。 https://t.co/dQRV80usx0</description>
+      <pubDate>Tue, 03 Nov 2026 23:39:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/daizu_007/status/2117763614685991264</guid>
     </item>
     <item>
       <title>これ、AI もちょっと気を利かせてくれてもよかったとも言える件だが、根本原因は AI のハルシネーションじゃなくて rclone のバグだよな https://t.co/M0yW2E8Jym</title>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel + RedirectでDeep Seek Hernessを自宅外からアクセスできるようになったのだ URLについているトークンでの認証は面倒だからリダイレクトかけてやれば良いのだ</title>
+      <link>https://x.com/raspberry_craft/status/2118352974770819147</link>
+      <description>ﾌﾟﾛ(ｸﾞﾗﾐﾝｸﾞ見習い中のｱﾗ)イさん: Cloudflare Tunnel + RedirectでDeep Seek Hernessを自宅外からアクセスできるようになったのだ URLについているトークンでの認証は面倒だからリダイレクトかけてやれば良いのだ</description>
+      <pubDate>Thu, 05 Nov 2026 14:41:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/raspberry_craft/status/2118352974770819147</guid>
+    </item>
+    <item>
       <title>T3codeは Cloudflare Tunnel で複数のPCをスマホから接続できるから良い。 外出中に作業指示して、外出中の暇つぶしで作らせてるゲームもプレイできる</title>
       <link>https://x.com/yuki_wtz/status/2118348466372129004</link>
       <description>ucchy / Yuki Uchida: T3codeは Cloudflare Tunnel で複数のPCをスマホから接続できるから良い。 外出中に作業指示して、外出中の暇つぶしで作らせてるゲームもプレイできる</description>
@@ -115,6 +122,13 @@
       <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
       <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
+    </item>
+    <item>
+      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
+      <link>https://x.com/levelsio/status/2116949634111115348</link>
+      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
+      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
     </item>
     <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
@@ -262,20 +276,6 @@
       <description>Tasuya Kida: PHP、Nodejsに続いて、LINE LIFF、tailscale、 cloudflare tunnel からも対応してくれ、ってセキュリティの連絡来る。どこにかにまとめサイトできてほしい。</description>
       <pubDate>Tue, 27 Oct 2026 02:37:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kidapu/status/2114909361776869737</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel (旧cloudflared) はeMudhra証明書問題関連のアップデートが配信されているとのこと アプデしなきゃ…</title>
-      <link>https://x.com/const_myself/status/2114901015287988426</link>
-      <description>おがどら: Cloudflare Tunnel (旧cloudflared) はeMudhra証明書問題関連のアップデートが配信されているとのこと アプデしなきゃ…</description>
-      <pubDate>Tue, 27 Oct 2026 02:04:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/const_myself/status/2114901015287988426</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 更新しなさいメール来てたし帰ったらやるか</title>
-      <link>https://x.com/PureIllusionist/status/2114869117014667564</link>
-      <description>しの: Cloudflare Tunnel 更新しなさいメール来てたし帰ったらやるか</description>
-      <pubDate>Mon, 26 Oct 2026 23:57:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PureIllusionist/status/2114869117014667564</guid>
     </item>
   </channel>
 </rss>

@@ -137,19 +137,5 @@
       <pubDate>Wed, 07 Oct 2026 18:57:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/makino_615/status/2107908092528873676</guid>
     </item>
-    <item>
-      <title>Docker Desktopのディスクを圧縮して、スパース化したら、100GB以上節約できた。メモリもWSLに zram 導入して占有量を減らせた。メモリやディスクが高騰する今日ではこういう設定は必須だと思うけど、かなり見過ごされてるよね。</title>
-      <link>https://x.com/surface0/status/2107739883653775412</link>
-      <description>𝙨𝙪𝙧𝙛𝙖𝙘𝙚𝟬: Docker Desktopのディスクを圧縮して、スパース化したら、100GB以上節約できた。メモリもWSLに zram 導入して占有量を減らせた。メモリやディスクが高騰する今日ではこういう設定は必須だと思うけど、かなり見過ごされてるよね。</description>
-      <pubDate>Wed, 07 Oct 2026 07:48:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/surface0/status/2107739883653775412</guid>
-    </item>
-    <item>
-      <title>GCPのe2-microインスタンスは zram 使うと格段に安定性増すな。 通常のswapが重すぎるからかも。</title>
-      <link>https://x.com/surface0/status/2107682170244608317</link>
-      <description>𝙨𝙪𝙧𝙛𝙖𝙘𝙚𝟬: GCPのe2-microインスタンスは zram 使うと格段に安定性増すな。 通常のswapが重すぎるからかも。</description>
-      <pubDate>Wed, 07 Oct 2026 03:59:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/surface0/status/2107682170244608317</guid>
-    </item>
   </channel>
 </rss>
