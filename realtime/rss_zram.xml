@@ -151,33 +151,5 @@
       <pubDate>Wed, 07 Oct 2026 03:59:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/surface0/status/2107682170244608317</guid>
     </item>
-    <item>
-      <title>更新されたよ、見に来てね!→ 共有の部品は、壊れるときも一緒？ Atlassian CVE-2026-21589・Linux ZRAM の作り直し・Linux Plumbers Conference 2026・mold 3.0（Rust）・Linux 35周年（2026/10/7 Linux・OSSトレンド） https://t.co/YoU3gpotNh</title>
-      <link>https://x.com/DensukeO/status/2107635781619831172</link>
-      <description>dopen🇺🇦: 更新されたよ、見に来てね!→ 共有の部品は、壊れるときも一緒？ Atlassian CVE-2026-21589・Linux ZRAM の作り直し・Linux Plumbers Conference 2026・mold 3.0（Rust）・Linux 35周年（2026/10/7 Linux・OSSトレンド） https://t.co/YoU3gpotNh</description>
-      <pubDate>Wed, 07 Oct 2026 00:55:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DensukeO/status/2107635781619831172</guid>
-    </item>
-    <item>
-      <title>更新されたよ、見に来てね!→ 【小屋が摩天楼に】Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/Gqt5VVmJat #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/BQvi4RJUEW</title>
-      <link>https://x.com/DensukeO/status/2107615656581673399</link>
-      <description>dopen🇺🇦: 更新されたよ、見に来てね!→ 【小屋が摩天楼に】Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/Gqt5VVmJat #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/BQvi4RJUEW</description>
-      <pubDate>Tue, 06 Oct 2026 23:35:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DensukeO/status/2107615656581673399</guid>
-    </item>
-    <item>
-      <title>更新されたよ、見に来てね!→ Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/EscQAWIokN #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/YInKisCTld</title>
-      <link>https://x.com/DensukeO/status/2107601816972337521</link>
-      <description>dopen🇺🇦: 更新されたよ、見に来てね!→ Linux35歳の誕生会! moldはRustへ、 ZRAM は分業へ 直し続ける力とは？ 2026年10月07日(水) https://t.co/EscQAWIokN #Linux #Atlassian #脆弱性 #mold #Rust https://t.co/YInKisCTld</description>
-      <pubDate>Tue, 06 Oct 2026 22:40:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DensukeO/status/2107601816972337521</guid>
-    </item>
-    <item>
-      <title>ZRAM もZswapもCPUが圧縮・展開を処理する。 ページにアクセスするたびにフォルトが起き、展開を待つ。 https://t.co/O5MmUThiTG メタのCRAMはこの前提を変える。 ハードウェアが圧縮を担い、バイト単位で直接アクセスできる。 読み取りはDRAM同等の速度。書き込みで ZRAM の5〜37倍。 https://t.co/1fehQjQ5tP</title>
-      <link>https://x.com/joho_no_todai/status/2107430774295462267</link>
-      <description>情報の灯台: ZRAM もZswapもCPUが圧縮・展開を処理する。 ページにアクセスするたびにフォルトが起き、展開を待つ。 https://t.co/O5MmUThiTG メタのCRAMはこの前提を変える。 ハードウェアが圧縮を担い、バイト単位で直接アクセスできる。 読み取りはDRAM同等の速度。書き込みで ZRAM の5〜37倍。 https://t.co/1fehQjQ5tP</description>
-      <pubDate>Tue, 06 Oct 2026 11:20:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2107430774295462267</guid>
-    </item>
   </channel>
 </rss>

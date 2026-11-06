@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</title>
+      <link>https://x.com/DoubleJ794/status/2118307657572651227</link>
+      <description>ルーミアチャンネル二代目: @teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</description>
+      <pubDate>Thu, 05 Nov 2026 11:41:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DoubleJ794/status/2118307657572651227</guid>
+    </item>
+    <item>
+      <title>@META_Zel Google Drive を除けば、容量さえ大きければ割となんでもありです 私は AmazonPhoto で画像データを、それ以外は rclone + InfiniCLOUD でバックアップを取ってます Amazon Photo はプライム会員は写真の容量無制限でアップロード出来ます InfiniCLOUD</title>
+      <link>https://x.com/DoubleJ794/status/2118303250856501346</link>
+      <description>ルーミアチャンネル二代目: @META_Zel Google Drive を除けば、容量さえ大きければ割となんでもありです 私は AmazonPhoto で画像データを、それ以外は rclone + InfiniCLOUD でバックアップを取ってます Amazon Photo はプライム会員は写真の容量無制限でアップロード出来ます InfiniCLOUD</description>
+      <pubDate>Thu, 05 Nov 2026 11:23:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DoubleJ794/status/2118303250856501346</guid>
+    </item>
+    <item>
       <title>OneDrive の Linux クライアントや rclone bisync と連携し、大量削除で同期が止まる問題を避けつつ反映します。同期中は進み具合も表示。 画面は日本語・英語、ダークモード対応。 pipx install tag-keeper で入ります。全文検索や OCR はこれからです。 https://t.co/SOZ4MS9ZtV</title>
       <link>https://x.com/akivajp/status/2118132779598909870</link>
       <description>Akiva Miura (Atid Ltd. 代表): OneDrive の Linux クライアントや rclone bisync と連携し、大量削除で同期が止まる問題を避けつつ反映します。同期中は進み具合も表示。 画面は日本語・英語、ダークモード対応。 pipx install tag-keeper で入ります。全文検索や OCR はこれからです。 https://t.co/SOZ4MS9ZtV</description>
@@ -262,20 +276,6 @@
       <description>ふぁらお加藤: DropboxをLinuxマシンにバックアップとってる rclone 、いろいろ速度制限入れてるとはいえ、60Gごときの同期に2日以上かかってるw Transferred: 4.016 MiB / 4.016 MiB, 100%, 4.112 KiB/s, ETA 0s Checks: 1344977 / 1344977, 100%, Listed 3068138 Deleted: 88</description>
       <pubDate>Tue, 20 Oct 2026 08:35:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PharaohKJ/status/2112462611036205561</guid>
-    </item>
-    <item>
-      <title>Googleから、OAuth経由でWorkspaceに接続するGoogle CloudアプリはOAuthクライアントにAIエージェントのマークを付けるようにとメールが届きましたが、何のことかなと思ったらLinuxからGoogle Driveにファイルコピーする「 rclone 」がいたことを忘れていました。MCPを使わないので無関係ですね。 https://t.co/jPP5gkyIfX</title>
-      <link>https://x.com/y_app_tech/status/2112339488991289373</link>
-      <description>y-app: Googleから、OAuth経由でWorkspaceに接続するGoogle CloudアプリはOAuthクライアントにAIエージェントのマークを付けるようにとメールが届きましたが、何のことかなと思ったらLinuxからGoogle Driveにファイルコピーする「 rclone 」がいたことを忘れていました。MCPを使わないので無関係ですね。 https://t.co/jPP5gkyIfX</description>
-      <pubDate>Tue, 20 Oct 2026 00:25:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/y_app_tech/status/2112339488991289373</guid>
-    </item>
-    <item>
-      <title>Google Driveの約470GBをOneDriveへ移行しました。 rclone も試しましたが、最終的にSynology NASのCloud Syncを経由する方法を選択。 NASが24時間動いているので、Macを動かさなくても作業すすみました。</title>
-      <link>https://x.com/Pen12252/status/2112296977757278225</link>
-      <description>Sandy16L: Google Driveの約470GBをOneDriveへ移行しました。 rclone も試しましたが、最終的にSynology NASのCloud Syncを経由する方法を選択。 NASが24時間動いているので、Macを動かさなくても作業すすみました。</description>
-      <pubDate>Mon, 19 Oct 2026 21:36:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Pen12252/status/2112296977757278225</guid>
     </item>
   </channel>
 </rss>

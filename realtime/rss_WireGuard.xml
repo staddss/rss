@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>どうせならLMS無効化してSpeedifyとか Wireguard とか載せといてほしいな 誰が使うねんLMS</title>
+      <link>https://x.com/takumidevices/status/2118328774446268910</link>
+      <description>TakumiDevices: どうせならLMS無効化してSpeedifyとか Wireguard とか載せといてほしいな 誰が使うねんLMS</description>
+      <pubDate>Thu, 05 Nov 2026 13:05:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/takumidevices/status/2118328774446268910</guid>
+    </item>
+    <item>
       <title>@manateelazycat 盲猜用的 WireGuard ？</title>
       <link>https://x.com/darkodeve/status/2118221240813105336</link>
       <description>Darko Dev: @manateelazycat 盲猜用的 WireGuard ？</description>
       <pubDate>Thu, 05 Nov 2026 05:57:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/darkodeve/status/2118221240813105336</guid>
+    </item>
+    <item>
+      <title>そろそろVPNのプロトコルについて真剣に考えないとなー WireGuard 等も検討するかな ずっと気になってはいた</title>
+      <link>https://x.com/dgx_elixir/status/2118175145768738939</link>
+      <description>ymn: そろそろVPNのプロトコルについて真剣に考えないとなー WireGuard 等も検討するかな ずっと気になってはいた</description>
+      <pubDate>Thu, 05 Nov 2026 02:54:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dgx_elixir/status/2118175145768738939</guid>
     </item>
     <item>
       <title>New Post: ConoHa の VPS に WireGuard を設定する https://t.co/7o2sDD5tDl</title>
@@ -262,20 +276,6 @@
       <description>Port 22: @yomiplush @ WireGuardVPN そうですね！Tailscaleも内部では WireGuard を使っているので、自分も WireGuard で構築し直そうかな 一度構築してしまえば、あとはアプリでVPNをオンにするだけなので、運用自体はそこまで面倒ではなさそう。</description>
       <pubDate>Wed, 28 Oct 2026 03:28:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/feTfaZXp7n86129/status/2115284419544261101</guid>
-    </item>
-    <item>
-      <title>HSMが認証取ってるであろうFIPS140、アレな仕様らしいので、、美しいと評判のGoの暗号ライブラリがFIPS140対応で酷いことになってるみたいなことを WireGuard の作者が言っていたり https://t.co/tme8IhO8bQ https://t.co/UGJRX9NQns</title>
-      <link>https://x.com/readonly859/status/2115270969141203017</link>
-      <description>readonly: HSMが認証取ってるであろうFIPS140、アレな仕様らしいので、、美しいと評判のGoの暗号ライブラリがFIPS140対応で酷いことになってるみたいなことを WireGuard の作者が言っていたり https://t.co/tme8IhO8bQ https://t.co/UGJRX9NQns</description>
-      <pubDate>Wed, 28 Oct 2026 02:34:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/readonly859/status/2115270969141203017</guid>
-    </item>
-    <item>
-      <title>どんな攻撃を受けるかわからないから家のネットワークを強化しといた。DNS over TLS(DNSはGoogle/Cloudflare)、2重ルータにして、自宅Wifi以外の通信は Wireguard でVPN接続するようにした。使ってたNASへの外部からの通信もやめてローカル運用だけにした・・。疲れた</title>
-      <link>https://x.com/pyokozo2020/status/2115119682688880735</link>
-      <description>ぴょこぞう: どんな攻撃を受けるかわからないから家のネットワークを強化しといた。DNS over TLS(DNSはGoogle/Cloudflare)、2重ルータにして、自宅Wifi以外の通信は Wireguard でVPN接続するようにした。使ってたNASへの外部からの通信もやめてローカル運用だけにした・・。疲れた</description>
-      <pubDate>Tue, 27 Oct 2026 16:33:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pyokozo2020/status/2115119682688880735</guid>
     </item>
   </channel>
 </rss>

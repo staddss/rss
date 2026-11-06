@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>T3codeは Cloudflare Tunnel で複数のPCをスマホから接続できるから良い。 外出中に作業指示して、外出中の暇つぶしで作らせてるゲームもプレイできる</title>
+      <link>https://x.com/yuki_wtz/status/2118348466372129004</link>
+      <description>ucchy / Yuki Uchida: T3codeは Cloudflare Tunnel で複数のPCをスマホから接続できるから良い。 外出中に作業指示して、外出中の暇つぶしで作らせてるゲームもプレイできる</description>
+      <pubDate>Thu, 05 Nov 2026 14:23:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuki_wtz/status/2118348466372129004</guid>
+    </item>
+    <item>
+      <title>@huang18825 colab-cli 以及 cloudflare tunnel 穿透就行了。</title>
+      <link>https://x.com/Saramanho/status/2118326724811534572</link>
+      <description>Saraman: @huang18825 colab-cli 以及 cloudflare tunnel 穿透就行了。</description>
+      <pubDate>Thu, 05 Nov 2026 12:57:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Saramanho/status/2118326724811534572</guid>
+    </item>
+    <item>
+      <title>@omochimetaru Cloudflare Tunnel で自分のmacにwebhook受ける口作って、githubなどからのイベントをローカルに受信箱的に蓄積して、エージェントからはその受信箱を高頻度に叩く、みたいな仕組みを作って試行中。これで良さそうに見える。</title>
+      <link>https://x.com/hiragram/status/2118272579580698905</link>
+      <description>hiragram/ﾋﾗﾘﾁｬﾝ: @omochimetaru Cloudflare Tunnel で自分のmacにwebhook受ける口作って、githubなどからのイベントをローカルに受信箱的に蓄積して、エージェントからはその受信箱を高頻度に叩く、みたいな仕組みを作って試行中。これで良さそうに見える。</description>
+      <pubDate>Thu, 05 Nov 2026 09:21:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hiragram/status/2118272579580698905</guid>
+    </item>
+    <item>
       <title>そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</title>
       <link>https://x.com/J_un_Suzuki/status/2118256232331149560</link>
       <description>Jun Suzuki: そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</description>
@@ -255,27 +276,6 @@
       <description>しの: Cloudflare Tunnel 更新しなさいメール来てたし帰ったらやるか</description>
       <pubDate>Mon, 26 Oct 2026 23:57:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PureIllusionist/status/2114869117014667564</guid>
-    </item>
-    <item>
-      <title>サーバー立てて、 Cloudflare Tunnel で開いている人はバージョンチェック。 eMudhraの汚染のやつ。 https://t.co/aZjYr8ZeCy</title>
-      <link>https://x.com/env_k_k/status/2114866557658759183</link>
-      <description>月見ルナ@kmzk-dev: サーバー立てて、 Cloudflare Tunnel で開いている人はバージョンチェック。 eMudhraの汚染のやつ。 https://t.co/aZjYr8ZeCy</description>
-      <pubDate>Mon, 26 Oct 2026 23:47:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/env_k_k/status/2114866557658759183</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel のバージョンを今すぐ上げろってメールが来ててこんなん来るんやな～と思うなど ウチは日次で最新化してるから大丈夫よん</title>
-      <link>https://x.com/tenbaka5645/status/2114864588210716930</link>
-      <description>Cherno_man: Cloudflare Tunnel のバージョンを今すぐ上げろってメールが来ててこんなん来るんやな～と思うなど ウチは日次で最新化してるから大丈夫よん</description>
-      <pubDate>Mon, 26 Oct 2026 23:39:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tenbaka5645/status/2114864588210716930</guid>
-    </item>
-    <item>
-      <title>一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは https://t.co/NYMzKojRxu</title>
-      <link>https://x.com/dd2589/status/2114753545748803818</link>
-      <description>🇫🇷⚓️JET110🏴‍☠️🌹|出張族の日常・🌷: 一番メンテをサボってた画像検索ボードのAPIサーバを nginx+node20+express から cloudflare tunnel +go http に置き換えた これでまたしばらくサボれるな。がはは https://t.co/NYMzKojRxu</description>
-      <pubDate>Mon, 26 Oct 2026 16:18:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dd2589/status/2114753545748803818</guid>
     </item>
   </channel>
 </rss>
