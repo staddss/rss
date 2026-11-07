@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Googlebook%22</link>
     <description>Latest search results for '&quot;Googlebook&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>dragonfly g4で動かしてる Googlebook OS スクロールバーが狭くてマウス操作だと動かしにくかったので、広げる方法ないって？claudeに聞いたらframework-resのconfig_scrollbarSizeを現状の4dpから最大10dpに変更できます、というので10dpに変更した</title>
+      <link>https://x.com/osakanataro2/status/2119087766718107882</link>
+      <description>OSAKANA TARO: dragonfly g4で動かしてる Googlebook OS スクロールバーが狭くてマウス操作だと動かしにくかったので、広げる方法ないって？claudeに聞いたらframework-resのconfig_scrollbarSizeを現状の4dpから最大10dpに変更できます、というので10dpに変更した</description>
+      <pubDate>Sat, 07 Nov 2026 15:21:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/osakanataro2/status/2119087766718107882</guid>
+    </item>
+    <item>
       <title>Google が配信した 2026 年 11 月のシステムアップデート (17.CL3B.260622.286.R2) 以降も、Dell XPS Googlebook や HP Googlebook 14 で画面がちらつく問題が報告されています。一部で改善の報告もあるものの、完全な解決には至っていません。 https://t.co/sfgg8Z8OUF # Googlebook</title>
       <link>https://x.com/GbookHub/status/2119043362770887003</link>
       <description>GbookHub: Google が配信した 2026 年 11 月のシステムアップデート (17.CL3B.260622.286.R2) 以降も、Dell XPS Googlebook や HP Googlebook 14 で画面がちらつく問題が報告されています。一部で改善の報告もあるものの、完全な解決には至っていません。 https://t.co/sfgg8Z8OUF # Googlebook</description>
@@ -269,13 +276,6 @@
       <description>おむらまさひで(HelenTech): Googlebook のステータスバーをカスタマイズできるアプリ「BentoBar」が公開 https://t.co/u5YVFgyamA # Googlebook</description>
       <pubDate>Thu, 05 Nov 2026 02:59:51 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Helen_Tech/status/2118176440403603642</guid>
-    </item>
-    <item>
-      <title>Google、Henry Cavill 氏が Googlebook でゲームを制作するシリーズの第 1 話を公開 https://t.co/3ml0iRkevc</title>
-      <link>https://x.com/Helen_Tech/status/2118159526851723572</link>
-      <description>おむらまさひで(HelenTech): Google、Henry Cavill 氏が Googlebook でゲームを制作するシリーズの第 1 話を公開 https://t.co/3ml0iRkevc</description>
-      <pubDate>Thu, 05 Nov 2026 01:52:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Helen_Tech/status/2118159526851723572</guid>
     </item>
   </channel>
 </rss>
