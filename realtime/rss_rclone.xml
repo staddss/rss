@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</title>
+      <link>https://x.com/DoubleJ794/status/2118307657572651227</link>
+      <description>ルーミアチャンネル二代目: @teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</description>
+      <pubDate>Thu, 05 Nov 2026 11:41:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DoubleJ794/status/2118307657572651227</guid>
+    </item>
+    <item>
       <title>@META_Zel Google Drive を除けば、容量さえ大きければ割となんでもありです 私は AmazonPhoto で画像データを、それ以外は rclone + InfiniCLOUD でバックアップを取ってます Amazon Photo はプライム会員は写真の容量無制限でアップロード出来ます InfiniCLOUD</title>
       <link>https://x.com/DoubleJ794/status/2118303250856501346</link>
       <description>ルーミアチャンネル二代目: @META_Zel Google Drive を除けば、容量さえ大きければ割となんでもありです 私は AmazonPhoto で画像データを、それ以外は rclone + InfiniCLOUD でバックアップを取ってます Amazon Photo はプライム会員は写真の容量無制限でアップロード出来ます InfiniCLOUD</description>
@@ -269,13 +276,6 @@
       <description>な(か)ぞのしんご(β): なんとなく逃げてきた大規模バックアップ、やっと解決した模様 【WordPress】プラグイン不要！ rclone で大容量サイトをpCloudへ完全自動バックアップする（共用サーバー・ロリポップ対応） https://t.co/2nSFhj5YZK #Qiita @boraemon2000より</description>
       <pubDate>Fri, 23 Oct 2026 00:49:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/boraemon2000/status/2113432607543406964</guid>
-    </item>
-    <item>
-      <title>DropboxをLinuxマシンにバックアップとってる rclone 、いろいろ速度制限入れてるとはいえ、60Gごときの同期に2日以上かかってるw Transferred: 4.016 MiB / 4.016 MiB, 100%, 4.112 KiB/s, ETA 0s Checks: 1344977 / 1344977, 100%, Listed 3068138 Deleted: 88</title>
-      <link>https://x.com/PharaohKJ/status/2112462611036205561</link>
-      <description>ふぁらお加藤: DropboxをLinuxマシンにバックアップとってる rclone 、いろいろ速度制限入れてるとはいえ、60Gごときの同期に2日以上かかってるw Transferred: 4.016 MiB / 4.016 MiB, 100%, 4.112 KiB/s, ETA 0s Checks: 1344977 / 1344977, 100%, Listed 3068138 Deleted: 88</description>
-      <pubDate>Tue, 20 Oct 2026 08:35:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/PharaohKJ/status/2112462611036205561</guid>
     </item>
   </channel>
 </rss>

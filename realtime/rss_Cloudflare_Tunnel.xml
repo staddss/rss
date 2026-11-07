@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>claudflearトンネルをterraform+nixで管理することでjson一つ編集するだけでlocalhostを公開できるようになった NixOS側のcloudflared ingressとTerraform側のDNS/Tunnel定義が両方更新される。 domain -&gt; DNS ( Cloudflare tunnel ) -&gt; NixOS -&gt; ingress port振り分け https://t.co/ccAapZXL4l</title>
+      <link>https://x.com/ren8peter/status/2118725485417087206</link>
+      <description>ren: claudflearトンネルをterraform+nixで管理することでjson一つ編集するだけでlocalhostを公開できるようになった NixOS側のcloudflared ingressとTerraform側のDNS/Tunnel定義が両方更新される。 domain -&gt; DNS ( Cloudflare tunnel ) -&gt; NixOS -&gt; ingress port振り分け https://t.co/ccAapZXL4l</description>
+      <pubDate>Fri, 06 Nov 2026 15:21:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ren8peter/status/2118725485417087206</guid>
+    </item>
+    <item>
+      <title>Hermesの新しいWeb UI（:9120）へ、 Cloudflare Tunnel とAccessを使ってTailnet外からでもアクセスできるようにした パスキーでログインできる</title>
+      <link>https://x.com/thisissuree/status/2118663583030730875</link>
+      <description>さとだい: Hermesの新しいWeb UI（:9120）へ、 Cloudflare Tunnel とAccessを使ってTailnet外からでもアクセスできるようにした パスキーでログインできる</description>
+      <pubDate>Fri, 06 Nov 2026 11:15:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thisissuree/status/2118663583030730875</guid>
+    </item>
+    <item>
       <title>Cloudflare Tunnel + RedirectでDeep Seek Hernessを自宅外からアクセスできるようになったのだ URLについているトークンでの認証は面倒だからリダイレクトかけてやれば良いのだ</title>
       <link>https://x.com/raspberry_craft/status/2118352974770819147</link>
       <description>ﾌﾟﾛ(ｸﾞﾗﾐﾝｸﾞ見習い中のｱﾗ)イさん: Cloudflare Tunnel + RedirectでDeep Seek Hernessを自宅外からアクセスできるようになったのだ URLについているトークンでの認証は面倒だからリダイレクトかけてやれば良いのだ</description>
@@ -262,20 +276,6 @@
       <description>けｎ: Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</description>
       <pubDate>Tue, 27 Oct 2026 05:19:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kxn/status/2114949990477127905</guid>
-    </item>
-    <item>
-      <title>昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</title>
-      <link>https://x.com/keiji_dl/status/2114925518055419958</link>
-      <description>神草経知｜NLP・Codex・Claude Code・Coworkをビジネス価値に変換する人: 昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</description>
-      <pubDate>Tue, 27 Oct 2026 03:41:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/keiji_dl/status/2114925518055419958</guid>
-    </item>
-    <item>
-      <title>PHP、Nodejsに続いて、LINE LIFF、tailscale、 cloudflare tunnel からも対応してくれ、ってセキュリティの連絡来る。どこにかにまとめサイトできてほしい。</title>
-      <link>https://x.com/kidapu/status/2114909361776869737</link>
-      <description>Tasuya Kida: PHP、Nodejsに続いて、LINE LIFF、tailscale、 cloudflare tunnel からも対応してくれ、ってセキュリティの連絡来る。どこにかにまとめサイトできてほしい。</description>
-      <pubDate>Tue, 27 Oct 2026 02:37:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kidapu/status/2114909361776869737</guid>
     </item>
   </channel>
 </rss>
