@@ -138,13 +138,6 @@
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
     </item>
     <item>
-      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
-      <link>https://x.com/levelsio/status/2116949634111115348</link>
-      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
-      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
-    </item>
-    <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
       <link>https://x.com/5yuim/status/2116860193086845095</link>
       <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
@@ -276,6 +269,13 @@
       <description>けｎ: Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</description>
       <pubDate>Tue, 27 Oct 2026 05:19:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kxn/status/2114949990477127905</guid>
+    </item>
+    <item>
+      <title>昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</title>
+      <link>https://x.com/keiji_dl/status/2114925518055419958</link>
+      <description>神草経知｜NLP・Codex・Claude Code・Coworkをビジネス価値に変換する人: 昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</description>
+      <pubDate>Tue, 27 Oct 2026 03:41:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/keiji_dl/status/2114925518055419958</guid>
     </item>
   </channel>
 </rss>

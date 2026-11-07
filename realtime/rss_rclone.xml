@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone がクラウドストレージのマウントに対応してたことを初めて知った</title>
+      <link>https://x.com/AIHobbyist65536/status/2118891476872835255</link>
+      <description>もりそば@跡地: rclone がクラウドストレージのマウントに対応してたことを初めて知った</description>
+      <pubDate>Sat, 07 Nov 2026 02:21:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AIHobbyist65536/status/2118891476872835255</guid>
+    </item>
+    <item>
+      <title>@lucianlamp 自分の用途的にどのCLIがいい？ってmuseに聞いたら ytstudio-cli rclone beets ffmpeg-normalize／kid3-cli をおすすめされたのでそれ入れました 人によってベストなCLIは違うのでmuseに聞いて入れるのが良さそう？🤔</title>
+      <link>https://x.com/sigusrd/status/2118701352008523950</link>
+      <description>うっしー@🐸📕🥫🐟🚴‍♂️: @lucianlamp 自分の用途的にどのCLIがいい？ってmuseに聞いたら ytstudio-cli rclone beets ffmpeg-normalize／kid3-cli をおすすめされたのでそれ入れました 人によってベストなCLIは違うのでmuseに聞いて入れるのが良さそう？🤔</description>
+      <pubDate>Fri, 06 Nov 2026 13:45:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sigusrd/status/2118701352008523950</guid>
+    </item>
+    <item>
       <title>@teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</title>
       <link>https://x.com/DoubleJ794/status/2118307657572651227</link>
       <description>ルーミアチャンネル二代目: @teaseedforce 適当なクラウドストレージ(GoogleDrive以外)を契約しておくのです... 一つのフォルダの下に全部の消えて欲しくないファイルやプロジェクトを突っ込んどくのです そしてチャッピーに 「 rclone を使って xx に有るフォルダをクラウドストレージにコピーするbatファイルを作って」 と</description>
@@ -262,20 +276,6 @@
       <description>ぷーさん＿元エンジ: @keita_roboin 1PasswordのVaultsに Rclone とかで使用する鍵などの情報を保存しておいて CLIから1Passwordの認証経由で都度設定するようにしたら シェルスクリプト中に鍵をメモする必要がなくなるので 安全性が向上するんですよね</description>
       <pubDate>Sat, 24 Oct 2026 07:50:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/plutoj1975/status/2113900891426418689</guid>
-    </item>
-    <item>
-      <title>@boraemon2000 ブログのバックアップ、ずっと後回しにしてます・・・ rclone でいけるなら、週末読んでみようかな📚</title>
-      <link>https://x.com/bossnyan_ai/status/2113465323014017524</link>
-      <description>ボスにゃん: @boraemon2000 ブログのバックアップ、ずっと後回しにしてます・・・ rclone でいけるなら、週末読んでみようかな📚</description>
-      <pubDate>Fri, 23 Oct 2026 02:59:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bossnyan_ai/status/2113465323014017524</guid>
-    </item>
-    <item>
-      <title>なんとなく逃げてきた大規模バックアップ、やっと解決した模様 【WordPress】プラグイン不要！ rclone で大容量サイトをpCloudへ完全自動バックアップする（共用サーバー・ロリポップ対応） https://t.co/2nSFhj5YZK #Qiita @boraemon2000より</title>
-      <link>https://x.com/boraemon2000/status/2113432607543406964</link>
-      <description>な(か)ぞのしんご(β): なんとなく逃げてきた大規模バックアップ、やっと解決した模様 【WordPress】プラグイン不要！ rclone で大容量サイトをpCloudへ完全自動バックアップする（共用サーバー・ロリポップ対応） https://t.co/2nSFhj5YZK #Qiita @boraemon2000より</description>
-      <pubDate>Fri, 23 Oct 2026 00:49:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/boraemon2000/status/2113432607543406964</guid>
     </item>
   </channel>
 </rss>
