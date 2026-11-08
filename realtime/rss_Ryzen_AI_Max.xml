@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@gosrum ！！ ryzen ai max でHalogen server使ってるんだけど、そろそろstrataに移行した方がいいかな？</title>
+      <link>https://x.com/shirasu_sann/status/2119231761678991581</link>
+      <description>しらす: @gosrum ！！ ryzen ai max でHalogen server使ってるんだけど、そろそろstrataに移行した方がいいかな？</description>
+      <pubDate>Sun, 08 Nov 2026 00:53:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shirasu_sann/status/2119231761678991581</guid>
+    </item>
+    <item>
+      <title>性能比較メモ ・読み込み Ryzen AI Max +：約0.137秒 RTX 5090：約0.020秒 ・生成速度 Qwen2.5 72B（Dense・4bit） 約3.4トークン/秒 30B級MoE（4bit・短い入力） 約88トークン/秒 Dense型かMoE型かで結果が大きく変わるとのこと 比較要素がまとまって増えたならまたポストするかもです</title>
+      <link>https://x.com/sifocche/status/2119111700536492188</link>
+      <description>みつばち: 性能比較メモ ・読み込み Ryzen AI Max +：約0.137秒 RTX 5090：約0.020秒 ・生成速度 Qwen2.5 72B（Dense・4bit） 約3.4トークン/秒 30B級MoE（4bit・短い入力） 約88トークン/秒 Dense型かMoE型かで結果が大きく変わるとのこと 比較要素がまとまって増えたならまたポストするかもです</description>
+      <pubDate>Sat, 07 Nov 2026 16:56:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sifocche/status/2119111700536492188</guid>
+    </item>
+    <item>
+      <title>@hakuginnorega 内蔵GPUとは思えないスコアでビックリなんよねw Ryzen AI MAX 392内蔵のRadeon 8060S</title>
+      <link>https://x.com/hirayu0611/status/2119006886917996998</link>
+      <description>ひらゆー 📷🐎撮り馬: @hakuginnorega 内蔵GPUとは思えないスコアでビックリなんよねw Ryzen AI MAX 392内蔵のRadeon 8060S</description>
+      <pubDate>Sat, 07 Nov 2026 09:59:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hirayu0611/status/2119006886917996998</guid>
+    </item>
+    <item>
       <title>Ryzen AI MAX 手に入れたことだしAI画像生成ツールのAmuseで生成速度がどのくらいのものなのか試してみるか～</title>
       <link>https://x.com/hirayu0611/status/2118847740163862840</link>
       <description>ひらゆー 📷🐎撮り馬: Ryzen AI MAX 手に入れたことだしAI画像生成ツールのAmuseで生成速度がどのくらいのものなのか試してみるか～</description>
@@ -255,27 +276,6 @@
       <description>Naoki@Radxa: Ryzen AI MAX なんて…(;_;)</description>
       <pubDate>Tue, 03 Nov 2026 07:25:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RadxaNaoki/status/2117518596725473433</guid>
-    </item>
-    <item>
-      <title>@Saimyozi サブPCに Ryzen AI MAX + 395なノートPC使ってますが、人数には強いけどエフェクトには弱い、な使い心地ですね。(HMDはpico4) 昨今の主なアバター負荷は割当メモリ容量でゴリ押せて、30人規模でFPSワールド行っても平気ですが、盛り盛りチルワだと一人でも無理です。</title>
-      <link>https://x.com/paissa_max/status/2117439649870467413</link>
-      <description>c.maxwell@Garuda: @Saimyozi サブPCに Ryzen AI MAX + 395なノートPC使ってますが、人数には強いけどエフェクトには弱い、な使い心地ですね。(HMDはpico4) 昨今の主なアバター負荷は割当メモリ容量でゴリ押せて、30人規模でFPSワールド行っても平気ですが、盛り盛りチルワだと一人でも無理です。</description>
-      <pubDate>Tue, 03 Nov 2026 02:12:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/paissa_max/status/2117439649870467413</guid>
-    </item>
-    <item>
-      <title>測ったのは、RTX 5090 + Ryzen AI Max + 395 の1台だけです。 ほかの GPU や RAM 容量での速さを教えてもらえると助かります。 ./abyss.sh --bench --deep の結果（abyss-bench.txt）を、Abyss の issue に貼ってください。 https://t.co/LQwp7tJ8Lw</title>
-      <link>https://x.com/zephel01_vc/status/2117304540106285392</link>
-      <description>くーるぜろ: 測ったのは、RTX 5090 + Ryzen AI Max + 395 の1台だけです。 ほかの GPU や RAM 容量での速さを教えてもらえると助かります。 ./abyss.sh --bench --deep の結果（abyss-bench.txt）を、Abyss の issue に貼ってください。 https://t.co/LQwp7tJ8Lw</description>
-      <pubDate>Mon, 02 Nov 2026 17:15:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zephel01_vc/status/2117304540106285392</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 495が出たら買おうか悩む。もう一家に一台ローカルAIの時代か。値段が安い車並みだが・・・。</title>
-      <link>https://x.com/hajimes/status/2117284170628239624</link>
-      <description>hajime: Ryzen AI Max + 495が出たら買おうか悩む。もう一家に一台ローカルAIの時代か。値段が安い車並みだが・・・。</description>
-      <pubDate>Mon, 02 Nov 2026 15:54:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hajimes/status/2117284170628239624</guid>
     </item>
   </channel>
 </rss>

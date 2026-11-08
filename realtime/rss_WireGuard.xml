@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>museたん、開発日記 - Google Colab 接続テストok SDXL画像生成。 - localPC接続 wireguard かtailscaleかと言われたので wireguard 選んだら使えません（ぉぃ - local PC(windows) , claudflare経由で接続、local ComfyUIを叩いた(イマココ) sdxlとかは基本系だけ入れておいてよかった。 https://t.co/gcDbBfuThh</title>
+      <link>https://x.com/nanase_oikawa/status/2119068249447092254</link>
+      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: museたん、開発日記 - Google Colab 接続テストok SDXL画像生成。 - localPC接続 wireguard かtailscaleかと言われたので wireguard 選んだら使えません（ぉぃ - local PC(windows) , claudflare経由で接続、local ComfyUIを叩いた(イマココ) sdxlとかは基本系だけ入れておいてよかった。 https://t.co/gcDbBfuThh</description>
+      <pubDate>Sat, 07 Nov 2026 14:03:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2119068249447092254</guid>
+    </item>
+    <item>
+      <title>ようやく実家サーバを wireguard 化できた… ｷﾞｯﾁｷﾞﾁに締めたiptablesのせいで中々接続できなかったぉ っていうかVPN便利だなぁ〜もっと早くこうしてればよかった☺️</title>
+      <link>https://x.com/dothiko_diy/status/2119051085604397254</link>
+      <description>モブ沢(電子): ようやく実家サーバを wireguard 化できた… ｷﾞｯﾁｷﾞﾁに締めたiptablesのせいで中々接続できなかったぉ っていうかVPN便利だなぁ〜もっと早くこうしてればよかった☺️</description>
+      <pubDate>Sat, 07 Nov 2026 12:55:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dothiko_diy/status/2119051085604397254</guid>
+    </item>
+    <item>
       <title>@L_port8080 対応は確かしていますが wireguard の対応versionに確かなんですが制限があるらしいんですよねなので詳細のとこまでは分からないです申し訳ないです、、でもやってみる価値ありですね！あと SideStore 0.6.4でCellular Refreshが追加されたのでやってみてください！</title>
       <link>https://x.com/iPhonedevelopee/status/2118984289606099098</link>
       <description>developerrr: @L_port8080 対応は確かしていますが wireguard の対応versionに確かなんですが制限があるらしいんですよねなので詳細のとこまでは分からないです申し訳ないです、、でもやってみる価値ありですね！あと SideStore 0.6.4でCellular Refreshが追加されたのでやってみてください！</description>
       <pubDate>Sat, 07 Nov 2026 08:29:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/iPhonedevelopee/status/2118984289606099098</guid>
+    </item>
+    <item>
+      <title>@iPhonedevelopee 参考になります！ ちなみに Wireguard のEMProxyは対応しているかなどわかりますか？</title>
+      <link>https://x.com/L_port8080/status/2118970902570471586</link>
+      <description>一樹（第二拠点）: @iPhonedevelopee 参考になります！ ちなみに Wireguard のEMProxyは対応しているかなどわかりますか？</description>
+      <pubDate>Sat, 07 Nov 2026 07:36:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2118970902570471586</guid>
     </item>
     <item>
       <title>DPDKルーター/開発環境を使って自分の欲しい機能全部載せルータを密かに作っています。 Publicに書いたのは初めて? OSS版のProjectは下記 https://t.co/yYcpGKcxt4 自分で書いていたEtherIP tunnelが...EVPN/VXLAN, 仮想ルータ, WireGuard , IPIP, 等々 途中からコードを書く楽しみが奪われましたが, https://t.co/Clknly52lj https://t.co/FqCpDHbyS5</title>
@@ -255,27 +276,6 @@
       <description>もつもつ: 脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</description>
       <pubDate>Wed, 28 Oct 2026 23:59:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mocchan_dev/status/2115594365695668696</guid>
-    </item>
-    <item>
-      <title>どうやって外部からアクセスしてるんだろ Wireguard を自力で張るのかな、まさか直にアクセスするわけないし、、、 Cloudflare Zero Trustは確かに良いけど層は増えるよね、、 https://t.co/HqpEHA3LR3</title>
-      <link>https://x.com/i09jp/status/2115450429169660389</link>
-      <description>Kisaraki2021: どうやって外部からアクセスしてるんだろ Wireguard を自力で張るのかな、まさか直にアクセスするわけないし、、、 Cloudflare Zero Trustは確かに良いけど層は増えるよね、、 https://t.co/HqpEHA3LR3</description>
-      <pubDate>Wed, 28 Oct 2026 14:27:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/i09jp/status/2115450429169660389</guid>
-    </item>
-    <item>
-      <title>@R0Msendayo 拠点間接続にIPv6ネットワークの wireguard を使う 内部はIPv4/IPv6のDSをそのまま通せるのでルーティングするだけ</title>
-      <link>https://x.com/maruru_289/status/2115425091274277283</link>
-      <description>田都 アリエル: @R0Msendayo 拠点間接続にIPv6ネットワークの wireguard を使う 内部はIPv4/IPv6のDSをそのまま通せるのでルーティングするだけ</description>
-      <pubDate>Wed, 28 Oct 2026 12:46:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/maruru_289/status/2115425091274277283</guid>
-    </item>
-    <item>
-      <title>以前 wireguard VPNを構築して、外出先のスマホから自宅PCの閉域ネットワークにリモートアクセス出来る様になったけど、頻繁にVPNが切断されてしまうの何故なんだろう。 とりあえずログ取得して解析して安定稼働を目指そう。</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2115386476989125116</link>
-      <description>有機体46B: 以前 wireguard VPNを構築して、外出先のスマホから自宅PCの閉域ネットワークにリモートアクセス出来る様になったけど、頻繁にVPNが切断されてしまうの何故なんだろう。 とりあえずログ取得して解析して安定稼働を目指そう。</description>
-      <pubDate>Wed, 28 Oct 2026 10:13:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2115386476989125116</guid>
     </item>
   </channel>
 </rss>

@@ -117,20 +117,6 @@
       <guid isPermaLink="true">https://x.com/n4ne_3/status/2109199117893423417</guid>
     </item>
     <item>
-      <title>MetaのエンジニアがLinux向けに開発した圧縮メモリ技術「CRAM」が、既存の ZRAM と比べて読み取り性能で最大452倍の改善を達成したと報告されています。 スワップ経由という迂回路を排除し、NUMAノードとして直接メモリ上で動かすという発想の転換が、この大幅な性能向上につながっているようです。 https://t.co/4o2RqiSAou</title>
-      <link>https://x.com/techfeedapp/status/2108309679465955661</link>
-      <description>TechFeed公式: MetaのエンジニアがLinux向けに開発した圧縮メモリ技術「CRAM」が、既存の ZRAM と比べて読み取り性能で最大452倍の改善を達成したと報告されています。 スワップ経由という迂回路を排除し、NUMAノードとして直接メモリ上で動かすという発想の転換が、この大幅な性能向上につながっているようです。 https://t.co/4o2RqiSAou</description>
-      <pubDate>Thu, 08 Oct 2026 21:32:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/techfeedapp/status/2108309679465955661</guid>
-    </item>
-    <item>
-      <title>何言ってるのかと思ったら、 ZRAM （ディスク扱いの圧縮領域でディスクI/Oのオーバーヘッドがある）と比べて、ディスク扱いしないRAM領域のまま圧縮領域を作ったら動作が速かった ってことかな https://t.co/LzxTUIHYnF</title>
-      <link>https://x.com/Tizumi_meed/status/2108157856738578688</link>
-      <description>Tizumi 水地千澄: 何言ってるのかと思ったら、 ZRAM （ディスク扱いの圧縮領域でディスクI/Oのオーバーヘッドがある）と比べて、ディスク扱いしないRAM領域のまま圧縮領域を作ったら動作が速かった ってことかな https://t.co/LzxTUIHYnF</description>
-      <pubDate>Thu, 08 Oct 2026 11:29:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tizumi_meed/status/2108157856738578688</guid>
-    </item>
-    <item>
       <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>
       <link>https://x.com/joho_no_todai/status/2107107612995260785</link>
       <description>情報の灯台: Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</description>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>結局通勤時HTBは、 Cloudflare Tunnel で家のMac/UTM上のKaliを公開して、会社MacからCloudflared経由でRDPすることで決着。一桁Mbpsのテザリングでも快適に動く。RDPすごすぎる。会社MacはTailscaleもChrome RDPも禁止だけどなぜか素通し、わはは。</title>
+      <link>https://x.com/ABAB2F/status/2118871699014004759</link>
+      <description>a24b: 結局通勤時HTBは、 Cloudflare Tunnel で家のMac/UTM上のKaliを公開して、会社MacからCloudflared経由でRDPすることで決着。一桁Mbpsのテザリングでも快適に動く。RDPすごすぎる。会社MacはTailscaleもChrome RDPも禁止だけどなぜか素通し、わはは。</description>
+      <pubDate>Sat, 07 Nov 2026 01:02:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ABAB2F/status/2118871699014004759</guid>
+    </item>
+    <item>
       <title>claudflearトンネルをterraform+nixで管理することでjson一つ編集するだけでlocalhostを公開できるようになった NixOS側のcloudflared ingressとTerraform側のDNS/Tunnel定義が両方更新される。 domain -&gt; DNS ( Cloudflare tunnel ) -&gt; NixOS -&gt; ingress port振り分け https://t.co/ccAapZXL4l</title>
       <link>https://x.com/ren8peter/status/2118725485417087206</link>
       <description>ren: claudflearトンネルをterraform+nixで管理することでjson一つ編集するだけでlocalhostを公開できるようになった NixOS側のcloudflared ingressとTerraform側のDNS/Tunnel定義が両方更新される。 domain -&gt; DNS ( Cloudflare tunnel ) -&gt; NixOS -&gt; ingress port振り分け https://t.co/ccAapZXL4l</description>
@@ -138,6 +145,13 @@
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
     </item>
     <item>
+      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
+      <link>https://x.com/levelsio/status/2116949634111115348</link>
+      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
+      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
+    </item>
+    <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
       <link>https://x.com/5yuim/status/2116860193086845095</link>
       <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
@@ -262,20 +276,6 @@
       <description>dex: @toruoka2016 GMOのやつはWindows+RDPのようですね。 sshで公開鍵認証(ed25519)なら安心。パスワード認証は不安。 fail2banでN回失敗したらIP banや、そもそも Cloudflare Tunnel でssh portを外部に公開しない方法であればより安心かと</description>
       <pubDate>Tue, 27 Oct 2026 09:48:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/dexdev/status/2115017756605387187</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</title>
-      <link>https://x.com/kxn/status/2114949990477127905</link>
-      <description>けｎ: Cloudflare Tunnel の更新通知が来たがこれもここのところ更新頻度が高い</description>
-      <pubDate>Tue, 27 Oct 2026 05:19:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kxn/status/2114949990477127905</guid>
-    </item>
-    <item>
-      <title>昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</title>
-      <link>https://x.com/keiji_dl/status/2114925518055419958</link>
-      <description>神草経知｜NLP・Codex・Claude Code・Coworkをビジネス価値に変換する人: 昨日一日かけて、Tailwormについて調査しTailscaleから cloudflare tunnel &amp; Zero Trustに移行しました。→Cloudflare設定がUIかなりわかりやすいのですが設定ミスると簡単にローカルPC全世界公開できちゃうこともわかって冷や汗💦こういうのは落ち着いてやるべしですね。 https://t.co/f5czbqzKxT https://t.co/fg9TxKTT1D</description>
-      <pubDate>Tue, 27 Oct 2026 03:41:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/keiji_dl/status/2114925518055419958</guid>
     </item>
   </channel>
 </rss>
