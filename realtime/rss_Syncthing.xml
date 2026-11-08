@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing で同期したくないファイルは、同期フォルダの直下に置く .stignore で決められます。一時ファイルやキャッシュを別の機器へ流したくない時に使います。 ここに外したいファイルやフォルダの名前を書いておくと、同期の対象から外れます。 https://t.co/hLI7lkB3np</title>
+      <link>https://x.com/murasametech/status/2119308948688003316</link>
+      <description>むらさん(Murasan): Syncthing で同期したくないファイルは、同期フォルダの直下に置く .stignore で決められます。一時ファイルやキャッシュを別の機器へ流したくない時に使います。 ここに外したいファイルやフォルダの名前を書いておくと、同期の対象から外れます。 https://t.co/hLI7lkB3np</description>
+      <pubDate>Sun, 08 Nov 2026 06:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/murasametech/status/2119308948688003316</guid>
+    </item>
+    <item>
       <title>映像データのやりとり syncthing でやるようになって、いちいちクラウドストレージからzipでアップロードとかダウンロードとかしなくて良くなってかなり快適になった。こんなもの本当に無料で良いんだろうか…ありがたい</title>
       <link>https://x.com/denkiry/status/2118530542413242451</link>
       <description>方山れいこ: 映像データのやりとり syncthing でやるようになって、いちいちクラウドストレージからzipでアップロードとかダウンロードとかしなくて良くなってかなり快適になった。こんなもの本当に無料で良いんだろうか…ありがたい</description>
@@ -269,20 +276,6 @@
       <description>Grok: @moguno HelixNotesが条件に合いそう。プレーンな.mdファイルとフォルダで動くのでAIフレンドリー。Tauri製でネットワークパスも扱いやすい。デスクトップ・Android・iOS対応、無料OSS。WebDAVや Syncthing でスマホ同期も可能。SoloMDも似た感じでAI連携が強い。</description>
       <pubDate>Sat, 17 Oct 2026 02:33:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/grok/status/2111284399815684390</guid>
-    </item>
-    <item>
-      <title>企画プロジェクトの同期手段をgitから Syncthing に変えたらとても快適になった</title>
-      <link>https://x.com/skybq/status/2110717966329487506</link>
-      <description>skybq: 企画プロジェクトの同期手段をgitから Syncthing に変えたらとても快適になった</description>
-      <pubDate>Thu, 15 Oct 2026 13:02:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/skybq/status/2110717966329487506</guid>
-    </item>
-    <item>
-      <title>メインPCとUbuntu server PCのctxを Syncthing で双方向同期してたはずが止まってた。</title>
-      <link>https://x.com/nil_motty93/status/2110602848623116323</link>
-      <description>もてぃ💪Engineer: メインPCとUbuntu server PCのctxを Syncthing で双方向同期してたはずが止まってた。</description>
-      <pubDate>Thu, 15 Oct 2026 05:25:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nil_motty93/status/2110602848623116323</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>私のスープカレーはアイデアの宝庫😂🖕 Conduit × Cloudflare Tunnel × Matrixプロトコルで、信頼できるコミュニティベースの新しい文献ライセンス管理と自由共有、トレーサビリティ自動管理からのRemixやフォークを追跡するセキュアアーキテクチャを設計する😍 サーフェスWebでは悪意を締め出せない🤔 https://t.co/DW8TXxsFP8 https://t.co/Fvo8nznF4V</title>
+      <link>https://x.com/tomoyan596sp/status/2119231441636905331</link>
+      <description>🐇🌹👠𝕿𝖔𝖒𝖔𝖞𝖆𝖓🐳🦌🍛💪😜: 私のスープカレーはアイデアの宝庫😂🖕 Conduit × Cloudflare Tunnel × Matrixプロトコルで、信頼できるコミュニティベースの新しい文献ライセンス管理と自由共有、トレーサビリティ自動管理からのRemixやフォークを追跡するセキュアアーキテクチャを設計する😍 サーフェスWebでは悪意を締め出せない🤔 https://t.co/DW8TXxsFP8 https://t.co/Fvo8nznF4V</description>
+      <pubDate>Sun, 08 Nov 2026 00:52:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tomoyan596sp/status/2119231441636905331</guid>
+    </item>
+    <item>
       <title>結局通勤時HTBは、 Cloudflare Tunnel で家のMac/UTM上のKaliを公開して、会社MacからCloudflared経由でRDPすることで決着。一桁Mbpsのテザリングでも快適に動く。RDPすごすぎる。会社MacはTailscaleもChrome RDPも禁止だけどなぜか素通し、わはは。</title>
       <link>https://x.com/ABAB2F/status/2118871699014004759</link>
       <description>a24b: 結局通勤時HTBは、 Cloudflare Tunnel で家のMac/UTM上のKaliを公開して、会社MacからCloudflared経由でRDPすることで決着。一桁Mbpsのテザリングでも快適に動く。RDPすごすぎる。会社MacはTailscaleもChrome RDPも禁止だけどなぜか素通し、わはは。</description>
@@ -143,13 +150,6 @@
       <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
       <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
-    </item>
-    <item>
-      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
-      <link>https://x.com/levelsio/status/2116949634111115348</link>
-      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
-      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
     </item>
     <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>

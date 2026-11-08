@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Kagoya VPS 契約してみた。 Wireguard 中継用に一台 VPS が欲しかったんだよね。 GMO 使いたくねぇ・・・ってことで何となく。 決済は GMO ペイメントゲートウェイだったわ・・・ｗ</title>
+      <link>https://x.com/jptakiR813/status/2119350723637129590</link>
+      <description>takidem: Kagoya VPS 契約してみた。 Wireguard 中継用に一台 VPS が欲しかったんだよね。 GMO 使いたくねぇ・・・ってことで何となく。 決済は GMO ペイメントゲートウェイだったわ・・・ｗ</description>
+      <pubDate>Sun, 08 Nov 2026 08:46:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jptakiR813/status/2119350723637129590</guid>
+    </item>
+    <item>
+      <title>wireguard の設定ファイルを生成するスクリプト作った☺️ 超ラクになったけど考えてみるとそんなに使わないんよね🥴</title>
+      <link>https://x.com/dothiko_diy/status/2119309628186173625</link>
+      <description>モブ沢(電子): wireguard の設定ファイルを生成するスクリプト作った☺️ 超ラクになったけど考えてみるとそんなに使わないんよね🥴</description>
+      <pubDate>Sun, 08 Nov 2026 06:02:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/dothiko_diy/status/2119309628186173625</guid>
+    </item>
+    <item>
+      <title>@vani_mymy 設定の問題じゃなくてプロトコルの前提ですね。 WireGuard は相手の実エンドポイントを保持しないと通信できないので、VPN 通してても打洞が成功した時点で実 IP がピアに残ります。tailscale status でそのまま見えます。</title>
+      <link>https://x.com/joev7hu/status/2119073083101417571</link>
+      <description>Joe: @vani_mymy 設定の問題じゃなくてプロトコルの前提ですね。 WireGuard は相手の実エンドポイントを保持しないと通信できないので、VPN 通してても打洞が成功した時点で実 IP がピアに残ります。tailscale status でそのまま見えます。</description>
+      <pubDate>Sat, 07 Nov 2026 14:22:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joev7hu/status/2119073083101417571</guid>
+    </item>
+    <item>
       <title>museたん、開発日記 - Google Colab 接続テストok SDXL画像生成。 - localPC接続 wireguard かtailscaleかと言われたので wireguard 選んだら使えません（ぉぃ - local PC(windows) , claudflare経由で接続、local ComfyUIを叩いた(イマココ) sdxlとかは基本系だけ入れておいてよかった。 https://t.co/gcDbBfuThh</title>
       <link>https://x.com/nanase_oikawa/status/2119068249447092254</link>
       <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: museたん、開発日記 - Google Colab 接続テストok SDXL画像生成。 - localPC接続 wireguard かtailscaleかと言われたので wireguard 選んだら使えません（ぉぃ - local PC(windows) , claudflare経由で接続、local ComfyUIを叩いた(イマココ) sdxlとかは基本系だけ入れておいてよかった。 https://t.co/gcDbBfuThh</description>
@@ -255,27 +276,6 @@
       <description>アン: この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</description>
       <pubDate>Thu, 29 Oct 2026 07:56:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ckkinn/status/2115714374753263753</guid>
-    </item>
-    <item>
-      <title>やっぱり WireGuard の導入ですかね。</title>
-      <link>https://x.com/saint_minny/status/2115711550770336109</link>
-      <description>Minny: やっぱり WireGuard の導入ですかね。</description>
-      <pubDate>Thu, 29 Oct 2026 07:45:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/saint_minny/status/2115711550770336109</guid>
-    </item>
-    <item>
-      <title>す～げ～アレコレ苦心した挙句、借りてるVPS2個目とスマホの Wireguard 接続ができた マジで何故か分からないけど持続的キープアライブを設定しないと通信でハンドシェイクしてくれなかったな スマホをクライアントにする場合だけかもしれないケド……</title>
-      <link>https://x.com/epEAUAekqt79043/status/2115607474049028112</link>
-      <description>末​⁠͏⁠⁠端​⁠͏⁠⁠消​⁠͏⁠⁠費​⁠͏⁠⁠者: す～げ～アレコレ苦心した挙句、借りてるVPS2個目とスマホの Wireguard 接続ができた マジで何故か分からないけど持続的キープアライブを設定しないと通信でハンドシェイクしてくれなかったな スマホをクライアントにする場合だけかもしれないケド……</description>
-      <pubDate>Thu, 29 Oct 2026 00:51:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/epEAUAekqt79043/status/2115607474049028112</guid>
-    </item>
-    <item>
-      <title>脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</title>
-      <link>https://x.com/mocchan_dev/status/2115594365695668696</link>
-      <description>もつもつ: 脱tailscaleに向けて本格的に WireGuard のお勉強を始めるなど</description>
-      <pubDate>Wed, 28 Oct 2026 23:59:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mocchan_dev/status/2115594365695668696</guid>
     </item>
   </channel>
 </rss>

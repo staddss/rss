@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@from_VKHI たまーーーーーーにzrok経由で code - server とつないでやってたりする...</title>
+      <link>https://x.com/michikusamichi/status/2119273828694274243</link>
+      <description>exploder.exe: @from_VKHI たまーーーーーーにzrok経由で code - server とつないでやってたりする...</description>
+      <pubDate>Sun, 08 Nov 2026 03:40:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/michikusamichi/status/2119273828694274243</guid>
+    </item>
+    <item>
       <title>Rob Pruzan氏が作ったterminal-codeはVS Code互換のエディタをターミナルで動かせるツールで、SSH先でもGUIみたいに操作できるのが熱い。terminal-browserと code - server を組み合わせてKittyのプロトコルで描画する仕組みらし… #terminal-code #VSCode #Kittygraphicsprotocol</title>
       <link>https://x.com/ua5aw98z/status/2118084926390313330</link>
       <description>ua5aw98z: Rob Pruzan氏が作ったterminal-codeはVS Code互換のエディタをターミナルで動かせるツールで、SSH先でもGUIみたいに操作できるのが熱い。terminal-browserと code - server を組み合わせてKittyのプロトコルで描画する仕組みらし… #terminal-code #VSCode #Kittygraphicsprotocol</description>
@@ -122,13 +129,6 @@
       <description>Kazuki_Adachi: 今日のハンズオンの記事を書きました！ &quot;EC2 ではなく AWS Lambda MicroVMs 上の code - server で Strands Decider ハンズオンを完走した話&quot; https://t.co/4zs5CkZCwd #jawsug_tokyo #AIBuildersDay2026</description>
       <pubDate>Thu, 08 Oct 2026 14:06:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/k_adachi_01/status/2108197467431031158</guid>
-    </item>
-    <item>
-      <title>今日のハンズオンはKiro University Challengeで作った「 Code Server on Lambda MicroVMs」の上でStrands Decider動かしてみる予定（公式手順はEC2だけど） https://t.co/mTaVlNcTKO 上手くいったらハンズオンに色々使えそうなのでブログ書きます！ #jawsug_tokyo #AIBuildersDay2026 https://t.co/Z4kfoKvdsc</title>
-      <link>https://x.com/k_adachi_01/status/2108133175092482525</link>
-      <description>Kazuki_Adachi: 今日のハンズオンはKiro University Challengeで作った「 Code Server on Lambda MicroVMs」の上でStrands Decider動かしてみる予定（公式手順はEC2だけど） https://t.co/mTaVlNcTKO 上手くいったらハンズオンに色々使えそうなのでブログ書きます！ #jawsug_tokyo #AIBuildersDay2026 https://t.co/Z4kfoKvdsc</description>
-      <pubDate>Thu, 08 Oct 2026 09:51:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/k_adachi_01/status/2108133175092482525</guid>
     </item>
   </channel>
 </rss>
