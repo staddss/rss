@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@septhmon 今ごろ気づきました、ありがとうございます。コピー→削除ならカード出ないんですね。その時は結局、 rclone のサーバー側移動で一気に片付けました。コネクタ経由でも回避ルートがあったとは。次に大量整理するとき試してみます</title>
+      <link>https://x.com/RmSg3_ta/status/2119319088254296369</link>
+      <description>マンマ・メッサーノ: @septhmon 今ごろ気づきました、ありがとうございます。コピー→削除ならカード出ないんですね。その時は結局、 rclone のサーバー側移動で一気に片付けました。コネクタ経由でも回避ルートがあったとは。次に大量整理するとき試してみます</description>
+      <pubDate>Sun, 08 Nov 2026 06:40:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/RmSg3_ta/status/2119319088254296369</guid>
+    </item>
+    <item>
       <title>@mujina811455 nasが最適解だけど、例えば rclone を使って二つのSSD/HDDを即座に同期させるという運用も可能。この場合分散してるので、壊れてもクローンがある一方、バックアップではないので壊れたファイルを上書きしたら、もう片方も壊れる。同時かは設定次第。snapshotをとっておくことをお勧めする。</title>
       <link>https://x.com/ord9xr/status/2118921171307782161</link>
       <description>デジバーガー(デジリ): @mujina811455 nasが最適解だけど、例えば rclone を使って二つのSSD/HDDを即座に同期させるという運用も可能。この場合分散してるので、壊れてもクローンがある一方、バックアップではないので壊れたファイルを上書きしたら、もう片方も壊れる。同時かは設定次第。snapshotをとっておくことをお勧めする。</description>
@@ -269,13 +276,6 @@
       <description>こてつ(ONO,Tetsuo): @bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</description>
       <pubDate>Sun, 25 Oct 2026 04:17:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/g_plains/status/2114209832672890893</guid>
-    </item>
-    <item>
-      <title>な、7zipも対象....?! (あいつもnwに繋がるんだっけ、ってことはnwつながるやつ、つまるところ rclone も対象かーめんどくさい) https://t.co/os3SpkmX3X</title>
-      <link>https://x.com/g_plains/status/2114189794163183726</link>
-      <description>こてつ(ONO,Tetsuo): な、7zipも対象....?! (あいつもnwに繋がるんだっけ、ってことはnwつながるやつ、つまるところ rclone も対象かーめんどくさい) https://t.co/os3SpkmX3X</description>
-      <pubDate>Sun, 25 Oct 2026 02:58:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2114189794163183726</guid>
     </item>
   </channel>
 </rss>

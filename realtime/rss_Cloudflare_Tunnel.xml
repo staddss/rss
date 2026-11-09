@@ -152,6 +152,13 @@
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
     </item>
     <item>
+      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
+      <link>https://x.com/levelsio/status/2116949634111115348</link>
+      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
+      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
+    </item>
+    <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
       <link>https://x.com/5yuim/status/2116860193086845095</link>
       <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
@@ -269,13 +276,6 @@
       <description>tai-kun: OpenCode と Cloudflare Tunnel の相性良くない。1~2日に 1 回は 502 出してくる。そのたびに Safari の設定からサイトデータ削除してログインし直し。</description>
       <pubDate>Wed, 28 Oct 2026 00:36:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/taikun_dev/status/2115241280628515111</guid>
-    </item>
-    <item>
-      <title>@toruoka2016 GMOのやつはWindows+RDPのようですね。 sshで公開鍵認証(ed25519)なら安心。パスワード認証は不安。 fail2banでN回失敗したらIP banや、そもそも Cloudflare Tunnel でssh portを外部に公開しない方法であればより安心かと</title>
-      <link>https://x.com/dexdev/status/2115017756605387187</link>
-      <description>dex: @toruoka2016 GMOのやつはWindows+RDPのようですね。 sshで公開鍵認証(ed25519)なら安心。パスワード認証は不安。 fail2banでN回失敗したらIP banや、そもそも Cloudflare Tunnel でssh portを外部に公開しない方法であればより安心かと</description>
-      <pubDate>Tue, 27 Oct 2026 09:48:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dexdev/status/2115017756605387187</guid>
     </item>
   </channel>
 </rss>

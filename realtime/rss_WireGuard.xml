@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard とOpenVPN、どっちを選べばいい？🤔 VPN選びで知っておきたい2つのプロトコルを比較！ 🔹 WireGuard ：高速でシンプルな設計 🔹 OpenVPN：TCP・UDP対応で設定の自由度が高い https://t.co/LWmre07EdL</title>
+      <link>https://x.com/myvoicejp/status/2119399544303587817</link>
+      <description>VPNえらび｜VPN比較・おすすめ情報: WireGuard とOpenVPN、どっちを選べばいい？🤔 VPN選びで知っておきたい2つのプロトコルを比較！ 🔹 WireGuard ：高速でシンプルな設計 🔹 OpenVPN：TCP・UDP対応で設定の自由度が高い https://t.co/LWmre07EdL</description>
+      <pubDate>Sun, 08 Nov 2026 12:00:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/myvoicejp/status/2119399544303587817</guid>
+    </item>
+    <item>
+      <title>iPhone, WireGuard 経由で LAN 内 VPN 構築して Spark ネットワーク接続できた 監視画面だけだからとりあえずはいいでしょう</title>
+      <link>https://x.com/Astrisk_/status/2119371385709731868</link>
+      <description>たっけん@あすた🍃🌸🦊: iPhone, WireGuard 経由で LAN 内 VPN 構築して Spark ネットワーク接続できた 監視画面だけだからとりあえずはいいでしょう</description>
+      <pubDate>Sun, 08 Nov 2026 10:08:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Astrisk_/status/2119371385709731868</guid>
+    </item>
+    <item>
       <title>Kagoya VPS 契約してみた。 Wireguard 中継用に一台 VPS が欲しかったんだよね。 GMO 使いたくねぇ・・・ってことで何となく。 決済は GMO ペイメントゲートウェイだったわ・・・ｗ</title>
       <link>https://x.com/jptakiR813/status/2119350723637129590</link>
       <description>takidem: Kagoya VPS 契約してみた。 Wireguard 中継用に一台 VPS が欲しかったんだよね。 GMO 使いたくねぇ・・・ってことで何となく。 決済は GMO ペイメントゲートウェイだったわ・・・ｗ</description>
@@ -262,20 +276,6 @@
       <description>lifecycle: @litzhaus @internet_watch IPsec、 WireGuard 、OpenVPNなどは破られた実績はありません。 簡易なVPNや安易な運用が脆弱をもたらすだけ。ゼロトラストを目指しても結局パスワードを盗まれたりなりすまされれば同じこと。ZTNAへ移行してもです。 だから技術ありきでは無くプロセスありきなんです。</description>
       <pubDate>Thu, 29 Oct 2026 12:14:43 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/everytimesme/status/2115779358854148202</guid>
-    </item>
-    <item>
-      <title>スマホから Wireguard 繋ごうと思ったけど入れてないや</title>
-      <link>https://x.com/croisstra/status/2115770347513594025</link>
-      <description>croisstra: スマホから Wireguard 繋ごうと思ったけど入れてないや</description>
-      <pubDate>Thu, 29 Oct 2026 11:38:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/croisstra/status/2115770347513594025</guid>
-    </item>
-    <item>
-      <title>この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</title>
-      <link>https://x.com/ckkinn/status/2115714374753263753</link>
-      <description>アン: この記事の警告についてMuseと相談して外からスキャンしてVPNの存在が分かるL2TPとOpenVPNは閉じることにした。存在が分からない WireGuard だけ残した。 VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない - INTERNET Watch https://t.co/eXeXYr2DdG</description>
-      <pubDate>Thu, 29 Oct 2026 07:56:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ckkinn/status/2115714374753263753</guid>
     </item>
   </channel>
 </rss>
