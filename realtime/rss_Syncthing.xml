@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>syncthing + ObsidianでMDはじめ諸ファイルをAIたちとやり取りできるようにした。 複数モデル使うとなるとあると便利。</title>
+      <link>https://x.com/chongha_xi/status/2119650634454708590</link>
+      <description>ちゃんしー（みるら）: syncthing + ObsidianでMDはじめ諸ファイルをAIたちとやり取りできるようにした。 複数モデル使うとなるとあると便利。</description>
+      <pubDate>Mon, 09 Nov 2026 04:37:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chongha_xi/status/2119650634454708590</guid>
+    </item>
+    <item>
+      <title>synologyにtailscaleとか syncthing とか入れて、obsidian同期させるぞ～～ってなった時にwindowsのobsidianのダウンロード先が死んでて、てめぇ様は、何をしてくれちゃってんだスギ？ってなった</title>
+      <link>https://x.com/nulo_for_vtuber/status/2119365097592393763</link>
+      <description>NULO@金沢さんぽ11/14-11/15: synologyにtailscaleとか syncthing とか入れて、obsidian同期させるぞ～～ってなった時にwindowsのobsidianのダウンロード先が死んでて、てめぇ様は、何をしてくれちゃってんだスギ？ってなった</description>
+      <pubDate>Sun, 08 Nov 2026 09:43:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nulo_for_vtuber/status/2119365097592393763</guid>
+    </item>
+    <item>
       <title>Syncthing で同期したくないファイルは、同期フォルダの直下に置く .stignore で決められます。一時ファイルやキャッシュを別の機器へ流したくない時に使います。 ここに外したいファイルやフォルダの名前を書いておくと、同期の対象から外れます。 https://t.co/hLI7lkB3np</title>
       <link>https://x.com/murasametech/status/2119308948688003316</link>
       <description>むらさん(Murasan): Syncthing で同期したくないファイルは、同期フォルダの直下に置く .stignore で決められます。一時ファイルやキャッシュを別の機器へ流したくない時に使います。 ここに外したいファイルやフォルダの名前を書いておくと、同期の対象から外れます。 https://t.co/hLI7lkB3np</description>
@@ -262,20 +276,6 @@
       <description>おもち: よさそう。 syncthing みたいな感じで自分のパソコン2台で使えるのかな https://t.co/rIO8B6OmRF</description>
       <pubDate>Sun, 18 Oct 2026 21:37:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ricecakemochi/status/2111934668975362258</guid>
-    </item>
-    <item>
-      <title>@moshimoni_com そうですねその認識で問題ないかと 不便ですがパスワード管理を提供するさーびすが信用できないとなると自己管理しかないのかなと データベースファイル破損の可能性もありますが Syncthing で同期するという方法もあったりはします 僕はProton Passとかでええかなというのが正直な所です</title>
-      <link>https://x.com/ryo14636405/status/2111450516475744266</link>
-      <description>Ryo: @moshimoni_com そうですねその認識で問題ないかと 不便ですがパスワード管理を提供するさーびすが信用できないとなると自己管理しかないのかなと データベースファイル破損の可能性もありますが Syncthing で同期するという方法もあったりはします 僕はProton Passとかでええかなというのが正直な所です</description>
-      <pubDate>Sat, 17 Oct 2026 13:33:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryo14636405/status/2111450516475744266</guid>
-    </item>
-    <item>
-      <title>@moguno HelixNotesが条件に合いそう。プレーンな.mdファイルとフォルダで動くのでAIフレンドリー。Tauri製でネットワークパスも扱いやすい。デスクトップ・Android・iOS対応、無料OSS。WebDAVや Syncthing でスマホ同期も可能。SoloMDも似た感じでAI連携が強い。</title>
-      <link>https://x.com/grok/status/2111284399815684390</link>
-      <description>Grok: @moguno HelixNotesが条件に合いそう。プレーンな.mdファイルとフォルダで動くのでAIフレンドリー。Tauri製でネットワークパスも扱いやすい。デスクトップ・Android・iOS対応、無料OSS。WebDAVや Syncthing でスマホ同期も可能。SoloMDも似た感じでAI連携が強い。</description>
-      <pubDate>Sat, 17 Oct 2026 02:33:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2111284399815684390</guid>
     </item>
   </channel>
 </rss>

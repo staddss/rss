@@ -25,19 +25,5 @@
       <pubDate>Sat, 10 Oct 2026 17:08:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AkiraLyuuu/status/2108967849402486818</guid>
     </item>
-    <item>
-      <title>補足：libinputのdwtは内蔵キーボードとしかペアにならない（外付けで打鍵中に内蔵タッチパッドが止まらないように）。 xremap の仮想キーボードは内蔵と判定されないので、打鍵してもタッチパッドが止まらなかった。</title>
-      <link>https://x.com/imtaplet/status/2108718038392721427</link>
-      <description>imtaplet@元駆け出しエンジニア: 補足：libinputのdwtは内蔵キーボードとしかペアにならない（外付けで打鍵中に内蔵タッチパッドが止まらないように）。 xremap の仮想キーボードは内蔵と判定されないので、打鍵してもタッチパッドが止まらなかった。</description>
-      <pubDate>Sat, 10 Oct 2026 00:35:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imtaplet/status/2108718038392721427</guid>
-    </item>
-    <item>
-      <title>【備忘録】 キー入力中にうっかり手のひらがタッチパッドに触れてカーソルが動いてしまう問題を解決するためにdwt（Disable While Typing）設定を有効にしたい。有効にしたつもりなのに体感としてdwtが効かなかった。環境： xremap 使用 👇解決策と原因</title>
-      <link>https://x.com/imtaplet/status/2108717091524358202</link>
-      <description>imtaplet@元駆け出しエンジニア: 【備忘録】 キー入力中にうっかり手のひらがタッチパッドに触れてカーソルが動いてしまう問題を解決するためにdwt（Disable While Typing）設定を有効にしたい。有効にしたつもりなのに体感としてdwtが効かなかった。環境： xremap 使用 👇解決策と原因</description>
-      <pubDate>Sat, 10 Oct 2026 00:31:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/imtaplet/status/2108717091524358202</guid>
-    </item>
   </channel>
 </rss>

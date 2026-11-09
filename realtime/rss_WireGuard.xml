@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>んー、今々の頭で思い浮かんでる実際に買ってリプレースしたいネットワーク機材の概算が15万円くらいだが、正直10年使ってる箇所が多い分あんまり引っ張りすぎても後で白目むくの自分なんだよなー。。。 まさか wireguard やらせてたVPNルータが物理的に死ぬとはね。</title>
+      <link>https://x.com/Ckurai/status/2119722596745023601</link>
+      <description>倉井: んー、今々の頭で思い浮かんでる実際に買ってリプレースしたいネットワーク機材の概算が15万円くらいだが、正直10年使ってる箇所が多い分あんまり引っ張りすぎても後で白目むくの自分なんだよなー。。。 まさか wireguard やらせてたVPNルータが物理的に死ぬとはね。</description>
+      <pubDate>Mon, 09 Nov 2026 09:23:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Ckurai/status/2119722596745023601</guid>
+    </item>
+    <item>
+      <title>GL-MG1300から WireGuard で自宅回線経由のVPN接続 https://t.co/APsCouXhu9</title>
+      <link>https://x.com/amatun9/status/2119685277715444134</link>
+      <description>しかこう: GL-MG1300から WireGuard で自宅回線経由のVPN接続 https://t.co/APsCouXhu9</description>
+      <pubDate>Mon, 09 Nov 2026 06:55:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amatun9/status/2119685277715444134</guid>
+    </item>
+    <item>
+      <title>@Astrisk_ 凄い！クセのあるUniFi純正の WireGuard サーバ使いこなしてるのがまず凄いし、AIサーバをちゃんとセグメント分けてるのもさすがだ！ 参考になります！📝</title>
+      <link>https://x.com/hamkichi_north/status/2119467194946130351</link>
+      <description>北のはむきち: @Astrisk_ 凄い！クセのあるUniFi純正の WireGuard サーバ使いこなしてるのがまず凄いし、AIサーバをちゃんとセグメント分けてるのもさすがだ！ 参考になります！📝</description>
+      <pubDate>Sun, 08 Nov 2026 16:28:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hamkichi_north/status/2119467194946130351</guid>
+    </item>
+    <item>
       <title>WireGuard とOpenVPN、どっちを選べばいい？🤔 VPN選びで知っておきたい2つのプロトコルを比較！ 🔹 WireGuard ：高速でシンプルな設計 🔹 OpenVPN：TCP・UDP対応で設定の自由度が高い https://t.co/LWmre07EdL</title>
       <link>https://x.com/myvoicejp/status/2119399544303587817</link>
       <description>VPNえらび｜VPN比較・おすすめ情報: WireGuard とOpenVPN、どっちを選べばいい？🤔 VPN選びで知っておきたい2つのプロトコルを比較！ 🔹 WireGuard ：高速でシンプルな設計 🔹 OpenVPN：TCP・UDP対応で設定の自由度が高い https://t.co/LWmre07EdL</description>
@@ -255,27 +276,6 @@
       <description>おやぐまさん: 使ってるVPSにubuntu 24.04があるからアプデかけなきゃ…。とはいえインバウンドはUDPを Wireguard 用に1つ開けてるだけだから、後でさくっとやっておこう&lt;RP</description>
       <pubDate>Fri, 30 Oct 2026 00:43:37 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/oyaguma3/status/2115967827236827279</guid>
-    </item>
-    <item>
-      <title>そうか WireGuard 入れて IP制限したら良いのか？ラズパイもミニパソコンも おー かなりセキュリティ強固になる</title>
-      <link>https://x.com/kazuandmaho/status/2115943577348153599</link>
-      <description>darks9: そうか WireGuard 入れて IP制限したら良いのか？ラズパイもミニパソコンも おー かなりセキュリティ強固になる</description>
-      <pubDate>Thu, 29 Oct 2026 23:07:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazuandmaho/status/2115943577348153599</guid>
-    </item>
-    <item>
-      <title>@t_nihonmatsu 正直なところ後述の理由から時間的にリスク評価はしなかったのですが、自己所有ドメインのメールサーバと WireGuard をUbuntuでインターネットに公開していたことと、対象サーバはVMでスナップショットから速やかに戻すことができることから緊急対応としました。</title>
-      <link>https://x.com/kameo_himitsu/status/2115895790011068470</link>
-      <description>かめお: @t_nihonmatsu 正直なところ後述の理由から時間的にリスク評価はしなかったのですが、自己所有ドメインのメールサーバと WireGuard をUbuntuでインターネットに公開していたことと、対象サーバはVMでスナップショットから速やかに戻すことができることから緊急対応としました。</description>
-      <pubDate>Thu, 29 Oct 2026 19:57:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kameo_himitsu/status/2115895790011068470</guid>
-    </item>
-    <item>
-      <title>@litzhaus @internet_watch IPsec、 WireGuard 、OpenVPNなどは破られた実績はありません。 簡易なVPNや安易な運用が脆弱をもたらすだけ。ゼロトラストを目指しても結局パスワードを盗まれたりなりすまされれば同じこと。ZTNAへ移行してもです。 だから技術ありきでは無くプロセスありきなんです。</title>
-      <link>https://x.com/everytimesme/status/2115779358854148202</link>
-      <description>lifecycle: @litzhaus @internet_watch IPsec、 WireGuard 、OpenVPNなどは破られた実績はありません。 簡易なVPNや安易な運用が脆弱をもたらすだけ。ゼロトラストを目指しても結局パスワードを盗まれたりなりすまされれば同じこと。ZTNAへ移行してもです。 だから技術ありきでは無くプロセスありきなんです。</description>
-      <pubDate>Thu, 29 Oct 2026 12:14:43 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/everytimesme/status/2115779358854148202</guid>
     </item>
   </channel>
 </rss>

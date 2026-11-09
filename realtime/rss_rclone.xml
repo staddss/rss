@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>(159) AI「ファイル整理してたらデータ全部消しちゃったｗ」【2ch面白いスレゆっくり解説】 - YouTube https://t.co/0OasONvAuy あははは。と思って見てたら。 rclone の深刻なバグを知ってうわぁってなってる。</title>
+      <link>https://x.com/moguno/status/2119400653948875151</link>
+      <description>もぐの: (159) AI「ファイル整理してたらデータ全部消しちゃったｗ」【2ch面白いスレゆっくり解説】 - YouTube https://t.co/0OasONvAuy あははは。と思って見てたら。 rclone の深刻なバグを知ってうわぁってなってる。</description>
+      <pubDate>Sun, 08 Nov 2026 12:04:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2119400653948875151</guid>
+    </item>
+    <item>
       <title>@septhmon 今ごろ気づきました、ありがとうございます。コピー→削除ならカード出ないんですね。その時は結局、 rclone のサーバー側移動で一気に片付けました。コネクタ経由でも回避ルートがあったとは。次に大量整理するとき試してみます</title>
       <link>https://x.com/RmSg3_ta/status/2119319088254296369</link>
       <description>マンマ・メッサーノ: @septhmon 今ごろ気づきました、ありがとうございます。コピー→削除ならカード出ないんですね。その時は結局、 rclone のサーバー側移動で一気に片付けました。コネクタ経由でも回避ルートがあったとは。次に大量整理するとき試してみます</description>
@@ -269,13 +276,6 @@
       <description>sashisashi: rclone とかそうなんだけど、--helpしか付けないのにmanの全文みたいに長い文章と例を流さないでほしいんだよな こっちはただ--daemonつけて起動したwebdavマウントを停止したいだけなんだけど</description>
       <pubDate>Sun, 25 Oct 2026 07:08:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sashisashi569/status/2114252637923426517</guid>
-    </item>
-    <item>
-      <title>@bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</title>
-      <link>https://x.com/g_plains/status/2114209832672890893</link>
-      <description>こてつ(ONO,Tetsuo): @bamboo_and_tyre ああそうでした rclone はぱっと見brotli食ってなさそう(別の圧縮展開ライブラリ使ってる)から関係なさそうすね</description>
-      <pubDate>Sun, 25 Oct 2026 04:17:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2114209832672890893</guid>
     </item>
   </channel>
 </rss>
