@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@shumaikun0716 早いんだ Wi-Fiがv6対応してなくても WireGuard とかをIPv6繋げば使える？</title>
+      <link>https://x.com/L_port53/status/2120168706814681270</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 早いんだ Wi-Fiがv6対応してなくても WireGuard とかをIPv6繋げば使える？</description>
+      <pubDate>Tue, 10 Nov 2026 14:56:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2120168706814681270</guid>
+    </item>
+    <item>
+      <title>WireGuard 、MimicはOK。Xを更新した途端にこれよ、12.42.1。</title>
+      <link>https://x.com/Wildkat0070798/status/2120124909699633449</link>
+      <description>Wildkat: WireGuard 、MimicはOK。Xを更新した途端にこれよ、12.42.1。</description>
+      <pubDate>Tue, 10 Nov 2026 12:02:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Wildkat0070798/status/2120124909699633449</guid>
+    </item>
+    <item>
+      <title>PHP2Shellの件があってからすべての端末で WireGuard かVPN通してインターネットやってる</title>
+      <link>https://x.com/ishi_no_ishi/status/2120079548331270249</link>
+      <description>ishi: PHP2Shellの件があってからすべての端末で WireGuard かVPN通してインターネットやってる</description>
+      <pubDate>Tue, 10 Nov 2026 09:02:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ishi_no_ishi/status/2120079548331270249</guid>
+    </item>
+    <item>
+      <title>Wireguard いれたらもう音声合成とか認識とかいってられないな...次機はセンサなくなりそうだし楽をするには本格的に機体組むのか？？？</title>
+      <link>https://x.com/ari_ac1d/status/2120076655712760030</link>
+      <description>ありさん🍋👻「ぷちたち」: Wireguard いれたらもう音声合成とか認識とかいってられないな...次機はセンサなくなりそうだし楽をするには本格的に機体組むのか？？？</description>
+      <pubDate>Tue, 10 Nov 2026 08:50:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ari_ac1d/status/2120076655712760030</guid>
+    </item>
+    <item>
+      <title>@siyukat おお、そこまで対策されてるんですね…！ やっぱりオリジンのIPが露出するのが一番怖いですからね…w うちはCloudflare Tunnel経由でVPSに接続して、そこから WireGuard で自宅サーバーに繋いでます。 万が一のときに交換できる中継サーバーを挟んでおくのが、個人的には安心かなと…w</title>
+      <link>https://x.com/ryuuou_neko/status/2119774076952813920</link>
+      <description>黒猫ゲーム部(YouTube配信者兼個人開発): @siyukat おお、そこまで対策されてるんですね…！ やっぱりオリジンのIPが露出するのが一番怖いですからね…w うちはCloudflare Tunnel経由でVPSに接続して、そこから WireGuard で自宅サーバーに繋いでます。 万が一のときに交換できる中継サーバーを挟んでおくのが、個人的には安心かなと…w</description>
+      <pubDate>Mon, 09 Nov 2026 12:48:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ryuuou_neko/status/2119774076952813920</guid>
+    </item>
+    <item>
       <title>どうしてもドメインを動的IPに紐づけたい。 ↓ ロリポップなら月500円ぐらいから始められそう ↓ VPNは元専門分野だし WireGuard での環境構築経験もあるし何とかなるやろう ↓ ロリポップの設定わっけわかんねぇーーー！！</title>
       <link>https://x.com/yonogi_g5/status/2119742541591642298</link>
       <description>与野木真人@曲作る人: どうしてもドメインを動的IPに紐づけたい。 ↓ ロリポップなら月500円ぐらいから始められそう ↓ VPNは元専門分野だし WireGuard での環境構築経験もあるし何とかなるやろう ↓ ロリポップの設定わっけわかんねぇーーー！！</description>
@@ -241,41 +276,6 @@
       <description>shumaikun0716: @ArmoredInfantry FreeTransitはEU圏のサーバーのみです。GRE(v4/v6どっちでも), SIT(v6のみ), Wireguard など色々あります。Route64も同様です。Route64は無償プランで2セッション持てるのでそこも良いですね。シンガポールリージョンは人気らしく空きがあるのを見たことないですね。空いてれば運がいいです。</description>
       <pubDate>Sat, 31 Oct 2026 06:58:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shumaikun0716/status/2116424486090363189</guid>
-    </item>
-    <item>
-      <title>@AlotBLAHAJ @ec12edfae2cb221 wireguard 也行</title>
-      <link>https://x.com/aunsuki132191/status/2116325167794458894</link>
-      <description>aunsuki: @AlotBLAHAJ @ec12edfae2cb221 wireguard 也行</description>
-      <pubDate>Sat, 31 Oct 2026 00:23:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aunsuki132191/status/2116325167794458894</guid>
-    </item>
-    <item>
-      <title>Implementing WireGuard for Apache NuttX: A GSoC Journey into Secure, Hig... https://t.co/BUOJhsSau5 @YouTubeより 講演の動画公開されてた （境界性羞恥心で楽しもう！</title>
-      <link>https://x.com/fox_aki310ooooo/status/2116161420618564092</link>
-      <description>aki310: Implementing WireGuard for Apache NuttX: A GSoC Journey into Secure, Hig... https://t.co/BUOJhsSau5 @YouTubeより 講演の動画公開されてた （境界性羞恥心で楽しもう！</description>
-      <pubDate>Fri, 30 Oct 2026 13:32:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fox_aki310ooooo/status/2116161420618564092</guid>
-    </item>
-    <item>
-      <title>3日前と今日、1週間で2回も「デバイスに問題があるため再起動します」が起きたのでWinDbg入れてminidumpを解析したら、3日前はntkrnlmp.exe、今日はNortonのnllwireguard.sysが原因だった(システムイベントログにも出てた) とりあえずNortonの設定でVPNオンの際 WireGuard を使わないよう変更して様子見</title>
-      <link>https://x.com/twilight_yen/status/2116157044336230563</link>
-      <description>黄昏￥: 3日前と今日、1週間で2回も「デバイスに問題があるため再起動します」が起きたのでWinDbg入れてminidumpを解析したら、3日前はntkrnlmp.exe、今日はNortonのnllwireguard.sysが原因だった(システムイベントログにも出てた) とりあえずNortonの設定でVPNオンの際 WireGuard を使わないよう変更して様子見</description>
-      <pubDate>Fri, 30 Oct 2026 13:15:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/twilight_yen/status/2116157044336230563</guid>
-    </item>
-    <item>
-      <title>ヨーロッパと日本だと WireGuard でX程度なら遅延気にならないけど仕事は普通に辛い気がする https://t.co/4YITqhdXQo</title>
-      <link>https://x.com/InfoGather8/status/2116092428734361998</link>
-      <description>Info Gather: ヨーロッパと日本だと WireGuard でX程度なら遅延気にならないけど仕事は普通に辛い気がする https://t.co/4YITqhdXQo</description>
-      <pubDate>Fri, 30 Oct 2026 08:58:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/InfoGather8/status/2116092428734361998</guid>
-    </item>
-    <item>
-      <title>AIエージェントをLinux VMごと利用できるMeta Museを使って、 WireGuard 越しに24時間IoTのデバイスの面倒を見てもらえないかな？という趣旨のブログです。 ご興味ある方はぜひ。 https://t.co/aRUFsoCSqI</title>
-      <link>https://x.com/s8_ken/status/2116026587531411654</link>
-      <description>しばけん: AIエージェントをLinux VMごと利用できるMeta Museを使って、 WireGuard 越しに24時間IoTのデバイスの面倒を見てもらえないかな？という趣旨のブログです。 ご興味ある方はぜひ。 https://t.co/aRUFsoCSqI</description>
-      <pubDate>Fri, 30 Oct 2026 04:37:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/s8_ken/status/2116026587531411654</guid>
     </item>
   </channel>
 </rss>

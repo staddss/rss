@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【 Cloudflare Tunnel の仕組み：完全0 Inbound】 外から接続させるのではなく、家の中からエッジに安全な暗号化常時接続を張りに行きます。 ルーターのファイアウォールは全遮断のままでOK。 UDP/TCP 7844(QUIC/H2)で多重化通信するため、CGNAT環境でも即時開通します。 (2/6)</title>
+      <link>https://x.com/UbinityAI/status/2120117807979634901</link>
+      <description>Richard King: 【 Cloudflare Tunnel の仕組み：完全0 Inbound】 外から接続させるのではなく、家の中からエッジに安全な暗号化常時接続を張りに行きます。 ルーターのファイアウォールは全遮断のままでOK。 UDP/TCP 7844(QUIC/H2)で多重化通信するため、CGNAT環境でも即時開通します。 (2/6)</description>
+      <pubDate>Tue, 10 Nov 2026 11:34:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UbinityAI/status/2120117807979634901</guid>
+    </item>
+    <item>
+      <title>Cloudflare AI Gateway -&gt; Cloudflare Tunnel -&gt; ローカルLLM で外から繋げるようになるか どっかで認証を挟むようにするか</title>
+      <link>https://x.com/KaitoTiamat/status/2119793963582603297</link>
+      <description>Kaito Kk: Cloudflare AI Gateway -&gt; Cloudflare Tunnel -&gt; ローカルLLM で外から繋げるようになるか どっかで認証を挟むようにするか</description>
+      <pubDate>Mon, 09 Nov 2026 14:07:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KaitoTiamat/status/2119793963582603297</guid>
+    </item>
+    <item>
       <title>@siyukat おお、そこまで対策されてるんですね…！ やっぱりオリジンのIPが露出するのが一番怖いですからね…w うちは Cloudflare Tunnel 経由でVPSに接続して、そこからWireGuardで自宅サーバーに繋いでます。 万が一のときに交換できる中継サーバーを挟んでおくのが、個人的には安心かなと…w</title>
       <link>https://x.com/ryuuou_neko/status/2119774076952813920</link>
       <description>黒猫ゲーム部(YouTube配信者兼個人開発): @siyukat おお、そこまで対策されてるんですね…！ やっぱりオリジンのIPが露出するのが一番怖いですからね…w うちは Cloudflare Tunnel 経由でVPSに接続して、そこからWireGuardで自宅サーバーに繋いでます。 万が一のときに交換できる中継サーバーを挟んでおくのが、個人的には安心かなと…w</description>
@@ -194,6 +208,13 @@
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
     </item>
     <item>
+      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
+      <link>https://x.com/levelsio/status/2116949634111115348</link>
+      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
+      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
+    </item>
+    <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
       <link>https://x.com/5yuim/status/2116860193086845095</link>
       <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
@@ -255,27 +276,6 @@
       <description>HTMLGO: htmlとcssを書く仕事、ほとんどやってない。 今日は「 Cloudflare Tunnel を使ってNext.js + Laravel Sanctum のローカル環境を外部にプレする」手順をまとめるお仕事をした。 証明書周りのエラーとかAI無かったら絶対解決出来なかったけど、なんとかなってしまう。</description>
       <pubDate>Thu, 29 Oct 2026 10:41:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/resistance_gowy/status/2115755901902848090</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel のセキュリティ通知を受け、当社の利用状況を確認しました。 対象は停止中・接続0台。再利用に備え、構成ファイルのcloudflared既定版を2026.10.4へ更新しました。 確認結果と対応範囲はこちら。 https://t.co/1IVBiIqPuz https://t.co/ZsYLhjzXdz</title>
-      <link>https://x.com/r2en_/status/2115718377616691285</link>
-      <description>エウレカちゃん / AI駆動開発会社CEO🧧: Cloudflare Tunnel のセキュリティ通知を受け、当社の利用状況を確認しました。 対象は停止中・接続0台。再利用に備え、構成ファイルのcloudflared既定版を2026.10.4へ更新しました。 確認結果と対応範囲はこちら。 https://t.co/1IVBiIqPuz https://t.co/ZsYLhjzXdz</description>
-      <pubDate>Thu, 29 Oct 2026 08:12:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/r2en_/status/2115718377616691285</guid>
-    </item>
-    <item>
-      <title>スマホの写真は家のサーバーへ：脱 Google フォトに向けた Immich × Cloudflare Tunnel ｜たひろ https://t.co/V5f5ZM1UBT</title>
-      <link>https://x.com/rad0717/status/2115652672636510706</link>
-      <description>たひろ: スマホの写真は家のサーバーへ：脱 Google フォトに向けた Immich × Cloudflare Tunnel ｜たひろ https://t.co/V5f5ZM1UBT</description>
-      <pubDate>Thu, 29 Oct 2026 03:51:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rad0717/status/2115652672636510706</guid>
-    </item>
-    <item>
-      <title>Docker の Cloudflare Tunnel をアップデートする | 荒川仁志 公式サイト https://t.co/XnZVN5h6Z1</title>
-      <link>https://x.com/ha_thewriter/status/2115605282965635425</link>
-      <description>Hitoshi Arakawa | 荒川 仁志 | ہیتوشی اراکاوا: Docker の Cloudflare Tunnel をアップデートする | 荒川仁志 公式サイト https://t.co/XnZVN5h6Z1</description>
-      <pubDate>Thu, 29 Oct 2026 00:43:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ha_thewriter/status/2115605282965635425</guid>
     </item>
   </channel>
 </rss>
