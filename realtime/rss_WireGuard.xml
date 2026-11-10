@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>どうしてもドメインを動的IPに紐づけたい。 ↓ ロリポップなら月500円ぐらいから始められそう ↓ VPNは元専門分野だし WireGuard での環境構築経験もあるし何とかなるやろう ↓ ロリポップの設定わっけわかんねぇーーー！！</title>
+      <link>https://x.com/yonogi_g5/status/2119742541591642298</link>
+      <description>与野木真人@曲作る人: どうしてもドメインを動的IPに紐づけたい。 ↓ ロリポップなら月500円ぐらいから始められそう ↓ VPNは元専門分野だし WireGuard での環境構築経験もあるし何とかなるやろう ↓ ロリポップの設定わっけわかんねぇーーー！！</description>
+      <pubDate>Mon, 09 Nov 2026 10:42:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yonogi_g5/status/2119742541591642298</guid>
+    </item>
+    <item>
       <title>んー、今々の頭で思い浮かんでる実際に買ってリプレースしたいネットワーク機材の概算が15万円くらいだが、正直10年使ってる箇所が多い分あんまり引っ張りすぎても後で白目むくの自分なんだよなー。。。 まさか wireguard やらせてたVPNルータが物理的に死ぬとはね。</title>
       <link>https://x.com/Ckurai/status/2119722596745023601</link>
       <description>倉井: んー、今々の頭で思い浮かんでる実際に買ってリプレースしたいネットワーク機材の概算が15万円くらいだが、正直10年使ってる箇所が多い分あんまり引っ張りすぎても後で白目むくの自分なんだよなー。。。 まさか wireguard やらせてたVPNルータが物理的に死ぬとはね。</description>
@@ -269,13 +276,6 @@
       <description>しばけん: AIエージェントをLinux VMごと利用できるMeta Museを使って、 WireGuard 越しに24時間IoTのデバイスの面倒を見てもらえないかな？という趣旨のブログです。 ご興味ある方はぜひ。 https://t.co/aRUFsoCSqI</description>
       <pubDate>Fri, 30 Oct 2026 04:37:06 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/s8_ken/status/2116026587531411654</guid>
-    </item>
-    <item>
-      <title>使ってるVPSにubuntu 24.04があるからアプデかけなきゃ…。とはいえインバウンドはUDPを Wireguard 用に1つ開けてるだけだから、後でさくっとやっておこう&lt;RP</title>
-      <link>https://x.com/oyaguma3/status/2115967827236827279</link>
-      <description>おやぐまさん: 使ってるVPSにubuntu 24.04があるからアプデかけなきゃ…。とはいえインバウンドはUDPを Wireguard 用に1つ開けてるだけだから、後でさくっとやっておこう&lt;RP</description>
-      <pubDate>Fri, 30 Oct 2026 00:43:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oyaguma3/status/2115967827236827279</guid>
     </item>
   </channel>
 </rss>

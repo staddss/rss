@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Chromeブラウザがアップデートしたら拡張機能のホバーカード（アクセス権がうんたん）が消えずに、しかもクソデカ表示されるので chrome :// flags / Extensions Menu Access Control #extensions-menu-access-control を Disable にすることでもとに戻した。 こんなクソUIを作ったバカの顔が見たいわ</title>
+      <link>https://x.com/ppp200x/status/2119832260241400201</link>
+      <description>KINA: Chromeブラウザがアップデートしたら拡張機能のホバーカード（アクセス権がうんたん）が消えずに、しかもクソデカ表示されるので chrome :// flags / Extensions Menu Access Control #extensions-menu-access-control を Disable にすることでもとに戻した。 こんなクソUIを作ったバカの顔が見たいわ</description>
+      <pubDate>Mon, 09 Nov 2026 16:39:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ppp200x/status/2119832260241400201</guid>
+    </item>
+    <item>
       <title>iOSのChrome アプデで戻る進むが左下から左上に行くなどのUI変更で使いにくくなってた chrome :// flags /#chrome-next-ia の設定をdisabledにしたら元に戻せて助かった</title>
       <link>https://x.com/reset_sand_fox/status/2118957298555179012</link>
       <description>リセットスナギツネ: iOSのChrome アプデで戻る進むが左下から左上に行くなどのUI変更で使いにくくなってた chrome :// flags /#chrome-next-ia の設定をdisabledにしたら元に戻せて助かった</description>
@@ -269,13 +276,6 @@
       <description>Naoto Nakai: Chromeで「Geminiに相談」をOFFにする方法 ・ chrome :// flags / にアクセス ・検索窓にGlicを入れて「Enables Glic」の項目をDisabledに ・Chromeを再起動</description>
       <pubDate>Mon, 12 Oct 2026 22:30:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NuCode/status/2109773620335755276</guid>
-    </item>
-    <item>
-      <title>Chromeで右クリックした時に出てくる「Geminiに相談」は chrome :// flags から glic を Disabled にすれば消せる。ブラウザ上部の表示も消えたのでスッキリ。</title>
-      <link>https://x.com/MrGreen71304746/status/2109528874891837552</link>
-      <description>鈴蘭 🌷: Chromeで右クリックした時に出てくる「Geminiに相談」は chrome :// flags から glic を Disabled にすれば消せる。ブラウザ上部の表示も消えたのでスッキリ。</description>
-      <pubDate>Mon, 12 Oct 2026 06:17:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MrGreen71304746/status/2109528874891837552</guid>
     </item>
   </channel>
 </rss>
