@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AIに運ばせたい数十MBの動画が、ブラウザ拡張の「1回10MBまで」で止まりました。 rclone でGoogleドライブに入れて、md5で中身が同じか確かめる方法を書きました。 https://t.co/sKaxJCMuNa</title>
+      <link>https://x.com/yorunote_ai/status/2120277825722720538</link>
+      <description>ヨル｜定時後の自動化ノート: AIに運ばせたい数十MBの動画が、ブラウザ拡張の「1回10MBまで」で止まりました。 rclone でGoogleドライブに入れて、md5で中身が同じか確かめる方法を書きました。 https://t.co/sKaxJCMuNa</description>
+      <pubDate>Tue, 10 Nov 2026 22:10:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yorunote_ai/status/2120277825722720538</guid>
+    </item>
+    <item>
       <title>KeePassXCはどうしてもデータベースファイルの安全な扱いが困難(これまで3度 rclone のバグ等で吹き飛び、バックアップから復旧している)なので、どこかにVaultwarden的サーバーを立ててどっかのS3ストレージに定期的にバックアップするほうがいいかなぁ。</title>
       <link>https://x.com/sashisashi569/status/2120019871610384693</link>
       <description>sashisashi: KeePassXCはどうしてもデータベースファイルの安全な扱いが困難(これまで3度 rclone のバグ等で吹き飛び、バックアップから復旧している)なので、どこかにVaultwarden的サーバーを立ててどっかのS3ストレージに定期的にバックアップするほうがいいかなぁ。</description>
@@ -269,13 +276,6 @@
       <description>つうこ: rclone でgoogle photoのpixel無制限アップロードできないかなと思って調べたらちょうど5日前にアップされたの見つけてびっくり https://t.co/pZFEbJ9tUN</description>
       <pubDate>Sun, 25 Oct 2026 13:53:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_Tsuuko_/status/2114354637092663636</guid>
-    </item>
-    <item>
-      <title>ｺﾞﾒﾝﾅｻｲ、 rclone は(10.25時点では)関係なさそです... https://t.co/hOzHeM595A しかし7zipは(CLIとして)使ってるとこ多いよね、そういえば某三河社方面の案件やったときもミドルウェアに7za.exeがバンドルされてたの思い出した</title>
-      <link>https://x.com/g_plains/status/2114264153187852488</link>
-      <description>こてつ(ONO,Tetsuo): ｺﾞﾒﾝﾅｻｲ、 rclone は(10.25時点では)関係なさそです... https://t.co/hOzHeM595A しかし7zipは(CLIとして)使ってるとこ多いよね、そういえば某三河社方面の案件やったときもミドルウェアに7za.exeがバンドルされてたの思い出した</description>
-      <pubDate>Sun, 25 Oct 2026 07:53:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2114264153187852488</guid>
     </item>
   </channel>
 </rss>

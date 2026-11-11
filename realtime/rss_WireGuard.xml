@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>レンサバ契約だけして動かしてないの勿体無いよな… Wireguard の集積ポイントでも作るか… 3CXとかも面白そうよね（お家にFaxあるでしょ、おじいちゃん</title>
+      <link>https://x.com/urati/status/2120396103657083363</link>
+      <description>うらち / I.Yoshida: レンサバ契約だけして動かしてないの勿体無いよな… Wireguard の集積ポイントでも作るか… 3CXとかも面白そうよね（お家にFaxあるでしょ、おじいちゃん</description>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/urati/status/2120396103657083363</guid>
+    </item>
+    <item>
+      <title>@musen9527 之前拿 Caddy + Authelia 再自己配 WireGuard 拼了一套，三份配置一对不上就得排查半天</title>
+      <link>https://x.com/ace052000087262/status/2120386165656211702</link>
+      <description>ace: @musen9527 之前拿 Caddy + Authelia 再自己配 WireGuard 拼了一套，三份配置一对不上就得排查半天</description>
+      <pubDate>Wed, 11 Nov 2026 05:20:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ace052000087262/status/2120386165656211702</guid>
+    </item>
+    <item>
+      <title>@shumaikun0716 そんな感じかも？ プロファイル？はわからないけど WireGuard にIPv6入力してやれば使えるのではという考え</title>
+      <link>https://x.com/L_port53/status/2120169805420663094</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 そんな感じかも？ プロファイル？はわからないけど WireGuard にIPv6入力してやれば使えるのではという考え</description>
+      <pubDate>Tue, 10 Nov 2026 15:00:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2120169805420663094</guid>
+    </item>
+    <item>
       <title>@shumaikun0716 早いんだ Wi-Fiがv6対応してなくても WireGuard とかをIPv6繋げば使える？</title>
       <link>https://x.com/L_port53/status/2120168706814681270</link>
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 早いんだ Wi-Fiがv6対応してなくても WireGuard とかをIPv6繋げば使える？</description>
@@ -255,27 +276,6 @@
       <description>ニット: Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</description>
       <pubDate>Sat, 31 Oct 2026 10:48:21 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Knit_OS/status/2116482400645755323</guid>
-    </item>
-    <item>
-      <title>暫定的にIPv6アドレスで WireGuard 設定してみて、本格的に使えそうならCloudflareの無料アカウント作って手持ちのドメインに紐づけたらいい、とチャッピーに言われて数ヶ月。 IPv6アドレスが何度再起動しても変わらないのでそのままになってる。 IPv6アドレスってそういうものなのか？</title>
-      <link>https://x.com/Hokko_sha/status/2116461836975616246</link>
-      <description>北光社: 暫定的にIPv6アドレスで WireGuard 設定してみて、本格的に使えそうならCloudflareの無料アカウント作って手持ちのドメインに紐づけたらいい、とチャッピーに言われて数ヶ月。 IPv6アドレスが何度再起動しても変わらないのでそのままになってる。 IPv6アドレスってそういうものなのか？</description>
-      <pubDate>Sat, 31 Oct 2026 09:26:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2116461836975616246</guid>
-    </item>
-    <item>
-      <title>ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</title>
-      <link>https://x.com/Hokko_sha/status/2116460886093402191</link>
-      <description>北光社: ChatGPTに言われるがままにWin11非対応の古いデスクトップ機にCLIでDebianをセットアップし、 WireGuard をセットアップしてImmichをセットアップ。 自力では正直なんもできん。（いやさすがにDebianのインストールまではできるか）</description>
-      <pubDate>Sat, 31 Oct 2026 09:22:51 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Hokko_sha/status/2116460886093402191</guid>
-    </item>
-    <item>
-      <title>@ArmoredInfantry FreeTransitはEU圏のサーバーのみです。GRE(v4/v6どっちでも), SIT(v6のみ), Wireguard など色々あります。Route64も同様です。Route64は無償プランで2セッション持てるのでそこも良いですね。シンガポールリージョンは人気らしく空きがあるのを見たことないですね。空いてれば運がいいです。</title>
-      <link>https://x.com/shumaikun0716/status/2116424486090363189</link>
-      <description>shumaikun0716: @ArmoredInfantry FreeTransitはEU圏のサーバーのみです。GRE(v4/v6どっちでも), SIT(v6のみ), Wireguard など色々あります。Route64も同様です。Route64は無償プランで2セッション持てるのでそこも良いですね。シンガポールリージョンは人気らしく空きがあるのを見たことないですね。空いてれば運がいいです。</description>
-      <pubDate>Sat, 31 Oct 2026 06:58:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2116424486090363189</guid>
     </item>
   </channel>
 </rss>
