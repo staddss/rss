@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>KeePassXCはどうしてもデータベースファイルの安全な扱いが困難(これまで3度 rclone のバグ等で吹き飛び、バックアップから復旧している)なので、どこかにVaultwarden的サーバーを立ててどっかのS3ストレージに定期的にバックアップするほうがいいかなぁ。</title>
+      <link>https://x.com/sashisashi569/status/2120019871610384693</link>
+      <description>sashisashi: KeePassXCはどうしてもデータベースファイルの安全な扱いが困難(これまで3度 rclone のバグ等で吹き飛び、バックアップから復旧している)なので、どこかにVaultwarden的サーバーを立ててどっかのS3ストレージに定期的にバックアップするほうがいいかなぁ。</description>
+      <pubDate>Tue, 10 Nov 2026 05:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sashisashi569/status/2120019871610384693</guid>
+    </item>
+    <item>
       <title>rclone がクラウドストレージのマウントに対応してたことを初めて知った</title>
       <link>https://x.com/EwelinaMikoajew/status/2119629166983500260</link>
       <description>月兎／@PR: rclone がクラウドストレージのマウントに対応してたことを初めて知った</description>
@@ -269,13 +276,6 @@
       <description>こてつ(ONO,Tetsuo): ｺﾞﾒﾝﾅｻｲ、 rclone は(10.25時点では)関係なさそです... https://t.co/hOzHeM595A しかし7zipは(CLIとして)使ってるとこ多いよね、そういえば某三河社方面の案件やったときもミドルウェアに7za.exeがバンドルされてたの思い出した</description>
       <pubDate>Sun, 25 Oct 2026 07:53:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/g_plains/status/2114264153187852488</guid>
-    </item>
-    <item>
-      <title>@sakky_hs rclone は大丈夫ぽい、早合点でした しかし範囲広いな、wingetぶっ込んでまとめて解決したいレベる</title>
-      <link>https://x.com/g_plains/status/2114257037685313625</link>
-      <description>こてつ(ONO,Tetsuo): @sakky_hs rclone は大丈夫ぽい、早合点でした しかし範囲広いな、wingetぶっ込んでまとめて解決したいレベる</description>
-      <pubDate>Sun, 25 Oct 2026 07:25:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/g_plains/status/2114257037685313625</guid>
     </item>
   </channel>
 </rss>

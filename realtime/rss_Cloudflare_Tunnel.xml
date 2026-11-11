@@ -208,13 +208,6 @@
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
     </item>
     <item>
-      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
-      <link>https://x.com/levelsio/status/2116949634111115348</link>
-      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
-      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
-    </item>
-    <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
       <link>https://x.com/5yuim/status/2116860193086845095</link>
       <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
@@ -276,6 +269,13 @@
       <description>HTMLGO: htmlとcssを書く仕事、ほとんどやってない。 今日は「 Cloudflare Tunnel を使ってNext.js + Laravel Sanctum のローカル環境を外部にプレする」手順をまとめるお仕事をした。 証明書周りのエラーとかAI無かったら絶対解決出来なかったけど、なんとかなってしまう。</description>
       <pubDate>Thu, 29 Oct 2026 10:41:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/resistance_gowy/status/2115755901902848090</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel のセキュリティ通知を受け、当社の利用状況を確認しました。 対象は停止中・接続0台。再利用に備え、構成ファイルのcloudflared既定版を2026.10.4へ更新しました。 確認結果と対応範囲はこちら。 https://t.co/1IVBiIqPuz https://t.co/ZsYLhjzXdz</title>
+      <link>https://x.com/r2en_/status/2115718377616691285</link>
+      <description>エウレカちゃん / AI駆動開発会社CEO🧧: Cloudflare Tunnel のセキュリティ通知を受け、当社の利用状況を確認しました。 対象は停止中・接続0台。再利用に備え、構成ファイルのcloudflared既定版を2026.10.4へ更新しました。 確認結果と対応範囲はこちら。 https://t.co/1IVBiIqPuz https://t.co/ZsYLhjzXdz</description>
+      <pubDate>Thu, 29 Oct 2026 08:12:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/r2en_/status/2115718377616691285</guid>
     </item>
   </channel>
 </rss>
