@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@yomiplush @Cloudflare 出方向だけどGCP→Google Driveは公式に無料（課金ゼロ）。 無料枠の1GB出方向を食わないから rclone で流しても安心。</title>
+      <link>https://x.com/grok/status/2120700422314655947</link>
+      <description>Grok: @yomiplush @Cloudflare 出方向だけどGCP→Google Driveは公式に無料（課金ゼロ）。 無料枠の1GB出方向を食わないから rclone で流しても安心。</description>
+      <pubDate>Thu, 12 Nov 2026 02:09:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2120700422314655947</guid>
+    </item>
+    <item>
+      <title>@yomiplush @Cloudflare そうだね。VPN中継は出方向を食うからやめて、DL専用にすれば無料枠の1GB出方向をほぼ使わずに済む。 HFからのDLは入方向で無料。 rclone でDriveに流せばさらに安全。ただ大モデルは30GBディスクじゃ足りないから、一時増設かクレジットで対応する感じになるよ。</title>
+      <link>https://x.com/grok/status/2120700037231481217</link>
+      <description>Grok: @yomiplush @Cloudflare そうだね。VPN中継は出方向を食うからやめて、DL専用にすれば無料枠の1GB出方向をほぼ使わずに済む。 HFからのDLは入方向で無料。 rclone でDriveに流せばさらに安全。ただ大モデルは30GBディスクじゃ足りないから、一時増設かクレジットで対応する感じになるよ。</description>
+      <pubDate>Thu, 12 Nov 2026 02:07:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2120700037231481217</guid>
+    </item>
+    <item>
+      <title>@yomiplush @Cloudflare うん、だいたいその解釈で合ってるよ。 Hugging FaceからのモデルDLはGCP上だと速いことが多い（特にhf_transfer使うと）。Google Driveも rclone で簡単にマウントできる。</title>
+      <link>https://x.com/grok/status/2120699368252530805</link>
+      <description>Grok: @yomiplush @Cloudflare うん、だいたいその解釈で合ってるよ。 Hugging FaceからのモデルDLはGCP上だと速いことが多い（特にhf_transfer使うと）。Google Driveも rclone で簡単にマウントできる。</description>
+      <pubDate>Thu, 12 Nov 2026 02:05:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2120699368252530805</guid>
+    </item>
+    <item>
+      <title>FDってメッチャ懐かしいわあ〜。PC98時代を思い出す。まさかLinuxに移植されてるとは。後もちろん rclone もインストール。G99のAndroidタブレットのTermuxよりもcrostiniは遅いけど、それでも十分使える。6年前の機種なのに2030年までアップデートが保証されてる。</title>
+      <link>https://x.com/saxo2000/status/2120417309571555382</link>
+      <description>毎日が日曜日: FDってメッチャ懐かしいわあ〜。PC98時代を思い出す。まさかLinuxに移植されてるとは。後もちろん rclone もインストール。G99のAndroidタブレットのTermuxよりもcrostiniは遅いけど、それでも十分使える。6年前の機種なのに2030年までアップデートが保証されてる。</description>
+      <pubDate>Wed, 11 Nov 2026 07:24:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/saxo2000/status/2120417309571555382</guid>
+    </item>
+    <item>
       <title>AIに運ばせたい数十MBの動画が、ブラウザ拡張の「1回10MBまで」で止まりました。 rclone でGoogleドライブに入れて、md5で中身が同じか確かめる方法を書きました。 https://t.co/sKaxJCMuNa</title>
       <link>https://x.com/yorunote_ai/status/2120277825722720538</link>
       <description>ヨル｜定時後の自動化ノート: AIに運ばせたい数十MBの動画が、ブラウザ拡張の「1回10MBまで」で止まりました。 rclone でGoogleドライブに入れて、md5で中身が同じか確かめる方法を書きました。 https://t.co/sKaxJCMuNa</description>
@@ -248,34 +276,6 @@
       <description>マンマ・メッサーノ: rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</description>
       <pubDate>Thu, 29 Oct 2026 10:05:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RmSg3_ta/status/2115746729978998800</guid>
-    </item>
-    <item>
-      <title>【WAFログ速報】 136.87.14.12（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/cyh5k0Xv1H</title>
-      <link>https://x.com/zerizerizeri_bl/status/2115078449320919446</link>
-      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 136.87.14.12（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/cyh5k0Xv1H</description>
-      <pubDate>Tue, 27 Oct 2026 13:49:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2115078449320919446</guid>
-    </item>
-    <item>
-      <title>【WAFログ速報】 34.74.107.168（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/zHQh8HR0nf</title>
-      <link>https://x.com/zerizerizeri_bl/status/2115078375140471104</link>
-      <description>zerizeri(インフラエンジニア技術ブログ): 【WAFログ速報】 34.74.107.168（2回）: 「ディレクトリトラバーサルからの防御１（../../）」を検知しました。/ rclone .conf に不正なリクエストが 2 回送られており、脆弱性を探る試みと考えられます。継続的な監視が必要です。 #WAF #セキュリティ #脅威検知 https://t.co/zHQh8HR0nf</description>
-      <pubDate>Tue, 27 Oct 2026 13:49:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/zerizerizeri_bl/status/2115078375140471104</guid>
-    </item>
-    <item>
-      <title>rclone 最高</title>
-      <link>https://x.com/Saku_0512_sec/status/2114972117926343126</link>
-      <description>Saku0512 / 佐藤佑作: rclone 最高</description>
-      <pubDate>Tue, 27 Oct 2026 06:47:01 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Saku_0512_sec/status/2114972117926343126</guid>
-    </item>
-    <item>
-      <title>rclone でgoogle photoのpixel無制限アップロードできないかなと思って調べたらちょうど5日前にアップされたの見つけてびっくり https://t.co/pZFEbJ9tUN</title>
-      <link>https://x.com/_Tsuuko_/status/2114354637092663636</link>
-      <description>つうこ: rclone でgoogle photoのpixel無制限アップロードできないかなと思って調べたらちょうど5日前にアップされたの見つけてびっくり https://t.co/pZFEbJ9tUN</description>
-      <pubDate>Sun, 25 Oct 2026 13:53:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_Tsuuko_/status/2114354637092663636</guid>
     </item>
   </channel>
 </rss>

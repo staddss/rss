@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</title>
+      <link>https://x.com/kenimo49/status/2120503159449874699</link>
+      <description>井本賢 | kenimo49: mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</description>
+      <pubDate>Wed, 11 Nov 2026 13:05:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kenimo49/status/2120503159449874699</guid>
+    </item>
+    <item>
       <title>レンサバ契約だけして動かしてないの勿体無いよな… Wireguard の集積ポイントでも作るか… 3CXとかも面白そうよね（お家にFaxあるでしょ、おじいちゃん</title>
       <link>https://x.com/urati/status/2120396103657083363</link>
       <description>うらち / I.Yoshida: レンサバ契約だけして動かしてないの勿体無いよな… Wireguard の集積ポイントでも作るか… 3CXとかも面白そうよね（お家にFaxあるでしょ、おじいちゃん</description>
@@ -269,13 +276,6 @@
       <description>nu774: 素の wireguard はNAT越えなどのP2P機能がないのでインターネットリーチャブルなホストをHUBにせざるを得ず、全通信がHUBを経由になるので効率は良くないし、ACLもなく、HUBが陥落したら世界が終わる。tailscaleをdisりつつ安易に代替に使えるソリューションではないような</description>
       <pubDate>Sun, 01 Nov 2026 03:52:29 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nu774_/status/2116740133856870722</guid>
-    </item>
-    <item>
-      <title>Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</title>
-      <link>https://x.com/Knit_OS/status/2116482400645755323</link>
-      <description>ニット: Claude君、 WireGuard のセットアップをしているだけでセーフガードにかかるのやめちくり</description>
-      <pubDate>Sat, 31 Oct 2026 10:48:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Knit_OS/status/2116482400645755323</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE徹底比較（2026年版）— GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入PoCガイド https://t.co/ijUHY0Un3T #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2120669563498992081</link>
+      <description>EngiNear: 【新着記事】クラウドIDE徹底比較（2026年版）— GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入PoCガイド https://t.co/ijUHY0Un3T #エンジニア #ChatGPT #AI</description>
+      <pubDate>Thu, 12 Nov 2026 00:06:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2120669563498992081</guid>
+    </item>
+    <item>
       <title>git --version で確認を。OS 配布版は版数据え置きで直るため、配布元の告知で判断を。アプリ同梱の Git も別途更新を。GitHub Desktop は修正版を準備中。 Actions のホストランナーと Codespaces は今後対応。自前ランナーは各自更新を。それまで信頼できないリポジトリの再帰 clone は避けて。</title>
       <link>https://x.com/n2sec_news/status/2120409665125142579</link>
       <description>n2 Security News: git --version で確認を。OS 配布版は版数据え置きで直るため、配布元の告知で判断を。アプリ同梱の Git も別途更新を。GitHub Desktop は修正版を準備中。 Actions のホストランナーと Codespaces は今後対応。自前ランナーは各自更新を。それまで信頼できないリポジトリの再帰 clone は避けて。</description>
@@ -269,13 +276,6 @@
       <description>EngiNear: 【新着記事】結論：どれを選ぶべきか？GitHub Codespaces / Gitpod / AWS Cloud9 の実務比較と導入チェックリスト https://t.co/xiEUCNdppz #エンジニア #ChatGPT #AI</description>
       <pubDate>Sun, 18 Oct 2026 00:36:33 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2111617396058337607</guid>
-    </item>
-    <item>
-      <title>PCなし、AIと挑むゲーム開発。 シオンとしおぽんが、 Codespaces で安全なテスト環境を構築。 たった一本の道を作る裏側にも、たくさんの試行錯誤がある。 TAROT BREAKER 開発記録 https://t.co/8boGr6dXCV</title>
-      <link>https://x.com/TaroBure/status/2111360296782889252</link>
-      <description>Re:Verse Shion｜詩韻: PCなし、AIと挑むゲーム開発。 シオンとしおぽんが、 Codespaces で安全なテスト環境を構築。 たった一本の道を作る裏側にも、たくさんの試行錯誤がある。 TAROT BREAKER 開発記録 https://t.co/8boGr6dXCV</description>
-      <pubDate>Sat, 17 Oct 2026 07:34:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TaroBure/status/2111360296782889252</guid>
     </item>
   </channel>
 </rss>
