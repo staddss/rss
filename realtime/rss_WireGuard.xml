@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@qa_a_aa2 うち wireguard は切り替えれるようにしてる</title>
+      <link>https://x.com/L_port8080/status/2120817758858617221</link>
+      <description>一樹（第二拠点）: @qa_a_aa2 うち wireguard は切り替えれるようにしてる</description>
+      <pubDate>Thu, 12 Nov 2026 09:55:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2120817758858617221</guid>
+    </item>
+    <item>
+      <title>@weichen_ink 哈哈，你也可以自己用 wireguard 弄呀。😂</title>
+      <link>https://x.com/DonaldLamp84do/status/2120742558632710572</link>
+      <description>Don Lam: @weichen_ink 哈哈，你也可以自己用 wireguard 弄呀。😂</description>
+      <pubDate>Thu, 12 Nov 2026 04:56:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DonaldLamp84do/status/2120742558632710572</guid>
+    </item>
+    <item>
       <title>mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</title>
       <link>https://x.com/kenimo49/status/2120503159449874699</link>
       <description>井本賢 | kenimo49: mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</description>
@@ -262,20 +276,6 @@
       <description>カンリー CAIO | AI時代のキャリア攻略・AI稼ぎ方・AI節約術 | 保存必須のAIハック: ①Tailscale＝会員制の専用通路 自宅とクラウドは別の建物。普通は互いに入れません。Tailscaleは、ログインした機器だけが入れる暗号化の私設ネットワーク(tailnet＝招待制の会議室)を作るVPNの一種。技術は WireGuard 。 https://t.co/NLpMhHRZ4g</description>
       <pubDate>Sun, 01 Nov 2026 16:28:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Claude_CAIO/status/2116930317886132294</guid>
-    </item>
-    <item>
-      <title>@hkppamp VPNそれも簡単な WireGuard にしようかな〜って思ってます…外のスマホから見れなくなるけど😭 いやスマホからも wireguard すればいいのかな？？😳</title>
-      <link>https://x.com/dothiko_diy/status/2116808766054441208</link>
-      <description>モブ沢(電子): @hkppamp VPNそれも簡単な WireGuard にしようかな〜って思ってます…外のスマホから見れなくなるけど😭 いやスマホからも wireguard すればいいのかな？？😳</description>
-      <pubDate>Sun, 01 Nov 2026 08:25:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dothiko_diy/status/2116808766054441208</guid>
-    </item>
-    <item>
-      <title>素の wireguard はNAT越えなどのP2P機能がないのでインターネットリーチャブルなホストをHUBにせざるを得ず、全通信がHUBを経由になるので効率は良くないし、ACLもなく、HUBが陥落したら世界が終わる。tailscaleをdisりつつ安易に代替に使えるソリューションではないような</title>
-      <link>https://x.com/nu774_/status/2116740133856870722</link>
-      <description>nu774: 素の wireguard はNAT越えなどのP2P機能がないのでインターネットリーチャブルなホストをHUBにせざるを得ず、全通信がHUBを経由になるので効率は良くないし、ACLもなく、HUBが陥落したら世界が終わる。tailscaleをdisりつつ安易に代替に使えるソリューションではないような</description>
-      <pubDate>Sun, 01 Nov 2026 03:52:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nu774_/status/2116740133856870722</guid>
     </item>
   </channel>
 </rss>

@@ -12,6 +12,13 @@
       <guid isPermaLink="true">https://x.com/grok/status/2120697364390219786</guid>
     </item>
     <item>
+      <title>T3 Codeなかなかよいなー。自宅に常時起動してるMac miniにT3 Codeをインストールして、リモートからClaude Code、Codexを使えて便利。Tailscaleも併用するつもりだったけど、 Cloudflare Tunnel 自動ではられててびっくりした</title>
+      <link>https://x.com/nikuyoshi/status/2120520642911211575</link>
+      <description>Hiroki Uchida: T3 Codeなかなかよいなー。自宅に常時起動してるMac miniにT3 Codeをインストールして、リモートからClaude Code、Codexを使えて便利。Tailscaleも併用するつもりだったけど、 Cloudflare Tunnel 自動ではられててびっくりした</description>
+      <pubDate>Wed, 11 Nov 2026 14:14:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nikuyoshi/status/2120520642911211575</guid>
+    </item>
+    <item>
       <title>cloudflare tunnel + application、導線は若干複雑だが、GoogleとかGitHubとかのIdPでWebアプリが防御できるので大変ありがたい</title>
       <link>https://x.com/poppen/status/2120498517810803139</link>
       <description>poppen（ぽっぺん）: cloudflare tunnel + application、導線は若干複雑だが、GoogleとかGitHubとかのIdPでWebアプリが防御できるので大変ありがたい</description>
@@ -248,13 +255,6 @@
       <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
       <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
-    </item>
-    <item>
-      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
-      <link>https://x.com/levelsio/status/2116949634111115348</link>
-      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
-      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
     </item>
     <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>

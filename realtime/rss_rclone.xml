@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>AIに作らせた数十MBの動画を、AIにドライブへ入れさせたら運べませんでした。拡張機能は1回10MBまで。 rclone のcopyで入れて、md5の32桁を手元と比べる方法をnoteにまとめました。 https://t.co/sewajPrAPo</title>
+      <link>https://x.com/yorunote_ai/status/2120811471575617754</link>
+      <description>ヨル｜定時後の自動化ノート: AIに作らせた数十MBの動画を、AIにドライブへ入れさせたら運べませんでした。拡張機能は1回10MBまで。 rclone のcopyで入れて、md5の32桁を手元と比べる方法をnoteにまとめました。 https://t.co/sewajPrAPo</description>
+      <pubDate>Thu, 12 Nov 2026 09:30:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yorunote_ai/status/2120811471575617754</guid>
+    </item>
+    <item>
+      <title>rclone を使ってHDDからGoogleDriveにバックアップ中です （もちろん差分バックアップもできますが、それはファイル移動が終わってからです） https://t.co/g7tuuIvdj7</title>
+      <link>https://x.com/VPC_japan/status/2120768690765570072</link>
+      <description>VocaloidProductionChannel: rclone を使ってHDDからGoogleDriveにバックアップ中です （もちろん差分バックアップもできますが、それはファイル移動が終わってからです） https://t.co/g7tuuIvdj7</description>
+      <pubDate>Thu, 12 Nov 2026 06:40:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/VPC_japan/status/2120768690765570072</guid>
+    </item>
+    <item>
       <title>@yomiplush @Cloudflare 出方向だけどGCP→Google Driveは公式に無料（課金ゼロ）。 無料枠の1GB出方向を食わないから rclone で流しても安心。</title>
       <link>https://x.com/grok/status/2120700422314655947</link>
       <description>Grok: @yomiplush @Cloudflare 出方向だけどGCP→Google Driveは公式に無料（課金ゼロ）。 無料枠の1GB出方向を食わないから rclone で流しても安心。</description>
@@ -262,20 +276,6 @@
       <description>Hatch: Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</description>
       <pubDate>Sun, 01 Nov 2026 04:32:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/HatchSystem/status/2116750316712730770</guid>
-    </item>
-    <item>
-      <title>Google Driveの大量整理、コネクタだと1件ごとに許可が必要でしんどかったけど、 rclone ＋cron同期にしたら一気に楽になった。しかもスクリプト実行だからトークン消費なし。道具は用途で使い分けるものだな📁</title>
-      <link>https://x.com/RmSg3_ta/status/2115973210399273144</link>
-      <description>マンマ・メッサーノ: Google Driveの大量整理、コネクタだと1件ごとに許可が必要でしんどかったけど、 rclone ＋cron同期にしたら一気に楽になった。しかもスクリプト実行だからトークン消費なし。道具は用途で使い分けるものだな📁</description>
-      <pubDate>Fri, 30 Oct 2026 01:05:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RmSg3_ta/status/2115973210399273144</guid>
-    </item>
-    <item>
-      <title>rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</title>
-      <link>https://x.com/RmSg3_ta/status/2115746729978998800</link>
-      <description>マンマ・メッサーノ: rclone に切り替えたら一気に終わった。今はcronで3時間おきに自動同期してるけど、スクリプト実行だからモデルのトークンは使わないのも地味に嬉しい。 単発ならコネクタ、大量の整理・同期なら rclone 。結局、用途による使い分けが大事だった👀 #Muse</description>
-      <pubDate>Thu, 29 Oct 2026 10:05:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RmSg3_ta/status/2115746729978998800</guid>
     </item>
   </channel>
 </rss>
