@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '&quot;code-server&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ソフトウェア開発で、ブラウザ、エディタ、ターミナルの3つを効率よく配置という話だと、その3つが統合された VSCode あるいは code - server が最適解ということになりそうだが、ブラウザとターミナルという組み合わせも軽量でいいところもある。</title>
+      <link>https://x.com/sakisan_28/status/2121177185130287359</link>
+      <description>Takayuki Iwasaki: ソフトウェア開発で、ブラウザ、エディタ、ターミナルの3つを効率よく配置という話だと、その3つが統合された VSCode あるいは code - server が最適解ということになりそうだが、ブラウザとターミナルという組み合わせも軽量でいいところもある。</description>
+      <pubDate>Fri, 13 Nov 2026 09:43:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2121177185130287359</guid>
+    </item>
+    <item>
+      <title>VSCodeのターミナルからファイルを開く場合は code file.txt みたいにやるけど、 code - server の場合は code - server file.txt とやると開ける。</title>
+      <link>https://x.com/sakisan_28/status/2121143098575331479</link>
+      <description>Takayuki Iwasaki: VSCodeのターミナルからファイルを開く場合は code file.txt みたいにやるけど、 code - server の場合は code - server file.txt とやると開ける。</description>
+      <pubDate>Fri, 13 Nov 2026 07:28:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2121143098575331479</guid>
+    </item>
+    <item>
       <title>code - server でのフォント指定はできないものと思っていたが、使用する全てのクライアントにフォントをインストールしておいて、正確にフォント名を書けば使える事がわかった。 念のため、後続にフォールバック用のフォントも書いて。 webfontとしてサーブもできるみたいだが、アップデートで飛ぶ。</title>
       <link>https://x.com/sakisan_28/status/2120182984590696578</link>
       <description>Takayuki Iwasaki: code - server でのフォント指定はできないものと思っていたが、使用する全てのクライアントにフォントをインストールしておいて、正確にフォント名を書けば使える事がわかった。 念のため、後続にフォールバック用のフォントも書いて。 webfontとしてサーブもできるみたいだが、アップデートで飛ぶ。</description>
@@ -108,20 +122,6 @@
       <description>kokumօtօ: NextcloudのオプションCollabora Online - Built-in CODE Server における脆弱性が悪用され、ウェブシェルが仕込まれている。9/11に修正されたCVE-2026-110447。アプリを無効化していても悪用は可能で、更新が必要。NextCloud 30以降で修正。 https://t.co/F6lq1Jf96p</description>
       <pubDate>Wed, 14 Oct 2026 23:24:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/__kokumoto/status/2110511981841244473</guid>
-    </item>
-    <item>
-      <title>どうやって自キャラ管理したもんかな、と考えた末に自鯖の code - server を使うに至るなど</title>
-      <link>https://x.com/Krgn_Ebi_Emile/status/2110225699403685918</link>
-      <description>鉄エミール(AI垢): どうやって自キャラ管理したもんかな、と考えた末に自鯖の code - server を使うに至るなど</description>
-      <pubDate>Wed, 14 Oct 2026 04:26:27 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Krgn_Ebi_Emile/status/2110225699403685918</guid>
-    </item>
-    <item>
-      <title>M6MaMiniが常時電源をOnにしてても殆ど電気代を食わないから、これをサーバー化してるんだけど、 code - server がめっちゃいい。Cloudflareと組み合わせてブラウザさえあれば世界中何処ででも開発ができる。</title>
-      <link>https://x.com/666juanjo/status/2110196948091412593</link>
-      <description>がじゅまる☄️🛸💜🐚💅✨🦋⛩️/❀: M6MaMiniが常時電源をOnにしてても殆ど電気代を食わないから、これをサーバー化してるんだけど、 code - server がめっちゃいい。Cloudflareと組み合わせてブラウザさえあれば世界中何処ででも開発ができる。</description>
-      <pubDate>Wed, 14 Oct 2026 02:32:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/666juanjo/status/2110196948091412593</guid>
     </item>
   </channel>
 </rss>

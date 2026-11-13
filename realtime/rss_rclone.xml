@@ -5,11 +5,11 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
-      <title>とりあえず rclone で GLM 5.3-Flash 達を google drive へ...なんてやってたら転送量 750GB/24h 制限があったのね</title>
-      <link>https://x.com/ivy432hz/status/2121031990069907467</link>
-      <description>あいびぃ: とりあえず rclone で GLM 5.3-Flash 達を google drive へ...なんてやってたら転送量 750GB/24h 制限があったのね</description>
-      <pubDate>Fri, 13 Nov 2026 00:06:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ivy432hz/status/2121031990069907467</guid>
+      <title>よ、よし、Copilot氏がつながるようになったらアレの手順理解しないとだ - Windows Server 2025でOpenSSH Server サービス起動して - SFTPしかしないアカウントを作成して - rclone からコンニチワ</title>
+      <link>https://x.com/g_plains/status/2121188108825960719</link>
+      <description>こてつ(ONO,Tetsuo): よ、よし、Copilot氏がつながるようになったらアレの手順理解しないとだ - Windows Server 2025でOpenSSH Server サービス起動して - SFTPしかしないアカウントを作成して - rclone からコンニチワ</description>
+      <pubDate>Fri, 13 Nov 2026 10:27:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/g_plains/status/2121188108825960719</guid>
     </item>
     <item>
       <title>AIに作らせた数十MBの動画を、AIにドライブへ入れさせたら運べませんでした。拡張機能は1回10MBまで。 rclone のcopyで入れて、md5の32桁を手元と比べる方法をnoteにまとめました。 https://t.co/sewajPrAPo</title>
@@ -24,6 +24,13 @@
       <description>VocaloidProductionChannel: rclone を使ってHDDからGoogleDriveにバックアップ中です （もちろん差分バックアップもできますが、それはファイル移動が終わってからです） https://t.co/g7tuuIvdj7</description>
       <pubDate>Thu, 12 Nov 2026 06:40:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/VPC_japan/status/2120768690765570072</guid>
+    </item>
+    <item>
+      <title>@yomiplush 他にはHugging Faceからの大容量モデルDL→Driveバックアップ、e2-micro常時起動で軽いボットや rclone マウント、Google Photos/YouTube関連への無料転送あたりがよくある。 無料枠の出方向1GBを食わないGoogleサービス内完結なら安心だよ。みんなも似た感じで中継ハブや個人サーバーに使ってる印象。</title>
+      <link>https://x.com/grok/status/2120700940214755345</link>
+      <description>Grok: @yomiplush 他にはHugging Faceからの大容量モデルDL→Driveバックアップ、e2-micro常時起動で軽いボットや rclone マウント、Google Photos/YouTube関連への無料転送あたりがよくある。 無料枠の出方向1GBを食わないGoogleサービス内完結なら安心だよ。みんなも似た感じで中継ハブや個人サーバーに使ってる印象。</description>
+      <pubDate>Thu, 12 Nov 2026 02:11:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2120700940214755345</guid>
     </item>
     <item>
       <title>@yomiplush @Cloudflare 出方向だけどGCP→Google Driveは公式に無料（課金ゼロ）。 無料枠の1GB出方向を食わないから rclone で流しても安心。</title>
@@ -269,13 +276,6 @@
       <description>Yuichi Kaneko: Teamsで社内IT担当を装い、AD CSの不備から特権証明書を窃取 攻撃者はTeamsでIT担当を装い、Quick Assistで遠隔操作を取得。その後、証明書テンプレートの不備(ESC1)から特権アカウントの証明書を得てDCSyncを実行し、 Rclone でデータを持ち出しています。</description>
       <pubDate>Tue, 03 Nov 2026 02:48:38 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_yuichi/status/2117448838298673425</guid>
-    </item>
-    <item>
-      <title>あまりにもツールを組み合わせて公立化する事が楽しすぎてダメだ orca,t3,tmux,herdrのターミナル検討とかgranola,amicalとか音声入力系 obsidian sh rclone で記録から保存 ここら辺悩んでる人居たら聞いて欲しい調べた量に対して俺一人が効率化されるだけなのもったいなさすぎる</title>
-      <link>https://x.com/nasubi_dev/status/2117179151912493060</link>
-      <description>なすび🍆: あまりにもツールを組み合わせて公立化する事が楽しすぎてダメだ orca,t3,tmux,herdrのターミナル検討とかgranola,amicalとか音声入力系 obsidian sh rclone で記録から保存 ここら辺悩んでる人居たら聞いて欲しい調べた量に対して俺一人が効率化されるだけなのもったいなさすぎる</description>
-      <pubDate>Mon, 02 Nov 2026 08:56:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nasubi_dev/status/2117179151912493060</guid>
     </item>
   </channel>
 </rss>

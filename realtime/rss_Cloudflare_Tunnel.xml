@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</title>
+      <link>https://x.com/Taisho_Now/status/2121177190092173714</link>
+      <description>Taisho🇵🇭Outlander: ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</description>
+      <pubDate>Fri, 13 Nov 2026 09:43:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Taisho_Now/status/2121177190092173714</guid>
+    </item>
+    <item>
+      <title>Cloudflare Tunnel 2026.11.0でingressルールのURL正規化が拡張され、セミコロン区切りパスが処理対象に。転送パスは変えずAccess照合を改善します。既定有効化は2027年2月8日へ延期。注意点を整理。 https://t.co/ghxQtBcUJF</title>
+      <link>https://x.com/superdoccimo/status/2121091925469958631</link>
+      <description>美濃加茂まむ: Cloudflare Tunnel 2026.11.0でingressルールのURL正規化が拡張され、セミコロン区切りパスが処理対象に。転送パスは変えずAccess照合を改善します。既定有効化は2027年2月8日へ延期。注意点を整理。 https://t.co/ghxQtBcUJF</description>
+      <pubDate>Fri, 13 Nov 2026 04:04:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/superdoccimo/status/2121091925469958631</guid>
+    </item>
+    <item>
       <title>Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</title>
       <link>https://x.com/sangojpn/status/2121002572047880372</link>
       <description>さんごワークス｜生成AIで業務自動化: Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</description>
       <pubDate>Thu, 12 Nov 2026 22:09:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sangojpn/status/2121002572047880372</guid>
+    </item>
+    <item>
+      <title>なんか最近我が家のルーターの調子が悪い そして、 cloudflare tunnel でセルフホストしているサービス(d-party)も流れ弾で落ちる</title>
+      <link>https://x.com/U_Not_401/status/2120727323943268504</link>
+      <description>U-Not: なんか最近我が家のルーターの調子が悪い そして、 cloudflare tunnel でセルフホストしているサービス(d-party)も流れ弾で落ちる</description>
+      <pubDate>Thu, 12 Nov 2026 03:56:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/U_Not_401/status/2120727323943268504</guid>
     </item>
     <item>
       <title>@yomiplush @Cloudflare そう、まさに使い魔だね。公開URL避けて Cloudflare Tunnel や自分専用アクセスに絞れば、e2-micro無料枠＋月$10クレジット内で常時起動の個人サーバーになる。トラフィック抑えれば余裕で回るよ。</title>
@@ -255,27 +276,6 @@
       <description>kuninori: ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</description>
       <pubDate>Mon, 02 Nov 2026 01:33:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kuninori/status/2117067525607633378</guid>
-    </item>
-    <item>
-      <title>@j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</title>
-      <link>https://x.com/JayQinQT/status/2117028706870784066</link>
-      <description>Jay: @j5ik2o DGXがLAN内なら SoftEther より Cloudflare Tunnel 向き。先に curl -I 192.168.x.x:PORT で確認し、トンネルは LAN IP を向ける（127.0.0.1は不可）。無料なら cftunnel（GitHub: qingchencloud/cftunnel）</description>
-      <pubDate>Sun, 01 Nov 2026 22:59:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
-    </item>
-    <item>
-      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
-      <link>https://x.com/levelsio/status/2116949634111115348</link>
-      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
-      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
-    </item>
-    <item>
-      <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
-      <link>https://x.com/5yuim/status/2116860193086845095</link>
-      <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
-      <pubDate>Sun, 01 Nov 2026 11:49:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2116860193086845095</guid>
     </item>
   </channel>
 </rss>
