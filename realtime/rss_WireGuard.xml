@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@oasoby SideStoreは Wireguard でいけたから残念</title>
+      <link>https://x.com/L_port53/status/2120872056720142541</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @oasoby SideStoreは Wireguard でいけたから残念</description>
+      <pubDate>Thu, 12 Nov 2026 13:31:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2120872056720142541</guid>
+    </item>
+    <item>
+      <title>@L_port53 https://t.co/psy5CV3tVg 昔の手順のページにvpnのプロファイルとかいろいろ載ってたんだけど、altstore classicの実装がsidestoreと同じみたいで wireguard じゃ無理っぽい</title>
+      <link>https://x.com/oasoby/status/2120871072052740428</link>
+      <description>おあそび: @L_port53 https://t.co/psy5CV3tVg 昔の手順のページにvpnのプロファイルとかいろいろ載ってたんだけど、altstore classicの実装がsidestoreと同じみたいで wireguard じゃ無理っぽい</description>
+      <pubDate>Thu, 12 Nov 2026 13:27:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oasoby/status/2120871072052740428</guid>
+    </item>
+    <item>
+      <title>@L_port53 Wireguard のプロファイルみたいなやつなくしたから検証できないけど AltStore Classicの設定でPrefer Remote AltServerオンしないとできない</title>
+      <link>https://x.com/oasoby/status/2120866879023833402</link>
+      <description>おあそび: @L_port53 Wireguard のプロファイルみたいなやつなくしたから検証できないけど AltStore Classicの設定でPrefer Remote AltServerオンしないとできない</description>
+      <pubDate>Thu, 12 Nov 2026 13:10:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oasoby/status/2120866879023833402</guid>
+    </item>
+    <item>
+      <title>@adPCDevices 全てがわからん(( まぁSideStoreと違って Wireguard だとこうしんできんから使わんわ</title>
+      <link>https://x.com/L_port8080/status/2120862485242884400</link>
+      <description>一樹（第二拠点）: @adPCDevices 全てがわからん(( まぁSideStoreと違って Wireguard だとこうしんできんから使わんわ</description>
+      <pubDate>Thu, 12 Nov 2026 12:53:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port8080/status/2120862485242884400</guid>
+    </item>
+    <item>
+      <title>@oasoby Wireguard だと無理？ サイトからなんか入れてclassicみたいなの入れたんだけど... https://t.co/A49ALSlFJ6</title>
+      <link>https://x.com/L_port53/status/2120861988607885367</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @oasoby Wireguard だと無理？ サイトからなんか入れてclassicみたいなの入れたんだけど... https://t.co/A49ALSlFJ6</description>
+      <pubDate>Thu, 12 Nov 2026 12:51:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2120861988607885367</guid>
+    </item>
+    <item>
+      <title>@TGangMG LocalDevVPN入れられないから Wireguard でしかリフレッシュできない←これが問題 AltStore入れれるの？？ でもSideStoreと何が違うのあれ( そうそうでもYouMod検討してる</title>
+      <link>https://x.com/L_port53/status/2120831360436986131</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @TGangMG LocalDevVPN入れられないから Wireguard でしかリフレッシュできない←これが問題 AltStore入れれるの？？ でもSideStoreと何が違うのあれ( そうそうでもYouMod検討してる</description>
+      <pubDate>Thu, 12 Nov 2026 10:49:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2120831360436986131</guid>
+    </item>
+    <item>
       <title>@qa_a_aa2 うち wireguard は切り替えれるようにしてる</title>
       <link>https://x.com/L_port8080/status/2120817758858617221</link>
       <description>一樹（第二拠点）: @qa_a_aa2 うち wireguard は切り替えれるようにしてる</description>
@@ -234,48 +276,6 @@
       <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: アプリのインストール制限あるのでDNSフィルターブロックと内蔵のL2TP/IPsecのセットアップが優先 できるならApk入れたいけどね Wireguard (openvpn)+Protonとかでも 可能ならApk打ち込み方法やipaのSideLoad... https://t.co/sLydXof2As</description>
       <pubDate>Tue, 03 Nov 2026 22:52:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port53/status/2117751843791290829</guid>
-    </item>
-    <item>
-      <title>【共通の注意事項】 アクセスできないサイトが存在します。その場合はサーバーを別の国にすることで解決できる場合があります。 U-NEXTはFreeeプラン用のサーバーをあえて選択することでなぜか利用できます。 プロトコルはSmart、Proton WireGuard （UDP）、 WireGuard （UDP）を推奨します。</title>
-      <link>https://x.com/Independist16/status/2117632732482433306</link>
-      <description>緑のたぬき: 【共通の注意事項】 アクセスできないサイトが存在します。その場合はサーバーを別の国にすることで解決できる場合があります。 U-NEXTはFreeeプラン用のサーバーをあえて選択することでなぜか利用できます。 プロトコルはSmart、Proton WireGuard （UDP）、 WireGuard （UDP）を推奨します。</description>
-      <pubDate>Tue, 03 Nov 2026 14:59:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Independist16/status/2117632732482433306</guid>
-    </item>
-    <item>
-      <title>@Tektro0327 ありがとうございます！ 自宅鯖構築頑張って、 wireguard VPN経由で自宅のネットワーク機器達を外出先でも遠隔監視出来る様にしたいと思います😊</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2117586753494405244</link>
-      <description>有機体46B: @Tektro0327 ありがとうございます！ 自宅鯖構築頑張って、 wireguard VPN経由で自宅のネットワーク機器達を外出先でも遠隔監視出来る様にしたいと思います😊</description>
-      <pubDate>Tue, 03 Nov 2026 11:56:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2117586753494405244</guid>
-    </item>
-    <item>
-      <title>生まれて初めて自分でラックマウント型サーバーを買ってみた。 案の定、ファンの音が大騒音で草。 これからKali Linuxをサーバーにインストール後、Radius・SNMP・Ansibleの構築をして、既に構築済の wireguard VPN経由で遠隔監視出来る様にしよ。 #自宅鯖 #逸般の誤家庭 #Linux https://t.co/MeaDCUDsY8</title>
-      <link>https://x.com/RA9c6wJOHr71538/status/2117488764843175947</link>
-      <description>有機体46B: 生まれて初めて自分でラックマウント型サーバーを買ってみた。 案の定、ファンの音が大騒音で草。 これからKali Linuxをサーバーにインストール後、Radius・SNMP・Ansibleの構築をして、既に構築済の wireguard VPN経由で遠隔監視出来る様にしよ。 #自宅鯖 #逸般の誤家庭 #Linux https://t.co/MeaDCUDsY8</description>
-      <pubDate>Tue, 03 Nov 2026 05:27:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RA9c6wJOHr71538/status/2117488764843175947</guid>
-    </item>
-    <item>
-      <title>SORACOM Arcとの接続、まずは wireguard 何とかしないと</title>
-      <link>https://x.com/furufind2/status/2117436249460109769</link>
-      <description>furuTra46: SORACOM Arcとの接続、まずは wireguard 何とかしないと</description>
-      <pubDate>Tue, 03 Nov 2026 01:58:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/furufind2/status/2117436249460109769</guid>
-    </item>
-    <item>
-      <title>【アマゾン注目商品】＜クチコミ数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗃️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター ［PR］ https://t.co/L7Czugz4gM</title>
-      <link>https://x.com/88zOxfRfUf/status/2117057602722967900</link>
-      <description>虹色の星型: 【アマゾン注目商品】＜クチコミ数100件超＞GL.iNet WiFi6 トラベル ルーター VPN 無線LANルーター 2.5Gbps WANポート ギガビット AdGuard Home |VPN Client |OpenVPN | Wireguard … 🗃️パソコン・周辺機器 » 無線LAN・ネットワーク機器 » 無線・有線LANルーター ［PR］ https://t.co/L7Czugz4gM</description>
-      <pubDate>Mon, 02 Nov 2026 00:54:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/88zOxfRfUf/status/2117057602722967900</guid>
-    </item>
-    <item>
-      <title>①Tailscale＝会員制の専用通路 自宅とクラウドは別の建物。普通は互いに入れません。Tailscaleは、ログインした機器だけが入れる暗号化の私設ネットワーク(tailnet＝招待制の会議室)を作るVPNの一種。技術は WireGuard 。 https://t.co/NLpMhHRZ4g</title>
-      <link>https://x.com/Claude_CAIO/status/2116930317886132294</link>
-      <description>カンリー CAIO | AI時代のキャリア攻略・AI稼ぎ方・AI節約術 | 保存必須のAIハック: ①Tailscale＝会員制の専用通路 自宅とクラウドは別の建物。普通は互いに入れません。Tailscaleは、ログインした機器だけが入れる暗号化の私設ネットワーク(tailnet＝招待制の会議室)を作るVPNの一種。技術は WireGuard 。 https://t.co/NLpMhHRZ4g</description>
-      <pubDate>Sun, 01 Nov 2026 16:28:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Claude_CAIO/status/2116930317886132294</guid>
     </item>
   </channel>
 </rss>

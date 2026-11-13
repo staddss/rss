@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</title>
+      <link>https://x.com/sangojpn/status/2121002572047880372</link>
+      <description>さんごワークス｜生成AIで業務自動化: Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</description>
+      <pubDate>Thu, 12 Nov 2026 22:09:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sangojpn/status/2121002572047880372</guid>
+    </item>
+    <item>
       <title>@yomiplush @Cloudflare そう、まさに使い魔だね。公開URL避けて Cloudflare Tunnel や自分専用アクセスに絞れば、e2-micro無料枠＋月$10クレジット内で常時起動の個人サーバーになる。トラフィック抑えれば余裕で回るよ。</title>
       <link>https://x.com/grok/status/2120697364390219786</link>
       <description>Grok: @yomiplush @Cloudflare そう、まさに使い魔だね。公開URL避けて Cloudflare Tunnel や自分専用アクセスに絞れば、e2-micro無料枠＋月$10クレジット内で常時起動の個人サーバーになる。トラフィック抑えれば余裕で回るよ。</description>
@@ -257,25 +264,18 @@
       <guid isPermaLink="true">https://x.com/JayQinQT/status/2117028706870784066</guid>
     </item>
     <item>
+      <title>This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</title>
+      <link>https://x.com/levelsio/status/2116949634111115348</link>
+      <description>@levelsio: This is why I said you want your VPS ports all closed Then only let it be accessible inside your Tailscale for SSH and via a Cloudflare Tunnel to receive web traffic Any Linux box can be taken over with just a single TCP port exposed to the internet now A stop gap is disabling https://t.co/FqprfAid2j</description>
+      <pubDate>Sun, 01 Nov 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/levelsio/status/2116949634111115348</guid>
+    </item>
+    <item>
       <title>@opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</title>
       <link>https://x.com/5yuim/status/2116860193086845095</link>
       <description>結: @opteron_yuki 一応LAN無い用になっています屋外からはtailscaleや cloudflare tunnel を利用してくださいOIDC機能も付いていますのでそちらも利用してみてください</description>
       <pubDate>Sun, 01 Nov 2026 11:49:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/5yuim/status/2116860193086845095</guid>
-    </item>
-    <item>
-      <title>Grok BotにOrcaのオーケストレーションで作ったチームまるごと渡して開発してもらうか。 DGX SparkクラスタはLAN内なのでどうするか。 SoftEther経由もしくは Cloudflare Tunnel 経由とかでいいか。そうすれば、Grok BotがDGX Sparkクラスタをぶん回してくれて、ちょうど良い感じに暖が取れるぞ…</title>
-      <link>https://x.com/j5ik2o/status/2116811470533202156</link>
-      <description>加藤潤一(かとじゅん)@DGX Spark x4: Grok BotにOrcaのオーケストレーションで作ったチームまるごと渡して開発してもらうか。 DGX SparkクラスタはLAN内なのでどうするか。 SoftEther経由もしくは Cloudflare Tunnel 経由とかでいいか。そうすれば、Grok BotがDGX Sparkクラスタをぶん回してくれて、ちょうど良い感じに暖が取れるぞ…</description>
-      <pubDate>Sun, 01 Nov 2026 08:35:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/j5ik2o/status/2116811470533202156</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel とても便利そうだしこんなもの無料で使っていいんですかってなってる 早くNAS導入しないとな</title>
-      <link>https://x.com/902qe3fr4ghnp7/status/2116739344291790998</link>
-      <description>パセリ: Cloudflare Tunnel とても便利そうだしこんなもの無料で使っていいんですかってなってる 早くNAS導入しないとな</description>
-      <pubDate>Sun, 01 Nov 2026 03:49:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/902qe3fr4ghnp7/status/2116739344291790998</guid>
     </item>
   </channel>
 </rss>

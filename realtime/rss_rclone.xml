@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>とりあえず rclone で GLM 5.3-Flash 達を google drive へ...なんてやってたら転送量 750GB/24h 制限があったのね</title>
+      <link>https://x.com/ivy432hz/status/2121031990069907467</link>
+      <description>あいびぃ: とりあえず rclone で GLM 5.3-Flash 達を google drive へ...なんてやってたら転送量 750GB/24h 制限があったのね</description>
+      <pubDate>Fri, 13 Nov 2026 00:06:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ivy432hz/status/2121031990069907467</guid>
+    </item>
+    <item>
       <title>AIに作らせた数十MBの動画を、AIにドライブへ入れさせたら運べませんでした。拡張機能は1回10MBまで。 rclone のcopyで入れて、md5の32桁を手元と比べる方法をnoteにまとめました。 https://t.co/sewajPrAPo</title>
       <link>https://x.com/yorunote_ai/status/2120811471575617754</link>
       <description>ヨル｜定時後の自動化ノート: AIに作らせた数十MBの動画を、AIにドライブへ入れさせたら運べませんでした。拡張機能は1回10MBまで。 rclone のcopyで入れて、md5の32桁を手元と比べる方法をnoteにまとめました。 https://t.co/sewajPrAPo</description>
@@ -269,13 +276,6 @@
       <description>なすび🍆: あまりにもツールを組み合わせて公立化する事が楽しすぎてダメだ orca,t3,tmux,herdrのターミナル検討とかgranola,amicalとか音声入力系 obsidian sh rclone で記録から保存 ここら辺悩んでる人居たら聞いて欲しい調べた量に対して俺一人が効率化されるだけなのもったいなさすぎる</description>
       <pubDate>Mon, 02 Nov 2026 08:56:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/nasubi_dev/status/2117179151912493060</guid>
-    </item>
-    <item>
-      <title>Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</title>
-      <link>https://x.com/HatchSystem/status/2116750316712730770</link>
-      <description>Hatch: Azure Files・Blob から pCloud へ、 rclone で安全に移す手順。copy と sync の違い、EU の pCloud に MD5 がない問題、転送料金の免除は「先に申請」が条件など、消す前に知っておきたい落とし穴まで。逆向きも。 https://t.co/tMXpZ18kDD</description>
-      <pubDate>Sun, 01 Nov 2026 04:32:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/HatchSystem/status/2116750316712730770</guid>
     </item>
   </channel>
 </rss>
