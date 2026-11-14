@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@Dropbox 私はDropboxに課金していません。 syncthing だと無料で容量気にせず使えるからです。 https://t.co/0G4p1MIF7c</title>
+      <link>https://x.com/goldbecksfire/status/2121546236943827048</link>
+      <description>🔥懲弁連 代表🔥ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: @Dropbox 私はDropboxに課金していません。 syncthing だと無料で容量気にせず使えるからです。 https://t.co/0G4p1MIF7c</description>
+      <pubDate>Sat, 14 Nov 2026 10:10:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/goldbecksfire/status/2121546236943827048</guid>
+    </item>
+    <item>
+      <title>DropBoxとGoogleが広まってほしくない情報 Syncthing を使えば課金しなくても好き放題ファイル共有が出来る https://t.co/8BgxJ86uCc</title>
+      <link>https://x.com/goldbecksfire/status/2121540063163203808</link>
+      <description>🔥懲弁連 代表🔥ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: DropBoxとGoogleが広まってほしくない情報 Syncthing を使えば課金しなくても好き放題ファイル共有が出来る https://t.co/8BgxJ86uCc</description>
+      <pubDate>Sat, 14 Nov 2026 09:45:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/goldbecksfire/status/2121540063163203808</guid>
+    </item>
+    <item>
+      <title>WindowsとAndroidのObsidianのメモ同期にFolderSyncとFreeFileSyncを使用していたけど、 Syncthing というソフトで自宅WiFi下だと何もせずにほぼリアルタイム同期出来るようになった。 https://t.co/eFJiaSSect</title>
+      <link>https://x.com/LoverExcel/status/2121477223324717484</link>
+      <description>Kou Excelが大好きだ！: WindowsとAndroidのObsidianのメモ同期にFolderSyncとFreeFileSyncを使用していたけど、 Syncthing というソフトで自宅WiFi下だと何もせずにほぼリアルタイム同期出来るようになった。 https://t.co/eFJiaSSect</description>
+      <pubDate>Sat, 14 Nov 2026 05:35:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LoverExcel/status/2121477223324717484</guid>
+    </item>
+    <item>
       <title>@moriz0h Windows 11非対応の旧ゲーミングPCが、UbuntuでAIエージェントと Syncthing の常時稼働機になるの、いい再利用ですね。Discord botのClaude Codeは、再起動時も自動復帰するようにしていますか？🛠️</title>
       <link>https://x.com/N2tOb9/status/2121282628850782473</link>
       <description>テック系大学生｜AIニュース×仕事のAI活用: @moriz0h Windows 11非対応の旧ゲーミングPCが、UbuntuでAIエージェントと Syncthing の常時稼働機になるの、いい再利用ですね。Discord botのClaude Codeは、再起動時も自動復帰するようにしていますか？🛠️</description>
@@ -17,6 +38,13 @@
       <description>もりぞー: Syncthing がファイル同期ツールとして優秀すぎる</description>
       <pubDate>Fri, 13 Nov 2026 16:41:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/moriz0h/status/2121282412567261446</guid>
+    </item>
+    <item>
+      <title>Windows11をインストールできない一世代前のゲーミングPCにUbuntu入れ直して、AIエージェント&amp;ローカルLLMサーバとして常時起動して使ってるんだけど快適 Syncthing のサーバとしても使ってObsidianのvaultをスマホやノートPCと同期できるのも便利 Discord用botのclaude codeも常駐させてる</title>
+      <link>https://x.com/moriz0h/status/2121282249291403411</link>
+      <description>もりぞー: Windows11をインストールできない一世代前のゲーミングPCにUbuntu入れ直して、AIエージェント&amp;ローカルLLMサーバとして常時起動して使ってるんだけど快適 Syncthing のサーバとしても使ってObsidianのvaultをスマホやノートPCと同期できるのも便利 Discord用botのclaude codeも常駐させてる</description>
+      <pubDate>Fri, 13 Nov 2026 16:41:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moriz0h/status/2121282249291403411</guid>
     </item>
     <item>
       <title>Syncthing と格闘してたら寝る時間を２時間以上オーバーしてしまった。</title>
@@ -248,34 +276,6 @@
       <description>ko-zu: androidの syncthing -forkがエンバグったのかSDカード側に書き込みできなくなっていた。代替の双方向同期を探さないと</description>
       <pubDate>Fri, 23 Oct 2026 04:56:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cause_less/status/2113494767686578182</guid>
-    </item>
-    <item>
-      <title>@penpenkobuta_zz keypassDXってアプリがあって、それをPCスマホ両方に入れる→ Chromeから保存してるパスワード一覧のcsvがダウンロードできるからこれを先のアプリにぶち込む→ Syncthing って同期アプリでパスワード一覧のデータだけ同期させるかんじ でもChromeもローカルでパスワードマネージャー動くから、実際は</title>
-      <link>https://x.com/catcatorcat/status/2113491181967671676</link>
-      <description>awamori: @penpenkobuta_zz keypassDXってアプリがあって、それをPCスマホ両方に入れる→ Chromeから保存してるパスワード一覧のcsvがダウンロードできるからこれを先のアプリにぶち込む→ Syncthing って同期アプリでパスワード一覧のデータだけ同期させるかんじ でもChromeもローカルでパスワードマネージャー動くから、実際は</description>
-      <pubDate>Fri, 23 Oct 2026 04:42:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/catcatorcat/status/2113491181967671676</guid>
-    </item>
-    <item>
-      <title>Syncthing とObsidianでP2Pメモアプリ作った #Obsidian</title>
-      <link>https://x.com/yahka9765/status/2113372065483153689</link>
-      <description>八幡: Syncthing とObsidianでP2Pメモアプリ作った #Obsidian</description>
-      <pubDate>Thu, 22 Oct 2026 20:48:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yahka9765/status/2113372065483153689</guid>
-    </item>
-    <item>
-      <title>Syncthing がデフォルトのWebUIからコード実行出来てしまう仕様なのって地味にやばいと思うんだけど 設定ファイル側から設定できる仕様にしてほしい</title>
-      <link>https://x.com/JNGAUL/status/2113327296304328908</link>
-      <description>JNGAUL: Syncthing がデフォルトのWebUIからコード実行出来てしまう仕様なのって地味にやばいと思うんだけど 設定ファイル側から設定できる仕様にしてほしい</description>
-      <pubDate>Thu, 22 Oct 2026 17:51:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/JNGAUL/status/2113327296304328908</guid>
-    </item>
-    <item>
-      <title>自宅のNASで Syncthing をしたらいいのか・・・どんどん世の中は変わっていくなあ。</title>
-      <link>https://x.com/happyman4jp/status/2113062046573199656</link>
-      <description>はっぴ～まん　はぴさん: 自宅のNASで Syncthing をしたらいいのか・・・どんどん世の中は変わっていくなあ。</description>
-      <pubDate>Thu, 22 Oct 2026 00:17:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/happyman4jp/status/2113062046573199656</guid>
     </item>
   </channel>
 </rss>

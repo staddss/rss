@@ -103,13 +103,6 @@
       <guid isPermaLink="true">https://x.com/7n2jju/status/2110715030627029111</guid>
     </item>
     <item>
-      <title>【Void Linux】 zram を設定する方法｜しろみち @Nico_LunaOrbit https://t.co/pKJ1TbkwFV</title>
-      <link>https://x.com/Nico_LunaOrbit/status/2110622320226377922</link>
-      <description>しろみち: 【Void Linux】 zram を設定する方法｜しろみち @Nico_LunaOrbit https://t.co/pKJ1TbkwFV</description>
-      <pubDate>Thu, 15 Oct 2026 06:42:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Nico_LunaOrbit/status/2110622320226377922</guid>
-    </item>
-    <item>
       <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>
       <link>https://x.com/joho_no_todai/status/2107107612995260785</link>
       <description>情報の灯台: Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</description>

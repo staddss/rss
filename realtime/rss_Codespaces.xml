@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '&quot;Codespaces&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE徹底比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/rNjY5B23Nt #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2121456020165636397</link>
+      <description>EngiNear: 【新着記事】クラウドIDE徹底比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/rNjY5B23Nt #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 14 Nov 2026 04:11:44 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2121456020165636397</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の最短で正しい選び方とPoC手順 https://t.co/xXKmNXE6dB #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2121395504617500817</link>
       <description>EngiNear: 【新着記事】クラウドIDE比較：GitHub Codespaces ・Gitpod・AWS Cloud9 の最短で正しい選び方とPoC手順 https://t.co/xXKmNXE6dB #エンジニア #ChatGPT #AI</description>
       <pubDate>Sat, 14 Nov 2026 00:11:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2121395504617500817</guid>
+    </item>
+    <item>
+      <title>これはバグじゃね？感あるんだけど、Enterprise managed settingsでデフォLLMはfusionって制限だけのmanaged-settings.jsonを消して Codespaces 立ち上げたら、今まで使えなかったclaudeとかCodexとかの3rd party agent使えるようになった https://t.co/3GFT8XMpnu</title>
+      <link>https://x.com/1115_lilium/status/2121185041757901211</link>
+      <description>❀.(*´▽`*)❀.yurié: これはバグじゃね？感あるんだけど、Enterprise managed settingsでデフォLLMはfusionって制限だけのmanaged-settings.jsonを消して Codespaces 立ち上げたら、今まで使えなかったclaudeとかCodexとかの3rd party agent使えるようになった https://t.co/3GFT8XMpnu</description>
+      <pubDate>Fri, 13 Nov 2026 10:14:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/1115_lilium/status/2121185041757901211</guid>
     </item>
     <item>
       <title>スマホからでも codespaces 使えばWEBアプリ見れるのすごいなー（面白い） バージョン管理しないバイブコーディングへ警鐘をならすリアルなシナリオができて満足w とりあえずGit勉強しろ！！ https://t.co/1G9GmKtLwk</title>
@@ -269,13 +283,6 @@
       <description>EngiNear: 【新着記事】クラウドIDE比較ガイド： Codespaces ・Gitpod・Cloud9 の実務的な選び方と1週間PoC手順 https://t.co/lYvTdQZicq #エンジニア #ChatGPT #AI</description>
       <pubDate>Mon, 19 Oct 2026 00:36:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2111979805616828913</guid>
-    </item>
-    <item>
-      <title>@kawamoto_LINER 学生自身が企画・運営し、熱量ある仲間が集まる場は本当に素敵ですね。Copilotや Codespaces が挑戦のハードルを下げ、アイデアを形にする時間へ集中できたことが伝わります。</title>
-      <link>https://x.com/toyuki777/status/2111841275561542102</link>
-      <description>とゆきちゃん: @kawamoto_LINER 学生自身が企画・運営し、熱量ある仲間が集まる場は本当に素敵ですね。Copilotや Codespaces が挑戦のハードルを下げ、アイデアを形にする時間へ集中できたことが伝わります。</description>
-      <pubDate>Sun, 18 Oct 2026 15:26:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/toyuki777/status/2111841275561542102</guid>
     </item>
   </channel>
 </rss>

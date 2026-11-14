@@ -277,12 +277,5 @@
       <pubDate>Tue, 03 Nov 2026 17:58:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/neoclassic_tech/status/2117677915341217804</guid>
     </item>
-    <item>
-      <title>Teamsで社内IT担当を装い、AD CSの不備から特権証明書を窃取 攻撃者はTeamsでIT担当を装い、Quick Assistで遠隔操作を取得。その後、証明書テンプレートの不備(ESC1)から特権アカウントの証明書を得てDCSyncを実行し、 Rclone でデータを持ち出しています。</title>
-      <link>https://x.com/_yuichi/status/2117448838298673425</link>
-      <description>Yuichi Kaneko: Teamsで社内IT担当を装い、AD CSの不備から特権証明書を窃取 攻撃者はTeamsでIT担当を装い、Quick Assistで遠隔操作を取得。その後、証明書テンプレートの不備(ESC1)から特権アカウントの証明書を得てDCSyncを実行し、 Rclone でデータを持ち出しています。</description>
-      <pubDate>Tue, 03 Nov 2026 02:48:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_yuichi/status/2117448838298673425</guid>
-    </item>
   </channel>
 </rss>

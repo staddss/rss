@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>カスタムGPTのサ終するのでMuseちゃんに移行 MCPだから誰でもいいけど トークン余りがちだし無料だし ランニングコストは電気代とドメイン代だけなのが良き Muse AI → Cloudflare Access → Cloudflare Tunnel → MCP → API → PostgreSQL→Webフロントエンド https://t.co/l0ZmPlni6g https://t.co/PBi0FTulhG</title>
+      <link>https://x.com/tun254mm/status/2121469186778214675</link>
+      <description>おにぎり: カスタムGPTのサ終するのでMuseちゃんに移行 MCPだから誰でもいいけど トークン余りがちだし無料だし ランニングコストは電気代とドメイン代だけなのが良き Muse AI → Cloudflare Access → Cloudflare Tunnel → MCP → API → PostgreSQL→Webフロントエンド https://t.co/l0ZmPlni6g https://t.co/PBi0FTulhG</description>
+      <pubDate>Sat, 14 Nov 2026 05:04:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tun254mm/status/2121469186778214675</guid>
+    </item>
+    <item>
       <title>ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</title>
       <link>https://x.com/Taisho_Now/status/2121177190092173714</link>
       <description>Taisho🇵🇭Outlander: ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</description>
       <pubDate>Fri, 13 Nov 2026 09:43:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Taisho_Now/status/2121177190092173714</guid>
+    </item>
+    <item>
+      <title>@siokara_siomi Cloudflare Tunnel とか使えば固定IPすらいらないかも...？</title>
+      <link>https://x.com/nijiurachan/status/2121144879086706922</link>
+      <description>あいもげ公式: @siokara_siomi Cloudflare Tunnel とか使えば固定IPすらいらないかも...？</description>
+      <pubDate>Fri, 13 Nov 2026 07:35:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nijiurachan/status/2121144879086706922</guid>
     </item>
     <item>
       <title>Cloudflare Tunnel 2026.11.0でingressルールのURL正規化が拡張され、セミコロン区切りパスが処理対象に。転送パスは変えずAccess照合を改善します。既定有効化は2027年2月8日へ延期。注意点を整理。 https://t.co/ghxQtBcUJF</title>
@@ -262,20 +276,6 @@
       <description>Indraputra (Tok Ai): Pindah satu app dari IP VPS terbuka ke Cloudflare Tunnel hari ni. Pengajaran: semak &quot;trust proxy&quot; dulu. Silap kira lapis proksi, IP pelawat boleh dipalsukan. Uji dengan hostname sementara sebelum tukar DNS. 一歩ずつ.</description>
       <pubDate>Tue, 03 Nov 2026 06:20:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TokPutraAI/status/2117502139857842270</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel とかいう、ローカルで動作するプロセスのポートをインターネットの公開ドメインに繋ぎこむ、ZScalerのPublisher的な便利機能があることを知って歓喜。放置したら怖いけど、ちょっと試すにはいいな。 https://t.co/mcatB8kgoS</title>
-      <link>https://x.com/kthrtty/status/2117198088544883004</link>
-      <description>Katsu Tatsu: Cloudflare Tunnel とかいう、ローカルで動作するプロセスのポートをインターネットの公開ドメインに繋ぎこむ、ZScalerのPublisher的な便利機能があることを知って歓喜。放置したら怖いけど、ちょっと試すにはいいな。 https://t.co/mcatB8kgoS</description>
-      <pubDate>Mon, 02 Nov 2026 10:12:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kthrtty/status/2117198088544883004</guid>
-    </item>
-    <item>
-      <title>ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</title>
-      <link>https://x.com/kuninori/status/2117067525607633378</link>
-      <description>kuninori: ローカルの自作バイブスアプリをGrok Bot向けに cloudflare tunnel 穴開けてGrokが使えるようになった。 自作エージェント使ってたけど、テスラでGrok Bot使えることがわかって置き換え。運転中に思いついたことすぐやってくれる！すごい。</description>
-      <pubDate>Mon, 02 Nov 2026 01:33:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kuninori/status/2117067525607633378</guid>
     </item>
   </channel>
 </rss>
