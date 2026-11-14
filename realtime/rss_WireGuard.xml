@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>速度低下の原因は不明です。 curlを使えばなんとかアクセスできるのですが、ブラウザだと重すぎて開けないです。 VPS自体は200mbpsくらい出ているので、 wireguard を噛ませとき限定の現象のようです。</title>
+      <link>https://x.com/ShunsukeY116/status/2121255269732929841</link>
+      <description>Yamamoto Shunsuke: 速度低下の原因は不明です。 curlを使えばなんとかアクセスできるのですが、ブラウザだと重すぎて開けないです。 VPS自体は200mbpsくらい出ているので、 wireguard を噛ませとき限定の現象のようです。</description>
+      <pubDate>Fri, 13 Nov 2026 14:54:01 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShunsukeY116/status/2121255269732929841</guid>
+    </item>
+    <item>
+      <title>@coqe_reds アドバイスありがとう！！！ VPN利用における動的／固定IPの違いは分かんなかった、 なんだろうProtonの無料アプリで毎回位置違うのと Wireguard で特定の地域指定して繋ぐかみたいな話なのかな</title>
+      <link>https://x.com/L_port53/status/2121219109690171483</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @coqe_reds アドバイスありがとう！！！ VPN利用における動的／固定IPの違いは分かんなかった、 なんだろうProtonの無料アプリで毎回位置違うのと Wireguard で特定の地域指定して繋ぐかみたいな話なのかな</description>
+      <pubDate>Fri, 13 Nov 2026 12:30:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2121219109690171483</guid>
+    </item>
+    <item>
       <title>Taskerと WireGuard とのセットは、複数のトンネル切り替えする場合でも基本的に選択したトンネルはトグル式に切り変わる「はず」たが、明示的に切るべきトンネルをDisableした上で繋ぐトンネルをEnableしたほうがいいな。 #Tasker # WireGuard #VPN</title>
       <link>https://x.com/Quantum_Logos/status/2121187464933167509</link>
       <description>Quantum_Logos: Taskerと WireGuard とのセットは、複数のトンネル切り替えする場合でも基本的に選択したトンネルはトグル式に切り変わる「はず」たが、明示的に切るべきトンネルをDisableした上で繋ぐトンネルをEnableしたほうがいいな。 #Tasker # WireGuard #VPN</description>
@@ -17,6 +31,13 @@
       <description>キサミ: 複数推論インスタンスに解析要求を出していたら、新しいMacbookProが速すぎ？てnehelperに引っかかってローカルネットワークをrejectするようになってしまった… wireguard で結線させて凌いでいますが、他にいい方法はあるのでしょうか？</description>
       <pubDate>Fri, 13 Nov 2026 10:19:15 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gumi278tof/status/2121186122030346410</guid>
+    </item>
+    <item>
+      <title>@miraihack 私は巷のほとぼりが冷めたので WireGuard からTailscaleに切り替えてVPN接続時のみ有効になるSelf_hostedアプリ群を運用してます、VPN外だと404をご丁寧に返すようにしてる… 公開URLのものは全てHeadless CMSに切り替えて、VPN内のブラウザGUIアプリで管理</title>
+      <link>https://x.com/yomiplush/status/2121147908334784523</link>
+      <description>🧸⛩️YomiPlush: @miraihack 私は巷のほとぼりが冷めたので WireGuard からTailscaleに切り替えてVPN接続時のみ有効になるSelf_hostedアプリ群を運用してます、VPN外だと404をご丁寧に返すようにしてる… 公開URLのものは全てHeadless CMSに切り替えて、VPN内のブラウザGUIアプリで管理</description>
+      <pubDate>Fri, 13 Nov 2026 07:47:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yomiplush/status/2121147908334784523</guid>
     </item>
     <item>
       <title>GEMINIが4 HYDROGENになって遂に、「ヤマハルーターのOS（RTファームウェア）は、2026年現在も WireGuard をネイティブ実装していません」って初手から回答してくるようになった!!</title>
@@ -255,27 +276,6 @@
       <description>一樹（第二拠点）: @iPhonedevelopee 参考になります！ ちなみに Wireguard のEMProxyは対応しているかなどわかりますか？</description>
       <pubDate>Sat, 07 Nov 2026 07:36:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8080/status/2118970902570471586</guid>
-    </item>
-    <item>
-      <title>DPDKルーター/開発環境を使って自分の欲しい機能全部載せルータを密かに作っています。 Publicに書いたのは初めて? OSS版のProjectは下記 https://t.co/yYcpGKcxt4 自分で書いていたEtherIP tunnelが...EVPN/VXLAN, 仮想ルータ, WireGuard , IPIP, 等々 途中からコードを書く楽しみが奪われましたが, https://t.co/Clknly52lj https://t.co/FqCpDHbyS5</title>
-      <link>https://x.com/x86taka/status/2118882975630897600</link>
-      <description>梅ちゃん: DPDKルーター/開発環境を使って自分の欲しい機能全部載せルータを密かに作っています。 Publicに書いたのは初めて? OSS版のProjectは下記 https://t.co/yYcpGKcxt4 自分で書いていたEtherIP tunnelが...EVPN/VXLAN, 仮想ルータ, WireGuard , IPIP, 等々 途中からコードを書く楽しみが奪われましたが, https://t.co/Clknly52lj https://t.co/FqCpDHbyS5</description>
-      <pubDate>Sat, 07 Nov 2026 01:47:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/x86taka/status/2118882975630897600</guid>
-    </item>
-    <item>
-      <title>どうせならLMS無効化してSpeedifyとか Wireguard とか載せといてほしいな 誰が使うねんLMS</title>
-      <link>https://x.com/takumidevices/status/2118328774446268910</link>
-      <description>TakumiDevices: どうせならLMS無効化してSpeedifyとか Wireguard とか載せといてほしいな 誰が使うねんLMS</description>
-      <pubDate>Thu, 05 Nov 2026 13:05:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/takumidevices/status/2118328774446268910</guid>
-    </item>
-    <item>
-      <title>中国の金盾は十分な知識があれば簡単に回避できるが、逆に言えば十分な知識がないと難しい。普通の中継プロトコルは全部ブロックされているので。ssh tunneling も Wireguard も HTTP https://t.co/QnzIM8XlQl</title>
-      <link>https://x.com/itukakietesimau/status/2118312692469661896</link>
-      <description>itukaki🇸🇬: 中国の金盾は十分な知識があれば簡単に回避できるが、逆に言えば十分な知識がないと難しい。普通の中継プロトコルは全部ブロックされているので。ssh tunneling も Wireguard も HTTP https://t.co/QnzIM8XlQl</description>
-      <pubDate>Thu, 05 Nov 2026 12:01:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/itukakietesimau/status/2118312692469661896</guid>
     </item>
   </channel>
 </rss>

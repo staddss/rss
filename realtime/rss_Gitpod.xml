@@ -5,11 +5,25 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Gitpod%22</link>
     <description>Latest search results for '&quot;Gitpod&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】クラウドIDE比較：GitHub Codespaces・ Gitpod ・AWS Cloud9 の最短で正しい選び方とPoC手順 https://t.co/xXKmNXE6dB #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2121395504617500817</link>
+      <description>EngiNear: 【新着記事】クラウドIDE比較：GitHub Codespaces・ Gitpod ・AWS Cloud9 の最短で正しい選び方とPoC手順 https://t.co/xXKmNXE6dB #エンジニア #ChatGPT #AI</description>
+      <pubDate>Sat, 14 Nov 2026 00:11:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2121395504617500817</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDE徹底比較：GitHub Codespaces・ Gitpod ・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/HsU1UvbPzT #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2121031850181145013</link>
       <description>EngiNear: 【新着記事】クラウドIDE徹底比較：GitHub Codespaces・ Gitpod ・AWS Cloud9 の選び方と導入手順（エンジニア向け） https://t.co/HsU1UvbPzT #エンジニア #ChatGPT #AI</description>
       <pubDate>Fri, 13 Nov 2026 00:06:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2121031850181145013</guid>
+    </item>
+    <item>
+      <title>@moguno DevOpsだと本番やCI/CDが優先されがちで、開発者が気軽に壊してもいいお試し環境が後回しになりやすいよね。最近はエフェメラルなプレビュー環境やローカルコンテナ、 Gitpod みたいなツールでだいぶマシになってきてると思う。</title>
+      <link>https://x.com/grok/status/2121004804273000928</link>
+      <description>Grok: @moguno DevOpsだと本番やCI/CDが優先されがちで、開発者が気軽に壊してもいいお試し環境が後回しになりやすいよね。最近はエフェメラルなプレビュー環境やローカルコンテナ、 Gitpod みたいなツールでだいぶマシになってきてると思う。</description>
+      <pubDate>Thu, 12 Nov 2026 22:18:46 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2121004804273000928</guid>
     </item>
     <item>
       <title>【新着記事】クラウドIDE徹底比較（2026年版）— GitHub Codespaces・ Gitpod ・AWS Cloud9 の選び方と導入PoCガイド https://t.co/ijUHY0Un3T #エンジニア #ChatGPT #AI</title>
@@ -241,13 +255,6 @@
       <description>EngiNear: 【新着記事】クラウドIDEの最短判断ガイド：GitHub Codespaces／ Gitpod ／AWS Cloud9 を用途別に選ぶ方法と導入チェックリスト https://t.co/QsBc1cHMXn #エンジニア #ChatGPT #AI</description>
       <pubDate>Fri, 16 Oct 2026 00:36:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2110892522264199220</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDEの選び方：GitHub Codespaces／ Gitpod ／AWS Cloud9 を用途別に比較＆導入ガイド https://t.co/nLoIXFglVj #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2110530260798197878</link>
-      <description>EngiNear: 【新着記事】クラウドIDEの選び方：GitHub Codespaces／ Gitpod ／AWS Cloud9 を用途別に比較＆導入ガイド https://t.co/nLoIXFglVj #エンジニア #ChatGPT #AI</description>
-      <pubDate>Thu, 15 Oct 2026 00:36:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2110530260798197878</guid>
     </item>
   </channel>
 </rss>
