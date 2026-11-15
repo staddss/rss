@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>2について、iOSでのGit操作が不安定で、大きいリポジトリのpullで失敗したりする。GitとiPhoneは相性悪め 3番目。 syncthing というソフトがあります。このソフトで連携してるやつは自動で同期されます。常時起動の端末があれば常時同期される。iPhoneも可。バックグラウンド同期されないけど https://t.co/gZP85uXLtx</title>
+      <link>https://x.com/shiiiiii77777/status/2121667141065929141</link>
+      <description>shi.: 2について、iOSでのGit操作が不安定で、大きいリポジトリのpullで失敗したりする。GitとiPhoneは相性悪め 3番目。 syncthing というソフトがあります。このソフトで連携してるやつは自動で同期されます。常時起動の端末があれば常時同期される。iPhoneも可。バックグラウンド同期されないけど https://t.co/gZP85uXLtx</description>
+      <pubDate>Sat, 14 Nov 2026 18:10:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiiiiii77777/status/2121667141065929141</guid>
+    </item>
+    <item>
       <title>@Dropbox 私はDropboxに課金していません。 syncthing だと無料で容量気にせず使えるからです。 https://t.co/0G4p1MIF7c</title>
       <link>https://x.com/goldbecksfire/status/2121546236943827048</link>
       <description>🔥懲弁連 代表🔥ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: @Dropbox 私はDropboxに課金していません。 syncthing だと無料で容量気にせず使えるからです。 https://t.co/0G4p1MIF7c</description>
@@ -269,13 +276,6 @@
       <description>いそじん: 本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</description>
       <pubDate>Fri, 23 Oct 2026 06:15:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/clockstep/status/2113514749732544826</guid>
-    </item>
-    <item>
-      <title>androidの syncthing -forkがエンバグったのかSDカード側に書き込みできなくなっていた。代替の双方向同期を探さないと</title>
-      <link>https://x.com/cause_less/status/2113494767686578182</link>
-      <description>ko-zu: androidの syncthing -forkがエンバグったのかSDカード側に書き込みできなくなっていた。代替の双方向同期を探さないと</description>
-      <pubDate>Fri, 23 Oct 2026 04:56:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cause_less/status/2113494767686578182</guid>
     </item>
   </channel>
 </rss>
