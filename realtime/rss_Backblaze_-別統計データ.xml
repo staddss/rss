@@ -137,33 +137,5 @@
       <pubDate>Fri, 16 Oct 2026 13:28:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sitects/status/2111086840900120852</guid>
     </item>
-    <item>
-      <title>Minisforum S5 面白そうかも。Windows を入れて HDD ケースを繋いで、NAS+NW ドライブ構成にしたうえで Backblaze でバックアップ取得とか組めるとストレージの集約ができそう。</title>
-      <link>https://x.com/marizedginidze/status/2111026484383207797</link>
-      <description>ふつごぽん（フランス語の豆知識） 🌙: Minisforum S5 面白そうかも。Windows を入れて HDD ケースを繋いで、NAS+NW ドライブ構成にしたうえで Backblaze でバックアップ取得とか組めるとストレージの集約ができそう。</description>
-      <pubDate>Fri, 16 Oct 2026 09:28:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/marizedginidze/status/2111026484383207797</guid>
-    </item>
-    <item>
-      <title>@ZEST2007mini 今回は AWS でバックアップする仕組みを用意し、される側には何も置かない。（これでサーバーに侵入されても、バックアップ処理をしている先の情報までは取得できない）それを Backblaze B2 に置いてるそうです。もちろん通常はレンタルサーバー側でもバックアップがあります。</title>
-      <link>https://x.com/kazumich/status/2111019689195577459</link>
-      <description>山本一道@アップルップル: @ZEST2007mini 今回は AWS でバックアップする仕組みを用意し、される側には何も置かない。（これでサーバーに侵入されても、バックアップ処理をしている先の情報までは取得できない）それを Backblaze B2 に置いてるそうです。もちろん通常はレンタルサーバー側でもバックアップがあります。</description>
-      <pubDate>Fri, 16 Oct 2026 09:01:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kazumich/status/2111019689195577459</guid>
-    </item>
-    <item>
-      <title>ソースネクスト、一昨年くらいまで backblaze のライセンスを安価に売っていたので結構買ってました。良かったのに、多分円安で仕入れが高くなって続けられなくなったのだろうね。</title>
-      <link>https://x.com/fcneet/status/2110929311557615879</link>
-      <description>ファミネコ@大型AC筐体ドクター: ソースネクスト、一昨年くらいまで backblaze のライセンスを安価に売っていたので結構買ってました。良かったのに、多分円安で仕入れが高くなって続けられなくなったのだろうね。</description>
-      <pubDate>Fri, 16 Oct 2026 03:02:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/fcneet/status/2110929311557615879</guid>
-    </item>
-    <item>
-      <title>バックアップを取っていれば安心とは限りません。 警察庁調査ではランサムウェア被害の約9割がバックアップをしていた一方、復元できたのは約2割でした。 弊社ではKopia+ Backblaze B2を使い「消せない・戻せる」バックアップを構築しています。 https://t.co/lsMC53gsoM #バックアップ #セキュリティ</title>
-      <link>https://x.com/appleplecom/status/2110877543868043499</link>
-      <description>アップルップル: バックアップを取っていれば安心とは限りません。 警察庁調査ではランサムウェア被害の約9割がバックアップをしていた一方、復元できたのは約2割でした。 弊社ではKopia+ Backblaze B2を使い「消せない・戻せる」バックアップを構築しています。 https://t.co/lsMC53gsoM #バックアップ #セキュリティ</description>
-      <pubDate>Thu, 15 Oct 2026 23:36:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/appleplecom/status/2110877543868043499</guid>
-    </item>
   </channel>
 </rss>

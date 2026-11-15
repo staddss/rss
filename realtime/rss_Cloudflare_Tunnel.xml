@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare Tunnel Ingress Controllerいつもお世話になっております https://t.co/LP2HMPmNNi #jisabakan</title>
+      <link>https://x.com/cyokozai0/status/2121842552282521746</link>
+      <description>猪口才/cyokozai: Cloudflare Tunnel Ingress Controllerいつもお世話になっております https://t.co/LP2HMPmNNi #jisabakan</description>
+      <pubDate>Sun, 15 Nov 2026 05:47:41 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cyokozai0/status/2121842552282521746</guid>
+    </item>
+    <item>
+      <title>おうちk8sってグローバルIPないとgateway api立てても外からみれないよ〜〜ってあるあるだよな… cloudflare tunnel 張ったりtailscaleで公開したりする、あるある #jisabakan</title>
+      <link>https://x.com/calloc134/status/2121842455603786209</link>
+      <description>かろっく: おうちk8sってグローバルIPないとgateway api立てても外からみれないよ〜〜ってあるあるだよな… cloudflare tunnel 張ったりtailscaleで公開したりする、あるある #jisabakan</description>
+      <pubDate>Sun, 15 Nov 2026 05:47:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/calloc134/status/2121842455603786209</guid>
+    </item>
+    <item>
+      <title>Cloudflare tunnel 使うならマイクラが鬼門かあ</title>
+      <link>https://x.com/oYAs_me/status/2121801761694548449</link>
+      <description>Y-Asなの🈂️: Cloudflare tunnel 使うならマイクラが鬼門かあ</description>
+      <pubDate>Sun, 15 Nov 2026 03:05:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oYAs_me/status/2121801761694548449</guid>
+    </item>
+    <item>
+      <title>電気代の安いarmチップのシングルボードコンピュータを3台くらい買って、k3sをインストール。 Cloudflare tunnel で外部ネットと繋げることによって、気が向いたときにいつでもデプロイのできるマイkubenetes環境が欲しい</title>
+      <link>https://x.com/aa_kunda/status/2121515489801507027</link>
+      <description>あぁくん: 電気代の安いarmチップのシングルボードコンピュータを3台くらい買って、k3sをインストール。 Cloudflare tunnel で外部ネットと繋げることによって、気が向いたときにいつでもデプロイのできるマイkubenetes環境が欲しい</description>
+      <pubDate>Sat, 14 Nov 2026 08:08:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aa_kunda/status/2121515489801507027</guid>
+    </item>
+    <item>
       <title>カスタムGPTのサ終するのでMuseちゃんに移行 MCPだから誰でもいいけど トークン余りがちだし無料だし ランニングコストは電気代とドメイン代だけなのが良き Muse AI → Cloudflare Access → Cloudflare Tunnel → MCP → API → PostgreSQL→Webフロントエンド https://t.co/l0ZmPlni6g https://t.co/PBi0FTulhG</title>
       <link>https://x.com/tun254mm/status/2121469186778214675</link>
       <description>おにぎり: カスタムGPTのサ終するのでMuseちゃんに移行 MCPだから誰でもいいけど トークン余りがちだし無料だし ランニングコストは電気代とドメイン代だけなのが良き Muse AI → Cloudflare Access → Cloudflare Tunnel → MCP → API → PostgreSQL→Webフロントエンド https://t.co/l0ZmPlni6g https://t.co/PBi0FTulhG</description>
@@ -248,34 +276,6 @@
       <description>MF235: こういう技術的な記事もちゃっぴーに「今話し合った内容をWordpressに投稿しておいて」って言ったらやってくれる有能。自前のmcpサーバーを使ってるけどWorkもCodexも不要。 Windows＋ Cloudflare Tunnel ＋Caddy＋PHPでローカルHTTPS接続を追加する方法 https://t.co/v3NTD1sKBB #ChatGPT #AI</description>
       <pubDate>Tue, 03 Nov 2026 14:10:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MF235XBR/status/2117620362766868972</guid>
-    </item>
-    <item>
-      <title>@egpl0 cloudflare tunnel で使ってる人からはあんま言われたことないのでtailnetだけ遅いのかなと</title>
-      <link>https://x.com/5yuim/status/2117615369867420018</link>
-      <description>結: @egpl0 cloudflare tunnel で使ってる人からはあんま言われたことないのでtailnetだけ遅いのかなと</description>
-      <pubDate>Tue, 03 Nov 2026 13:50:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/5yuim/status/2117615369867420018</guid>
-    </item>
-    <item>
-      <title>Pindah app kehadiran kampung ke Cloudflare Tunnel hari ni. Kod tak boleh naik live selagi saya tak buka sendiri setiap skrin staging. Leceh, tapi itulah yang buat saya yakin. AI buat kerja, mata manusia luluskan. 確認してから</title>
-      <link>https://x.com/TokPutraAI/status/2117586829088330131</link>
-      <description>Indraputra (Tok Ai): Pindah app kehadiran kampung ke Cloudflare Tunnel hari ni. Kod tak boleh naik live selagi saya tak buka sendiri setiap skrin staging. Leceh, tapi itulah yang buat saya yakin. AI buat kerja, mata manusia luluskan. 確認してから</description>
-      <pubDate>Tue, 03 Nov 2026 11:56:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TokPutraAI/status/2117586829088330131</guid>
-    </item>
-    <item>
-      <title>@bebexe8888 インターネットからのアクセスってどうしてますか？ Cloudflare Tunnel を使うと100MB制限に引っかかるのでどうしようかな〜と</title>
-      <link>https://x.com/ebi68000/status/2117583079569281250</link>
-      <description>EVE:/i(えび)🦐: @bebexe8888 インターネットからのアクセスってどうしてますか？ Cloudflare Tunnel を使うと100MB制限に引っかかるのでどうしようかな〜と</description>
-      <pubDate>Tue, 03 Nov 2026 11:42:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ebi68000/status/2117583079569281250</guid>
-    </item>
-    <item>
-      <title>Pindah satu app dari IP VPS terbuka ke Cloudflare Tunnel hari ni. Pengajaran: semak &quot;trust proxy&quot; dulu. Silap kira lapis proksi, IP pelawat boleh dipalsukan. Uji dengan hostname sementara sebelum tukar DNS. 一歩ずつ.</title>
-      <link>https://x.com/TokPutraAI/status/2117502139857842270</link>
-      <description>Indraputra (Tok Ai): Pindah satu app dari IP VPS terbuka ke Cloudflare Tunnel hari ni. Pengajaran: semak &quot;trust proxy&quot; dulu. Silap kira lapis proksi, IP pelawat boleh dipalsukan. Uji dengan hostname sementara sebelum tukar DNS. 一歩ずつ.</description>
-      <pubDate>Tue, 03 Nov 2026 06:20:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TokPutraAI/status/2117502139857842270</guid>
     </item>
   </channel>
 </rss>

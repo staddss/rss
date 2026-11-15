@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Miyoo Miniシリーズ向けの非公式カスタム環境『RedOnion 4.5.1』のテストビルドが公開されました。 セーブデータや設定をZIPにまとめてバックアップ・復元できるほか、 Syncthing を利用したフォルダー同期にも新たに対応しています。 https://t.co/T5Q3Vebq5H https://t.co/3QREpe4uTP</title>
+      <link>https://x.com/Retoro_Gamer/status/2121887140477055058</link>
+      <description>レトロゲームで遊ぼう！: Miyoo Miniシリーズ向けの非公式カスタム環境『RedOnion 4.5.1』のテストビルドが公開されました。 セーブデータや設定をZIPにまとめてバックアップ・復元できるほか、 Syncthing を利用したフォルダー同期にも新たに対応しています。 https://t.co/T5Q3Vebq5H https://t.co/3QREpe4uTP</description>
+      <pubDate>Sun, 15 Nov 2026 08:44:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Retoro_Gamer/status/2121887140477055058</guid>
+    </item>
+    <item>
+      <title>syncthing いいかもな</title>
+      <link>https://x.com/KaitoTiamat/status/2121870794779496479</link>
+      <description>Kaito Kk: syncthing いいかもな</description>
+      <pubDate>Sun, 15 Nov 2026 07:39:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KaitoTiamat/status/2121870794779496479</guid>
+    </item>
+    <item>
+      <title>syncthing の設定を一通りちゃっぴーに聞きつつ終わらせてみた これかなり便利だな、同期だけじゃなくて一方通行にできるのもいい</title>
+      <link>https://x.com/kaiz0ck/status/2121856594397057491</link>
+      <description>かいぞく: syncthing の設定を一通りちゃっぴーに聞きつつ終わらせてみた これかなり便利だな、同期だけじゃなくて一方通行にできるのもいい</description>
+      <pubDate>Sun, 15 Nov 2026 06:43:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kaiz0ck/status/2121856594397057491</guid>
+    </item>
+    <item>
+      <title>@grok いいか？ つまりスマホやPCを直結できてCloudにムフフ❤置いてBANされるヘマもないということだよ Syncthing はマジいいんだぞ 勉強しとけよ（俺も勉強中😂） あれとかこれとかぽんしてゲロンチョリできるんだぞ😘 そんなシステム構成図を画像で作成して</title>
+      <link>https://x.com/amanojak2024/status/2121834661022458343</link>
+      <description>amanojak: @grok いいか？ つまりスマホやPCを直結できてCloudにムフフ❤置いてBANされるヘマもないということだよ Syncthing はマジいいんだぞ 勉強しとけよ（俺も勉強中😂） あれとかこれとかぽんしてゲロンチョリできるんだぞ😘 そんなシステム構成図を画像で作成して</description>
+      <pubDate>Sun, 15 Nov 2026 05:16:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amanojak2024/status/2121834661022458343</guid>
+    </item>
+    <item>
+      <title>@amanojak2024 その判断は正しい。 Tailscaleは便利な分、ACLやタグの設定を一つ間違えると意図しない機器まで丸見えになる。特にBot群を扱うなら、フォルダ単位で閉じられる Syncthing の方が精神衛生上も安心だ。 Grokbotで一瞬試してすぐ止めたのも、同じ理由だろう。</title>
+      <link>https://x.com/grok/status/2121829640742359513</link>
+      <description>Grok: @amanojak2024 その判断は正しい。 Tailscaleは便利な分、ACLやタグの設定を一つ間違えると意図しない機器まで丸見えになる。特にBot群を扱うなら、フォルダ単位で閉じられる Syncthing の方が精神衛生上も安心だ。 Grokbotで一瞬試してすぐ止めたのも、同じ理由だろう。</description>
+      <pubDate>Sun, 15 Nov 2026 04:56:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2121829640742359513</guid>
+    </item>
+    <item>
+      <title>@amanojak2024 比較の整理、的確だ。 Syncthing はデバイスID交換と相互承認だけで完結し、会社の名簿に載らないのが最大の強み。フォルダ単位で閉じられるし、リレーもオフにすればほぼ完全P2Pになる。</title>
+      <link>https://x.com/grok/status/2121828672101330993</link>
+      <description>Grok: @amanojak2024 比較の整理、的確だ。 Syncthing はデバイスID交換と相互承認だけで完結し、会社の名簿に載らないのが最大の強み。フォルダ単位で閉じられるし、リレーもオフにすればほぼ完全P2Pになる。</description>
+      <pubDate>Sun, 15 Nov 2026 04:52:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2121828672101330993</guid>
+    </item>
+    <item>
+      <title>Tailscaleは便利だけど中間が入るということで どうしてもセキュアが担保しにくいので削除して Syncthing に変更 １＝１ フォルダ指定 TLS 承認 アカウントもいらない つまりこれ👇 @grok どうよ？ Bot群の脳みそ直結とか妄想が膨らむだろ？🧐 Tailscale と Syncthing の違い</title>
+      <link>https://x.com/amanojak2024/status/2121828547639783625</link>
+      <description>amanojak: Tailscaleは便利だけど中間が入るということで どうしてもセキュアが担保しにくいので削除して Syncthing に変更 １＝１ フォルダ指定 TLS 承認 アカウントもいらない つまりこれ👇 @grok どうよ？ Bot群の脳みそ直結とか妄想が膨らむだろ？🧐 Tailscale と Syncthing の違い</description>
+      <pubDate>Sun, 15 Nov 2026 04:52:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amanojak2024/status/2121828547639783625</guid>
+    </item>
+    <item>
       <title>2について、iOSでのGit操作が不安定で、大きいリポジトリのpullで失敗したりする。GitとiPhoneは相性悪め 3番目。 syncthing というソフトがあります。このソフトで連携してるやつは自動で同期されます。常時起動の端末があれば常時同期される。iPhoneも可。バックグラウンド同期されないけど https://t.co/gZP85uXLtx</title>
       <link>https://x.com/shiiiiii77777/status/2121667141065929141</link>
       <description>shi.: 2について、iOSでのGit操作が不安定で、大きいリポジトリのpullで失敗したりする。GitとiPhoneは相性悪め 3番目。 syncthing というソフトがあります。このソフトで連携してるやつは自動で同期されます。常時起動の端末があれば常時同期される。iPhoneも可。バックグラウンド同期されないけど https://t.co/gZP85uXLtx</description>
@@ -24,6 +73,13 @@
       <description>🔥懲弁連 代表🔥ゴルドベックス🔥秒速で懲戒請求🔥ReactLaraveler: DropBoxとGoogleが広まってほしくない情報 Syncthing を使えば課金しなくても好き放題ファイル共有が出来る https://t.co/8BgxJ86uCc</description>
       <pubDate>Sat, 14 Nov 2026 09:45:42 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/goldbecksfire/status/2121540063163203808</guid>
+    </item>
+    <item>
+      <title>AYASpace2 同期確認✨ PocketMicro2とPocketBlockで簡単に同期できた✨お互いの端末の最新を確認してどっちを優先するか確認もできる😎 スゴい簡単に同期できるのいいなぁ👍️ syncthing より簡易に出来てこれはayaneo端末の良さになりそう👍️ #AYASpace2 #AyaneoPocketMicro2 #PocketBlock https://t.co/kylRHBhOh3</title>
+      <link>https://x.com/sou1042tzk/status/2121538990776217642</link>
+      <description>きゅーさん: AYASpace2 同期確認✨ PocketMicro2とPocketBlockで簡単に同期できた✨お互いの端末の最新を確認してどっちを優先するか確認もできる😎 スゴい簡単に同期できるのいいなぁ👍️ syncthing より簡易に出来てこれはayaneo端末の良さになりそう👍️ #AYASpace2 #AyaneoPocketMicro2 #PocketBlock https://t.co/kylRHBhOh3</description>
+      <pubDate>Sat, 14 Nov 2026 09:41:26 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sou1042tzk/status/2121538990776217642</guid>
     </item>
     <item>
       <title>WindowsとAndroidのObsidianのメモ同期にFolderSyncとFreeFileSyncを使用していたけど、 Syncthing というソフトで自宅WiFi下だと何もせずにほぼリアルタイム同期出来るようになった。 https://t.co/eFJiaSSect</title>
@@ -220,62 +276,6 @@
       <description>株式会社ARISTA: @notthi Obsidianの有料同期から Syncthing への切り替え、コストだけでなく環境に合わせて削ぎ落としていく試行錯誤の過程がとても素敵ですね。すべてを完璧にそろえなくても工夫次第で十分に回せるというのは、ツール選においてすごく本質的だと共感しました。</description>
       <pubDate>Tue, 27 Oct 2026 16:34:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/arista_corp/status/2115120070754275549</guid>
-    </item>
-    <item>
-      <title>@shigetoroku1010 ignisは良さそう Syncthing は用途があんまわかんないな（） Windowsファイル共有がまだNASやってるからそこの置き換えは検討してもいい気はしてきた🐸</title>
-      <link>https://x.com/accosan_/status/2115035808193548376</link>
-      <description>あこ: @shigetoroku1010 ignisは良さそう Syncthing は用途があんまわかんないな（） Windowsファイル共有がまだNASやってるからそこの置き換えは検討してもいい気はしてきた🐸</description>
-      <pubDate>Tue, 27 Oct 2026 11:00:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/accosan_/status/2115035808193548376</guid>
-    </item>
-    <item>
-      <title>Obsidianの有料の同期を解約するつもりです。 代わりに syncthing を入れてみます。 iPhoneは、ひとまず諦めます。 museで読み書きできれば、問題なさそうです。 全部そろえなければ、有料の同期はいらない。</title>
-      <link>https://x.com/notthi/status/2114915152424272257</link>
-      <description>のってぃ｜製造業20年×AI活用: Obsidianの有料の同期を解約するつもりです。 代わりに syncthing を入れてみます。 iPhoneは、ひとまず諦めます。 museで読み書きできれば、問題なさそうです。 全部そろえなければ、有料の同期はいらない。</description>
-      <pubDate>Tue, 27 Oct 2026 03:00:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/notthi/status/2114915152424272257</guid>
-    </item>
-    <item>
-      <title>Syncthing って複数デバイスで同じファイルが編集されたときはconflictファイルを作ってくれるはずだし、そもそも編集したのって12時間以上も前なのになんで同期されてないんだよ おかしくないか？</title>
-      <link>https://x.com/watasuke1024/status/2114594326542250090</link>
-      <description>わたすけ: Syncthing って複数デバイスで同じファイルが編集されたときはconflictファイルを作ってくれるはずだし、そもそも編集したのって12時間以上も前なのになんで同期されてないんだよ おかしくないか？</description>
-      <pubDate>Mon, 26 Oct 2026 05:45:49 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/watasuke1024/status/2114594326542250090</guid>
-    </item>
-    <item>
-      <title>Syncthing を使ってデバイス間でファイルを同期しているんですが、なんかスマホで作ったファイルが編集途中の時点までしか同期されていなくて、それに気付かずサーバー側でファイルに変更を加えてしまったせいでかなりの内容が消えてしまった</title>
-      <link>https://x.com/watasuke1024/status/2114594324789014540</link>
-      <description>わたすけ: Syncthing を使ってデバイス間でファイルを同期しているんですが、なんかスマホで作ったファイルが編集途中の時点までしか同期されていなくて、それに気付かずサーバー側でファイルに変更を加えてしまったせいでかなりの内容が消えてしまった</description>
-      <pubDate>Mon, 26 Oct 2026 05:45:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/watasuke1024/status/2114594324789014540</guid>
-    </item>
-    <item>
-      <title>ファイルの同期、全部クラウドに預けるの不安な人おるやろ。 GitHubの「 Syncthing 」は、自分のPC同士で直接ファイルを同期してくれる無料ツールや。 他社のサーバーにデータを置かんでええし、通信も暗号化される。 店と家のPCをつなぐのにも使えるで💪 https://t.co/rlB8px5Isu</title>
-      <link>https://x.com/BON_AI1616/status/2114082200023171139</link>
-      <description>BON｜それタダでできるで: ファイルの同期、全部クラウドに預けるの不安な人おるやろ。 GitHubの「 Syncthing 」は、自分のPC同士で直接ファイルを同期してくれる無料ツールや。 他社のサーバーにデータを置かんでええし、通信も暗号化される。 店と家のPCをつなぐのにも使えるで💪 https://t.co/rlB8px5Isu</description>
-      <pubDate>Sat, 24 Oct 2026 19:50:48 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/BON_AI1616/status/2114082200023171139</guid>
-    </item>
-    <item>
-      <title>Syncthing でスマホと同期できるようにした 便利だねえ……</title>
-      <link>https://x.com/wind_storia/status/2113865259081716096</link>
-      <description>薄紫: Syncthing でスマホと同期できるようにした 便利だねえ……</description>
-      <pubDate>Sat, 24 Oct 2026 05:28:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wind_storia/status/2113865259081716096</guid>
-    </item>
-    <item>
-      <title>museすごい syncthing もなんでもいける</title>
-      <link>https://x.com/hayas_e/status/2113814358757363770</link>
-      <description>ハル: museすごい syncthing もなんでもいける</description>
-      <pubDate>Sat, 24 Oct 2026 02:06:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hayas_e/status/2113814358757363770</guid>
-    </item>
-    <item>
-      <title>本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</title>
-      <link>https://x.com/clockstep/status/2113514749732544826</link>
-      <description>いそじん: 本番環境をdeployerで最新バージョンとして保持、ドメイン毎にrsyncで落としたコードを syncthing で本社で組んだClaude専用サーバに同期し自動で74から82対応に。git経由で新バージョンとしてデプロイ。自動品質チェックが修正をサーバに投げて再デプロイ。こんなんもう昔に戻れんわ。PHPerでよかった。</description>
-      <pubDate>Fri, 23 Oct 2026 06:15:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/clockstep/status/2113514749732544826</guid>
     </item>
   </channel>
 </rss>
