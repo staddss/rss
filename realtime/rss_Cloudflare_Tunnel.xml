@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</title>
+      <link>https://x.com/mnagaku/status/2122187529827000454</link>
+      <description>長久 勝: claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</description>
+      <pubDate>Mon, 16 Nov 2026 04:38:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mnagaku/status/2122187529827000454</guid>
+    </item>
+    <item>
+      <title>@NobMiwa tailscaleや cloudflare tunnel もですよね?個人のアカウントで入れるようにしているtailscaleもカウントするの面倒なのでやめようかな。</title>
+      <link>https://x.com/m3alp/status/2122119944435630140</link>
+      <description>m3alp: @NobMiwa tailscaleや cloudflare tunnel もですよね?個人のアカウントで入れるようにしているtailscaleもカウントするの面倒なのでやめようかな。</description>
+      <pubDate>Mon, 16 Nov 2026 00:09:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/m3alp/status/2122119944435630140</guid>
+    </item>
+    <item>
       <title>Cloudflare tunnel でCMS公開タスクが途中だった</title>
       <link>https://x.com/SlimeSmileLimes/status/2122109640607715529</link>
       <description>らっさょ💧😃🍋‍🟩: Cloudflare tunnel でCMS公開タスクが途中だった</description>
@@ -262,20 +276,6 @@
       <description>Jun Suzuki: そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</description>
       <pubDate>Thu, 05 Nov 2026 08:16:55 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/J_un_Suzuki/status/2118256232331149560</guid>
-    </item>
-    <item>
-      <title>@EMV_CL そもそも決済情報がWebhookで帰ってくるので、 Cloudflare Tunnel 使うか素直に外にポート出すしかない</title>
-      <link>https://x.com/less_machitan/status/2118187171203236142</link>
-      <description>ｌｅｓｓ／ＮＦＣ🐢: @EMV_CL そもそも決済情報がWebhookで帰ってくるので、 Cloudflare Tunnel 使うか素直に外にポート出すしかない</description>
-      <pubDate>Thu, 05 Nov 2026 03:42:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/less_machitan/status/2118187171203236142</guid>
-    </item>
-    <item>
-      <title>Muse 内にWebサーバ立てて、 Cloudflare Tunnel 経由で公開できないかと挑戦したけど、できなかった Muse 曰く、ローカルプロキシが邪魔するんだと</title>
-      <link>https://x.com/pyuruco/status/2118055997772288213</link>
-      <description>pyuruco: Muse 内にWebサーバ立てて、 Cloudflare Tunnel 経由で公開できないかと挑戦したけど、できなかった Muse 曰く、ローカルプロキシが邪魔するんだと</description>
-      <pubDate>Wed, 04 Nov 2026 19:01:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/pyuruco/status/2118055997772288213</guid>
     </item>
   </channel>
 </rss>

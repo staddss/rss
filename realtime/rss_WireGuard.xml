@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '&quot;WireGuard&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard の設定ようやく理解した</title>
+      <link>https://x.com/seiji_l2r/status/2122245626041938215</link>
+      <description>理念なき政治: WireGuard の設定ようやく理解した</description>
+      <pubDate>Mon, 16 Nov 2026 08:29:21 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/seiji_l2r/status/2122245626041938215</guid>
+    </item>
+    <item>
+      <title>@A05s_Mom ラズパイ使うくらいだったら、 WireGuard 専用のを買った方が安定するかと。この辺とか。電源とネットのケーブル使えるだけで良いはず。https://t.co/tbNSEHPlf6</title>
+      <link>https://x.com/honten/status/2122136731038433327</link>
+      <description>Naoko Manchun Milky Naomi🏊: @A05s_Mom ラズパイ使うくらいだったら、 WireGuard 専用のを買った方が安定するかと。この辺とか。電源とネットのケーブル使えるだけで良いはず。https://t.co/tbNSEHPlf6</description>
+      <pubDate>Mon, 16 Nov 2026 01:16:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/honten/status/2122136731038433327</guid>
+    </item>
+    <item>
       <title>@gigaonion L2ぶんどってルーティングする時点でiptablesあたりに専用のルールブチ込んだりする点では一緒のように思う。 カーネル空間で動かせるっていったって、別に通信自体は Wireguard トンネルなのでスループットやレイテンシに大差はないはずだし、デーモンが強い権限で動くならどちらかというとリスクでは。</title>
       <link>https://x.com/sashisashi569/status/2121949628220477767</link>
       <description>sashisashi: @gigaonion L2ぶんどってルーティングする時点でiptablesあたりに専用のルールブチ込んだりする点では一緒のように思う。 カーネル空間で動かせるっていったって、別に通信自体は Wireguard トンネルなのでスループットやレイテンシに大差はないはずだし、デーモンが強い権限で動くならどちらかというとリスクでは。</description>
@@ -262,20 +276,6 @@
       <description>ishi: PHP2Shellの件があってからすべての端末で WireGuard かVPN通してインターネットやってる</description>
       <pubDate>Tue, 10 Nov 2026 09:02:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ishi_no_ishi/status/2120079548331270249</guid>
-    </item>
-    <item>
-      <title>Wireguard いれたらもう音声合成とか認識とかいってられないな...次機はセンサなくなりそうだし楽をするには本格的に機体組むのか？？？</title>
-      <link>https://x.com/ari_ac1d/status/2120076655712760030</link>
-      <description>ありさん🍋👻「ぷちたち」: Wireguard いれたらもう音声合成とか認識とかいってられないな...次機はセンサなくなりそうだし楽をするには本格的に機体組むのか？？？</description>
-      <pubDate>Tue, 10 Nov 2026 08:50:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ari_ac1d/status/2120076655712760030</guid>
-    </item>
-    <item>
-      <title>@siyukat おお、そこまで対策されてるんですね…！ やっぱりオリジンのIPが露出するのが一番怖いですからね…w うちはCloudflare Tunnel経由でVPSに接続して、そこから WireGuard で自宅サーバーに繋いでます。 万が一のときに交換できる中継サーバーを挟んでおくのが、個人的には安心かなと…w</title>
-      <link>https://x.com/ryuuou_neko/status/2119774076952813920</link>
-      <description>黒猫ゲーム部(YouTube配信者兼個人開発): @siyukat おお、そこまで対策されてるんですね…！ やっぱりオリジンのIPが露出するのが一番怖いですからね…w うちはCloudflare Tunnel経由でVPSに接続して、そこから WireGuard で自宅サーバーに繋いでます。 万が一のときに交換できる中継サーバーを挟んでおくのが、個人的には安心かなと…w</description>
-      <pubDate>Mon, 09 Nov 2026 12:48:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ryuuou_neko/status/2119774076952813920</guid>
     </item>
   </channel>
 </rss>

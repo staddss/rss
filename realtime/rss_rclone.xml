@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>rclone 1.74.0 の bisync で、競合の指定 21 通りのうち 6 通りで、winner が loser 側に届きませんでした。 ローカルの合成データで測った数です。6 通りは、すべて --conflict-loser pathname の組です。</title>
+      <link>https://x.com/tane_log/status/2122287097566601434</link>
+      <description>tanelog: rclone 1.74.0 の bisync で、競合の指定 21 通りのうち 6 通りで、winner が loser 側に届きませんでした。 ローカルの合成データで測った数です。6 通りは、すべて --conflict-loser pathname の組です。</description>
+      <pubDate>Mon, 16 Nov 2026 11:14:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tane_log/status/2122287097566601434</guid>
+    </item>
+    <item>
+      <title>rclone bisync の競合で、--conflict-loser pathname を使うと、winner の中身が loser 側に届かないバージョンがあります。 ローカルの合成データで 7 バージョンを測り、1.74.2、1.75.0、1.76.0 では出ませんでした。 ・ご自身の rclone と指定で、winner の中身が届いたかを確かめる検査スクリプト</title>
+      <link>https://x.com/tane_log/status/2122287095360434349</link>
+      <description>tanelog: rclone bisync の競合で、--conflict-loser pathname を使うと、winner の中身が loser 側に届かないバージョンがあります。 ローカルの合成データで 7 バージョンを測り、1.74.2、1.75.0、1.76.0 では出ませんでした。 ・ご自身の rclone と指定で、winner の中身が届いたかを確かめる検査スクリプト</description>
+      <pubDate>Mon, 16 Nov 2026 11:14:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tane_log/status/2122287095360434349</guid>
+    </item>
+    <item>
       <title>@landiantech 替代 rclone ？</title>
       <link>https://x.com/WalkCanyon/status/2121514980269039826</link>
       <description>马恩列斯万代殖: @landiantech 替代 rclone ？</description>
@@ -262,27 +276,6 @@
       <description>charmpic: @tesa_otaku rclone のバグ😿おつかれですにゃ</description>
       <pubDate>Tue, 03 Nov 2026 20:32:13 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CharmNexusCore/status/2117716497862947155</guid>
-    </item>
-    <item>
-      <title>ああ、ぼくってAIのことか。 rclone なるソフトにバグあったのが原因なのね。これ回避しようがないよ https://t.co/aqhLP8WjDe</title>
-      <link>https://x.com/kichijirojp/status/2117695849803448469</link>
-      <description>キチジロー: ああ、ぼくってAIのことか。 rclone なるソフトにバグあったのが原因なのね。これ回避しようがないよ https://t.co/aqhLP8WjDe</description>
-      <pubDate>Tue, 03 Nov 2026 19:10:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kichijirojp/status/2117695849803448469</guid>
-    </item>
-    <item>
-      <title>@larpkami @tesa_otaku rclone の--drive-trashed-onlyは、ゴミ箱内のファイルを辿るために生きてるディレクトリ構造も表示する仕様。AIがそれを「ゴミ箱の古いコピー」と誤認し、トップレベルの本物フォルダをfiles.delete（完全削除）してしまったのが原因。バグというよりAI側の確認不足と誤判断。</title>
-      <link>https://x.com/grok/status/2117678274759270753</link>
-      <description>Grok: @larpkami @tesa_otaku rclone の--drive-trashed-onlyは、ゴミ箱内のファイルを辿るために生きてるディレクトリ構造も表示する仕様。AIがそれを「ゴミ箱の古いコピー」と誤認し、トップレベルの本物フォルダをfiles.delete（完全削除）してしまったのが原因。バグというよりAI側の確認不足と誤判断。</description>
-      <pubDate>Tue, 03 Nov 2026 18:00:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2117678274759270753</guid>
-    </item>
-    <item>
-      <title>@tesa_otaku どこのAI使われていたのですか？ お察しします。AI内部では、 rclone が使われているのか。。。 https://t.co/VSYlEmXmaw</title>
-      <link>https://x.com/neoclassic_tech/status/2117677915341217804</link>
-      <description>NC Tech.: @tesa_otaku どこのAI使われていたのですか？ お察しします。AI内部では、 rclone が使われているのか。。。 https://t.co/VSYlEmXmaw</description>
-      <pubDate>Tue, 03 Nov 2026 17:58:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/neoclassic_tech/status/2117677915341217804</guid>
     </item>
   </channel>
 </rss>
