@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '&quot;chrome://flags&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>@netatank ほんとだ、消えた これは有益な情報ありがとうございました だが chrome :// flags ってアプデで消されることもあるんだよな、クロームも余計なこと止めて欲しいよ</title>
+      <link>https://x.com/_test_dot/status/2122477973442011164</link>
+      <description>test: @netatank ほんとだ、消えた これは有益な情報ありがとうございました だが chrome :// flags ってアプデで消されることもあるんだよな、クロームも余計なこと止めて欲しいよ</description>
+      <pubDate>Mon, 16 Nov 2026 23:52:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/_test_dot/status/2122477973442011164</guid>
+    </item>
+    <item>
+      <title>Chromeのジェミニに連携を完全にOFFに出きるっぽい。 アドレスバーに chrome :// flags /#glic と入力して、GlicをDisabledにするとジェミニ連携機能を全部OFFにできる。 当然、OFFにしてやったわｗｗｗｗｗ https://t.co/Bf8GAOa3NG https://t.co/FzBjfVfnkV</title>
+      <link>https://x.com/netatank/status/2122365277828710440</link>
+      <description>吉田製作所: Chromeのジェミニに連携を完全にOFFに出きるっぽい。 アドレスバーに chrome :// flags /#glic と入力して、GlicをDisabledにするとジェミニ連携機能を全部OFFにできる。 当然、OFFにしてやったわｗｗｗｗｗ https://t.co/Bf8GAOa3NG https://t.co/FzBjfVfnkV</description>
+      <pubDate>Mon, 16 Nov 2026 16:24:48 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/netatank/status/2122365277828710440</guid>
+    </item>
+    <item>
       <title>記事を投稿しました！ ChromeOSバージョン154→158にて追加/削除された chrome :// flags [Chromebook] on #Qiita https://t.co/8SYkqogKbl</title>
       <link>https://x.com/staddss/status/2121683719820030111</link>
       <description>ハタナカ: 記事を投稿しました！ ChromeOSバージョン154→158にて追加/削除された chrome :// flags [Chromebook] on #Qiita https://t.co/8SYkqogKbl</description>
@@ -269,20 +283,6 @@
       <description>本物のナイフ: もうちょっと調べたらchromeはこの設定をオンを前提にしているらしくて，これオフにするより, chrome :// flags からHardware-accelerated video decodeの方をオフにしたほうがいいかも 原因は動画再生でgpu(VCN)を使うことなので，上の設定でchromeの動画再生のみgpu無効化すれば解決かな？</description>
       <pubDate>Mon, 19 Oct 2026 03:09:00 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/RealKnifeee/status/2112018148430143963</guid>
-    </item>
-    <item>
-      <title>Android版Chromeの AIによる概要 を無効化する方法見つけたから書いとく URL欄に「 chrome :// flags /#omnibox-site-search」と入力 選択肢を Enabled に変更し、画面下部の「Relaunch」で再起動する。 と検索エンジンURLで入力できるようになるから そこにhttps://t.co/JT4G8KAlTZ を登録すればいい</title>
-      <link>https://x.com/_3_9_4_/status/2112009070400176210</link>
-      <description>さくよ SAKUYO: Android版Chromeの AIによる概要 を無効化する方法見つけたから書いとく URL欄に「 chrome :// flags /#omnibox-site-search」と入力 選択肢を Enabled に変更し、画面下部の「Relaunch」で再起動する。 と検索エンジンURLで入力できるようになるから そこにhttps://t.co/JT4G8KAlTZ を登録すればいい</description>
-      <pubDate>Mon, 19 Oct 2026 02:32:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_3_9_4_/status/2112009070400176210</guid>
-    </item>
-    <item>
-      <title>ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</title>
-      <link>https://x.com/non_de_lion/status/2111939648742408454</link>
-      <description>Non･de･lion: ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</description>
-      <pubDate>Sun, 18 Oct 2026 21:57:04 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/non_de_lion/status/2111939648742408454</guid>
     </item>
   </channel>
 </rss>

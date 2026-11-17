@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>端末間の同期を Syncthing 周りに移行してかなり体験がいいのですが、 Syncthing 知らない方も多いと思うので記事書きました〜。 https://t.co/55YkAQxJGa</title>
+      <link>https://x.com/shotovim/status/2122330095532863538</link>
+      <description>松濤Vimmer: 端末間の同期を Syncthing 周りに移行してかなり体験がいいのですが、 Syncthing 知らない方も多いと思うので記事書きました〜。 https://t.co/55YkAQxJGa</description>
+      <pubDate>Mon, 16 Nov 2026 14:05:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shotovim/status/2122330095532863538</guid>
+    </item>
+    <item>
+      <title>Syncthing 試してみる</title>
+      <link>https://x.com/0x4b70e37f9/status/2122310801474334917</link>
+      <description>YA-ZR0: Syncthing 試してみる</description>
+      <pubDate>Mon, 16 Nov 2026 12:48:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/0x4b70e37f9/status/2122310801474334917</guid>
+    </item>
+    <item>
       <title>P2P( Syncthing ) 使った Obsidian 代替アプリ &quot;Voel.&quot; 本日 AppStoreに公開されました クラウドを使わない完全に無料のアプリです https://t.co/DsCT22Cdff</title>
       <link>https://x.com/tumf/status/2121927208537342032</link>
       <description>tumf: P2P( Syncthing ) 使った Obsidian 代替アプリ &quot;Voel.&quot; 本日 AppStoreに公開されました クラウドを使わない完全に無料のアプリです https://t.co/DsCT22Cdff</description>
       <pubDate>Sun, 15 Nov 2026 11:24:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tumf/status/2121927208537342032</guid>
+    </item>
+    <item>
+      <title>Miyoo Miniシリーズ向けの非公式カスタム環境『RedOnion 4.5.1』のテストビルドが公開されました。 セーブデータや設定をZIPにまとめてバックアップ・復元できるほか、 Syncthing を利用したフォルダー同期にも新たに対応しています。 https://t.co/T5Q3Vebq5H https://t.co/3QREpe4uTP</title>
+      <link>https://x.com/Retoro_Gamer/status/2121887140477055058</link>
+      <description>レトロゲームで遊ぼう！: Miyoo Miniシリーズ向けの非公式カスタム環境『RedOnion 4.5.1』のテストビルドが公開されました。 セーブデータや設定をZIPにまとめてバックアップ・復元できるほか、 Syncthing を利用したフォルダー同期にも新たに対応しています。 https://t.co/T5Q3Vebq5H https://t.co/3QREpe4uTP</description>
+      <pubDate>Sun, 15 Nov 2026 08:44:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Retoro_Gamer/status/2121887140477055058</guid>
     </item>
     <item>
       <title>syncthing いいかもな</title>
@@ -255,27 +276,6 @@
       <description>さとう: Obsidian Sync代をケチって、PCとAndroidを Syncthing で同期しています。 手間も含めて、実際の使い方をまとめました。 Obsidian Sync代をケチった大学生が、PCとAndroidを同期している方法｜tomo https://t.co/vSlZnrzFHK https://t.co/qothdHM0rk</description>
       <pubDate>Fri, 30 Oct 2026 12:36:59 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sato_mega33/status/2116147350389637187</guid>
-    </item>
-    <item>
-      <title>NAS経由で Syncthing 動かしてノートPCとデスクトップでファイルを同期できるようにした</title>
-      <link>https://x.com/LunaTsukinashi/status/2115838869639933967</link>
-      <description>Luna Tsukinashi: NAS経由で Syncthing 動かしてノートPCとデスクトップでファイルを同期できるようにした</description>
-      <pubDate>Thu, 29 Oct 2026 16:11:11 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/LunaTsukinashi/status/2115838869639933967</guid>
-    </item>
-    <item>
-      <title>P2P ファイル共有ソフト Syncthing 社内で使いたい https://t.co/O8ypBX7X8s</title>
-      <link>https://x.com/tumf/status/2115693911452856680</link>
-      <description>tumf: P2P ファイル共有ソフト Syncthing 社内で使いたい https://t.co/O8ypBX7X8s</description>
-      <pubDate>Thu, 29 Oct 2026 06:35:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tumf/status/2115693911452856680</guid>
-    </item>
-    <item>
-      <title>やっぱ syncthing 駄目なんかなぁ…</title>
-      <link>https://x.com/psp_yarou/status/2115460167966019661</link>
-      <description>からあげ半蔵＠次はどこの果てに行こう: やっぱ syncthing 駄目なんかなぁ…</description>
-      <pubDate>Wed, 28 Oct 2026 15:06:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/psp_yarou/status/2115460167966019661</guid>
     </item>
   </channel>
 </rss>

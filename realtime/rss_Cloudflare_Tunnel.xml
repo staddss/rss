@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
     <item>
+      <title>Muse にブラウザ経由で入ったり、ターミナルから入ったり Meta MuseのVMへSSH接続｜ Cloudflare Tunnel とAccessで入る https://t.co/BEIHjdHtfb</title>
+      <link>https://x.com/TakashiKakizoe/status/2122533371113017624</link>
+      <description>柿添 貴士: Muse にブラウザ経由で入ったり、ターミナルから入ったり Meta MuseのVMへSSH接続｜ Cloudflare Tunnel とAccessで入る https://t.co/BEIHjdHtfb</description>
+      <pubDate>Tue, 17 Nov 2026 03:32:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TakashiKakizoe/status/2122533371113017624</guid>
+    </item>
+    <item>
       <title>claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</title>
       <link>https://x.com/mnagaku/status/2122187529827000454</link>
       <description>長久 勝: claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</description>
@@ -269,13 +276,6 @@
       <description>hiragram/ﾋﾗﾘﾁｬﾝ: @omochimetaru Cloudflare Tunnel で自分のmacにwebhook受ける口作って、githubなどからのイベントをローカルに受信箱的に蓄積して、エージェントからはその受信箱を高頻度に叩く、みたいな仕組みを作って試行中。これで良さそうに見える。</description>
       <pubDate>Thu, 05 Nov 2026 09:21:53 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hiragram/status/2118272579580698905</guid>
-    </item>
-    <item>
-      <title>そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</title>
-      <link>https://x.com/J_un_Suzuki/status/2118256232331149560</link>
-      <description>Jun Suzuki: そこで作ったのが、自作の稼働率メーター付きダッシュボード。 ポイントは、Grok Bot の Pages（チャット横のレポート）とは別物だということ。 手元の PC で動く Web アプリで、外から見たいときだけ Cloudflare Tunnel で出す。 海外では Pages で作ったダッシュボード紹介は多い。</description>
-      <pubDate>Thu, 05 Nov 2026 08:16:55 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/J_un_Suzuki/status/2118256232331149560</guid>
     </item>
   </channel>
 </rss>
