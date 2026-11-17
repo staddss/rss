@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;Gitpod&quot;</title>
+    <title>Yahoo!リアルタイム検索 - "Gitpod"</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Gitpod%22</link>
-    <description>Latest search results for '&quot;Gitpod&quot;' on Yahoo! Realtime Search</description>
+    <description>Latest search results for '"Gitpod"' on Yahoo! Realtime Search</description>
     <item>
       <title>【新着記事】クラウドIDEの最適解（エンジニア向け）：GitHub Codespaces / Gitpod / AWS Cloud9 の選び方と1週間試験プラン https://t.co/DB4oNbSeHC #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2122481417384812875</link>
@@ -236,9 +236,9 @@
       <guid isPermaLink="true">https://x.com/NearEngi/status/2113068108055285877</guid>
     </item>
     <item>
-      <title>gitpod はOnaになってOpenAIに買収されていた。 &quot;Ona is joining OpenAI · Ona&quot; https://t.co/s2ehQgjWxD</title>
+      <title>gitpod はOnaになってOpenAIに買収されていた。 "Ona is joining OpenAI · Ona" https://t.co/s2ehQgjWxD</title>
       <link>https://x.com/azu_re/status/2112917057587335290</link>
-      <description>azu: gitpod はOnaになってOpenAIに買収されていた。 &quot;Ona is joining OpenAI · Ona&quot; https://t.co/s2ehQgjWxD</description>
+      <description>azu: gitpod はOnaになってOpenAIに買収されていた。 "Ona is joining OpenAI · Ona" https://t.co/s2ehQgjWxD</description>
       <pubDate>Wed, 21 Oct 2026 14:40:57 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/azu_re/status/2112917057587335290</guid>
     </item>
@@ -255,13 +255,6 @@
       <description>EngiNear: 【新着記事】クラウドIDE比較ガイド：Codespaces・ Gitpod ・Cloud9 の実務的な選び方と1週間PoC手順 https://t.co/lYvTdQZicq #エンジニア #ChatGPT #AI</description>
       <pubDate>Mon, 19 Oct 2026 00:36:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2111979805616828913</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較：Codespaces vs Gitpod vs Cloud9 — 選び方と導入手順（実務向け） https://t.co/Yj2oqTkOdK #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2111679022513979736</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較：Codespaces vs Gitpod vs Cloud9 — 選び方と導入手順（実務向け） https://t.co/Yj2oqTkOdK #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sun, 18 Oct 2026 04:41:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2111679022513979736</guid>
     </item>
   </channel>
 </rss>

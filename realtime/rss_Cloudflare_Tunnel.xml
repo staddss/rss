@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;Cloudflare Tunnel&quot;</title>
+    <title>Yahoo!リアルタイム検索 - "Cloudflare Tunnel"</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
-    <description>Latest search results for '&quot;Cloudflare Tunnel&quot;' on Yahoo! Realtime Search</description>
+    <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
+    <item>
+      <title>@hrsh7th 便利なのは分かります。でも Cloudflare Tunnel は P2P じゃないんですよね。通信は全部 Cloudflare を通って向こうで終端するので、Cloudflare がやられたら自宅の LAN も一緒です。 Tailscale はデバイス同士の直接接続で、間には誰も入らない。自宅のものに触るなら、自分はまだ Tailscale 派です。</title>
+      <link>https://x.com/KuritoL/status/2122544305541886075</link>
+      <description>kurito.exe: @hrsh7th 便利なのは分かります。でも Cloudflare Tunnel は P2P じゃないんですよね。通信は全部 Cloudflare を通って向こうで終端するので、Cloudflare がやられたら自宅の LAN も一緒です。 Tailscale はデバイス同士の直接接続で、間には誰も入らない。自宅のものに触るなら、自分はまだ Tailscale 派です。</description>
+      <pubDate>Tue, 17 Nov 2026 04:16:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KuritoL/status/2122544305541886075</guid>
+    </item>
     <item>
       <title>Muse にブラウザ経由で入ったり、ターミナルから入ったり Meta MuseのVMへSSH接続｜ Cloudflare Tunnel とAccessで入る https://t.co/BEIHjdHtfb</title>
       <link>https://x.com/TakashiKakizoe/status/2122533371113017624</link>
@@ -269,13 +276,6 @@
       <description>Saraman: @huang18825 colab-cli 以及 cloudflare tunnel 穿透就行了。</description>
       <pubDate>Thu, 05 Nov 2026 12:57:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Saramanho/status/2118326724811534572</guid>
-    </item>
-    <item>
-      <title>@omochimetaru Cloudflare Tunnel で自分のmacにwebhook受ける口作って、githubなどからのイベントをローカルに受信箱的に蓄積して、エージェントからはその受信箱を高頻度に叩く、みたいな仕組みを作って試行中。これで良さそうに見える。</title>
-      <link>https://x.com/hiragram/status/2118272579580698905</link>
-      <description>hiragram/ﾋﾗﾘﾁｬﾝ: @omochimetaru Cloudflare Tunnel で自分のmacにwebhook受ける口作って、githubなどからのイベントをローカルに受信箱的に蓄積して、エージェントからはその受信箱を高頻度に叩く、みたいな仕組みを作って試行中。これで良さそうに見える。</description>
-      <pubDate>Thu, 05 Nov 2026 09:21:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hiragram/status/2118272579580698905</guid>
     </item>
   </channel>
 </rss>

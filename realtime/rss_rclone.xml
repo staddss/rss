@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;rclone&quot;</title>
+    <title>Yahoo!リアルタイム検索 - "rclone"</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
-    <description>Latest search results for '&quot;rclone&quot;' on Yahoo! Realtime Search</description>
+    <description>Latest search results for '"rclone"' on Yahoo! Realtime Search</description>
+    <item>
+      <title>rclone bisync の競合が心配なら、まずバージョンを確かめてください。 rclone version ローカルの合成データでは、1.74.2、1.75.0、1.76.0 の 21 組で、この症状は出ませんでした。</title>
+      <link>https://x.com/tane_log/status/2122287099420541008</link>
+      <description>tanelog: rclone bisync の競合が心配なら、まずバージョンを確かめてください。 rclone version ローカルの合成データでは、1.74.2、1.75.0、1.76.0 の 21 組で、この症状は出ませんでした。</description>
+      <pubDate>Mon, 16 Nov 2026 11:14:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tane_log/status/2122287099420541008</guid>
+    </item>
     <item>
       <title>rclone 1.74.0 の bisync で、競合の指定 21 通りのうち 6 通りで、winner が loser 側に届きませんでした。 ローカルの合成データで測った数です。6 通りは、すべて --conflict-loser pathname の組です。</title>
       <link>https://x.com/tane_log/status/2122287097566601434</link>
@@ -122,13 +129,6 @@
       <description>デジバーガー(デジリ): @mujina811455 nasが最適解だけど、例えば rclone を使って二つのSSD/HDDを即座に同期させるという運用も可能。この場合分散してるので、壊れてもクローンがある一方、バックアップではないので壊れたファイルを上書きしたら、もう片方も壊れる。同時かは設定次第。snapshotをとっておくことをお勧めする。</description>
       <pubDate>Sat, 07 Nov 2026 04:19:09 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ord9xr/status/2118921171307782161</guid>
-    </item>
-    <item>
-      <title>rclone がクラウドストレージのマウントに対応してたことを初めて知った</title>
-      <link>https://x.com/AIHobbyist65536/status/2118891476872835255</link>
-      <description>もりそば@跡地: rclone がクラウドストレージのマウントに対応してたことを初めて知った</description>
-      <pubDate>Sat, 07 Nov 2026 02:21:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/AIHobbyist65536/status/2118891476872835255</guid>
     </item>
     <item>
       <title>@lucianlamp 自分の用途的にどのCLIがいい？ってmuseに聞いたら ytstudio-cli rclone beets ffmpeg-normalize／kid3-cli をおすすめされたのでそれ入れました 人によってベストなCLIは違うのでmuseに聞いて入れるのが良さそう？🤔</title>
@@ -276,6 +276,13 @@
       <description>キチジロー: ああ、ぼくってAIのことか。 rclone なるソフトにバグあったのが原因なのね。これ回避しようがないよ https://t.co/aqhLP8WjDe</description>
       <pubDate>Tue, 03 Nov 2026 19:10:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kichijirojp/status/2117695849803448469</guid>
+    </item>
+    <item>
+      <title>@larpkami @tesa_otaku rclone の--drive-trashed-onlyは、ゴミ箱内のファイルを辿るために生きてるディレクトリ構造も表示する仕様。AIがそれを「ゴミ箱の古いコピー」と誤認し、トップレベルの本物フォルダをfiles.delete（完全削除）してしまったのが原因。バグというよりAI側の確認不足と誤判断。</title>
+      <link>https://x.com/grok/status/2117678274759270753</link>
+      <description>Grok: @larpkami @tesa_otaku rclone の--drive-trashed-onlyは、ゴミ箱内のファイルを辿るために生きてるディレクトリ構造も表示する仕様。AIがそれを「ゴミ箱の古いコピー」と誤認し、トップレベルの本物フォルダをfiles.delete（完全削除）してしまったのが原因。バグというよりAI側の確認不足と誤判断。</description>
+      <pubDate>Tue, 03 Nov 2026 18:00:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2117678274759270753</guid>
     </item>
   </channel>
 </rss>

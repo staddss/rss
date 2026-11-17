@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;zram&quot;</title>
+    <title>Yahoo!リアルタイム検索 - "zram"</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
-    <description>Latest search results for '&quot;zram&quot;' on Yahoo! Realtime Search</description>
+    <description>Latest search results for '"zram"' on Yahoo! Realtime Search</description>
+    <item>
+      <title>ubuntuの動作を早くするパッケージとしてpreload,prelink, zram -configの３つがあって、 $ sudo apt-get install preload prelink zram -config -y で実際、かなり動作が早くなる。しかし最近はprelink（≒先読みする機能）は非推奨らしく、ubuntu2026.04.1では見つからなかった。 メモ…_φ(･_･</title>
+      <link>https://x.com/QoQ_YoY_MoM/status/2122731552488718810</link>
+      <description>ガミラス帝国中央銀行（ガミ公）💙💛@テロン諸国の国家デフォルト🪦をのんびり観察する異星人: ubuntuの動作を早くするパッケージとしてpreload,prelink, zram -configの３つがあって、 $ sudo apt-get install preload prelink zram -config -y で実際、かなり動作が早くなる。しかし最近はprelink（≒先読みする機能）は非推奨らしく、ubuntu2026.04.1では見つからなかった。 メモ…_φ(･_･</description>
+      <pubDate>Tue, 17 Nov 2026 16:40:15 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/QoQ_YoY_MoM/status/2122731552488718810</guid>
+    </item>
     <item>
       <title>【記事更新】【完全検証】NVMe SSD への定常書き込みを「ゼロ」にする：Debian・Nginx・MariaDB・WordPress の RAM ディスク（tmpfs/ zram ）最適化ガイド #技術ブログ #Linux https://t.co/Axu2Fdg9C6</title>
       <link>https://x.com/Chahaaaaaan7000/status/2121786542297632992</link>
@@ -80,27 +87,6 @@
       <description>mkblur: zram とか効くんかな・・ とりあえず有効化。</description>
       <pubDate>Tue, 20 Oct 2026 05:08:48 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mkblur/status/2112410686013984899</guid>
-    </item>
-    <item>
-      <title>zram 飛ばしたら体感軽くなった https://t.co/Q5pWJWZhXg</title>
-      <link>https://x.com/TORINIKU_kali/status/2111832739225936049</link>
-      <description>鶏の唐揚げ⚙: zram 飛ばしたら体感軽くなった https://t.co/Q5pWJWZhXg</description>
-      <pubDate>Sun, 18 Oct 2026 14:52:15 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TORINIKU_kali/status/2111832739225936049</guid>
-    </item>
-    <item>
-      <title>zram のせいで重いのかもしれない</title>
-      <link>https://x.com/TORINIKU_kali/status/2111820594492891570</link>
-      <description>鶏の唐揚げ⚙: zram のせいで重いのかもしれない</description>
-      <pubDate>Sun, 18 Oct 2026 14:04:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TORINIKU_kali/status/2111820594492891570</guid>
-    </item>
-    <item>
-      <title>初代Surface GO(Pentium/4GB RAM/64GB SSD) + Debian 13 + GNOME + zram 3072MB 普通に使えるようになるから面白いね。</title>
-      <link>https://x.com/rltm/status/2111719461388697649</link>
-      <description>しばいぬの太郎: 初代Surface GO(Pentium/4GB RAM/64GB SSD) + Debian 13 + GNOME + zram 3072MB 普通に使えるようになるから面白いね。</description>
-      <pubDate>Sun, 18 Oct 2026 07:22:08 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/rltm/status/2111719461388697649</guid>
     </item>
     <item>
       <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>

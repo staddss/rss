@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;Ryzen AI Max&quot;</title>
+    <title>Yahoo!リアルタイム検索 - "Ryzen AI Max"</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
-    <description>Latest search results for '&quot;Ryzen AI Max&quot;' on Yahoo! Realtime Search</description>
+    <description>Latest search results for '"Ryzen AI Max"' on Yahoo! Realtime Search</description>
+    <item>
+      <title>新しい Perplexity Portable Computer を使用したローカルモデルでのライブリサーチ。 私たちは、Perplexity PPLX 27B 上で動作する、ローカルファーストでパーソナライズされた AI ニュース優先フィードを構築しています。 AMD Ryzen AI Max + アーキテクチャ上で新たな可能性を創出しています。 https://t.co/sRErk2a2TB</title>
+      <link>https://x.com/amdjapan/status/2122664345435869387</link>
+      <description>AMD Japan: 新しい Perplexity Portable Computer を使用したローカルモデルでのライブリサーチ。 私たちは、Perplexity PPLX 27B 上で動作する、ローカルファーストでパーソナライズされた AI ニュース優先フィードを構築しています。 AMD Ryzen AI Max + アーキテクチャ上で新たな可能性を創出しています。 https://t.co/sRErk2a2TB</description>
+      <pubDate>Tue, 17 Nov 2026 12:13:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amdjapan/status/2122664345435869387</guid>
+    </item>
+    <item>
+      <title>最初はゲーム画面の読み込みをChatGPTのCompute useでやっていた。 手持ちでLocal LLM向けの Ryzen AI Max 395+ 128GB モデルがあるので、ローカルLLM使って画像認識させるよう変更。そのチェックはChatGPTをしていた。 今はWindows OCRからNPU使うやつに変更してもらった。</title>
+      <link>https://x.com/masatosi4/status/2122515683556917714</link>
+      <description>まさとし: 最初はゲーム画面の読み込みをChatGPTのCompute useでやっていた。 手持ちでLocal LLM向けの Ryzen AI Max 395+ 128GB モデルがあるので、ローカルLLM使って画像認識させるよう変更。そのチェックはChatGPTをしていた。 今はWindows OCRからNPU使うやつに変更してもらった。</description>
+      <pubDate>Tue, 17 Nov 2026 02:22:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/masatosi4/status/2122515683556917714</guid>
+    </item>
     <item>
       <title>鳴潮の音骸厳選はもうわけわからんので、 Ryzen AI Max 395+のサブ機にパラメーターの画像取得と文字読み取りするシステムをChatGPTに構築してもらって、それで音骸取得して、強化優先順つけたり、Lv5ごとに失敗成功判断してレコード節約するExcelブック作ってもらったりしてる。</title>
       <link>https://x.com/masatosi4/status/2122286128242082291</link>
@@ -262,20 +276,6 @@
       <description>OG: BIOSでHybridGraphicきってたけど、有効にしておこう iGPUに無駄に電力消費されちゃってバッテリーにダメージ行くけどしょうがない Ryzen AI MAX +395の方はiGPUしかないけど、特殊なワンチップだからいろいろ独特な不具合持ってたし、AMD External Events Utility止めたままにしとこう https://t.co/GiTf6X4Epy</description>
       <pubDate>Mon, 09 Nov 2026 23:44:12 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MIKANxOG/status/2119939141203079365</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 388を約4.9リットルに凝縮、MINISFORUM「T5 Max-388」発売 ➡️Radeon 8060Sと48GBメモリを搭載、最大118TOPSのAI演算性能に対応 https://t.co/mrfEzRkfwr https://t.co/zErbaP9is7</title>
-      <link>https://x.com/hermita_akiba/status/2119931791788454174</link>
-      <description>エルミタージュ秋葉原編集部: Ryzen AI Max + 388を約4.9リットルに凝縮、MINISFORUM「T5 Max-388」発売 ➡️Radeon 8060Sと48GBメモリを搭載、最大118TOPSのAI演算性能に対応 https://t.co/mrfEzRkfwr https://t.co/zErbaP9is7</description>
-      <pubDate>Mon, 09 Nov 2026 23:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hermita_akiba/status/2119931791788454174</guid>
-    </item>
-    <item>
-      <title>[PGX RECOMMEND] 記事のおすすめキーワードは[高性能AIワークステーション]MINISFORUM MS-S1 MAX ミニAIワークステーション Ryzen AI Max + 395 LPDDR5x 8000MT/s 128G | 2TB SSD RDNA 3.5 GPU 126TOPS NPU デ…https://t.co/Qbe6yaukJs</title>
-      <link>https://x.com/t_yoshizawa/status/2119898513337389152</link>
-      <description>T.Y: [PGX RECOMMEND] 記事のおすすめキーワードは[高性能AIワークステーション]MINISFORUM MS-S1 MAX ミニAIワークステーション Ryzen AI Max + 395 LPDDR5x 8000MT/s 128G | 2TB SSD RDNA 3.5 GPU 126TOPS NPU デ…https://t.co/Qbe6yaukJs</description>
-      <pubDate>Mon, 09 Nov 2026 21:02:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_yoshizawa/status/2119898513337389152</guid>
     </item>
   </channel>
 </rss>

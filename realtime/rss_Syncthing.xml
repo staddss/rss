@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Yahoo!リアルタイム検索 - &quot;Syncthing&quot;</title>
+    <title>Yahoo!リアルタイム検索 - "Syncthing"</title>
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
-    <description>Latest search results for '&quot;Syncthing&quot;' on Yahoo! Realtime Search</description>
+    <description>Latest search results for '"Syncthing"' on Yahoo! Realtime Search</description>
+    <item>
+      <title>PCとNASに Syncthing 入れて同期するようにしたがなかなか便利</title>
+      <link>https://x.com/LunaTsukinashi/status/2122581207171109295</link>
+      <description>Luna Tsukinashi@技術書典21く04: PCとNASに Syncthing 入れて同期するようにしたがなかなか便利</description>
+      <pubDate>Tue, 17 Nov 2026 06:42:50 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/LunaTsukinashi/status/2122581207171109295</guid>
+    </item>
+    <item>
+      <title>@shotovim 端末間同期を Syncthing に寄せて体験が良くなったというお話、気になっていました。クラウド経由が当たり前になっている分、こうした選択肢を知らないまま不便を抱えている方も多そうですし、入門記事があると試しやすいですね。</title>
+      <link>https://x.com/tsu_0283/status/2122537980128886859</link>
+      <description>Tsu｜AI×セキュリティ: @shotovim 端末間同期を Syncthing に寄せて体験が良くなったというお話、気になっていました。クラウド経由が当たり前になっている分、こうした選択肢を知らないまま不便を抱えている方も多そうですし、入門記事があると試しやすいですね。</description>
+      <pubDate>Tue, 17 Nov 2026 03:51:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tsu_0283/status/2122537980128886859</guid>
+    </item>
     <item>
       <title>端末間の同期を Syncthing 周りに移行してかなり体験がいいのですが、 Syncthing 知らない方も多いと思うので記事書きました〜。 https://t.co/55YkAQxJGa</title>
       <link>https://x.com/shotovim/status/2122330095532863538</link>
@@ -19,9 +33,9 @@
       <guid isPermaLink="true">https://x.com/0x4b70e37f9/status/2122310801474334917</guid>
     </item>
     <item>
-      <title>P2P( Syncthing ) 使った Obsidian 代替アプリ &quot;Voel.&quot; 本日 AppStoreに公開されました クラウドを使わない完全に無料のアプリです https://t.co/DsCT22Cdff</title>
+      <title>P2P( Syncthing ) 使った Obsidian 代替アプリ "Voel." 本日 AppStoreに公開されました クラウドを使わない完全に無料のアプリです https://t.co/DsCT22Cdff</title>
       <link>https://x.com/tumf/status/2121927208537342032</link>
-      <description>tumf: P2P( Syncthing ) 使った Obsidian 代替アプリ &quot;Voel.&quot; 本日 AppStoreに公開されました クラウドを使わない完全に無料のアプリです https://t.co/DsCT22Cdff</description>
+      <description>tumf: P2P( Syncthing ) 使った Obsidian 代替アプリ "Voel." 本日 AppStoreに公開されました クラウドを使わない完全に無料のアプリです https://t.co/DsCT22Cdff</description>
       <pubDate>Sun, 15 Nov 2026 11:24:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tumf/status/2121927208537342032</guid>
     </item>
@@ -122,13 +136,6 @@
       <description>テック系大学生｜AIニュース×仕事のAI活用: @moriz0h Windows 11非対応の旧ゲーミングPCが、UbuntuでAIエージェントと Syncthing の常時稼働機になるの、いい再利用ですね。Discord botのClaude Codeは、再起動時も自動復帰するようにしていますか？🛠️</description>
       <pubDate>Fri, 13 Nov 2026 16:42:44 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/N2tOb9/status/2121282628850782473</guid>
-    </item>
-    <item>
-      <title>Syncthing がファイル同期ツールとして優秀すぎる</title>
-      <link>https://x.com/moriz0h/status/2121282412567261446</link>
-      <description>もりぞー: Syncthing がファイル同期ツールとして優秀すぎる</description>
-      <pubDate>Fri, 13 Nov 2026 16:41:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/moriz0h/status/2121282412567261446</guid>
     </item>
     <item>
       <title>Windows11をインストールできない一世代前のゲーミングPCにUbuntu入れ直して、AIエージェント&amp;ローカルLLMサーバとして常時起動して使ってるんだけど快適 Syncthing のサーバとしても使ってObsidianのvaultをスマホやノートPCと同期できるのも便利 Discord用botのclaude codeも常駐させてる</title>
@@ -269,13 +276,6 @@
       <description>こば | AI×YouTube: tailscaleでリモート、 syncthing で共有フォルダ 作成。完全にツールコレクター化してる</description>
       <pubDate>Fri, 30 Oct 2026 13:04:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/6ISaQg8FdX4476/status/2116154232726564982</guid>
-    </item>
-    <item>
-      <title>Obsidian Sync代をケチって、PCとAndroidを Syncthing で同期しています。 手間も含めて、実際の使い方をまとめました。 Obsidian Sync代をケチった大学生が、PCとAndroidを同期している方法｜tomo https://t.co/vSlZnrzFHK https://t.co/qothdHM0rk</title>
-      <link>https://x.com/sato_mega33/status/2116147350389637187</link>
-      <description>さとう: Obsidian Sync代をケチって、PCとAndroidを Syncthing で同期しています。 手間も含めて、実際の使い方をまとめました。 Obsidian Sync代をケチった大学生が、PCとAndroidを同期している方法｜tomo https://t.co/vSlZnrzFHK https://t.co/qothdHM0rk</description>
-      <pubDate>Fri, 30 Oct 2026 12:36:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sato_mega33/status/2116147350389637187</guid>
     </item>
   </channel>
 </rss>
