@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>大物が残っていた。 社内Gitと社内ツール用のサーバーがまだだった Wireguard の再構築だるすぐる・・・</title>
+      <link>https://x.com/CABIN_D/status/2122975894126145947</link>
+      <description>CABIN: 大物が残っていた。 社内Gitと社内ツール用のサーバーがまだだった Wireguard の再構築だるすぐる・・・</description>
+      <pubDate>Wed, 18 Nov 2026 08:51:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/CABIN_D/status/2122975894126145947</guid>
+    </item>
+    <item>
+      <title>@marsdronefpv 何用途にしましょうかねぇ Wireguard の中継かなぁ</title>
+      <link>https://x.com/tanasann25/status/2122887615674450410</link>
+      <description>tana25⌘: @marsdronefpv 何用途にしましょうかねぇ Wireguard の中継かなぁ</description>
+      <pubDate>Wed, 18 Nov 2026 03:00:23 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tanasann25/status/2122887615674450410</guid>
+    </item>
+    <item>
       <title>改めて見ると今の私の環境キモイなぁ メインPCが TplinkAX1800とintel ax201 有線LANはtplink be3600でVR専用ローカル回線 サブpcがRE500Xからlanケーブル 寮のwifiがipすぐ取られてip変わるから wireguard で 外部Vpsにルート作って無理やりやってる WHR-1166DHPにOpenwrt入れたから使い道募集</title>
       <link>https://x.com/tanasann25/status/2122641127727894552</link>
       <description>tana25⌘: 改めて見ると今の私の環境キモイなぁ メインPCが TplinkAX1800とintel ax201 有線LANはtplink be3600でVR専用ローカル回線 サブpcがRE500Xからlanケーブル 寮のwifiがipすぐ取られてip変わるから wireguard で 外部Vpsにルート作って無理やりやってる WHR-1166DHPにOpenwrt入れたから使い道募集</description>
@@ -262,20 +276,6 @@
       <description>井本賢 | kenimo49: mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</description>
       <pubDate>Wed, 11 Nov 2026 13:05:24 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kenimo49/status/2120503159449874699</guid>
-    </item>
-    <item>
-      <title>レンサバ契約だけして動かしてないの勿体無いよな… Wireguard の集積ポイントでも作るか… 3CXとかも面白そうよね（お家にFaxあるでしょ、おじいちゃん</title>
-      <link>https://x.com/urati/status/2120396103657083363</link>
-      <description>うらち / I.Yoshida: レンサバ契約だけして動かしてないの勿体無いよな… Wireguard の集積ポイントでも作るか… 3CXとかも面白そうよね（お家にFaxあるでしょ、おじいちゃん</description>
-      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/urati/status/2120396103657083363</guid>
-    </item>
-    <item>
-      <title>@musen9527 之前拿 Caddy + Authelia 再自己配 WireGuard 拼了一套，三份配置一对不上就得排查半天</title>
-      <link>https://x.com/ace052000087262/status/2120386165656211702</link>
-      <description>ace: @musen9527 之前拿 Caddy + Authelia 再自己配 WireGuard 拼了一套，三份配置一对不上就得排查半天</description>
-      <pubDate>Wed, 11 Nov 2026 05:20:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ace052000087262/status/2120386165656211702</guid>
     </item>
   </channel>
 </rss>
