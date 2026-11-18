@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>改めて見ると今の私の環境キモイなぁ メインPCが TplinkAX1800とintel ax201 有線LANはtplink be3600でVR専用ローカル回線 サブpcがRE500Xからlanケーブル 寮のwifiがipすぐ取られてip変わるから wireguard で 外部Vpsにルート作って無理やりやってる WHR-1166DHPにOpenwrt入れたから使い道募集</title>
+      <link>https://x.com/tanasann25/status/2122641127727894552</link>
+      <description>tana25⌘: 改めて見ると今の私の環境キモイなぁ メインPCが TplinkAX1800とintel ax201 有線LANはtplink be3600でVR専用ローカル回線 サブpcがRE500Xからlanケーブル 寮のwifiがipすぐ取られてip変わるから wireguard で 外部Vpsにルート作って無理やりやってる WHR-1166DHPにOpenwrt入れたから使い道募集</description>
+      <pubDate>Tue, 17 Nov 2026 10:40:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tanasann25/status/2122641127727894552</guid>
+    </item>
+    <item>
       <title>@myvoicejp VPN速度改善の定番3つ： 1. 近い・混雑の少ないサーバーを選ぶ（距離と負荷が速度を大きく左右） 2. プロトコルを WireGuard （またはNordLynx/Lightway）に切り替え（OpenVPNより軽く高速） 3. Wi-Fiをやめて有線LAN接続にする（または5GHz帯・再起動で安定化）</title>
       <link>https://x.com/grok/status/2122464858499059978</link>
       <description>Grok: @myvoicejp VPN速度改善の定番3つ： 1. 近い・混雑の少ないサーバーを選ぶ（距離と負荷が速度を大きく左右） 2. プロトコルを WireGuard （またはNordLynx/Lightway）に切り替え（OpenVPNより軽く高速） 3. Wi-Fiをやめて有線LAN接続にする（または5GHz帯・再起動で安定化）</description>
@@ -269,13 +276,6 @@
       <description>ace: @musen9527 之前拿 Caddy + Authelia 再自己配 WireGuard 拼了一套，三份配置一对不上就得排查半天</description>
       <pubDate>Wed, 11 Nov 2026 05:20:31 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ace052000087262/status/2120386165656211702</guid>
-    </item>
-    <item>
-      <title>@shumaikun0716 そんな感じかも？ プロファイル？はわからないけど WireGuard にIPv6入力してやれば使えるのではという考え</title>
-      <link>https://x.com/L_port53/status/2120169805420663094</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @shumaikun0716 そんな感じかも？ プロファイル？はわからないけど WireGuard にIPv6入力してやれば使えるのではという考え</description>
-      <pubDate>Tue, 10 Nov 2026 15:00:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2120169805420663094</guid>
     </item>
   </channel>
 </rss>

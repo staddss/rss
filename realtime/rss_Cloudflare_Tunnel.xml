@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflare tunnel ってのがあるのか Tailscaleから変更を試すTask追加</title>
+      <link>https://x.com/gozaing/status/2122840111725551892</link>
+      <description>Tobaru / とうばる: cloudflare tunnel ってのがあるのか Tailscaleから変更を試すTask追加</description>
+      <pubDate>Tue, 17 Nov 2026 23:51:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gozaing/status/2122840111725551892</guid>
+    </item>
+    <item>
       <title>@hrsh7th 便利なのは分かります。でも Cloudflare Tunnel は P2P じゃないんですよね。通信は全部 Cloudflare を通って向こうで終端するので、Cloudflare がやられたら自宅の LAN も一緒です。 Tailscale はデバイス同士の直接接続で、間には誰も入らない。自宅のものに触るなら、自分はまだ Tailscale 派です。</title>
       <link>https://x.com/KuritoL/status/2122544305541886075</link>
       <description>kurito.exe: @hrsh7th 便利なのは分かります。でも Cloudflare Tunnel は P2P じゃないんですよね。通信は全部 Cloudflare を通って向こうで終端するので、Cloudflare がやられたら自宅の LAN も一緒です。 Tailscale はデバイス同士の直接接続で、間には誰も入らない。自宅のものに触るなら、自分はまだ Tailscale 派です。</description>
@@ -269,13 +276,6 @@
       <description>ucchy / Yuki Uchida: T3codeは Cloudflare Tunnel で複数のPCをスマホから接続できるから良い。 外出中に作業指示して、外出中の暇つぶしで作らせてるゲームもプレイできる</description>
       <pubDate>Thu, 05 Nov 2026 14:23:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yuki_wtz/status/2118348466372129004</guid>
-    </item>
-    <item>
-      <title>@huang18825 colab-cli 以及 cloudflare tunnel 穿透就行了。</title>
-      <link>https://x.com/Saramanho/status/2118326724811534572</link>
-      <description>Saraman: @huang18825 colab-cli 以及 cloudflare tunnel 穿透就行了。</description>
-      <pubDate>Thu, 05 Nov 2026 12:57:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Saramanho/status/2118326724811534572</guid>
     </item>
   </channel>
 </rss>
