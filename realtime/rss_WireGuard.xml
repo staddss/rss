@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>VXLAN, IPv6 Native, GRE, SIT, Wireguard のそれぞれのトンネリングのパフォーマンスなどを検証してみようかなぁ。スループットの計測だったりMTUはどこまで調整できるかとか。TCP-AO, IPSec, MD5などの暗号化も含めて検証もしてみようか。それをいつかQiitaの記事に挙げてみようかな。</title>
+      <link>https://x.com/shumaikun0716/status/2123148623588565107</link>
+      <description>shumaikun0716: VXLAN, IPv6 Native, GRE, SIT, Wireguard のそれぞれのトンネリングのパフォーマンスなどを検証してみようかなぁ。スループットの計測だったりMTUはどこまで調整できるかとか。TCP-AO, IPSec, MD5などの暗号化も含めて検証もしてみようか。それをいつかQiitaの記事に挙げてみようかな。</description>
+      <pubDate>Wed, 18 Nov 2026 20:17:32 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shumaikun0716/status/2123148623588565107</guid>
+    </item>
+    <item>
+      <title>Muse Gadget StopWatchに wireguard 入れてモバイル環境でもずんだもん音声応答ができた。去年、esp32で wireguard しようとしてうまくいかなかったけど今やAIに「esp32だしwgでつなげればいけるよね」で動いてしまう。</title>
+      <link>https://x.com/pirorin215/status/2123099218818851315</link>
+      <description>ぴろりん: Muse Gadget StopWatchに wireguard 入れてモバイル環境でもずんだもん音声応答ができた。去年、esp32で wireguard しようとしてうまくいかなかったけど今やAIに「esp32だしwgでつなげればいけるよね」で動いてしまう。</description>
+      <pubDate>Wed, 18 Nov 2026 17:01:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/pirorin215/status/2123099218818851315</guid>
+    </item>
+    <item>
+      <title>WireGuard ベースでゼロトラストなピアツーピアのネットワークを構築できるツール。NAT越えのためのホールパンチングやリレー機能搭載のサーバをセルフホスト可。Go実装 / “GitHub - netbirdio/netbird: Connect your devices, users, and agents into a secure WireGuard ®-…” https://t.co/JWEz2N4DSw</title>
+      <link>https://x.com/matsuu/status/2123075080456712330</link>
+      <description>matsuu: WireGuard ベースでゼロトラストなピアツーピアのネットワークを構築できるツール。NAT越えのためのホールパンチングやリレー機能搭載のサーバをセルフホスト可。Go実装 / “GitHub - netbirdio/netbird: Connect your devices, users, and agents into a secure WireGuard ®-…” https://t.co/JWEz2N4DSw</description>
+      <pubDate>Wed, 18 Nov 2026 15:25:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/matsuu/status/2123075080456712330</guid>
+    </item>
+    <item>
+      <title>長年Windowsの Wireguard クライアントは公式のやつを使ってきたけど、WireSockとかいうめちゃくちゃ便利なやつがあることを知って乗り換えた プロセスごとに除外できる機能あって便利</title>
+      <link>https://x.com/bongole/status/2123040607623160116</link>
+      <description>bongole: 長年Windowsの Wireguard クライアントは公式のやつを使ってきたけど、WireSockとかいうめちゃくちゃ便利なやつがあることを知って乗り換えた プロセスごとに除外できる機能あって便利</description>
+      <pubDate>Wed, 18 Nov 2026 13:08:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/bongole/status/2123040607623160116</guid>
+    </item>
+    <item>
+      <title>wireguard ってそこそこ便利だけど、会社を訪問して使わせてもらうネットワークとかだとポートが閉じられてることがちょいちょいあって、使えことが多いんだよね。softether は何が何でも繋いでやろうという意思を感じた気がする。</title>
+      <link>https://x.com/skk_mimi/status/2123015002298929381</link>
+      <description>Hiroshi Sakakibara: wireguard ってそこそこ便利だけど、会社を訪問して使わせてもらうネットワークとかだとポートが閉じられてることがちょいちょいあって、使えことが多いんだよね。softether は何が何でも繋いでやろうという意思を感じた気がする。</description>
+      <pubDate>Wed, 18 Nov 2026 11:26:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/skk_mimi/status/2123015002298929381</guid>
+    </item>
+    <item>
       <title>大物が残っていた。 社内Gitと社内ツール用のサーバーがまだだった Wireguard の再構築だるすぐる・・・</title>
       <link>https://x.com/CABIN_D/status/2122975894126145947</link>
       <description>CABIN: 大物が残っていた。 社内Gitと社内ツール用のサーバーがまだだった Wireguard の再構築だるすぐる・・・</description>
@@ -241,41 +276,6 @@
       <description>一樹（第二拠点）: @adPCDevices 全てがわからん(( まぁSideStoreと違って Wireguard だとこうしんできんから使わんわ</description>
       <pubDate>Thu, 12 Nov 2026 12:53:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/L_port8080/status/2120862485242884400</guid>
-    </item>
-    <item>
-      <title>@oasoby Wireguard だと無理？ サイトからなんか入れてclassicみたいなの入れたんだけど... https://t.co/A49ALSlFJ6</title>
-      <link>https://x.com/L_port53/status/2120861988607885367</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @oasoby Wireguard だと無理？ サイトからなんか入れてclassicみたいなの入れたんだけど... https://t.co/A49ALSlFJ6</description>
-      <pubDate>Thu, 12 Nov 2026 12:51:16 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2120861988607885367</guid>
-    </item>
-    <item>
-      <title>@TGangMG LocalDevVPN入れられないから Wireguard でしかリフレッシュできない←これが問題 AltStore入れれるの？？ でもSideStoreと何が違うのあれ( そうそうでもYouMod検討してる</title>
-      <link>https://x.com/L_port53/status/2120831360436986131</link>
-      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @TGangMG LocalDevVPN入れられないから Wireguard でしかリフレッシュできない←これが問題 AltStore入れれるの？？ でもSideStoreと何が違うのあれ( そうそうでもYouMod検討してる</description>
-      <pubDate>Thu, 12 Nov 2026 10:49:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port53/status/2120831360436986131</guid>
-    </item>
-    <item>
-      <title>@qa_a_aa2 うち wireguard は切り替えれるようにしてる</title>
-      <link>https://x.com/L_port8080/status/2120817758858617221</link>
-      <description>一樹（第二拠点）: @qa_a_aa2 うち wireguard は切り替えれるようにしてる</description>
-      <pubDate>Thu, 12 Nov 2026 09:55:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/L_port8080/status/2120817758858617221</guid>
-    </item>
-    <item>
-      <title>@weichen_ink 哈哈，你也可以自己用 wireguard 弄呀。😂</title>
-      <link>https://x.com/DonaldLamp84do/status/2120742558632710572</link>
-      <description>Don Lam: @weichen_ink 哈哈，你也可以自己用 wireguard 弄呀。😂</description>
-      <pubDate>Thu, 12 Nov 2026 04:56:42 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/DonaldLamp84do/status/2120742558632710572</guid>
-    </item>
-    <item>
-      <title>mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</title>
-      <link>https://x.com/kenimo49/status/2120503159449874699</link>
-      <description>井本賢 | kenimo49: mitmproxy は通信の中身を途中で見たり書き換えたりできるプロキシです。 OSS (MIT) で、HTTPS も扱えます。 ヘッダーの書き換えは Python で数行。 WireGuard モードで VPN の出口にもできるので、試すならここからかなと。 https://t.co/diA45JTLuf</description>
-      <pubDate>Wed, 11 Nov 2026 13:05:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kenimo49/status/2120503159449874699</guid>
     </item>
   </channel>
 </rss>
