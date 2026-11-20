@@ -5,6 +5,69 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22zram%22</link>
     <description>Latest search results for '"zram"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@QuGiClubPres @gigazine 記事の内容は zram のことですよ</title>
+      <link>https://x.com/aki5506/status/2123745585534833127</link>
+      <description>あき: @QuGiClubPres @gigazine 記事の内容は zram のことですよ</description>
+      <pubDate>Fri, 20 Nov 2026 11:49:39 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/aki5506/status/2123745585534833127</guid>
+    </item>
+    <item>
+      <title>@gigazine 何故に今更 zram の話を…</title>
+      <link>https://x.com/masterx52789912/status/2123709507528458433</link>
+      <description>屶: @gigazine 何故に今更 zram の話を…</description>
+      <pubDate>Fri, 20 Nov 2026 09:26:17 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/masterx52789912/status/2123709507528458433</guid>
+    </item>
+    <item>
+      <title>RAMを買い増すな、圧縮せよ。 https://t.co/CzPt4I3HPv 要約:RAM不足への対策として、メモリ圧縮技術「 zram 」を紹介。Linuxでの実験では5.7GBのデータを1.7GBに圧縮できた。CPU負荷や遅延がわずかに増えるものの、RAMの増設なしでメモリを効率的に利用でき、クラウド費用の削減にもつながる。Therry</title>
+      <link>https://x.com/DerkiesAd001/status/2123696620374298695</link>
+      <description>HackerNews要約※非公式: RAMを買い増すな、圧縮せよ。 https://t.co/CzPt4I3HPv 要約:RAM不足への対策として、メモリ圧縮技術「 zram 」を紹介。Linuxでの実験では5.7GBのデータを1.7GBに圧縮できた。CPU負荷や遅延がわずかに増えるものの、RAMの増設なしでメモリを効率的に利用でき、クラウド費用の削減にもつながる。Therry</description>
+      <pubDate>Fri, 20 Nov 2026 08:35:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/DerkiesAd001/status/2123696620374298695</guid>
+    </item>
+    <item>
+      <title>@grok kvmのゲストのメモリって、ホストの zram でスワップできるの？</title>
+      <link>https://x.com/moguno/status/2123696535192088704</link>
+      <description>もぐの: @grok kvmのゲストのメモリって、ホストの zram でスワップできるの？</description>
+      <pubDate>Fri, 20 Nov 2026 08:34:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2123696535192088704</guid>
+    </item>
+    <item>
+      <title>「久しぶりだな zram 。いや、compacacheと呼んだ方がいいか？」 「なぜ私が子供の頃の名前を⋯ヘンリー王子！」</title>
+      <link>https://x.com/moguno/status/2123694262814728575</link>
+      <description>もぐの: 「久しぶりだな zram 。いや、compacacheと呼んだ方がいいか？」 「なぜ私が子供の頃の名前を⋯ヘンリー王子！」</description>
+      <pubDate>Fri, 20 Nov 2026 08:25:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2123694262814728575</guid>
+    </item>
+    <item>
+      <title>ファン・ネールフェン氏はメモリ圧縮の効果を確かめるため、RAM内に圧縮されたデータを保存するLinuxの機能「 zram 」を使用。32GBのRAMを搭載したPCでFirefoxを起動し、ニュースサイトやSNS、動画配信サイトなど大量のウェブページを開きました。</title>
+      <link>https://x.com/chibafx/status/2123693292797968661</link>
+      <description>chibaf: ファン・ネールフェン氏はメモリ圧縮の効果を確かめるため、RAM内に圧縮されたデータを保存するLinuxの機能「 zram 」を使用。32GBのRAMを搭載したPCでFirefoxを起動し、ニュースサイトやSNS、動画配信サイトなど大量のウェブページを開きました。</description>
+      <pubDate>Fri, 20 Nov 2026 08:21:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chibafx/status/2123693292797968661</guid>
+    </item>
+    <item>
+      <title>@gigazine zRAM みたいなののことかな</title>
+      <link>https://x.com/QuGiClubPres/status/2123688157434859824</link>
+      <description>Crosstail@Garuda Linux: @gigazine zRAM みたいなののことかな</description>
+      <pubDate>Fri, 20 Nov 2026 08:01:27 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/QuGiClubPres/status/2123688157434859824</guid>
+    </item>
+    <item>
+      <title>ホストとVMの両方で zram 有効にすれば無限圧縮でメモリ消費ゼロになるのでは？（※なりません） 実際はFedora等みたいに「ゲストOS側が気を利かせてデフォルトで zram 有効」にしてるケースが多く、圧縮済みデータはホスト側で再圧縮もKSMも効かないのでメモリ消費量が減らない。 https://t.co/sORrIlpLNw</title>
+      <link>https://x.com/djed736/status/2123686887668031700</link>
+      <description>ソラリス@メモリ192GBは基本的人権💉💉💉: ホストとVMの両方で zram 有効にすれば無限圧縮でメモリ消費ゼロになるのでは？（※なりません） 実際はFedora等みたいに「ゲストOS側が気を利かせてデフォルトで zram 有効」にしてるケースが多く、圧縮済みデータはホスト側で再圧縮もKSMも効かないのでメモリ消費量が減らない。 https://t.co/sORrIlpLNw</description>
+      <pubDate>Fri, 20 Nov 2026 07:56:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/djed736/status/2123686887668031700</guid>
+    </item>
+    <item>
+      <title>Claude Codeだけでほぼメモリを食い尽くしてしまったので zram の領域をデフォルトの倍の700MBにしてみた 今のところ安定しているっぽい</title>
+      <link>https://x.com/shin__hod/status/2123471331866140771</link>
+      <description>人間休業中: Claude Codeだけでほぼメモリを食い尽くしてしまったので zram の領域をデフォルトの倍の700MBにしてみた 今のところ安定しているっぽい</description>
+      <pubDate>Thu, 19 Nov 2026 17:39:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shin__hod/status/2123471331866140771</guid>
+    </item>
+    <item>
       <title>ubuntuの動作を早くするパッケージとしてpreload,prelink, zram -configの３つがあって、 $ sudo apt-get install preload prelink zram -config -y で実際、かなり動作が早くなる。しかし最近はprelink（≒先読みする機能）は非推奨らしく、ubuntu2026.04.1では見つからなかった。 メモ…_φ(･_･</title>
       <link>https://x.com/QoQ_YoY_MoM/status/2122731552488718810</link>
       <description>ガミラス帝国中央銀行（ガミ公）💙💛@テロン諸国の国家デフォルト🪦をのんびり観察する異星人: ubuntuの動作を早くするパッケージとしてpreload,prelink, zram -configの３つがあって、 $ sudo apt-get install preload prelink zram -config -y で実際、かなり動作が早くなる。しかし最近はprelink（≒先読みする機能）は非推奨らしく、ubuntu2026.04.1では見つからなかった。 メモ…_φ(･_･</description>

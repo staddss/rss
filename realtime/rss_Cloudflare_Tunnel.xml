@@ -19,6 +19,13 @@
       <guid isPermaLink="true">https://x.com/yuki_wtz/status/2123581375433638158</guid>
     </item>
     <item>
+      <title>いつの間にnginx首位になったんだ・・・？ フルスタックエンジニアをしていた2017年ぐらいまでは、まだApacheが多かったが。 ちなみに、プライベートでは設定ファイルが書きやすいという理由で、2012年から去年まで使っていました。 今？Dockerコンテナを Cloudflare Tunnel で直結ですよ。 https://t.co/1JWikKkMjQ</title>
+      <link>https://x.com/logue256/status/2123394831238279445</link>
+      <description>Logue the Elven Architect P／天城　悠: いつの間にnginx首位になったんだ・・・？ フルスタックエンジニアをしていた2017年ぐらいまでは、まだApacheが多かったが。 ちなみに、プライベートでは設定ファイルが書きやすいという理由で、2012年から去年まで使っていました。 今？Dockerコンテナを Cloudflare Tunnel で直結ですよ。 https://t.co/1JWikKkMjQ</description>
+      <pubDate>Thu, 19 Nov 2026 12:35:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/logue256/status/2123394831238279445</guid>
+    </item>
+    <item>
       <title>自宅でWebサーバー公開は完全に無理な時代が来た感 やるなら Cloudflare tunnel みたいなのを使わないと、リスクがありすぎる</title>
       <link>https://x.com/tjlDotEsB26uXTr/status/2123241995040932232</link>
       <description>玖堂恵: 自宅でWebサーバー公開は完全に無理な時代が来た感 やるなら Cloudflare tunnel みたいなのを使わないと、リスクがありすぎる</description>
@@ -269,13 +276,6 @@
       <description>Sv: CGNAT配下でのweb公開案 cloudflare tunnel →サブネットゲートウェイ→webサーバ cloudflare通せばmodsecurityとかsuricataいらないのかはとちょっと運用して考えてみる</description>
       <pubDate>Wed, 11 Nov 2026 01:45:25 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sva3305/status/2120332034732437563</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel 用と称して、IX2106もお迎えした。 2105との違いは全ポート1Gbps 別に2105でも1Gbpsをvlanとかで区切れば普通に使えるのに、お迎えしてしまった</title>
-      <link>https://x.com/sva3305/status/2120331433843781794</link>
-      <description>Sv: cloudflare tunnel 用と称して、IX2106もお迎えした。 2105との違いは全ポート1Gbps 別に2105でも1Gbpsをvlanとかで区切れば普通に使えるのに、お迎えしてしまった</description>
-      <pubDate>Wed, 11 Nov 2026 01:43:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sva3305/status/2120331433843781794</guid>
     </item>
   </channel>
 </rss>
