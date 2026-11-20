@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>公司內部系統可搭配 Cloudflare Access，只有公司信箱收到驗證碼的人能進入。 李卓軒 - 不用固定 IP，也不用綁死一家 ISP—— Cloudflare Tunnel 的另一面... https://t.co/Y3uZYnYkiK https://t.co/nQBfnasZ1I</title>
+      <link>https://x.com/AlboWu/status/2123591776674136208</link>
+      <description>albo wu: 公司內部系統可搭配 Cloudflare Access，只有公司信箱收到驗證碼的人能進入。 李卓軒 - 不用固定 IP，也不用綁死一家 ISP—— Cloudflare Tunnel 的另一面... https://t.co/Y3uZYnYkiK https://t.co/nQBfnasZ1I</description>
+      <pubDate>Fri, 20 Nov 2026 01:38:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/AlboWu/status/2123591776674136208</guid>
+    </item>
+    <item>
+      <title>T3 Codeはいいぞ Codex / Claude / Antigravity / OpenCodeに対応しているのもそうだけど、 Cloudflare Tunnel 相当の機能が無料で使えるのでスマホからデスクトップPCに繋げて実装させるとかも簡単。 最近はデスクトップPCは一才スリープモードにさせてない</title>
+      <link>https://x.com/yuki_wtz/status/2123581375433638158</link>
+      <description>ucchy / Yuki Uchida: T3 Codeはいいぞ Codex / Claude / Antigravity / OpenCodeに対応しているのもそうだけど、 Cloudflare Tunnel 相当の機能が無料で使えるのでスマホからデスクトップPCに繋げて実装させるとかも簡単。 最近はデスクトップPCは一才スリープモードにさせてない</description>
+      <pubDate>Fri, 20 Nov 2026 00:57:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yuki_wtz/status/2123581375433638158</guid>
+    </item>
+    <item>
       <title>自宅でWebサーバー公開は完全に無理な時代が来た感 やるなら Cloudflare tunnel みたいなのを使わないと、リスクがありすぎる</title>
       <link>https://x.com/tjlDotEsB26uXTr/status/2123241995040932232</link>
       <description>玖堂恵: 自宅でWebサーバー公開は完全に無理な時代が来た感 やるなら Cloudflare tunnel みたいなのを使わないと、リスクがありすぎる</description>
@@ -108,6 +122,13 @@
       <description>柿添 貴士: Muse にブラウザ経由で入ったり、ターミナルから入ったり Meta MuseのVMへSSH接続｜ Cloudflare Tunnel とAccessで入る https://t.co/BEIHjdHtfb</description>
       <pubDate>Tue, 17 Nov 2026 03:32:45 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/TakashiKakizoe/status/2122533371113017624</guid>
+    </item>
+    <item>
+      <title>tailscale をやめて、 Cloudflare Tunnel + Access の構成に切り替えた。</title>
+      <link>https://x.com/hrsh7th/status/2122235368179462145</link>
+      <description>hrsh7th: tailscale をやめて、 Cloudflare Tunnel + Access の構成に切り替えた。</description>
+      <pubDate>Mon, 16 Nov 2026 07:48:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/hrsh7th/status/2122235368179462145</guid>
     </item>
     <item>
       <title>claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</title>
@@ -255,27 +276,6 @@
       <description>Sv: cloudflare tunnel 用と称して、IX2106もお迎えした。 2105との違いは全ポート1Gbps 別に2105でも1Gbpsをvlanとかで区切れば普通に使えるのに、お迎えしてしまった</description>
       <pubDate>Wed, 11 Nov 2026 01:43:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sva3305/status/2120331433843781794</guid>
-    </item>
-    <item>
-      <title>【 Cloudflare Tunnel の仕組み：完全0 Inbound】 外から接続させるのではなく、家の中からエッジに安全な暗号化常時接続を張りに行きます。 ルーターのファイアウォールは全遮断のままでOK。 UDP/TCP 7844(QUIC/H2)で多重化通信するため、CGNAT環境でも即時開通します。 (2/6)</title>
-      <link>https://x.com/UbinityAI/status/2120117807979634901</link>
-      <description>Richard King: 【 Cloudflare Tunnel の仕組み：完全0 Inbound】 外から接続させるのではなく、家の中からエッジに安全な暗号化常時接続を張りに行きます。 ルーターのファイアウォールは全遮断のままでOK。 UDP/TCP 7844(QUIC/H2)で多重化通信するため、CGNAT環境でも即時開通します。 (2/6)</description>
-      <pubDate>Tue, 10 Nov 2026 11:34:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/UbinityAI/status/2120117807979634901</guid>
-    </item>
-    <item>
-      <title>https://t.co/qtjGzMFpUw 引っ越しに伴い死んでます（ Cloudflare Tunnel はupなのですが...） 酔っ払ってて壊しそうなので明日直します</title>
-      <link>https://x.com/kaguyachan_/status/2120107529154040304</link>
-      <description>かぐやちゃん: https://t.co/qtjGzMFpUw 引っ越しに伴い死んでます（ Cloudflare Tunnel はupなのですが...） 酔っ払ってて壊しそうなので明日直します</description>
-      <pubDate>Tue, 10 Nov 2026 10:53:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kaguyachan_/status/2120107529154040304</guid>
-    </item>
-    <item>
-      <title>Cloudflare AI Gateway -&gt; Cloudflare Tunnel -&gt; ローカルLLM で外から繋げるようになるか どっかで認証を挟むようにするか</title>
-      <link>https://x.com/KaitoTiamat/status/2119793963582603297</link>
-      <description>Kaito Kk: Cloudflare AI Gateway -&gt; Cloudflare Tunnel -&gt; ローカルLLM で外から繋げるようになるか どっかで認証を挟むようにするか</description>
-      <pubDate>Mon, 09 Nov 2026 14:07:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KaitoTiamat/status/2119793963582603297</guid>
     </item>
   </channel>
 </rss>

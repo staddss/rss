@@ -75,13 +75,6 @@
       <guid isPermaLink="true">https://x.com/ToYamaSoujin/status/2112907737017573797</guid>
     </item>
     <item>
-      <title>ZRAM 圧縮率99%でVRAM63GBだぁぁぁぁぁだといいんだけどね</title>
-      <link>https://x.com/n4ne_3/status/2112670657553318097</link>
-      <description>なね: ZRAM 圧縮率99%でVRAM63GBだぁぁぁぁぁだといいんだけどね</description>
-      <pubDate>Tue, 20 Oct 2026 22:21:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/n4ne_3/status/2112670657553318097</guid>
-    </item>
-    <item>
       <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>
       <link>https://x.com/joho_no_todai/status/2107107612995260785</link>
       <description>情報の灯台: Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</description>
