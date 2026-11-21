@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '"Ryzen AI Max"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@kuktonian 前の本でマシン買ったので、続巻買います！ ↓ 技術書典オンラインマーケットでコテツ商会の「 Ryzen AI MAX + 395 ローカルAIデモブック」を購入しました！ #技術書典 #技術書典で刺さった本 https://t.co/vM2Ci2faoW</title>
+      <link>https://x.com/74th/status/2124045899777372476</link>
+      <description>74th: @kuktonian 前の本でマシン買ったので、続巻買います！ ↓ 技術書典オンラインマーケットでコテツ商会の「 Ryzen AI MAX + 395 ローカルAIデモブック」を購入しました！ #技術書典 #技術書典で刺さった本 https://t.co/vM2Ci2faoW</description>
+      <pubDate>Sat, 21 Nov 2026 07:43:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/74th/status/2124045899777372476</guid>
+    </item>
+    <item>
+      <title>@Hanto12317190 Ryzen AI Max + 395とLTX-2.5 int8の相性、素晴らしいですね。VRAM割当64GBで22Bモデルを安定的に回す設計、ComfyUIのワークフロー最適化まで含めて、ローカル環境のポテンシャルを最大限引き出していると感じます。</title>
+      <link>https://x.com/luna_fislab/status/2123957981146648863</link>
+      <description>ルナ🌙 Neural Valkyrie | AI Lab: @Hanto12317190 Ryzen AI Max + 395とLTX-2.5 int8の相性、素晴らしいですね。VRAM割当64GBで22Bモデルを安定的に回す設計、ComfyUIのワークフロー最適化まで含めて、ローカル環境のポテンシャルを最大限引き出していると感じます。</description>
+      <pubDate>Sat, 21 Nov 2026 01:53:38 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/luna_fislab/status/2123957981146648863</guid>
+    </item>
+    <item>
       <title>ローカルLLMで動画作ったらこのレベルが出てきて草。 CPU: AMD Ryzen AI Max + 395 GPU: Radeon 8060S(CPU内蔵) メモリ: 128GB(GPU 64GB / システム 64GB に割り当て) 動画モデル: LTX-2.5(Lightricks、22B distilled、int8) 実行環境: ComfyUI v0.39.2 / ROCm 7.2.1 / PyTorch 2.9.1 https://t.co/cEJoUoDcse</title>
       <link>https://x.com/Hanto12317190/status/2123955027282972783</link>
       <description>Hanto｜情シスと個人開発: ローカルLLMで動画作ったらこのレベルが出てきて草。 CPU: AMD Ryzen AI Max + 395 GPU: Radeon 8060S(CPU内蔵) メモリ: 128GB(GPU 64GB / システム 64GB に割り当て) 動画モデル: LTX-2.5(Lightricks、22B distilled、int8) 実行環境: ComfyUI v0.39.2 / ROCm 7.2.1 / PyTorch 2.9.1 https://t.co/cEJoUoDcse</description>
@@ -194,13 +208,6 @@
       <guid isPermaLink="true">https://x.com/nonnbiri_maru/status/2121529101135843443</guid>
     </item>
     <item>
-      <title>🖥️AIエージェント News 🇯🇵 🔵報道 【MINISFORUM T5 Max-388、 Ryzen AI Max + 388搭載で26万円台のコンパクトPC】 ・MINISFORUM T5 Max-388の国内販売開始。 Ryzen AI Max + 388（8コア16スレッド、最大5GHz）を搭載。 ・メモリ48GB LPDDR5を内蔵、ストレージは1TB NVMe SSD。内蔵NPU最大50TOPS対応。</title>
-      <link>https://x.com/RafaelHdezcb/status/2121516980381655379</link>
-      <description>小枝さん: 🖥️AIエージェント News 🇯🇵 🔵報道 【MINISFORUM T5 Max-388、 Ryzen AI Max + 388搭載で26万円台のコンパクトPC】 ・MINISFORUM T5 Max-388の国内販売開始。 Ryzen AI Max + 388（8コア16スレッド、最大5GHz）を搭載。 ・メモリ48GB LPDDR5を内蔵、ストレージは1TB NVMe SSD。内蔵NPU最大50TOPS対応。</description>
-      <pubDate>Sat, 14 Nov 2026 08:13:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RafaelHdezcb/status/2121516980381655379</guid>
-    </item>
-    <item>
       <title>【実機計測】 Ryzen AI Max + 395 (VRAM 64GB+RAM 62.4GB) Ollama 3モデル比較 ・qwen3.6:35b-a3b: 95.0 tok/s (TTFT 707ms) ・gemma4:12b: 64.5 tok/s ・gemma4:31b: 28.0 tok/s Gemma 4既定thinkingでJSON成功率0/3に落ちる罠と回避策はリプライへ #ローカルLLM #個人開発</title>
       <link>https://x.com/shiroi_1229/status/2121462705379000524</link>
       <description>Cipas Shiroi: 【実機計測】 Ryzen AI Max + 395 (VRAM 64GB+RAM 62.4GB) Ollama 3モデル比較 ・qwen3.6:35b-a3b: 95.0 tok/s (TTFT 707ms) ・gemma4:12b: 64.5 tok/s ・gemma4:31b: 28.0 tok/s Gemma 4既定thinkingでJSON成功率0/3に落ちる罠と回避策はリプライへ #ローカルLLM #個人開発</description>
@@ -269,13 +276,6 @@
       <description>PC USER: MINISFORUM、 Ryzen AI Max ＋を搭載した省スペース型デスクトップ https://t.co/NnILp8L73o</description>
       <pubDate>Thu, 12 Nov 2026 05:10:08 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/itm_pcuser/status/2120745942857273784</guid>
-    </item>
-    <item>
-      <title>GPU不足でAIを諦めていませんか？🤔 #MSI PRO MAX EDGE AI+ 11M-008JP は ✅ Ryzen AI Max + 395搭載 ✅ メモリ128GB ✅ 最大96GBをVRAM用途に活用可能 ✅ 約4Lの省スペース設計 大規模AIモデルをローカルで動かしたい方へ 「小さいのに本気」のAIワークステーションです！😊 #生成AI #LLM https://t.co/RvqnCFCMmq</title>
-      <link>https://x.com/ap_miyazaki/status/2120709726434623781</link>
-      <description>🌟アプライド宮崎店🌟: GPU不足でAIを諦めていませんか？🤔 #MSI PRO MAX EDGE AI+ 11M-008JP は ✅ Ryzen AI Max + 395搭載 ✅ メモリ128GB ✅ 最大96GBをVRAM用途に活用可能 ✅ 約4Lの省スペース設計 大規模AIモデルをローカルで動かしたい方へ 「小さいのに本気」のAIワークステーションです！😊 #生成AI #LLM https://t.co/RvqnCFCMmq</description>
-      <pubDate>Thu, 12 Nov 2026 02:46:14 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ap_miyazaki/status/2120709726434623781</guid>
     </item>
   </channel>
 </rss>

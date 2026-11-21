@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22NextDNS%22</link>
     <description>Latest search results for '"NextDNS"' on Yahoo! Realtime Search</description>
     <item>
+      <title>何の気無しに NextDNS のログ見てみたらベトナムから不正利用されてた まあ6桁の英数字だからセキュリティとか無なんだけど、なんのメリットがあるんだ…？ 無課金だからお互いに枠を食い合うし、自分でアカウント作ったほうが枠広くなる むしろ相手が何のサイト見てるか全部僕に筒抜けになるし…</title>
+      <link>https://x.com/chouxcreams__/status/2123986362072547721</link>
+      <description>chouxcreams: 何の気無しに NextDNS のログ見てみたらベトナムから不正利用されてた まあ6桁の英数字だからセキュリティとか無なんだけど、なんのメリットがあるんだ…？ 無課金だからお互いに枠を食い合うし、自分でアカウント作ったほうが枠広くなる むしろ相手が何のサイト見てるか全部僕に筒抜けになるし…</description>
+      <pubDate>Sat, 21 Nov 2026 03:46:25 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/chouxcreams__/status/2123986362072547721</guid>
+    </item>
+    <item>
+      <title>NextDNS を各端末に入れてたの面倒で、数台は素のままだったんだが、Tailscale 管理画面で Global Nameserver を NextDNS で override したら Tailscale 参加端末全部で NextDNS が有効になって、これは、これは、どこまでズブズブにさせてくるんだ...</title>
+      <link>https://x.com/sasasin_net/status/2123798348042064100</link>
+      <description>鈴木心之介: NextDNS を各端末に入れてたの面倒で、数台は素のままだったんだが、Tailscale 管理画面で Global Nameserver を NextDNS で override したら Tailscale 参加端末全部で NextDNS が有効になって、これは、これは、どこまでズブズブにさせてくるんだ...</description>
+      <pubDate>Fri, 20 Nov 2026 15:19:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sasasin_net/status/2123798348042064100</guid>
+    </item>
+    <item>
       <title>@L_port8080 NextDNS だな?</title>
       <link>https://x.com/koko29482/status/2123710910753849376</link>
       <description>ここまろ: @L_port8080 NextDNS だな?</description>
@@ -262,20 +276,6 @@
       <description>Kaede / 楓: みんな NextDNS かRethinkDNS使おうね</description>
       <pubDate>Wed, 04 Nov 2026 11:43:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kaede_git/status/2117945775955292474</guid>
-    </item>
-    <item>
-      <title>ブラウザ版のXに NextDNS を経由させると調子悪い</title>
-      <link>https://x.com/Barracuda_Dan/status/2117928315361354199</link>
-      <description>PonPoko🏳️‍🌈🏳️‍⚧️(🇨🇳🇹🇼🇰🇷🤝🇯🇵): ブラウザ版のXに NextDNS を経由させると調子悪い</description>
-      <pubDate>Wed, 04 Nov 2026 10:33:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Barracuda_Dan/status/2117928315361354199</guid>
-    </item>
-    <item>
-      <title>NextDNS がYoutube広告ブロック（というより、たぶん迂回）のベータテストを始めたようです。 https://t.co/LtIVIuxWtG</title>
-      <link>https://x.com/Yuki27183/status/2117852035446186090</link>
-      <description>Yuki2718: NextDNS がYoutube広告ブロック（というより、たぶん迂回）のベータテストを始めたようです。 https://t.co/LtIVIuxWtG</description>
-      <pubDate>Wed, 04 Nov 2026 05:30:47 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Yuki27183/status/2117852035446186090</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>cloudflare tunnel のデーモン仕込み、公開ドメインでlocalhost指定だけでいいすかね。。 もうipv4外部に直でポート通すのやめようよー。</title>
+      <link>https://x.com/brew_th/status/2123619833216680325</link>
+      <description>TouFu | とうふ | AIソロプレナー: cloudflare tunnel のデーモン仕込み、公開ドメインでlocalhost指定だけでいいすかね。。 もうipv4外部に直でポート通すのやめようよー。</description>
+      <pubDate>Fri, 20 Nov 2026 03:29:57 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/brew_th/status/2123619833216680325</guid>
+    </item>
+    <item>
       <title>公司內部系統可搭配 Cloudflare Access，只有公司信箱收到驗證碼的人能進入。 李卓軒 - 不用固定 IP，也不用綁死一家 ISP—— Cloudflare Tunnel 的另一面... https://t.co/Y3uZYnYkiK https://t.co/nQBfnasZ1I</title>
       <link>https://x.com/AlboWu/status/2123591776674136208</link>
       <description>albo wu: 公司內部系統可搭配 Cloudflare Access，只有公司信箱收到驗證碼的人能進入。 李卓軒 - 不用固定 IP，也不用綁死一家 ISP—— Cloudflare Tunnel 的另一面... https://t.co/Y3uZYnYkiK https://t.co/nQBfnasZ1I</description>
@@ -269,13 +276,6 @@
       <description>さぶてみそ: おお Cloudflare tunnel つかえばIPアドレス晒さずにゲームの鯖に入ってもらったりできるのか それもだけど固定IPじゃなくてもいけるのべんりやね ドメイン取らなきゃなのがアレだけど流石に健全な19歳の学生ならドメインのひとつぐらい持つべきよね</description>
       <pubDate>Wed, 11 Nov 2026 11:02:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_e6d9bb/status/2120472252550721688</guid>
-    </item>
-    <item>
-      <title>CGNAT配下でのweb公開案 cloudflare tunnel →サブネットゲートウェイ→webサーバ cloudflare通せばmodsecurityとかsuricataいらないのかはとちょっと運用して考えてみる</title>
-      <link>https://x.com/sva3305/status/2120332034732437563</link>
-      <description>Sv: CGNAT配下でのweb公開案 cloudflare tunnel →サブネットゲートウェイ→webサーバ cloudflare通せばmodsecurityとかsuricataいらないのかはとちょっと運用して考えてみる</description>
-      <pubDate>Wed, 11 Nov 2026 01:45:25 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sva3305/status/2120332034732437563</guid>
     </item>
   </channel>
 </rss>
