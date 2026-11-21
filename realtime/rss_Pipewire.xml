@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Pipewire%22</link>
     <description>Latest search results for '"Pipewire"' on Yahoo! Realtime Search</description>
     <item>
+      <title>PipeWire のままで、設定ファイルに「許可するサンプルレート」を数行追記するだけで、192kHzでのネイティブ再生（自動切り替え）が可能になります。 mkdir -p ~/.config/ pipewire / pipewire .conf.d nano ~/.config/ pipewire / pipewire .conf.d/10-samplerate.conf https://t.co/28wTY3y653</title>
+      <link>https://x.com/gardenpapa/status/2123921055605780981</link>
+      <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: PipeWire のままで、設定ファイルに「許可するサンプルレート」を数行追記するだけで、192kHzでのネイティブ再生（自動切り替え）が可能になります。 mkdir -p ~/.config/ pipewire / pipewire .conf.d nano ~/.config/ pipewire / pipewire .conf.d/10-samplerate.conf https://t.co/28wTY3y653</description>
+      <pubDate>Fri, 20 Nov 2026 23:26:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gardenpapa/status/2123921055605780981</guid>
+    </item>
+    <item>
       <title>主要な JACK 開発者・メンテナーたちは、対立するどころか PipeWire の発展を積極的に支援し、技術的な協力を行っています。 Linux オーディオコミュニティは規模が大きくないため、主要開発者同士の距離が非常に近く、役割分担をしながら移行を進めてきた背景があります。https://t.co/t2xdxLYuvx</title>
       <link>https://x.com/gardenpapa/status/2123222544648155362</link>
       <description>🅖🅐🅡🅓🅔🅝 🌤 𓃰: 主要な JACK 開発者・メンテナーたちは、対立するどころか PipeWire の発展を積極的に支援し、技術的な協力を行っています。 Linux オーディオコミュニティは規模が大きくないため、主要開発者同士の距離が非常に近く、役割分担をしながら移行を進めてきた背景があります。https://t.co/t2xdxLYuvx</description>

@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '"Ryzen AI Max"' on Yahoo! Realtime Search</description>
     <item>
+      <title>ローカルLLMで動画作ったらこのレベルが出てきて草。 CPU: AMD Ryzen AI Max + 395 GPU: Radeon 8060S(CPU内蔵) メモリ: 128GB(GPU 64GB / システム 64GB に割り当て) 動画モデル: LTX-2.5(Lightricks、22B distilled、int8) 実行環境: ComfyUI v0.39.2 / ROCm 7.2.1 / PyTorch 2.9.1 https://t.co/cEJoUoDcse</title>
+      <link>https://x.com/Hanto12317190/status/2123955027282972783</link>
+      <description>Hanto｜情シスと個人開発: ローカルLLMで動画作ったらこのレベルが出てきて草。 CPU: AMD Ryzen AI Max + 395 GPU: Radeon 8060S(CPU内蔵) メモリ: 128GB(GPU 64GB / システム 64GB に割り当て) 動画モデル: LTX-2.5(Lightricks、22B distilled、int8) 実行環境: ComfyUI v0.39.2 / ROCm 7.2.1 / PyTorch 2.9.1 https://t.co/cEJoUoDcse</description>
+      <pubDate>Sat, 21 Nov 2026 01:41:54 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Hanto12317190/status/2123955027282972783</guid>
+    </item>
+    <item>
+      <title>AMD Ryzen AI Max + 395（Strix Halo）128GB 環境で Halogen + Qwen3.8-Flash-Next（Q4）を動かして、54.8 Tok/s 出た！☺️ Strix Halo でここまで出れば常用できそう https://t.co/FRVM50IF5z https://t.co/QIRU0cbmjC</title>
+      <link>https://x.com/old_pgmrs_will/status/2123936969608892546</link>
+      <description>いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram: AMD Ryzen AI Max + 395（Strix Halo）128GB 環境で Halogen + Qwen3.8-Flash-Next（Q4）を動かして、54.8 Tok/s 出た！☺️ Strix Halo でここまで出れば常用できそう https://t.co/FRVM50IF5z https://t.co/QIRU0cbmjC</description>
+      <pubDate>Sat, 21 Nov 2026 00:30:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2123936969608892546</guid>
+    </item>
+    <item>
+      <title>GMKtec EVO-X2（ Ryzen AI Max + 395） EVO-X2 のメモリは後から増やせない。LPDDR5X のオンボードで、64GB か 128GB かは買うときに決まる。容量は動かしたいモデルの大きさから先に決める。 https://t.co/aoR361IKfw</title>
+      <link>https://x.com/kata_ya_jp/status/2123910508659302768</link>
+      <description>型屋｜そのまま使える仕事と暮らしの型: GMKtec EVO-X2（ Ryzen AI Max + 395） EVO-X2 のメモリは後から増やせない。LPDDR5X のオンボードで、64GB か 128GB かは買うときに決まる。容量は動かしたいモデルの大きさから先に決める。 https://t.co/aoR361IKfw</description>
+      <pubDate>Fri, 20 Nov 2026 22:45:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kata_ya_jp/status/2123910508659302768</guid>
+    </item>
+    <item>
+      <title>AMD Ryzen AI Max + 395（Strix Halo）128GB 環境で Qwen3.8-Flash-Next を Gufo で動かして、effort=max にして 35.7 tok/s 出た☺️（Strataも似たような結果） 次は Halogen 試してみるか この数ヶ月でローカル LLM 環境がめっちゃ進化してる https://t.co/lVjYba4vPf</title>
+      <link>https://x.com/old_pgmrs_will/status/2123779110040477850</link>
+      <description>いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram: AMD Ryzen AI Max + 395（Strix Halo）128GB 環境で Qwen3.8-Flash-Next を Gufo で動かして、effort=max にして 35.7 tok/s 出た☺️（Strataも似たような結果） 次は Halogen 試してみるか この数ヶ月でローカル LLM 環境がめっちゃ進化してる https://t.co/lVjYba4vPf</description>
+      <pubDate>Fri, 20 Nov 2026 14:02:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2123779110040477850</guid>
+    </item>
+    <item>
       <title>GMKtec EVO-X2 AIミニPC AMD Ryzen AI MAX + 395 memory 128G SSD 2Tのマシンが焦げ臭い匂いを出した後、煙が出てチーンしました。すぐに修理に出しますが、電源かマザボあたりが逝っているように思えます</title>
       <link>https://x.com/kaeru_mikutya/status/2123728621328318752</link>
       <description>🐸かえる🐸M.D., Ph.D.: GMKtec EVO-X2 AIミニPC AMD Ryzen AI MAX + 395 memory 128G SSD 2Tのマシンが焦げ臭い匂いを出した後、煙が出てチーンしました。すぐに修理に出しますが、電源かマザボあたりが逝っているように思えます</description>
@@ -17,6 +45,13 @@
       <description>A-Uta: Local LLM - RDMA over USB4 事例にあるのうに、やっぱり狙いは Ryzen AI Max + 395 (Strix halo) 128GBか…。 まだハードウェア性能を活かしきれてないからな🤔 とはいえ、EVO-X2はほぼ中古に流れて来ないのよね。 https://t.co/Ex3b34doM8 https://t.co/uGsOINmjaj</description>
       <pubDate>Fri, 20 Nov 2026 08:47:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/UtaAoya/status/2123699752424685572</guid>
+    </item>
+    <item>
+      <title>【速報】USB4ケーブルでWindows PCをつなぎ、1台に載らないAIを動かす。Microsoftが「RDMA over USB4」の先行版を発表 ・ Ryzen AI Max のミニPC 3台で、Qwen3-235B-A22B（4bit）が毎秒21.98トークン（AMD測定） ・RDMAカードもスイッチも不要。llama.cppの改造版も公開 https://t.co/yXx8RmuqGw https://t.co/0YJvgTmV7x</title>
+      <link>https://x.com/TORA276990/status/2123629323655786692</link>
+      <description>TORA｜今日のAIニュース3選: 【速報】USB4ケーブルでWindows PCをつなぎ、1台に載らないAIを動かす。Microsoftが「RDMA over USB4」の先行版を発表 ・ Ryzen AI Max のミニPC 3台で、Qwen3-235B-A22B（4bit）が毎秒21.98トークン（AMD測定） ・RDMAカードもスイッチも不要。llama.cppの改造版も公開 https://t.co/yXx8RmuqGw https://t.co/0YJvgTmV7x</description>
+      <pubDate>Fri, 20 Nov 2026 04:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TORA276990/status/2123629323655786692</guid>
     </item>
     <item>
       <title>マウスの小型PC「DAIV CX-A9A60」は Ryzen AI Max +395とLPDDR5X 128GBで120B級LLMをローカル実行できるように設計されている。 統合GPUは外付けGPUに速度で劣るものの、128GBメインメモリで最大約96GBをグラフィックス用に割り当てられ、トークン費用や機密性の課題を軽減できる。</title>
@@ -241,41 +276,6 @@
       <description>🌟アプライド宮崎店🌟: GPU不足でAIを諦めていませんか？🤔 #MSI PRO MAX EDGE AI+ 11M-008JP は ✅ Ryzen AI Max + 395搭載 ✅ メモリ128GB ✅ 最大96GBをVRAM用途に活用可能 ✅ 約4Lの省スペース設計 大規模AIモデルをローカルで動かしたい方へ 「小さいのに本気」のAIワークステーションです！😊 #生成AI #LLM https://t.co/RvqnCFCMmq</description>
       <pubDate>Thu, 12 Nov 2026 02:46:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ap_miyazaki/status/2120709726434623781</guid>
-    </item>
-    <item>
-      <title>[PGX RECOMMEND] 記事のおすすめキーワードは [高性能AIワークステーション] 【世界初 DASH対応× Ryzen AI Max + PRO 495】EVO-X5 Pro AIミニPC 192GB＋2TB デュアル10GbE | Rad… https://t.co/OBeNrLPpHl</title>
-      <link>https://x.com/t_yoshizawa/status/2120668285184401859</link>
-      <description>T.Y: [PGX RECOMMEND] 記事のおすすめキーワードは [高性能AIワークステーション] 【世界初 DASH対応× Ryzen AI Max + PRO 495】EVO-X5 Pro AIミニPC 192GB＋2TB デュアル10GbE | Rad… https://t.co/OBeNrLPpHl</description>
-      <pubDate>Thu, 12 Nov 2026 00:01:33 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/t_yoshizawa/status/2120668285184401859</guid>
-    </item>
-    <item>
-      <title>Minisforum【T5 Max-388】 Ryzen AI Max + 388と48GBメモリー搭載のミニPC https://t.co/xXpJP1W0aQ #ガジェット #ミニPC #PC #ローカルLLM #ローカルAI #生成AI https://t.co/7obkM0NYnW</title>
-      <link>https://x.com/Monoqlo365/status/2120532010141675658</link>
-      <description>MONO365 -Color your days-: Minisforum【T5 Max-388】 Ryzen AI Max + 388と48GBメモリー搭載のミニPC https://t.co/xXpJP1W0aQ #ガジェット #ミニPC #PC #ローカルLLM #ローカルAI #生成AI https://t.co/7obkM0NYnW</description>
-      <pubDate>Wed, 11 Nov 2026 15:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Monoqlo365/status/2120532010141675658</guid>
-    </item>
-    <item>
-      <title>【6%OFFで347,999円】🔥 スマイルセール 🔥GMKtec EVO-X2 AIミニPC AMD Ryzen AI MAX + 395（16コア/32スレッド 最大5.1GHz）搭載｜最大126TOPS AI性能｜64GB LPDDR5X 8000MHzメモリ＋1TB SSD（PCIe 4.0）｜Radeon 8060S内... ＜Amazon＞ #PR https://t.co/TcgmvCxXdj</title>
-      <link>https://x.com/nPjXTnBd_5/status/2120450711150625060</link>
-      <description>座るカピバラ: 【6%OFFで347,999円】🔥 スマイルセール 🔥GMKtec EVO-X2 AIミニPC AMD Ryzen AI MAX + 395（16コア/32スレッド 最大5.1GHz）搭載｜最大126TOPS AI性能｜64GB LPDDR5X 8000MHzメモリ＋1TB SSD（PCIe 4.0）｜Radeon 8060S内... ＜Amazon＞ #PR https://t.co/TcgmvCxXdj</description>
-      <pubDate>Wed, 11 Nov 2026 09:37:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nPjXTnBd_5/status/2120450711150625060</guid>
-    </item>
-    <item>
-      <title>MINISFORUM「T5 Max-388」とGMKtec「EVO-X5 Pro」を比較 どっちを買う？ Ryzen AI Max +搭載ミニPCで価格差は約98万円 https://t.co/JX0Zen5tBh #ミニPC #MINISFORUM #GMKtec</title>
-      <link>https://x.com/jic_news/status/2120441409845207117</link>
-      <description>インターネットコム: MINISFORUM「T5 Max-388」とGMKtec「EVO-X5 Pro」を比較 どっちを買う？ Ryzen AI Max +搭載ミニPCで価格差は約98万円 https://t.co/JX0Zen5tBh #ミニPC #MINISFORUM #GMKtec</description>
-      <pubDate>Wed, 11 Nov 2026 09:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/jic_news/status/2120441409845207117</guid>
-    </item>
-    <item>
-      <title>Ryzen AI Max + 388を約4.9リットルに凝縮、MINISFORUM「T5 Max-388」発売 - エルミタージュ秋葉原 https://t.co/8MBwt2wS15</title>
-      <link>https://x.com/ohhara_shiojiri/status/2120405989187056036</link>
-      <description>ohhara_P🧐Slow life in the isekai: Ryzen AI Max + 388を約4.9リットルに凝縮、MINISFORUM「T5 Max-388」発売 - エルミタージュ秋葉原 https://t.co/8MBwt2wS15</description>
-      <pubDate>Wed, 11 Nov 2026 06:39:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ohhara_shiojiri/status/2120405989187056036</guid>
     </item>
   </channel>
 </rss>

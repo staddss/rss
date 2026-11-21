@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22chrome%3A//flags%22</link>
     <description>Latest search results for '"chrome://flags"' on Yahoo! Realtime Search</description>
     <item>
+      <title>手元の Lenovo Chromebook Plus Gen 10 で Chrome の AI API いろいろ試してたら突然 GPU 使えずに CPU にフォールバックしたから何事？と思ったら、Decisions API 有効にするとそうなるっぽい chrome :// flags /#decisions-api https://t.co/jirCjoaW8y</title>
+      <link>https://x.com/yasu0796/status/2123762952713195609</link>
+      <description>yasu0796: 手元の Lenovo Chromebook Plus Gen 10 で Chrome の AI API いろいろ試してたら突然 GPU 使えずに CPU にフォールバックしたから何事？と思ったら、Decisions API 有効にするとそうなるっぽい chrome :// flags /#decisions-api https://t.co/jirCjoaW8y</description>
+      <pubDate>Fri, 20 Nov 2026 12:58:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yasu0796/status/2123762952713195609</guid>
+    </item>
+    <item>
       <title>（メモ）Chromeの右クリックのGeminiに相談を消す方法 ブラウザで chrome :// flags にアクセス→「glic」を探して無効(Disabled) ブラウザ再起動で消える</title>
       <link>https://x.com/MinatoFumituki/status/2123220444010659915</link>
       <description>文月みなと＠3日目(東7)B37a: （メモ）Chromeの右クリックのGeminiに相談を消す方法 ブラウザで chrome :// flags にアクセス→「glic」を探して無効(Disabled) ブラウザ再起動で消える</description>
@@ -220,13 +227,6 @@
       <description>tahatthi: Linux版のChromeの chrome :// flags / の設定で 「Geminiに相談」ボタンが使えるようになるんなら、 Brave でも行けるか？と思って chrome :// flags / 見てみたら項目はあって Enabled にしてみたが表示されず・・・</description>
       <pubDate>Thu, 22 Oct 2026 10:00:36 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tahatthi/status/2113208895976190066</guid>
-    </item>
-    <item>
-      <title>最近急にブラウザ上で動画とかスクショとか chromeだけ色が飛ぶようになった人は以下をお試しください。 カラープロファイルの強制変更アドレスバーに chrome :// flags /#force-color-profile と入力してEnterを押す。 項目を「sRGB」などに変更する。 下部の「Relaunch」を押してChromeを再起動する。</title>
-      <link>https://x.com/RUsaginee3/status/2112926609053540696</link>
-      <description>うさぎ姉さん（サブ・日常用アカウント）シャドウバンがいつの間にか解除されてました💦: 最近急にブラウザ上で動画とかスクショとか chromeだけ色が飛ぶようになった人は以下をお試しください。 カラープロファイルの強制変更アドレスバーに chrome :// flags /#force-color-profile と入力してEnterを押す。 項目を「sRGB」などに変更する。 下部の「Relaunch」を押してChromeを再起動する。</description>
-      <pubDate>Wed, 21 Oct 2026 15:18:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/RUsaginee3/status/2112926609053540696</guid>
     </item>
     <item>
       <title>ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</title>
