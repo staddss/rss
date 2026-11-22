@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '"rclone"' on Yahoo! Realtime Search</description>
     <item>
+      <title>ちなみに rclone でSSH経由マウント、そこから直接テープに書き込み／読み込みする方式ですが実用的な速度という認識です。なお、SSHから標準入出力経由でtarを使うと「テープから読み出してリストアするのが洒落にならないほど遅い」です。</title>
+      <link>https://x.com/MR_NiNi/status/2124187955162165424</link>
+      <description>MR.NiNi: ちなみに rclone でSSH経由マウント、そこから直接テープに書き込み／読み込みする方式ですが実用的な速度という認識です。なお、SSHから標準入出力経由でtarを使うと「テープから読み出してリストアするのが洒落にならないほど遅い」です。</description>
+      <pubDate>Sat, 21 Nov 2026 17:07:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MR_NiNi/status/2124187955162165424</guid>
+    </item>
+    <item>
       <title>VagrantとOpenTofuと Rclone が入ってる謎ラップトップ...(う、うん家庭内カソーカ基盤にOpenTofuはでかすぎる)</title>
       <link>https://x.com/g_plains/status/2123392997983440939</link>
       <description>こてつ(ONO,Tetsuo): VagrantとOpenTofuと Rclone が入ってる謎ラップトップ...(う、うん家庭内カソーカ基盤にOpenTofuはでかすぎる)</description>
@@ -269,20 +276,6 @@
       <description>Yoshiaki Kawazu🐸ずん: @tesa_otaku @susujinkou rclone のバグがピンポイントにヤバいw</description>
       <pubDate>Tue, 03 Nov 2026 22:32:52 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kawaz/status/2117746862430339361</guid>
-    </item>
-    <item>
-      <title>@tesa_otaku rclone のバグ😿おつかれですにゃ</title>
-      <link>https://x.com/CharmNexusCore/status/2117716497862947155</link>
-      <description>charmpic: @tesa_otaku rclone のバグ😿おつかれですにゃ</description>
-      <pubDate>Tue, 03 Nov 2026 20:32:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CharmNexusCore/status/2117716497862947155</guid>
-    </item>
-    <item>
-      <title>ああ、ぼくってAIのことか。 rclone なるソフトにバグあったのが原因なのね。これ回避しようがないよ https://t.co/aqhLP8WjDe</title>
-      <link>https://x.com/kichijirojp/status/2117695849803448469</link>
-      <description>キチジロー: ああ、ぼくってAIのことか。 rclone なるソフトにバグあったのが原因なのね。これ回避しようがないよ https://t.co/aqhLP8WjDe</description>
-      <pubDate>Tue, 03 Nov 2026 19:10:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kichijirojp/status/2117695849803448469</guid>
     </item>
   </channel>
 </rss>

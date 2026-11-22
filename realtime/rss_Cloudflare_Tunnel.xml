@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「 Cloudflare Tunnel ＋Access」を設定してみた https://t.co/ubIDpNcGKm</title>
+      <link>https://x.com/PnktsN/status/2124233447547760737</link>
+      <description>ポンコツ@エンジニア: メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「 Cloudflare Tunnel ＋Access」を設定してみた https://t.co/ubIDpNcGKm</description>
+      <pubDate>Sat, 21 Nov 2026 20:08:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/PnktsN/status/2124233447547760737</guid>
+    </item>
+    <item>
       <title>cloudflare tunnel のデーモン仕込み、公開ドメインでlocalhost指定だけでいいすかね。。 もうipv4外部に直でポート通すのやめようよー。</title>
       <link>https://x.com/brew_th/status/2123619833216680325</link>
       <description>TouFu | とうふ | AIソロプレナー: cloudflare tunnel のデーモン仕込み、公開ドメインでlocalhost指定だけでいいすかね。。 もうipv4外部に直でポート通すのやめようよー。</description>
@@ -269,13 +276,6 @@
       <description>poppen（ぽっぺん）: cloudflare tunnel + application、導線は若干複雑だが、GoogleとかGitHubとかのIdPでWebアプリが防御できるので大変ありがたい</description>
       <pubDate>Wed, 11 Nov 2026 12:46:58 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/poppen/status/2120498517810803139</guid>
-    </item>
-    <item>
-      <title>おお Cloudflare tunnel つかえばIPアドレス晒さずにゲームの鯖に入ってもらったりできるのか それもだけど固定IPじゃなくてもいけるのべんりやね ドメイン取らなきゃなのがアレだけど流石に健全な19歳の学生ならドメインのひとつぐらい持つべきよね</title>
-      <link>https://x.com/_e6d9bb/status/2120472252550721688</link>
-      <description>さぶてみそ: おお Cloudflare tunnel つかえばIPアドレス晒さずにゲームの鯖に入ってもらったりできるのか それもだけど固定IPじゃなくてもいけるのべんりやね ドメイン取らなきゃなのがアレだけど流石に健全な19歳の学生ならドメインのひとつぐらい持つべきよね</description>
-      <pubDate>Wed, 11 Nov 2026 11:02:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_e6d9bb/status/2120472252550721688</guid>
     </item>
   </channel>
 </rss>
