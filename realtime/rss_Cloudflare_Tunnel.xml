@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@umeruma @yohawing 基本的にはTailscaleも使ってる。 Cloudflare Tunnel は、サービスをパブリックインターネットに公開する必要がある場合だけ使う</title>
+      <link>https://x.com/KuritoL/status/2124365879098179689</link>
+      <description>kurito.exe: @umeruma @yohawing 基本的にはTailscaleも使ってる。 Cloudflare Tunnel は、サービスをパブリックインターネットに公開する必要がある場合だけ使う</description>
+      <pubDate>Sun, 22 Nov 2026 04:54:29 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/KuritoL/status/2124365879098179689</guid>
+    </item>
+    <item>
+      <title>@umeruma Cloudflare Tunnel /Access 試してみ？</title>
+      <link>https://x.com/yohawing/status/2124354716591362172</link>
+      <description>yohawing: @umeruma Cloudflare Tunnel /Access 試してみ？</description>
+      <pubDate>Sun, 22 Nov 2026 04:10:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yohawing/status/2124354716591362172</guid>
+    </item>
+    <item>
+      <title>とはいえ、IPv4アドレス全部叩いているような攻撃はくる。 それが嫌だと、上記+ Cloudflare Tunnel で行って、さらにWAF入れる。 さらにトンネル先を特定ディレクトリ以下にすると、まずローカルまで届かなくなる。 個人環境に対してこれを第三者が突破するのはかなり難しい。</title>
+      <link>https://x.com/96sc_/status/2124322191638663494</link>
+      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: とはいえ、IPv4アドレス全部叩いているような攻撃はくる。 それが嫌だと、上記+ Cloudflare Tunnel で行って、さらにWAF入れる。 さらにトンネル先を特定ディレクトリ以下にすると、まずローカルまで届かなくなる。 個人環境に対してこれを第三者が突破するのはかなり難しい。</description>
+      <pubDate>Sun, 22 Nov 2026 02:00:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/96sc_/status/2124322191638663494</guid>
+    </item>
+    <item>
       <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「 Cloudflare Tunnel ＋Access」を設定してみた https://t.co/ubIDpNcGKm</title>
       <link>https://x.com/PnktsN/status/2124233447547760737</link>
       <description>ポンコツ@エンジニア: メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「 Cloudflare Tunnel ＋Access」を設定してみた https://t.co/ubIDpNcGKm</description>
       <pubDate>Sat, 21 Nov 2026 20:08:14 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/PnktsN/status/2124233447547760737</guid>
+    </item>
+    <item>
+      <title>t3 connectだけどtailscaleで繋げるのが禁止になったから 外から使えなくなったんだよなぁ cloudflare tunnel でやろう てかtailscaleもう捨てて cloudflare tunnel 使おうかな全部 うーん色々やりづらい…</title>
+      <link>https://x.com/oujirouu/status/2124065278451650815</link>
+      <description>きりまんじゃろ: t3 connectだけどtailscaleで繋げるのが禁止になったから 外から使えなくなったんだよなぁ cloudflare tunnel でやろう てかtailscaleもう捨てて cloudflare tunnel 使おうかな全部 うーん色々やりづらい…</description>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/oujirouu/status/2124065278451650815</guid>
     </item>
     <item>
       <title>cloudflare tunnel のデーモン仕込み、公開ドメインでlocalhost指定だけでいいすかね。。 もうipv4外部に直でポート通すのやめようよー。</title>
@@ -248,34 +276,6 @@
       <description>さんごワークス｜生成AIで業務自動化: Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</description>
       <pubDate>Thu, 12 Nov 2026 22:09:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sangojpn/status/2121002572047880372</guid>
-    </item>
-    <item>
-      <title>なんか最近我が家のルーターの調子が悪い そして、 cloudflare tunnel でセルフホストしているサービス(d-party)も流れ弾で落ちる</title>
-      <link>https://x.com/U_Not_401/status/2120727323943268504</link>
-      <description>U-Not: なんか最近我が家のルーターの調子が悪い そして、 cloudflare tunnel でセルフホストしているサービス(d-party)も流れ弾で落ちる</description>
-      <pubDate>Thu, 12 Nov 2026 03:56:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/U_Not_401/status/2120727323943268504</guid>
-    </item>
-    <item>
-      <title>@yomiplush @Cloudflare そう、まさに使い魔だね。公開URL避けて Cloudflare Tunnel や自分専用アクセスに絞れば、e2-micro無料枠＋月$10クレジット内で常時起動の個人サーバーになる。トラフィック抑えれば余裕で回るよ。</title>
-      <link>https://x.com/grok/status/2120697364390219786</link>
-      <description>Grok: @yomiplush @Cloudflare そう、まさに使い魔だね。公開URL避けて Cloudflare Tunnel や自分専用アクセスに絞れば、e2-micro無料枠＋月$10クレジット内で常時起動の個人サーバーになる。トラフィック抑えれば余裕で回るよ。</description>
-      <pubDate>Thu, 12 Nov 2026 01:57:06 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2120697364390219786</guid>
-    </item>
-    <item>
-      <title>T3 Codeなかなかよいなー。自宅に常時起動してるMac miniにT3 Codeをインストールして、リモートからClaude Code、Codexを使えて便利。Tailscaleも併用するつもりだったけど、 Cloudflare Tunnel 自動ではられててびっくりした</title>
-      <link>https://x.com/nikuyoshi/status/2120520642911211575</link>
-      <description>Hiroki Uchida: T3 Codeなかなかよいなー。自宅に常時起動してるMac miniにT3 Codeをインストールして、リモートからClaude Code、Codexを使えて便利。Tailscaleも併用するつもりだったけど、 Cloudflare Tunnel 自動ではられててびっくりした</description>
-      <pubDate>Wed, 11 Nov 2026 14:14:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nikuyoshi/status/2120520642911211575</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel + application、導線は若干複雑だが、GoogleとかGitHubとかのIdPでWebアプリが防御できるので大変ありがたい</title>
-      <link>https://x.com/poppen/status/2120498517810803139</link>
-      <description>poppen（ぽっぺん）: cloudflare tunnel + application、導線は若干複雑だが、GoogleとかGitHubとかのIdPでWebアプリが防御できるので大変ありがたい</description>
-      <pubDate>Wed, 11 Nov 2026 12:46:58 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/poppen/status/2120498517810803139</guid>
     </item>
   </channel>
 </rss>

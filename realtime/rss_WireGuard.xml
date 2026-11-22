@@ -5,6 +5,48 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>久々にサーバー触る VPSと繋がらんくなってたから調べたらVPS側の wireguard が死んでた 無事復旧！</title>
+      <link>https://x.com/shiramines/status/2124419831000977653</link>
+      <description>しらみね: 久々にサーバー触る VPSと繋がらんくなってたから調べたらVPS側の wireguard が死んでた 無事復旧！</description>
+      <pubDate>Sun, 22 Nov 2026 08:28:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shiramines/status/2124419831000977653</guid>
+    </item>
+    <item>
+      <title>AIの出力（記録）を obsidian 記法で vault にもlink するように設定しているので、記憶力が壊滅的である老化した脳でもなんとかなっている。 wireguard network 内でweb公開しているので、どこの拠点からも継続作業できる。</title>
+      <link>https://x.com/gratice_jp/status/2124386815130136905</link>
+      <description>格瑞斯科技 et al.: AIの出力（記録）を obsidian 記法で vault にもlink するように設定しているので、記憶力が壊滅的である老化した脳でもなんとかなっている。 wireguard network 内でweb公開しているので、どこの拠点からも継続作業できる。</description>
+      <pubDate>Sun, 22 Nov 2026 06:17:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gratice_jp/status/2124386815130136905</guid>
+    </item>
+    <item>
+      <title>今までDocker上に構築してた WireGuard サーバーをTrueNASのアプリに移行したらかなり速くなった（CPUはPentium G620だけど、ネット速度に対してまあ十分な感じ） https://t.co/SrEhPljIxd</title>
+      <link>https://x.com/xaibis/status/2124364799031300601</link>
+      <description>あいびす: 今までDocker上に構築してた WireGuard サーバーをTrueNASのアプリに移行したらかなり速くなった（CPUはPentium G620だけど、ネット速度に対してまあ十分な感じ） https://t.co/SrEhPljIxd</description>
+      <pubDate>Sun, 22 Nov 2026 04:50:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xaibis/status/2124364799031300601</guid>
+    </item>
+    <item>
+      <title>中華圏て WireGuard は普通にブロックされがちなので難読化必須なんか。たぶんあの国はそこまで検閲厳しくないが、、、 Starlink 側でブロックしようと思えば簡単にできるだろうなあ。</title>
+      <link>https://x.com/roaminflow/status/2124338396978196849</link>
+      <description>ひもなし: 中華圏て WireGuard は普通にブロックされがちなので難読化必須なんか。たぶんあの国はそこまで検閲厳しくないが、、、 Starlink 側でブロックしようと思えば簡単にできるだろうなあ。</description>
+      <pubDate>Sun, 22 Nov 2026 03:05:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/roaminflow/status/2124338396978196849</guid>
+    </item>
+    <item>
+      <title>@miyayu_jp 初期に wireguard (not tailscale)で進めようとしたらダメといわれてclaudflare使えない？といったらイロイロできるようになりました。</title>
+      <link>https://x.com/nanase_oikawa/status/2124328817766633478</link>
+      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: @miyayu_jp 初期に wireguard (not tailscale)で進めようとしたらダメといわれてclaudflare使えない？といったらイロイロできるようになりました。</description>
+      <pubDate>Sun, 22 Nov 2026 02:27:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2124328817766633478</guid>
+    </item>
+    <item>
+      <title>@Jerry_Galaxy 用火箭里的 wireguard ，自主可控。</title>
+      <link>https://x.com/idevnul/status/2124110696631935476</link>
+      <description>/dev/null: @Jerry_Galaxy 用火箭里的 wireguard ，自主可控。</description>
+      <pubDate>Sat, 21 Nov 2026 12:00:28 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/idevnul/status/2124110696631935476</guid>
+    </item>
+    <item>
       <title>@markun_Dh そのあ同じショートカットでTailscaleに戻せばいいんじゃない？うちも Wireguard のProtonに直してる</title>
       <link>https://x.com/L_port8080/status/2124083488152498182</link>
       <description>一樹（第二拠点）: @markun_Dh そのあ同じショートカットでTailscaleに戻せばいいんじゃない？うちも Wireguard のProtonに直してる</description>
@@ -234,48 +276,6 @@
       <description>理念なき政治: Androidautoに対応するためにQVPNから WireGuard にした</description>
       <pubDate>Sun, 15 Nov 2026 08:11:04 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/seiji_l2r/status/2121878639692435634</guid>
-    </item>
-    <item>
-      <title>実家の wireguard が突然動かなくなって焦ったけど、クライアントを増やした際にうっかりAllowedIPsのネットマスクを書き間違えたせいだった…😅 サブのサーバがあって助かった〜☺️</title>
-      <link>https://x.com/dothiko_diy/status/2121858641242558613</link>
-      <description>モブ沢(電子): 実家の wireguard が突然動かなくなって焦ったけど、クライアントを増やした際にうっかりAllowedIPsのネットマスクを書き間違えたせいだった…😅 サブのサーバがあって助かった〜☺️</description>
-      <pubDate>Sun, 15 Nov 2026 06:51:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/dothiko_diy/status/2121858641242558613</guid>
-    </item>
-    <item>
-      <title>ここまで Tailscale の便利機能避けまくってるのに自前で Wireguard 扱うまではしてないのおもろい #jisabakan</title>
-      <link>https://x.com/asa_high_ost/status/2121846127985320180</link>
-      <description>asa1984: ここまで Tailscale の便利機能避けまくってるのに自前で Wireguard 扱うまではしてないのおもろい #jisabakan</description>
-      <pubDate>Sun, 15 Nov 2026 06:01:53 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/asa_high_ost/status/2121846127985320180</guid>
-    </item>
-    <item>
-      <title>コア機能は dhcp:kea-dhcp dns:unbound git:gitea vpn: wireguard 本番TalosLinux nextcloud zabbix grafana ngirc/znc/lounge searXMG MCP server/Openclaw</title>
-      <link>https://x.com/tanrakukairo/status/2121789681105015136</link>
-      <description>T2-F⋈短絡回路: コア機能は dhcp:kea-dhcp dns:unbound git:gitea vpn: wireguard 本番TalosLinux nextcloud zabbix grafana ngirc/znc/lounge searXMG MCP server/Openclaw</description>
-      <pubDate>Sun, 15 Nov 2026 02:17:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanrakukairo/status/2121789681105015136</guid>
-    </item>
-    <item>
-      <title>やはり、素の WireGuard 強しという</title>
-      <link>https://x.com/bkenro/status/2121679030592434391</link>
-      <description>bkenro: やはり、素の WireGuard 強しという</description>
-      <pubDate>Sat, 14 Nov 2026 18:57:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bkenro/status/2121679030592434391</guid>
-    </item>
-    <item>
-      <title>@snomono_sho 面白い。 副回線で wireguard 張ったりもありなのかな？</title>
-      <link>https://x.com/nanase_oikawa/status/2121587066018676744</link>
-      <description>及川七瀬🦊ネットワーク基礎系Vtuber準備中: @snomono_sho 面白い。 副回線で wireguard 張ったりもありなのかな？</description>
-      <pubDate>Sat, 14 Nov 2026 12:52:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nanase_oikawa/status/2121587066018676744</guid>
-    </item>
-    <item>
-      <title>ありがとう WireGuard 、ありがとう……</title>
-      <link>https://x.com/ginpei_jp/status/2121541177375965460</link>
-      <description>高梨ギンペイ: ありがとう WireGuard 、ありがとう……</description>
-      <pubDate>Sat, 14 Nov 2026 09:50:07 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ginpei_jp/status/2121541177375965460</guid>
     </item>
   </channel>
 </rss>
