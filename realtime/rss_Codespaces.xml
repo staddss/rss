@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '"Codespaces"' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】結論先出し： Codespaces / Gitpod / Cloud9、どれを選ぶべきか？（コスト・セキュリティ・運用負荷で判断） https://t.co/T5BcnlQTtB #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2124657030166094316</link>
+      <description>EngiNear: 【新着記事】結論先出し： Codespaces / Gitpod / Cloud9、どれを選ぶべきか？（コスト・セキュリティ・運用負荷で判断） https://t.co/T5BcnlQTtB #エンジニア #ChatGPT #AI</description>
+      <pubDate>Mon, 23 Nov 2026 00:11:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2124657030166094316</guid>
+    </item>
+    <item>
       <title>【新着記事】クラウドIDEの最短選定ガイド： Codespaces ・Gitpod・Cloud9 の実務比較と15分PoC手順 https://t.co/ki3Kqv8J11 #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2124355065951437008</link>
       <description>EngiNear: 【新着記事】クラウドIDEの最短選定ガイド： Codespaces ・Gitpod・Cloud9 の実務比較と15分PoC手順 https://t.co/ki3Kqv8J11 #エンジニア #ChatGPT #AI</description>
@@ -17,6 +24,13 @@
       <description>EngiNear: 【新着記事】クラウドIDE比較レビュー：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適解と導入テンプレ付き https://t.co/CSmlmL5uY7 #エンジニア #ChatGPT #AI</description>
       <pubDate>Sun, 22 Nov 2026 00:06:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2124293405828141323</guid>
+    </item>
+    <item>
+      <title>GitHubのアカウントだけで無料の開発マシンが持てます。 Codespaces は月120コア時間まで無料（2コア機なら月60時間）。無操作30分で自動停止するので、置きっぱなしの常駐サーバーにはなりません。</title>
+      <link>https://x.com/shao26ia/status/2124125118733680877</link>
+      <description>星奈⭐: GitHubのアカウントだけで無料の開発マシンが持てます。 Codespaces は月120コア時間まで無料（2コア機なら月60時間）。無操作30分で自動停止するので、置きっぱなしの常駐サーバーにはなりません。</description>
+      <pubDate>Sat, 21 Nov 2026 12:57:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/shao26ia/status/2124125118733680877</guid>
     </item>
     <item>
       <title>【新着記事】クラウドIDEの最短回答：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方と導入ポイント（実務PoC付き） https://t.co/4Xuz9yP1vr #エンジニア #ChatGPT #AI</title>
@@ -262,20 +276,6 @@
       <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces / Gitpod / AWS Cloud9 どれを選ぶべきか（エンジニア向け実務ガイド） https://t.co/VeMZxgv7Xr #エンジニア #ChatGPT #AI</description>
       <pubDate>Sun, 01 Nov 2026 04:36:22 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2116751175324229899</guid>
-    </item>
-    <item>
-      <title>【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適な選び方（性能・コスト・運用観点で比較） https://t.co/Yxq6XQDEVg #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2116387646549233774</link>
-      <description>EngiNear: 【新着記事】結論先出し：GitHub Codespaces ・Gitpod・AWS Cloud9 の最適な選び方（性能・コスト・運用観点で比較） https://t.co/Yxq6XQDEVg #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sat, 31 Oct 2026 04:31:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2116387646549233774</guid>
-    </item>
-    <item>
-      <title>【新着記事】クラウドIDE比較ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方とPoCテンプレート付き https://t.co/ViNanVDQYx #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2116328421387043097</link>
-      <description>EngiNear: 【新着記事】クラウドIDE比較ガイド：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方とPoCテンプレート付き https://t.co/ViNanVDQYx #エンジニア #ChatGPT #AI</description>
-      <pubDate>Sat, 31 Oct 2026 00:36:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2116328421387043097</guid>
     </item>
   </channel>
 </rss>

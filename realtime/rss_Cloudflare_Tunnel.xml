@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@PnktsN VPNもポート開放もせず、 Cloudflare Tunnel とAccessで外出先のHermes Agentから自宅のローカルAIに届くなら、外出時の配線は一段シンプルになる。🛠️</title>
+      <link>https://x.com/BkashJosi/status/2124606171311141213</link>
+      <description>Hermes Super-Intel: @PnktsN VPNもポート開放もせず、 Cloudflare Tunnel とAccessで外出先のHermes Agentから自宅のローカルAIに届くなら、外出時の配線は一段シンプルになる。🛠️</description>
+      <pubDate>Sun, 22 Nov 2026 20:49:19 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/BkashJosi/status/2124606171311141213</guid>
+    </item>
+    <item>
+      <title>さて、Rails で Local 環境で TLS とドメインをどうするかっていうのを考えている。いい加減、 Cloudflare Tunnel + DNS とかで運用しているのは危険だし、どうしたものかな。</title>
+      <link>https://x.com/SeahalJa/status/2124488341072867811</link>
+      <description>SEAHAL(Ja): さて、Rails で Local 環境で TLS とドメインをどうするかっていうのを考えている。いい加減、 Cloudflare Tunnel + DNS とかで運用しているのは危険だし、どうしたものかな。</description>
+      <pubDate>Sun, 22 Nov 2026 13:01:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/SeahalJa/status/2124488341072867811</guid>
+    </item>
+    <item>
+      <title>これも cloudflare tunnel と accessで公開</title>
+      <link>https://x.com/thisissuree/status/2124388042387701904</link>
+      <description>さとだい: これも cloudflare tunnel と accessで公開</description>
+      <pubDate>Sun, 22 Nov 2026 06:22:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/thisissuree/status/2124388042387701904</guid>
+    </item>
+    <item>
       <title>@umeruma @yohawing 基本的にはTailscaleも使ってる。 Cloudflare Tunnel は、サービスをパブリックインターネットに公開する必要がある場合だけ使う</title>
       <link>https://x.com/KuritoL/status/2124365879098179689</link>
       <description>kurito.exe: @umeruma @yohawing 基本的にはTailscaleも使ってる。 Cloudflare Tunnel は、サービスをパブリックインターネットに公開する必要がある場合だけ使う</description>
@@ -255,27 +276,6 @@
       <description>Taisho🇵🇭Outlander: ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</description>
       <pubDate>Fri, 13 Nov 2026 09:43:46 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Taisho_Now/status/2121177190092173714</guid>
-    </item>
-    <item>
-      <title>@siokara_siomi Cloudflare Tunnel とか使えば固定IPすらいらないかも...？</title>
-      <link>https://x.com/nijiurachan/status/2121144879086706922</link>
-      <description>あいもげ公式: @siokara_siomi Cloudflare Tunnel とか使えば固定IPすらいらないかも...？</description>
-      <pubDate>Fri, 13 Nov 2026 07:35:22 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/nijiurachan/status/2121144879086706922</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 2026.11.0でingressルールのURL正規化が拡張され、セミコロン区切りパスが処理対象に。転送パスは変えずAccess照合を改善します。既定有効化は2027年2月8日へ延期。注意点を整理。 https://t.co/ghxQtBcUJF</title>
-      <link>https://x.com/superdoccimo/status/2121091925469958631</link>
-      <description>美濃加茂まむ: Cloudflare Tunnel 2026.11.0でingressルールのURL正規化が拡張され、セミコロン区切りパスが処理対象に。転送パスは変えずAccess照合を改善します。既定有効化は2027年2月8日へ延期。注意点を整理。 https://t.co/ghxQtBcUJF</description>
-      <pubDate>Fri, 13 Nov 2026 04:04:57 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/superdoccimo/status/2121091925469958631</guid>
-    </item>
-    <item>
-      <title>Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</title>
-      <link>https://x.com/sangojpn/status/2121002572047880372</link>
-      <description>さんごワークス｜生成AIで業務自動化: Releasebot更新：39件 2026年11月11〜12日前後の更新として、Gemini 4 Hydrogenの一般提供、AntigravityやGemini Enterprise… 注目：Antigravity v2.31.1: WindowsのGemini Enterpriseサインインを修正 / Cloudflare Tunnel のURL… #Releasebot #ソフトウェア更新 https://t.co/ycP2yzhOLK</description>
-      <pubDate>Thu, 12 Nov 2026 22:09:54 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sangojpn/status/2121002572047880372</guid>
     </item>
   </channel>
 </rss>

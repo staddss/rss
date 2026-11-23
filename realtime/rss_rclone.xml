@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '"rclone"' on Yahoo! Realtime Search</description>
     <item>
+      <title>夜活朝活 MoonblasterでOPLL/Y8950音源堪能。その他ホビパソコン3の32bitLinuxで rclone セットアップしてDropbox接続。もはやブラウザでGUIログインできないので最後の命綱。スマホ、ノーパソ間のデータ連携ひとまず完成。これで外出先でもThinkPadで生きていける。</title>
+      <link>https://x.com/kumokosi/status/2124288649596653785</link>
+      <description>KUMO: 夜活朝活 MoonblasterでOPLL/Y8950音源堪能。その他ホビパソコン3の32bitLinuxで rclone セットアップしてDropbox接続。もはやブラウザでGUIログインできないので最後の命綱。スマホ、ノーパソ間のデータ連携ひとまず完成。これで外出先でもThinkPadで生きていける。</description>
+      <pubDate>Sat, 21 Nov 2026 23:47:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/kumokosi/status/2124288649596653785</guid>
+    </item>
+    <item>
       <title>ちなみに rclone でSSH経由マウント、そこから直接テープに書き込み／読み込みする方式ですが実用的な速度という認識です。なお、SSHから標準入出力経由でtarを使うと「テープから読み出してリストアするのが洒落にならないほど遅い」です。</title>
       <link>https://x.com/MR_NiNi/status/2124187955162165424</link>
       <description>MR.NiNi: ちなみに rclone でSSH経由マウント、そこから直接テープに書き込み／読み込みする方式ですが実用的な速度という認識です。なお、SSHから標準入出力経由でtarを使うと「テープから読み出してリストアするのが洒落にならないほど遅い」です。</description>
@@ -269,13 +276,6 @@
       <description>🚭️どなつ🚭️: ちゃんと謝れて偉い👏 そもそも rclone のバグが致命的すぎてちょっと同情する https://t.co/oyZ0XsiAOw</description>
       <pubDate>Tue, 03 Nov 2026 23:11:07 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/doughnut_777/status/2117756487422693456</guid>
-    </item>
-    <item>
-      <title>@tesa_otaku @susujinkou rclone のバグがピンポイントにヤバいw</title>
-      <link>https://x.com/kawaz/status/2117746862430339361</link>
-      <description>Yoshiaki Kawazu🐸ずん: @tesa_otaku @susujinkou rclone のバグがピンポイントにヤバいw</description>
-      <pubDate>Tue, 03 Nov 2026 22:32:52 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kawaz/status/2117746862430339361</guid>
     </item>
   </channel>
 </rss>
