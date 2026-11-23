@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>3連休で自宅サーバーを再構築した！！ 運用は全部 Hermes Agent にお任せの形になったぞ〜 ほぼ何も触らずに、文字で指示するだけでサービスが立つのは強い…w DMZ・内部・LAN の分離も、CT ごとの FW も全部指示だけ。 外部公開は Cloudflare Tunnel のみ！ ちなみに OS のインストールから全部</title>
+      <link>https://x.com/ynaoHYDE/status/2124792762520461511</link>
+      <description>ynaoHYDE@香川: 3連休で自宅サーバーを再構築した！！ 運用は全部 Hermes Agent にお任せの形になったぞ〜 ほぼ何も触らずに、文字で指示するだけでサービスが立つのは強い…w DMZ・内部・LAN の分離も、CT ごとの FW も全部指示だけ。 外部公開は Cloudflare Tunnel のみ！ ちなみに OS のインストールから全部</description>
+      <pubDate>Mon, 23 Nov 2026 09:10:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ynaoHYDE/status/2124792762520461511</guid>
+    </item>
+    <item>
+      <title>KamalとEC2（egress only）と Cloudflare Tunnel で十分やね</title>
+      <link>https://x.com/teslur/status/2124775505455173701</link>
+      <description>深堀哲史（育休）: KamalとEC2（egress only）と Cloudflare Tunnel で十分やね</description>
+      <pubDate>Mon, 23 Nov 2026 08:02:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/teslur/status/2124775505455173701</guid>
+    </item>
+    <item>
+      <title>構成です。 LINE → Cloudflare Tunnel → Mac mini上の受信サーバー（署名検証つき）→ 受信箱に記録 Museは60秒ごとに受信箱を見に行き、呼びかけられた発言にだけPush APIで返信します。LINEの長期トークンはサーバーの外に出さず、Muse側の合言葉は鍵ボックス（Secure Vault）保管です。</title>
+      <link>https://x.com/poporacchi/status/2124765938340020482</link>
+      <description>poporacchi: 構成です。 LINE → Cloudflare Tunnel → Mac mini上の受信サーバー（署名検証つき）→ 受信箱に記録 Museは60秒ごとに受信箱を見に行き、呼びかけられた発言にだけPush APIで返信します。LINEの長期トークンはサーバーの外に出さず、Muse側の合言葉は鍵ボックス（Secure Vault）保管です。</description>
+      <pubDate>Mon, 23 Nov 2026 07:24:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/poporacchi/status/2124765938340020482</guid>
+    </item>
+    <item>
+      <title>@poporacchi Cloudflare Tunnel でポート開放なしに公開できるの、ほんと便利ですよね〜入口にZero Trust置く発想も勉強になります！</title>
+      <link>https://x.com/ciallohana/status/2124696912922308863</link>
+      <description>Aurelia: @poporacchi Cloudflare Tunnel でポート開放なしに公開できるの、ほんと便利ですよね〜入口にZero Trust置く発想も勉強になります！</description>
+      <pubDate>Mon, 23 Nov 2026 02:49:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ciallohana/status/2124696912922308863</guid>
+    </item>
+    <item>
+      <title>Cloudflare実践シリーズ、最終回を公開しました。 自宅サーバーを、ルーターのポート開放なしで公開し、手前に「自分のメールアドレスだけ通す門番」を置く話です。 みなさんは自宅サーバー、公開していますか。している方は、入口の守りはどうしていますか。 【 Cloudflare 】 Tunnel × Zero Trust</title>
+      <link>https://x.com/poporacchi/status/2124681898320691296</link>
+      <description>poporacchi: Cloudflare実践シリーズ、最終回を公開しました。 自宅サーバーを、ルーターのポート開放なしで公開し、手前に「自分のメールアドレスだけ通す門番」を置く話です。 みなさんは自宅サーバー、公開していますか。している方は、入口の守りはどうしていますか。 【 Cloudflare 】 Tunnel × Zero Trust</description>
+      <pubDate>Mon, 23 Nov 2026 01:50:13 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/poporacchi/status/2124681898320691296</guid>
+    </item>
+    <item>
       <title>@PnktsN VPNもポート開放もせず、 Cloudflare Tunnel とAccessで外出先のHermes Agentから自宅のローカルAIに届くなら、外出時の配線は一段シンプルになる。🛠️</title>
       <link>https://x.com/BkashJosi/status/2124606171311141213</link>
       <description>Hermes Super-Intel: @PnktsN VPNもポート開放もせず、 Cloudflare Tunnel とAccessで外出先のHermes Agentから自宅のローカルAIに届くなら、外出時の配線は一段シンプルになる。🛠️</description>
@@ -241,41 +276,6 @@
       <description>猪口才/cyokozai: Cloudflare Tunnel Ingress Controllerいつもお世話になっております https://t.co/LP2HMPmNNi #jisabakan</description>
       <pubDate>Sun, 15 Nov 2026 05:47:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cyokozai0/status/2121842552282521746</guid>
-    </item>
-    <item>
-      <title>おうちk8sってグローバルIPないとgateway api立てても外からみれないよ〜〜ってあるあるだよな… cloudflare tunnel 張ったりtailscaleで公開したりする、あるある #jisabakan</title>
-      <link>https://x.com/calloc134/status/2121842455603786209</link>
-      <description>かろっく: おうちk8sってグローバルIPないとgateway api立てても外からみれないよ〜〜ってあるあるだよな… cloudflare tunnel 張ったりtailscaleで公開したりする、あるある #jisabakan</description>
-      <pubDate>Sun, 15 Nov 2026 05:47:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/calloc134/status/2121842455603786209</guid>
-    </item>
-    <item>
-      <title>Cloudflare tunnel 使うならマイクラが鬼門かあ</title>
-      <link>https://x.com/oYAs_me/status/2121801761694548449</link>
-      <description>Y-Asなの🈂️: Cloudflare tunnel 使うならマイクラが鬼門かあ</description>
-      <pubDate>Sun, 15 Nov 2026 03:05:35 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/oYAs_me/status/2121801761694548449</guid>
-    </item>
-    <item>
-      <title>電気代の安いarmチップのシングルボードコンピュータを3台くらい買って、k3sをインストール。 Cloudflare tunnel で外部ネットと繋げることによって、気が向いたときにいつでもデプロイのできるマイkubenetes環境が欲しい</title>
-      <link>https://x.com/aa_kunda/status/2121515489801507027</link>
-      <description>あぁくん: 電気代の安いarmチップのシングルボードコンピュータを3台くらい買って、k3sをインストール。 Cloudflare tunnel で外部ネットと繋げることによって、気が向いたときにいつでもデプロイのできるマイkubenetes環境が欲しい</description>
-      <pubDate>Sat, 14 Nov 2026 08:08:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/aa_kunda/status/2121515489801507027</guid>
-    </item>
-    <item>
-      <title>カスタムGPTのサ終するのでMuseちゃんに移行 MCPだから誰でもいいけど トークン余りがちだし無料だし ランニングコストは電気代とドメイン代だけなのが良き Muse AI → Cloudflare Access → Cloudflare Tunnel → MCP → API → PostgreSQL→Webフロントエンド https://t.co/l0ZmPlni6g https://t.co/PBi0FTulhG</title>
-      <link>https://x.com/tun254mm/status/2121469186778214675</link>
-      <description>おにぎり: カスタムGPTのサ終するのでMuseちゃんに移行 MCPだから誰でもいいけど トークン余りがちだし無料だし ランニングコストは電気代とドメイン代だけなのが良き Muse AI → Cloudflare Access → Cloudflare Tunnel → MCP → API → PostgreSQL→Webフロントエンド https://t.co/l0ZmPlni6g https://t.co/PBi0FTulhG</description>
-      <pubDate>Sat, 14 Nov 2026 05:04:03 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tun254mm/status/2121469186778214675</guid>
-    </item>
-    <item>
-      <title>ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</title>
-      <link>https://x.com/Taisho_Now/status/2121177190092173714</link>
-      <description>Taisho🇵🇭Outlander: ローカルAIサーバー、IPv4のインバウンド接続が通らず、ルーターのポート開放や回線側の制約に悩まされていましたが、 Cloudflare Tunnel の導入でなんとか解決。 既存のWindows AIサーバーを維持したまま、IPv4・IPv6の両方からアクセスできるように。 HTTPS、個別認証、Chat、RAGも動作確認済み。</description>
-      <pubDate>Fri, 13 Nov 2026 09:43:46 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Taisho_Now/status/2121177190092173714</guid>
     </item>
   </channel>
 </rss>
