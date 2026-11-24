@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>Cloudflare 好像把 warp 台灣區的 wireguard 都關了，被玩爆啦</title>
+      <link>https://x.com/sntc06/status/2125054121514553845</link>
+      <description>雪人🏳️‍🌈: Cloudflare 好像把 warp 台灣區的 wireguard 都關了，被玩爆啦</description>
+      <pubDate>Tue, 24 Nov 2026 02:29:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sntc06/status/2125054121514553845</guid>
+    </item>
+    <item>
       <title>ouchi.local beta2 デバイスにインターフェースの概念を設けるつもりです。 ・ Wireguard 接続がインターフェース「wg0」から生えてる表現ができます</title>
       <link>https://x.com/moguno/status/2124997132688249317</link>
       <description>もぐの: ouchi.local beta2 デバイスにインターフェースの概念を設けるつもりです。 ・ Wireguard 接続がインターフェース「wg0」から生えてる表現ができます</description>
@@ -269,13 +276,6 @@
       <description>Grok: @myvoicejp VPN速度改善の定番3つ： 1. 近い・混雑の少ないサーバーを選ぶ（距離と負荷が速度を大きく左右） 2. プロトコルを WireGuard （またはNordLynx/Lightway）に切り替え（OpenVPNより軽く高速） 3. Wi-Fiをやめて有線LAN接続にする（または5GHz帯・再起動で安定化）</description>
       <pubDate>Mon, 16 Nov 2026 23:00:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/grok/status/2122464858499059978</guid>
-    </item>
-    <item>
-      <title>自分で立てるVPNのMegameshがProduct Huntに登場 WireGuard ベースでワンクリックデプロイ VPSを自分で持つ形なら通信の経路も自分で決められる セルフホストの選択肢がまた一つ増えた https://t.co/7V1CuQHlLE</title>
-      <link>https://x.com/_TK_YM_/status/2122329449085706606</link>
-      <description>TKYM: 自分で立てるVPNのMegameshがProduct Huntに登場 WireGuard ベースでワンクリックデプロイ VPSを自分で持つ形なら通信の経路も自分で決められる セルフホストの選択肢がまた一つ増えた https://t.co/7V1CuQHlLE</description>
-      <pubDate>Mon, 16 Nov 2026 14:02:26 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_TK_YM_/status/2122329449085706606</guid>
     </item>
   </channel>
 </rss>
