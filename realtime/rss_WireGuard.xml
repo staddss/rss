@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>FK cloudflare warp wireguard 好像居居了耶</title>
+      <link>https://x.com/ADeeeee_tw/status/2125257526648467512</link>
+      <description>ADe@ImNintendog: FK cloudflare warp wireguard 好像居居了耶</description>
+      <pubDate>Tue, 24 Nov 2026 15:57:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ADeeeee_tw/status/2125257526648467512</guid>
+    </item>
+    <item>
+      <title>@user_eight_JP Wireguard にしたら普通に位置指定できる https://t.co/PdKnlPdowN</title>
+      <link>https://x.com/L_port53/status/2125157756453990474</link>
+      <description>一樹（DNS）🇳🇿🤯🍁／📸🗝️🚘: @user_eight_JP Wireguard にしたら普通に位置指定できる https://t.co/PdKnlPdowN</description>
+      <pubDate>Tue, 24 Nov 2026 09:21:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/L_port53/status/2125157756453990474</guid>
+    </item>
+    <item>
       <title>Cloudflare 好像把 warp 台灣區的 wireguard 都關了，被玩爆啦</title>
       <link>https://x.com/sntc06/status/2125054121514553845</link>
       <description>雪人🏳️‍🌈: Cloudflare 好像把 warp 台灣區的 wireguard 都關了，被玩爆啦</description>
@@ -262,20 +276,6 @@
       <description>tana25⌘: @marsdronefpv 何用途にしましょうかねぇ Wireguard の中継かなぁ</description>
       <pubDate>Wed, 18 Nov 2026 03:00:23 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tanasann25/status/2122887615674450410</guid>
-    </item>
-    <item>
-      <title>改めて見ると今の私の環境キモイなぁ メインPCが TplinkAX1800とintel ax201 有線LANはtplink be3600でVR専用ローカル回線 サブpcがRE500Xからlanケーブル 寮のwifiがipすぐ取られてip変わるから wireguard で 外部Vpsにルート作って無理やりやってる WHR-1166DHPにOpenwrt入れたから使い道募集</title>
-      <link>https://x.com/tanasann25/status/2122641127727894552</link>
-      <description>tana25⌘: 改めて見ると今の私の環境キモイなぁ メインPCが TplinkAX1800とintel ax201 有線LANはtplink be3600でVR専用ローカル回線 サブpcがRE500Xからlanケーブル 寮のwifiがipすぐ取られてip変わるから wireguard で 外部Vpsにルート作って無理やりやってる WHR-1166DHPにOpenwrt入れたから使い道募集</description>
-      <pubDate>Tue, 17 Nov 2026 10:40:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanasann25/status/2122641127727894552</guid>
-    </item>
-    <item>
-      <title>@myvoicejp VPN速度改善の定番3つ： 1. 近い・混雑の少ないサーバーを選ぶ（距離と負荷が速度を大きく左右） 2. プロトコルを WireGuard （またはNordLynx/Lightway）に切り替え（OpenVPNより軽く高速） 3. Wi-Fiをやめて有線LAN接続にする（または5GHz帯・再起動で安定化）</title>
-      <link>https://x.com/grok/status/2122464858499059978</link>
-      <description>Grok: @myvoicejp VPN速度改善の定番3つ： 1. 近い・混雑の少ないサーバーを選ぶ（距離と負荷が速度を大きく左右） 2. プロトコルを WireGuard （またはNordLynx/Lightway）に切り替え（OpenVPNより軽く高速） 3. Wi-Fiをやめて有線LAN接続にする（または5GHz帯・再起動で安定化）</description>
-      <pubDate>Mon, 16 Nov 2026 23:00:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2122464858499059978</guid>
     </item>
   </channel>
 </rss>

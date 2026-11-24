@@ -5,11 +5,32 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@nakasyou0 リレー暗号化の整理すごく分かりやすいです。Antigravity向けのMultigravityでは、アプリ層で`mgy-e2ee-v1`（ECDH P-256 + HKDF-SHA256 + AES-256-GCM）を実装し、リレーや Cloudflare Tunnel 経路は暗号文のみ通過・平文はHTTP</title>
+      <link>https://x.com/MultigravityApp/status/2125233903283904784</link>
+      <description>Multigravity: @nakasyou0 リレー暗号化の整理すごく分かりやすいです。Antigravity向けのMultigravityでは、アプリ層で`mgy-e2ee-v1`（ECDH P-256 + HKDF-SHA256 + AES-256-GCM）を実装し、リレーや Cloudflare Tunnel 経路は暗号文のみ通過・平文はHTTP</description>
+      <pubDate>Tue, 24 Nov 2026 14:23:42 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MultigravityApp/status/2125233903283904784</guid>
+    </item>
+    <item>
+      <title>Cloudflare tunnel で、ssh の tunneling と ブラウザ版 ssh を試してみたけど、結構重い。ポート開放できるなら、そっちのほうが速いな。。。セキュリティの問題はあるけど。</title>
+      <link>https://x.com/sakisan_28/status/2125183176058511530</link>
+      <description>Takayuki Iwasaki: Cloudflare tunnel で、ssh の tunneling と ブラウザ版 ssh を試してみたけど、結構重い。ポート開放できるなら、そっちのほうが速いな。。。セキュリティの問題はあるけど。</description>
+      <pubDate>Tue, 24 Nov 2026 11:02:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sakisan_28/status/2125183176058511530</guid>
+    </item>
+    <item>
       <title>@skn_ @Niratama 横入りすみません！ 前に Cloudflare tunnel でやろうとしたら、なぜかmuseがどれだけやっても繋げなかったようでして、、、 いまならできるかもしれません！</title>
       <link>https://x.com/memuringo7544/status/2124975258264564038</link>
       <description>まめ_りんご: @skn_ @Niratama 横入りすみません！ 前に Cloudflare tunnel でやろうとしたら、なぜかmuseがどれだけやっても繋げなかったようでして、、、 いまならできるかもしれません！</description>
       <pubDate>Mon, 23 Nov 2026 21:15:56 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/memuringo7544/status/2124975258264564038</guid>
+    </item>
+    <item>
+      <title>@skn_ ごまはうちなら Cloudflare tunnel でやればいいんじゃねって言ってた</title>
+      <link>https://x.com/Niratama/status/2124891692621042164</link>
+      <description>こばやし 'にらたま' けんいち: @skn_ ごまはうちなら Cloudflare tunnel でやればいいんじゃねって言ってた</description>
+      <pubDate>Mon, 23 Nov 2026 15:43:52 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Niratama/status/2124891692621042164</guid>
     </item>
     <item>
       <title>@ynaoHYDE 3連休で再構築お疲れ様です〜！文字で指示するだけでサービスが立つの、ほんと強いですよね。外部公開は Cloudflare Tunnel のみっていう割り切りも好きです</title>
@@ -255,27 +276,6 @@
       <description>長久 勝: claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</description>
       <pubDate>Mon, 16 Nov 2026 04:38:30 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mnagaku/status/2122187529827000454</guid>
-    </item>
-    <item>
-      <title>@NobMiwa tailscaleや cloudflare tunnel もですよね?個人のアカウントで入れるようにしているtailscaleもカウントするの面倒なのでやめようかな。</title>
-      <link>https://x.com/m3alp/status/2122119944435630140</link>
-      <description>m3alp: @NobMiwa tailscaleや cloudflare tunnel もですよね?個人のアカウントで入れるようにしているtailscaleもカウントするの面倒なのでやめようかな。</description>
-      <pubDate>Mon, 16 Nov 2026 00:09:56 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/m3alp/status/2122119944435630140</guid>
-    </item>
-    <item>
-      <title>Cloudflare tunnel でCMS公開タスクが途中だった</title>
-      <link>https://x.com/SlimeSmileLimes/status/2122109640607715529</link>
-      <description>らっさょ💧😃🍋‍🟩: Cloudflare tunnel でCMS公開タスクが途中だった</description>
-      <pubDate>Sun, 15 Nov 2026 23:28:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/SlimeSmileLimes/status/2122109640607715529</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel 使ってみてるけどコレ怖いなあ 誰でも自宅鯖へアクセス可能になって脆弱性突かれたら家の中触り放題で泣き tailscaleの方が良かったか</title>
-      <link>https://x.com/waku_25/status/2121952629383373071</link>
-      <description>￰わっくん: cloudflare tunnel 使ってみてるけどコレ怖いなあ 誰でも自宅鯖へアクセス可能になって脆弱性突かれたら家の中触り放題で泣き tailscaleの方が良かったか</description>
-      <pubDate>Sun, 15 Nov 2026 13:05:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/waku_25/status/2121952629383373071</guid>
     </item>
   </channel>
 </rss>
