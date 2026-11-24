@@ -4,9 +4,6 @@ name: exec_hourRss
 
 # Controls when the workflow will run
 on:
-  schedule:
-    - cron: "7 * * * *"
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
