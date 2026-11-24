@@ -5,6 +5,41 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>ouchi.local beta2 デバイスにインターフェースの概念を設けるつもりです。 ・ Wireguard 接続がインターフェース「wg0」から生えてる表現ができます</title>
+      <link>https://x.com/moguno/status/2124997132688249317</link>
+      <description>もぐの: ouchi.local beta2 デバイスにインターフェースの概念を設けるつもりです。 ・ Wireguard 接続がインターフェース「wg0」から生えてる表現ができます</description>
+      <pubDate>Mon, 23 Nov 2026 22:42:51 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/moguno/status/2124997132688249317</guid>
+    </item>
+    <item>
+      <title>自宅ラボ接続用のモバイルルーターを構築した。 ・機材は GL.iNet GL-E750V2 ・モバイル回線で自宅ラボに WireGuard 接続 ・LAN内に VIP作って自宅ラボ内の検証環境に DNAT ・管理画面の port 80 を外して、代わりに自宅ラボ一覧ページを表示 これでいつでもどこでも自宅ラボにアクセスできる。</title>
+      <link>https://x.com/wata2candy/status/2124902014455038066</link>
+      <description>Kohei Sato: 自宅ラボ接続用のモバイルルーターを構築した。 ・機材は GL.iNet GL-E750V2 ・モバイル回線で自宅ラボに WireGuard 接続 ・LAN内に VIP作って自宅ラボ内の検証環境に DNAT ・管理画面の port 80 を外して、代わりに自宅ラボ一覧ページを表示 これでいつでもどこでも自宅ラボにアクセスできる。</description>
+      <pubDate>Mon, 23 Nov 2026 16:24:53 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/wata2candy/status/2124902014455038066</guid>
+    </item>
+    <item>
+      <title>rexのinvitationが通ったのでtailscaleを通して通信してみたがオテガルすぎてひっくり返った。 WireGuard プロトコルを使っているらしいがとにかく簡単過ぎる。 すごいわこれ。</title>
+      <link>https://x.com/techneconn/status/2124873082108297388</link>
+      <description>テク猫: rexのinvitationが通ったのでtailscaleを通して通信してみたがオテガルすぎてひっくり返った。 WireGuard プロトコルを使っているらしいがとにかく簡単過ぎる。 すごいわこれ。</description>
+      <pubDate>Mon, 23 Nov 2026 14:29:55 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/techneconn/status/2124873082108297388</guid>
+    </item>
+    <item>
+      <title>@Arclight_Vale_R @qihang_zeng6688 実際は個人がIANA/RIRに直接嫌われることはほぼなく、ISP経由で割り当てる仕組みだ。嫌われても別ISPや国で取れる。 アイデア： ・Yggdrasilやcjdnsなど暗号鍵からアドレスを生成するオーバーレイ網（IANA不要で接続可能） ・ WireGuard /VPNで既存IPを共有 ・Tor/I2Pで匿名接続</title>
+      <link>https://x.com/grok/status/2124870466191991054</link>
+      <description>Grok: @Arclight_Vale_R @qihang_zeng6688 実際は個人がIANA/RIRに直接嫌われることはほぼなく、ISP経由で割り当てる仕組みだ。嫌われても別ISPや国で取れる。 アイデア： ・Yggdrasilやcjdnsなど暗号鍵からアドレスを生成するオーバーレイ網（IANA不要で接続可能） ・ WireGuard /VPNで既存IPを共有 ・Tor/I2Pで匿名接続</description>
+      <pubDate>Mon, 23 Nov 2026 14:19:31 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/grok/status/2124870466191991054</guid>
+    </item>
+    <item>
+      <title>@Youto_0214 OCIのFreeTierで無料で利用できるVCNに WireGuard 建てるのもおすすめ</title>
+      <link>https://x.com/xkf_dev/status/2124768435691458711</link>
+      <description>けーえふ (xkf_): @Youto_0214 OCIのFreeTierで無料で利用できるVCNに WireGuard 建てるのもおすすめ</description>
+      <pubDate>Mon, 23 Nov 2026 07:34:06 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/xkf_dev/status/2124768435691458711</guid>
+    </item>
+    <item>
       <title>@mikoto2000 そうです！ 携帯側にもアプリ導入して WireGuard 経由でアクセスさせて操作できるようにしております。</title>
       <link>https://x.com/Astrisk_/status/2124465647736557806</link>
       <description>たっけん@あすた🍃🌸🦊: @mikoto2000 そうです！ 携帯側にもアプリ導入して WireGuard 経由でアクセスさせて操作できるようにしております。</description>
@@ -241,41 +276,6 @@
       <description>TKYM: 自分で立てるVPNのMegameshがProduct Huntに登場 WireGuard ベースでワンクリックデプロイ VPSを自分で持つ形なら通信の経路も自分で決められる セルフホストの選択肢がまた一つ増えた https://t.co/7V1CuQHlLE</description>
       <pubDate>Mon, 16 Nov 2026 14:02:26 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/_TK_YM_/status/2122329449085706606</guid>
-    </item>
-    <item>
-      <title>ShadowSocksとか WireGuard も金盾ダメなんだ</title>
-      <link>https://x.com/xduxduxduxdux/status/2122279840904815013</link>
-      <description>✠: ShadowSocksとか WireGuard も金盾ダメなんだ</description>
-      <pubDate>Mon, 16 Nov 2026 10:45:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/xduxduxduxdux/status/2122279840904815013</guid>
-    </item>
-    <item>
-      <title>WireGuard の設定ようやく理解した</title>
-      <link>https://x.com/seiji_l2r/status/2122245626041938215</link>
-      <description>理念なき政治: WireGuard の設定ようやく理解した</description>
-      <pubDate>Mon, 16 Nov 2026 08:29:21 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/seiji_l2r/status/2122245626041938215</guid>
-    </item>
-    <item>
-      <title>@A05s_Mom ラズパイ使うくらいだったら、 WireGuard 専用のを買った方が安定するかと。この辺とか。電源とネットのケーブル使えるだけで良いはず。https://t.co/tbNSEHPlf6</title>
-      <link>https://x.com/honten/status/2122136731038433327</link>
-      <description>Naoko Manchun Milky Naomi🏊: @A05s_Mom ラズパイ使うくらいだったら、 WireGuard 専用のを買った方が安定するかと。この辺とか。電源とネットのケーブル使えるだけで良いはず。https://t.co/tbNSEHPlf6</description>
-      <pubDate>Mon, 16 Nov 2026 01:16:38 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/honten/status/2122136731038433327</guid>
-    </item>
-    <item>
-      <title>@gigaonion L2ぶんどってルーティングする時点でiptablesあたりに専用のルールブチ込んだりする点では一緒のように思う。 カーネル空間で動かせるっていったって、別に通信自体は Wireguard トンネルなのでスループットやレイテンシに大差はないはずだし、デーモンが強い権限で動くならどちらかというとリスクでは。</title>
-      <link>https://x.com/sashisashi569/status/2121949628220477767</link>
-      <description>sashisashi: @gigaonion L2ぶんどってルーティングする時点でiptablesあたりに専用のルールブチ込んだりする点では一緒のように思う。 カーネル空間で動かせるっていったって、別に通信自体は Wireguard トンネルなのでスループットやレイテンシに大差はないはずだし、デーモンが強い権限で動くならどちらかというとリスクでは。</description>
-      <pubDate>Sun, 15 Nov 2026 12:53:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sashisashi569/status/2121949628220477767</guid>
-    </item>
-    <item>
-      <title>@Potetsala wireguard あればいらね的な？</title>
-      <link>https://x.com/javagold2/status/2121913482329350500</link>
-      <description>ぽんちゃん@インフラ: @Potetsala wireguard あればいらね的な？</description>
-      <pubDate>Sun, 15 Nov 2026 10:29:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/javagold2/status/2121913482329350500</guid>
     </item>
   </channel>
 </rss>

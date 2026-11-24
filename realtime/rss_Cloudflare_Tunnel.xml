@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@skn_ @Niratama 横入りすみません！ 前に Cloudflare tunnel でやろうとしたら、なぜかmuseがどれだけやっても繋げなかったようでして、、、 いまならできるかもしれません！</title>
+      <link>https://x.com/memuringo7544/status/2124975258264564038</link>
+      <description>まめ_りんご: @skn_ @Niratama 横入りすみません！ 前に Cloudflare tunnel でやろうとしたら、なぜかmuseがどれだけやっても繋げなかったようでして、、、 いまならできるかもしれません！</description>
+      <pubDate>Mon, 23 Nov 2026 21:15:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/memuringo7544/status/2124975258264564038</guid>
+    </item>
+    <item>
+      <title>@ynaoHYDE 3連休で再構築お疲れ様です〜！文字で指示するだけでサービスが立つの、ほんと強いですよね。外部公開は Cloudflare Tunnel のみっていう割り切りも好きです</title>
+      <link>https://x.com/ciallohana/status/2124814646255472782</link>
+      <description>Aurelia: @ynaoHYDE 3連休で再構築お疲れ様です〜！文字で指示するだけでサービスが立つの、ほんと強いですよね。外部公開は Cloudflare Tunnel のみっていう割り切りも好きです</description>
+      <pubDate>Mon, 23 Nov 2026 10:37:43 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ciallohana/status/2124814646255472782</guid>
+    </item>
+    <item>
       <title>3連休で自宅サーバーを再構築した！！ 運用は全部 Hermes Agent にお任せの形になったぞ〜 ほぼ何も触らずに、文字で指示するだけでサービスが立つのは強い…w DMZ・内部・LAN の分離も、CT ごとの FW も全部指示だけ。 外部公開は Cloudflare Tunnel のみ！ ちなみに OS のインストールから全部</title>
       <link>https://x.com/ynaoHYDE/status/2124792762520461511</link>
       <description>ynaoHYDE@香川: 3連休で自宅サーバーを再構築した！！ 運用は全部 Hermes Agent にお任せの形になったぞ〜 ほぼ何も触らずに、文字で指示するだけでサービスが立つのは強い…w DMZ・内部・LAN の分離も、CT ごとの FW も全部指示だけ。 外部公開は Cloudflare Tunnel のみ！ ちなみに OS のインストールから全部</description>
@@ -262,20 +276,6 @@
       <description>￰わっくん: cloudflare tunnel 使ってみてるけどコレ怖いなあ 誰でも自宅鯖へアクセス可能になって脆弱性突かれたら家の中触り放題で泣き tailscaleの方が良かったか</description>
       <pubDate>Sun, 15 Nov 2026 13:05:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/waku_25/status/2121952629383373071</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel 使えば比較的安全にサイト立てられるよなー やってみようかな</title>
-      <link>https://x.com/Tektro0327/status/2121893870883737906</link>
-      <description>Tektro: Cloudflare Tunnel 使えば比較的安全にサイト立てられるよなー やってみようかな</description>
-      <pubDate>Sun, 15 Nov 2026 09:11:36 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/Tektro0327/status/2121893870883737906</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel Ingress Controllerいつもお世話になっております https://t.co/LP2HMPmNNi #jisabakan</title>
-      <link>https://x.com/cyokozai0/status/2121842552282521746</link>
-      <description>猪口才/cyokozai: Cloudflare Tunnel Ingress Controllerいつもお世話になっております https://t.co/LP2HMPmNNi #jisabakan</description>
-      <pubDate>Sun, 15 Nov 2026 05:47:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cyokozai0/status/2121842552282521746</guid>
     </item>
   </channel>
 </rss>

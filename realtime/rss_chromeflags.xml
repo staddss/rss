@@ -215,13 +215,6 @@
       <guid isPermaLink="true">https://x.com/fullmalion/status/2114226427616997733</guid>
     </item>
     <item>
-      <title>Chromeの右クリックメニュー「Geminiに相談する」が検索すると続きで並んでて邪魔やったから chrome :// flags のGlic Context Menu Below SearchをDisabledにすればええかなと思ってたのに結局Glic項目(30個くらい)全オフにするまで消えんかった めっちゃ再起動した笑 https://t.co/sjJRGWyoJL</title>
-      <link>https://x.com/hiroomis/status/2114185320510206132</link>
-      <description>ひろおみ＠🏂⛄❄: Chromeの右クリックメニュー「Geminiに相談する」が検索すると続きで並んでて邪魔やったから chrome :// flags のGlic Context Menu Below SearchをDisabledにすればええかなと思ってたのに結局Glic項目(30個くらい)全オフにするまで消えんかった めっちゃ再起動した笑 https://t.co/sjJRGWyoJL</description>
-      <pubDate>Sun, 25 Oct 2026 02:40:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/hiroomis/status/2114185320510206132</guid>
-    </item>
-    <item>
       <title>ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</title>
       <link>https://x.com/non_de_lion/status/2111939648742408454</link>
       <description>Non･de･lion: ブラウザ版ChromeでGoogleを 新しいタブページにしている場合の AIモードのアクションチップの消し方 1.アドレスバーに chrome :// flags と入力 2.NTP Next Featuresを検索欄で入力 3.選択項目をDisabledに変更 4.右下に表示されたボタンで再起動 ※現状はフラグで消えます ※今後強制になる可能性有り https://t.co/VoeZok1wB4</description>
@@ -241,6 +234,13 @@
       <description>しん: iPhoneのChrome の画面下部に質問のアイコンが表示され使いにくくなった件。元のデザインに戻すには アドレスバーに chrome :// flags / を入力 chrome-next-ia を検索 Disableに変更 で慣れ親しんだインタフェースに戻ります。 https://t.co/sR8rm44lNM</description>
       <pubDate>Fri, 11 Sep 2026 01:58:49 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/shin_f/status/2098229746350100541</guid>
+    </item>
+    <item>
+      <title>Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</title>
+      <link>https://x.com/cotodaman/status/2065536945976140248</link>
+      <description>ことだま: Google Chromeの右クリックから「Geminiに相談」をOFFにする方法 1. chrome :// flags にアクセス 2.「glic」を探して無効(Disabled) ブラウザ再起動 3. 右クリックメニューから[Geminiに相談]が削除される https://t.co/sbbAhuHqG8</description>
+      <pubDate>Fri, 12 Jun 2026 20:49:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/cotodaman/status/2065536945976140248</guid>
     </item>
   </channel>
 </rss>
