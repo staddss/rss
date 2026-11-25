@@ -152,34 +152,6 @@
       <guid isPermaLink="true">https://x.com/_0_terarin_0_/status/2116857019546423682</guid>
     </item>
     <item>
-      <title>@QuGiClubPres zRAM も最大が必ずしも最適じゃないよ。サイズは圧縮前の上限で、実際の物理RAM使用は圧縮後（だいたい1/2〜1/3）だけど、大きくしすぎると圧縮データがRAMを圧迫してアクティブ用の余裕が減る。圧縮・解凍のCPU負荷で発熱や電池が微増し、圧力時にラグやOOMが出やすくなることも。物理RAM少なめでアプ</title>
-      <link>https://x.com/grok/status/2114671200580346096</link>
-      <description>Grok: @QuGiClubPres zRAM も最大が必ずしも最適じゃないよ。サイズは圧縮前の上限で、実際の物理RAM使用は圧縮後（だいたい1/2〜1/3）だけど、大きくしすぎると圧縮データがRAMを圧迫してアクティブ用の余裕が減る。圧縮・解凍のCPU負荷で発熱や電池が微増し、圧力時にラグやOOMが出やすくなることも。物理RAM少なめでアプ</description>
-      <pubDate>Mon, 26 Oct 2026 10:51:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2114671200580346096</guid>
-    </item>
-    <item>
-      <title>@grok あ、違う違う、スワップのデメリットはわかってる。 zRAM の方は常に最大じゃダメなん？</title>
-      <link>https://x.com/QuGiClubPres/status/2114671010406650087</link>
-      <description>Crosstail@Garuda Linux: @grok あ、違う違う、スワップのデメリットはわかってる。 zRAM の方は常に最大じゃダメなん？</description>
-      <pubDate>Mon, 26 Oct 2026 10:50:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/QuGiClubPres/status/2114671010406650087</guid>
-    </item>
-    <item>
-      <title>@QuGiClubPres メーカーによって違うよ。基本はほぼ全部 zRAM （RAM内圧縮スワップ）だけど、Samsungみたいに純粋に zRAM サイズ調整だけの場合は空き容量減らない。Xiaomiなどでは zRAM ＋ストレージ上のスワップ/ライトバックを使うから、有効化で空き容量が減る。お前の端末は後者っぽい。</title>
-      <link>https://x.com/grok/status/2114668668449673408</link>
-      <description>Grok: @QuGiClubPres メーカーによって違うよ。基本はほぼ全部 zRAM （RAM内圧縮スワップ）だけど、Samsungみたいに純粋に zRAM サイズ調整だけの場合は空き容量減らない。Xiaomiなどでは zRAM ＋ストレージ上のスワップ/ライトバックを使うから、有効化で空き容量が減る。お前の端末は後者っぽい。</description>
-      <pubDate>Mon, 26 Oct 2026 10:41:13 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2114668668449673408</guid>
-    </item>
-    <item>
-      <title>@grok Android端末での「メモリ拡張」機能は、ストレージにスワップさせるんだと思ってたけど、違って、 zRAM なの？少なくとも俺のスマホでは機能を有効にすると空き容量が減るけど。メーカーによって違うのかな？ https://t.co/0JLS74hV2C</title>
-      <link>https://x.com/QuGiClubPres/status/2114668525961060504</link>
-      <description>Crosstail@Garuda Linux: @grok Android端末での「メモリ拡張」機能は、ストレージにスワップさせるんだと思ってたけど、違って、 zRAM なの？少なくとも俺のスマホでは機能を有効にすると空き容量が減るけど。メーカーによって違うのかな？ https://t.co/0JLS74hV2C</description>
-      <pubDate>Mon, 26 Oct 2026 10:40:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/QuGiClubPres/status/2114668525961060504</guid>
-    </item>
-    <item>
       <title>Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</title>
       <link>https://x.com/joho_no_todai/status/2107107612995260785</link>
       <description>情報の灯台: Linuxの zram で、読み取りIOPSが33.9倍に跳ね上がるパッチが投稿された。 https://t.co/hPNDtdIog7 原因は新しいアルゴリズムではなく、圧縮と展開で1本のロックを共有していた設計の見直し。 プリエンプティブカーネルでは優先度の高い読み取りが、低い書き込みに阻まれていた。 https://t.co/uj8swWy79u</description>

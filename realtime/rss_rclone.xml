@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '"rclone"' on Yahoo! Realtime Search</description>
     <item>
+      <title>Raspberry Piにテープデバイス接続してバックアップする話、結局、iSCSIで他のサーバにテープを直接触らせる方法に落ち着きました。 rclone は一定容量以上になると速度低下が著しく、バックアップ用途では不向きでした。</title>
+      <link>https://x.com/MR_NiNi/status/2125234299830239396</link>
+      <description>MR.NiNi: Raspberry Piにテープデバイス接続してバックアップする話、結局、iSCSIで他のサーバにテープを直接触らせる方法に落ち着きました。 rclone は一定容量以上になると速度低下が著しく、バックアップ用途では不向きでした。</description>
+      <pubDate>Tue, 24 Nov 2026 14:25:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/MR_NiNi/status/2125234299830239396</guid>
+    </item>
+    <item>
       <title>@studio_yebisu Googleドライブに rclone して削除して凌いでます。。</title>
       <link>https://x.com/aku_aipc/status/2125148534953611678</link>
       <description>Aku AI-PCガジェット: @studio_yebisu Googleドライブに rclone して削除して凌いでます。。</description>
@@ -87,13 +94,6 @@
       <description>ヨル｜定時後の自動化ノート: AIに作らせた数十MBの動画を、AIにドライブへ入れさせたら運べませんでした。拡張機能は1回10MBまで。 rclone のcopyで入れて、md5の32桁を手元と比べる方法をnoteにまとめました。 https://t.co/sewajPrAPo</description>
       <pubDate>Thu, 12 Nov 2026 09:30:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yorunote_ai/status/2120811471575617754</guid>
-    </item>
-    <item>
-      <title>rclone を使ってHDDからGoogleDriveにバックアップ中です （もちろん差分バックアップもできますが、それはファイル移動が終わってからです） https://t.co/g7tuuIvdj7</title>
-      <link>https://x.com/VPC_japan/status/2120768690765570072</link>
-      <description>VocaloidProductionChannel: rclone を使ってHDDからGoogleDriveにバックアップ中です （もちろん差分バックアップもできますが、それはファイル移動が終わってからです） https://t.co/g7tuuIvdj7</description>
-      <pubDate>Thu, 12 Nov 2026 06:40:32 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/VPC_japan/status/2120768690765570072</guid>
     </item>
     <item>
       <title>@yomiplush 他にはHugging Faceからの大容量モデルDL→Driveバックアップ、e2-micro常時起動で軽いボットや rclone マウント、Google Photos/YouTube関連への無料転送あたりがよくある。 無料枠の出方向1GBを食わないGoogleサービス内完結なら安心だよ。みんなも似た感じで中継ハブや個人サーバーに使ってる印象。</title>
@@ -276,6 +276,13 @@
       <description>MF235: 気になって調べてみましたがバグではないような？ ゴミ箱にないフォルダが表示される問題 https://t.co/wKBaqZgCdN 例えば「TEST」というフォルダの中に「A.TXT」があってA.TXTだけ削除したら、 rclone から「TEST」というフォルダが見えるという話で、そうしないとゴミ箱から消せない。 #Gemini #AI https://t.co/iiCR15Br90 https://t.co/DmAWoBD7zo</description>
       <pubDate>Tue, 03 Nov 2026 23:29:10 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/MF235XBR/status/2117761032861155434</guid>
+    </item>
+    <item>
+      <title>ちゃんと謝れて偉い👏 そもそも rclone のバグが致命的すぎてちょっと同情する https://t.co/oyZ0XsiAOw</title>
+      <link>https://x.com/doughnut_777/status/2117756487422693456</link>
+      <description>🚭️どなつ🚭️: ちゃんと謝れて偉い👏 そもそも rclone のバグが致命的すぎてちょっと同情する https://t.co/oyZ0XsiAOw</description>
+      <pubDate>Tue, 03 Nov 2026 23:11:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/doughnut_777/status/2117756487422693456</guid>
     </item>
   </channel>
 </rss>

@@ -5,11 +5,39 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>ホテル等のWi-FiでSurfsharkが繋がりにくいときは、アプリ内のプロトコル設定を手動で切り替えてみてください🛡️ 普段の高速通信は WireGuard が快適ですが、施設Wi-Fiの制限で詰まるときはOpenVPNのTCP方式へ変えると通りやすくなりますよ。 https://t.co/rpIrltD9MK</title>
+      <link>https://x.com/gadgeshield/status/2125547186788204704</link>
+      <description>ガジェシールド｜外出先PC・スマホの安全防衛ナビ: ホテル等のWi-FiでSurfsharkが繋がりにくいときは、アプリ内のプロトコル設定を手動で切り替えてみてください🛡️ 普段の高速通信は WireGuard が快適ですが、施設Wi-Fiの制限で詰まるときはOpenVPNのTCP方式へ変えると通りやすくなりますよ。 https://t.co/rpIrltD9MK</description>
+      <pubDate>Wed, 25 Nov 2026 11:08:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/gadgeshield/status/2125547186788204704</guid>
+    </item>
+    <item>
+      <title>router-on-a-stick, vxlan over wireguard , ipv6 mostly,,,何をしようとしているのだろうか...</title>
+      <link>https://x.com/Kinukui2003/status/2125524592769044630</link>
+      <description>ヌックん: router-on-a-stick, vxlan over wireguard , ipv6 mostly,,,何をしようとしているのだろうか...</description>
+      <pubDate>Wed, 25 Nov 2026 09:38:47 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Kinukui2003/status/2125524592769044630</guid>
+    </item>
+    <item>
+      <title>おっと残念。NetBSD の NPF は現時点では DSCP値を取り扱えないとのこと。 WireGuard のソースを弄るしかないのか。トホホ。</title>
+      <link>https://x.com/Bxp3EyWSsk76071/status/2125524384374984805</link>
+      <description>ゆ: おっと残念。NetBSD の NPF は現時点では DSCP値を取り扱えないとのこと。 WireGuard のソースを弄るしかないのか。トホホ。</description>
+      <pubDate>Wed, 25 Nov 2026 09:37:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Bxp3EyWSsk76071/status/2125524384374984805</guid>
+    </item>
+    <item>
       <title>FK cloudflare warp wireguard 好像居居了耶</title>
       <link>https://x.com/ADeeeee_tw/status/2125257526648467512</link>
       <description>ADe@ImNintendog: FK cloudflare warp wireguard 好像居居了耶</description>
       <pubDate>Tue, 24 Nov 2026 15:57:34 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ADeeeee_tw/status/2125257526648467512</guid>
+    </item>
+    <item>
+      <title>実家用VPN終端装置としてIntel N95を積んだBeelink Mini S12というのを買ってみた．SSDはSATAのが積んであったので家で寝てたNVMe 512GBに交換． アイドル時 7Wだし Wireguard 実効帯域880Mbpsでそのときの消費電力も11Wだしよさげ．あとは安定して連続稼働してくれれば…</title>
+      <link>https://x.com/k_oi/status/2125224824247369940</link>
+      <description>Kazuki Oikawa: 実家用VPN終端装置としてIntel N95を積んだBeelink Mini S12というのを買ってみた．SSDはSATAのが積んであったので家で寝てたNVMe 512GBに交換． アイドル時 7Wだし Wireguard 実効帯域880Mbpsでそのときの消費電力も11Wだしよさげ．あとは安定して連続稼働してくれれば…</description>
+      <pubDate>Tue, 24 Nov 2026 13:47:37 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/k_oi/status/2125224824247369940</guid>
     </item>
     <item>
       <title>@user_eight_JP Wireguard にしたら普通に位置指定できる https://t.co/PdKnlPdowN</title>
@@ -248,34 +276,6 @@
       <description>matsuu: WireGuard ベースでゼロトラストなピアツーピアのネットワークを構築できるツール。NAT越えのためのホールパンチングやリレー機能搭載のサーバをセルフホスト可。Go実装 / “GitHub - netbirdio/netbird: Connect your devices, users, and agents into a secure WireGuard ®-…” https://t.co/JWEz2N4DSw</description>
       <pubDate>Wed, 18 Nov 2026 15:25:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/matsuu/status/2123075080456712330</guid>
-    </item>
-    <item>
-      <title>長年Windowsの Wireguard クライアントは公式のやつを使ってきたけど、WireSockとかいうめちゃくちゃ便利なやつがあることを知って乗り換えた プロセスごとに除外できる機能あって便利</title>
-      <link>https://x.com/bongole/status/2123040607623160116</link>
-      <description>bongole: 長年Windowsの Wireguard クライアントは公式のやつを使ってきたけど、WireSockとかいうめちゃくちゃ便利なやつがあることを知って乗り換えた プロセスごとに除外できる機能あって便利</description>
-      <pubDate>Wed, 18 Nov 2026 13:08:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/bongole/status/2123040607623160116</guid>
-    </item>
-    <item>
-      <title>wireguard ってそこそこ便利だけど、会社を訪問して使わせてもらうネットワークとかだとポートが閉じられてることがちょいちょいあって、使えことが多いんだよね。softether は何が何でも繋いでやろうという意思を感じた気がする。</title>
-      <link>https://x.com/skk_mimi/status/2123015002298929381</link>
-      <description>Hiroshi Sakakibara: wireguard ってそこそこ便利だけど、会社を訪問して使わせてもらうネットワークとかだとポートが閉じられてることがちょいちょいあって、使えことが多いんだよね。softether は何が何でも繋いでやろうという意思を感じた気がする。</description>
-      <pubDate>Wed, 18 Nov 2026 11:26:34 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/skk_mimi/status/2123015002298929381</guid>
-    </item>
-    <item>
-      <title>大物が残っていた。 社内Gitと社内ツール用のサーバーがまだだった Wireguard の再構築だるすぐる・・・</title>
-      <link>https://x.com/CABIN_D/status/2122975894126145947</link>
-      <description>CABIN: 大物が残っていた。 社内Gitと社内ツール用のサーバーがまだだった Wireguard の再構築だるすぐる・・・</description>
-      <pubDate>Wed, 18 Nov 2026 08:51:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/CABIN_D/status/2122975894126145947</guid>
-    </item>
-    <item>
-      <title>@marsdronefpv 何用途にしましょうかねぇ Wireguard の中継かなぁ</title>
-      <link>https://x.com/tanasann25/status/2122887615674450410</link>
-      <description>tana25⌘: @marsdronefpv 何用途にしましょうかねぇ Wireguard の中継かなぁ</description>
-      <pubDate>Wed, 18 Nov 2026 03:00:23 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tanasann25/status/2122887615674450410</guid>
     </item>
   </channel>
 </rss>

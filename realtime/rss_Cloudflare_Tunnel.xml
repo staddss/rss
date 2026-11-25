@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>tailscale、これが無料なのすごいなぁ 今までイントラネット内で繋ぐのにngrokとか cloudflare tunnel とか使ってたけど、公開しなくていいから気軽にできる</title>
+      <link>https://x.com/TanashunD30299/status/2125243711969984877</link>
+      <description>tanashun: tailscale、これが無料なのすごいなぁ 今までイントラネット内で繋ぐのにngrokとか cloudflare tunnel とか使ってたけど、公開しなくていいから気軽にできる</description>
+      <pubDate>Tue, 24 Nov 2026 15:02:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TanashunD30299/status/2125243711969984877</guid>
+    </item>
+    <item>
       <title>@nakasyou0 リレー暗号化の整理すごく分かりやすいです。Antigravity向けのMultigravityでは、アプリ層で`mgy-e2ee-v1`（ECDH P-256 + HKDF-SHA256 + AES-256-GCM）を実装し、リレーや Cloudflare Tunnel 経路は暗号文のみ通過・平文はHTTP</title>
       <link>https://x.com/MultigravityApp/status/2125233903283904784</link>
       <description>Multigravity: @nakasyou0 リレー暗号化の整理すごく分かりやすいです。Antigravity向けのMultigravityでは、アプリ層で`mgy-e2ee-v1`（ECDH P-256 + HKDF-SHA256 + AES-256-GCM）を実装し、リレーや Cloudflare Tunnel 経路は暗号文のみ通過・平文はHTTP</description>
@@ -269,13 +276,6 @@
       <description>hrsh7th: tailscale をやめて、 Cloudflare Tunnel + Access の構成に切り替えた。</description>
       <pubDate>Mon, 16 Nov 2026 07:48:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/hrsh7th/status/2122235368179462145</guid>
-    </item>
-    <item>
-      <title>claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</title>
-      <link>https://x.com/mnagaku/status/2122187529827000454</link>
-      <description>長久 勝: claude常駐ノートPCを作ってしまったので、そこでメンテされてるweb系コンテンツは Cloudflare Tunnel で直接公開して、十何年ぶりに自宅鯖が帰ってきた感じになってる。安いVPSで動かしてたやつも巻き取って、claudeさんにメンテお願いしてラクチン。</description>
-      <pubDate>Mon, 16 Nov 2026 04:38:30 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mnagaku/status/2122187529827000454</guid>
     </item>
   </channel>
 </rss>

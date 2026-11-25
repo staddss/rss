@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '"Ryzen AI Max"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@s32x_arch dGPUなしとはいえStrix Halo ( Ryzen AI MAX + 395)を借りていた時期があったので、その時に調整しておきました 無いよりは断然マシとは思うけどあんまり出来は良くないと思う NPU使う調整は私に機材がないのと、AMD NPUのintel/LLVM対応がないので簡単ではないと諦めました</title>
+      <link>https://x.com/maruru_289/status/2125610584901370266</link>
+      <description>田都 アリエル: @s32x_arch dGPUなしとはいえStrix Halo ( Ryzen AI MAX + 395)を借りていた時期があったので、その時に調整しておきました 無いよりは断然マシとは思うけどあんまり出来は良くないと思う NPU使う調整は私に機材がないのと、AMD NPUのintel/LLVM対応がないので簡単ではないと諦めました</description>
+      <pubDate>Wed, 25 Nov 2026 15:20:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/maruru_289/status/2125610584901370266</guid>
+    </item>
+    <item>
+      <title>GMKtec EVO-X2 ( Ryzen AI Max + 395, 128GB RAM) を買うか結構真面目に悩んでる…… DGX Spark / RTX Spark / Mac Studio M5 とかに比べれば安いし……</title>
+      <link>https://x.com/tag_ism/status/2125588080933609638</link>
+      <description>tag: GMKtec EVO-X2 ( Ryzen AI Max + 395, 128GB RAM) を買うか結構真面目に悩んでる…… DGX Spark / RTX Spark / Mac Studio M5 とかに比べれば安いし……</description>
+      <pubDate>Wed, 25 Nov 2026 13:51:04 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tag_ism/status/2125588080933609638</guid>
+    </item>
+    <item>
+      <title>Ryzen AI Max + 388のマシンってどの辺りの層に需要あるのかなぁ… 🤔</title>
+      <link>https://x.com/ponyo_gdm/status/2125542093347340688</link>
+      <description>(´・ω・`): Ryzen AI Max + 388のマシンってどの辺りの層に需要あるのかなぁ… 🤔</description>
+      <pubDate>Wed, 25 Nov 2026 10:48:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ponyo_gdm/status/2125542093347340688</guid>
+    </item>
+    <item>
+      <title>AMD Strix Halo（ Ryzen AI Max + 395）128GBモデル 省スペース・低消費電力で大VRAM環境を手に入れられる唯一無二のハードウェア 高評価部分（メリット） 大容量メモリに対する圧倒的なコストパフォーマンス：128GB（最大96GBをVRAM割り当て可能）を搭載しながら、同等容量のMac StudioやNVIDIA DGX</title>
+      <link>https://x.com/tamtan33/status/2125469737325043714</link>
+      <description>何処でも大佐: AMD Strix Halo（ Ryzen AI Max + 395）128GBモデル 省スペース・低消費電力で大VRAM環境を手に入れられる唯一無二のハードウェア 高評価部分（メリット） 大容量メモリに対する圧倒的なコストパフォーマンス：128GB（最大96GBをVRAM割り当て可能）を搭載しながら、同等容量のMac StudioやNVIDIA DGX</description>
+      <pubDate>Wed, 25 Nov 2026 06:00:49 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tamtan33/status/2125469737325043714</guid>
+    </item>
+    <item>
       <title>OFF ¥614,999 GMKtec 次世代AIミニPC Ryzen AI Max + 395搭載 Radeon 8060S 16C/32T EVO... #広告 https://t.co/M2Ai55y2nh</title>
       <link>https://x.com/dodesuka117/status/2125451680959619410</link>
       <description>ドデスカR: OFF ¥614,999 GMKtec 次世代AIミニPC Ryzen AI Max + 395搭載 Radeon 8060S 16C/32T EVO... #広告 https://t.co/M2Ai55y2nh</description>
@@ -248,34 +276,6 @@
       <description>A-Uta: Local LLM - RDMA over USB4 事例にあるのうに、やっぱり狙いは Ryzen AI Max + 395 (Strix halo) 128GBか…。 まだハードウェア性能を活かしきれてないからな🤔 とはいえ、EVO-X2はほぼ中古に流れて来ないのよね。 https://t.co/Ex3b34doM8 https://t.co/uGsOINmjaj</description>
       <pubDate>Fri, 20 Nov 2026 08:47:32 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/UtaAoya/status/2123699752424685572</guid>
-    </item>
-    <item>
-      <title>【速報】USB4ケーブルでWindows PCをつなぎ、1台に載らないAIを動かす。Microsoftが「RDMA over USB4」の先行版を発表 ・ Ryzen AI Max のミニPC 3台で、Qwen3-235B-A22B（4bit）が毎秒21.98トークン（AMD測定） ・RDMAカードもスイッチも不要。llama.cppの改造版も公開 https://t.co/yXx8RmuqGw https://t.co/0YJvgTmV7x</title>
-      <link>https://x.com/TORA276990/status/2123629323655786692</link>
-      <description>TORA｜今日のAIニュース3選: 【速報】USB4ケーブルでWindows PCをつなぎ、1台に載らないAIを動かす。Microsoftが「RDMA over USB4」の先行版を発表 ・ Ryzen AI Max のミニPC 3台で、Qwen3-235B-A22B（4bit）が毎秒21.98トークン（AMD測定） ・RDMAカードもスイッチも不要。llama.cppの改造版も公開 https://t.co/yXx8RmuqGw https://t.co/0YJvgTmV7x</description>
-      <pubDate>Fri, 20 Nov 2026 04:07:40 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TORA276990/status/2123629323655786692</guid>
-    </item>
-    <item>
-      <title>マウスの小型PC「DAIV CX-A9A60」は Ryzen AI Max +395とLPDDR5X 128GBで120B級LLMをローカル実行できるように設計されている。 統合GPUは外付けGPUに速度で劣るものの、128GBメインメモリで最大約96GBをグラフィックス用に割り当てられ、トークン費用や機密性の課題を軽減できる。</title>
-      <link>https://x.com/ymorishita/status/2123582165644701977</link>
-      <description>森下佳宏｜AI Market 代表｜最新AIトレンドを発信💬: マウスの小型PC「DAIV CX-A9A60」は Ryzen AI Max +395とLPDDR5X 128GBで120B級LLMをローカル実行できるように設計されている。 統合GPUは外付けGPUに速度で劣るものの、128GBメインメモリで最大約96GBをグラフィックス用に割り当てられ、トークン費用や機密性の課題を軽減できる。</description>
-      <pubDate>Fri, 20 Nov 2026 01:00:17 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ymorishita/status/2123582165644701977</guid>
-    </item>
-    <item>
-      <title>MINISFORUM から、 Ryzen AI Max + を積んだ小さなデスクトップ「T5 Max-388」が国内で出た。幅96mmの箱にメモリ48GB。 大きな PC でローカルAIを回している身としては、この大きさは素直にうらやましい。</title>
-      <link>https://x.com/mihael_shokai/status/2123547303772565562</link>
-      <description>みはえる: MINISFORUM から、 Ryzen AI Max + を積んだ小さなデスクトップ「T5 Max-388」が国内で出た。幅96mmの箱にメモリ48GB。 大きな PC でローカルAIを回している身としては、この大きさは素直にうらやましい。</description>
-      <pubDate>Thu, 19 Nov 2026 22:41:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/mihael_shokai/status/2123547303772565562</guid>
-    </item>
-    <item>
-      <title>🧠LLM AIエージェント News 🇯🇵 🔵報道 【マウス「DAIV CX」： Ryzen AI Max + 395＋128GB搭載で120B級LLM対応、約95万円】 ・マウスコンピューターがローカルAI向けミニPC「DAIV CX-A9A60」を発売。AMD Ryzen AI Max + 395搭載で、16コア32スレッド。 ・LPDDR5X-8000</title>
-      <link>https://x.com/katabou2/status/2123370710399885605</link>
-      <description>アリエク推進LLM会（利用者運営）: 🧠LLM AIエージェント News 🇯🇵 🔵報道 【マウス「DAIV CX」： Ryzen AI Max + 395＋128GB搭載で120B級LLM対応、約95万円】 ・マウスコンピューターがローカルAI向けミニPC「DAIV CX-A9A60」を発売。AMD Ryzen AI Max + 395搭載で、16コア32スレッド。 ・LPDDR5X-8000</description>
-      <pubDate>Thu, 19 Nov 2026 11:00:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/katabou2/status/2123370710399885605</guid>
     </item>
   </channel>
 </rss>
