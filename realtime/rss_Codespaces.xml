@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Codespaces%22</link>
     <description>Latest search results for '"Codespaces"' on Yahoo! Realtime Search</description>
     <item>
+      <title>【新着記事】結論ファースト：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方（PoC手順付き） https://t.co/utP5GfZNmk #エンジニア #ChatGPT #AI</title>
+      <link>https://x.com/NearEngi/status/2125381847999795672</link>
+      <description>EngiNear: 【新着記事】結論ファースト：GitHub Codespaces ・Gitpod・AWS Cloud9 の選び方（PoC手順付き） https://t.co/utP5GfZNmk #エンジニア #ChatGPT #AI</description>
+      <pubDate>Wed, 25 Nov 2026 00:11:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/NearEngi/status/2125381847999795672</guid>
+    </item>
+    <item>
       <title>【新着記事】2026年版 クラウドIDE徹底比較 — Codespaces / Gitpod / Cloud9 の最適な選び方と導入手順 https://t.co/K4bEk6Zy7j #エンジニア #ChatGPT #AI</title>
       <link>https://x.com/NearEngi/status/2125019355821838512</link>
       <description>EngiNear: 【新着記事】2026年版 クラウドIDE徹底比較 — Codespaces / Gitpod / Cloud9 の最適な選び方と導入手順 https://t.co/K4bEk6Zy7j #エンジニア #ChatGPT #AI</description>
@@ -269,20 +276,6 @@
       <description>EngiNear: 【新着記事】クラウドIDE比較｜GitHub Codespaces ・Gitpod・AWS Cloud9 の最短導入ガイド（PoCテンプレート付き） https://t.co/DeOulk5iq5 #エンジニア #ChatGPT #AI</description>
       <pubDate>Fri, 06 Nov 2026 00:11:17 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NearEngi/status/2118496405060833591</guid>
-    </item>
-    <item>
-      <title>【新着記事】結論先出し：どれを選ぶべきか — GitHub Codespaces / Gitpod / AWS Cloud9 の最短判断ガイド https://t.co/LJLgkzK1Ok #エンジニア #ChatGPT #AI</title>
-      <link>https://x.com/NearEngi/status/2118348011843494118</link>
-      <description>EngiNear: 【新着記事】結論先出し：どれを選ぶべきか — GitHub Codespaces / Gitpod / AWS Cloud9 の最短判断ガイド https://t.co/LJLgkzK1Ok #エンジニア #ChatGPT #AI</description>
-      <pubDate>Thu, 05 Nov 2026 14:21:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/NearEngi/status/2118348011843494118</guid>
-    </item>
-    <item>
-      <title>再ビルドのたびにサインインし直しになる場合は、~/.claude を名前付きボリュームにマウントし、CLAUDE_CONFIG_DIR を同じパスに設定します。.claude.json もボリューム内に書かれるため、再ビルド後も設定が残ります。GitHub Codespaces でも同じ設定が必要です。 #ClaudeCode #DevContainer</title>
-      <link>https://x.com/chuki_dx/status/2117783971513917853</link>
-      <description>中小DXラボ｜情シス兼SE: 再ビルドのたびにサインインし直しになる場合は、~/.claude を名前付きボリュームにマウントし、CLAUDE_CONFIG_DIR を同じパスに設定します。.claude.json もボリューム内に書かれるため、再ビルド後も設定が残ります。GitHub Codespaces でも同じ設定が必要です。 #ClaudeCode #DevContainer</description>
-      <pubDate>Wed, 04 Nov 2026 01:00:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chuki_dx/status/2117783971513917853</guid>
     </item>
   </channel>
 </rss>
