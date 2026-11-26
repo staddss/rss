@@ -5,6 +5,27 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>ServerOSが管理画面までOSS化。MCPと Cloudflare Tunnel にも対応し、AIによるサーバー管理が身近になった。 便利になる一方、既存のIT企業には新たな競争圧力が生まれる。 https://t.co/2XahxC7nk3</title>
+      <link>https://x.com/superdoccimo/status/2125954117197775338</link>
+      <description>美濃加茂まむ: ServerOSが管理画面までOSS化。MCPと Cloudflare Tunnel にも対応し、AIによるサーバー管理が身近になった。 便利になる一方、既存のIT企業には新たな競争圧力が生まれる。 https://t.co/2XahxC7nk3</description>
+      <pubDate>Thu, 26 Nov 2026 14:05:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/superdoccimo/status/2125954117197775338</guid>
+    </item>
+    <item>
+      <title>手前味噌なのですが、弊社サーバーは cloudflare tunnel の後ろ側に隠れてポート全部閉じてます。 これが結構効きます。 子どもの成績や月謝、口座番号など最大5万件漏えいか 学習塾「ベスト個別」運営元に不正アクセス(ITmedia NEWS) #Yahooニュース https://t.co/LOh8drM9BB</title>
+      <link>https://x.com/iju_jukujin/status/2125888089860305109</link>
+      <description>移住塾人: 手前味噌なのですが、弊社サーバーは cloudflare tunnel の後ろ側に隠れてポート全部閉じてます。 これが結構効きます。 子どもの成績や月謝、口座番号など最大5万件漏えいか 学習塾「ベスト個別」運営元に不正アクセス(ITmedia NEWS) #Yahooニュース https://t.co/LOh8drM9BB</description>
+      <pubDate>Thu, 26 Nov 2026 09:43:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/iju_jukujin/status/2125888089860305109</guid>
+    </item>
+    <item>
+      <title>@kodam 誤解生んじゃってたらすいません。 dockerコンテナ版とかではないです。 そこは別途つくってるんですがまだ未完成です。（そっちは cloudflare tunnel とかつなげて公開向けサーバーにできる用途を想定していてセキュリティ観点含めて工数増大して時間かかってます）</title>
+      <link>https://x.com/taiyop/status/2125848315149643924</link>
+      <description>たいよっぷ | Harness Engineer: @kodam 誤解生んじゃってたらすいません。 dockerコンテナ版とかではないです。 そこは別途つくってるんですがまだ未完成です。（そっちは cloudflare tunnel とかつなげて公開向けサーバーにできる用途を想定していてセキュリティ観点含めて工数増大して時間かかってます）</description>
+      <pubDate>Thu, 26 Nov 2026 07:05:09 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/taiyop/status/2125848315149643924</guid>
+    </item>
+    <item>
       <title>@memuringo7544 さらに横からすみません！ Cloudflare tunnel や ntfy .sh を使うやり方もやれそうだなと思ってるので、こちらでも試してみようと思います！ ちなみに推し伺かゴーストは"D"でした！（誰もきいてない）</title>
       <link>https://x.com/JUNKI555/status/2125620531756200123</link>
       <description>北山淳也: @memuringo7544 さらに横からすみません！ Cloudflare tunnel や ntfy .sh を使うやり方もやれそうだなと思ってるので、こちらでも試してみようと思います！ ちなみに推し伺かゴーストは"D"でした！（誰もきいてない）</description>
@@ -255,27 +276,6 @@
       <description>② Cheena ②: そういえば Cloudflare Tunnel のおかげで、もうオリジンのファイアウォールでCloudflareのIPだけ許可〜みたいな古くさい手法しなくてよくなったのか SSHも開けなくていいし</description>
       <pubDate>Wed, 18 Nov 2026 12:14:02 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/cheena_2nd/status/2123026946888224881</guid>
-    </item>
-    <item>
-      <title>cloudflare tunnel ってのがあるのか Tailscaleから変更を試すTask追加</title>
-      <link>https://x.com/gozaing/status/2122840111725551892</link>
-      <description>Tobaru / とうばる: cloudflare tunnel ってのがあるのか Tailscaleから変更を試すTask追加</description>
-      <pubDate>Tue, 17 Nov 2026 23:51:37 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gozaing/status/2122840111725551892</guid>
-    </item>
-    <item>
-      <title>@hrsh7th 便利なのは分かります。でも Cloudflare Tunnel は P2P じゃないんですよね。通信は全部 Cloudflare を通って向こうで終端するので、Cloudflare がやられたら自宅の LAN も一緒です。 Tailscale はデバイス同士の直接接続で、間には誰も入らない。自宅のものに触るなら、自分はまだ Tailscale 派です。</title>
-      <link>https://x.com/KuritoL/status/2122544305541886075</link>
-      <description>kurito.exe: @hrsh7th 便利なのは分かります。でも Cloudflare Tunnel は P2P じゃないんですよね。通信は全部 Cloudflare を通って向こうで終端するので、Cloudflare がやられたら自宅の LAN も一緒です。 Tailscale はデバイス同士の直接接続で、間には誰も入らない。自宅のものに触るなら、自分はまだ Tailscale 派です。</description>
-      <pubDate>Tue, 17 Nov 2026 04:16:12 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/KuritoL/status/2122544305541886075</guid>
-    </item>
-    <item>
-      <title>Muse にブラウザ経由で入ったり、ターミナルから入ったり Meta MuseのVMへSSH接続｜ Cloudflare Tunnel とAccessで入る https://t.co/BEIHjdHtfb</title>
-      <link>https://x.com/TakashiKakizoe/status/2122533371113017624</link>
-      <description>柿添 貴士: Muse にブラウザ経由で入ったり、ターミナルから入ったり Meta MuseのVMへSSH接続｜ Cloudflare Tunnel とAccessで入る https://t.co/BEIHjdHtfb</description>
-      <pubDate>Tue, 17 Nov 2026 03:32:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/TakashiKakizoe/status/2122533371113017624</guid>
     </item>
   </channel>
 </rss>

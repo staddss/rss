@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>WireGuard 用のUDPポート（デフォルトから変更済み）以外のポートはあけたくない</title>
+      <link>https://x.com/jp7wfp/status/2125885537693389097</link>
+      <description>ののゆー: WireGuard 用のUDPポート（デフォルトから変更済み）以外のポートはあけたくない</description>
+      <pubDate>Thu, 26 Nov 2026 09:33:03 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/jp7wfp/status/2125885537693389097</guid>
+    </item>
+    <item>
       <title>とりあえず、おうちサーバーの WireGuard のことは信用してる</title>
       <link>https://x.com/jp7wfp/status/2125885013145301202</link>
       <description>ののゆー: とりあえず、おうちサーバーの WireGuard のことは信用してる</description>
@@ -269,13 +276,6 @@
       <description>ぷーじ: WireGuard ベースでセキュアなメッシュVPNを簡単に構築できるオープンソースツールっぽい リモート環境の端末同士を安全につなぎたいときに使えそうかも yug1224 starred netbirdio/netbird https://t.co/JezKnYBrwL</description>
       <pubDate>Thu, 19 Nov 2026 09:22:19 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/yug1224/status/2123346119992221914</guid>
-    </item>
-    <item>
-      <title>マイコンでライトニングノードに WireGuard を追加したぞ！ これで出先でデモできる。</title>
-      <link>https://x.com/tnky2929/status/2123243047291179176</link>
-      <description>tanakei: マイコンでライトニングノードに WireGuard を追加したぞ！ これで出先でデモできる。</description>
-      <pubDate>Thu, 19 Nov 2026 02:32:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tnky2929/status/2123243047291179176</guid>
     </item>
   </channel>
 </rss>

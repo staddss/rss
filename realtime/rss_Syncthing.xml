@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '"Syncthing"' on Yahoo! Realtime Search</description>
     <item>
+      <title>Syncthing 、同期相手の探索を分散化する案。対応可能なPCも探索を支える https://t.co/Ho4SAA4BtD ファイル同期ソフト Syncthing で、同期相手の探索を利用端末が分担する案が示された。</title>
+      <link>https://x.com/joho_no_todai/status/2125896195193352247</link>
+      <description>情報の灯台: Syncthing 、同期相手の探索を分散化する案。対応可能なPCも探索を支える https://t.co/Ho4SAA4BtD ファイル同期ソフト Syncthing で、同期相手の探索を利用端末が分担する案が示された。</description>
+      <pubDate>Thu, 26 Nov 2026 10:15:24 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/joho_no_todai/status/2125896195193352247</guid>
+    </item>
+    <item>
+      <title>今日Tailscaleとか Syncthing でもない自作作ったのでこれでどっかのサーバーに残ったり中継リレーにも残らんから最速で自宅PCに直結できるわさ🧐 明日枠が復活したらもっと強化しよう いまはまだPoc @grok どうだい？グッキー しょぼしょぼ丸でしょ？😂 https://t.co/r0o5u67IM3</title>
+      <link>https://x.com/amanojak2024/status/2125882029317476484</link>
+      <description>amanojak: 今日Tailscaleとか Syncthing でもない自作作ったのでこれでどっかのサーバーに残ったり中継リレーにも残らんから最速で自宅PCに直結できるわさ🧐 明日枠が復活したらもっと強化しよう いまはまだPoc @grok どうだい？グッキー しょぼしょぼ丸でしょ？😂 https://t.co/r0o5u67IM3</description>
+      <pubDate>Thu, 26 Nov 2026 09:19:07 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/amanojak2024/status/2125882029317476484</guid>
+    </item>
+    <item>
       <title>@sasasin_net 諸々セルフホスト出来るサーバーが自宅にあるのであればKeepassXCのkdbxを Syncthing とかで各デバイスに同期するっていうのも選択肢かと 自分はTailscale越しに[PC]⇔[サーバー]⇔[スマホ]でkdbxとかObsidianのVaultを同期して使ってます</title>
       <link>https://x.com/Milk_tya/status/2125821501970739252</link>
       <description>milk_tya: @sasasin_net 諸々セルフホスト出来るサーバーが自宅にあるのであればKeepassXCのkdbxを Syncthing とかで各デバイスに同期するっていうのも選択肢かと 自分はTailscale越しに[PC]⇔[サーバー]⇔[スマホ]でkdbxとかObsidianのVaultを同期して使ってます</description>
@@ -262,20 +276,6 @@
       <description>tanelog: Syncthing 1.29.5 から 2.1.7 へ上げる方へ。10万ファイルの移行は、1 回の測定で 2分2秒でした。移行の速さは、1 秒あたり約 1,200 ファイルから約 800 ファイルに落ちました。</description>
       <pubDate>Mon, 02 Nov 2026 07:00:28 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tane_log/status/2117149828820181479</guid>
-    </item>
-    <item>
-      <title>Syncthing を 2.x に上げると、移行中に設定ディレクトリが旧データベースの 2.24〜3.10 倍になりました。 測った範囲で足りた空きは、旧データベースの約 3.5 倍。移行は 8 秒〜8 分 44 秒。 1万〜50万ファイル(合成)で測りました。 https://t.co/I7vP2atiIE # Syncthing</title>
-      <link>https://x.com/tane_log/status/2117149809799004398</link>
-      <description>tanelog: Syncthing を 2.x に上げると、移行中に設定ディレクトリが旧データベースの 2.24〜3.10 倍になりました。 測った範囲で足りた空きは、旧データベースの約 3.5 倍。移行は 8 秒〜8 分 44 秒。 1万〜50万ファイル(合成)で測りました。 https://t.co/I7vP2atiIE # Syncthing</description>
-      <pubDate>Mon, 02 Nov 2026 07:00:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tane_log/status/2117149809799004398</guid>
-    </item>
-    <item>
-      <title>@sumorod 多分使ってみたら Syncthing アプリの方が利便性高かったりとかで戻りそうな予感はヒシヒシとしてますが、公式さんで対応してくれるってのは購買理由になりますね🥰 ayaneoのシステム素晴らしいですし👍️</title>
-      <link>https://x.com/sou1042tzk/status/2116753119262712279</link>
-      <description>きゅーさん: @sumorod 多分使ってみたら Syncthing アプリの方が利便性高かったりとかで戻りそうな予感はヒシヒシとしてますが、公式さんで対応してくれるってのは購買理由になりますね🥰 ayaneoのシステム素晴らしいですし👍️</description>
-      <pubDate>Sun, 01 Nov 2026 04:44:05 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sou1042tzk/status/2116753119262712279</guid>
     </item>
   </channel>
 </rss>
