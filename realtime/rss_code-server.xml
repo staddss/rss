@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22code-server%22</link>
     <description>Latest search results for '"code-server"' on Yahoo! Realtime Search</description>
     <item>
+      <title>What I learned about #AWS today. これのあと一歩かゆいところに…あたりを改良した感じのハンズオン用 VS Code / code - server 払い出し実装についての解説Blog。払い出し用のフロントLambdaと紐づけを管理するためのDynamoDBを組み合わせ、参加者にやさしい払い出しを実装。 https://t.co/1aZXwSefGM https://t.co/RcFMF9Os99 https://t.co/20GZ5QSEuO</title>
+      <link>https://x.com/twtko/status/2125730752444633593</link>
+      <description>Takao Setaka: What I learned about #AWS today. これのあと一歩かゆいところに…あたりを改良した感じのハンズオン用 VS Code / code - server 払い出し実装についての解説Blog。払い出し用のフロントLambdaと紐づけを管理するためのDynamoDBを組み合わせ、参加者にやさしい払い出しを実装。 https://t.co/1aZXwSefGM https://t.co/RcFMF9Os99 https://t.co/20GZ5QSEuO</description>
+      <pubDate>Wed, 25 Nov 2026 23:18:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/twtko/status/2125730752444633593</guid>
+    </item>
+    <item>
+      <title>■ 補足 ・30%は前のStable版との比較で、旧harnessとの差は約5%以内 ・スリープ防止の既定はwhenPluggedIn、alwaysでバッテリー時も有効 ・Sandbox profilesは組織のポリシーが引き続き適用され、最新のVS Code Server が必要</title>
+      <link>https://x.com/issoh_co_jp/status/2125522777771852022</link>
+      <description>システム開発・生成AI・クラウド ／ 株式会社一創（issoh）: ■ 補足 ・30%は前のStable版との比較で、旧harnessとの差は約5%以内 ・スリープ防止の既定はwhenPluggedIn、alwaysでバッテリー時も有効 ・Sandbox profilesは組織のポリシーが引き続き適用され、最新のVS Code Server が必要</description>
+      <pubDate>Wed, 25 Nov 2026 09:31:35 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/issoh_co_jp/status/2125522777771852022</guid>
+    </item>
+    <item>
       <title>さらに心系天下W24的 Z Fold5にした🤩 KSU Next、LSPosed、userdataがr/wのTWRP、change root Debian 搭載のOne UI 9 中身はTHLのF946B/DS 限定カラーGray 512GB Code - Server とDevin Maxでコーディングも出来ます https://t.co/YDL7KBCPff</title>
       <link>https://x.com/TakeTakaAway/status/2125214135399100835</link>
       <description>たけ: さらに心系天下W24的 Z Fold5にした🤩 KSU Next、LSPosed、userdataがr/wのTWRP、change root Debian 搭載のOne UI 9 中身はTHLのF946B/DS 限定カラーGray 512GB Code - Server とDevin Maxでコーディングも出来ます https://t.co/YDL7KBCPff</description>
@@ -115,13 +129,6 @@
       <description>Criminal IP Japan: ☁️Nextcloudの文書編集アプリでRCE脆弱性が悪用、外部公開インフラを分析 Nextcloudの「Collabora Online - Built-in CODE Server 」アプリで、リモートコード実行（RCE）脆弱性CVE-2026-110447が公開されました。 https://t.co/pzNvetW2I9</description>
       <pubDate>Mon, 02 Nov 2026 08:00:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/CriminalIP_JP/status/2117164824224297368</guid>
-    </item>
-    <item>
-      <title>米CISA、NextcloudのCollabora「Built-in- CODE - Server 」の認証不要OSコマンド実行脆弱性を悪用確認カタログに追加｜米CISAは10月23日、Nextcloudで文書編集サーバーを組み込むためのCollabora-Online「Built-in- CODE - Server 」のOSコマンドインジェクション脆弱性CVE-2026-110447を、悪用が確認された脆</title>
-      <link>https://x.com/MalwareBibleJP/status/2114606964106006860</link>
-      <description>📕「マルウエアの教科書」著者 | 吉川孝志 | 増補改訂版🌟発売中: 米CISA、NextcloudのCollabora「Built-in- CODE - Server 」の認証不要OSコマンド実行脆弱性を悪用確認カタログに追加｜米CISAは10月23日、Nextcloudで文書編集サーバーを組み込むためのCollabora-Online「Built-in- CODE - Server 」のOSコマンドインジェクション脆弱性CVE-2026-110447を、悪用が確認された脆</description>
-      <pubDate>Mon, 26 Oct 2026 06:36:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MalwareBibleJP/status/2114606964106006860</guid>
     </item>
   </channel>
 </rss>
