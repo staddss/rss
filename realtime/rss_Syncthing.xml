@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '"Syncthing"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@sasasin_net 諸々セルフホスト出来るサーバーが自宅にあるのであればKeepassXCのkdbxを Syncthing とかで各デバイスに同期するっていうのも選択肢かと 自分はTailscale越しに[PC]⇔[サーバー]⇔[スマホ]でkdbxとかObsidianのVaultを同期して使ってます</title>
+      <link>https://x.com/Milk_tya/status/2125821501970739252</link>
+      <description>milk_tya: @sasasin_net 諸々セルフホスト出来るサーバーが自宅にあるのであればKeepassXCのkdbxを Syncthing とかで各デバイスに同期するっていうのも選択肢かと 自分はTailscale越しに[PC]⇔[サーバー]⇔[スマホ]でkdbxとかObsidianのVaultを同期して使ってます</description>
+      <pubDate>Thu, 26 Nov 2026 05:18:36 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Milk_tya/status/2125821501970739252</guid>
+    </item>
+    <item>
+      <title>KeePassDX× Syncthing を繋げておこうかな</title>
+      <link>https://x.com/ueno_toru421/status/2125793954222469522</link>
+      <description>上野徹: KeePassDX× Syncthing を繋げておこうかな</description>
+      <pubDate>Thu, 26 Nov 2026 03:29:08 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ueno_toru421/status/2125793954222469522</guid>
+    </item>
+    <item>
       <title>メモ同期。 Ubuntuに SyncThing 、iPhoneにSyncTrainをインストールしてテキストファイルを入れたフォルダを同期できるようにしたよ。 これで、パソコンとスマホ両方で同じメモを共有できるようになりました。 どっちも無料。これめちゃくちゃ便利。</title>
       <link>https://x.com/littleright_lr/status/2124940233330565437</link>
       <description>りとるらいと／自作アニメーションMV100万回再生を目指す作家: メモ同期。 Ubuntuに SyncThing 、iPhoneにSyncTrainをインストールしてテキストファイルを入れたフォルダを同期できるようにしたよ。 これで、パソコンとスマホ両方で同じメモを共有できるようになりました。 どっちも無料。これめちゃくちゃ便利。</description>
@@ -262,20 +276,6 @@
       <description>きゅーさん: @sumorod 多分使ってみたら Syncthing アプリの方が利便性高かったりとかで戻りそうな予感はヒシヒシとしてますが、公式さんで対応してくれるってのは購買理由になりますね🥰 ayaneoのシステム素晴らしいですし👍️</description>
       <pubDate>Sun, 01 Nov 2026 04:44:05 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/sou1042tzk/status/2116753119262712279</guid>
-    </item>
-    <item>
-      <title>Syncthing 、Solaar、Firefoxが起動した状態でメモリ使用量3.3GB。素晴らしい。</title>
-      <link>https://x.com/_samy_3/status/2116303592584044692</link>
-      <description>さみぃ🌃: Syncthing 、Solaar、Firefoxが起動した状態でメモリ使用量3.3GB。素晴らしい。</description>
-      <pubDate>Fri, 30 Oct 2026 22:57:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/_samy_3/status/2116303592584044692</guid>
-    </item>
-    <item>
-      <title>Obsidian Sync代をケチって、PCとAndroidを Syncthing で無料同期しています。 設定方法と、同期から外しているファイル、競合したときの対処をQiitaにまとめました。 記事を投稿しました！ Obsidian Sync代をケチる｜PCとAndroidを Syncthing で無料同期 https://t.co/NBoaQtm3RR #Qiita</title>
-      <link>https://x.com/sato_mega33/status/2116165897249505327</link>
-      <description>さとう: Obsidian Sync代をケチって、PCとAndroidを Syncthing で無料同期しています。 設定方法と、同期から外しているファイル、競合したときの対処をQiitaにまとめました。 記事を投稿しました！ Obsidian Sync代をケチる｜PCとAndroidを Syncthing で無料同期 https://t.co/NBoaQtm3RR #Qiita</description>
-      <pubDate>Fri, 30 Oct 2026 13:50:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/sato_mega33/status/2116165897249505327</guid>
     </item>
   </channel>
 </rss>

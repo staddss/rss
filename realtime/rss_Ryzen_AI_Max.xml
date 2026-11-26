@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Ryzen%20AI%20Max%22</link>
     <description>Latest search results for '"Ryzen AI Max"' on Yahoo! Realtime Search</description>
     <item>
+      <title>ローカルLLMの「思考オフ」、実は仕事で使い分けると速いの知ってた？ Ryzen AI Max + 395のPCでQwen3.6 35B-A3B（Zennのみーさんの実測） ・挨拶や短い返事: 19.2秒が2.4秒に ・定型の計算や論理: オフでも全問正解 ・文字の入れ替え: オフは5回とも誤答。ここはオンで 注意点と使い所をリプで👇 https://t.co/GmqdWLHy3w</title>
+      <link>https://x.com/TORA276990/status/2125877284792127510</link>
+      <description>TORA｜今日のAIニュース3選: ローカルLLMの「思考オフ」、実は仕事で使い分けると速いの知ってた？ Ryzen AI Max + 395のPCでQwen3.6 35B-A3B（Zennのみーさんの実測） ・挨拶や短い返事: 19.2秒が2.4秒に ・定型の計算や論理: オフでも全問正解 ・文字の入れ替え: オフは5回とも誤答。ここはオンで 注意点と使い所をリプで👇 https://t.co/GmqdWLHy3w</description>
+      <pubDate>Thu, 26 Nov 2026 09:00:16 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/TORA276990/status/2125877284792127510</guid>
+    </item>
+    <item>
       <title>GEEKOM A9 Megaがクーポンで10%オフ｜ Ryzen AI Max + 388と64GBメモリでローカルLLMも快適なミニPC https://t.co/k3DECpRLRi</title>
       <link>https://x.com/abone4949/status/2125788510225617057</link>
       <description>abone: GEEKOM A9 Megaがクーポンで10%オフ｜ Ryzen AI Max + 388と64GBメモリでローカルLLMも快適なミニPC https://t.co/k3DECpRLRi</description>
@@ -17,6 +24,13 @@
       <description>AndroPlus: GEEKOM A9 Megaがクーポンで10%オフ｜ Ryzen AI Max + 388と64GBメモリでローカルLLMも快適なミニPC ✅ 64GBユニファイドメモリ搭載 ✅ 35BのLLMが約54tokens/s ✅ USB4×2と4画面出力に対応 https://t.co/PVdR2mD1KB</description>
       <pubDate>Thu, 26 Nov 2026 02:16:16 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/AndroPlus_org/status/2125775616364704019</guid>
+    </item>
+    <item>
+      <title>推論サーバStrataとHermes Agentで作業環境を構築。メモリ128GBの Ryzen AI Max + 395でQwen3.8-Flash-Nextの量子化版をsystemdで常駐させ、ComfyUIでの画像生成やレポート作成を確認。OSSとローカルLLMだけで実用的な結果を得た / StrataとHermes Agentで試すローカルLLM https://t.co/sX5XMMU3Zx https://t.co/92AYczTkzh</title>
+      <link>https://x.com/__su888/status/2125712884931887492</link>
+      <description>su8 / denchu: 推論サーバStrataとHermes Agentで作業環境を構築。メモリ128GBの Ryzen AI Max + 395でQwen3.8-Flash-Nextの量子化版をsystemdで常駐させ、ComfyUIでの画像生成やレポート作成を確認。OSSとローカルLLMだけで実用的な結果を得た / StrataとHermes Agentで試すローカルLLM https://t.co/sX5XMMU3Zx https://t.co/92AYczTkzh</description>
+      <pubDate>Wed, 25 Nov 2026 22:07:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/__su888/status/2125712884931887492</guid>
     </item>
     <item>
       <title>AI NASの専用機を比較したnote記事を更新しました！ Ryzen AI Max + 395とRTX 3090に、NAS内のドキュメント検索の仕組みを構築し、速度と正解率を測定し、まとめた記事です😁 https://t.co/bmFhEBGrb0</title>
@@ -262,20 +276,6 @@
       <description>Hanto｜情シスと個人開発: ローカルLLMで動画作ったらこのレベルが出てきて草。 CPU: AMD Ryzen AI Max + 395 GPU: Radeon 8060S(CPU内蔵) メモリ: 128GB(GPU 64GB / システム 64GB に割り当て) 動画モデル: LTX-2.5(Lightricks、22B distilled、int8) 実行環境: ComfyUI v0.39.2 / ROCm 7.2.1 / PyTorch 2.9.1 https://t.co/cEJoUoDcse</description>
       <pubDate>Sat, 21 Nov 2026 01:41:54 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/Hanto12317190/status/2123955027282972783</guid>
-    </item>
-    <item>
-      <title>AMD Ryzen AI Max + 395（Strix Halo）128GB 環境で Halogen + Qwen3.8-Flash-Next（Q4）を動かして、54.8 Tok/s 出た！☺️ Strix Halo でここまで出れば常用できそう https://t.co/FRVM50IF5z https://t.co/QIRU0cbmjC</title>
-      <link>https://x.com/old_pgmrs_will/status/2123936969608892546</link>
-      <description>いにしえ@高信頼AIニュース"NeuralWire.org"運営｜Will Oldgram: AMD Ryzen AI Max + 395（Strix Halo）128GB 環境で Halogen + Qwen3.8-Flash-Next（Q4）を動かして、54.8 Tok/s 出た！☺️ Strix Halo でここまで出れば常用できそう https://t.co/FRVM50IF5z https://t.co/QIRU0cbmjC</description>
-      <pubDate>Sat, 21 Nov 2026 00:30:09 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/old_pgmrs_will/status/2123936969608892546</guid>
-    </item>
-    <item>
-      <title>GMKtec EVO-X2（ Ryzen AI Max + 395） EVO-X2 のメモリは後から増やせない。LPDDR5X のオンボードで、64GB か 128GB かは買うときに決まる。容量は動かしたいモデルの大きさから先に決める。 https://t.co/aoR361IKfw</title>
-      <link>https://x.com/kata_ya_jp/status/2123910508659302768</link>
-      <description>型屋｜そのまま使える仕事と暮らしの型: GMKtec EVO-X2（ Ryzen AI Max + 395） EVO-X2 のメモリは後から増やせない。LPDDR5X のオンボードで、64GB か 128GB かは買うときに決まる。容量は動かしたいモデルの大きさから先に決める。 https://t.co/aoR361IKfw</description>
-      <pubDate>Fri, 20 Nov 2026 22:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kata_ya_jp/status/2123910508659302768</guid>
     </item>
   </channel>
 </rss>
