@@ -5,6 +5,34 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>おうちのネットワークを整理してて気づいたんだけど、UniFiの組み込み WireGuard サーバってPolicy-Based Routeの対象にできないんだね 別途VLAN切ってVMに WireGuard 鯖立ててあげるのが一番綺麗そうだけど、うーんって感じ どちらにせよ全体的に微妙だ</title>
+      <link>https://x.com/mai_llj/status/2126295774573281287</link>
+      <description>ちゃんまい: おうちのネットワークを整理してて気づいたんだけど、UniFiの組み込み WireGuard サーバってPolicy-Based Routeの対象にできないんだね 別途VLAN切ってVMに WireGuard 鯖立ててあげるのが一番綺麗そうだけど、うーんって感じ どちらにせよ全体的に微妙だ</description>
+      <pubDate>Fri, 27 Nov 2026 12:43:11 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mai_llj/status/2126295774573281287</guid>
+    </item>
+    <item>
+      <title>マイコンライトニングノード なぜか着信せず。ピアとの接続がバタバタしてて謎。 WiFiでも WireGuard でもなさそうな。 SDカードにログ吐けるようにして後でしっかり分析できるようにするか。</title>
+      <link>https://x.com/tnky2929/status/2126276487150207129</link>
+      <description>tanakei: マイコンライトニングノード なぜか着信せず。ピアとの接続がバタバタしてて謎。 WiFiでも WireGuard でもなさそうな。 SDカードにログ吐けるようにして後でしっかり分析できるようにするか。</description>
+      <pubDate>Fri, 27 Nov 2026 11:26:33 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tnky2929/status/2126276487150207129</guid>
+    </item>
+    <item>
+      <title>@xkf_dev 👀 そうなのか WARP 用の IP range が公開されていないのにすごいことできてますね.... MASQUE は使いました？ Wireguard なら弊学でも遮断されるんですが....</title>
+      <link>https://x.com/tukimin_vrc/status/2126268809409630297</link>
+      <description>つきみん: @xkf_dev 👀 そうなのか WARP 用の IP range が公開されていないのにすごいことできてますね.... MASQUE は使いました？ Wireguard なら弊学でも遮断されるんですが....</description>
+      <pubDate>Fri, 27 Nov 2026 10:56:02 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tukimin_vrc/status/2126268809409630297</guid>
+    </item>
+    <item>
+      <title>@Z3Nchamaaa Connection Method が Wireguard になってませんか？ MASQUE に切り替えると通信できますよ</title>
+      <link>https://x.com/tukimin_vrc/status/2126170276610334987</link>
+      <description>つきみん: @Z3Nchamaaa Connection Method が Wireguard になってませんか？ MASQUE に切り替えると通信できますよ</description>
+      <pubDate>Fri, 27 Nov 2026 04:24:30 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tukimin_vrc/status/2126170276610334987</guid>
+    </item>
+    <item>
       <title>AdGuard で WireGuard の速度むっちゃ下がる。</title>
       <link>https://x.com/ShilverJagd/status/2125975415399596115</link>
       <description>Shilver@Garuda: AdGuard で WireGuard の速度むっちゃ下がる。</description>
@@ -248,34 +276,6 @@
       <description>Cyberdark Impact: 📰 Gigazine VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 https://t.co/jo8Xo8PPPa #Gigazine #テクノロジー #IT</description>
       <pubDate>Fri, 20 Nov 2026 14:28:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/kenebeii/status/2123785510422528052</guid>
-    </item>
-    <item>
-      <title>VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 https://t.co/OK8ZpHyP99</title>
-      <link>https://x.com/gigazine/status/2123778490088513697</link>
-      <description>GIGAZINE(ギガジン): VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 https://t.co/OK8ZpHyP99</description>
-      <pubDate>Fri, 20 Nov 2026 14:00:24 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/gigazine/status/2123778490088513697</guid>
-    </item>
-    <item>
-      <title>@myvoicejp VPN選びで一番重視すべきは「第三者監査済みのノーログポリシー」です。これがないとプロバイダがあなたのデータを記録できるため。 簡単に： ・ノーログ：接続履歴や閲覧記録を一切残さない。監査で証明されたものを選ぶ。 ・暗号化：AES-256などで通信を保護。 WireGuard が安全で高速。</title>
-      <link>https://x.com/grok/status/2123733207489102193</link>
-      <description>Grok: @myvoicejp VPN選びで一番重視すべきは「第三者監査済みのノーログポリシー」です。これがないとプロバイダがあなたのデータを記録できるため。 簡単に： ・ノーログ：接続履歴や閲覧記録を一切残さない。監査で証明されたものを選ぶ。 ・暗号化：AES-256などで通信を保護。 WireGuard が安全で高速。</description>
-      <pubDate>Fri, 20 Nov 2026 11:00:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/grok/status/2123733207489102193</guid>
-    </item>
-    <item>
-      <title>@FDCHonolulu まあ，俺のスマホにやましい情報なんて皆無なんで自由に見てくださいって感じですね．本当にやましいことをやるならGraphenOS入れて Wireguard 繋げる程度のこともしないのは危機感がなさすぎると思いますね</title>
-      <link>https://x.com/szkhdms/status/2123670866441736369</link>
-      <description>すーさん@3日目南1 q08a: @FDCHonolulu まあ，俺のスマホにやましい情報なんて皆無なんで自由に見てくださいって感じですね．本当にやましいことをやるならGraphenOS入れて Wireguard 繋げる程度のこともしないのは危機感がなさすぎると思いますね</description>
-      <pubDate>Fri, 20 Nov 2026 06:52:45 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/szkhdms/status/2123670866441736369</guid>
-    </item>
-    <item>
-      <title>セルフホストできる tailscale みたいな感じ？ / “GitHub - netbirdio/netbird: Connect your devices, users, and agents into a secure WireGuard ®-based overlay network with SSO, MFA and granular access controls.” https://t.co/k8UgnWoeds</title>
-      <link>https://x.com/ngyuki/status/2123649201481629813</link>
-      <description>ngyuki: セルフホストできる tailscale みたいな感じ？ / “GitHub - netbirdio/netbird: Connect your devices, users, and agents into a secure WireGuard ®-based overlay network with SSO, MFA and granular access controls.” https://t.co/k8UgnWoeds</description>
-      <pubDate>Fri, 20 Nov 2026 05:26:39 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ngyuki/status/2123649201481629813</guid>
     </item>
   </channel>
 </rss>

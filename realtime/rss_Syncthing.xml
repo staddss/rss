@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '"Syncthing"' on Yahoo! Realtime Search</description>
     <item>
+      <title>スマホとPCでプレイリストを共有できるようにm3u8でファイルを作成して syncthing で自動ファイル共有をさせているあとはPC側でiTunesでプレイリストとして読み込めるようにするだけや</title>
+      <link>https://x.com/t_a_k_e1220/status/2125961583864275290</link>
+      <description>take: スマホとPCでプレイリストを共有できるようにm3u8でファイルを作成して syncthing で自動ファイル共有をさせているあとはPC側でiTunesでプレイリストとして読み込めるようにするだけや</description>
+      <pubDate>Thu, 26 Nov 2026 14:35:14 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_a_k_e1220/status/2125961583864275290</guid>
+    </item>
+    <item>
       <title>Syncthing 、同期相手の探索を分散化する案。対応可能なPCも探索を支える https://t.co/Ho4SAA4BtD ファイル同期ソフト Syncthing で、同期相手の探索を利用端末が分担する案が示された。</title>
       <link>https://x.com/joho_no_todai/status/2125896195193352247</link>
       <description>情報の灯台: Syncthing 、同期相手の探索を分散化する案。対応可能なPCも探索を支える https://t.co/Ho4SAA4BtD ファイル同期ソフト Syncthing で、同期相手の探索を利用端末が分担する案が示された。</description>
@@ -269,13 +276,6 @@
       <description>tanelog: Syncthing を 2.x に上げるとき、旧データベースは移行後に消えますか。 測った範囲では消えませんでした。大きさは du -sk &lt;設定ディレクトリ&gt;/index-v0.14.0 で、読み取りだけで見られます。</description>
       <pubDate>Mon, 02 Nov 2026 07:00:41 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/tane_log/status/2117149883870372132</guid>
-    </item>
-    <item>
-      <title>Syncthing 1.29.5 から 2.1.7 へ上げる方へ。10万ファイルの移行は、1 回の測定で 2分2秒でした。移行の速さは、1 秒あたり約 1,200 ファイルから約 800 ファイルに落ちました。</title>
-      <link>https://x.com/tane_log/status/2117149828820181479</link>
-      <description>tanelog: Syncthing 1.29.5 から 2.1.7 へ上げる方へ。10万ファイルの移行は、1 回の測定で 2分2秒でした。移行の速さは、1 秒あたり約 1,200 ファイルから約 800 ファイルに落ちました。</description>
-      <pubDate>Mon, 02 Nov 2026 07:00:28 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tane_log/status/2117149828820181479</guid>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22rclone%22</link>
     <description>Latest search results for '"rclone"' on Yahoo! Realtime Search</description>
     <item>
+      <title>id なしで rclone で引っ付けてる Google Drive のサービス終了しちゃうんだ</title>
+      <link>https://x.com/sui4u5/status/2125970498786033735</link>
+      <description>水すこ⚙️9廻天: id なしで rclone で引っ付けてる Google Drive のサービス終了しちゃうんだ</description>
+      <pubDate>Thu, 26 Nov 2026 15:10:40 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/sui4u5/status/2125970498786033735</guid>
+    </item>
+    <item>
       <title>Raspberry Piにテープデバイス接続してバックアップする話、結局、iSCSIで他のサーバにテープを直接触らせる方法に落ち着きました。 rclone は一定容量以上になると速度低下が著しく、バックアップ用途では不向きでした。</title>
       <link>https://x.com/MR_NiNi/status/2125234299830239396</link>
       <description>MR.NiNi: Raspberry Piにテープデバイス接続してバックアップする話、結局、iSCSIで他のサーバにテープを直接触らせる方法に落ち着きました。 rclone は一定容量以上になると速度低下が著しく、バックアップ用途では不向きでした。</description>
@@ -269,13 +276,6 @@
       <description>ubunrar: これ、AI もちょっと気を利かせてくれてもよかったとも言える件だが、根本原因は AI のハルシネーションじゃなくて rclone のバグだよな https://t.co/M0yW2E8Jym</description>
       <pubDate>Tue, 03 Nov 2026 23:31:40 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ubunrar/status/2117761658412257433</guid>
-    </item>
-    <item>
-      <title>気になって調べてみましたがバグではないような？ ゴミ箱にないフォルダが表示される問題 https://t.co/wKBaqZgCdN 例えば「TEST」というフォルダの中に「A.TXT」があってA.TXTだけ削除したら、 rclone から「TEST」というフォルダが見えるという話で、そうしないとゴミ箱から消せない。 #Gemini #AI https://t.co/iiCR15Br90 https://t.co/DmAWoBD7zo</title>
-      <link>https://x.com/MF235XBR/status/2117761032861155434</link>
-      <description>MF235: 気になって調べてみましたがバグではないような？ ゴミ箱にないフォルダが表示される問題 https://t.co/wKBaqZgCdN 例えば「TEST」というフォルダの中に「A.TXT」があってA.TXTだけ削除したら、 rclone から「TEST」というフォルダが見えるという話で、そうしないとゴミ箱から消せない。 #Gemini #AI https://t.co/iiCR15Br90 https://t.co/DmAWoBD7zo</description>
-      <pubDate>Tue, 03 Nov 2026 23:29:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/MF235XBR/status/2117761032861155434</guid>
     </item>
   </channel>
 </rss>
