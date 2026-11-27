@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>AdGuard で WireGuard の速度むっちゃ下がる。</title>
+      <link>https://x.com/ShilverJagd/status/2125975415399596115</link>
+      <description>Shilver@Garuda: AdGuard で WireGuard の速度むっちゃ下がる。</description>
+      <pubDate>Thu, 26 Nov 2026 15:30:12 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ShilverJagd/status/2125975415399596115</guid>
+    </item>
+    <item>
       <title>WireGuard 用のUDPポート（デフォルトから変更済み）以外のポートはあけたくない</title>
       <link>https://x.com/jp7wfp/status/2125885537693389097</link>
       <description>ののゆー: WireGuard 用のUDPポート（デフォルトから変更済み）以外のポートはあけたくない</description>
@@ -269,13 +276,6 @@
       <description>ngyuki: セルフホストできる tailscale みたいな感じ？ / “GitHub - netbirdio/netbird: Connect your devices, users, and agents into a secure WireGuard ®-based overlay network with SSO, MFA and granular access controls.” https://t.co/k8UgnWoeds</description>
       <pubDate>Fri, 20 Nov 2026 05:26:39 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/ngyuki/status/2123649201481629813</guid>
-    </item>
-    <item>
-      <title>WireGuard ベースでセキュアなメッシュVPNを簡単に構築できるオープンソースツールっぽい リモート環境の端末同士を安全につなぎたいときに使えそうかも yug1224 starred netbirdio/netbird https://t.co/JezKnYBrwL</title>
-      <link>https://x.com/yug1224/status/2123346119992221914</link>
-      <description>ぷーじ: WireGuard ベースでセキュアなメッシュVPNを簡単に構築できるオープンソースツールっぽい リモート環境の端末同士を安全につなぎたいときに使えそうかも yug1224 starred netbirdio/netbird https://t.co/JezKnYBrwL</description>
-      <pubDate>Thu, 19 Nov 2026 09:22:19 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/yug1224/status/2123346119992221914</guid>
     </item>
   </channel>
 </rss>
