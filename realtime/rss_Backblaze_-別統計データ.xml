@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Backblaze%22%20-%E5%88%A5%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF</link>
     <description>Latest search results for '"Backblaze" -別統計データ' on Yahoo! Realtime Search</description>
     <item>
+      <title>今日のAI系ニュース、現場的には「データどこまで信用していいか」って話が一番刺さった ① Backblaze が顧客情報を広告主と共有してた件 → バックアップ・保存データ自体は共有しないと説明。クラウド使う側は「何が共有対象か」契約・規約を自分でも確認する癖つけた方がいい</title>
+      <link>https://x.com/ai_ningen777/status/2125728228619022592</link>
+      <description>FC｜AIを仕事と暮らしで使う人: 今日のAI系ニュース、現場的には「データどこまで信用していいか」って話が一番刺さった ① Backblaze が顧客情報を広告主と共有してた件 → バックアップ・保存データ自体は共有しないと説明。クラウド使う側は「何が共有対象か」契約・規約を自分でも確認する癖つけた方がいい</description>
+      <pubDate>Wed, 25 Nov 2026 23:07:58 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/ai_ningen777/status/2125728228619022592</guid>
+    </item>
+    <item>
       <title>プライバシーポリシーの更新を受け、 Backblaze の顧客が個人データの販売や共有を懸念 https://t.co/lIeajZsL9f</title>
       <link>https://x.com/DerkiesAd001/status/2124843347500278038</link>
       <description>HackerNews要約※非公式: プライバシーポリシーの更新を受け、 Backblaze の顧客が個人データの販売や共有を懸念 https://t.co/lIeajZsL9f</description>
@@ -80,13 +87,6 @@
       <description>GIGAZINE(ギガジン): ぶっ壊れやすいHDDはどれなのかが22万台以上の故障率データでわかるレポート「 Backblaze Drive Stats for Q3 2022」、信頼度が高いHDD選びにお役立ち(2022) https://t.co/FJrOQDSmYs</description>
       <pubDate>Mon, 02 Nov 2026 05:30:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gigazine/status/2117127072703246422</guid>
-    </item>
-    <item>
-      <title>コスト削減目的でレン鯖の余っているストレージを別サーバのバックアップ用途に使いがちだけど、AD以上にリスキーかも。やっぱケチらずにS3や backblaze 使うべきなんやろか。</title>
-      <link>https://x.com/katoSat/status/2115262961682108729</link>
-      <description>Satoshi Kato: コスト削減目的でレン鯖の余っているストレージを別サーバのバックアップ用途に使いがちだけど、AD以上にリスキーかも。やっぱケチらずにS3や backblaze 使うべきなんやろか。</description>
-      <pubDate>Wed, 28 Oct 2026 02:02:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/katoSat/status/2115262961682108729</guid>
     </item>
   </channel>
 </rss>

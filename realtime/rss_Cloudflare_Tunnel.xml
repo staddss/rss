@@ -5,6 +5,20 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Cloudflare%20Tunnel%22</link>
     <description>Latest search results for '"Cloudflare Tunnel"' on Yahoo! Realtime Search</description>
     <item>
+      <title>・ Cloudflare tunnel 移植完了 ・ハートビートと自動復帰設定完了 DockerのインストールはAIに丸投げで完了。</title>
+      <link>https://x.com/Suna_gadget/status/2126116732918247442</link>
+      <description>すなガジェ: ・ Cloudflare tunnel 移植完了 ・ハートビートと自動復帰設定完了 DockerのインストールはAIに丸投げで完了。</description>
+      <pubDate>Fri, 27 Nov 2026 00:51:45 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Suna_gadget/status/2126116732918247442</guid>
+    </item>
+    <item>
+      <title>Kyvernoで cloudflare - tunnel -ingress-controllerのリソースに対応するCilium Ingressのリソースを生やしてるだけだよ</title>
+      <link>https://x.com/mai_llj/status/2126028800131760146</link>
+      <description>ちゃんまい: Kyvernoで cloudflare - tunnel -ingress-controllerのリソースに対応するCilium Ingressのリソースを生やしてるだけだよ</description>
+      <pubDate>Thu, 26 Nov 2026 19:02:20 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mai_llj/status/2126028800131760146</guid>
+    </item>
+    <item>
       <title>ServerOSが管理画面までOSS化。MCPと Cloudflare Tunnel にも対応し、AIによるサーバー管理が身近になった。 便利になる一方、既存のIT企業には新たな競争圧力が生まれる。 https://t.co/2XahxC7nk3</title>
       <link>https://x.com/superdoccimo/status/2125954117197775338</link>
       <description>美濃加茂まむ: ServerOSが管理画面までOSS化。MCPと Cloudflare Tunnel にも対応し、AIによるサーバー管理が身近になった。 便利になる一方、既存のIT企業には新たな競争圧力が生まれる。 https://t.co/2XahxC7nk3</description>
@@ -262,20 +276,6 @@
       <description>GIGAZINE(ギガジン): メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「 Cloudflare Tunnel ＋Access」を設定してみた https://t.co/mdGSsMamVP</description>
       <pubDate>Wed, 18 Nov 2026 15:45:18 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/gigazine/status/2123080114497851540</guid>
-    </item>
-    <item>
-      <title>Cloudflare Tunnel を使うと PPPoE 接続である必要がなくなったので、通常デバイスを IPoE 、公開サーバー群を PPPoE とするデュアル構成の意味がなくなった気がする とはいえ通常のホームネットワークとコンテナ群のネットワーク分離は残る感じ</title>
-      <link>https://x.com/96sc_/status/2123030420828905965</link>
-      <description>𝕊𝕖𝕞𝕚𝕔𝕠𝕝𝕠𝕟: Cloudflare Tunnel を使うと PPPoE 接続である必要がなくなったので、通常デバイスを IPoE 、公開サーバー群を PPPoE とするデュアル構成の意味がなくなった気がする とはいえ通常のホームネットワークとコンテナ群のネットワーク分離は残る感じ</description>
-      <pubDate>Wed, 18 Nov 2026 12:27:50 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/96sc_/status/2123030420828905965</guid>
-    </item>
-    <item>
-      <title>そういえば Cloudflare Tunnel のおかげで、もうオリジンのファイアウォールでCloudflareのIPだけ許可〜みたいな古くさい手法しなくてよくなったのか SSHも開けなくていいし</title>
-      <link>https://x.com/cheena_2nd/status/2123026946888224881</link>
-      <description>② Cheena ②: そういえば Cloudflare Tunnel のおかげで、もうオリジンのファイアウォールでCloudflareのIPだけ許可〜みたいな古くさい手法しなくてよくなったのか SSHも開けなくていいし</description>
-      <pubDate>Wed, 18 Nov 2026 12:14:02 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/cheena_2nd/status/2123026946888224881</guid>
     </item>
   </channel>
 </rss>
