@@ -5,6 +5,55 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22WireGuard%22</link>
     <description>Latest search results for '"WireGuard"' on Yahoo! Realtime Search</description>
     <item>
+      <title>Wireguard で自作VPN作ってるけどMAC1の計算あたりの理解にとても時間がかかった</title>
+      <link>https://x.com/UJGTNQEM/status/2126597558273470551</link>
+      <description>なつき@ITインフラ1年生: Wireguard で自作VPN作ってるけどMAC1の計算あたりの理解にとても時間がかかった</description>
+      <pubDate>Sat, 28 Nov 2026 08:42:22 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/UJGTNQEM/status/2126597558273470551</guid>
+    </item>
+    <item>
+      <title>TailscaleとOrcaの組み合わせ試したけど、 WireGuard で繋がっているとは言っても、メインのマシンで動かすにはちょっと恐ろしいな。</title>
+      <link>https://x.com/t_kis/status/2126594484846928370</link>
+      <description>tkis: TailscaleとOrcaの組み合わせ試したけど、 WireGuard で繋がっているとは言っても、メインのマシンで動かすにはちょっと恐ろしいな。</description>
+      <pubDate>Sat, 28 Nov 2026 08:30:10 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/t_kis/status/2126594484846928370</guid>
+    </item>
+    <item>
+      <title>いまスマホに ・電気メガネ（Xreal One pro） ・Bluetooth キーボードとマウス（keys-to-go2 と Rapoo M600 mini) を繋いで WireGuard +Moonlight で家のPCを操作してるんだけど、電池がゴリゴリ減る。もう15%切ってるよヤベぇｗ</title>
+      <link>https://x.com/yunzojm_open/status/2126593206871810296</link>
+      <description>ゆんぞ/Yunzo: いまスマホに ・電気メガネ（Xreal One pro） ・Bluetooth キーボードとマウス（keys-to-go2 と Rapoo M600 mini) を繋いで WireGuard +Moonlight で家のPCを操作してるんだけど、電池がゴリゴリ減る。もう15%切ってるよヤベぇｗ</description>
+      <pubDate>Sat, 28 Nov 2026 08:25:05 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/yunzojm_open/status/2126593206871810296</guid>
+    </item>
+    <item>
+      <title>ずーと寝かしてあった Wireguard 構築を終わらせた！ わざわざ専用にMiniPC買ってたのに1年ぐらい寝かしてました... ついでに自宅内向けキャッシュDNSとNTP、それらの死活監視も入れた！！</title>
+      <link>https://x.com/Tayutafu_VRC/status/2126568005614329927</link>
+      <description>Tayu: ずーと寝かしてあった Wireguard 構築を終わらせた！ わざわざ専用にMiniPC買ってたのに1年ぐらい寝かしてました... ついでに自宅内向けキャッシュDNSとNTP、それらの死活監視も入れた！！</description>
+      <pubDate>Sat, 28 Nov 2026 06:44:56 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/Tayutafu_VRC/status/2126568005614329927</guid>
+    </item>
+    <item>
+      <title>と思ったがサーバーは応答を返してるな Fold8の wireguard が変なだけか</title>
+      <link>https://x.com/mizktw/status/2126553424330358960</link>
+      <description>水: と思ったがサーバーは応答を返してるな Fold8の wireguard が変なだけか</description>
+      <pubDate>Sat, 28 Nov 2026 05:47:00 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/mizktw/status/2126553424330358960</guid>
+    </item>
+    <item>
+      <title>wireguard で自宅のtermuxに繋げるようにしてたのは元々だったんだけど、ipフォワードを追加してブラウザなんかからも飛べるように……する途中でこだわり的な寄り道や知識的な寄り道したりした ともかく、これでおうちの秘宝フォルダの中身を簡単に見られるようになったって、ワケ。 https://t.co/WRi8D9yAwK</title>
+      <link>https://x.com/volatilego/status/2126536640869089328</link>
+      <description>暮等たいる: wireguard で自宅のtermuxに繋げるようにしてたのは元々だったんだけど、ipフォワードを追加してブラウザなんかからも飛べるように……する途中でこだわり的な寄り道や知識的な寄り道したりした ともかく、これでおうちの秘宝フォルダの中身を簡単に見られるようになったって、ワケ。 https://t.co/WRi8D9yAwK</description>
+      <pubDate>Sat, 28 Nov 2026 04:40:18 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/volatilego/status/2126536640869089328</guid>
+    </item>
+    <item>
+      <title>povoでは大きいパケットが通らないらしく、 WireGuard のMTU=1420ではダメだった。 普段povo使わないから気づかなかった。週末無制限にしたかったのでpovo使ってた。 MTU=1280にしたらpovoでもピアとの接続が安定した。 よかった</title>
+      <link>https://x.com/tnky2929/status/2126317008346345878</link>
+      <description>tanakei: povoでは大きいパケットが通らないらしく、 WireGuard のMTU=1420ではダメだった。 普段povo使わないから気づかなかった。週末無制限にしたかったのでpovo使ってた。 MTU=1280にしたらpovoでもピアとの接続が安定した。 よかった</description>
+      <pubDate>Fri, 27 Nov 2026 14:07:34 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tnky2929/status/2126317008346345878</guid>
+    </item>
+    <item>
       <title>おうちのネットワークを整理してて気づいたんだけど、UniFiの組み込み WireGuard サーバってPolicy-Based Routeの対象にできないんだね 別途VLAN切ってVMに WireGuard 鯖立ててあげるのが一番綺麗そうだけど、うーんって感じ どちらにせよ全体的に微妙だ</title>
       <link>https://x.com/mai_llj/status/2126295774573281287</link>
       <description>ちゃんまい: おうちのネットワークを整理してて気づいたんだけど、UniFiの組み込み WireGuard サーバってPolicy-Based Routeの対象にできないんだね 別途VLAN切ってVMに WireGuard 鯖立ててあげるのが一番綺麗そうだけど、うーんって感じ どちらにせよ全体的に微妙だ</description>
@@ -227,55 +276,6 @@
       <description>二子玉川のデータサイエンティスト: WireGuard やOpenVPNを1画面でまとめて管理できる「Vortix」ってツールがあるみたい。速度や遅延の監視、漏えい検出、切断時の通信遮断まで無料でできるっぽい https://t.co/bGg10GcztC</description>
       <pubDate>Fri, 20 Nov 2026 23:33:03 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/NikotamaDsPapa/status/2123922599717564737</guid>
-    </item>
-    <item>
-      <title>VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 - GIGAZINE https://t.co/sFEmRoTFoq #kzm</title>
-      <link>https://x.com/kzbrain/status/2123917685407051923</link>
-      <description>Kazuhide Senda (^-^ゞ: VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 - GIGAZINE https://t.co/sFEmRoTFoq #kzm</description>
-      <pubDate>Fri, 20 Nov 2026 23:13:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kzbrain/status/2123917685407051923</guid>
-    </item>
-    <item>
-      <title>VPN通信の管理が複雑になる問題を解決するために、「Vortix」というツールが登場しています。Vortixは、 WireGuard やOpenVPNなどの接続管理を一つの画面にまとめます。 #生成AI #AI #AIニュース https://t.co/jblC8phkRT</title>
-      <link>https://x.com/ai_develop_conn/status/2123911899276583232</link>
-      <description>AI開発コネクト: VPN通信の管理が複雑になる問題を解決するために、「Vortix」というツールが登場しています。Vortixは、 WireGuard やOpenVPNなどの接続管理を一つの画面にまとめます。 #生成AI #AI #AIニュース https://t.co/jblC8phkRT</description>
-      <pubDate>Fri, 20 Nov 2026 22:50:31 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/ai_develop_conn/status/2123911899276583232</guid>
-    </item>
-    <item>
-      <title>そこで WireGuard ・OpenVPNなどの接続管理を一つの画面にまとめ、通信速度・遅延のリアルタイム監視・情報漏えいの検出・VPN切断時の通信遮断まで行える無料のオープンソースツールが「Vortix」です。</title>
-      <link>https://x.com/chibafx/status/2123846772170916056</link>
-      <description>chibaf: そこで WireGuard ・OpenVPNなどの接続管理を一つの画面にまとめ、通信速度・遅延のリアルタイム監視・情報漏えいの検出・VPN切断時の通信遮断まで行える無料のオープンソースツールが「Vortix」です。</description>
-      <pubDate>Fri, 20 Nov 2026 18:31:44 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chibafx/status/2123846772170916056</guid>
-    </item>
-    <item>
-      <title>VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 - GIGAZINE https://t.co/6eEim2w2Py</title>
-      <link>https://x.com/chibafx/status/2123846630231445901</link>
-      <description>chibaf: VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 - GIGAZINE https://t.co/6eEim2w2Py</description>
-      <pubDate>Fri, 20 Nov 2026 18:31:10 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/chibafx/status/2123846630231445901</guid>
-    </item>
-    <item>
-      <title>RDゲートウェイの構築、計画すればするほど大変そうだわ。 今週は諦めよう。 それより、 WireGuard で接続するモバイルルータでのアクセスを計画した方が楽だな。 そうしよう</title>
-      <link>https://x.com/wata2candy/status/2123845827915665644</link>
-      <description>Kohei Sato: RDゲートウェイの構築、計画すればするほど大変そうだわ。 今週は諦めよう。 それより、 WireGuard で接続するモバイルルータでのアクセスを計画した方が楽だな。 そうしよう</description>
-      <pubDate>Fri, 20 Nov 2026 18:27:59 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/wata2candy/status/2123845827915665644</guid>
-    </item>
-    <item>
-      <title>実家から自宅にtailscale でアクセス出来なくて焦ったけれど、キー更新で再ログインした際にタグが外れて、それでACLも外れた模様。 WireGuard も残しておいて良かった。</title>
-      <link>https://x.com/tshira/status/2123826325844869253</link>
-      <description>tshira: 実家から自宅にtailscale でアクセス出来なくて焦ったけれど、キー更新で再ログインした際にタグが外れて、それでACLも外れた模様。 WireGuard も残しておいて良かった。</description>
-      <pubDate>Fri, 20 Nov 2026 17:10:29 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tshira/status/2123826325844869253</guid>
-    </item>
-    <item>
-      <title>📰 Gigazine VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 https://t.co/jo8Xo8PPPa #Gigazine #テクノロジー #IT</title>
-      <link>https://x.com/kenebeii/status/2123785510422528052</link>
-      <description>Cyberdark Impact: 📰 Gigazine VPN通信に使う WireGuard やOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載 https://t.co/jo8Xo8PPPa #Gigazine #テクノロジー #IT</description>
-      <pubDate>Fri, 20 Nov 2026 14:28:18 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/kenebeii/status/2123785510422528052</guid>
     </item>
   </channel>
 </rss>
