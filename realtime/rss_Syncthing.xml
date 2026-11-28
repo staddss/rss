@@ -5,6 +5,13 @@
     <link>https://search.yahoo.co.jp/realtime/search?p=%22Syncthing%22</link>
     <description>Latest search results for '"Syncthing"' on Yahoo! Realtime Search</description>
     <item>
+      <title>@imoni778G_AMD NAS欲しいけどまだ金ないから Syncthing で我慢</title>
+      <link>https://x.com/tohto_ch/status/2126320131135676576</link>
+      <description>とーとー: @imoni778G_AMD NAS欲しいけどまだ金ないから Syncthing で我慢</description>
+      <pubDate>Fri, 27 Nov 2026 14:19:59 +0000</pubDate>
+      <guid isPermaLink="true">https://x.com/tohto_ch/status/2126320131135676576</guid>
+    </item>
+    <item>
       <title>スマホとPCでプレイリストを共有できるようにm3u8でファイルを作成して syncthing で自動ファイル共有をさせているあとはPC側でiTunesでプレイリストとして読み込めるようにするだけや</title>
       <link>https://x.com/t_a_k_e1220/status/2125961583864275290</link>
       <description>take: スマホとPCでプレイリストを共有できるようにm3u8でファイルを作成して syncthing で自動ファイル共有をさせているあとはPC側でiTunesでプレイリストとして読み込めるようにするだけや</description>
@@ -269,13 +276,6 @@
       <description>中島 新, Ph.D.: Win2台とUbuntu1台の計3台のPCをChrome Remote Desktopで切り替えながら Syncthing でフォルダを共有して使っている。3台のPC全て異なるアカウントでSakana Chatにログインしているが、心なしかFugu Maxの利用制限が来るのが早い気がする。</description>
       <pubDate>Tue, 03 Nov 2026 19:35:35 +0000</pubDate>
       <guid isPermaLink="true">https://x.com/mitterlinzel/status/2117702246666522691</guid>
-    </item>
-    <item>
-      <title>Syncthing を 2.x に上げるとき、旧データベースは移行後に消えますか。 測った範囲では消えませんでした。大きさは du -sk &lt;設定ディレクトリ&gt;/index-v0.14.0 で、読み取りだけで見られます。</title>
-      <link>https://x.com/tane_log/status/2117149883870372132</link>
-      <description>tanelog: Syncthing を 2.x に上げるとき、旧データベースは移行後に消えますか。 測った範囲では消えませんでした。大きさは du -sk &lt;設定ディレクトリ&gt;/index-v0.14.0 で、読み取りだけで見られます。</description>
-      <pubDate>Mon, 02 Nov 2026 07:00:41 +0000</pubDate>
-      <guid isPermaLink="true">https://x.com/tane_log/status/2117149883870372132</guid>
     </item>
   </channel>
 </rss>
